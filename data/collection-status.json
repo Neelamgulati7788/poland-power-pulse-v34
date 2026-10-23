@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-23T10:05:04+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-23T10:05:04+00:00",
+  "status": "partial",
+  "successfulSources": 5,
+  "totalSources": 7,
+  "newItems": 0,
+  "retainedItems": 19,
+  "latestPublicationDate": "2026-10-20",
+  "sources": [
+    {
+      "source": "Baltic Wind",
+      "url": "https://balticwind.eu/feed/",
+      "status": "success",
+      "entriesRead": 100,
+      "matched": 16
+    },
+    {
+      "source": "CEEnergyNews",
+      "url": "https://ceenergynews.com/feed/",
+      "status": "error",
+      "error": "mismatched tag: line 46, column 2"
+    },
+    {
+      "source": "ESS News",
+      "url": "https://www.ess-news.com/feed/",
+      "status": "success",
+      "entriesRead": 10,
+      "matched": 0
+    },
+    {
+      "source": "Notes From Poland",
+      "url": "https://notesfrompoland.com/feed/",
+      "status": "success",
+      "entriesRead": 12,
+      "matched": 0
+    },
+    {
+      "source": "Renewables Now",
+      "url": "https://renewablesnow.com/news/rss/",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/rss",
+      "status": "success",
+      "entriesRead": 45,
+      "matched": 3
+    },
+    {
+      "source": "pv magazine",
+      "url": "https://www.pv-magazine.com/feed/",
+      "status": "success",
+      "entriesRead": 10,
+      "matched": 0
+    }
+  ],
+  "scope": "English RSS/Atom headlines only; recent feed windows; no automated translation or analyst review."
+}
