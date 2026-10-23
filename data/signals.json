@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:36:01+00:00",
+  "updated": "2026-10-23T20:04:19+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -912,7 +912,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlpkMk9ZMlVBVGdrS3ZBVloxWjR6ZzZLZ2Y3NW4yQjZGX1lLM0lmWHluNjdhSHFuYjZtZzZnZHZwbzd6WnRfeThDdk5zXzQ2Uk5qaTVWMVFtdUNhVnowbUVJRDc0eS1XeDVtZFVHZ3ZIdGJRZHRsbmZQekVTOG04U2RaNWF5UXNkeTdpYnpRX3kxZE1ubnVPd3liZlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlrNVVTV2R1bmJYamI1OW1HVE4xR21DTjZiekFhZ0ZVT1RuZFVCdnVNZUtCTU9mdVB0ZVJsYlJYSlg5TDdiQ3duSG5lTEpRZXpXcEZ1aGwxbEpOeHAwYUV1OGF3QUNSWC1PS1gwcnZiblpIRlBoUC16dE5EX0lKODJmX3ZfUzJSYnA3clF1YVBnSXhlVXBiaF85aVk5UkJOY1VVMDh5MGNDSngySi1PYjE1dlFpWUp5V1NzWU5EQ0VrUlk?oc=5",
           "type": "press"
         }
       ],
@@ -920,7 +920,7 @@
         "PGE"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -1302,6 +1302,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6d3bdfd1b467164c17",
+      "date": "2026-10-23",
+      "title": "W Koninie do spółek miejskich trafi energia produkowana z odpadów",
+      "title_pl": "W Koninie do spółek miejskich trafi energia produkowana z odpadów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWJWSFg0RnplYVBzaFBaaS1zWWY1cTgwQzRveDFscks2SktmdkRrTWtvYmtIaUFITGt3SnNmNkxaUUFQUnlzRlozT282NW1CMHdJWFpPVGt4OXk3YWpBUjRkRWFISUtlZTd6dGRneHJna19mODlSNjJHcTNjUk1fOTFkb1FsWWpPWUQ4U3NxblRxaDJBMkQ2RXBnVlBFQm12NzFuSGN4Tm5vODdfeGtCTGJ2YlRLRElKUUhhWmVZbEg1dnhBLTRLdUdVRlFTcEhiWkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
