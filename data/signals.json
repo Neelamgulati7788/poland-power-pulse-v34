@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:46:09+00:00",
+  "updated": "2026-10-23T10:47:30+00:00",
   "signals": [
     {
       "id": "src-ffe2aa14d068b15126",
@@ -1041,6 +1041,36 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-500ec66422ef156f95",
+      "date": "2026-10-23",
+      "title": "PGE EO wybrała Elektrotim jako wykonawcę czterech nowych magazynów energii",
+      "title_pl": "PGE EO wybrała Elektrotim jako wykonawcę czterech nowych magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkx3ZXJXbHVmRGFheTctMGpVY3NWbkQ0MW1RU0pOdmptZXRSbExPaFBMVC1xV0puT3k5bGJtLWlpSWRLLVBNSGdvbFJUZUtJVy1KM1dRcFNKYUpUSmhfay1INlJ2aEk5d21uaUVIaXZKc09SOXFzTnRHMmRVZGRKNXppREVFRENlNVhLejJ4RjFWSC0wd0F2bTVtREhsNVhSQ1pKTFFoMFJnZVNqeG84eUZHRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
