@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:11:10+00:00",
+  "updated": "2026-10-23T12:04:17+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -58,6 +58,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e8a84e73a9d12767d4",
+      "date": "2026-10-23",
+      "title": "JSW Koks ma problemy finansowe. Wiceminister mówi, co dalej z zakładami",
+      "title_pl": "JSW Koks ma problemy finansowe. Wiceminister mówi, co dalej z zakładami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Na dzisiaj nie ma decyzji o likwidacji któregokolwiek zakładu spółki JSW Koks - powiedziała w piątek w Sejmie wiceszefowa MAP Eliza Zeidler. Wskazała, że podstawami ich funkcjonowania są uzasadnienie biznesowe, ale też kwestie bezpieczeństwa energetycznego i militarnego.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/JSW-Koks-ma-problemy-finansowe-Wiceminister-mowi-co-dalej-z-zakladami-9217400.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-de6b20e5dea5e3144f",
@@ -328,11 +357,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PKP PLK planują przyjąć do końca roku strategię rozwoju elektryfikacji linii kolejowych do 2045 r. - przekazała w piątek spółka. Chodzi m.in. o budowę systemu pod koleje dużych prędkości. Na koniec 2024 r. w Polsce niezelektryfikowanych było ok. 37 proc. linii kolejowych.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PLK-wyznacza-kierunek-rozwoju-kolei-na-20-lat-Jest-plan-elektryfikacji-9217394.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnhVMmc3czZBYjd1VEtDNjdvVHRVaTBvMG1XMHhDNVptY0VUX2NNZW5GTVpZMGVmSWNFbV9nVzhrLTB3bndXUzFvc1VUVENEYzZwQ1RXeVBZd0xSa2JtblJGOXlzd1JmMnlVLWU3WE1tbkJ2M2VVS1ZES2E1RlQ3cktHa2lCckVoSjFsQzZEWWxkOS1OUmw4WFU0RUlBU3FRenEzR1VQbHV3OWk0Z1BMSThvVHZjZWs?oc=5",
           "type": "press"
         }
       ],
@@ -346,8 +375,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a6a3ea1df44cca9afe",
@@ -461,6 +490,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a07e0bfc46350384cb",
+      "date": "2026-10-23",
+      "title": "PGE zbuduje magazyny energii przy farmach wiatrowych",
+      "title_pl": "PGE zbuduje magazyny energii przy farmach wiatrowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlrNVVTV2R1bmJYamI1OW1HVE4xR21DTjZiekFhZ0ZVT1RuZFVCdnVNZUtCTU9mdVB0ZVJsYlJYSlg5TDdiQ3duSG5lTEpRZXpXcEZ1aGwxbEpOeHAwYUV1OGF3QUNSWC1PS1gwcnZiblpIRlBoUC16dE5EX0lKODJmX3ZfUzJSYnA3clF1YVBnSXhlVXBiaF85aVk5UkJOY1VVMDh5MGNDSngySi1PYjE1dlFpWUp5V1NzWU5EQ0VrUlk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -693,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6ef007693d13c4e09b",
+      "date": "2026-10-23",
+      "title": "IMAGE POWER SA (23/2026) Otrzymanie zawiadomień sporządzonych na podstawie art. 69 ustawy o ofercie",
+      "title_pl": "IMAGE POWER SA (23/2026) Otrzymanie zawiadomień sporządzonych na podstawie art. 69 ustawy o ofercie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejFtQWUwcnpXbG5ucDdoOGVPbElBQlVpbmJQVjZRTDNxdG14b2pRVmgwT2NKZUZJd2JjekJpaXE0TmUxYXNnZzBvY1RfS3RickkwcHJVZTlVbkZPdmluMTBzMldGY1cybVVaZjY1QVRNUlNiU0JDZ0IyWHVtMmN4ZFRFRkpJODZUalVsV2M3dFhJb1RiMFZKN2pQbC1MVWRZQlpsTEhGMWNDTlNUUFF5ZFpDMFhXdTFf?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -989,6 +1076,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3acc92147ed559b912",
+      "date": "2026-10-23",
+      "title": "Centra danych dla Polski. NASK i PGE połączą kompetencje",
+      "title_pl": "Centra danych dla Polski. NASK i PGE połączą kompetencje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMC12MG1VNEVhRUNMcHQ2eVYwUzNOZ2FZYzRDQ3B5YUF3a0hZdnNibFBVQ2hHUm1lakdaa3IteWZFcVBodVZYeDJtSEl4T2NYSUdfdTRCYk1GNDJ6QW81bzhZSUY0OW9rYldOS01XeDRLeFlCQ3MzdnFpM2w0SDBPWjAyejFONDQz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3a90159b61327b5a62",
       "date": "2026-10-23",
       "title": "PGE wyda 331 mln zł na magazyny energii. Wybrano wykonawcę",
@@ -996,11 +1112,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
           "type": "press"
         }
       ],
@@ -1014,8 +1130,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-357e0de60a501cd213",
