@@ -1,25 +1,36 @@
-# Poland Power Pulse — scheduled feed updates
+# Poland Power Pulse — English and Polish source monitoring
 
-The dashboard is published at https://neelamgulati7788.github.io/poland-power-pulse-v34/.
+Dashboard: https://neelamgulati7788.github.io/poland-power-pulse-v34/
 
-The workflow `.github/workflows/update-feed.yml` collects configured English RSS/Atom feeds at minutes 7 and 37 each hour (GitHub may delay scheduled runs), saves the JSON and source-health report, then deploys the dashboard and data together. It also runs after relevant code changes or a manual **Run workflow**.
+## Source register
 
-GitHub **Settings → Pages → Source** must be **GitHub Actions**. No API key is required.
+`data/sources.json` registers every one of the 71 rows in the supplied `sources.xlsx`, plus the existing Baltic Wind source. Each row retains its name, group, language, website and requested access method. Concrete collectors replace placeholder endpoints and empty `()` search queries. Mixed-language sources have English and Polish discovery routes. The combined law-firm row covers Dentons, CMS and SSW.
 
-## Scope and status
+The **Sources** panel reports each source's check status, route, latest matching publication, count, errors and limits. A successful index query is labelled **indexed discovery**, not a direct publisher check. CEEnergyNews and Renewables Now use public Google News discovery when their direct feeds are unavailable. Google links are labelled as indexed discovery, not misrepresented as verified full-text publisher retrievals.
 
-- `scripts/feed_fetcher.py` filters seven publisher feeds for Polish power-sector keywords, retaining at most 400 collected records alongside the HTML's embedded curated history.
-- Feeds: CEEnergyNews, ESS News, pv magazine, Notes From Poland, Baltic Wind, Renewables Now and World Nuclear News. This is limited English-language coverage, not comprehensive monitoring of all sources listed in the dashboard. Blocked, malformed or unavailable sources are reported explicitly; they are not bypassed.
-- Feed windows may contain no relevant new articles. A successful check does not imply a newly published article.
-- Automated items are tagged RSS. They are source headlines/excerpts with keyword classification, not translated Polish articles or analyst-reviewed material-change assessments. The existing dashboard also displays these classified items in its Signal Monitor.
-- `data/signals.json` contains collected records and the last successful collection timestamp. Total source failure preserves the previous feed.
-- `data/collection-status.json` records each attempt, per-source failures, matched counts, latest publication date, and overall success/partial/error.
-- The header reports partial results, stale data (over 75 minutes), missing feeds and failed collection. Hover over it for per-source details. The displayed date no longer advances just because the page was opened.
-- The browser reloads published JSON every 30 minutes while open. Reopening the page loads the newest published batch immediately.
-- Initial RSS feeds provide only their recent window; they do not guarantee all news since the embedded snapshot. A separate historical backfill or broader primary-source collection would be additional work.
+## Refresh and limits
 
-## Verification
+The GitHub workflow collects and deploys at minutes 7 and 37 each hour, after relevant edits, and on manual dispatch. GitHub may delay scheduled starts. The browser reloads published data every 30 minutes while open. A full refresh loads the newest deployed batch immediately.
 
-Run `python -m unittest discover -s tests`, then `python scripts/feed_fetcher.py`. The collection job fails if every source fails, and the deployment still publishes the failure report with the retained data. GitHub Actions logs and step summaries show the actual collection outcome.
+Initial discovery uses a 30-day window, with an extra recent query where Google returns 100 results. Later runs overlap by at least two days. Publisher RSS has its own recent window; search indexing can lag or omit stories. TED and BZP adapters expose bounded recent result windows. ELI and Sejm metadata are filtered for energy relevance. The PSE market-data row is a health check, not a news feed; the separate PSE news row monitors announcements. GDELT may be unavailable and is reported explicitly.
 
-`data/headlines.json` supplies optional headline overrides. `newsletter_assets/logo.png` remains optional and was not included in the uploaded ZIP.
+**This is not a guarantee of every article or exhaustive procurement/legal coverage.** Every source row is attempted; caps, unavailable endpoints and coverage methods are visible rather than treated as complete access. Original publication dates and collection timestamps are kept separately. Previous records survive total collection outages, and retained history is capped at 10,000 collected records with any truncation reported.
+
+## Language and evidence
+
+English and Polish headlines are published. New Polish originals are labelled **PL original · translation unavailable** when no English translation is available; they are not dropped or falsely described as translated. Curated English translations remain intact. Unreviewed automatic records carry **Indexed** or **Collected** labels. They are headlines/excerpts with keyword classification, not analyst-reviewed material-change assessments. Google index summaries are not represented as article summaries. No translation subscription or API key has been configured.
+
+Headlines are filtered using Polish and English energy vocabulary, company names and geography. Recruitment and routine MAR personal-transaction announcements are excluded. Exact title/date duplicates prefer direct feeds, and the UI also merges near-duplicate headlines. The news view is paginated with all retained articles still searchable.
+
+## Files and checks
+
+- `index.html`: dashboard and embedded curated history.
+- `data/sources.json`: editable, versioned source register.
+- `data/signals.json`: collected items and last successful collection timestamp.
+- `data/collection-status.json`: complete per-source and per-route audit.
+- `data/headlines.json`: optional verified-headline overrides; embedded overrides still work if absent.
+- `scripts/feed_fetcher.py`: standard-library-only source collector.
+- `tests/test_feed_fetcher.py`: language, provenance, relevance, merge and outage tests.
+- `.github/workflows/update-feed.yml`: tests, collection, commit and atomic Pages deployment.
+
+Run `python -m unittest discover -s tests` and `python scripts/feed_fetcher.py` from the repository root. Pages publishing source must be **GitHub Actions**.
