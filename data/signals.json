@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:41:15+00:00",
+  "updated": "2026-10-23T15:39:07+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -379,6 +379,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c06e44a6d7cfdc9005",
+      "date": "2026-10-23",
+      "title": "Polskie Elektrownie Jądrowe sfinansują modernizację kolejnej drogi w Gminie Choczewo",
+      "title_pl": "Polskie Elektrownie Jądrowe sfinansują modernizację kolejnej drogi w Gminie Choczewo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0pRZnlacXVuWkUzeVVhUWpxM25ScmJtbktyTzktWWhBSWRZeWFsUmlicThYSm80bXlRMDZVYS1udnZGd3d2SXBHdkZDTUNiQ0xZcmx6M1RCRnM1VVl2aTlLSmdYVl93eFZwY0NSTUxYXzRIbUdfZV9WclY3bWdYRm5faVhCQURQQnVZdUtwa1pfS3hwSFMyYWpUaVRoTkxUaTBLbXNRdXZINEZwYkxJUVBCVDBoUUVPaUlzdXg2Yw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ba98870b17bd9aa89e",
       "date": "2026-10-23",
       "title": "PGE wybrała Elektrotim na wykonawcę czterech magazynów energii przy farmach wiatrowych",
@@ -680,7 +709,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlrNVVTV2R1bmJYamI1OW1HVE4xR21DTjZiekFhZ0ZVT1RuZFVCdnVNZUtCTU9mdVB0ZVJsYlJYSlg5TDdiQ3duSG5lTEpRZXpXcEZ1aGwxbEpOeHAwYUV1OGF3QUNSWC1PS1gwcnZiblpIRlBoUC16dE5EX0lKODJmX3ZfUzJSYnA3clF1YVBnSXhlVXBiaF85aVk5UkJOY1VVMDh5MGNDSngySi1PYjE1dlFpWUp5V1NzWU5EQ0VrUlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlpkMk9ZMlVBVGdrS3ZBVloxWjR6ZzZLZ2Y3NW4yQjZGX1lLM0lmWHluNjdhSHFuYjZtZzZnZHZwbzd6WnRfeThDdk5zXzQ2Uk5qaTVWMVFtdUNhVnowbUVJRDc0eS1XeDVtZFVHZ3ZIdGJRZHRsbmZQekVTOG04U2RaNWF5UXNkeTdpYnpRX3kxZE1ubnVPd3liZlk?oc=5",
           "type": "press"
         }
       ],
@@ -688,7 +717,7 @@
         "PGE"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -809,6 +838,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-923443a7f9622a3236",
+      "date": "2026-10-23",
+      "title": "Nowy dostawca gazu puka do Unii Europejskiej. Czy to lekarstwo na kryzys?",
+      "title_pl": "Nowy dostawca gazu puka do Unii Europejskiej. Czy to lekarstwo na kryzys?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2MwNjczWURaNFEwbkh1SHlTZkhUNFl2MFQycmphZHg5MXdjTVVuRTVlNlFuTFNKbU50ZVBmQ1J1aDdoNWloam9QczM3UlZUMmFGdHAxbUZ4Rnc2ZW9SOERpajQzMm9VWkhnVVJGemx6TGFXOUxDZWVNLWt2YlpqRnVQQ1ZpNDdhRlcxYlppTnM1a29LM2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1015,6 +1073,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6501b2b8c987665ac8",
+      "date": "2026-10-23",
+      "title": "Tylko jedna sesja na zielono, ale jaka! Piątek niestety taki, jak większość tygodnia",
+      "title_pl": "Tylko jedna sesja na zielono, ale jaka! Piątek niestety taki, jak większość tygodnia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Pnące się w górę notowania ropy, obawy o trwałość hossy technologicznej, a być może także pozycjonowanie się kapitału pod zbliżające się wybory do Kongresu USA, wywołały na rynkach sporą nerwowość. W piątek na GPW, tak jak na innych giełdach dominowała czerwień, a pod silną presją…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Tylko-jedna-sesja-na-zielono-ale-jaka-Notowania-Orlen-PKO-BP-KGHM-i-wyniki-sesji-9217621.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-64f1422b6aa20d1fbf",
@@ -1335,6 +1422,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-409566e65066066762",
+      "date": "2026-10-23",
+      "title": "Pokój za gaz i rezygnację z NATO. Kontrowersyjne szczegóły planu pokojowego USA",
+      "title_pl": "Pokój za gaz i rezygnację z NATO. Kontrowersyjne szczegóły planu pokojowego USA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFBVWlp3VHdHYkU3MXlSWkdPcUU3YklFcnN1OFE2b2tveGM1RTJGM2t5TmJHTWgtTzdlNEhJNF80cjN0MzJJSkZoR1VqZzZyNWFXTmJVQnlCY1AxUVFzb0pGMFJ1b1YyZVRmSU4xN2RNQUFyNWhmalFnSW1lUkNqRkhOMXc2VjVJSC02RFVnR1VnbjZaLVRxQkx3U0ZCcG1FdlU2Q3hoRDNBbVZtNHNRSFBwdDQxSXNIQzF1VVhLb1c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3e4d09c78587780ea9",
