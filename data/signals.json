@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:04:19+00:00",
+  "updated": "2026-10-23T20:37:26+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -437,6 +437,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c9a92949a8cf693719",
+      "date": "2026-10-23",
+      "title": "Projekty BESS 2-10 MW wraz z budową pod klucz",
+      "title_pl": "Projekty BESS 2-10 MW wraz z budową pod klucz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWlHdnB2WGY2Z2UzeDhMWkJDWXYtS0k2WjlfTHBjMldxZzlWZGxXSjUyOGlqTHkwNmRzNWQ2NkZzSkFoN3dEbHJkQ1NCRHVrTHVsTmcwSkI4THNlNFVzcFR0T2JJUHNqWFlsek1ma0wtc2lCalhUVnFpM3hGTkg3cWs3N2JVMEt5UkptU0hpNTk1dnNOUV9NV1dhNnVROXEtMFU0Xw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c1f515392ecfd8c59a",
       "date": "2026-10-23",
       "title": "Orlen energy to recognise PLN 1.6 bln asset impairment losses in Q3 report",
@@ -754,6 +783,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-aac0c004b6aa4eb3cf",
+      "date": "2026-10-23",
+      "title": "Finansowanie magazynu energii bez budowy nowej farmy PV - sprawdź swoje województwo",
+      "title_pl": "Finansowanie magazynu energii bez budowy nowej farmy PV - sprawdź swoje województwo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlZEMlFrcGU5dkx2TzFESzZtaVhoNmNUbzJ0eHI2SnBpLTdQelNaNXZRWkJ4MWs2N0EwV1NFeVpWMmY3by1QUi1PYUY3MGNyV2ROZlhrMU9HZWU1SHBIc3o0MGZhaFF3bm1TN0Y1SS1CT0EwWFp5RWJ1QzlSU2ZLVW45VlFhRXFmOUFWR0hVbTZyd2pzS0lTYXN4UVJydVdfemRpUmJXSGZtLUJET3Q0TWVRNmFEaVpRVkF1Ym82S2trNXV0RVRRUEp2TEpwMm9xUkZuOQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a895a1dc5c645ca450",
@@ -1837,11 +1895,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
           "type": "press"
         }
       ],
@@ -1855,8 +1913,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-357e0de60a501cd213",
@@ -2147,6 +2205,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-18f6b1dc73d0a3c510",
+      "date": "2026-10-23",
+      "title": "Przedstawiciele Energa-Operator z ważnymi rolami w E.DSO",
+      "title_pl": "Przedstawiciele Energa-Operator z ważnymi rolami w E.DSO",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaWllME1oTHo0bVh6czFQTU9CVUpMWWFCY0tLaDBLZVF2UWMzR3JLeE1HVnVGdkphMkJ4eFQ3ZDdQQWZHcmhpNFJQc2I4TXRUYjhXYnA5aTcwNms4Q2h1MnRDZDZWaUV1U2dwZFhMZUxNZGZfWm9aZlA5NjJYeFBVSllrMUV5YmgzbVhaajdsbEIwd3A3VTZVb1B2a3hJbmlXY281cWp5NmxKNEgzYTE0V1FoaEY2N0pLbk92WjRiTW1HWXRuSnRxSXk0YVk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zmiany-kadrowe-na-rynku.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-13922c4c24d890d686",
