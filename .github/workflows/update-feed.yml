@@ -1,0 +1,86 @@
+name: Update live news feed
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/**'
+      - '.github/workflows/update-feed.yml'
+
+concurrency:
+  group: feed-and-pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test collection safeguards
+        run: python -m unittest discover -s tests
+      - name: Fetch RSS headlines and record source health
+        id: collect
+        continue-on-error: true
+        run: python scripts/feed_fetcher.py
+      - name: Save feed and collection status
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898699+github-actions[bot]@users.noreply.github.com'
+          git add data/signals.json data/collection-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update feed and source health'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Prepare dashboard deployment
+        run: |
+          mkdir -p _site
+          cp index.html .nojekyll _site/
+          cp -r data newsletter_assets _site/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish collection summary
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          s = json.load(open('data/collection-status.json'))
+          print('## Feed collection')
+          for k in ('checkedAt','status','successfulSources','totalSources','newItems','retainedItems','latestPublicationDate'):
+              print(f'- {k}: {s[k]}')
+          for row in s['sources']:
+              print(f"- {row['source']}: {row['status']} — {row.get('error', str(row.get('matched', 0)) + ' matching items')}")
+          PY
+      - name: Mark total source outage as failed
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
+
+  deploy:
+    needs: update
+    if: always() && needs.update.result != 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy dashboard and collected feed together
+        id: deployment
+        uses: actions/deploy-pages@v4
