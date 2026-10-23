@@ -340,7 +340,7 @@ button.tg.as:hover{background:#fbd3e1}
         <button class="sbtn" data-s="cat">By category</button>
       </div>
       <div id="view"></div>
-      <div class="foot"><b>Source note.</b> Every item links to its source. Polish primary sources come first — government, URE, PSE/DSOs/TGE, company disclosures, procurement and permitting — complemented by established specialist media. Polish-language articles are translated and summarised in English (marked <b>PL → EN</b>). ⊞ government/operator · 📋 company filing · 🌐 company release · ↗ media.</div>
+      <div class="foot"><b>Source note.</b> Every item links to its source. Polish primary sources come first — government, URE, PSE/DSOs/TGE, company disclosures, procurement and permitting — complemented by established specialist media. Polish originals are labelled; available English translations are marked <b>PL → EN</b>. ⊞ government/operator · 📋 company filing · 🌐 company release · ↗ media.</div>
     </main>
 
     
@@ -503,7 +503,7 @@ function normalise(s){
     s.tech = (CLS[s.id] && CLS[s.id].tech) || (s.tech && s.tech.length && s.tech.every(x=>TECH_LABEL[x]) ? s.tech : (t.length ? t : ['cross']));
   const hay = head+' '+s.summary;
   s.assets = s.assets && s.assets.length ? s.assets : ASSETS.filter(x=>x[1].test(hay)).map(x=>x[0]);
-  s.pl = s.lang==='pl' || (s.links||[]).some(l => PL_DOMAINS.test(l.url));
+  s.pl = s.reviewed === false ? Boolean(s.title_pl && s.translated) : (s.lang==='pl' || (s.links||[]).some(l => PL_DOMAINS.test(l.url)));
   s.publisher = s.publisher || ((s.links||[])[0]?.label||'Source').split(/\s+[—-]\s+/)[0];
   return s;
 }
@@ -513,13 +513,20 @@ let SIGNALS = SEED.slice();
 const toks = t => new Set(t.toLowerCase().replace(/[^a-z0-9ąćęłńóśźż ]/g,' ').split(/\s+/).filter(w=>w.length>3));
 const jacc = (a,b) => { let i=0; a.forEach(x=>{if(b.has(x))i++;}); return i/Math.max(1,a.size+b.size-i); };
 function dedupe(list){
-  const out=[];
+  const out=[], exact=new Map(), urls=new Map(), index=new Map();
   list.forEach(s=>{
     if(s.dupOf) return;
-    const ts = toks(s.title);
-    const i = out.findIndex(o=>Math.abs(new Date(o.date)-new Date(s.date))<14*86400000 && jacc(toks(o.title),ts)>0.6);
-    if(i>-1){ if(out[i].auto && !s.auto) out[i]=s; return; }   /* keep curated, analyst-checked version */
-    out.push(s);
+    const title=s.title_pl||s.title, key=title.toLowerCase().replace(/[^a-z0-9ąćęłńóśźż ]/g,' ').replace(/\s+/g,' ').trim();
+    const url=(s.links||[])[0]?.url;
+    const ts=toks(title), anchors=[...ts].sort((a,b)=>b.length-a.length).slice(0,5);
+    let i=exact.get(key); if(i===undefined && url) i=urls.get(url);
+    if(i===undefined){
+      const candidates=new Set(); anchors.forEach(t=>(index.get(t)||[]).forEach(n=>candidates.add(n)));
+      i=[...candidates].slice(-120).find(n=>Math.abs(new Date(out[n].date)-new Date(s.date))<14*86400000 && jacc(toks(out[n].title_pl||out[n].title),ts)>0.6);
+    }
+    if(i!==undefined){if(out[i].auto && !s.auto) out[i]=s;return;}
+    const n=out.length;out.push(s);exact.set(key,n);if(url)urls.set(url,n);
+    anchors.forEach(t=>{const bucket=index.get(t)||[];bucket.push(n);if(bucket.length>120)bucket.shift();index.set(t,bucket);});
   });
   return out;
 }
@@ -682,12 +689,21 @@ setInterval(()=>{ const m=Math.max(0,Math.round((nextAt-Date.now())/60000)); con
 
 /* ═══ SOURCES ═══ */
 const SOURCES = [["Government & legislation", "Ministry of Energy", "Government", "https://www.gov.pl/web/energia", "gov.pl/web/energia"], ["Government & legislation", "Chancellery of the PM — legislative work list", "Government", "https://www.gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow", "gov.pl/web/premier"], ["Government & legislation", "Ministry of Climate and Environment", "Government", "https://www.gov.pl/web/climate", "gov.pl/web/climate"], ["Government & legislation", "Sejm API & ELI (Dziennik Ustaw)", "Parliament / official journal", "https://api.sejm.gov.pl/", "sejm.gov.pl"], ["Regulators", "URE — Energy Regulatory Office", "Regulator", "https://www.ure.gov.pl/", "ure.gov.pl"], ["Regulators", "PAA — National Atomic Energy Agency", "Nuclear regulator", "https://www.gov.pl/web/paa", "gov.pl/web/paa"], ["Regulators", "UOKiK — competition authority", "Regulator", "https://uokik.gov.pl/", "uokik.gov.pl"], ["Regulators", "European Commission · EUR-Lex", "EU institution", "https://eur-lex.europa.eu/", "ec.europa.eu|eur-lex.europa.eu"], ["System operators & market", "PSE — TSO & capacity market", "TSO", "https://www.pse.pl/", "pse.pl"], ["System operators & market", "TGE — Polish Power Exchange", "Exchange", "https://tge.pl/", "tge.pl"], ["System operators & market", "PGE Dystrybucja · Energa-Operator", "DSOs", "https://pgedystrybucja.pl/", "pgedystrybucja.pl|energa-operator.pl"], ["Company disclosures", "PGE — current reports & press", "Company / ESPI", "https://www.gkpge.pl/en/for-investors/current-reports", "gkpge.pl"], ["Company disclosures", "Enea — investor relations & press", "Company / ESPI", "https://ir.enea.pl/en", "enea.pl"], ["Company disclosures", "Energa — press office · Energa Storage", "Company", "https://media.energa.pl/", "energa.pl|energastorage.pl"], ["Company disclosures", "ORLEN — press releases", "Company / ESPI", "https://www.orlen.pl/en/about-the-company/media/press-releases", "orlen.pl"], ["Company disclosures", "TAURON — media", "Company", "https://media.tauron.pl/", "tauron.pl"], ["Company disclosures", "ZE PAK — investor relations", "Company / ESPI", "https://ri.zepak.com.pl/en/", "zepak.com.pl"], ["Company disclosures", "PEJ — Polskie Elektrownie Jądrowe", "State nuclear developer", "https://pej.pl/en/homepage/", "pej.pl"], ["Company disclosures", "Polenergia · Fortum · Axpo · ENGIE Polska", "Company newsrooms", "https://www.fortum.com/en/media", "polenergia.pl|fortum.com|axpo.com|engie-polska.pl"], ["Company disclosures", "Partner releases (Ørsted, GE Vernova, Westinghouse, Valmet, Van Oord, DRI, Greenvolt)", "Partner / OEM", "https://orsted.com/en/media/news", "orsted.com|gevernova.com|westinghousenuclear.com|valmet.com|vanoord.com|dri-energy.com|greenvolt.com"], ["Procurement & permitting", "TED — EU tenders (Search API)", "Procurement", "https://ted.europa.eu/", "ted.europa.eu"], ["Procurement & permitting", "e-Zamówienia / BZP", "Procurement", "https://ezamowienia.gov.pl/", "ezamowienia.gov.pl"], ["Procurement & permitting", "GDOŚ — environmental decisions", "Permitting", "https://www.gov.pl/web/gdos", "gov.pl/web/gdos"], ["Financing institutions", "European Investment Bank", "EU financing", "https://www.eib.org/en/press/", "eib.org"], ["Financing institutions", "US EXIM", "Export credit agency", "https://www.exim.gov/news", "exim.gov"], ["Financing institutions", "EC Recovery & Resilience — Poland", "EU financing", "https://reforms-investments.ec.europa.eu/", "reforms-investments.ec.europa.eu"], ["Specialist media (complementary)", "WNP.pl · WysokieNapięcie · Energetyka24", "Polish trade press", "https://www.wnp.pl/energia/", "wnp.pl|wysokienapiecie.pl|energetyka24.com"], ["Specialist media (complementary)", "PAP Biznes · Bankier · Rzeczpospolita Energia", "Newswire / business press", "https://www.bankier.pl/", "biznes.pap.pl|bankier.pl|rp.pl"], ["Specialist media (complementary)", "Reuters · Polskie Radio", "Wire / public broadcaster", "https://www.reuters.com/business/energy/", "reuters.com|polskieradio.pl"], ["Specialist media (complementary)", "World Nuclear News", "Nuclear trade press", "https://www.world-nuclear-news.org/", "world-nuclear-news.org"], ["Specialist media (complementary)", "Renewables Now · Enerdata · CEEnergyNews · Utility Dive", "Energy trade press", "https://renewablesnow.com/", "renewablesnow.com|enerdata.net|ceenergynews.com|utilitydive.com"], ["Specialist media (complementary)", "ESS News · Energy-Storage.news · pv magazine", "Storage & solar press", "https://www.ess-news.com/", "ess-news.com|energy-storage.news|pv-magazine.com"], ["Analysis & legal briefings", "Forum Energii · Dentons · CMS · SSW", "Think tank / law firms", "https://www.forum-energii.eu/en", "forum-energii.eu|dentons.com|cms.law|ssw.solutions"]];
+
+function sourceCoverageHtml(h){
+  const href = u => typeof u==='string' && /^https:\/\//.test(u) ? u : '#';
+  return `<div class="src-grp"><h3>Collection coverage · ${esc(h.successfulSources)}/${esc(h.totalSources)} sources checked successfully</h3>
+    <p class="src-intro">${esc(h.requestedWorkbookSources || 71)} workbook sources plus the existing Baltic Wind feed. Last attempt: ${esc(h.checkedAt)}. Newest collected publication: ${esc(h.latestPublicationDate || 'none')}. Indexed search results may be delayed or capped; an empty result is not proof that a publisher has no new articles. Polish originals are retained when translation is unavailable.</p>
+    <table class="src-tbl"><thead><tr><th>Source / language</th><th>Coverage</th><th>Matches in window</th></tr></thead><tbody>${(h.sources||[]).map(x=>`<tr><td><a href="${esc(href(x.url))}" target="_blank" rel="noopener">${esc(x.source)}</a><div>${esc(x.language || '')}</div></td><td>${esc(x.coverage || x.status)}<details><summary>Check details</summary>${(x.routes||[]).map(r=>`<p>${esc(r.method)} · ${esc(r.status)} · ${esc(r.language||'')} · ${esc(r.entriesRead??0)} entries<br>${esc(r.error||r.note||'')}${r.limited?' Result window capped.':''}</p>`).join('')}${x.error?`<p>${esc(x.error)}</p>`:''}</details></td><td>${esc(x.matched??0)}<div>${esc(x.latestPublicationDate||'No matching date')}</div></td></tr>`).join('')}</tbody></table></div>`;
+}
+
 function openSources(){
   const groups = [...new Set(SOURCES.map(x=>x[0]))];
   const count = m => { const p = m.split('|'); return SIGNALS.filter(s=>(s.links||[]).some(l=>p.some(x=>l.url.includes(x)))).length; };
-  nl('srcBody').innerHTML = `<p class="src-intro">Polish primary sources come first — government, regulators, PSE/DSOs/TGE, company disclosures, procurement and permitting — complemented by selected established specialist media. Polish-language items are translated and summarised in English.</p>` +
+  nl('srcBody').innerHTML = `<p class="src-intro">Polish primary sources come first — government, regulators, PSE/DSOs/TGE, company disclosures, procurement and permitting — complemented by selected established specialist media. English and Polish headlines are collected. Polish originals are explicitly labelled when English translation is unavailable. Indexed discovery and direct source checks are distinguished below.</p>` +
     groups.map(g=>`<div class="src-grp"><h3>${g}</h3><table class="src-tbl"><thead><tr><th>Source</th><th>Type</th><th>Signals</th></tr></thead><tbody>${
       SOURCES.filter(x=>x[0]===g).map(x=>`<tr><td><a href="${x[3]}" target="_blank" rel="noopener">${x[1]}</a><div class="src-url">${x[3].replace(/^https?:\/\//,'')}</div></td><td>${x[2]}</td><td class="src-n">${count(x[4])||'—'}</td></tr>`).join('')}</tbody></table></div>`).join('');
+  if(window.__sourceHealth) nl('srcBody').innerHTML = sourceCoverageHtml(window.__sourceHealth) + nl('srcBody').innerHTML;
   nl('srcOverlay').classList.add('open');
 }
 
@@ -1036,7 +1052,7 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     const h = H[s.id];
     if (s.auto) {                                   /* live RSS item: title is already exact */
       s.src_title = s.title_pl || s.title;
-      s.src_en = s.title_pl ? s.title : '';
+      s.src_en = s.title_pl && s.translated ? s.title : '';
       s.src_url = firstWorkingLink(s);
       s.in_feed = true;
       s.sig_title = liveSignalTitle(s);
@@ -1066,18 +1082,22 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
   const reEnrichAll = () => { SEED.forEach(enrich); SIGNALS.forEach(enrich); };
 
   /* ── VIEW 1 — LIVE NEWS FEED: exact headline · working link ── */
+  let newsPage=0, newsFilterKey='';
   renderNews = function () {
+    const filterKey=JSON.stringify(F); if(filterKey!==newsFilterKey){newsFilterKey=filterKey;newsPage=0;}
     const all = SIGNALS.filter(s => passes(s)).map(ensure);
     const list = dedupe(all.filter(s => s.in_feed).sort((a, b) => b.date.localeCompare(a.date)));
     const pending = all.filter(s => !s.in_feed).length;
-    const rows = list.map(s => `<tr><td class="nd">${fmtDate(s.date)}</td>
-      <td class="nhd"><a href="${esc(s.src_url)}" target="_blank" rel="noopener">${esc(s.src_title)}</a>${s.auto ? ' <span class="pill livep">RSS</span>' : ''}
+    const pageSize=100;newsPage=Math.min(newsPage,Math.max(0,Math.ceil(list.length/pageSize)-1));
+    const rows = list.slice(newsPage*pageSize,(newsPage+1)*pageSize).map(s => `<tr><td class="nd">${fmtDate(s.date)}</td>
+      <td class="nhd"><a href="${esc(s.src_url)}" target="_blank" rel="noopener">${esc(s.src_title)}</a>${s.auto ? ` <span class="pill livep">${s.discoveryMethod==='google'?'Indexed':'Collected'}</span>` : ''}${s.auto && s.lang==='pl' && !s.translated ? ' <span class="pill trp">PL original · translation unavailable</span>' : ''}
         ${s.src_en ? `<div class="ntr" lang="en"><b>English translation:</b> ${esc(s.src_en)}</div>` : ''}</td>
       <td class="ns">${esc(s.publisher)}</td></tr>`).join('');
     $('#view').innerHTML = list.length
-      ? `<div class="ntable panel"><table><thead><tr><th style="width:120px">Date</th><th>Headline</th><th style="width:200px">Source</th></tr></thead><tbody>${rows}</tbody></table>
-         </div>`
+      ? `<div class="ntable panel"><table><thead><tr><th style="width:120px">Date</th><th>Headline</th><th style="width:200px">Source</th></tr></thead><tbody>${rows}</tbody></table><div class="feed-note">Showing ${newsPage*pageSize+1}–${Math.min(list.length,(newsPage+1)*pageSize)} of ${list.length} · <button id="newsPrev" ${newsPage===0?'disabled':''}>Previous</button> <button id="newsNext" ${(newsPage+1)*pageSize>=list.length?'disabled':''}>Next</button></div></div>`
       : `<div class="empty"><h2>No news for this selection</h2><p>Adjust the search, filters or date range.</p></div>`;
+    if($('#newsPrev')) $('#newsPrev').onclick=()=>{newsPage--;renderNews();};
+    if($('#newsNext')) $('#newsNext').onclick=()=>{newsPage++;renderNews();};
   };
 
   /* ── VIEW 2 — SIGNAL INTELLIGENCE: rephrased headline + summary ── */
@@ -1087,7 +1107,7 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     const full = hasAnalysis(s);
     const summary = s.summary || s.why || '';
     return `<article class="card" style="--pc:${SC[s.cat].col}">
-      <div class="c-top">${catPills(s)}${s.auto ? '<span class="pill livep">● RSS</span>' : ''}${s.pl ? '<span class="pill trp">PL → EN</span>' : ''}
+      <div class="c-top">${catPills(s)}${s.auto ? '<span class="pill livep">● Collected</span>' : ''}${s.auto && s.lang==='pl' && !s.translated ? '<span class="pill trp">PL original</span>' : ''}${s.pl ? '<span class="pill trp">PL → EN</span>' : ''}
         <span class="c-date">${fmtDate(s.date)} · ${ago(s.date)}</span></div>
       <h3>${esc(s.sig_title)}</h3>
       ${full && !s.auto && (s.change || s.why) ? `<div class="cw">
@@ -1129,7 +1149,7 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     }
     if (sj && Array.isArray(sj.signals)) {
       const ids = new Set(SEED.map(x => x.id));
-      const live = (sj.signals || []).filter(x => x && x.id && !ids.has(x.id) && (x.lang !== 'pl' || x.translated)).map(x => normalise({...x, auto: true}));
+      const live = (sj.signals || []).filter(x => x && x.id && !ids.has(x.id)).map(x => normalise({...x, auto: true}));
       SIGNALS = SEED.concat(live);
       const ts = sj.updated || sj.generated;
       lastUpdate = ts && Number.isFinite(Date.parse(ts)) ? new Date(ts) : null;
@@ -1140,14 +1160,17 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     const stamp = lastUpdate ? lastUpdate.toLocaleString('en-GB', {day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}) : '';
     const outage = health && health.status === 'error';
     const partial = health && health.status === 'partial';
-    const state = !sj ? 'Feed unavailable' : outage ? 'Collection failed' : !lastUpdate ? 'Awaiting first collection' : stale ? 'Feed stale' : partial ? 'Feeds checked (partial)' : 'Feeds checked';
+    const state = !sj ? 'Feed unavailable' : outage ? 'Collection failed' : !lastUpdate ? 'Awaiting first collection' : stale ? 'Feed stale' : 'Feeds checked';
+    window.__sourceHealth = health;
     $('#clock').textContent = state + (stamp ? ' · ' + stamp : ' · embedded snapshot');
     $('#clock').title = health ? [
       'Last attempt: ' + health.checkedAt,
       'Successful sources: ' + health.successfulSources + '/' + health.totalSources,
       'Newest collected article: ' + (health.latestPublicationDate || 'none'),
       ...(health.sources || []).filter(x => x.status !== 'success').map(x => x.source + ': ' + x.error),
-      'Automated RSS headlines and excerpts; not analyst-reviewed signals.'
+      'Polish originals: ' + (health.polishOriginals || 0),
+      'Open Sources for source-by-source coverage, errors and indexing limits.',
+      'Automated headlines and excerpts; not analyst-reviewed signals.'
     ].join('\n') : 'Collection status unavailable. Embedded snapshot covers articles through 22 October 2026.';
     $('#clock').style.color = (!sj || outage || stale || partial) ? '#f2cf87' : '';
     render();
