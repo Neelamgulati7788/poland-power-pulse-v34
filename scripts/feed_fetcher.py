@@ -22,7 +22,7 @@ REGISTRY = ROOT / 'data/sources.json'
 MAX_BYTES = 16 * 1024 * 1024
 ATOM = '{http://www.w3.org/2005/Atom}'
 POLAND = re.compile(r'poland|polish|polsk|\bpge\b|tauron|\benea\b|energa|orlen|ze pak|baltica|bałtyk|baltyk|lubiatowo|warsaw|warszaw|bełchat|kozienic|ostrołęk|grudziądz|żarnowiec|rybnik|pątnów', re.I)
-POWER = re.compile(r'power|energ|electric|elektr|grid|sieci|wind|wiatr|solar|fotowolt|\bpv\b|batter|storage|magazyn|bess|\bgas\b|\bgaz|ccgt|ocgt|nuclear|jądrow|smr|coal|węgl|chp|heat|ciepł|hydrogen|wodor|capacity|tariff|taryf|pge|tauron|enea|energa|orlen|polenergia|pej|pse|\btge\b|biometan', re.I)
+POWER = re.compile(r'\bpower\b|energ|electric|elektr|\bgrid\b|\bwind\b|wiatr|solar|fotowolt|\bpv\b|batter|\bstorage\b|magazyn.{0,20}energ|\bbess\b|\bgas\b|\bgaz(?:\b|u\b|em\b|ow|ociąg|own)|ccgt|ocgt|nuclear|jądrow|\bsmr\b|\bcoal\b|węgl|\bchp\b|\bheat|ciepł|hydrogen|wodor|capacity.market|tariff|taryf|\bpge\b|tauron|\benea\b|energa|orlen|polenergia|\bpej\b|\bpse\b|\btge\b|biometan|\bmw\b|\bmwh\b', re.I)
 IGNORE = re.compile(r'oferta pracy|rekrutacj|kariera|inżynierka/|specjalist[ak].*ds\.|stażysta|job opening|vacancy|career opportunity|transakcj.*art\. 19|persons discharging managerial|udzieleniu pełnomocnictwa', re.I)
 COS = {'PGE': r'\bpge\b', 'ENEA': r'\benea\b', 'ENERGA': r'energa', 'ORLEN': r'orlen', 'TAURON': r'tauron',
        'ZEPAK': r'ze pak', 'PEJ': r'\bpej\b|polskie elektrownie j', 'POLENERGIA': r'polenergia',
@@ -68,7 +68,7 @@ def qurl(url, params):
 
 
 def relevant(source, title, excerpt):
-    text = title + ' ' + excerpt
+    text = title + ' ' + ' '.join(excerpt.split()[:100])
     if IGNORE.search(title) or not POWER.search(text):
         return False
     return source.get('polandScoped', False) or bool(POLAND.search(text))
@@ -318,7 +318,9 @@ def collect(fetcher=fetch_source):
             all_items.extend(items);health.append(state)
             print(f"{state['status'].upper()} {state['source']}: {state['matched']} matches ({state['coverage']})",flush=True)
     successes = sum(x['status']=='success' for x in health)
-    records = normalise_languages(merge_records(previous.get('signals',[]),all_items), sources)
+    lookup = {x['id']: x for x in sources}
+    retained = [item for item in previous.get('signals',[]) if relevant(lookup.get(next(iter(item.get('sourceIds',[])), ''), {'polandScoped':True}), item.get('title_pl') or item.get('title',''), item.get('summary',''))]
+    records = normalise_languages(merge_records(retained,all_items), sources)
     previous_keys={(x.get('title_pl') or x.get('title'),x.get('date')) for x in previous.get('signals',[])}
     new_items = sum((x.get('title_pl') or x.get('title'),x['date']) not in previous_keys for x in records)
     cap=10000
@@ -328,7 +330,7 @@ def collect(fetcher=fetch_source):
     status = {'checkedAt':stamp,'lastSuccessfulCollectionAt':stamp if successes else previous.get('updated'),
       'status':'success' if successes==len(sources) else 'partial' if successes else 'error',
       'successfulSources':successes,'totalSources':len(sources),'requestedWorkbookSources':registry['requestedRows'],
-      'newItems':new_items,'retainedItems':len(records),'retentionDropped':truncated,
+      'newItems':new_items,'retainedItems':len(records),'retentionDropped':truncated,'relevanceRemoved':len(previous.get('signals',[]))-len(retained),
       'latestPublicationDate':max((x['date'] for x in records),default=None),
       'polishOriginals':sum(x.get('lang')=='pl' and not x.get('translated') for x in records),
       'sources':sorted(health,key=lambda x:int(x['id'])),
