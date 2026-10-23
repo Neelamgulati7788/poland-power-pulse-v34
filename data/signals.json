@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:52:38+00:00",
+  "updated": "2026-10-23T11:11:10+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -304,6 +304,35 @@
         {
           "label": "Bankier.pl — source",
           "url": "https://www.bankier.pl/wiadomosc/Maksymalne-ceny-paliw-od-soboty-do-poniedzialku-Benzyna-potanieje-ale-diesel-wciaz-pod-sufitem-9217388.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-a895a1dc5c645ca450",
+      "date": "2026-10-23",
+      "title": "PLK wyznaczą kierunek rozwoju kolei na 20 lat. Jest plan elektryfikacji",
+      "title_pl": "PLK wyznaczą kierunek rozwoju kolei na 20 lat. Jest plan elektryfikacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PKP PLK planują przyjąć do końca roku strategię rozwoju elektryfikacji linii kolejowych do 2045 r. - przekazała w piątek spółka. Chodzi m.in. o budowę systemu pod koleje dużych prędkości. Na koniec 2024 r. w Polsce niezelektryfikowanych było ok. 37 proc. linii kolejowych.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PLK-wyznacza-kierunek-rozwoju-kolei-na-20-lat-Jest-plan-elektryfikacji-9217394.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -967,11 +996,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -985,8 +1014,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-357e0de60a501cd213",
@@ -1596,6 +1625,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bbd1d658e71e4f1d3f",
+      "date": "2026-10-22",
+      "title": "Obwieszczenie Ministra Zdrowia z dnia 15 października 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie sposobu i procedur przygotowania analizy weryfikacyjnej Agencji Oceny Technologii Medycznych i Taryfikacji oraz wysokości opłaty za tę analizę",
+      "title_pl": "Obwieszczenie Ministra Zdrowia z dnia 15 października 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie sposobu i procedur przygotowania analizy weryfikacyjnej Agencji Oceny Technologii Medycznych i Taryfikacji oraz wysokości opłaty za tę analizę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ISAP — Polish law database — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1390/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ISAP — Polish law database",
+      "publisherUrl": "https://isap.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-b9e14bef74ac68cce7",
@@ -3312,6 +3371,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c7ada0f3f763fa1488",
+      "date": "2026-10-21",
+      "title": "Norweski projekt Orlenu dostał unijne dofinansowanie w wys. 223 mln euro",
+      "title_pl": "Norweski projekt Orlenu dostał unijne dofinansowanie w wys. 223 mln euro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2JnS3NCbjZLaVNmXzBYOXNBd3lZUkg1ZE01QnF6a0lMZVNnTUVjS2F1VDVqb2o3b2tBeldnU0dXOWZ2bjgtOFAxOXJOZWgxTGVpd2NsRmpTSXp1SEtZRjI3dDgzcVNIN25kWHZtMDMwUHNjQXFsdm9YNnM2bUIwQmU5WWlvcXZnU2lZTjl0U3lKSkVUVGxmYzBpdExjay1sRDJCSXV5NzAyMWZTaFg5ekoyd2JPMTN4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bfe761aaeeb7684345",
       "date": "2026-10-21",
       "title": "C&W: Moc warszawskich data center sięgnęła 159 MW na koniec II kw.; w budowie tylko 5 MW",
@@ -3410,7 +3498,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkF0NkU5VmlPVk5kVjBMMDAxbUJLTWFCd3lwM3Uzb0xrZ1FhT0FBR0REbHNHN19kSVRfUkkwY1hZZ1ZIN3lMamVQQ2VCNmh1aFNMZEFJb2FaMkx6aERmeTBoc2JQTzR4YzZpTEdiNG5vN1pWb2tXRnR4SmcyaVdMMVhhRUpJcUtfM3R5QV9WMG1rdnFHOGVZMFBOVmRSbDI0eHZRcFJ3Y1l6TW96cTFKSWxRRkVZRDlkRHdOMHJMdXdkSEt1SFpSYjZSN1R3MGdTX1ViTUU4QkJLbEtOeWx4Zg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV28xVkVfV0RUZzU0enBvemtSenBWVWtKaXVKVE5iNTVqYXhTRVZUbURrSm80NjJaemVXQTdwSzB0SHVDUTZRUnB1QWEtYVR1NXcwTXkxSE14anZIZTZWVDh0TW9ZcFFxNTRwOTJYOXBGcG0zeEJ5NzItYUVXejBVd211aGtFVlhqeC1Ba3BZb0w0RlJxWE5LUXc4MlVVb1paY25FdDZhN2NuanRvMW5faEpHaVZFQXoyVTRCU3dWaWdzR1k?oc=5",
           "type": "press"
         }
       ],
@@ -3418,7 +3506,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -4149,6 +4237,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60a4c59f0fcb21f3d8",
+      "date": "2026-10-21",
+      "title": "Obowiązkowe OC dla hulajnóg elektrycznych. Jest petycja do rządu",
+      "title_pl": "Obowiązkowe OC dla hulajnóg elektrycznych. Jest petycja do rządu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFlLd1ZOanZUYzFxU2xXWHZuX1hHOThobDlIbGdyekRIbHNkVVR3Y3Zzak1VWlRqZ1pUWUlJNkIyN19VRU11bkJ6NHhINTlhazh1V3o1aUZWbTlRaEhMU0Vkb3JmczI0cjRsMjdKcFJndThKQmkwVlJweGxyaTlkekgzSXF6YkJWcWpPY1BwaHdQQndvcjQ3TzVITEJJOXF5VXVhdFBkWGtiMG0xVkpuUTZnTGI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
