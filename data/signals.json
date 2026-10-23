@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:37:26+00:00",
+  "updated": "2026-10-23T21:33:47+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -1895,11 +1895,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -1913,8 +1913,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-357e0de60a501cd213",
