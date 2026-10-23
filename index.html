@@ -602,7 +602,7 @@ function card(s){
   const cos = s.cos.filter(c=>c!=='ALL');
   const full = hasAnalysis(s);
   return `<article class="card" style="--pc:${SC[s.cat].col}">
-    <div class="c-top">${catPills(s)}${s.auto?'<span class="pill livep">● LIVE</span>':''}${s.pl?'<span class="pill trp">PL → EN</span>':''}
+    <div class="c-top">${catPills(s)}${s.auto?'<span class="pill livep">● RSS</span>':''}${s.pl?'<span class="pill trp">PL → EN</span>':''}
       <span class="c-date">${fmtDate(s.date)} · ${ago(s.date)}</span></div>
     <h3>${esc(s.title)}</h3>
     ${full && (s.change||s.why) ? `<div class="cw">
@@ -625,7 +625,7 @@ function renderNews(){
   const list = dedupe(pool);
   let html = `<div class="ntable panel"><table><thead><tr><th style="width:120px">Date</th><th>Headline</th><th style="width:200px">Source</th></tr></thead><tbody>${
     list.map(s=>{ const l=(s.links||[])[0]||{url:'#'};
-      return `<tr><td class="nd">${fmtDate(s.date)}</td><td class="nhd"><a href="${esc(l.url)}" target="_blank" rel="noopener" ${s.title_pl?`title="Original (PL): ${esc(s.title_pl)}"`:''}>${esc(s.title)}</a>${s.title_pl?' <span class="pill trp">PL → EN</span>':''}${s.auto?' <span class="pill livep">LIVE</span>':''}</td><td class="ns">${esc(s.publisher)}</td></tr>`;}).join('')
+      return `<tr><td class="nd">${fmtDate(s.date)}</td><td class="nhd"><a href="${esc(l.url)}" target="_blank" rel="noopener" ${s.title_pl?`title="Original (PL): ${esc(s.title_pl)}"`:''}>${esc(s.title)}</a>${s.title_pl?' <span class="pill trp">PL → EN</span>':''}${s.auto?' <span class="pill livep">RSS</span>':''}</td><td class="ns">${esc(s.publisher)}</td></tr>`;}).join('')
   }</tbody></table></div>`;
   $('#view').innerHTML = list.length ? html : `<div class="empty"><h2>No news for this selection</h2><p>Adjust the search, filters or date range.</p></div>`;
 }
@@ -672,22 +672,10 @@ $('#q').addEventListener('input', e=>{F.q=e.target.value.trim();render();});
 $('#reset').onclick = ()=>{Object.assign(F,{co:'',asset:'',tech:'',region:'',type:'',from:'2024-01-01',to:'',q:''});$('#q').value='';render();};
 
 /* ═══ LIVE FEED LOADER ═══
-   Reads signals.json (written by feed_fetcher.py) on load and every 5 minutes.
-   Curated items stay built in; live items are merged on top. */
+   Reads published feed JSON on load and every 30 minutes.
+   Curated items stay built in; collected items are merged on top. */
 const FEED_URL = 'data/signals.json', REFRESH_MS = 30*60*1000;  /* 30-minute refresh, matching the GitHub workflow */
-async function loadFeed(){
-  try{
-    const r = await fetch(FEED_URL,{cache:'no-store'}); if(!r.ok) throw 0;
-    const d = await r.json();
-    const ids = new Set(SEED.map(x=>x.id));
-    const live = (d.signals||[]).filter(x=>x && x.id && !ids.has(x.id) && (x.lang!=='pl' || x.translated)).map(x=>normalise({...x, auto:true}));
-    SIGNALS = SEED.concat(live);
-    lastUpdate = d.generated ? new Date(d.generated) : new Date();
-  }catch(e){ SIGNALS = SEED.slice(); lastUpdate = null; }
-  $('#clock').textContent = lastUpdate ? 'Live · updated '+lastUpdate.toLocaleString('en-GB',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})
-                                       : 'Curated · '+new Date().toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});
-  render();
-}
+async function loadFeed() {} // Final loader below owns all feed requests.
 let nextAt = Date.now()+REFRESH_MS;
 loadFeed(); setInterval(()=>{nextAt=Date.now()+REFRESH_MS;loadFeed();}, REFRESH_MS);
 setInterval(()=>{ const m=Math.max(0,Math.round((nextAt-Date.now())/60000)); const el=document.getElementById('nextRef'); if(el) el.textContent='Next refresh in '+m+' min'; }, 30000);
@@ -1083,7 +1071,7 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     const list = dedupe(all.filter(s => s.in_feed).sort((a, b) => b.date.localeCompare(a.date)));
     const pending = all.filter(s => !s.in_feed).length;
     const rows = list.map(s => `<tr><td class="nd">${fmtDate(s.date)}</td>
-      <td class="nhd"><a href="${esc(s.src_url)}" target="_blank" rel="noopener">${esc(s.src_title)}</a>${s.auto ? ' <span class="pill livep">LIVE</span>' : ''}
+      <td class="nhd"><a href="${esc(s.src_url)}" target="_blank" rel="noopener">${esc(s.src_title)}</a>${s.auto ? ' <span class="pill livep">RSS</span>' : ''}
         ${s.src_en ? `<div class="ntr" lang="en"><b>English translation:</b> ${esc(s.src_en)}</div>` : ''}</td>
       <td class="ns">${esc(s.publisher)}</td></tr>`).join('');
     $('#view').innerHTML = list.length
@@ -1099,7 +1087,7 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     const full = hasAnalysis(s);
     const summary = s.summary || s.why || '';
     return `<article class="card" style="--pc:${SC[s.cat].col}">
-      <div class="c-top">${catPills(s)}${s.auto ? '<span class="pill livep">● LIVE</span>' : ''}${s.pl ? '<span class="pill trp">PL → EN</span>' : ''}
+      <div class="c-top">${catPills(s)}${s.auto ? '<span class="pill livep">● RSS</span>' : ''}${s.pl ? '<span class="pill trp">PL → EN</span>' : ''}
         <span class="c-date">${fmtDate(s.date)} · ${ago(s.date)}</span></div>
       <h3>${esc(s.sig_title)}</h3>
       ${full && !s.auto && (s.change || s.why) ? `<div class="cw">
@@ -1134,22 +1122,34 @@ document.addEventListener('keydown', e=>{ if(e.key==='Escape') nl('srcOverlay').
     return null;
   }
   loadFeed = async function () {
-    const [hj, sj] = await Promise.all([getJson(['data/headlines.json']), getJson(['data/signals.json', 'signals.json'])]);
+    const [hj, sj, health] = await Promise.all([getJson(['data/headlines.json']), getJson(['data/signals.json', 'signals.json']), getJson(['data/collection-status.json'])]);
     if (hj && hj.items) {
       Object.entries(hj.items).forEach(([id, v]) => { if (v && v.title && !(H[id] && H[id].source === 'manual')) H[id] = v; else if (v && v.url && !H[id]) H[id] = {url: v.url}; });
       BAD = new Set(hj.bad_links || []);
     }
-    if (sj) {
+    if (sj && Array.isArray(sj.signals)) {
       const ids = new Set(SEED.map(x => x.id));
       const live = (sj.signals || []).filter(x => x && x.id && !ids.has(x.id) && (x.lang !== 'pl' || x.translated)).map(x => normalise({...x, auto: true}));
       SIGNALS = SEED.concat(live);
       const ts = sj.updated || sj.generated;
-      lastUpdate = ts ? new Date(ts) : new Date();
-    } else { SIGNALS = SEED.slice(); lastUpdate = null; }
+      lastUpdate = ts && Number.isFinite(Date.parse(ts)) ? new Date(ts) : null;
+    } // Keep the last successfully loaded records during a transport failure.
     reEnrichAll();
-    $('#clock').textContent = lastUpdate
-      ? 'Live · updated ' + lastUpdate.toLocaleString('en-GB', {day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit'})
-      : 'Curated · ' + new Date().toLocaleDateString('en-GB', {day: '2-digit', month: 'short', year: 'numeric'});
+    const age = lastUpdate ? Date.now() - lastUpdate.getTime() : Infinity;
+    const stale = age > 75 * 60 * 1000;
+    const stamp = lastUpdate ? lastUpdate.toLocaleString('en-GB', {day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}) : '';
+    const outage = health && health.status === 'error';
+    const partial = health && health.status === 'partial';
+    const state = !sj ? 'Feed unavailable' : outage ? 'Collection failed' : !lastUpdate ? 'Awaiting first collection' : stale ? 'Feed stale' : partial ? 'Feeds checked (partial)' : 'Feeds checked';
+    $('#clock').textContent = state + (stamp ? ' · ' + stamp : ' · embedded snapshot');
+    $('#clock').title = health ? [
+      'Last attempt: ' + health.checkedAt,
+      'Successful sources: ' + health.successfulSources + '/' + health.totalSources,
+      'Newest collected article: ' + (health.latestPublicationDate || 'none'),
+      ...(health.sources || []).filter(x => x.status !== 'success').map(x => x.source + ': ' + x.error),
+      'Automated RSS headlines and excerpts; not analyst-reviewed signals.'
+    ].join('\n') : 'Collection status unavailable. Embedded snapshot covers articles through 22 October 2026.';
+    $('#clock').style.color = (!sj || outage || stale || partial) ? '#f2cf87' : '';
     render();
   };
 
