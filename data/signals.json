@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T13:42:56+00:00",
+  "updated": "2026-10-23T14:41:15+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dc0b3e675797938066",
+      "date": "2026-10-23",
+      "title": "Wykonanie robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podstawowych SPSK zlokalizowanych na terenie Gminy Gniew – PSP w Tymawie oraz PSP w Gogolewie",
+      "title_pl": "Wykonanie robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podstawowych SPSK zlokalizowanych na terenie Gminy Gniew – PSP w Tymawie oraz PSP w Gogolewie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "STOWARZYSZENIE PRZYJACIÓŁ SZKÓŁ KATOLICKICH",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3113-4f33-d621-701a-d00001a7d1ac",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-d96e671fffcae49c3c",
@@ -502,11 +531,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "PKP PLK planują przyjąć do końca roku strategię rozwoju elektryfikacji linii kolejowych do 2045 r. - przekazała w piątek spółka. Chodzi m.in. o budowę systemu pod koleje dużych prędkości. Na koniec 2024 r. w Polsce niezelektryfikowanych było ok. 37 proc. linii kolejowych.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnhVMmc3czZBYjd1VEtDNjdvVHRVaTBvMG1XMHhDNVptY0VUX2NNZW5GTVpZMGVmSWNFbV9nVzhrLTB3bndXUzFvc1VUVENEYzZwQ1RXeVBZd0xSa2JtblJGOXlzd1JmMnlVLWU3WE1tbkJ2M2VVS1ZES2E1RlQ3cktHa2lCckVoSjFsQzZEWWxkOS1OUmw4WFU0RUlBU3FRenEzR1VQbHV3OWk0Z1BMSThvVHZjZWs?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PLK-wyznacza-kierunek-rozwoju-kolei-na-20-lat-Jest-plan-elektryfikacji-9217394.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -520,8 +549,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-a6a3ea1df44cca9afe",
@@ -872,6 +901,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7d80f98acf4f3d48c0",
+      "date": "2026-10-23",
+      "title": "9 listopada na Stadionie Narodowym w Warszawie Dzień Dostawcy Grupy PGE",
+      "title_pl": "9 listopada na Stadionie Narodowym w Warszawie Dzień Dostawcy Grupy PGE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHVEYU9qcVdNbk5KZFNMaVpuOF9Idk9zcHdOekN2TmdieTVwQWJLZm9OUTdyU0w0OG9oNWtRR3JGMm5TVGJyeFhPRF8wTFNZRGpyNGxHRVktYkdOU1hxd1BldXd0Z0FRSHBZeWFpRVN2TnFGSlBLNmRWWFBBajhWbEgxcTNFS1QxZ2NWd19wR05DZHpLb29hZXJlSDczQ3Y1WGx0eFZWUXQ4aU4yTm1rbm5UTW1Rd2dMeDhJcDNhSFdSeGJrUUtN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7ce0d6c38a5d2283d9",
       "date": "2026-10-23",
       "title": "Ranking domowych magazynów energii na polskim rynku – które realnie zapewniają najtańszą energię?",
@@ -1134,6 +1192,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4d8dd9dcae74cb29d9",
+      "date": "2026-10-23",
+      "title": "Bardzo drogi funt szterling i frank szwajcarski. Złoty mocno traci do głównych walut",
+      "title_pl": "Bardzo drogi funt szterling i frank szwajcarski. Złoty mocno traci do głównych walut",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Koniec tygodnia przynosi kontynuację wyprzedaży polskiej waluty, która ugina się pod presją pogarszającego się sentymentu na globalnych rynkach i przepływu kapitału w stronę bezpiecznych przystani. Odwrót inwestorów od aktywów ryzykownych podsycają rosnące ceny surowców energetycznych, obawy o trwałość hossy technologicznej oraz narastające niepokoje społeczne i…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Funt-i-frank-najdrozsze-od-bardzo-dawna-Zloty-szybko-slabnie-9217378.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-48f26a32056b40ec9b",
       "date": "2026-10-23",
       "title": "Miliardowe cięcia w bilansie Orlenu . 1 , 6 mld zł odpisów przed publikacją wyników",
@@ -1219,6 +1306,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-4148b8560180c8e228",
+      "date": "2026-10-23",
+      "title": "Sztuczna inteligencja przeorze gospodarkę. „Europa za 10 lat będzie wielkim płatnikiem dla USA”",
+      "title_pl": "Sztuczna inteligencja przeorze gospodarkę. „Europa za 10 lat będzie wielkim płatnikiem dla USA”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Trwa gigantyczny wyścig technologiczny, a rewolucja sztucznej inteligencji zmienia układ sił w globalnej gospodarce. Krzysztof Domarecki, przedsiębiorca i założyciel Grupy Selena, w rozmowie z Bankier.pl podsumowuje wyzwania stojące przed Polską i Europą. Jak zauważa, bez przewrotu w doktrynie energetycznej Stary Kontynent stanie się jedynie pasywnym…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-przeorze-gospodarke-Europa-za-10-lat-bedzie-wielkim-platnikiem-dla-USA-9217428.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-3e4d09c78587780ea9",
+      "date": "2026-10-23",
+      "title": "Orlen się nie zatrzymuje. Ceny paliw na weekend będą najniższe od dawna",
+      "title_pl": "Orlen się nie zatrzymuje. Ceny paliw na weekend będą najniższe od dawna",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFNObUJJT3E0aW1RSjNQTXpOOFllWXVOaWlBRmwxVEd3ZFhLVTlqckpEMk5ueDZCelpXUmVQVHpqN19Sel9yNFFQWHRVeHE2N3hFYllwWGlVQkZIanNjY3owMTM2cHVLRlVtekpsVWotaEZ3azlWYl9yT0tBTmxRTnNBRXpDMXRBOFhVUnVNWm9jcXBOVG45TncwMEZzUmx1WGE2dTJfSjlDQW1aZnVv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3e31903fd389c702e6",
@@ -1511,6 +1656,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1b6385ceedf8e88442",
+      "date": "2026-10-23",
+      "title": "Wzmocnienie infrastruktury bezpieczeństwa oraz zapewnienie ciągłości dostaw energii elektrycznej poprzez rozwój systemów zasilania rezerwowego-zakup agregatów prądotwórczych",
+      "title_pl": "Wzmocnienie infrastruktury bezpieczeństwa oraz zapewnienie ciągłości dostaw energii elektrycznej poprzez rozwój systemów zasilania rezerwowego-zakup agregatów prądotwórczych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA NASIELSK",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3113-aa86-99f2-701a-d00001a7d1ae",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-13922c4c24d890d686",
       "date": "2026-10-23",
       "title": "Greenvolt to sell 400 MW of battery storage plants in Poland",
@@ -1567,6 +1741,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-103f068c54b25fe44b",
+      "date": "2026-10-23",
+      "title": "Największe magazyny energii w Polsce zmienią właściciela",
+      "title_pl": "Największe magazyny energii w Polsce zmienią właściciela",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjhkcUZPQmJkRmFiRkZCcjRQeUFnZU5BcEVQdkhmNWwzMUhMcjJMYmNYSE8zREM4TTdHY05NY3gzRnJTSjVZTEJDbFk3ZjBOREdIUWpTRS13TWZ1bkNqT1k4WXRqR29PQ0tOQUZiMU9YLURjUjhkVkFWQVB4c1Vud3d2WE45U2FhcGxKd3lIbFdEQk9lcmZfN3ZHOU1RUTN1am5IbjRDeHdOdUloS2o5QXhmeHBuZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-013528386cd6b2ce7d",
