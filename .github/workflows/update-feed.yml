@@ -12,6 +12,7 @@ on:
       - 'tests/**'
       - 'data/**'
       - '.github/workflows/update-feed.yml'
+      - 'newsletter_assets/**'
 
 concurrency:
   group: feed-and-pages
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
@@ -50,7 +51,8 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html .nojekyll _site/
-          cp -r data newsletter_assets _site/
+          cp -r data _site/
+          if [ -d newsletter_assets ]; then cp -r newsletter_assets _site/; fi
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
