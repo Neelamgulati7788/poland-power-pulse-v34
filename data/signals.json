@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:43:22+00:00",
+  "updated": "2026-10-23T13:42:56+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -147,6 +147,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d582a2f5fadec83f32",
+      "date": "2026-10-23",
+      "title": "TAURON Ciepło zabiera uczniów w podróż po europejskim …",
+      "title_pl": "TAURON Ciepło zabiera uczniów w podróż po europejskim …",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "nettg.pl — source",
+          "url": "https://nettg.pl/tauron-cieplo-zabiera-uczniow-w-podroz-po-europejskim-cieplownictwie-rusza-szosta-edycja-kampanii-wezniesmoguj-wezoddychaj",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "nettg.pl",
+      "publisherUrl": "https://api.gdeltproject.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "40"
+      ],
+      "discoveryMethod": "gdelt",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d410708616827df234",
+      "date": "2026-10-23",
+      "title": "Bardzo drogi funt i frank. Złoty mocno traci do głównych walut",
+      "title_pl": "Bardzo drogi funt i frank. Złoty mocno traci do głównych walut",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Koniec tygodnia przynosi kontynuację wyprzedaży polskiej waluty, która ugina się pod presją pogarszającego się sentymentu na globalnych rynkach i przepływu kapitału w stronę bezpiecznych przystani. Odwrót inwestorów od aktywów ryzykownych podsycają rosnące ceny surowców energetycznych, obawy o trwałość hossy technologicznej oraz narastające niepokoje społeczne i…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Funt-i-frank-najdrozsze-od-bardzo-dawna-Zloty-szybko-slabnie-9217378.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-d0b3a82c3efb51cc74",
       "date": "2026-10-23",
       "title": "Ceny ropy przekraczają 112 dolarów . Orlen i Synthos Green Energy rozwijają SMR",
@@ -229,6 +287,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cb53c4a7d0552281a1",
+      "date": "2026-10-23",
+      "title": "Jesienią 2026 PSE po raz pierwszy podają dane o Magazynach Energii Elektrycznej w KSE",
+      "title_pl": "Jesienią 2026 PSE po raz pierwszy podają dane o Magazynach Energii Elektrycznej w KSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW03UnBjU2RHN2FFLU5WaG0wSF9Ic1ZpTUFLbW80ZDg1ekZvZmxONVVwS2F1U0xrNVd0cFdMNW9xUF9NdkwwRW1WX1dxVWUzNmV1WFJZeXVoT0l5UzltMGJZMmVNX2Y3ME9UYXZRRGpMOTdLd3BsZVUtaTdJV0w5SVllYXc3M3paMWg2VWVFZ095YmlxQ0gwczB5UWxIWWI1Y3B3bWRkeWJpaGRHNUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -348,6 +435,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ace2cffd010b5952c5",
+      "date": "2026-10-23",
+      "title": "Pierwsze takie składowisko odpadów jądrowych na świecie. Finlandia przyznała koncesję",
+      "title_pl": "Pierwsze takie składowisko odpadów jądrowych na świecie. Finlandia przyznała koncesję",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUkwtemNtSkZSN0ZoeklnbkktWklpMVRaWjgxdzh3N2k1b3l3ejc4WTIyZFo5UVBPMFZuV21TTlA3WFNzR0pBcEEtbXlNWlNUeTV6b2l4TkVwUWZkcldaZFV0MEFJdEJvYkl4LUkwM096ZGpuUlIxTU5JY0ZUWUE0cUdOd01oMV91Nm5yM2RyNGYyQ0h4NFc2N212SGMwcGg5STh2Wk9rd1F1ZEg2WnNDQUFITHZiRkotOGpoNVNaMl8tbHM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-abf0ca393914506c74",
@@ -603,6 +719,35 @@
       "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-941e47a735172cbd41",
+      "date": "2026-10-23",
+      "title": "Magazyny energii przy czterech farmach wiatrowych PGE w 2028 r. Elektrotim wygrywa przetarg",
+      "title_pl": "Magazyny energii przy czterech farmach wiatrowych PGE w 2028 r. Elektrotim wygrywa przetarg",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdThmLWFkTHBDSnBnMlJ4ekJCNzFqN3ljS2lfVUM1djI1OExzQ3pzbnppcUg5NDVvSWh4eEJLOEYzR3Fwckt1WS1JaVI3ZHdhb2VkazhCNDF2aW8yQzV4OWJGb0h6OEZwS3dOQW9qN2wyd0Rsdlp5dXE4QmtJX2xoNVJicGJDTzVsWFM2Z05xaDJqZlNxQ1IwVjZ0Qm56d3BiTW1SNDVDM2hONzY1RXc0dnhxQVdTVHNuVTZGbDdvdU1IMGlYb1o3eUlsVHk2elFr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "20"
@@ -1141,11 +1286,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -1159,8 +1304,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-357e0de60a501cd213",
@@ -1308,6 +1453,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2123d03750f6deaa5b",
+      "date": "2026-10-23",
+      "title": "Ustawa biometanowa podpisana przez Prezydenta, co to oznacza dla rynku",
+      "title_pl": "Ustawa biometanowa podpisana przez Prezydenta, co to oznacza dla rynku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlBJWXJsRk0zOXRONkYzaExyNGhCMm5GSmhmYnVoZDkyMVNWa3J3ekFLR2tnMnFLWDlYVnpqZTlPUHFxTERTRWZwX2h3Nkc4c0NSUldTdjY0VURQZTdaa3JuQkZsRGhVZDJYVVZMcWtmSUMtbWk4R2stM0MwVGljQWJHSEFGVkFNNzhvMWFZMElrblAyM182cmszdzIzZ2V6R3hkV1ZkSUp0NzdmRUpfQ3picENFWmNDWVFtVDk5bnRoaVlT?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-20b2b813c48b7d1df0",
       "date": "2026-10-23",
       "title": "PSE: moc bateryjnych magazynów energii w systemie to 1,3 GW",
@@ -1364,6 +1538,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-11e43ad142321ab75d",
+      "date": "2026-10-23",
+      "title": "Wyk. robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podst. SPSK zlok. na terenie woj. warmińsko-mazurskiego: PSP SPSK w Bielicy i SP SPSK w Smolajnach",
+      "title_pl": "Wyk. robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podst. SPSK zlok. na terenie woj. warmińsko-mazurskiego: PSP SPSK w Bielicy i SP SPSK w Smolajnach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "STOWARZYSZENIE PRZYJACIÓŁ SZKÓŁ KATOLICKICH",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df310a-fe53-9efe-701a-d00001a7d177",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-013528386cd6b2ce7d",
