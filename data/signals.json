@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:33:59+00:00",
+  "updated": "2026-10-23T18:04:08+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e2ad683f798c28da22",
+      "date": "2026-10-23",
+      "title": "Greenvolt sprzeda dwa magazyny energii o łącznej mocy 400 MW na rzecz A&R Investments",
+      "title_pl": "Greenvolt sprzeda dwa magazyny energii o łącznej mocy 400 MW na rzecz A&R Investments",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHFQbDFQeHFqQU9wRXdRejNvMGdIMFZNN21pb3BqaDdNUHRKZHZUeEtMeXlid1lONUdWQVh0ZjZQSm5PaDRKbWF6RlhNNWpYLS1sUGY0Qy0wZVdES0lFbUtWNjRMNHc3LUcxZTBjajEzdXV5U3R2NGlTRHRRbVJaZmFGTjdFWUhJMV9GZ0xpcnJrT3RLUk55NENReC1hOHJUR1RVcDZLZEZ1YXA4ZnpUTXlwYkx3Q1JHTXZ0aklWWDFZUmJOQlE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-de6b20e5dea5e3144f",
@@ -2144,6 +2173,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-095fa44931fe632072",
+      "date": "2026-10-23",
+      "title": "Sejm przyjął ustawę o wsparciu dla przemysłu energochłonnego. Kto otrzyma pomoc?",
+      "title_pl": "Sejm przyjął ustawę o wsparciu dla przemysłu energochłonnego. Kto otrzyma pomoc?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3drOTRBME5TYjlnRzNjRDlvQkwyODdoMkczampVbnpLZnQ5S3BYMlhGV01FS0NtekpZZU9acGNkNjdkelZ0anBVSmhpMTVhU0JfRUZINXRiVE80VXNkOGttR2tUaGRTeDhVRmI3M0drenBWUHVhZWhlYnhxTjljM1BnMEVRZmhoVzRhczRtQVlDdVJTYXNkSmlmcURlZUJXZFBCR0s4MV9xZ2Vzc3JLYmZodmlYdDVYMlhJU3FLb2k?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
