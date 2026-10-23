@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T15:39:07+00:00",
+  "updated": "2026-10-23T16:38:45+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -52,6 +52,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e8f60f6a68fe5a7bd1",
+      "date": "2026-10-23",
+      "title": "Przekładnie i generatory do Vestasa V80/2 MW i Enercona 2.3 MW",
+      "title_pl": "Przekładnie i generatory do Vestasa V80/2 MW i Enercona 2.3 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORnJaX0o5ZDJuSEkwNm5fbTUyUF9MeEQ3MU80THlYTzZMc2tLQ2NXQUpKcFByb0hlVEJVOU5TRkpsMkFaQ0ZLQlJQUEJ6b0hJbVBfTVpZSVBZZElIVmVta25WZ3MyRVBTaTRGMFRDQWpNNnFTRUQ4RnlXQ0JZNHBBa0hDZGo1MXFJaDlobWk5S1pTRGVlT0VxQ1hvZFQ3Sm5pcDRNT0tQcnZfMmtha0J6NUF3a2EtbExTbXFr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -171,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d7e3eeb28a00b88493",
+      "date": "2026-10-23",
+      "title": "Komercyjne magazyny energii Sungrow 2 h/3 h/4 h od 229 kWh do 5 MWh dla jednej jednostki",
+      "title_pl": "Komercyjne magazyny energii Sungrow 2 h/3 h/4 h od 229 kWh do 5 MWh dla jednej jednostki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbzRHYlAtN1VNTWpXQTMtelQ5eFlGRi1KcUpHeE1oenJ1MnZwdnhKYlVZRXIzVTdqNVlOWnE3NWdRcGdEQzdlekNqSGhwYnBHZlBKQTFLVGhhdUt3UHFWb05TbWprY0FnV2w3TFV0WmRrNG4yOVE0U3dNdHB2VFpSYVJ3UTNCay01TnRxT0Yzb01tLV90OE9HSTFNNVV6UFhrLV9vUWxZdWNjdEkzR003NGphVGx5VmVPYUsxYnh0enQydmlTU2g3RlVlTHJpaWd4WGFBN3RtZ2EzbDl4QXBpdA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -495,6 +553,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b196f7fe11ac0ca290",
+      "date": "2026-10-23",
+      "title": "Ptaki kontra wiatraki. Jedna prosta zmiana może ograniczyć kolizje",
+      "title_pl": "Ptaki kontra wiatraki. Jedna prosta zmiana może ograniczyć kolizje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnh0LVJnSTlxalFENko3b0lVcmhHdW0wQnVmVmZYbFF1SWZxRWFUU2FBdFBYUmZEZUxueUFjVFRlbG5rbllpdTVKX1hlMF9vYTcwb1hSLV9EUXRzX212ekxVREVUa1Z2ektaZnFsd0luUG56UWJoVHB1NkNlRW55SkdseDBucGZDZjcyUGJiRG90TEJC?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-adacf3be0ebf169500",
+      "date": "2026-10-23",
+      "title": "Wymiana fragmentu nawierzchni drogi wewnętrznej, chodnika i parkingów Zespołu Szkół Elektrycznych nr 1 przy ul. Kamieńskiego w Krakowie ZP-4/2026",
+      "title_pl": "Wymiana fragmentu nawierzchni drogi wewnętrznej, chodnika i parkingów Zespołu Szkół Elektrycznych nr 1 przy ul. Kamieńskiego w Krakowie ZP-4/2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Miejska Kraków",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df311e-2269-b2d6-701a-d00001a7d1ce",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-ace2cffd010b5952c5",
       "date": "2026-10-23",
       "title": "Pierwsze takie składowisko odpadów jądrowych na świecie. Finlandia przyznała koncesję",
@@ -522,6 +638,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ac5c9250f42368ce4a",
+      "date": "2026-10-23",
+      "title": "KNF zawiadamia prokuraturę. Podejrzenie manipulacji kursami czterech spółek",
+      "title_pl": "KNF zawiadamia prokuraturę. Podejrzenie manipulacji kursami czterech spółek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Komisja Nadzoru Finansowego poinformowała o zaistnieniu okoliczności wskazujących na dokonanie manipulacji w obrocie akcjami MLK Foods Public Company Ltd., Coal Energy oraz Raen (obecnie: Grupa Virtus), a także FON SE.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/KNF-podejrzewa-manipulacje-w-obrocie-akcjami-MLK-Foods-Coal-Energy-Raen-FON-9217646.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-abf0ca393914506c74",
@@ -959,6 +1104,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7fd29c3a32f3e475da",
+      "date": "2026-10-23",
+      "title": "Odkupię gwarancje pochodzenia energii produkcji 2025 i 2026",
+      "title_pl": "Odkupię gwarancje pochodzenia energii produkcji 2025 i 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGY2SUR6ZDVkR3pQM3libGZYTUNONUlwY3QxcFpNYnhUQVVmRm1lelFSWVR0Nm5kVVNUYktXT203ZUQ2VXJ0YWlzdG1ycW5JSVQ5LV9YeUc0dmVoUE10blJhVW82ZTlRZDFlSWRWNDlLVTdTWjNxZ3NoZ0ZYZVJsMk8zb2VneFlJVXBGSjk3SUliOWlrVmVUV0NFWlA2UFVLdTZuREJaMGhWSXBWNjFNSjE5bw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7d80f98acf4f3d48c0",
       "date": "2026-10-23",
       "title": "9 listopada na Stadionie Narodowym w Warszawie Dzień Dostawcy Grupy PGE",
@@ -1366,6 +1540,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-4740bb79cad456a2e4",
+      "date": "2026-10-23",
+      "title": "Banki, Tauron, Action, Scanway. Zwycięzcy i przegrani sesji na GPW 23 X 2026",
+      "title_pl": "Banki, Tauron, Action, Scanway. Zwycięzcy i przegrani sesji na GPW 23 X 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTdTeThmVjdtcll0V1V6RnNHazRfcHBnRjJyZ0t5U090ZGdQOVFjTWxsVXhOZUc0TVlBMXRiMW5ESlZYT1lVUnhnTzZNdnAzNDNBTUM3UWdkRjBSMmRTbmVyQWpOdDdMaURCMFcxT1VjRlZrY3F1Y09FR0t1QWY4UXJzVjd0dFk3WExfd3U4ejdndmhrdUs2M3FMbksyYmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-41829e6b553343e95c",
       "date": "2026-10-23",
       "title": "Tak dużo za funta i franka nie płacono od dawna. Odwrót od polskiej waluty",
@@ -1547,11 +1750,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE Energia Odnawialna wybrała oferty firmy Elektrotim o łącznej wartości 331 mln zł w przetargach na wykonawcę magazynów energii elektrycznej przy czterech farmach wiatrowych – podała w piątek spółka.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-wyda-331-mln-zl-na-magazyny-energii-Wybrano-wykonawce-9217365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVNtaGNxbVNRZl9JdHBuSE1VRTlaUmZIV0ZhNGpsQU5RSmRGaDBoUXRENm5VQnoyT0p4RTNTbUNwblJseWZ6ZlRpS3Q0cFZiWnVQdDZ2bzQ1bmF3OFBvMmlwdTBWV3BrQkpwdkJKUzZKeHBEejZsZmdtdEozc3BnS2lUZXBYa3FuWlg4MFdsZkd3WkczcUxPemh0MlowXzZOSGRDVnpR?oc=5",
           "type": "press"
         }
       ],
@@ -1565,8 +1768,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-357e0de60a501cd213",
@@ -1656,6 +1859,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2d44fbb3bcba836a82",
+      "date": "2026-10-23",
+      "title": "Bezpośrednia dystrybucja Trina Solar / JA Solar / Longi / Jinko – moduły dostępne w Polsce i UE / sprzedaż kontenerowa i paletowa",
+      "title_pl": "Bezpośrednia dystrybucja Trina Solar / JA Solar / Longi / Jinko – moduły dostępne w Polsce i UE / sprzedaż kontenerowa i paletowa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTm5RLUhNbXZHWDUzVzhhRHUxU19NdzdRSF9wY19NOWF5azV3dk5yNFkxNlYycjhOZGhEM21WSGdDSndaTkdyeXYxaGNOaml4N1pYTHlNUzZCY3lCT29ydnhmUVVRdkc4bXpyTVEwblcyWkVGUExQVHlVS3I5V3FRNU1rd2otRjR1RDZUdERCdDViNzNFQTF4QjRjT1JxNWJJZGJCZ29SZ1daTjRDeWdrREx4X0VZRVprcWZLWE1PTnpYaTBqVFhLRWp5Y3Uybi1WVUhUTDU2VGhSNjZOSDJXc2U1ZmdfSmtSb1BBWF9VWTJUNHUxdFJpa1pBWEh2dTN2ekV5c0tPemxUdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-29438db5895286ba45",
       "date": "2026-10-23",
       "title": "Zlecę wykonanie projektu magazynu 50 MW",
@@ -1697,6 +1929,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2pDeHZSQllzaEpmTUpqVkd6RzZ6Z0ZHNXhfbUdwa0pFRTNNX0M0WWNMb0E0d18wNUI1OHh2ektrQ2tVbE1jbEJHbktpZGxORVJqbC01eUJNRHAxcGV4R2hPejJFMkJKVDZOeTl2UmFCbFFQdmhoQllLeDI4RVR3dzV2eml2VDQ2RnVoRDJHS2ZEa1NuYnhHMHZBQXk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2222080ba02883eff4",
+      "date": "2026-10-23",
+      "title": "Nowe dotacje oraz 28 GW w fotowoltaice. Ważny tydzień dla prosumentów",
+      "title_pl": "Nowe dotacje oraz 28 GW w fotowoltaice. Ważny tydzień dla prosumentów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDc2LUFLRXA5RmRGVkJJR0NnQkdidlA0V1ppeW9zRVdpeUhyeDc4X3ZHb2lpWkNEdG9LVmRETWtVUHB3UU0xZG1yTmhOMmtNVUFIZ0ZRZmZ2dnpHZVcySUlSb0JxWWhpZ2NaaVVIMmdZNHJ2cldxa2tvT3BwQ21lemZLQU5vTTBJUlhjSVoxeXl0VlZCVkNV?oc=5",
           "type": "press"
         }
       ],
@@ -4265,6 +4526,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-98a3157f7403d7e4a6",
+      "date": "2026-10-21",
+      "title": "Projekt 4,5 MW – Ozimek",
+      "title_pl": "Projekt 4,5 MW – Ozimek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbEN2bS14MHRVWXpZT2RjenVMb2QyV1AzVUpZbU9FSTZGQkpOYVROSTU4YmNDbTdqVXZWeUk3R1RZbWdqV3FmT211LVZVT05jQThDaFRLSEtkUm5PNVdYSnQxVnRheVRQMWl2RVR2Y2tMZG82WlJYWmZQYkpKc3RNVXV4c1ZhUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
