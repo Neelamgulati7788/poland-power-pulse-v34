@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:47:30+00:00",
+  "updated": "2026-10-23T10:49:48+00:00",
   "signals": [
     {
       "id": "src-ffe2aa14d068b15126",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-ff597674661d8c9931",
+      "date": "2026-10-23",
+      "title": "Przebudowa i rozbudowa istniejącego budynku biurowego Komunikacji Beskidzkiej o windę osobową, wraz z remontem korytarzy i holu wejściowego",
+      "title_pl": "Przebudowa i rozbudowa istniejącego budynku biurowego Komunikacji Beskidzkiej o windę osobową, wraz z remontem korytarzy i holu wejściowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Komunikacja Beskidzka S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df30f3-536b-b8f1-701a-d000013b55aa",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -3990,7 +4019,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkF0NkU5VmlPVk5kVjBMMDAxbUJLTWFCd3lwM3Uzb0xrZ1FhT0FBR0REbHNHN19kSVRfUkkwY1hZZ1ZIN3lMamVQQ2VCNmh1aFNMZEFJb2FaMkx6aERmeTBoc2JQTzR4YzZpTEdiNG5vN1pWb2tXRnR4SmcyaVdMMVhhRUpJcUtfM3R5QV9WMG1rdnFHOGVZMFBOVmRSbDI0eHZRcFJ3Y1l6TW96cTFKSWxRRkVZRDlkRHdOMHJMdXdkSEt1SFpSYjZSN1R3MGdTX1ViTUU4QkJLbEtOeWx4Zg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV28xVkVfV0RUZzU0enBvemtSenBWVWtKaXVKVE5iNTVqYXhTRVZUbURrSm80NjJaemVXQTdwSzB0SHVDUTZRUnB1QWEtYVR1NXcwTXkxSE14anZIZTZWVDh0TW9ZcFFxNTRwOTJYOXBGcG0zeEJ5NzItYUVXejBVd211aGtFVlhqeC1Ba3BZb0w0RlJxWE5LUXc4MlVVb1paY25FdDZhN2NuanRvMW5faEpHaVZFQXoyVTRCU3dWaWdzR1k?oc=5",
           "type": "press"
         }
       ],
@@ -3998,7 +4027,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
