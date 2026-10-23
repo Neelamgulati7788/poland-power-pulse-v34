@@ -1,60 +1,2264 @@
 {
-  "checkedAt": "2026-10-23T10:36:57+00:00",
-  "lastSuccessfulCollectionAt": "2026-10-23T10:36:57+00:00",
+  "checkedAt": "2026-10-23T10:33:48+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-23T10:33:48+00:00",
   "status": "partial",
-  "successfulSources": 5,
-  "totalSources": 7,
-  "newItems": 0,
-  "retainedItems": 19,
-  "latestPublicationDate": "2026-10-20",
+  "successfulSources": 71,
+  "totalSources": 72,
+  "requestedWorkbookSources": 71,
+  "newItems": 52,
+  "retainedItems": 675,
+  "retentionDropped": 0,
+  "latestPublicationDate": "2026-10-23",
+  "polishOriginals": 577,
   "sources": [
     {
-      "source": "Baltic Wind",
-      "url": "https://balticwind.eu/feed/",
+      "id": "1",
+      "source": "Ministry of Energy",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://www.gov.pl/web/energia",
       "status": "success",
-      "entriesRead": 100,
-      "matched": 16
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fenergia%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
     },
     {
-      "source": "CEEnergyNews",
-      "url": "https://ceenergynews.com/feed/",
-      "status": "error",
-      "error": "mismatched tag: line 46, column 2"
-    },
-    {
-      "source": "ESS News",
-      "url": "https://www.ess-news.com/feed/",
+      "id": "2",
+      "source": "Chancellery of the PM — legislative work list",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://www.gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow",
       "status": "success",
-      "entriesRead": 10,
-      "matched": 0
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpremier%2Fwykaz-prac-legislacyjnych-i-programowych-rady-ministrow%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
     },
     {
+      "id": "3",
+      "source": "Ministry of Climate and Environment",
+      "group": "Government & legislation",
+      "language": "PL/EN",
+      "url": "https://www.gov.pl/web/climate",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 6,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "4",
+      "source": "Ministry of State Assets",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://www.gov.pl/web/aktywa-panstwowe",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Faktywa-panstwowe%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "5",
+      "source": "Sejm API & ELI (Dziennik Ustaw)",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://api.sejm.gov.pl",
+      "status": "success",
+      "coverage": "direct",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "eli",
+          "url": "https://api.sejm.gov.pl/eli/acts/search",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 14,
+          "matched": 0,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "6",
+      "source": "Sejm API — prints & processes",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://api.sejm.gov.pl",
+      "status": "success",
+      "coverage": "direct",
+      "matched": 7,
+      "latestPublicationDate": "2026-10-22",
+      "routes": [
+        {
+          "method": "prints",
+          "url": "https://api.sejm.gov.pl/sejm/term10/prints",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 3501,
+          "matched": 6,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        },
+        {
+          "method": "processes",
+          "url": "https://api.sejm.gov.pl/sejm/term10/processes",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1761,
+          "matched": 1,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "7",
+      "source": "ISAP — Polish law database",
+      "group": "Government & legislation",
+      "language": "PL",
+      "url": "https://isap.sejm.gov.pl",
+      "status": "success",
+      "coverage": "direct",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "eli",
+          "url": "https://api.sejm.gov.pl/eli/acts/search",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 14,
+          "matched": 0,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "8",
+      "source": "URE — Energy Regulatory Office",
+      "group": "Regulators",
+      "language": "PL/EN",
+      "url": "https://www.ure.gov.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "9",
+      "source": "PAA — National Atomic Energy Agency",
+      "group": "Regulators",
+      "language": "PL/EN",
+      "url": "https://www.gov.pl/web/paa",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "10",
+      "source": "UOKiK — competition authority",
+      "group": "Regulators",
+      "language": "PL",
+      "url": "https://uokik.gov.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Auokik.gov.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 8,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "11",
+      "source": "European Commission — energy / state aid",
+      "group": "Regulators",
+      "language": "EN",
+      "url": "https://energy.ec.europa.eu",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy.ec.europa.eu+OR+site%3Aec.europa.eu%2Fcommission%2Fpresscorner%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "12",
+      "source": "EUR-Lex — EU Official Journal",
+      "group": "Regulators",
+      "language": "EN",
+      "url": "https://eur-lex.europa.eu",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "13",
+      "source": "PSE — TSO data API",
+      "group": "System operators & market",
+      "language": "PL/EN",
+      "url": "https://raporty.pse.pl",
+      "status": "success",
+      "coverage": "data_only",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "pse_data",
+          "url": "https://api.raporty.pse.pl/api/rce-pln",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 0,
+          "coverage": "data_only",
+          "note": "Market-data endpoint checked. This row is not a headline source; PSE news is monitored separately."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-09-23"
+    },
+    {
+      "id": "14",
+      "source": "PSE — news & capacity market",
+      "group": "System operators & market",
+      "language": "PL",
+      "url": "https://www.pse.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 2,
+      "latestPublicationDate": "2026-10-22",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apse.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 9,
+          "matched": 2,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "15",
+      "source": "TGE — Polish Power Exchange",
+      "group": "System operators & market",
+      "language": "PL/EN",
+      "url": "https://tge.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 6,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 2,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "16",
+      "source": "PGE Dystrybucja",
+      "group": "System operators & market",
+      "language": "PL",
+      "url": "https://pgedystrybucja.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apgedystrybucja.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "17",
+      "source": "Energa-Operator",
+      "group": "System operators & market",
+      "language": "PL",
+      "url": "https://energa-operator.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 1,
+      "latestPublicationDate": "2026-10-21",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenerga-operator.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 9,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "18",
+      "source": "WNP.pl (Nowy Przemysł) — Energetyka",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://www.wnp.pl/energia/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 8,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Awnp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 8,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "19",
+      "source": "WysokieNapięcie.pl",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://wysokienapiecie.pl",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 6,
+      "latestPublicationDate": "2026-10-22",
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://wysokienapiecie.pl/feed/",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 9,
+          "matched": 2,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Awysokienapiecie.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 12,
+          "matched": 4,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "20",
+      "source": "Energetyka24",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://energetyka24.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 23,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergetyka24.com%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 54,
+          "matched": 23,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "21",
+      "source": "BiznesAlert.pl",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://biznesalert.pl",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 4,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://biznesalert.pl/feed/",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 10,
+          "matched": 3,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznesalert.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 16,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "22",
+      "source": "Gramwzielone.pl",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://www.gramwzielone.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 58,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 82,
+          "matched": 58,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "23",
+      "source": "CIRE.pl",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://www.cire.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 19,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Acire.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 40,
+          "matched": 19,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "24",
+      "source": "Rzeczpospolita — energia.rp.pl",
+      "group": "Polish specialist media",
+      "language": "PL",
+      "url": "https://energia.rp.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 5,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergia.rp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 19,
+          "matched": 5,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "25",
+      "source": "PAP Biznes",
+      "group": "Polish business press",
+      "language": "PL/EN",
+      "url": "https://biznes.pap.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 1,
+      "latestPublicationDate": "2026-10-22",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "26",
+      "source": "Puls Biznesu",
+      "group": "Polish business press",
+      "language": "PL",
+      "url": "https://www.pb.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 6,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apb.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 6,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "27",
+      "source": "Bankier.pl",
+      "group": "Polish business press",
+      "language": "PL",
+      "url": "https://www.bankier.pl",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 9,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.bankier.pl/rss/wiadomosci.xml",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 48,
+          "matched": 5,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abankier.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 4,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "28",
+      "source": "ISBnews",
+      "group": "Polish business press",
+      "language": "PL",
+      "url": "https://www.isbnews.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aisbnews.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "29",
+      "source": "Polskie Radio (English)",
+      "group": "Polish business press",
+      "language": "EN",
+      "url": "https://www.polskieradio.pl/395",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "30",
       "source": "Notes From Poland",
-      "url": "https://notesfrompoland.com/feed/",
+      "group": "Polish business press",
+      "language": "EN",
+      "url": "https://notesfrompoland.com",
       "status": "success",
-      "entriesRead": 12,
-      "matched": 0
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://notesfrompoland.com/feed/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 12,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Anotesfrompoland.com%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 11,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
     },
     {
-      "source": "Renewables Now",
-      "url": "https://renewablesnow.com/news/rss/",
-      "status": "error",
-      "error": "HTTP Error 403: Forbidden"
+      "id": "31",
+      "source": "Reuters — Energy",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.reuters.com/business/energy/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 3,
+      "latestPublicationDate": "2026-10-20",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=site%3Areuters.com+%28Poland+OR+Polish%29+when%3A30d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 4,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply.",
+          "recentWindowEntries": 78
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-09-23"
     },
     {
+      "id": "32",
       "source": "World Nuclear News",
-      "url": "https://www.world-nuclear-news.org/rss",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.world-nuclear-news.org",
       "status": "success",
-      "entriesRead": 45,
-      "matched": 3
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.world-nuclear-news.org/rss",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 45,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aworld-nuclear-news.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 9,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
     },
     {
-      "source": "pv magazine",
-      "url": "https://www.pv-magazine.com/feed/",
+      "id": "33",
+      "source": "Renewables Now",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://renewablesnow.com",
       "status": "success",
-      "entriesRead": 10,
-      "matched": 0
+      "coverage": "indexed_discovery",
+      "matched": 26,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=site%3Arenewablesnow.com+%28Poland+OR+Polish%29+when%3A30d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 30,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply.",
+          "recentWindowEntries": 100
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-09-23"
+    },
+    {
+      "id": "34",
+      "source": "Enerdata",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.enerdata.net",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 3,
+      "latestPublicationDate": "2026-10-16",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=site%3Aenerdata.net+%28Poland+OR+Polish%29+when%3A30d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 3,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-09-23"
+    },
+    {
+      "id": "35",
+      "source": "CEEnergyNews",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://ceenergynews.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 10,
+      "latestPublicationDate": "2026-10-22",
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://ceenergynews.com/feed/",
+          "language": "EN",
+          "status": "error",
+          "error": "mismatched tag: line 46, column 2"
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=site%3Aceenergynews.com+%28Poland+OR+Polish%29+when%3A30d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 12,
+          "coverage": "indexed_discovery",
+          "limited": true,
+          "note": "Google News results; indexing delay and per-query result caps apply.",
+          "recentWindowEntries": 13
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-09-23"
+    },
+    {
+      "id": "36",
+      "source": "Utility Dive",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.utilitydive.com",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.utilitydive.com/feeds/news/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 10,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Autilitydive.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "37",
+      "source": "ESS News",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.ess-news.com",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.ess-news.com/feed/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 10,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aess-news.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 3,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "38",
+      "source": "Energy-Storage.news",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.energy-storage.news",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.energy-storage.news/feed/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 300,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 7,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "39",
+      "source": "pv magazine",
+      "group": "International media",
+      "language": "EN",
+      "url": "https://www.pv-magazine.com",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://www.pv-magazine.com/feed/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 10,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apv-magazine.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 3,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "40",
+      "source": "GDELT DOC 2.0 API",
+      "group": "International media",
+      "language": "Multi",
+      "url": "https://api.gdeltproject.org",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "gdelt",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "language": "Multi",
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
+        }
+      ],
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": null,
+      "windowStart": "2026-09-23"
+    },
+    {
+      "id": "41",
+      "source": "European Investment Bank",
+      "group": "Financing & procurement",
+      "language": "EN",
+      "url": "https://www.eib.org/en/press/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aeib.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 3,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "42",
+      "source": "US EXIM",
+      "group": "Financing & procurement",
+      "language": "EN",
+      "url": "https://www.exim.gov/news",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aexim.gov%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "43",
+      "source": "EC Recovery & Resilience — Poland",
+      "group": "Financing & procurement",
+      "language": "EN",
+      "url": "https://reforms-investments.ec.europa.eu",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Areforms-investments.ec.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "44",
+      "source": "TED — EU tenders",
+      "group": "Financing & procurement",
+      "language": "Multi",
+      "url": "https://ted.europa.eu",
+      "status": "success",
+      "coverage": "direct",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "ted",
+          "url": "https://api.ted.europa.eu/v3/notices/search",
+          "language": "PL/EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "45",
+      "source": "e-Zamówienia / BZP",
+      "group": "Financing & procurement",
+      "language": "PL",
+      "url": "https://ezamowienia.gov.pl",
+      "status": "success",
+      "coverage": "direct",
+      "matched": 2,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "bzp",
+          "url": "https://ezamowienia.gov.pl/mo-board/api/v1/Board/Search",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 10,
+          "matched": 2,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "46",
+      "source": "GDOŚ — environmental decisions",
+      "group": "Financing & procurement",
+      "language": "PL",
+      "url": "https://www.gov.pl/web/gdos",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fgdos%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "47",
+      "source": "Forum Energii",
+      "group": "Analysis & legal",
+      "language": "PL/EN",
+      "url": "https://www.forum-energii.eu/en",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "48",
+      "source": "Dentons · CMS · SSW (law firm briefings)",
+      "group": "Analysis & legal",
+      "language": "EN",
+      "url": "https://dentons.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 41,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "49",
+      "source": "GPW / PAP Biznes ESPI current reports — all listed issuers",
+      "group": "Company disclosures (ESPI)",
+      "language": "PL/EN",
+      "url": "https://www.gpw.pl/komunikaty",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 3,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "50",
+      "source": "PGE — current reports & press",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://www.gkpge.pl/en/for-investors/current-reports",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 3,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 20,
+          "matched": 3,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "51",
+      "source": "Enea — investor relations & press",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://ir.enea.pl/en",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 1,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "52",
+      "source": "Energa — press office",
+      "group": "Company disclosures",
+      "language": "PL",
+      "url": "https://media.energa.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.energa.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "53",
+      "source": "ORLEN — press releases",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://www.orlen.pl/en/about-the-company/media/press-releases",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 8,
+      "latestPublicationDate": "2026-10-23",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 12,
+          "matched": 7,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "54",
+      "source": "TAURON — media",
+      "group": "Company disclosures",
+      "language": "PL",
+      "url": "https://media.tauron.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 1,
+      "latestPublicationDate": "2026-10-21",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.tauron.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 2,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "55",
+      "source": "ZE PAK — investor relations",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://ri.zepak.com.pl/en",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "56",
+      "source": "PEJ — Polskie Elektrownie Jądrowe",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://pej.pl/en/homepage",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "57",
+      "source": "Polenergia",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://www.polenergia.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "58",
+      "source": "Fortum Polska",
+      "group": "Company disclosures",
+      "language": "EN",
+      "url": "https://www.fortum.com/en/media",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Afortum.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "59",
+      "source": "Ørsted",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://orsted.com/en/media/news",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorsted.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "60",
+      "source": "RWE Polska",
+      "group": "International peers in Poland",
+      "language": "PL/EN",
+      "url": "https://pl.rwe.com/en/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "61",
+      "source": "Iberdrola Polska",
+      "group": "International peers in Poland",
+      "language": "EN/ES",
+      "url": "https://www.iberdrolainternacional.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aiberdrolainternacional.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "62",
+      "source": "ENGIE Polska",
+      "group": "International peers in Poland",
+      "language": "PL",
+      "url": "https://engie-polska.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aengie-polska.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "63",
+      "source": "EDP Renewables Polska",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://www.edpr.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aedpr.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "64",
+      "source": "Shell (Poland power/trading)",
+      "group": "International peers in Poland",
+      "language": "PL/EN",
+      "url": "https://www.shell.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "65",
+      "source": "TotalEnergies (Poland)",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://totalenergies.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atotalenergies.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 3,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "66",
+      "source": "Ocean Winds (BC-Wind)",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://www.oceanwinds.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aoceanwinds.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "67",
+      "source": "Axpo Polska",
+      "group": "International peers in Poland",
+      "language": "PL/EN",
+      "url": "https://www.axpo.com/pl/en/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "68",
+      "source": "EDF / Dalkia Polska",
+      "group": "International peers in Poland",
+      "language": "PL/EN",
+      "url": "https://dalkiapolska.com/en",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "69",
+      "source": "BP (Poland)",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://www.bp.com",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abp.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 8,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "70",
+      "source": "Vitol",
+      "group": "International peers in Poland",
+      "language": "EN",
+      "url": "https://www.vitol.com/media/",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Avitol.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "71",
+      "source": "Veolia Polska",
+      "group": "International peers in Poland",
+      "language": "PL",
+      "url": "https://centrumprasowe.veolia.pl",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Acentrumprasowe.veolia.pl+OR+site%3Aveolia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 1,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
+    },
+    {
+      "id": "72",
+      "source": "Baltic Wind",
+      "group": "Existing configured feed",
+      "language": "EN",
+      "url": "https://balticwind.eu/",
+      "status": "success",
+      "coverage": "direct_and_indexed",
+      "matched": 0,
+      "latestPublicationDate": null,
+      "routes": [
+        {
+          "method": "rss",
+          "url": "https://balticwind.eu/feed/",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 100,
+          "matched": 0,
+          "coverage": "publisher_feed",
+          "note": "Publisher feed recent window; no claim of a full publisher archive."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=site%3Abalticwind.eu+%28Poland+OR+Polish+OR+PGE+OR+Baltica+OR+Ba%C5%82tyk%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 7,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-10-23T10:33:48+00:00",
+      "lastSuccessfulCheckAt": "2026-10-23T10:33:48+00:00",
+      "windowStart": "2026-10-21"
     }
   ],
-  "scope": "English RSS/Atom headlines only; recent feed windows; no automated translation or analyst review."
+  "scope": "All workbook rows are attempted. Indexed discovery, API windows and publisher feeds have different coverage; no guarantee of every article. Polish originals are retained and labelled when English translation is unavailable."
 }

@@ -1,0 +1,1596 @@
+{
+  "version": 2,
+  "sourceWorkbook": "sources.xlsx",
+  "requestedRows": 71,
+  "sources": [
+    {
+      "id": "1",
+      "source": "Ministry of Energy",
+      "group": "Government & legislation",
+      "website": "https://www.gov.pl/web/energia",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/energia)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "2",
+      "source": "Chancellery of the PM — legislative work list",
+      "group": "Government & legislation",
+      "website": "https://www.gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "3",
+      "source": "Ministry of Climate and Environment",
+      "group": "Government & legislation",
+      "website": "https://www.gov.pl/web/climate",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/klimat OR site:gov.pl/web/climate) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/klimat OR site:gov.pl/web/climate) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "4",
+      "source": "Ministry of State Assets",
+      "group": "Government & legislation",
+      "website": "https://www.gov.pl/web/aktywa-panstwowe",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/aktywa-panstwowe)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "5",
+      "source": "Sejm API & ELI (Dziennik Ustaw)",
+      "group": "Government & legislation",
+      "website": "https://api.sejm.gov.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "api.sejm.gov.pl"
+      ],
+      "requestedMethod": "REST API (JSON)",
+      "routes": [
+        {
+          "kind": "eli",
+          "url": "https://api.sejm.gov.pl/eli/acts/search",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "6",
+      "source": "Sejm API — prints & processes",
+      "group": "Government & legislation",
+      "website": "https://api.sejm.gov.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "api.sejm.gov.pl"
+      ],
+      "requestedMethod": "REST API (JSON)",
+      "routes": [
+        {
+          "kind": "prints",
+          "url": "https://api.sejm.gov.pl/sejm/term10/prints",
+          "language": "PL"
+        },
+        {
+          "kind": "processes",
+          "url": "https://api.sejm.gov.pl/sejm/term10/processes",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "7",
+      "source": "ISAP — Polish law database",
+      "group": "Government & legislation",
+      "website": "https://isap.sejm.gov.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "isap.sejm.gov.pl"
+      ],
+      "requestedMethod": "Use Sejm ELI API",
+      "routes": [
+        {
+          "kind": "eli",
+          "url": "https://api.sejm.gov.pl/eli/acts/search",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "8",
+      "source": "URE — Energy Regulatory Office",
+      "group": "Regulators",
+      "website": "https://www.ure.gov.pl",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "ure.gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query) + BIP scrape",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:ure.gov.pl OR site:bip.ure.gov.pl) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:ure.gov.pl OR site:bip.ure.gov.pl) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "9",
+      "source": "PAA — National Atomic Energy Agency",
+      "group": "Regulators",
+      "website": "https://www.gov.pl/web/paa",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/paa) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/paa) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "10",
+      "source": "UOKiK — competition authority",
+      "group": "Regulators",
+      "website": "https://uokik.gov.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "uokik.gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:uokik.gov.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "11",
+      "source": "European Commission — energy / state aid",
+      "group": "Regulators",
+      "website": "https://energy.ec.europa.eu",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "energy.ec.europa.eu",
+        "ec.europa.eu"
+      ],
+      "requestedMethod": "RSS / Press Corner",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:energy.ec.europa.eu OR site:ec.europa.eu/commission/presscorner) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "12",
+      "source": "EUR-Lex — EU Official Journal",
+      "group": "Regulators",
+      "website": "https://eur-lex.europa.eu",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "eur-lex.europa.eu"
+      ],
+      "requestedMethod": "SPARQL / RSS",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:eur-lex.europa.eu) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "13",
+      "source": "PSE — TSO data API",
+      "group": "System operators & market",
+      "website": "https://raporty.pse.pl",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "raporty.pse.pl"
+      ],
+      "requestedMethod": "REST API (JSON, OData)",
+      "routes": [
+        {
+          "kind": "pse_data",
+          "url": "https://api.raporty.pse.pl/api/rce-pln",
+          "language": "PL",
+          "scope": "Market data health check, not headline coverage"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "14",
+      "source": "PSE — news & capacity market",
+      "group": "System operators & market",
+      "website": "https://www.pse.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "pse.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:pse.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "15",
+      "source": "TGE — Polish Power Exchange",
+      "group": "System operators & market",
+      "website": "https://tge.pl",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "tge.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:tge.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:tge.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "16",
+      "source": "PGE Dystrybucja",
+      "group": "System operators & market",
+      "website": "https://pgedystrybucja.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "pgedystrybucja.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:pgedystrybucja.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "17",
+      "source": "Energa-Operator",
+      "group": "System operators & market",
+      "website": "https://energa-operator.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "energa-operator.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:energa-operator.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "18",
+      "source": "WNP.pl (Nowy Przemysł) — Energetyka",
+      "group": "Polish specialist media",
+      "website": "https://www.wnp.pl/energia/",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "wnp.pl"
+      ],
+      "requestedMethod": "RSS",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:wnp.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "19",
+      "source": "WysokieNapięcie.pl",
+      "group": "Polish specialist media",
+      "website": "https://wysokienapiecie.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "wysokienapiecie.pl"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://wysokienapiecie.pl/feed/",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:wysokienapiecie.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "20",
+      "source": "Energetyka24",
+      "group": "Polish specialist media",
+      "website": "https://energetyka24.com",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "energetyka24.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:energetyka24.com)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "21",
+      "source": "BiznesAlert.pl",
+      "group": "Polish specialist media",
+      "website": "https://biznesalert.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "biznesalert.pl"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://biznesalert.pl/feed/",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:biznesalert.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "22",
+      "source": "Gramwzielone.pl",
+      "group": "Polish specialist media",
+      "website": "https://www.gramwzielone.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "gramwzielone.pl"
+      ],
+      "requestedMethod": "RSS (to confirm) / Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gramwzielone.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "23",
+      "source": "CIRE.pl",
+      "group": "Polish specialist media",
+      "website": "https://www.cire.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "cire.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:cire.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "24",
+      "source": "Rzeczpospolita — energia.rp.pl",
+      "group": "Polish specialist media",
+      "website": "https://energia.rp.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "energia.rp.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:energia.rp.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "25",
+      "source": "PAP Biznes",
+      "group": "Polish business press",
+      "website": "https://biznes.pap.pl",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "biznes.pap.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:biznes.pap.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:biznes.pap.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "26",
+      "source": "Puls Biznesu",
+      "group": "Polish business press",
+      "website": "https://www.pb.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "pb.pl"
+      ],
+      "requestedMethod": "RSS",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:pb.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "27",
+      "source": "Bankier.pl",
+      "group": "Polish business press",
+      "website": "https://www.bankier.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "bankier.pl"
+      ],
+      "requestedMethod": "RSS",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.bankier.pl/rss/wiadomosci.xml",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:bankier.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "28",
+      "source": "ISBnews",
+      "group": "Polish business press",
+      "website": "https://www.isbnews.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "isbnews.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:isbnews.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "29",
+      "source": "Polskie Radio (English)",
+      "group": "Polish business press",
+      "website": "https://www.polskieradio.pl/395",
+      "language": "EN",
+      "polandScoped": true,
+      "domains": [
+        "polskieradio.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:polskieradio.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "30",
+      "source": "Notes From Poland",
+      "group": "Polish business press",
+      "website": "https://notesfrompoland.com",
+      "language": "EN",
+      "polandScoped": true,
+      "domains": [
+        "notesfrompoland.com"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://notesfrompoland.com/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:notesfrompoland.com)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "31",
+      "source": "Reuters — Energy",
+      "group": "International media",
+      "website": "https://www.reuters.com/business/energy/",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "reuters.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "site:reuters.com (Poland OR Polish)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "32",
+      "source": "World Nuclear News",
+      "group": "International media",
+      "website": "https://www.world-nuclear-news.org",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "world-nuclear-news.org"
+      ],
+      "requestedMethod": "RSS",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.world-nuclear-news.org/rss",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:world-nuclear-news.org) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "33",
+      "source": "Renewables Now",
+      "group": "International media",
+      "website": "https://renewablesnow.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "renewablesnow.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "site:renewablesnow.com (Poland OR Polish)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "34",
+      "source": "Enerdata",
+      "group": "International media",
+      "website": "https://www.enerdata.net",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "enerdata.net"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "site:enerdata.net (Poland OR Polish)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "35",
+      "source": "CEEnergyNews",
+      "group": "International media",
+      "website": "https://ceenergynews.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "ceenergynews.com"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://ceenergynews.com/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "site:ceenergynews.com (Poland OR Polish)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "36",
+      "source": "Utility Dive",
+      "group": "International media",
+      "website": "https://www.utilitydive.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "utilitydive.com"
+      ],
+      "requestedMethod": "RSS",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.utilitydive.com/feeds/news/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:utilitydive.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "37",
+      "source": "ESS News",
+      "group": "International media",
+      "website": "https://www.ess-news.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "ess-news.com"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.ess-news.com/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:ess-news.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "38",
+      "source": "Energy-Storage.news",
+      "group": "International media",
+      "website": "https://www.energy-storage.news",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "energy-storage.news"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.energy-storage.news/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:energy-storage.news) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "39",
+      "source": "pv magazine",
+      "group": "International media",
+      "website": "https://www.pv-magazine.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "pv-magazine.com"
+      ],
+      "requestedMethod": "RSS (WordPress)",
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://www.pv-magazine.com/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "(site:pv-magazine.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "40",
+      "source": "GDELT DOC 2.0 API",
+      "group": "International media",
+      "website": "https://api.gdeltproject.org",
+      "language": "Multi",
+      "polandScoped": false,
+      "domains": [
+        "api.gdeltproject.org"
+      ],
+      "requestedMethod": "REST API (JSON)",
+      "routes": [
+        {
+          "kind": "gdelt",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+          "language": "Multi"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "41",
+      "source": "European Investment Bank",
+      "group": "Financing & procurement",
+      "website": "https://www.eib.org/en/press/",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "eib.org"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:eib.org) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "42",
+      "source": "US EXIM",
+      "group": "Financing & procurement",
+      "website": "https://www.exim.gov/news",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "exim.gov"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:exim.gov) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "43",
+      "source": "EC Recovery & Resilience — Poland",
+      "group": "Financing & procurement",
+      "website": "https://reforms-investments.ec.europa.eu",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "reforms-investments.ec.europa.eu"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:reforms-investments.ec.europa.eu) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "44",
+      "source": "TED — EU tenders",
+      "group": "Financing & procurement",
+      "website": "https://ted.europa.eu",
+      "language": "Multi",
+      "polandScoped": false,
+      "domains": [
+        "ted.europa.eu"
+      ],
+      "requestedMethod": "REST API (JSON)",
+      "routes": [
+        {
+          "kind": "ted",
+          "url": "https://api.ted.europa.eu/v3/notices/search",
+          "language": "PL/EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "45",
+      "source": "e-Zamówienia / BZP",
+      "group": "Financing & procurement",
+      "website": "https://ezamowienia.gov.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "ezamowienia.gov.pl"
+      ],
+      "requestedMethod": "Open data (to confirm)",
+      "routes": [
+        {
+          "kind": "bzp",
+          "url": "https://ezamowienia.gov.pl/mo-board/api/v1/Board/Search",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "46",
+      "source": "GDOŚ — environmental decisions",
+      "group": "Financing & procurement",
+      "website": "https://www.gov.pl/web/gdos",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "gov.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gov.pl/web/gdos)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "47",
+      "source": "Forum Energii",
+      "group": "Analysis & legal",
+      "website": "https://www.forum-energii.eu/en",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "forum-energii.eu"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:forum-energii.eu) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:forum-energii.eu) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "48",
+      "source": "Dentons · CMS · SSW (law firm briefings)",
+      "group": "Analysis & legal",
+      "website": "https://dentons.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "dentons.com",
+        "cms.law",
+        "ssw.solutions"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:dentons.com OR site:cms.law OR site:ssw.solutions) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "49",
+      "source": "GPW / PAP Biznes ESPI current reports — all listed issuers",
+      "group": "Company disclosures (ESPI)",
+      "website": "https://www.gpw.pl/komunikaty",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "gpw.pl",
+        "biznes.pap.pl"
+      ],
+      "requestedMethod": "Scrape ESPI list (filter issuer)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "50",
+      "source": "PGE — current reports & press",
+      "group": "Company disclosures",
+      "website": "https://www.gkpge.pl/en/for-investors/current-reports",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "gkpge.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:gkpge.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:gkpge.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "51",
+      "source": "Enea — investor relations & press",
+      "group": "Company disclosures",
+      "website": "https://ir.enea.pl/en",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "ir.enea.pl",
+        "media.enea.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:ir.enea.pl OR site:media.enea.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:ir.enea.pl OR site:media.enea.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "52",
+      "source": "Energa — press office",
+      "group": "Company disclosures",
+      "website": "https://media.energa.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "media.energa.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:media.energa.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "53",
+      "source": "ORLEN — press releases",
+      "group": "Company disclosures",
+      "website": "https://www.orlen.pl/en/about-the-company/media/press-releases",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "orlen.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:orlen.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:orlen.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "54",
+      "source": "TAURON — media",
+      "group": "Company disclosures",
+      "website": "https://media.tauron.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "media.tauron.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:media.tauron.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "55",
+      "source": "ZE PAK — investor relations",
+      "group": "Company disclosures",
+      "website": "https://ri.zepak.com.pl/en",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "ri.zepak.com.pl"
+      ],
+      "requestedMethod": "ESPI",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:ri.zepak.com.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:ri.zepak.com.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "56",
+      "source": "PEJ — Polskie Elektrownie Jądrowe",
+      "group": "Company disclosures",
+      "website": "https://pej.pl/en/homepage",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "pej.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:pej.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:pej.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "57",
+      "source": "Polenergia",
+      "group": "Company disclosures",
+      "website": "https://www.polenergia.pl",
+      "language": "PL/EN",
+      "polandScoped": true,
+      "domains": [
+        "polenergia.pl"
+      ],
+      "requestedMethod": "ESPI + Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:polenergia.pl)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:polenergia.pl)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "58",
+      "source": "Fortum Polska",
+      "group": "Company disclosures",
+      "website": "https://www.fortum.com/en/media",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "fortum.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:fortum.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "59",
+      "source": "Ørsted",
+      "group": "International peers in Poland",
+      "website": "https://orsted.com/en/media/news",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "orsted.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:orsted.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "60",
+      "source": "RWE Polska",
+      "group": "International peers in Poland",
+      "website": "https://pl.rwe.com/en/",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "pl.rwe.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:pl.rwe.com) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:pl.rwe.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "61",
+      "source": "Iberdrola Polska",
+      "group": "International peers in Poland",
+      "website": "https://www.iberdrolainternacional.com",
+      "language": "EN/ES",
+      "polandScoped": false,
+      "domains": [
+        "iberdrolainternacional.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:iberdrolainternacional.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "62",
+      "source": "ENGIE Polska",
+      "group": "International peers in Poland",
+      "website": "https://engie-polska.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "engie-polska.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:engie-polska.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "63",
+      "source": "EDP Renewables Polska",
+      "group": "International peers in Poland",
+      "website": "https://www.edpr.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "edpr.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:edpr.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "64",
+      "source": "Shell (Poland power/trading)",
+      "group": "International peers in Poland",
+      "website": "https://www.shell.pl",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "shell.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:shell.pl) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:shell.pl) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "65",
+      "source": "TotalEnergies (Poland)",
+      "group": "International peers in Poland",
+      "website": "https://totalenergies.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "totalenergies.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:totalenergies.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "66",
+      "source": "Ocean Winds (BC-Wind)",
+      "group": "International peers in Poland",
+      "website": "https://www.oceanwinds.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "oceanwinds.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:oceanwinds.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "67",
+      "source": "Axpo Polska",
+      "group": "International peers in Poland",
+      "website": "https://www.axpo.com/pl/en/",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "axpo.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:axpo.com) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:axpo.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "68",
+      "source": "EDF / Dalkia Polska",
+      "group": "International peers in Poland",
+      "website": "https://dalkiapolska.com/en",
+      "language": "PL/EN",
+      "polandScoped": false,
+      "domains": [
+        "dalkiapolska.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:dalkiapolska.com) (Poland OR Polish OR Polska)",
+          "language": "PL"
+        },
+        {
+          "kind": "google",
+          "query": "(site:dalkiapolska.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "69",
+      "source": "BP (Poland)",
+      "group": "International peers in Poland",
+      "website": "https://www.bp.com",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "bp.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:bp.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "70",
+      "source": "Vitol",
+      "group": "International peers in Poland",
+      "website": "https://www.vitol.com/media/",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "vitol.com"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:vitol.com) (Poland OR Polish OR Polska)",
+          "language": "EN"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "71",
+      "source": "Veolia Polska",
+      "group": "International peers in Poland",
+      "website": "https://centrumprasowe.veolia.pl",
+      "language": "PL",
+      "polandScoped": true,
+      "domains": [
+        "centrumprasowe.veolia.pl"
+      ],
+      "requestedMethod": "Google News RSS (site: query)",
+      "routes": [
+        {
+          "kind": "google",
+          "query": "(site:centrumprasowe.veolia.pl OR site:veolia.pl)",
+          "language": "PL"
+        }
+      ],
+      "coverageNote": "Recent indexed discovery is not an exhaustive publisher archive."
+    },
+    {
+      "id": "72",
+      "source": "Baltic Wind",
+      "group": "Existing configured feed",
+      "website": "https://balticwind.eu/",
+      "language": "EN",
+      "polandScoped": false,
+      "domains": [
+        "balticwind.eu"
+      ],
+      "routes": [
+        {
+          "kind": "rss",
+          "url": "https://balticwind.eu/feed/",
+          "language": "EN"
+        },
+        {
+          "kind": "google",
+          "query": "site:balticwind.eu (Poland OR Polish OR PGE OR Baltica OR Bałtyk)",
+          "language": "EN"
+        }
+      ]
+    }
+  ]
+}
