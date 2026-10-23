@@ -1,64 +1,6 @@
 {
-  "updated": "2026-10-23T10:49:48+00:00",
+  "updated": "2026-10-23T10:52:38+00:00",
   "signals": [
-    {
-      "id": "src-ffe2aa14d068b15126",
-      "date": "2026-10-23",
-      "title": "Firmy pożyczkowe odrzucają ponad 82 proc. wniosków. Ponad 5 mld zł w szarej strefie",
-      "title_pl": "Firmy pożyczkowe odrzucają ponad 82 proc. wniosków. Ponad 5 mld zł w szarej strefie",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Firmy pożyczkowe odrzuciły we wrześniu aż 82,7 proc. wniosków o finansowanie - pisze w piątkowym wydaniu „Puls Biznesu”. Według gazety wysokość zadłużenia w firmach działających w tzw. szarej strefie wyniosła w ub.r. 5,34 mld zł.",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Firmy-pozyczkowe-odrzucaja-ponad-82-proc-wnioskow-Ponad-5-mld-zl-w-szarej-strefie-9217136.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
-      "id": "src-ff597674661d8c9931",
-      "date": "2026-10-23",
-      "title": "Przebudowa i rozbudowa istniejącego budynku biurowego Komunikacji Beskidzkiej o windę osobową, wraz z remontem korytarzy i holu wejściowego",
-      "title_pl": "Przebudowa i rozbudowa istniejącego budynku biurowego Komunikacji Beskidzkiej o windę osobową, wraz z remontem korytarzy i holu wejściowego",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Komunikacja Beskidzka S.A.",
-      "links": [
-        {
-          "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df30f3-536b-b8f1-701a-d000013b55aa",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "e-Zamówienia / BZP",
-      "publisherUrl": "https://ezamowienia.gov.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "45"
-      ],
-      "discoveryMethod": "bzp",
-      "evidenceLevel": "official_metadata"
-    },
     {
       "id": "src-f85ec4ed27b8a64f31",
       "date": "2026-10-23",
@@ -147,35 +89,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-de3f3d5e1f6fa4ede9",
-      "date": "2026-10-23",
-      "title": "Budowa sieci kanalizacji sanitarnej w miejscowości Łękawka",
-      "title_pl": "Budowa sieci kanalizacji sanitarnej w miejscowości Łękawka",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Gmina Tarnów",
-      "links": [
-        {
-          "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df30f1-1bb5-d574-701a-d000013b553d",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "e-Zamówienia / BZP",
-      "publisherUrl": "https://ezamowienia.gov.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "45"
-      ],
-      "discoveryMethod": "bzp",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-d96e671fffcae49c3c",
       "date": "2026-10-23",
       "title": "Minister Energii: od soboty do poniedziałku litr benzyny 95 ma kosztować nie więcej niż 6,51 zł, benzyny 98 – 7,21 zł, a diesla - 7,99 zł. (",
@@ -261,35 +174,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-cd6ab6231c5ebd8583",
-      "date": "2026-10-23",
-      "title": "Wykonanie windy zewnętrznej przy budynku użyteczności publicznej w Nisku przy ul. 3 Maja 32",
-      "title_pl": "Wykonanie windy zewnętrznej przy budynku użyteczności publicznej w Nisku przy ul. 3 Maja 32",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Powiat Niżański",
-      "links": [
-        {
-          "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df30f1-108d-8454-701a-d000013b553b",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "e-Zamówienia / BZP",
-      "publisherUrl": "https://ezamowienia.gov.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "45"
-      ],
-      "discoveryMethod": "bzp",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-cc50f72fa03ad8e388",
@@ -640,93 +524,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-900b70864ab1f7340d",
-      "date": "2026-10-23",
-      "title": "Putin ogłasza gotowość do rozmów. Zaskakujące słowa o \"jednym narodzie\" i końcu wojny",
-      "title_pl": "Putin ogłasza gotowość do rozmów. Zaskakujące słowa o \"jednym narodzie\" i końcu wojny",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Rosja jest gotowa na trójstronne rozmowy z udziałem USA i Ukrainy; powinny one obejmować również kwestie bezpieczeństwa europejskiego – oświadczył w czwartek w wywiadzie dla państwowej telewizji Rossija przywódca Rosji Władimir Putin.",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Putin-oglasza-gotowosc-do-rozmow-Zaskakujace-slowa-o-jednym-narodzie-i-koncu-wojny-9217111.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
-      "id": "src-8d624db0654eaa7011",
-      "date": "2026-10-23",
-      "title": "Jeden pociąg, trzy źródła zasilania. PESA i ABB stawiają na wodór, baterie i prąd z sieci",
-      "title_pl": "Jeden pociąg, trzy źródła zasilania. PESA i ABB stawiają na wodór, baterie i prąd z sieci",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnNUQUQxY3c4U1NJWTJQYkxhUkZwR0Z6OFh6T2NESmVRS2JuSWNGTnJja3R5ZGNreXBWRy1Ha2hCSmYyUUhjaFRNSTZfRFFDZktzZ19YNXJUQWRTYUdSOGhqWlpzRTVVZ21RdGZ1NDhiRHl0bFNMRjdYbnV6bktoTGdrb2xybUJZ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Gramwzielone.pl",
-      "publisherUrl": "https://www.gramwzielone.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "22"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-87bb0f8acbb3bdaf1d",
-      "date": "2026-10-23",
-      "title": "Polska dogania Irlandię. Zielona Wyspa ma dziś inne problemy",
-      "title_pl": "Polska dogania Irlandię. Zielona Wyspa ma dziś inne problemy",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polska goni europejską czołówkę, a Zielona Wyspa zmaga się z problemami. Choć Polacy wciąż są najliczniejszą mniejszością w Irlandii, ich liczba daleka jest od rekordów, a dystans płacowy i gospodarczy między Warszawą a Dublinem uległ zmniejszeniu. Ale irlandzkie władze mają dziś większy problem - trudne…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Polska-dogania-Irlandie-Zielona-Wyspa-ma-dzis-inne-problemy-9216574.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
       "id": "src-835b7d52a683be42e8",
       "date": "2026-10-23",
       "title": "El Niño zwiększa szanse na rekord ciepła. Rok 2026 może wyprzedzić 2024",
@@ -867,64 +664,6 @@
       "reviewed": false,
       "sourceIds": [
         "22"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-7bbe031f335f5afac4",
-      "date": "2026-10-23",
-      "title": "Cyfryzacja logistyki to nie tylko nowy system. Jak połączyć ERP, WMS i TMS w jeden obieg danych?",
-      "title_pl": "Cyfryzacja logistyki to nie tylko nowy system. Jak połączyć ERP, WMS i TMS w jeden obieg danych?",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Zamówienie wpłynęło do ERP, magazyn skompletował towar, a przewoźnik odebrał przesyłkę. Dlaczego więc dział obsługi klienta nadal nie zna jej statusu? W wielu firmach problemem nie jest brak narzędzi, lecz przerwy w przepływie informacji między nimi. Sukces cyfryzacji logistyki zależy więc od wspólnego obiegu danych.…",
-      "links": [
-        {
-          "label": "BiznesAlert.pl — source",
-          "url": "https://biznesalert.pl/cyfryzacja-logistyki-to-nie-tylko-nowy-system-jak-polaczyc-erp-wms-i-tms-w-jeden-obieg-danych/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "BiznesAlert.pl",
-      "publisherUrl": "https://biznesalert.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "21"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
-      "id": "src-7736e1904da6dea648",
-      "date": "2026-10-23",
-      "title": "Najgorszy tydzień europejskiego rynku akcji od początku września",
-      "title_pl": "Najgorszy tydzień europejskiego rynku akcji od początku września",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "pb.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTktUFVQTHd3U1lNOGhlNUhDZG5XYUNZem1JY3NwRmlnSWx4b2E0dGV5eHZTdFNrMVc5WEpycGtZZk1GcHQyQVdIY0JwQmd6Qmx2TnpteGdhMkVMM2llbXlRNlNUTGhrOWVITnIzNTU4cUxYX1o2a0ExTW1qU1RrVnYxUkNQbTJlZks4Ti01ZDNqd01W?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "pb.pl",
-      "publisherUrl": "https://www.pb.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1395,35 +1134,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-19b0d870e97a0173c4",
-      "date": "2026-10-23",
-      "title": "Europejski rynek dóbr luksusowych pod presją. Najniższe wyceny spółek od dekady",
-      "title_pl": "Europejski rynek dóbr luksusowych pod presją. Najniższe wyceny spółek od dekady",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "pb.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUluTXp5UTRKbVZ5T01nSVRHVHBscnM5ZnhCVzNERjc2dTdqUThWRXZia3VMZVkzU2REQUcxeFpxakdOSXdxZmtDQ19iMUVZU0hNdEFXYXZHc0J6MXdSREJxS2h0Yndqa3RvdUFOSzJOanVFRW1ncmYtcjluUlVTX1BvMms0aXFDY0hsLVQ4VWVqVk02UkEtR283a0l4Zm1YSEpiSzJ0TQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "pb.pl",
-      "publisherUrl": "https://www.pb.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "26"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-13922c4c24d890d686",
       "date": "2026-10-23",
       "title": "Greenvolt to sell 400 MW of battery storage plants in Poland",
@@ -1451,64 +1161,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-0e1b038306bd6ca274",
-      "date": "2026-10-23",
-      "title": "Budowa hali magazynowej na sprzęt i materiały na potrzeby Ochrony Ludności i Obrony Cywilnej",
-      "title_pl": "Budowa hali magazynowej na sprzęt i materiały na potrzeby Ochrony Ludności i Obrony Cywilnej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "GMINA BORZYTUCHOM",
-      "links": [
-        {
-          "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df30f0-a025-4fae-701a-d000013b5528",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "e-Zamówienia / BZP",
-      "publisherUrl": "https://ezamowienia.gov.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "45"
-      ],
-      "discoveryMethod": "bzp",
-      "evidenceLevel": "official_metadata"
-    },
-    {
-      "id": "src-0abf32dbc8cf699422",
-      "date": "2026-10-23",
-      "title": "Koniec ze zmianą czasu – nie trzeba będzie przestawiać zegarków z trzeciej na drugą w nocy . Polska wyłamie się z europejskiego systemu zmiany czasu ?",
-      "title_pl": "Koniec ze zmianą czasu – nie trzeba będzie przestawiać zegarków z trzeciej na drugą w nocy . Polska wyłamie się z europejskiego systemu zmiany czasu ?",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "forsal.pl — source",
-          "url": "https://forsal.pl/kraj/aktualnosci/artykuly/11322486,koniec-ze-zmiana-czasu-nie-trzeba-bedzie-przestawiac-zegarkow-z-trzeciej-na-druga-w-nocy-polska-wylamie-sie-z-europejskiego-systemu-zmiany-czasu.html",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "forsal.pl",
-      "publisherUrl": "https://api.gdeltproject.org",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "40"
-      ],
-      "discoveryMethod": "gdelt",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-013528386cd6b2ce7d",
@@ -1743,35 +1395,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-eb0e5903decdcb1931",
-      "date": "2026-10-22",
-      "title": "Alarm w sieci . Polska wyłącza rządowe strony",
-      "title_pl": "Alarm w sieci . Polska wyłącza rządowe strony",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "eska.pl — source",
-          "url": "https://www.eska.pl/news/biznes/krzysztof-gawkowski-zwolal-sztab-rzadowe-strony-w-polsce-zniknely-z-sieci-przez-potezna-luke-aa-PGhb-Q9YY-U3eQ.html",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "eska.pl",
-      "publisherUrl": "https://api.gdeltproject.org",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "40"
-      ],
-      "discoveryMethod": "gdelt",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-e3594ac084186b3ab7",
       "date": "2026-10-22",
       "title": "Orlen dokona odpisów aktualizujących wartość aktywów na 1,6 mld zł",
@@ -2004,35 +1627,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-b7da755ab72883bbda",
-      "date": "2026-10-22",
-      "title": "Prezentacja programu PowerPoint",
-      "title_pl": "Prezentacja programu PowerPoint",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hOXMwUzhvSnNteUx3WWtOaE5EVTdxWWFOX1pyVHRYSlBEWmpvYk04cVZrd1FjTkdObnNXS1ZYYnFOV2k1d05hQmtVSk5OSTFWTHNFS2o2WW9Sek56aUVKRERBNWNQOEZMR3ZpWXZlT2ZmSmFXSmtJbVM4YUk?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
-      "publisherUrl": "https://www.pse.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "14"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-b75db44684219cd49a",
       "date": "2026-10-22",
       "title": "Brookfield przejmuje polskie aktywa dewelopera fotowoltaiki. Sąd w USA zatwierdził likwidację spółki",
@@ -2236,35 +1830,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-9f678af0760f3b3efe",
-      "date": "2026-10-22",
-      "title": "Sprawozdanie Komisji do Spraw Unii Europejskiej oraz Komisji Spraw Zagranicznych o rządowym projekcie ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "title_pl": "Sprawozdanie Komisji do Spraw Unii Europejskiej oraz Komisji Spraw Zagranicznych o rządowym projekcie ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3217",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-9ca605ef775c14090c",
       "date": "2026-10-22",
       "title": "„Dajcie przynajmniej ludziom światło\". Zełenski apeluje o rozejm energetyczny, a USA dobijają targów z Putinem",
@@ -2321,35 +1886,6 @@
       ],
       "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
-    },
-    {
-      "id": "src-99d4b48b14f9aa5d29",
-      "date": "2026-10-22",
-      "title": "Sztuczna inteligencja – jak zamienić megawaty w wartość",
-      "title_pl": "Sztuczna inteligencja – jak zamienić megawaty w wartość",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Coraz lepsi agenci W kwietniu tego roku Uniwersytet Stanforda opublikował swój doroczny raport AI Index . Znalazły się w nim dwie bardzo ciekawe informacje. Pierwsza z nich dotyczy technologii. Okazuje się, że skuteczność agentów AI w zadaniach wykonywanych bez udziału człowieka wzrosła z około 12…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122302-sztuczna-inteligencja-jak-zamienic-megawaty-w-wartosc/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-96a55b281d3e70923c",
@@ -2613,35 +2149,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-74bf5e34800fda9a5f",
-      "date": "2026-10-22",
-      "title": "Polskie Sieci Cyfrowe Ogłoszenia sądowe",
-      "title_pl": "Polskie Sieci Cyfrowe Ogłoszenia sądowe",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "pb.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hYlZrZnBJTnVZc1dfMzNlLXRMOHhVVzQzc1lqWmUtRE5wbXZPc0RHaDdHYTJxdUd2Z3g4NnF2UWZyYnFnQjBTWWYyRkpseGJuTnhZd3BQMTdBaDkwOWktMzNUU2JpZEtmeWVzaTBxd3YxbnhMVkpxMDlMbU13VGc?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "pb.pl",
-      "publisherUrl": "https://monitorfirm.pb.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "26"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-70b952683ef92a0412",
       "date": "2026-10-22",
       "title": "Darmowe magazyny energii. Polskie miasto wyszło z ofertą do prosumentów",
@@ -2898,35 +2405,6 @@
       "reviewed": false,
       "sourceIds": [
         "25"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-52a48a19e9754cc0c4",
-      "date": "2026-10-22",
-      "title": "Saudyjczycy wyciągają ręce po strategiczne magazyny ropy innych państw",
-      "title_pl": "Saudyjczycy wyciągają ręce po strategiczne magazyny ropy innych państw",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDhGQ2hWNmN4SVRyRDV0Q0ZVWFZlUEVuUFpfbVBhNUpnQ3JTZ2IxZ1owWjFOR2t4dDlmeVZxVkMtejU2MHNIVXFDeXQtUWlSZlNaLXhCX2lwR2xXTzMxeWh1ZkhvUEFub3labVd1M3drVWs4UXZxOGNSeDZ5c19SeUlPbHVaR0F4UlpUVVlwMlgwZXNnUmFGWjFoVkduQTk0N2JScXlEMzIyVGFk?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "wnp.pl",
-      "publisherUrl": "https://www.wnp.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3339,35 +2817,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-211826fcbf05d24184",
-      "date": "2026-10-22",
-      "title": "Polska piątym rynkiem leasingu w Europie . Rozwija się trzy razy szybciej niż europejski",
-      "title_pl": "Polska piątym rynkiem leasingu w Europie . Rozwija się trzy razy szybciej niż europejski",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "pb.pl — source",
-          "url": "https://www.pb.pl/polska-piatym-rynkiem-leasingu-w-europie-rozwija-sie-trzy-razy-szybciej-niz-europejski-1269284",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "pb.pl",
-      "publisherUrl": "https://api.gdeltproject.org",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "40"
-      ],
-      "discoveryMethod": "gdelt",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-19c5de421992b1bed5",
       "date": "2026-10-22",
       "title": "Orlen dokona w raporcie za III kw. odpisów aktualizujących wartość aktywów na 1,6 mld zł",
@@ -3395,35 +2844,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-137c277651b0aa7b40",
-      "date": "2026-10-22",
-      "title": "Sprawozdanie Komisji do Spraw Unii Europejskiej oraz Komisji Spraw Zagranicznych o rządowym projekcie ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r.",
-      "title_pl": "Sprawozdanie Komisji do Spraw Unii Europejskiej oraz Komisji Spraw Zagranicznych o rządowym projekcie ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3218",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-0fed3354188478166c",
@@ -3566,64 +2986,6 @@
       "reviewed": false,
       "sourceIds": [
         "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-f400cd6b496a8ad4e7",
-      "date": "2026-10-21",
-      "title": "Ranking cen ładowania: jesienna korekta cenników. Tesla podnosi stawki, Powerdot obniża ceny",
-      "title_pl": "Ranking cen ładowania: jesienna korekta cenników. Tesla podnosi stawki, Powerdot obniża ceny",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Energetyka24 — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0xsZzEyWndsWTUzX3VlclZpNklhSldCTFVoX29nX2dYbGdjZ3NjSmdRZjFiR21PZF9UWHlaUTZFREp3MjZaVkJRS3QxTVl1N0ZIaVZJYTlocW9BVjBPc3JoMWhwMnoyTmc1VVZYSW1Vc3R5bWVfbmQwbXc5dTQ5V01NX2Rkc3pKZU9BVDdpb0dpUFVIc20zNHJaa1Brd1pGX011dE90aTdXZ2YyXzRkWjktMWdMQTFwSjFBSnBsblp6ODhtaGhUaG5OTDB6ekk?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Energetyka24",
-      "publisherUrl": "https://energetyka24.com",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-efd38fafd38f6a9588",
-      "date": "2026-10-21",
-      "title": "Główna Specjalistka/Główny Specjalista w Biurze Modelowania Pracy Sieci (k/m)",
-      "title_pl": "Główna Specjalistka/Główny Specjalista w Biurze Modelowania Pracy Sieci (k/m)",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "gkpge.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaV9VZTNFNEdXMS1kbmhUYW4xdzZuZjhSdUJLa2haSVV6cTBYOXNBelV0aTVhSks5aUhxTTFfWGw5alYzSWNxV3ZkLUJhUVVaMlV3TUpnYlh6M2RGeFBPVy1HdDdWMFNoQkZ4ekVxVnFneGhfdnVpYnlwVHFnSWhhUFFKdTh6alBua25xYWFpMlQ5aVBtWWx5ajBvMXVQMF9wX214UWRzTWR6WmdVZF94SUNoV3VTMzBMRjRPczJR?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "gkpge.pl",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3950,6 +3312,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bfe761aaeeb7684345",
+      "date": "2026-10-21",
+      "title": "C&W: Moc warszawskich data center sięgnęła 159 MW na koniec II kw.; w budowie tylko 5 MW",
+      "title_pl": "C&W: Moc warszawskich data center sięgnęła 159 MW na koniec II kw.; w budowie tylko 5 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXl1YWpXOUdRU25MZ2ttazRINUx3TW9GRm5VYnVra2NfSFhtR0NvWDV4SVV6b1czTEI5eVNxcmluLWhqb2RqMnpwR0h3U0ZMWFd4bF85bDRCZFlRTDZwVnUzUGdqRjFBXzQyYmc2c3RlV25TQzBpNUpkTlY1anJOdWF0NEFoLTBUOEYxMFJPX05CekM3QmNFS1RGSmZLMFF6ek0xX3FrQ0xRbEdJUnBFRy1BNV9XOW03VXNhYm9wdUl3bGdvMFZZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bdde266721424b3ab5",
       "date": "2026-10-21",
       "title": "PSE przypominają o ważnym terminie. Część warunków przyłączenia może wygasnąć",
@@ -4019,7 +3410,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV28xVkVfV0RUZzU0enBvemtSenBWVWtKaXVKVE5iNTVqYXhTRVZUbURrSm80NjJaemVXQTdwSzB0SHVDUTZRUnB1QWEtYVR1NXcwTXkxSE14anZIZTZWVDh0TW9ZcFFxNTRwOTJYOXBGcG0zeEJ5NzItYUVXejBVd211aGtFVlhqeC1Ba3BZb0w0RlJxWE5LUXc4MlVVb1paY25FdDZhN2NuanRvMW5faEpHaVZFQXoyVTRCU3dWaWdzR1k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkF0NkU5VmlPVk5kVjBMMDAxbUJLTWFCd3lwM3Uzb0xrZ1FhT0FBR0REbHNHN19kSVRfUkkwY1hZZ1ZIN3lMamVQQ2VCNmh1aFNMZEFJb2FaMkx6aERmeTBoc2JQTzR4YzZpTEdiNG5vN1pWb2tXRnR4SmcyaVdMMVhhRUpJcUtfM3R5QV9WMG1rdnFHOGVZMFBOVmRSbDI0eHZRcFJ3Y1l6TW96cTFKSWxRRkVZRDlkRHdOMHJMdXdkSEt1SFpSYjZSN1R3MGdTX1ViTUU4QkJLbEtOeWx4Zg?oc=5",
           "type": "press"
         }
       ],
@@ -4027,7 +3418,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -4298,35 +3689,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-8f7ae34560c2ad98cb",
-      "date": "2026-10-21",
-      "title": "Sprawozdanie Komisji do Spraw Unii Europejskiej o komisyjnym projekcie uchwały w sprawie uznania projektu dyrektywy Rady zmieniającej dyrektywy 2003/49/WE, 2009/133/WE, 2011/96/UE, (UE) 2016/1164, (UE) 2017/1852, (UE) 2025/50 w odniesieniu do uproszczenia unijnych ram opodatkowania bezpośredniego oraz wspierania wzrostu i konkurencyjności UE za niezgodny z zasadą pomocniczości.",
-      "title_pl": "Sprawozdanie Komisji do Spraw Unii Europejskiej o komisyjnym projekcie uchwały w sprawie uznania projektu dyrektywy Rady zmieniającej dyrektywy 2003/49/WE, 2009/133/WE, 2011/96/UE, (UE) 2016/1164, (UE) 2017/1852, (UE) 2025/50 w odniesieniu do uproszczenia unijnych ram opodatkowania bezpośredniego oraz wspierania wzrostu i konkurencyjności UE za niezgodny z zasadą pomocniczości.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3246",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-8edbceea0d8c57b3c7",
       "date": "2026-10-21",
       "title": "Magazyny energii RTB – szukam inwestora",
@@ -4438,35 +3800,6 @@
       "reviewed": false,
       "sourceIds": [
         "23"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-81cfd3c115adc8c580",
-      "date": "2026-10-21",
-      "title": "Niewielki powerbank sparaliżował szkołę. Doszło do ewakuacji ponad 160 osób",
-      "title_pl": "Niewielki powerbank sparaliżował szkołę. Doszło do ewakuacji ponad 160 osób",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xZ0hsU0RjNVNFbnZxSDBVeERnRENqdm1VQ19jNEIzamlvdGk4ako0Y2I5MWs2Q2p6S2Y5S3BvOGc3SlV2Sl9ZaUc4aXJjT2NwcXdxd1dWRWRoWG9UYVJIYXNPQUZ6Tk93RkR6SVdOWXpXZHc2a0pGaEdYWlNmM1E?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Gramwzielone.pl",
-      "publisherUrl": "https://www.gramwzielone.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4816,35 +4149,6 @@
       "reviewed": false,
       "sourceIds": [
         "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-5ec9394cd5cd9dc61f",
-      "date": "2026-10-21",
-      "title": "Specjalistka/Specjalista w Biurze Modelowania Pracy Sieci (k/m)",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "gkpge.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3FSbHA5RXJ2NnhQeFdwNWVwRUZ6bzlSbUViM3czd3RZeWJjcElESlFzNW9hdTI3Z1V2WXZ1TnhDd2lKV25LVDJFcUlOdDh2cDZhN1NMSlJHdE01OWgwY3pra2RobGl1a1UxUGFtcFdFX01EVV9KVmdJZHNzcTBCdTVvYzlGZE1ZOVNDbVFIQ0k0QkdWYTdfckZ3TnFPc0Jaai1scTYxeE9xTUU?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "gkpge.pl",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5546,6 +4850,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0763d6fc8418780c81",
+      "date": "2026-10-21",
+      "title": "Panele – najtaniej – ponad 12 MW od ręki – tylko Tier1 – markowi producenci – pełen wybór",
+      "title_pl": "Panele – najtaniej – ponad 12 MW od ręki – tylko Tier1 – markowi producenci – pełen wybór",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE1YLS05TU5LZkloU3dMVUpaZ2h6dlhScE00SkNvdEFuMVdDcUNYUmFOd0lOd2lvRHJlbHlNd1NFN1RUNFNtSWU2MklETHg1d2E2emdBZzNFb0tEZjY4bXlLazZ6R3lmaUw5ZzVsdnc1VkRDU3hyU1BrQWFmUTBrTFpRNnJQNG9zN0NTSVV3YzRNUkdwUGZlWm9udjVhRlJKQnVZTFp2cXI4aklveUxKMUZqMlMtU2RSVlVZM1VWRGFBUDBkTnllc2RMNk9Fc2Q5UUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ffb2b0d171989389b7",
       "date": "2026-10-20",
       "title": "Projekt magazynu BESS 2/8 MW plus 12 miejsc do ładowania samochodów",
@@ -5953,35 +5286,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-c5beb3bbb6b582ca14",
-      "date": "2026-10-20",
-      "title": "Zawiadomienie Prezesa Rady Ministrów o zamiarze przedłożenia Prezydentowi Rzeczypospolitej Polskiej do ratyfikacji, bez zgody wyrażonej w ustawie Decyzji Rady (UE, Euratom) 2026/1296 z dnia 26 maja 2026 r. w sprawie zmiany Aktu dotyczącego wyborów przedstawicieli do Parlamentu Europejskiego w powszechnych wyborach bezpośrednich, załączonego do decyzji Rady 76/787/EWWiS, EWG, Euratom z dnia 20 września 1976 r.",
-      "title_pl": "Zawiadomienie Prezesa Rady Ministrów o zamiarze przedłożenia Prezydentowi Rzeczypospolitej Polskiej do ratyfikacji, bez zgody wyrażonej w ustawie Decyzji Rady (UE, Euratom) 2026/1296 z dnia 26 maja 2026 r. w sprawie zmiany Aktu dotyczącego wyborów przedstawicieli do Parlamentu Europejskiego w powszechnych wyborach bezpośrednich, załączonego do decyzji Rady 76/787/EWWiS, EWG, Euratom z dnia 20 września 1976 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3236",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-bf24a35fc21c39204a",
       "date": "2026-10-20",
       "title": "Poland, Lithuania seal power link deal for 700-MW interconnector",
@@ -6301,64 +5605,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-6d6c39af67e8e6317e",
-      "date": "2026-10-20",
-      "title": "Polish satellite maker Creotech plans tenfold capacity boost, warns of Europe’s US rocket reliance",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "Reuters — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0FkSmVSbVVWNjlSRjFmUDctTFYxRDJ5MlRNNGxtdU9MMXF4bnBRbjZTcTBaSzJnRUNqbVk0YVpibVRDOG5oT0FCc2YxWHRvY2x3OEpYLWY3WEdwVHBDVzdjdzFyRklhckU1V2FPYUpKbmJ6ZmpKWlNaTDc0RGpxdHJqU1hRSGZyQ0ZnM01IeldOcm9yZndrVUhxaXFTMVNteHVkYXAxbF9sSHhyZ1FTeFRtcmllNW5IdUtJNUZfakw5aFpuRTI3NTIwUXdsZlpkOVE?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Reuters",
-      "publisherUrl": "https://www.reuters.com",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "31"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-6872e0c1ad845b4748",
-      "date": "2026-10-20",
-      "title": "Koordynatorka / Koordynator Sprzedaży Sieci Partnerskiej",
-      "title_pl": "Koordynatorka / Koordynator Sprzedaży Sieci Partnerskiej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "gkpge.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFVVcHJjdFRQSEtYc09CVzEySGx6bFN4RkU2SWdZaUxlcWszUnFFdDgtdWVwNHYydTBkOXZnLTRHS2ppaXdKNWRvUXJYUkdBOUl3RmwzXzZYeGpFTElEamFHenBwVlQ3N3M3UV9QRzhvSnhVdlhYMWQzcGlRbzFtTFFXT2tFS1hURzFFY05id20tN3BUeTVQSGtMS2lydDJDVWc?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "gkpge.pl",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-5a6c4a8f2976ec4bd8",
       "date": "2026-10-20",
       "title": "ENGIE przejęło infrastrukturę energetyczną w Białogardzie",
@@ -6503,35 +5749,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-3a45b6d841cc6051bf",
-      "date": "2026-10-20",
-      "title": "Wniosek Prezydenta RP o ponowne rozpatrzenie ustawy z dnia 4 września 2026 r. o wykonywaniu orzeczeń Europejskiego Trybunału Praw Człowieka.",
-      "title_pl": "Wniosek Prezydenta RP o ponowne rozpatrzenie ustawy z dnia 4 września 2026 r. o wykonywaniu orzeczeń Europejskiego Trybunału Praw Człowieka.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3229",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2c28a48b17fe8b4b30",
@@ -6874,35 +6091,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-fdb312bd120f04e614",
-      "date": "2026-10-19",
-      "title": "Prezentacja programu PowerPoint",
-      "title_pl": "Prezentacja programu PowerPoint",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xZ3hub1FlZnI0Z3Y1SVFFZ2hRTDBwVmJlMkl3VjkxNXRvY21BN1VnbmcwdXRNdzdMWlIyeHliY1VwMTcxYTh0T2dxanVnX0NoaFBpaHczWDVIOXh1dEtnV3hubC1rcjBvUC1yUGRQSmNzVUtpZ0dPa091Qmc?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
-      "publisherUrl": "https://www.pse.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "14"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-fa5b7573b38413499c",
       "date": "2026-10-19",
       "title": "PGE Baltica zmienia siedzibę na Gdańsk",
@@ -7046,36 +6234,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-d6013ae77a528d103f",
-      "date": "2026-10-19",
-      "title": "Rozporządzenie Ministra Cyfryzacji z dnia 9 października 2026 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w sieciach telekomunikacyjnych",
-      "title_pl": "Rozporządzenie Ministra Cyfryzacji z dnia 9 października 2026 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w sieciach telekomunikacyjnych",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "ISAP — Polish law database — source",
-          "url": "https://eli.gov.pl/eli/DU/2026/1357/ogl",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "ISAP — Polish law database",
-      "publisherUrl": "https://isap.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "5",
-        "7"
-      ],
-      "discoveryMethod": "eli",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-d5a3d85cc2484c552e",
@@ -8178,35 +7336,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-00a0bad550f8060789",
-      "date": "2026-10-19",
-      "title": "Rentowność europejskich rafinerii gwałtownie spadła",
-      "title_pl": "Rentowność europejskich rafinerii gwałtownie spadła",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Kryzys uderza w europejskie rafinerie Gwałtowny wzrost cen ropy naftowej i rekordowe koszty wynajęcia tankowców podniosły koszty produkcji w europejskich rafineriach. Z kolei ceny niektórych produktów nie wzrosły na tyle, aby zrekompensować straty - donosi \"Financial Times\". Według danych LSEG, przytaczanych przez dziennik, marże rafineryjne…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122221-rentownosc-europejskich-rafinerii-spadla/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f7db273707ef3cdaaf",
@@ -9958,35 +9087,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-91bed5f7bd4fdaf5ee",
-      "date": "2026-10-15",
-      "title": "Zawiadomienie Prezesa Rady Ministrów o zamiarze przedłożenia Prezydentowi Rzeczypospolitej Polskiej do ratyfikacji, bez zgody wyrażonej w ustawie Decyzji Rady (UE, Euratom) 2026/1296 z dnia 26 maja 2026 r. w sprawie zmiany Aktu dotyczącego wyborów przedstawicieli do Parlamentu Europejskiego w powszechnych wyborach bezpośrednich, załączonego do decyzji Rady 76/787/EWWiS, EWG, Euratom z dnia 20 września 1976 r.",
-      "title_pl": "Zawiadomienie Prezesa Rady Ministrów o zamiarze przedłożenia Prezydentowi Rzeczypospolitej Polskiej do ratyfikacji, bez zgody wyrażonej w ustawie Decyzji Rady (UE, Euratom) 2026/1296 z dnia 26 maja 2026 r. w sprawie zmiany Aktu dotyczącego wyborów przedstawicieli do Parlamentu Europejskiego w powszechnych wyborach bezpośrednich, załączonego do decyzji Rady 76/787/EWWiS, EWG, Euratom z dnia 20 września 1976 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3236",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "processes",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-87dae87bbc2e83664b",
       "date": "2026-10-15",
       "title": "Wykonanie projektu budowlano-wykonawczego oraz robót budowlano-montażowych według tego projektu dla zadania pn. „Budowa kablowej oraz kablowo-napowietrznej sieci elektroenergetycznej SN 15kV” (3 Części) postępowanie P/5/0018/2026",
@@ -10376,35 +9476,6 @@
         {
           "label": "Energetyka24 — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHZhUXVYd2U0cGEwcUJIOUtKRlRpR0p5MHM3b20xYm9LNzNkMDdnaUJqMkxxaUE3ZHZXa2FVbGlxVW5BbEFlOFJSaDNMTmk3UzRpX2c3bVZxM2JsS19KeFUxSlB4bDAwb0F4eWRjN1UyZy0tRnFUdXNZb2JtOFBweTNSWVJ2a3Q5bVRVMF9PNkozc19qS0pPb3BYSFltLURsMEFTV2gzcGE1QjRpZzNqU1RsWDNET0Z4YThrV0NZU0RTVFp2YndoZTd1VFpiUllLMW9Rd2FR?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Energetyka24",
-      "publisherUrl": "https://energetyka24.com",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-25c15cf2c138f1eb8d",
-      "date": "2026-10-15",
-      "title": "Kto zapłaci za unijne ambicje? Trudne negocjacje na szczycie Rady Europejskiej",
-      "title_pl": "Kto zapłaci za unijne ambicje? Trudne negocjacje na szczycie Rady Europejskiej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Energetyka24 — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalptRlJFN2FWaEFhVHg3XzVFcDJVRkFCNUU5U2xGaEpIa2ltM0x0VDJjQ3I3X1BncW5JeHMzbVVTeWJBX0tfcTFCaUg5blhaSlFqV3lHQXdyMy1OQjBGXzJoam15N1BwX3ZVR2dtVjgxbm1scnJ1SWQ5Y1M5enV5ZW10QTFEUFgzaHV4RmV2SUEyX0lYUjhjRnh1Qm9UVmVYQlEza2dLRExwMUMtZXJvc0lYaDNtbUNUV1cyVW9WUQ?oc=5",
           "type": "press"
         }
       ],
@@ -10970,35 +10041,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-8ae78cf7962d3365a2",
-      "date": "2026-10-14",
-      "title": "Pomyślne uruchomienie procesu Core Flow-Based Intraday Capacity Calculation IDCC(e) – Core IDCC",
-      "title_pl": "Pomyślne uruchomienie procesu Core Flow-Based Intraday Capacity Calculation IDCC(e) – Core IDCC",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUG52X3BpZWxGT0F1djhvTEpUMTZfN1hhQjFsMTlEalp4S3JkczlZZmI4X29nWmZGSlRPazFUdE5IS1BJbXhHRnFYc1ROY2VoeDEwNXRhSmp2a2xVOElRQkZJNHdoN2lBR3h5U29xUU5vMGxYcHJiS21yWTdIRDJGb0dqSGl3dUNmbUsyZEk1MGtLa3Z2MGhiVjllSlp4ZWVmMVNVT2dGbUpkSXgtSDVVWTlZZGtkeUpHdTVZOG1MaWg3RVF3V3Z5cWdSajcwS3FLVUxCSlo1T0ZWWW5qbGtZWlc1blVzblg4T3pGLWVoT094dlJtUnVZT2N4RzBsWmJ2NENFSDA5MzctZEFYcUFFTWQ0RW9EQU83T0hwV3dNdW8wUEE?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
-      "publisherUrl": "https://www.pse.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "14"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-84780b868cdbd3f73b",
       "date": "2026-10-14",
       "title": "PSEW: Projekty wiatrowe o mocy ok. 1 GW odblokowane dzięki współpracy z MON",
@@ -11198,35 +10240,6 @@
       "reviewed": false,
       "sourceIds": [
         "19"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-5a9d88d0f11c28c9fa",
-      "date": "2026-10-14",
-      "title": "Relacja z CIRE PowerUp 2026 - gościem wydarzenia była Prezes URE Renata Mroczek",
-      "title_pl": "Relacja z CIRE PowerUp 2026 - gościem wydarzenia była Prezes URE Renata Mroczek",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORC02Q3hQZnhaUklHaUhTRkpHakpGTXctbGRVbFBlMmlYWDRmeWhRLUotcEE0NlNZNk1TemdURjRyLXhOckVqLXc4SVFMVjJ1aHFyNEVRUEtkYUpscnoydVQ5bFllU2tidXZfRVNMakdFZzVzMXZmYllzcUtZUEhJQzk4QS1CM0VENFZuSERvUGV4aXI4SGdMcGx2ZUc4dVZqSTdlTHE4Mk5yVXVDVjlyOUNxWEVLbngzTy1vODgybFdPTUlmNVBjeEtDY1o1U016VGc?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -11436,35 +10449,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-1a54812b35dd5f4fd6",
-      "date": "2026-10-14",
-      "title": "Unijny akcelerator czyli jak Bruksela chce zatrzymać Chińczyków",
-      "title_pl": "Unijny akcelerator czyli jak Bruksela chce zatrzymać Chińczyków",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Projekt unijnego rozporządzenia Industrial Accelerator Act (dalej: IAA) przedstawiony przez KE w marcu ma zgodnie z ideą Brukseli pomóc zrealizować główne priorytety Unii łącznie w obszarze reindustrializacji, dekarbonizacji i bezpieczeństwa gospodarczego. Ma to osiągnąć dzięki preferencjom dla produktów i technologii europejskich wspomagających realizację celów klimatycznych…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122020-unijny-akcelerator-czyli-jak-bruksela-chce-zatrzymac-chinczykow/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
       "id": "src-0660d4f15ea0c9a50c",
       "date": "2026-10-14",
       "title": "Resort klimatu: ponad 4,1 mld zł wsparcia na wielkoskalowe magazyny energii",
@@ -11572,64 +10556,6 @@
       "reviewed": false,
       "sourceIds": [
         "54"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-e49e5b5b9a02bb4d30",
-      "date": "2026-10-13",
-      "title": "Technik / Techniczka – Inżynier / Inżynierka w Wydziale Zarządzania Majątkiem Sieciowym / Dział Koordynacji Eksploatacji Sieci",
-      "title_pl": "Technik / Techniczka – Inżynier / Inżynierka w Wydziale Zarządzania Majątkiem Sieciowym / Dział Koordynacji Eksploatacji Sieci",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "PGE Dystrybucja — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUHhkQWF2VlZyeEdxZ2RqNWFQQ0RERFZmZjlvSmx1UnpCbnluZXdUOVRabFhDaHlEU0E4RE1xdFJZemRsRllLT2VZWlFHQk1WNktUZEZMdGdhYk0weHFKeVgzSHQyMXhEeVJya2NCUjV6dWdaOUZkLU04dlliWUhIREcxOVo4MDJPeFlWZ2FBVWtTZjZzRFViYVg1Q3JvZ3ZGMElheGNBVy1BSlg0MGhZQ2pwRlFqYWVmQWFCelF6YTlpM01XemsyMUkzWXZzUU1zdFhNVDdnWVk4RXpNQ193bS0teC1QbndCb0xBNEpQTWt0WWdlSkdsNmFwQ0k0OTROMFJYcg?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "PGE Dystrybucja",
-      "publisherUrl": "https://pgedystrybucja.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "16"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-ddcc190354ebc92e54",
-      "date": "2026-10-13",
-      "title": "Relacja z CIRE PowerUp 2026 - gościem wydarzenia był minister cyfryzacji Krzysztof Gawkowski",
-      "title_pl": "Relacja z CIRE PowerUp 2026 - gościem wydarzenia był minister cyfryzacji Krzysztof Gawkowski",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUVqeUpIMG5VLUd2dDJXUHJvekphcVNKR0U0YmNRTGx4QXZvbXFpa3BmQ0I4TldldEptTk1yMUNyTGJlb1lSMENseV91Ykx1ZVFlNXNkdnoxcno2bC1VNks2elFRajNJUFZhV2NFVmhOT0U2eGl3R095UkhfOU9aVnNNNUVhOElwSnFxWDUydGZLdzJCNzJJUDFZYkEtZUNLbzhubW95N25DM0k5T1Z5cF83enRUVE1Vd3YwS2l2TTk0UVBPcnV4VHF6N3gyWkRodTBlblF0NzVpdVRkN3l3ZzFySQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -12041,35 +10967,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-3fd18c48f129342ab4",
-      "date": "2026-10-13",
-      "title": "Specjalistka/Specjalista w Wydziale Majątku Sieciowego",
-      "title_pl": "Specjalistka/Specjalista w Wydziale Majątku Sieciowego",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "PGE Dystrybucja — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDJqNXJiNVl6X1NwRWw5aWR0UkRjX2RKOTNNT1U4OWVmUjRlZDVkR0hZU0ZUVjU4QmlZMVJmLXRRY2l2bFVxUVU1MW14MEZrS3h5Mzh2VjNLMW5LY2doeFJST3VfZm01Mm90RGpKc1QwWDZaeUpFR1JkMDc4MjU3QnpBNFFqUHBqNlQyUFZJc1R4WlhISjhId1BIOFZndEd4cEZTYzVGYjZMbkFmRkhF?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "PGE Dystrybucja",
-      "publisherUrl": "https://pgedystrybucja.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "16"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-3d29c0eb456efe1d18",
       "date": "2026-10-13",
       "title": "Ministerstwo Energii, PEJ i PGE podpisały porozumienie w sprawie drugiej elektrowni jądrowej",
@@ -12183,35 +11080,6 @@
       "reviewed": false,
       "sourceIds": [
         "14"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-1881aede134b769327",
-      "date": "2026-10-13",
-      "title": "Ekspertka / Ekspert ds. Sieci",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "GK PGE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWllrVTgwaXBpOXFvZmpYMnlNQk9Pd240N3p4LTFGQUhGX2RYR0Y1M3hsZ3VnbVc0MTl1N3pLN0Y1NG9XbkoyUGFvUlg1dlVuTWpRRFpzQ3pyRGpZYUJ2dDlfRVFZcjN2bVhnWnUtTlNHZnRwTWhtVnhoSGpQZw?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "GK PGE",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -12383,35 +11251,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-f9d17c3829b71c0daa",
-      "date": "2026-10-12",
-      "title": "Specjalistka/Specjalista w Wydziale Majątku Sieciowego",
-      "title_pl": "Specjalistka/Specjalista w Wydziale Majątku Sieciowego",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "GK PGE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2JVZElEQVpVRmRJZktxMlBBbEF2TEhTRVo5VmVuV0h5VjQzczIwbkc5MjhwdVJyOWlUSUlvUnlKSUFuSVJ2aWJmTmlwWU5hMC11dGZkVjVoZ3AzZk9IMlhNYV9CelBJRk11QmZiOXZOckdGUzZtZkpZS2hZMHZPM3YtZ3hYbDZWSWdvUTBqZDJOZ3M4SVh0TWpZeUl1aDZBMWc?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "GK PGE",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-dcc4e4b225d84f2179",
       "date": "2026-10-12",
       "title": "Trwa Enea Akademia Talentów. Młodzi pasjonaci nauki i zaangażowania społecznego poszukiwani",
@@ -12524,35 +11363,6 @@
       "reviewed": false,
       "sourceIds": [
         "53"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-a4d3c73a5f1cdfa798",
-      "date": "2026-10-12",
-      "title": "Relacja z CIRE PowerUp 2026 - Janusz Pietruszyński rozmawia z Renatą Mroczek, Prezes URE",
-      "title_pl": "Relacja z CIRE PowerUp 2026 - Janusz Pietruszyński rozmawia z Renatą Mroczek, Prezes URE",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQjdsNUgwTnFZNFgwajRFMDF1Z0paODZ5QnFhMmViWFFWQ0hSWWdzRU51eFFaOVd2MzB3bEFONGdETkJmYzNMc0R2NnJTRHRhQ25vVnFiYVhQMUp4Z2RneWtLOFpRQjBiMGQ3VEkwZkY2WWRBRkJfRUZiOHYyblFfa3dPbWI5RUtoQ0VCa3R2eUtCaU4zSjhCN2VacTh0cW5wSXNSMWN5NnJFczZUQ2ZkTlBkWlRYbW5aUEJSbVctd2RWQ0J6d1U0N19Vc3FVcWctdGk2WHZKaVRpNVB0?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -13138,35 +11948,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-fa2e42d82f3fb8bcaf",
-      "date": "2026-10-09",
-      "title": "Podczas konferencji CIRE PowerUp 2026 wręczono nagrody PowerUp Awards",
-      "title_pl": "Podczas konferencji CIRE PowerUp 2026 wręczono nagrody PowerUp Awards",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORE5oN2g3T0p1QXBsWWhzT1pRRUg5VEY3V3F3VU1zQ0pONHdKaHdnUUZyZzFuSzNwN1hPWl9zMmdVZW1HMzhwaG9LRVV4S2Fyamp2bWFUMkJUcHIyaHpscEdWZkRaWEFIQjFUZmsxT2RycU1XM2VVeTNMOS0zTGlkNk9hSU14ZUtnUFIzWDRuYkhsNVlXRlVJWkstbkNHb3ZGb0Y3czdpWS1STm41blh3Uk1xQQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-f809abd083dd1c2610",
       "date": "2026-10-09",
       "title": "Dentons advises European Energy on divestment of Polish wind project",
@@ -13312,35 +12093,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-c82c5e1d1a6a30e018",
-      "date": "2026-10-09",
-      "title": "Polish investors commit 500 million zlotys for SMRs",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "CEEnergynews — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkcteGUzU0FLX1B0LWFuZExJbXhMRkRqUmRHa2NVSUR0a0NuU1dhTGE4b3pUOExLZnZYYnV3RlU3SGdfdC1VYUxuZF9aN0hmakVCeFQ2SEUtUDB3YllTMDdCaWVuY3FZMTRlOXNYWGlUU21vbGQyM0NkY3VCN1VrMWJzbGFkMzJIMTQteXhn?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CEEnergynews",
-      "publisherUrl": "https://ceenergynews.com",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "35"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-bda0288a3dd25aab8d",
       "date": "2026-10-09",
       "title": "Koordynatorka/Koordynator Zespołu ds. postępowań zakupowych dla Spółki segmentu energetyki kolejowej PGE Energetyka Kolejowa Operator",
@@ -13358,35 +12110,6 @@
       ],
       "cos": [
         "PGE"
-      ],
-      "publisher": "gkpge.pl",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-b8e5155b17c78f7b38",
-      "date": "2026-10-09",
-      "title": "Technik / Techniczka – Inżynier / Inżynierka w Wydziale Zarządzania Majątkiem Sieciowym / Dział Koordynacji Eksploatacji Sieci",
-      "title_pl": "Technik / Techniczka – Inżynier / Inżynierka w Wydziale Zarządzania Majątkiem Sieciowym / Dział Koordynacji Eksploatacji Sieci",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "gkpge.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdUQ3aGdxNmFDMDZKUU9KUlN0QkhYc1N2dS1Ldk5tV2l2M1RTR1lMXzJ3QnFxWVIwdUJ4LVcxRi1sYXFhc3haUHp5aTlTYWUxbEFXLVlOdmFWRS10cFAwNUdhbVdPV1NwME94SmRqbVZzd1hDb2JwYVNub3dIekhDYURGb3luYnU5a3NFRVFXazdUX2kwdjY1VV9aWU9OZlV3c184d3AxT1o3bEQycDQ2TnV0U0d5R0ZmYWJ1Z2x4TWtLMkg2RW9LSElZYmd2WjVzZUgwZ0EtMDZVNU5zbUNsdjlNa2tMQVBIMXB3alpuaHdXeXAzbHV3?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
       ],
       "publisher": "gkpge.pl",
       "publisherUrl": "https://www.gkpge.pl",
@@ -13423,64 +12146,6 @@
       "reviewed": false,
       "sourceIds": [
         "35"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-61bcc06c62cee83b63",
-      "date": "2026-10-09",
-      "title": "Zmowa w przetargu? Są sygnały ostrzegawcze. Warsztaty UOKiK, OECD i Komisji Europejskiej",
-      "title_pl": "Zmowa w przetargu? Są sygnały ostrzegawcze. Warsztaty UOKiK, OECD i Komisji Europejskiej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Urząd Ochrony Konkurencji i Konsumentów — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDFjbS1WRmxmM1FxbVpaaGMwLUFoQkVuZC1Ua1VobExZRXVWTk10TTBUXzRjTTdxN1Z1M0JxMUU4TlBnb1JnRHhDUU9vWENEb3ZhQ2FkU2xDNllIU2stbWotNklmbmZneF91c0hBazk4Wkw2bzBESmxrSHB3RGs2S0F2UmRhel80T2pYbUN2MVgtQjhtNU01Zkp4bEg1TFRwUHNvb1hpdWNiZw?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Urząd Ochrony Konkurencji i Konsumentów",
-      "publisherUrl": "https://uokik.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "10"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-616fcb4e4c1c6b2967",
-      "date": "2026-10-09",
-      "title": "Technik / Techniczka – Inżynier / Inżynierka Wydział Zarządzania Majątkiem Sieciowym",
-      "title_pl": "Technik / Techniczka – Inżynier / Inżynierka Wydział Zarządzania Majątkiem Sieciowym",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "gkpge.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcU9vb1phQzkyQl9OTHdVaF9TT01LMEpkdG93Sml0a3dMMkxoU3VYRHNUNWhaSVhrcjhNR3dTTmNCRUZVcXlwVjFFd09Oa1VIYWVlaDhjM1BReDJ4YmxIdFJXQ1lETVdXODlHMS1XZjBMOGs4LWtWclkxS1hvcFNxWWdwdXl4ZXJCeXJsQ3MwNlRQOXJ3MUZ4RVFSX2hzcGJwTWUyRGIxT1NYeHpoRzVLU0FTNVBRTWhuSktwZkRGc004QQ?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "gkpge.pl",
-      "publisherUrl": "https://www.gkpge.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -13539,64 +12204,6 @@
       "reviewed": false,
       "sourceIds": [
         "22"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-35a41af2684c39f440",
-      "date": "2026-10-09",
-      "title": "Dwie inwestycje KGHM otrzymały status strategicznych projektów Unii Europejskiej",
-      "title_pl": "Dwie inwestycje KGHM otrzymały status strategicznych projektów Unii Europejskiej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "WysokieNapiecie.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemFkRkJwbTFnQlRYVEJ6RTI1RENFSjctZXV5dWhPVGdyNm0yZ0JGT0J4cDhyYXVqM0pZVkEydnkxTnoyaGh2Q0JGVU1oTVNOcFQzTzlzOEdNUkJOTHBOaGZUbUpmMmRKUDFTNGpub0ozcWRlakZsOC1kaElBa0JVbkVpUThEbzVPSDFmdGM4ci1nQUZfSGZaSHl5WHVvNjhuMmVWT1ZLYVplNzU4SnBTWmhpMHh4STBIOEg1bHFJVWtvUQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "WysokieNapiecie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-1cdb0ed83cce7a8d4d",
-      "date": "2026-10-09",
-      "title": "Komisja Europejska nadała status projektów strategicznych dwóm kluczowym przedsięwzięciom KGHM",
-      "title_pl": "Komisja Europejska nadała status projektów strategicznych dwóm kluczowym przedsięwzięciom KGHM",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbmNLNUhiUXNxOUdaanZtQ0ZBN0VSSHpjZlBWQlNyaXRmRnY4X19HdXJsTUxmZlhrWkxuT05IaGFjLWduenY2TldiM1lKQXZtWjRYVHktUDE1Ny1vWGxva1dyWldIRmZhZnlBWWY0ZDBjaUU2RTRiWEYzc0JUTlN6RXo0ekx2TjdBcTYxSUU3SEMyVTM3N1E2VkFtbnhwVlJMMERGdm5QbkNLNzN0R2FVcFdRd0dkZWJFbzFuNVRJTmFTMHplTy1jQ1pjQXdYTGRxeVY4SElkSFV2aW5xUjAwVFlKSUxYQQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -14878,35 +13485,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-e300a49724fd9fcfff",
-      "date": "2026-10-06",
-      "title": "Nowe sieci, nowe technologie, nowe wyzwania",
-      "title_pl": "Nowe sieci, nowe technologie, nowe wyzwania",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Rzeczpospolita — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjdLMXlqdGVPRkdZT2l4UGgxemJvcHA1VkJNQ3lQbko3WE4tM1VFX2txS2tDbjUtY1MwRkd4SXUyOUNPWlBCelR4bC1QUUFCcFlZdHFqTE1lM2tUMzlVN1lUVEZwdVVyYUtrMzd1dlFtWDh1WDBVRHNfYmdaOVIzbTQtd3JiZUxaTkFxb0dPR3RNUQ?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Rzeczpospolita",
-      "publisherUrl": "https://energia.rp.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "24"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-e01e360feefcff2574",
       "date": "2026-10-06",
       "title": "Ustawa z dnia 4 września 2026 r. o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw",
@@ -14961,35 +13539,6 @@
       "reviewed": false,
       "sourceIds": [
         "16"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-c5f900ffa5f027a6fd",
-      "date": "2026-10-06",
-      "title": "Nadchodzi duża zmiana w architekturze europejskiego prawa zamówień publicznych",
-      "title_pl": "Nadchodzi duża zmiana w architekturze europejskiego prawa zamówień publicznych",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRlZBX1AxRjczZHFaU3hTMDdKbHI0Z3RGWkt4SDViTThxSGYtbWc2Q0I5OVlVcE9abnVsSlNFOW41N0Npcm9LVjFpSWV3VVN2UW1fWEdqclZrbWJGNUpDTEVpdTNyaGJWUjFzV2F4cDJsOGUwSGtrYVBVdk5jc2FBUGlLaGFWV0lhRDlfYWY3TDE4Qng4ZjVwdWlIcG03MzBVMTVKZ0pSOWNpcmQ0OEhIY2FUNXpBVmNpTDNNOXRUVGhVamttdUwwVVZnZ2xnZFQwYmRUckl3?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://cire-tv.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -15605,35 +14154,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-bc1e53eadd014a6b77",
-      "date": "2026-10-05",
-      "title": "Przyszłość Bałtyku na agendzie. W Warszawie spotykają się kluczowi gracze europejskiego offshore",
-      "title_pl": "Przyszłość Bałtyku na agendzie. W Warszawie spotykają się kluczowi gracze europejskiego offshore",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFJlQnJjanZCZWRodzFVbFRIbm8tT0pGNmNzZi1QSk1yUGIyWjg5NEhFbVRnOXN6Z255VF91SXVzR1Y2dG5Xcl9qZmVQN1ZsdVpwR0FybU5udWluUFdpWkdmbDBLbGFnLUxBY29QSFZXd1FvLWJVOU14N3hoNVhtRW1yR2h5aDVsZEhrU2FQNVVOaG9CQ3F3Zkh6OEVtMVRfMjktRXRuLUthWjB0UVd5X245eVdhNjJuUnM2X212bDQzSzdmd0E1NllUZTRCNVBB?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Energetyka24.com",
-      "publisherUrl": "https://energetyka24.com",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-a3657248536a02929e",
       "date": "2026-10-05",
       "title": "Studenci zbudowali elektryka i zdobyli srebro mistrzostw Europy. Jak wygląda „Perła”?",
@@ -15658,35 +14178,6 @@
       "reviewed": false,
       "sourceIds": [
         "20"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-9c0c410ec693a4f6bb",
-      "date": "2026-10-05",
-      "title": "Zakończono produkcję ostatniego europejskiego sektora komory próżniowej dla ITER",
-      "title_pl": "Zakończono produkcję ostatniego europejskiego sektora komory próżniowej dla ITER",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaGoxMkQxQ0lxRTZYZkJTNW9QdXBiX0tVTER5d0NaSHZRQXZSNGVZWVJKaXFQdjdCTE85U0ZMdmhndmM4WDZ4VzM1LUY1NjVBV002dldjR0tSQVo1bFRPZjBQMUlFbnYzOXRwY0FKS3ZzQ0N5aHpVcldyV3Fua0VUOExKMzFMRFFjZi1EWG1CVFVoaUVNVDdBcDh0ZzRsVl91d1FUTWtqWHZvOWlWdnVKMkFmbEhVSnRUelRxU2JSUVU2ZDNJQU9vX01BdlpfWTdxYktN?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -16186,35 +14677,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-ff8052ef0b3cce490f",
-      "date": "2026-10-02",
-      "title": "Polish president backs down and approves government’s windfall tax on fuel companies",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "Notes From Poland — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUlQLTFUY0ZCbVRtdU5wN0FoeS1vMXp1TzRtckxfRkhkSTJkTzJwWXRINFpwVUJHN0N0SmZmUjZkQkV3TU0wMHRrVXhIS0xLUUgyR19lT1V2eFU0NkZfWGFlaDRuandJMVhoN2UzLUIzQmF0c0JoWjV6c0tfN3luTE1jdmpCM2cyY0FvejRQREhmNU9Tc194eUJPTlNCdVBsSXRhZFpUYTkybmpaR3Y1RFhNQmRBQkV1MldrSVl1YmM?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Notes From Poland",
-      "publisherUrl": "https://notesfrompoland.com",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "30"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-fa473bd18a9289951e",
       "date": "2026-10-02",
       "title": "System Zakupowy GK PGE",
@@ -16646,64 +15108,6 @@
       "reviewed": false,
       "sourceIds": [
         "54"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-31a359b077ec1fc5ec",
-      "date": "2026-10-02",
-      "title": "Uwolnienie europejskich rezerw diesla pod naciskiem Trumpa",
-      "title_pl": "Uwolnienie europejskich rezerw diesla pod naciskiem Trumpa",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Biznes Alert — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjc0UlNiVmFXQnNWY1pzU0RHVFJCV19MbHAwcWpaUVlHeFdIRGVRLUVRWGtNTXNzazVJRkdGdDcwbTR5SXZFNHFNckRpeHYwNGNkb0k5MWFZS05NU0xTbzk5MjJsREE0N0ZGVWN2bUwzbTB3TldqcmMzYWFKUjZpQ3pNSWUxVnloM1E?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Biznes Alert",
-      "publisherUrl": "https://biznesalert.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "21"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-26e8aa8e1af4ac59a9",
-      "date": "2026-10-02",
-      "title": "Estimated windfall tax by the end of August 2026",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSE9SVGRyVWpLWDVrQzg4UGRSQ0VQRWFlYUJXUHdTQXpranljeXVhbDNEUVZ6MnF2MEhVYWhWcURZQ3YtY2dkYmZHZktfanhCdDA0a3p5LTFKV21PRTVhOWhFLTVRQlktSUxtX1ZIVW5SUWYybWJhaTZxZnV1c2V6OVVScjItOGpHZF9GSmxHX2czckhnbkVwaUZKWUhiQ3c0VkRkdlhrR2JvMmxnS1ZHNWVicUJZMlJGVTdHRWE5Q05lLXFEVXFZS2RoTzZnR0E1?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "ORLEN",
-      "publisherUrl": "https://www.orlen.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -17313,35 +15717,6 @@
       "reviewed": false,
       "sourceIds": [
         "53"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-2c5ccfac0809fdebc0",
-      "date": "2026-10-01",
-      "title": "Jak rozpoznać manipulację w sieci? Pełen edukacji Światowy Tydzień Inwestora",
-      "title_pl": "Jak rozpoznać manipulację w sieci? Pełen edukacji Światowy Tydzień Inwestora",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Urząd Ochrony Konkurencji i Konsumentów — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamdwTHpnczlWa3M1cU9lX2J5UVdyMGJLeC1RcmxTRkcwaFNxUXJpbEN5OVk3T1lQUi14UTNLTXczVHJCRFVIZ3VCdHczQVhuRFNNVmoyLUZzbkRpdDJpWV9mSnc1V3N2Qm9VdWxXMUgwUlByb09obnVoMDhzYVVlcjBVTUY2R3VJcU5sUVYzTE92MExiQjdkc0ZRQlM?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Urząd Ochrony Konkurencji i Konsumentów",
-      "publisherUrl": "https://uokik.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "10"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -18307,35 +16682,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-a756362fe919895477",
-      "date": "2026-09-29",
-      "title": "Wykaz obiektów planowanych do przyłączenia do sieci przesyłowej",
-      "title_pl": "Wykaz obiektów planowanych do przyłączenia do sieci przesyłowej",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAZBVV95cUxPSEFZRklvSlJQbTRBNklmTU9IU1BqUk9Ibm8tY016YkhDZHdSQkNWTTBxcXhOdmk2UU9JdXh5NUpyUnVUc1ljbHNUQjNoU1FCT3UxNVpxS0lpS3Nmam9iOV9Wa294UnFCcG4zeXlkeUoyZmJqRjJwNXlxRDN0NGcwZjdIM1N6Y2xEQlVpNFNtU055Z2Y2SjlldkJZczVESnhKSXROekZWRVlXNFR2NHczZGdLOHJXNDR6Y3QyZ3F0Vk5kY25uWDNzaW9DUEJ3SFdsdktTblpsZjc1bkVPaGJMS0xzQTRjbUF4SnJNdUg4d3h0NFNDbnpiY01XT09mZTJTZmRHRm9DMzFTaGdrVjVUbXhTYWU3bENCcE9UOTJjZklKMm5XeU9wc3Q2cVBZOHl3N1dHdURZUDAzTkNsUFAwcWx4QU9ISFp2RENDZHVOQi11azBHZzZKcFZlVENvQllNVDg3cUpSMTJJRDh0eVhUY0w0ZjdsMjdMZzFJWG15RVpNUTA5bElkclNSdXZoSXdpWDFEQ1JLUEF1bmVnOUxnQ3p5UWZHZ3ExSE1acTRqdllfc3JOYm5nd2NoQnowQVVLRUtBeTduVmVxb205NWVvVmwzVjV3bHJZWXhYam42dE5TNjZIT1RaSzFqaU92LTA1WDRNUkxaOWxFUnkyQWF1SWpJaDQtc0V2Z0Z3bmZqTndUWS1sRU5lVE5oWkVoWGVJVnFRQUY3ZURJdjV5cUpDOHFxR1ZzXzgwUk50VkF4NHNvbnZyQVBHNW1lZElfQ0NmaGlnZURHUTl0SXYyMDZIQVFYeTRJWHRvTjJGREM5MzFNaTIza0YwbFJxN085T045NW52RlFMVkdMLUpzYjBXdHNQdGh5UkJMdUR3NF9XRW5TYjdrdUlEcGhjcHZHVEtpYTF6enJrZGJ2X0g1dVFWVjZiQ0RIby1IRXd6LXBSQ0JBb3ZhbnhsbVRxcUVDSUU0OG5iTmQ4Z2IzUDY0V0JyZWZldXFTT0JTbnhVWnc2UEU3aTUtU2RVaW9GeTl4VlpxUmFicUppR20?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
-      "publisherUrl": "https://www.pse.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "14"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-9ef5a0c525c027e198",
       "date": "2026-09-29",
       "title": "Energa Partnerem Strategicznym 22. edycji Wielkiego Konkursu Fotograficznego National Geographic Polska",
@@ -18447,35 +16793,6 @@
       "reviewed": false,
       "sourceIds": [
         "54"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-6e689dcf917b6cb120",
-      "date": "2026-09-29",
-      "title": "Paliwo nie podrożeje. Europejskie rządy mrożą ceny przed zimą",
-      "title_pl": "Paliwo nie podrożeje. Europejskie rządy mrożą ceny przed zimą",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Biznes Alert — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFl6MGlrUFYzaHUyRFN4ZUs5Z2ZaaE8wbVpOX2hQOTNrZFQ1ZW84UUpyN2k1TzNqSDJ4NzFkdWllRFhWN0RIR3NyU1hzNHd3elMyTmt4ZnZpajRYX3Z6NGpFVElqVjQ4eGRDQ3BXdjZ1UFNTUUhzX0ZsV0RzSjY1cjJxVEk1R3padFFPdg?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Biznes Alert",
-      "publisherUrl": "https://biznesalert.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "21"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -18829,35 +17146,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-1676187919bc599f7d",
-      "date": "2026-09-29",
-      "title": "Inwestycja, nie koszt. Rozwój sieci to odpowiedzialne myślenie o przyszłości",
-      "title_pl": "Inwestycja, nie koszt. Rozwój sieci to odpowiedzialne myślenie o przyszłości",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Rzeczpospolita — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTE1jTmtlcnVIdWhGLUdERFNrdEVOTUxrZDI0cklsTTlXTzlsb1UzcGtiM3JQSUljeGtURi02a2hPZF9pTFBrdjhZVDhoUHBMTHR5RTM5ZHVIbXRYbm93cnFWWjhFNndpYWowTWFWSjRrbHRxbjkxa1hwSXREcUJfVkNDUWFTTWliMmF2enNHYjlGaGVDcUpfeFgzX1F4U2NxTEVQVjlUaUhiMVdHYm9yMFdDV3NqM2FmTjQ4VHVRbw?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Rzeczpospolita",
-      "publisherUrl": "https://energia.rp.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "24"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-0c800d252b148d47b4",
       "date": "2026-09-29",
       "title": "Rząd otwiera bloki na magazyny energii. Ale nie każdy będzie mógł je zainstalować",
@@ -18911,35 +17199,6 @@
       "reviewed": false,
       "sourceIds": [
         "24"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-e42fc15d46632fa6fd",
-      "date": "2026-09-28",
-      "title": "Prezentacja programu PowerPoint",
-      "title_pl": "",
-      "lang": "en",
-      "translated": false,
-      "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
-      "links": [
-        {
-          "label": "ZEPAK — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNMzRKbmRfUlNDTGhrRFpmcVdZRG83UmdDd0JJcFhUMm5PdEllUUxMV0NJVlVNUUx2cGZld2NubmUtOWxmZk1VOWxfZ0ZUMjdSR29SRVlMRXhBSkZoejdwU2lPTEhhOXZUem1Ta1RHcDY?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "ZEPAK",
-      "publisherUrl": "https://ri.zepak.com.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "55"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -19030,35 +17289,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-bc57c10f2e2150ad4a",
-      "date": "2026-09-28",
-      "title": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r.",
-      "title_pl": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3140",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-b650321054ae6f10d5",
@@ -19379,35 +17609,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-0501b97782bcb04549",
-      "date": "2026-09-28",
-      "title": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "title_pl": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3139",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "prints",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-cbb3a32732bc878d0d",
@@ -19932,36 +18133,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-87b98842507e7a6de0",
-      "date": "2026-09-25",
-      "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 21 września 2026 r. zmieniające rozporządzenie w sprawie płatności w ramach programów finansowanych z udziałem środków europejskich oraz przekazywania informacji dotyczących tych płatności",
-      "title_pl": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 21 września 2026 r. zmieniające rozporządzenie w sprawie płatności w ramach programów finansowanych z udziałem środków europejskich oraz przekazywania informacji dotyczących tych płatności",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "ISAP — Polish law database — source",
-          "url": "https://eli.gov.pl/eli/DU/2026/1250/ogl",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "ISAP — Polish law database",
-      "publisherUrl": "https://isap.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "5",
-        "7"
-      ],
-      "discoveryMethod": "eli",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-7d85097356cc25da08",
       "date": "2026-09-25",
       "title": "Ciepłownictwa będzie coraz więcej na rynku energii",
@@ -20484,35 +18655,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-7d27d08861ab40a9f1",
-      "date": "2026-09-24",
-      "title": "Komunikat w sprawie zmian w procesie przyłączania do sieci (zastąpiony komunikatem z 24.09.2026)",
-      "title_pl": "Komunikat w sprawie zmian w procesie przyłączania do sieci (zastąpiony komunikatem z 24.09.2026)",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "PGE Dystrybucja — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUlhobDBNVUh4TjNfaG1KaU1FWDkzZjROaWZrWE5QWGQwVEtMQkFWNHhJYWRQOHd6VVhCSW5lWXRFUnBHb2hOdThCNUJHVE9ySmtfRUZxMlc5Zmw1cVBad2dkdG1tVjYwSEM5R3FyNjNTZXJtZDlqb1pOYnQwckpoTXRrd1BGTGRLb0Y2bzh5WWQyOTRyaDRkcUtaR1g0MUhob1lyR3g0bTRGQUpHWU5iU3lKbTlyWGgtVFVKazhzS3BnaEozNVN4SUF6d2had1RyUlBETWFYTUJhLUZHMWc?oc=5",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "PGE Dystrybucja",
-      "publisherUrl": "https://pgedystrybucja.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "16"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-5d3e53d227bfabfc5f",
       "date": "2026-09-24",
       "title": "Polimex wykona budynki montażu modułów reaktora elektrowni jądrowej za 292,17 mln zł netto",
@@ -20600,35 +18742,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-0ea5831d1f41bfd6c5",
-      "date": "2026-09-24",
-      "title": "Ocean Winds zaczął budowę bazy operacyjno-serwisowej we Władysławowie",
-      "title_pl": "Ocean Winds zaczął budowę bazy operacyjno-serwisowej we Władysławowie",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "WysokieNapiecie.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQm5fYmlwS1dJdmZFTmhaNDZoclBERW9vc1V6aG1FUDgxaG1zWmtZdUtYMUl5Q21vdkY0TVhyQUhCRUk1bS1hNkdZREctWk9EenZWazVmM1ZOLWpEMlJyN254ak5JTDZSSFR0ZmVzU2JqZnhfa1hoWEQ4OE5lbDBjekVHMG9ZdHF4U0hvcTdaOW1QWnpLS3ZzeVliUmJHNDY0S2hvTEVwRm5IS3B1UWlB?oc=5",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "OCEANWINDS"
-      ],
-      "publisher": "WysokieNapiecie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
-    },
-    {
       "id": "src-0547c2c98916fdc65b",
       "date": "2026-09-24",
       "title": "PGE zainaugurowała budowę gazowego źródła kogeneracyjnego w EC Kraków za 886 mln zł",
@@ -20658,35 +18771,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-ea37b29642844aefa0",
-      "date": "2026-09-23",
-      "title": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r",
-      "title_pl": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Uzbekistanu, z drugiej strony, sporządzonej w Brukseli dnia 24 października 2025 r",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3140",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "processes",
-      "evidenceLevel": "official_metadata"
-    },
-    {
       "id": "src-e965272f0f8e941792",
       "date": "2026-09-23",
       "title": "Zamiar przeprowadzenia wykupu przymusowego akcji Energa S.A.",
@@ -20714,35 +18798,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-dfaeea7719d1c0e14d",
-      "date": "2026-09-23",
-      "title": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "title_pl": "Rządowy projekt ustawy o ratyfikacji Wzmocnionej umowy o partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kirgiską, z drugiej strony, sporządzonej w Brukseli dnia 25 czerwca 2024 r.",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
-      "links": [
-        {
-          "label": "Sejm API — prints & processes — source",
-          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3139",
-          "type": "official"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Sejm API — prints & processes",
-      "publisherUrl": "https://api.sejm.gov.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "6"
-      ],
-      "discoveryMethod": "processes",
-      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-8435c2a7eafe4dae62",
