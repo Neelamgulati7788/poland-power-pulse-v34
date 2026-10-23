@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:04:17+00:00",
+  "updated": "2026-10-23T12:43:22+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -319,6 +319,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b3a28a016769b33681",
+      "date": "2026-10-23",
+      "title": "Opracowanie dokumentacji projektowej dla realizacji robót budowlanych w budynku PP w Lwówku w ramach projektu pn. „Poprawa efektywności energetycznej budynków wielkopolskiej Policji – Etap II”",
+      "title_pl": "Opracowanie dokumentacji projektowej dla realizacji robót budowlanych w budynku PP w Lwówku w ramach projektu pn. „Poprawa efektywności energetycznej budynków wielkopolskiej Policji – Etap II”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "KOMENDA WOJEWÓDZKA POLICJI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3103-2be2-4fd8-701a-d00001a7d0c9",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-abf0ca393914506c74",
@@ -1274,6 +1303,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-20b2b813c48b7d1df0",
+      "date": "2026-10-23",
+      "title": "PSE: moc bateryjnych magazynów energii w systemie to 1,3 GW",
+      "title_pl": "PSE: moc bateryjnych magazynów energii w systemie to 1,3 GW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExSSWdsZ0M5dVZJSU5ja2p0dWM2VFpoc25qZ192NTVDeDNta0x1SGw3UTdXYnFwQUZsVG4yNEhGdS1kLXFNa191cENtc0VtRDduaXh4VmRXNm1vVlMzUXZoLVVTOVh4R08yalNPYm1kYlJYTnh2NGNRaUNuemJGZjEzSDFRdWVpQVl2TVFsMzlyVVh3WnlqMmhFTGU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
