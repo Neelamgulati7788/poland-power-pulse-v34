@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T09:35:26+00:00",
+  "updated": "2026-10-24T10:05:55+00:00",
   "signals": [
     {
       "id": "src-e6aff03d910f0c90d5",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5ad3cbf4c8a0b37d5f",
+      "date": "2026-10-24",
+      "title": "6,8 tys. osób odeszło z górnictwa. W tym roku znikną trzy kopalnie",
+      "title_pl": "6,8 tys. osób odeszło z górnictwa. W tym roku znikną trzy kopalnie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W tym roku z górnictwa odeszło 6,8 tys. osób, co oznacza spadek zatrudnienia w sektorze o prawie 10 proc. – poinformował w poniedziałek wiceminister energii Marian Zmarzły. Zapowiedział, że w tym roku zostaną wygaszone trzy kopalnie węgla kamiennego.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/6-8-tys-osob-odeszlo-z-gornictwa-W-tym-roku-znikna-trzy-kopalnie-9214736.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-586c46291caa170009",
