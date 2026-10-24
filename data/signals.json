@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T05:35:34+00:00",
+  "updated": "2026-10-24T06:05:32+00:00",
   "signals": [
     {
       "id": "src-5fac6d532ffcbff1fb",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-50b2635eb20ab89dc1",
+      "date": "2026-10-24",
+      "title": "Orlen zdecydował. Zwrot w cenach benzyny, fatalna wiadomość dla kierowców diesla",
+      "title_pl": "Orlen zdecydował. Zwrot w cenach benzyny, fatalna wiadomość dla kierowców diesla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHJuczZPd1dIcHMybEF6SERzSVpQRkF6LXQ3WW9DclhGUVVZcHktR3JNOVd4dGZLd2xVdWNVTWF4MU9fUEZSTkF4TGhjYlJxcmk2Qmx1VlFXZFFTdTBQTk9nVFFKYkhQYTdRR3ZVYUlHQ1N0elRuTFFuOFdYUklORnN4cGRBSGRiclVZVXhla2h3TmplUTFnY21TbmE1T1JEUnBfNUs4a1ZYeV9wcG1jVk1NVzBXbUFVT2NaNnBtU3lTSmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -519,6 +548,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c21b6a9c3d5e6eab1d",
+      "date": "2026-10-23",
+      "title": "Crude processing at Orlen's refineries down by 1 pct y/y in Q3 to 10.08 million tonnes",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVaZnJ3QkRaOWVsUjlWbWdvVVdxN3V4a1BsamxYRVZMNzhTc1prampXbzIyeVhtcjF0RWlIYlhRSWpfaE9ubG9MQ2tlQ1p6cksxOGlqWmRZVFRtek9rWW9jYmdaNkQ5cmtWYzhmMzVxZEE0cWZ2b3l3VFBNNjY3anZ6dTVhOS1naElvblFvT1Y0d1N0cTR6cmtKU0YyMjVMRzZ1Qk1hdW1PQWp2bk5n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1046,6 +1104,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-98984987a4049dff67",
+      "date": "2026-10-23",
+      "title": "PGE power's RES unit picks Elektrotim as contractor for four new energy storage facilities",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Biznes PAP — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzB3eTZabHlLeHc0Sm1URUpHLWRTczNqaU1tb1oxNTBvOXEyVXVjZi15cVR1SnlEaWRadE9NUXYwXy1kY3ZhNlBiQUxqV0dYX2ZidE52X0tTbDFmNzVsbG5Id0d4Q1dvcS03Y0h3TWZvME4wMGZKTERaX21jcFBSVWVJWVVwQnRpa0R1bDVsY21rVlR4a1dvaVlMeDVrMmF1TmNtMnZhT3NxRDRFd1JnQ2hXY0xBRnhVN2FjaEJ3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Biznes PAP",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-96bbbdea0a0583cada",
       "date": "2026-10-23",
       "title": "Arabowie kupili ją od Orlenu za PiS, teraz będą sprzedawać. Saudi Aramco może się pozbyć Rafinerii Gdańskiej",
@@ -1508,35 +1595,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-6501b2b8c987665ac8",
-      "date": "2026-10-23",
-      "title": "Tylko jedna sesja na zielono, ale jaka! Piątek niestety taki, jak większość tygodnia",
-      "title_pl": "Tylko jedna sesja na zielono, ale jaka! Piątek niestety taki, jak większość tygodnia",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Pnące się w górę notowania ropy, obawy o trwałość hossy technologicznej, a być może także pozycjonowanie się kapitału pod zbliżające się wybory do Kongresu USA, wywołały na rynkach sporą nerwowość. W piątek na GPW, tak jak na innych giełdach dominowała czerwień, a pod silną presją…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Tylko-jedna-sesja-na-zielono-ale-jaka-Notowania-Orlen-PKO-BP-KGHM-i-wyniki-sesji-9217621.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-64f1422b6aa20d1fbf",
@@ -2323,6 +2381,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-19268f14dda32ecbaa",
+      "date": "2026-10-23",
+      "title": "KNF podejrzewa manipulacje w obrocie akcjami MLK Foods, Coal Energy, Raen, FON",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Biznes PAP — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVV9oWWQxSzRZOHg0TDVoSGlTNjE2dm1Qa3dRNmt2WmFmbG9sSTZPR2dGTmJWMFR1dGZwZ3A1cVpYQjdHNEhxVDExOGt1cWNxbFd6Q0paMG9YNW9pYWliaUVhZGxKQktuQWNBRWJLRUFWS2k2VGNwbTNDS3B6LVNuVlVzTlBncVNtWlBEYTVXQnhWczk3a2pKODVYUDNTWk5zY3JxOGtLbWVycWdIRHotU1FBTnA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Biznes PAP",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-18f6b1dc73d0a3c510",
       "date": "2026-10-23",
       "title": "Przedstawiciele Energa-Operator z ważnymi rolami w E.DSO",
@@ -2463,6 +2550,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0615af4dfa73bcbae4",
+      "date": "2026-10-23",
+      "title": "Baterie w rowerach i hulajnogach elektrycznych. O czym pamiętać zimą?",
+      "title_pl": "Baterie w rowerach i hulajnogach elektrycznych. O czym pamiętać zimą?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVhjRlJfOXBnSE50ZmdkRmpkMl9xM1pOT0Z5c1UtZkdKRG0tQjltUUtSNnNtd1dOQzdhaEdWbE9zUFRRV251QWxXQTJYQzA5TWc2NGlwZ1NRb1BHbEhBTlRGUG5CeU5VZlpLdnV4LTdwNWxBdHhFcXhfRkM2bXBHbS16MnRDbmFvUFh5ZVdR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3263,7 +3379,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjNrNi1rcDFjamRieU1YZ0JDUEtlcFdXdE51b3RWMkFaZGV4aDBmQzVWb0YzUzZkMEI2bWctTHNsaUZYc0NOY0NIUXpQTjdXMS1XaEx0bjZiVk9odWdSSlR1eWxCdldQbFAtTFBsNV91WElBSHZYeUJsa2JSY3l1WnEtS2JLZ0ZuSmk2UXIxUmdNaHpXc0xmUFo1SU1mOFRnODJmekQtaWpjRl9JSGRER0N2OGliZmJ3a3FIVWxDMk1MQlBVQ3ZZRFViOHU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUtxRGZGaFlDTFZmdUx2TTlQTjE4aF9rMW1Rb2RwcDhRMGhCZDZEbGhoLVBpbWpVTGNGM0NDNWNyWWt4V1BHbHViY0pvc3JrVkRVWEZ6SGxmT1RfS2RBeDBkOE5rNkZtczJKcEdLWlVneWVUNXVjaFZoV0J1cEJNTUR6WkNCTUNQcUp2c1VnY1NYSzV6enZoLU50clM2RzVtSUtnV1J0TnNUMUk5a0FuMEVUWllKMkNJcnhIR21ITnlydXV6S05zeVFiT0c?oc=5",
           "type": "press"
         }
       ],
@@ -3271,7 +3387,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://oze.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
