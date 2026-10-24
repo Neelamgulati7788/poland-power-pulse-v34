@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:42:29+00:00",
+  "updated": "2026-10-24T07:37:23+00:00",
   "signals": [
     {
       "id": "src-853f6633639924f30b",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-586c46291caa170009",
+      "date": "2026-10-24",
+      "title": "Płonące elektryki to margines. W mediach temat urósł do ogromnych rozmiarów",
+      "title_pl": "Płonące elektryki to margines. W mediach temat urósł do ogromnych rozmiarów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3NydzRIOGNndEhid2JiaG9aSWNNczRlT0tTQ3N2RmxScVVvdzNSd1ZyNGxLN1kwYkFUa0FEb2cycHZJN1M1XzlRQ1NnOWltV2lpRnhiSmg0R0FMNXd3RDFVd1dzT0VXc3JvNVkweGlhMmZfOWN2Ump3UFFtWTI5VS1CR1Q2b3FZU3JHWG9HZ1FVVm1oaGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
