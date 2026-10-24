@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:58:09+00:00",
+  "updated": "2026-10-24T18:33:11+00:00",
   "signals": [
     {
       "id": "src-edf48e62ad089827a4",
@@ -14,6 +14,35 @@
         {
           "label": "Bankier.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVFubUlpN3dQNEd0SGFPSEtyOVBEN0ZCLWVUbnR2cXBrdWVsNU1Fc1h2T0RzZlNkMGJmM19lcnVVbFNZT29wNnhob0FxVWdmd2xKQ2ZWUWdTeU5VSkZaSkFab29abjFPQ0FKYm9vS1l4OGJIeklxOWc3QmoxYXhDVldLUXdxU0pFYTZEaDdlLWIxQndkWi1mYTJHUXFMRktsNDdkakJnUHUzTy1wN2wxZ2txUEJ3ZUs3N1V3ZHJYTVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e8bc6681768a983fe1",
+      "date": "2026-10-24",
+      "title": "Ciekawa sytuacja na rynku energii",
+      "title_pl": "Ciekawa sytuacja na rynku energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkpqbDk4V1lHS3BvOFJIa0daeEVFZnpRSU50WVd4WGVJaUwyelpJbFdYRDVQNUttenJRSDhoam9FdHBtb3VleXhSaXktY1J1Z0V4eERLU1p5VFVVbjZFdWRyVl9GV1Fsa1NnblJzNXZ6N1RhZ3FyNmJuTTB3Qmp4TXFkbkFxSEZyLXc?oc=5",
           "type": "press"
         }
       ],
