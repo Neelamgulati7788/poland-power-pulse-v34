@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T15:31:19+00:00",
+  "updated": "2026-10-24T16:02:04+00:00",
   "signals": [
     {
       "id": "src-e6aff03d910f0c90d5",
@@ -287,6 +287,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3038428c169d63bd57",
+      "date": "2026-10-24",
+      "title": "Podsumowanie tygodnia w energetyce i gospodarce (19-25 października 2026)",
+      "title_pl": "Podsumowanie tygodnia w energetyce i gospodarce (19-25 października 2026)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVVBa0g3eVk4SGlLcTJLX3Rpb0dpaTlpcGJWZFY3WldBTUF3WHZMVFhsdjZVMHhpc1RnZThfRDlBeXc5dnJKTk02OFNFRjgxMG1taG12N0h6dXJBNXFyMF9QT3JHazZmYmUxTzJudDdrVzZGWlhOOHBnWlBjM0xDQ0tGZnY3ZGtEbUZhVGRyODhZV3lsMlMxQVBHS2VMVHhEUFV1YmJ3RVllUE5fbDlTQkxJTmZpX0VLQXlBM2R2QkFxLUJQSGln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2812dc0d9355e9ebba",
+      "date": "2026-10-24",
+      "title": "Butle z gazem w części budynków zakazane. Grożą surowe kary",
+      "title_pl": "Butle z gazem w części budynków zakazane. Grożą surowe kary",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQam1uZGQ0MFhaZnF0T090QzEzb0N6QWxDdlQ0R0RNSHphZHRUb1AwMlMxZUw4UnBKOUkzMml6ZEVxamxxSUJFLWFHNlRmQkhpRVhZU2ktQUxaTVZMc0dISzQ5OXVUdEd3NjBxUjhmYm1neG1jSkdFWmtna2FpZDViVEJ4ZXhCX0pzVExhMWdYM2pzaFBQUzU3akN4ZzM0bU54NXlBcg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3669,7 +3727,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUtxRGZGaFlDTFZmdUx2TTlQTjE4aF9rMW1Rb2RwcDhRMGhCZDZEbGhoLVBpbWpVTGNGM0NDNWNyWWt4V1BHbHViY0pvc3JrVkRVWEZ6SGxmT1RfS2RBeDBkOE5rNkZtczJKcEdLWlVneWVUNXVjaFZoV0J1cEJNTUR6WkNCTUNQcUp2c1VnY1NYSzV6enZoLU50clM2RzVtSUtnV1J0TnNUMUk5a0FuMEVUWllKMkNJcnhIR21ITnlydXV6S05zeVFiT0c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjNrNi1rcDFjamRieU1YZ0JDUEtlcFdXdE51b3RWMkFaZGV4aDBmQzVWb0YzUzZkMEI2bWctTHNsaUZYc0NOY0NIUXpQTjdXMS1XaEx0bjZiVk9odWdSSlR1eWxCdldQbFAtTFBsNV91WElBSHZYeUJsa2JSY3l1WnEtS2JLZ0ZuSmk2UXIxUmdNaHpXc0xmUFo1SU1mOFRnODJmekQtaWpjRl9JSGRER0N2OGliZmJ3a3FIVWxDMk1MQlBVQ3ZZRFViOHU?oc=5",
           "type": "press"
         }
       ],
@@ -3677,7 +3735,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://oze.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
