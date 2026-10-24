@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-24T23:26:59+00:00",
-  "lastSuccessfulCollectionAt": "2026-10-24T23:26:59+00:00",
+  "checkedAt": "2026-10-24T23:55:06+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-24T23:55:06+00:00",
   "status": "partial",
-  "successfulSources": 70,
+  "successfulSources": 16,
   "totalSources": 72,
   "requestedWorkbookSources": 71,
   "newItems": 0,
@@ -18,24 +18,21 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://www.gov.pl/web/energia",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fenergia%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/energia)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -45,24 +42,21 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://www.gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpremier%2Fwykaz-prac-legislacyjnych-i-programowych-rady-ministrow%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -72,35 +66,28 @@
       "group": "Government & legislation",
       "language": "PL/EN",
       "url": "https://www.gov.pl/web/climate",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/klimat OR site:gov.pl/web/climate) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 4,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:gov.pl/web/klimat OR site:gov.pl/web/climate) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -110,24 +97,21 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://www.gov.pl/web/aktywa-panstwowe",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Faktywa-panstwowe%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/aktywa-panstwowe)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -154,8 +138,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -192,8 +176,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -219,8 +203,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -229,35 +213,28 @@
       "group": "Regulators",
       "language": "PL/EN",
       "url": "https://www.ure.gov.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:ure.gov.pl OR site:bip.ure.gov.pl) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ure.gov.pl OR site:bip.ure.gov.pl) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -267,35 +244,28 @@
       "group": "Regulators",
       "language": "PL/EN",
       "url": "https://www.gov.pl/web/paa",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/paa) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:gov.pl/web/paa) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -305,24 +275,21 @@
       "group": "Regulators",
       "language": "PL",
       "url": "https://uokik.gov.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Auokik.gov.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:uokik.gov.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 8,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -332,24 +299,21 @@
       "group": "Regulators",
       "language": "EN",
       "url": "https://energy.ec.europa.eu",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy.ec.europa.eu+OR+site%3Aec.europa.eu%2Fcommission%2Fpresscorner%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:energy.ec.europa.eu OR site:ec.europa.eu/commission/presscorner) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -359,24 +323,21 @@
       "group": "Regulators",
       "language": "EN",
       "url": "https://eur-lex.europa.eu",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:eur-lex.europa.eu) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -402,8 +363,8 @@
           "note": "Market-data endpoint checked. This row is not a headline source; PSE news is monitored separately."
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -412,24 +373,21 @@
       "group": "System operators & market",
       "language": "PL",
       "url": "https://www.pse.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-22",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apse.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:pse.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 5,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -439,35 +397,28 @@
       "group": "System operators & market",
       "language": "PL/EN",
       "url": "https://tge.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:tge.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 7,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:tge.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 2,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -477,24 +428,21 @@
       "group": "System operators & market",
       "language": "PL",
       "url": "https://pgedystrybucja.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apgedystrybucja.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:pgedystrybucja.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -504,24 +452,21 @@
       "group": "System operators & market",
       "language": "PL",
       "url": "https://energa-operator.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenerga-operator.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:energa-operator.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 9,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -531,24 +476,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://www.wnp.pl/energia/",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 7,
-      "latestPublicationDate": "2026-10-24",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Awnp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:wnp.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 7,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -559,8 +501,8 @@
       "language": "PL",
       "url": "https://wysokienapiecie.pl",
       "status": "success",
-      "coverage": "direct_and_indexed",
-      "matched": 4,
+      "coverage": "direct",
+      "matched": 1,
       "latestPublicationDate": "2026-10-23",
       "routes": [
         {
@@ -575,18 +517,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Awysokienapiecie.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:wysokienapiecie.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 9,
-          "matched": 3,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -595,24 +533,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://energetyka24.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 19,
-      "latestPublicationDate": "2026-10-24",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergetyka24.com%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:energetyka24.com)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 41,
-          "matched": 19,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -623,8 +558,8 @@
       "language": "PL",
       "url": "https://biznesalert.pl",
       "status": "success",
-      "coverage": "direct_and_indexed",
-      "matched": 2,
+      "coverage": "direct",
+      "matched": 1,
       "latestPublicationDate": "2026-10-22",
       "routes": [
         {
@@ -639,18 +574,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznesalert.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:biznesalert.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 8,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -659,24 +590,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://www.gramwzielone.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 40,
-      "latestPublicationDate": "2026-10-24",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gramwzielone.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 49,
-          "matched": 40,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -686,24 +614,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://www.cire.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 13,
-      "latestPublicationDate": "2026-10-24",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Acire.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:cire.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 35,
-          "matched": 13,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -713,24 +638,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://energia.rp.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergia.rp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:energia.rp.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 14,
-          "matched": 2,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -740,35 +662,28 @@
       "group": "Polish business press",
       "language": "PL/EN",
       "url": "https://biznes.pap.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:biznes.pap.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 2,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:biznes.pap.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -778,24 +693,21 @@
       "group": "Polish business press",
       "language": "PL",
       "url": "https://www.pb.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 3,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apb.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:pb.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 3,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -806,8 +718,8 @@
       "language": "PL",
       "url": "https://www.bankier.pl",
       "status": "success",
-      "coverage": "direct_and_indexed",
-      "matched": 6,
+      "coverage": "direct",
+      "matched": 3,
       "latestPublicationDate": "2026-10-24",
       "routes": [
         {
@@ -822,18 +734,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abankier.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:bankier.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 99,
-          "matched": 3,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -842,24 +750,21 @@
       "group": "Polish business press",
       "language": "PL",
       "url": "https://www.isbnews.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aisbnews.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:isbnews.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -869,24 +774,21 @@
       "group": "Polish business press",
       "language": "EN",
       "url": "https://www.polskieradio.pl/395",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-24",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:polskieradio.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -897,7 +799,7 @@
       "language": "EN",
       "url": "https://notesfrompoland.com",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -913,18 +815,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Anotesfrompoland.com%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:notesfrompoland.com)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 6,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -933,24 +831,21 @@
       "group": "International media",
       "language": "EN",
       "url": "https://www.reuters.com/business/energy/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Areuters.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:reuters.com (Poland OR Polish)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 35,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -961,7 +856,7 @@
       "language": "EN",
       "url": "https://www.world-nuclear-news.org",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -977,18 +872,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aworld-nuclear-news.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:world-nuclear-news.org) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 9,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -997,24 +888,21 @@
       "group": "International media",
       "language": "EN",
       "url": "https://renewablesnow.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Arenewablesnow.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:renewablesnow.com (Poland OR Polish)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 73,
-          "matched": 2,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1024,24 +912,21 @@
       "group": "International media",
       "language": "EN",
       "url": "https://www.enerdata.net",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Aenerdata.net+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:enerdata.net (Poland OR Polish)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1051,10 +936,10 @@
       "group": "International media",
       "language": "EN",
       "url": "https://ceenergynews.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-22",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "rss",
@@ -1065,17 +950,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Aceenergynews.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:ceenergynews.com (Poland OR Polish)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 8,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "mismatched tag: line 46, column 2; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1086,7 +968,7 @@
       "language": "EN",
       "url": "https://www.utilitydive.com",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1102,18 +984,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Autilitydive.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:utilitydive.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1123,7 +1001,7 @@
       "language": "EN",
       "url": "https://www.ess-news.com",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1139,18 +1017,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aess-news.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ess-news.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1160,7 +1034,7 @@
       "language": "EN",
       "url": "https://www.energy-storage.news",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1176,18 +1050,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:energy-storage.news) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 7,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1197,7 +1067,7 @@
       "language": "EN",
       "url": "https://www.pv-magazine.com",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1213,18 +1083,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apv-magazine.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:pv-magazine.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1233,22 +1099,25 @@
       "group": "International media",
       "language": "Multi",
       "url": "https://api.gdeltproject.org",
-      "status": "error",
-      "coverage": "unavailable",
-      "matched": 0,
-      "latestPublicationDate": null,
+      "status": "success",
+      "coverage": "direct",
+      "matched": 1,
+      "latestPublicationDate": "2026-10-23",
       "routes": [
         {
           "method": "gdelt",
           "url": "https://api.gdeltproject.org/api/v2/doc/doc",
           "language": "Multi",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 250,
+          "matched": 1,
+          "coverage": "limited_api_window",
+          "limited": true,
+          "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T19:06:24+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1257,24 +1126,21 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://www.eib.org/en/press/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aeib.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:eib.org) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1284,24 +1150,21 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://www.exim.gov/news",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aexim.gov%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:exim.gov) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1311,24 +1174,21 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://reforms-investments.ec.europa.eu",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Areforms-investments.ec.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:reforms-investments.ec.europa.eu) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1355,8 +1215,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     },
     {
@@ -1379,7 +1239,7 @@
         }
       ],
       "error": "HTTP Error 403: Forbidden",
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-23T16:38:45+00:00",
       "windowStart": "2026-10-21"
     },
@@ -1389,24 +1249,21 @@
       "group": "Financing & procurement",
       "language": "PL",
       "url": "https://www.gov.pl/web/gdos",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fgdos%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/gdos)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1416,35 +1273,28 @@
       "group": "Analysis & legal",
       "language": "PL/EN",
       "url": "https://www.forum-energii.eu/en",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:forum-energii.eu) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:forum-energii.eu) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1454,24 +1304,21 @@
       "group": "Analysis & legal",
       "language": "EN",
       "url": "https://dentons.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:dentons.com OR site:cms.law OR site:ssw.solutions) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 36,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1481,35 +1328,28 @@
       "group": "Company disclosures (ESPI)",
       "language": "PL/EN",
       "url": "https://www.gpw.pl/komunikaty",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 2,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1519,35 +1359,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://www.gkpge.pl/en/for-investors/current-reports",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gkpge.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 13,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:gkpge.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1557,35 +1390,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://ir.enea.pl/en",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:ir.enea.pl OR site:media.enea.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ir.enea.pl OR site:media.enea.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1595,24 +1421,21 @@
       "group": "Company disclosures",
       "language": "PL",
       "url": "https://media.energa.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.energa.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:media.energa.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1622,35 +1445,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://www.orlen.pl/en/about-the-company/media/press-releases",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 5,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:orlen.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 7,
-          "matched": 5,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:orlen.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1660,24 +1476,21 @@
       "group": "Company disclosures",
       "language": "PL",
       "url": "https://media.tauron.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.tauron.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:media.tauron.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1687,35 +1500,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://ri.zepak.com.pl/en",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:ri.zepak.com.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ri.zepak.com.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1725,35 +1531,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://pej.pl/en/homepage",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-10-23",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:pej.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 2,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:pej.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1763,35 +1562,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://www.polenergia.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:polenergia.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:polenergia.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1801,24 +1593,21 @@
       "group": "Company disclosures",
       "language": "EN",
       "url": "https://www.fortum.com/en/media",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Afortum.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:fortum.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1828,24 +1617,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://orsted.com/en/media/news",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorsted.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:orsted.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1855,35 +1641,28 @@
       "group": "International peers in Poland",
       "language": "PL/EN",
       "url": "https://pl.rwe.com/en/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:pl.rwe.com) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:pl.rwe.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1893,24 +1672,21 @@
       "group": "International peers in Poland",
       "language": "EN/ES",
       "url": "https://www.iberdrolainternacional.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aiberdrolainternacional.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:iberdrolainternacional.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1920,24 +1696,21 @@
       "group": "International peers in Poland",
       "language": "PL",
       "url": "https://engie-polska.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aengie-polska.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:engie-polska.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1947,24 +1720,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.edpr.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aedpr.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:edpr.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -1974,35 +1744,28 @@
       "group": "International peers in Poland",
       "language": "PL/EN",
       "url": "https://www.shell.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:shell.pl) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:shell.pl) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2012,24 +1775,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://totalenergies.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atotalenergies.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:totalenergies.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 5,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2039,24 +1799,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.oceanwinds.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aoceanwinds.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:oceanwinds.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2066,35 +1823,28 @@
       "group": "International peers in Poland",
       "language": "PL/EN",
       "url": "https://www.axpo.com/pl/en/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:axpo.com) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:axpo.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2104,35 +1854,28 @@
       "group": "International peers in Poland",
       "language": "PL/EN",
       "url": "https://dalkiapolska.com/en",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:dalkiapolska.com) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:dalkiapolska.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable; HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2142,24 +1885,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.bp.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abp.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:bp.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 6,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2169,24 +1909,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.vitol.com/media/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Avitol.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:vitol.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2196,24 +1933,21 @@
       "group": "International peers in Poland",
       "language": "PL",
       "url": "https://centrumprasowe.veolia.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Acentrumprasowe.veolia.pl+OR+site%3Aveolia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:centrumprasowe.veolia.pl OR site:veolia.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
       "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
       "windowStart": "2026-10-22"
     },
@@ -2224,7 +1958,7 @@
       "language": "EN",
       "url": "https://balticwind.eu/",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -2240,18 +1974,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Abalticwind.eu+%28Poland+OR+Polish+OR+PGE+OR+Baltica+OR+Ba%C5%82tyk%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:balticwind.eu (Poland OR Polish OR PGE OR Baltica OR Bałtyk)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 5,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 503: Service Unavailable"
         }
       ],
-      "checkedAt": "2026-10-24T23:26:59+00:00",
-      "lastSuccessfulCheckAt": "2026-10-24T23:26:59+00:00",
+      "checkedAt": "2026-10-24T23:55:06+00:00",
+      "lastSuccessfulCheckAt": "2026-10-24T23:55:06+00:00",
       "windowStart": "2026-10-22"
     }
   ],
