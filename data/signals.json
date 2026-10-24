@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:32:35+00:00",
+  "updated": "2026-10-24T19:56:28+00:00",
   "signals": [
     {
       "id": "src-edf48e62ad089827a4",
@@ -1012,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c6921a758b76bf4d1e",
+      "date": "2026-10-23",
+      "title": "Pod górę ze Skarbami na plecach. Runner’s Power wnosi na szczyty dzieci z niepełnosprawnościami",
+      "title_pl": "Pod górę ze Skarbami na plecach. Runner’s Power wnosi na szczyty dzieci z niepełnosprawnościami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQci1GZ08tNXllMVVMckQ2ZEc0bjg2cWNuTFRXZGk1MUpkNDJaLTM2bXM3b0hDRTViR3I3ajRoN3RycFRjUlh3LU8wTUlNcW1OVjMyWlJZMFJzb0lLTzZNYnhuanhYcWIxYmNNTVczY0VCV1pVaGNnR2NYN2hlazd0Z252VlJUZ0tnM1pXRzN6akF5V0ZseWpFZmdVQkJUeGVQOEQzbjJLZGpvU212ZFM1QkRxNmJ0Nm9yS1V3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
