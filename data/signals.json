@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:49:44+00:00",
+  "updated": "2026-10-24T01:43:23+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -593,7 +593,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGZiVGZFMGJCRlFnZ2RCTHAtaXloSnhVOFVyTDhPcFEtOFZBbjd5Rzd3YjVma2pfbnVCb3BNU0hnV1dBT0ZybkF2QkxNWUZtRl9FT1ctdU1VSXZYWWlfNXFNa05IMlJqcUhwcnMydkZnVWhJU1gyUGNZNWQ2STFTVTlDM1ZlWmU4ZWJVQTlFXzhYblJ0Nm9WemdCQktTd2NQOWZZbGdiYzBHcmNiSFVaekNiMHg5OTBpMERwbVlWaVRIT3I0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelpwbU41ZXFFM0ZVbFlyWjlfUDFoVDNIZENZNU81d3NYS1YwYXZrWlhPX054bWFoS2pLVDJMajk1Q3R6Rjk0b1FIcFdJVjJfUGh4aE4zMnVGYk43OW9KekMyTU5pQUl0V1FLaVJwOHEwUklwMGNsbTFEbldhQzg1Q3JsZ09oWUk2N0JwR0JFcWg1M2NOX05Bc0x1VHRzS1BJaUszMU1BemljcVBwM3JmNg?oc=5",
           "type": "press"
         }
       ],
@@ -601,7 +601,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -970,7 +970,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlpkMk9ZMlVBVGdrS3ZBVloxWjR6ZzZLZ2Y3NW4yQjZGX1lLM0lmWHluNjdhSHFuYjZtZzZnZHZwbzd6WnRfeThDdk5zXzQ2Uk5qaTVWMVFtdUNhVnowbUVJRDc0eS1XeDVtZFVHZ3ZIdGJRZHRsbmZQekVTOG04U2RaNWF5UXNkeTdpYnpRX3kxZE1ubnVPd3liZlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlrNVVTV2R1bmJYamI1OW1HVE4xR21DTjZiekFhZ0ZVT1RuZFVCdnVNZUtCTU9mdVB0ZVJsYlJYSlg5TDdiQ3duSG5lTEpRZXpXcEZ1aGwxbEpOeHAwYUV1OGF3QUNSWC1PS1gwcnZiblpIRlBoUC16dE5EX0lKODJmX3ZfUzJSYnA3clF1YVBnSXhlVXBiaF85aVk5UkJOY1VVMDh5MGNDSngySi1PYjE1dlFpWUp5V1NzWU5EQ0VrUlk?oc=5",
           "type": "press"
         }
       ],
@@ -978,7 +978,7 @@
         "PGE"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -4848,35 +4848,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-988aabc9f37e809ff7",
-      "date": "2026-10-21",
-      "title": "W UE mamy jedną cenę CO2, ale nierówne możliwości inwestowania. Polska jest w gorszej sytuacji",
-      "title_pl": "W UE mamy jedną cenę CO2, ale nierówne możliwości inwestowania. Polska jest w gorszej sytuacji",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Europa ma problem z inwestycjami Europejska polityka klimatyczna wchodzi w etap, w którym o jej gospodarczych konsekwencjach coraz silniej będzie decydować nie tylko skala osiąganych redukcji emisji gazów cieplarnianych, lecz również geograficzne rozmieszczenie nowych inwestycji przemysłowych w samej UE. Zasadnicze znaczenie ma bowiem to, czy…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122282-w-ue-mamy-jedna-cene-co2-ale-nierowne-mozliwosci-inwestowania/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-974def337db4f479bc",
