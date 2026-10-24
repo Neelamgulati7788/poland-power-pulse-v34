@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:03:45+00:00",
+  "updated": "2026-10-24T12:40:19+00:00",
   "signals": [
     {
       "id": "src-e6aff03d910f0c90d5",
@@ -200,6 +200,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-34352058d7958940b9",
+      "date": "2026-10-24",
+      "title": "Czekamy na obnizenie norm i aneks enea",
+      "title_pl": "Czekamy na obnizenie norm i aneks enea",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQU4xb1VTbUlzR0tEdlVpN3RCOG9NSDViVF9vakRRUUw0cXJHckpFZEpfb0xnU1hiZlBEd0tvRmdfNkgtM3lsak9zLXNqdmJrTzV2QjlRR0hHUmI0NFJGaUZSdDhFVzliRHJEclZXVmNDRC1ObkhrZW94VHN3X0IzT2xlcGJyRGp3ck5XRGFzN1k?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-085d49fbcd02e2690d",
+      "date": "2026-10-24",
+      "title": "Baterie w rowerach i hulajnogach elektrycznych. O czym pamiętać zimą?",
+      "title_pl": "Baterie w rowerach i hulajnogach elektrycznych. O czym pamiętać zimą?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVhjRlJfOXBnSE50ZmdkRmpkMl9xM1pOT0Z5c1UtZkdKRG0tQjltUUtSNnNtd1dOQzdhaEdWbE9zUFRRV251QWxXQTJYQzA5TWc2NGlwZ1NRb1BHbEhBTlRGUG5CeU5VZlpLdnV4LTdwNWxBdHhFcXhfRkM2bXBHbS16MnRDbmFvUFh5ZVdR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1447,6 +1505,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8ae204aaf472166e50",
+      "date": "2026-10-23",
+      "title": "ENERGY SA (45/2026) Zawarcie umowy na realizację zamówienia w zakresie kompensacji mocy biernej dla sektora publicznego | Biznes PAP",
+      "title_pl": "ENERGY SA (45/2026) Zawarcie umowy na realizację zamówienia w zakresie kompensacji mocy biernej dla sektora publicznego | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Biznes PAP — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkZOMjE4UkhGdW1hLUNKTTdrckVpOWUtZU5YZTVXREZHQVNWZ2dFb2RIUjl0QzdNUklHOE1YdFFBQXV2dXl1M3BxbkRpMmV1dG5IaDMwcDlLbjNOMFdzWUdIUUY5cU1MOHE4OGV4YWRNSWVRTnFBY0tLVzdPT0ZETVBnZlhuZW1xZk5oQnBwdEgwbTR1TDk3XzdhUE1oYk43QnFzVzdPTGQyU0lVcWRLYlBhOTdKcGo1Tnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Biznes PAP",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
