@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-24T17:31:23+00:00",
+  "updated": "2026-10-24T17:58:09+00:00",
   "signals": [
+    {
+      "id": "src-edf48e62ad089827a4",
+      "date": "2026-10-24",
+      "title": "Pomoc energetyczna dla Ukrainy kluczowa przed zimą. Sikorski apeluje do Europy",
+      "title_pl": "Pomoc energetyczna dla Ukrainy kluczowa przed zimą. Sikorski apeluje do Europy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVFubUlpN3dQNEd0SGFPSEtyOVBEN0ZCLWVUbnR2cXBrdWVsNU1Fc1h2T0RzZlNkMGJmM19lcnVVbFNZT29wNnhob0FxVWdmd2xKQ2ZWUWdTeU5VSkZaSkFab29abjFPQ0FKYm9vS1l4OGJIeklxOWc3QmoxYXhDVldLUXdxU0pFYTZEaDdlLWIxQndkWi1mYTJHUXFMRktsNDdkakJnUHUzTy1wN2wxZ2txUEJ3ZUs3N1V3ZHJYTVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-e6eff1a05566815404",
       "date": "2026-10-24",
@@ -171,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "29"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60aac81cd8b5b2c284",
+      "date": "2026-10-24",
+      "title": "15 mln Polaków czeka zmiana. Węgiel do wymiany na gaz",
+      "title_pl": "15 mln Polaków czeka zmiana. Węgiel do wymiany na gaz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzUyQVVja1JHYmVzX3NMcWxGZThuT2dpQXpzOWp1MW1FVG1xdGJhdEhNWUxLOUp3a1YybXBucTM5Y0VDbXR1VENNSGpIUVRCNFNwemxIejlVNC00UXdSbzN3eUNhR2RUOTJiR3VMQU9SWjNwMUlsaERMYUJhelprbUh1LUtqcnNyU0FYWjRBWE5ic3dxWnAtQUdKcDU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
