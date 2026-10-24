@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:58:59+00:00",
+  "updated": "2026-10-24T00:49:44+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -970,7 +970,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDlrNVVTV2R1bmJYamI1OW1HVE4xR21DTjZiekFhZ0ZVT1RuZFVCdnVNZUtCTU9mdVB0ZVJsYlJYSlg5TDdiQ3duSG5lTEpRZXpXcEZ1aGwxbEpOeHAwYUV1OGF3QUNSWC1PS1gwcnZiblpIRlBoUC16dE5EX0lKODJmX3ZfUzJSYnA3clF1YVBnSXhlVXBiaF85aVk5UkJOY1VVMDh5MGNDSngySi1PYjE1dlFpWUp5V1NzWU5EQ0VrUlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlpkMk9ZMlVBVGdrS3ZBVloxWjR6ZzZLZ2Y3NW4yQjZGX1lLM0lmWHluNjdhSHFuYjZtZzZnZHZwbzd6WnRfeThDdk5zXzQ2Uk5qaTVWMVFtdUNhVnowbUVJRDc0eS1XeDVtZFVHZ3ZIdGJRZHRsbmZQekVTOG04U2RaNWF5UXNkeTdpYnpRX3kxZE1ubnVPd3liZlk?oc=5",
           "type": "press"
         }
       ],
@@ -978,7 +978,7 @@
         "PGE"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -1041,6 +1041,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-95412b4063347575f6",
+      "date": "2026-10-23",
+      "title": "Sprzedam projekt PV (220 MW) dokumentacja",
+      "title_pl": "Sprzedam projekt PV (220 MW) dokumentacja",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVnhBOC1aWVAwcUhyY2dzRDhqcWlSV2VJY0JuTTZNcU5oT0pUX1VzSXdtd3FMSEtxT3liazhJLUlhUDl0ZWdTQjc4VVFaekRRLWt3bWstYUdscFlaSVVPMXhkeEVuUW1QWDBWbUNmTUNla2N3Mk5oanJrZUluVEROcUc1U3dHampjMmpHN1paRzZRdl9UdDhYTmFPYWM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2608,6 +2637,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e284d80c2e18e46f40",
+      "date": "2026-10-22",
+      "title": "Kupię magazyny energii 35 MWh",
+      "title_pl": "Kupię magazyny energii 35 MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmcxaVZTRWszX1pnUk9vMnhidS1aZ3M4b192cE5fYjduX3JCZmVrNktMS1g0OXVPeTU4ZXJiTG04R3k5SHZYcFhVcHJtWkhfN3pvVl94eHQ4eUpmNFRncGhMMHlKYUlhTW5VenFRTmRpYWJQVE9nT2IycXd4cWQ0QzZKN3VfdFdraEww?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4990,6 +5048,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8fabb52f76d55997b7",
+      "date": "2026-10-21",
+      "title": "Archiwa Pompy ciepła - Strona 26 z 26",
+      "title_pl": "Archiwa Pompy ciepła - Strona 26 z 26",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUExfbXdMXzVwTlBnMUQxS3lnb0RZcktNdjI0bHdoejJtaThrSk5YQ2NyV3dCZmlkTE5LMmpMRmxUVUdCWi12bFhSTk8tRGc5NHB1OVNpcS1qTHE3RUhn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
