@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:31:20+00:00",
+  "updated": "2026-10-24T15:01:15+00:00",
   "signals": [
     {
       "id": "src-e6aff03d910f0c90d5",
@@ -23,6 +23,64 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c81b4fc64e795cf202",
+      "date": "2026-10-24",
+      "title": "Saudi Aramco planuje zmiany w Polsce, Obajtek atakuje Orlen. \"Nie czytał Pan?\"",
+      "title_pl": "Saudi Aramco planuje zmiany w Polsce, Obajtek atakuje Orlen. \"Nie czytał Pan?\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1ZqQWF4Yk1ENWljMmg3dFRWTXJKOUhFMk5XS1h4Y3ZVQ1J2NlZrVUJkQlVTYXllX05fdkZDYUdCSzZUM2dyTl9JVkMzLWVXT2dBQWtVbWtsbEgxRGhsXzdYQXVsQThqVVR3WU1BdV9oLWVjS2FzRXhaTE9lMVp5VWJIRF9CMTN3TEphVHBzbnJicU1vOTN1OUxBSzF0ZUZpYjF1b21jMUx5NG5lMi1EeFl4Yw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b8836d60d98a546f74",
+      "date": "2026-10-24",
+      "title": "Strona 2579 z 2587 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2579 z 2587 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVXQ4cU9zckNndGNBWXJFVWdZTWZHUkFHWjUxZlgzRGxwVU81bTdFdW53N3ZYdDA4cEozQVB4cjAwSE1JMDA2SzdKOU5uNjFq?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -187,7 +245,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHJuczZPd1dIcHMybEF6SERzSVpQRkF6LXQ3WW9DclhGUVVZcHktR3JNOVd4dGZLd2xVdWNVTWF4MU9fUEZSTkF4TGhjYlJxcmk2Qmx1VlFXZFFTdTBQTk9nVFFKYkhQYTdRR3ZVYUlHQ1N0elRuTFFuOFdYUklORnN4cGRBSGRiclVZVXhla2h3TmplUTFnY21TbmE1T1JEUnBfNUs4a1ZYeV9wcG1jVk1NVzBXbUFVT2NaNnBtU3lTSmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOejkxdFliTjZEWU9MNFlXdy1mZHctTkpWeFowVndiRU9tRXJBeDMwakNxR2VsZEtfWVV2VzNLMlhzMVFsR2xib3B2QmxfVWlfS1ZfYzRJWW9jWjZLem1oV1JiVTlRMm56ZTZkblUtQXBuYnVHZGxkZk43eC1xNmlsWTYxZUJjMkNfMW8wTVNKQTBMN2dkY0E5LTlEcGloWTM4eWZTUC1YczBXTkJEMVVhYl9nbU1RYnVlREE?oc=5",
           "type": "press"
         }
       ],
