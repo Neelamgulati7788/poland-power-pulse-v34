@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:05:36+00:00",
+  "updated": "2026-10-24T03:36:54+00:00",
   "signals": [
     {
       "id": "src-f85ec4ed27b8a64f31",
@@ -432,6 +432,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ca9bb6fc8850b82e23",
+      "date": "2026-10-23",
+      "title": "​Dyspozytor/ka Centralnej Dyspozycji Mocy​, ORLEN S.A., Gdańsk",
+      "title_pl": "​Dyspozytor/ka Centralnej Dyspozycji Mocy​, ORLEN S.A., Gdańsk",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1hTSlN3aHRrVEVrMHljOEJydTg1Uk5FazVFdEI0SWJ1bTkzUlhWRmJCZnlnSEFVUmpFUk5URTRCNjItdUNjQmxXbEwyZWFhNlVRNDNjZ0N0UUZIT2dZMnB1YlB1TmlGeGs5Y1lMRVpFWVNESUd0SE1RSGw5UVZwNHNoRzdrR2EwQlFOU1l6MjgxOW5OWGFGY1ZlVTFQb1ZCZ1Q5RlRwdXdNZDJ0Mkcw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
