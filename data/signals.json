@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T07:37:23+00:00",
+  "updated": "2026-10-24T08:33:45+00:00",
   "signals": [
     {
       "id": "src-853f6633639924f30b",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-739f9db0139cb18064",
+      "date": "2026-10-24",
+      "title": "humalog pen storage",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Programy Player Polskie Radio SA — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUQVVqWFdQTDU5REk4RTUxMEw4LUVIMEo4TUdEUm12R0RuYnhza0NaVkNvNGZXWVR4YUR0TjdOdVUtZ3U1ajZGN091ZnF4ZExuTHBmNlJNc09MOWhnOXNZNlJCcVZ4MkVBSWZERmVHLWVoTFJLeHY3OGVjbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Programy Player Polskie Radio SA",
+      "publisherUrl": "https://player.polskieradio.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "29"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
