@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:32:27+00:00",
+  "updated": "2026-10-24T17:03:03+00:00",
   "signals": [
     {
       "id": "src-e6aff03d910f0c90d5",
@@ -3769,6 +3769,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9090ca4c890e603e48",
+      "date": "2026-10-22",
+      "title": "Parlamentarny Zespół ds. Energii i Wodoru - artykuły",
+      "title_pl": "Parlamentarny Zespół ds. Energii i Wodoru - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWZfT2FRakN3NF9jTmxPdHZwTXI5MEI5Y29GWEZTWDZjMWF5azhyMUtuNk5ETnpfLTQ3Uk84MjEtbzVvOXBRNEc2akhNanRHMmVkQnRQcTZ6ZVo5Y2MtTHZUQUNzZjBXWTZPOU5DejBKdmVQUTVLNk1kb2dWY2ZJZTh1VQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
