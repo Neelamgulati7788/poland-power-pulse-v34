@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T10:06:09+00:00",
+  "updated": "2026-10-25T10:36:22+00:00",
   "signals": [
     {
       "id": "src-b36e2f2ee3b88e1c0c",
@@ -113,6 +113,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4ef9763da36b6ce83d",
+      "date": "2026-10-25",
+      "title": "Import węgla energetycznego przebił 5 mln ton.",
+      "title_pl": "Import węgla energetycznego przebił 5 mln ton.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW96aElLdWpSd3I5YURkUTgzVFoxRTdCYnAyY1prOEhiSjRjSUktNnlZVmhjR29Yay1YQUVDN05tdEM3b3BwMVRFUmphUDJXS3RBT2dMZlZsR1YzYlJFbmZyUEQyLVFjeXRVUGpJaHR1NXlrX2xhUFR3eVNMb3d4ME1ZcVh3aEFJU3V6Q0Z5SFl4MWdYY0xuWFFn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4b5850e74f6f4d0e19",
+      "date": "2026-10-25",
+      "title": "Fotowoltaiczny boom. Panele są nawet prezentem ślubnym",
+      "title_pl": "Fotowoltaiczny boom. Panele są nawet prezentem ślubnym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDJTUDRtaF91YW1xaDZuVkRjdnEyczNDRWdFTmNSN3ZjNHVqekZYVXhHYVp5MDRnNDlreVdya1V2cGV5R1A5bk90UE1zY1NMU1JXMm50QzlTN1R0dE5TZjVXamNfYVFVVkpHNnJSSFJ4SVZrN1NNWDdlQWVHbjc1N3RUQmxoV0VSRy1ub1dpUTFTWjV6TFJidw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
