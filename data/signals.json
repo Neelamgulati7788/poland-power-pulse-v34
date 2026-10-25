@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:02:46+00:00",
+  "updated": "2026-10-25T12:38:34+00:00",
   "signals": [
     {
       "id": "src-d4d1a9edf26136266e",
@@ -218,7 +218,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDJTUDRtaF91YW1xaDZuVkRjdnEyczNDRWdFTmNSN3ZjNHVqekZYVXhHYVp5MDRnNDlreVdya1V2cGV5R1A5bk90UE1zY1NMU1JXMm50QzlTN1R0dE5TZjVXamNfYVFVVkpHNnJSSFJ4SVZrN1NNWDdlQWVHbjc1N3RUQmxoV0VSRy1ub1dpUTFTWjV6TFJidw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFFhUmMwSXd0Y0Z0a1hLUTI2VVVaMkdSazllMWpNbkV0LVQzTkRiaTlwTHJmVy1IRHJONC1rVkttaTBpYlFST2ZSRWFqMjF5Z3pUOFpsRTh4RWo3dlFRV2JTTDdPeUMtSGt6ejlGekROSFBNYkZhNXlXeWhha1ptMEdIY0NkczZLOER2SWpicnA3NVE4UEE?oc=5",
           "type": "press"
         }
       ],
@@ -301,11 +301,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Prezydent USA Donald Trump powiedział w sobotę, że chce wrócić do robienia interesów z Rosją i Ukrainą. Zasugerował jednak, że stanie się to po zakończeniu wojny.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-biznes-z-Rosja-po-wojnie-W-tle-wielki-projekt-gazowy-na-Alasce-9217927.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeDJRTm5HbXhUZWtncnZHa2VwWmUwSzJodVhVc3c0QlRYQnRoZ2tDel9XY1FzTXVQYU5SVVotc3QyLVpwZ1NOX25GOHVXdTF6UTlNRktyV21COXFKVHYxY1gyOTNSNUljMmxtVy1xUnJlYlFXMWJQZXpBcl9KWGNTUTVSNmdsbFkxQk1yS2pNdzVKcTRMU0hDYklPblNjRGg2Qi1SQ0JZQjd6c3RVQjZGazJ2N1ljd1ZzUzNBQnQ1bUdkdw?oc=5",
           "type": "press"
         }
       ],
@@ -319,8 +319,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-28546b048872797b05",
