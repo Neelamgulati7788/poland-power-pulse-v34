@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:38:34+00:00",
+  "updated": "2026-10-25T13:33:48+00:00",
   "signals": [
     {
       "id": "src-d4d1a9edf26136266e",
@@ -176,6 +176,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-6c3ddd4ad6ea84177b",
+      "date": "2026-10-25",
+      "title": "Silny wiatr nad Polską . Ostrzeżenia dla południa i północy kraju , sztorm na Bałtyku",
+      "title_pl": "Silny wiatr nad Polską . Ostrzeżenia dla południa i północy kraju , sztorm na Bałtyku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "se.pl — source",
+          "url": "https://www.se.pl/trojmiasto/silny-wiatr-nad-polska-ostrzezenia-dla-poludnia-i-polnocy-kraju-sztorm-na-baltyku-aa-h8Ek-8wCV-rzhT.html",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "se.pl",
+      "publisherUrl": "https://api.gdeltproject.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "40"
+      ],
+      "discoveryMethod": "gdelt",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-4ef9763da36b6ce83d",
@@ -769,7 +798,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWWV2Sk1KYUhlSmNXX0JnRFBIVm41UGNsdkJNc1dnQnhZX1BPbkFUY3hQSHdvZGJlWklUMWY0SHRfemRPUzhFOE8zaEJhMUdmZG1RSldaMFdSY056cGxHSkJYbzMweDdiRXFCV1hPT2lMLWpvT3ZwTVZZTmUxWF9XZ28xSUpjSXdZUlpFQ2FIRUxwdjZDNjY0TXgzY09wajdQNkhlWnVGSkI3MnZYdk1JMXlIdDBYTzJRMnhj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2NKZDVaV2NVcDZ3bXVDQlJvWkNzOEg1eDlWeDhDNzJkekFmdnBCbEY2MklXYXFtNGgxYWZEZHZ0MV9MVE9uOWFjR1VGOER3SUNCNDNTY1MxMUVNQVltVnZ5dTdyanpneHhTZTF4b18zWko2Zi11WkZFYU9nVjJ4TTJIUDhvQjR3N1NuVUZ6ck80OEZlczgydDBDYVNobWlvTEhua05pYmVBajhiUUhhSG1KdzBzUUdlU3pmaGNaMHJKamc?oc=5",
           "type": "press"
         }
       ],
