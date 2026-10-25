@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:33:48+00:00",
+  "updated": "2026-10-25T14:02:58+00:00",
   "signals": [
     {
       "id": "src-d4d1a9edf26136266e",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a33bd96a21236d6a2d",
+      "date": "2026-10-25",
+      "title": "Elektryczny motocykl przejechał setki km bez ładowania. Padł nowy rekord Guinnessa",
+      "title_pl": "Elektryczny motocykl przejechał setki km bez ładowania. Padł nowy rekord Guinnessa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2hFTGpWbG5MZnZqV0wzY3BVLU1WMkxFWnpuTm1IT1VsY3J5azNJZ2V1NVdMVE1XejZZOFJTS2otMkNRU3NpcjNUZm5vblhWYlhyZ25xblAwaGYwT3VhZnBjZ3dGRFVxZ2o1cnBybXQtTTl5dDdNaEVpWTlHcG5qeEJvRG1UbkZW?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
