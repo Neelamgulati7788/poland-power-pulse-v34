@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T09:36:22+00:00",
+  "updated": "2026-10-25T10:06:09+00:00",
   "signals": [
     {
       "id": "src-b36e2f2ee3b88e1c0c",
@@ -118,6 +118,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-371cbe1eac21e9cda3",
+      "date": "2026-10-25",
+      "title": "Beskidy: Ostrzeżenie przed wiatrem; w porywach lokalnie może osiągnąć 100 km na godz.",
+      "title_pl": "Beskidy: Ostrzeżenie przed wiatrem; w porywach lokalnie może osiągnąć 100 km na godz.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNU9FbXY3Z0tvQ3lHWndYX3JxNXJ6VE1PU3I1ZVFrcGtKSTQ5dHJHek83QmZsbm1YSk1zblBDMmU2TzRkWVJIVm4yS1hwcFJGT0l6aFpCSnVzUE10WjB1aG9ET3lKYXZwcWtHcktzSkFvdlRwUEhEQ3VtcmU1UTdudm9YU2FVUkU1SS1zcGxzTDdDMTljQV9tNXU1U2JVeGVWUE84RXNLcFVpTFMtY2gxLWctZ3piVDIwNWhfdQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-34defd8a1d40ee8b9b",
       "date": "2026-10-25",
       "title": "Trump zapowiada biznes z Rosją po wojnie. W tle wielki projekt gazowy na Alasce",
@@ -145,6 +174,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-28546b048872797b05",
+      "date": "2026-10-25",
+      "title": "USA szykują atak. Odpowiedź Iranu zaboli bardziej niż zakłócenie dostaw ropy i gazu",
+      "title_pl": "USA szykują atak. Odpowiedź Iranu zaboli bardziej niż zakłócenie dostaw ropy i gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDVjTURlR3BBdTdzbDZSSmxrZE96UjYtWWJTQjFaeUcxZjYxSFU5anN4NDA0X1hzMnJSeFhuWkllR2l4ZlJieWJRNjNiMjhSMzNrU0ZjME5EQUJnRGxabVhSSThPc2ZLcFhJY0dmS3J3enVESzU4VTJNZVozbnVBU0FFekpaaW52UVlaejZXa1VyUE9zRTRsSVYyVU5CcTEyN2NJdFM3a09LR3pXNGFTd2hEZ1ZGNktzTkYxY2V0QkloZXdUYm1iWA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f2a88d0179fa21f9e9",
