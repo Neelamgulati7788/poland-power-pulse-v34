@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:04:35+00:00",
+  "updated": "2026-10-25T17:33:12+00:00",
   "signals": [
     {
       "id": "src-d4d1a9edf26136266e",
@@ -405,6 +405,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-196255fcbd9d89aedf",
+      "date": "2026-10-25",
+      "title": "Ataki Ukrainy na rosyjską energetykę zaostrzyły konflikt z Trumpem. Kijów ryzykuje utratą sojusznika",
+      "title_pl": "Ataki Ukrainy na rosyjską energetykę zaostrzyły konflikt z Trumpem. Kijów ryzykuje utratą sojusznika",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWp2YW5KeXpsdUpUbVZFai1DT205eU5nNXRERWRBbUJNM3NCLURCTEZITlRVVFQtUFVQOVdrRUs3Vlloc2ZQbWlCU1NhQlFPTGh3cHdHSEp2TUpVMWpwNEZERHVNWm9HYm5SMkdiNEZkd292bHlEbFlndVNfR1YzNUxzdFlTa3BsLXFkWE1DclY1SGl0bC0xZGF6OU5HZ1dMT2t1cXNJTE5NX1RrRWxmUnRCVGRDTW1ackZUbEQtMjFLRVk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
