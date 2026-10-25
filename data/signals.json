@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:39:11+00:00",
+  "updated": "2026-10-25T08:33:22+00:00",
   "signals": [
     {
       "id": "src-b36e2f2ee3b88e1c0c",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-34defd8a1d40ee8b9b",
+      "date": "2026-10-25",
+      "title": "Trump zapowiada biznes z Rosją po wojnie. W tle wielki projekt gazowy na Alasce",
+      "title_pl": "Trump zapowiada biznes z Rosją po wojnie. W tle wielki projekt gazowy na Alasce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prezydent USA Donald Trump powiedział w sobotę, że chce wrócić do robienia interesów z Rosją i Ukrainą. Zasugerował jednak, że stanie się to po zakończeniu wojny.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-biznes-z-Rosja-po-wojnie-W-tle-wielki-projekt-gazowy-na-Alasce-9217927.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f2a88d0179fa21f9e9",
