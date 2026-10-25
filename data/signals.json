@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:27:28+00:00",
+  "updated": "2026-10-25T22:57:36+00:00",
   "signals": [
     {
       "id": "src-ff8cc25927ba0c107f",
@@ -550,6 +550,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1957ec58d90cd87cf0",
+      "date": "2026-10-25",
+      "title": "W Koninie do spółek miejskich trafi energia produkowana z odpadów",
+      "title_pl": "W Koninie do spółek miejskich trafi energia produkowana z odpadów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYWJWSFg0RnplYVBzaFBaaS1zWWY1cTgwQzRveDFscks2SktmdkRrTWtvYmtIaUFITGt3SnNmNkxaUUFQUnlzRlozT282NW1CMHdJWFpPVGt4OXk3YWpBUjRkRWFISUtlZTd6dGRneHJna19mODlSNjJHcTNjUk1fOTFkb1FsWWpPWUQ4U3NxblRxaDJBMkQ2RXBnVlBFQm12NzFuSGN4Tm5vODdfeGtCTGJ2YlRLRElKUUhhWmVZbEg1dnhBLTRLdUdVRlFTcEhiWkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
