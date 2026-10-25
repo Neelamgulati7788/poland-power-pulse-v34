@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T21:59:15+00:00",
+  "updated": "2026-10-25T22:27:28+00:00",
   "signals": [
     {
       "id": "src-ff8cc25927ba0c107f",
@@ -553,6 +553,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0a709c2dbf58e2b7e1",
+      "date": "2026-10-25",
+      "title": "Dostawę i montaż magazynu energii na okoliczności wystąpienia sytuacji kryzysowej w Szpitalu Uniwersyteckim im. Karola Marcinkowskiego w Zielonej Górze Sp. z o.o.,",
+      "title_pl": "Dostawę i montaż magazynu energii na okoliczności wystąpienia sytuacji kryzysowej w Szpitalu Uniwersyteckim im. Karola Marcinkowskiego w Zielonej Górze Sp. z o.o.,",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SZPITAL UNIWERSYTECKI IMIENIA KAROLA MARCINKOWSKIEGO W ZIELONEJ GÓRZE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df32e6-7cf7-529e-c385-c60001a88726",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f2a88d0179fa21f9e9",
