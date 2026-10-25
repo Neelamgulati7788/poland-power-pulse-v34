@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:33:18+00:00",
+  "updated": "2026-10-25T19:07:35+00:00",
   "signals": [
     {
       "id": "src-ff8cc25927ba0c107f",
@@ -263,6 +263,35 @@
       ],
       "discoveryMethod": "gdelt",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-539c8c34d39a3b857c",
+      "date": "2026-10-25",
+      "title": "Huraganowe porywy wiatru w Niemczech. Problemy z prądem i komunikacją",
+      "title_pl": "Huraganowe porywy wiatru w Niemczech. Problemy z prądem i komunikacją",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGNrbk41clFWeDg5ajJlaDZmVkI1ZUZzV0JwaElqRTY4VTctQ0lhUld2dXppZkNnX1AtVm0wQ0d5QmhESWtYT3pDeVl1cERBUVpjelY3RkxpVE9yN0VMQ1RsSHItSEdqS0hmaWNIVE9NbWxBQUFpS25IaHZXdzd5bG5JcEFGTzFpaDBVS09zTkNrdkwyc1N2YmEzZUxPNGQ2ZDRGbDdvbFA4MjFmc3p0Tmp2bnQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4ef9763da36b6ce83d",
