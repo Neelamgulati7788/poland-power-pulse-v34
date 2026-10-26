@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:43:53+00:00",
+  "updated": "2026-10-26T20:36:46+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -738,7 +738,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWhONW1IS0FwX3RTVGhIUDJoX01QTk80Y19JSzk5VURzZnlGQ09PUjA3V05FS1pyMTJxQ0ctSmFJRWNibXZveUk3clpxRk8tYmxKUnRBdlZBbzhITmVKTUxUZnRNVk5wajB4alhTYjgtRnVJS3ZFX1hGTUh3R2VOWk9kcnJlbUl2ZnhHQmlJRzVFUmRyZWRpSkRtQ2YwbEZMdXROYVdOa0VnTFh4eEREZGU5MzRLZ0JGZ2pwUEVlRDE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
           "type": "press"
         }
       ],
@@ -1741,6 +1741,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5ba1e77b4aed9c5d75",
+      "date": "2026-10-26",
+      "title": "Jastrzębska Spółka Węglowa S",
+      "title_pl": "Jastrzębska Spółka Węglowa S",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnY4aFB0SmYtWjl6eWZIVUNzb0RNN1lnQThSeTFJby04ZlR5QkJjZmhkcnFqdmd5aFdzQkRaVjlubXBXRzh0TWJZeDNFc1JMQTgxSEN0Ukd2bGJYck94YUF0V054YTZRRE5SYm1vQi1wOXItMk1MT0UwNEp2RW5DbGc2MVNPY3lrbWd6VGEzNTBhTFhoUklpOUF5RmhNQ2k5YmN0UjB2N3l4cGZ6ZkNZZA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-59837fcfd9f8c10709",
+      "date": "2026-10-26",
+      "title": "Nauka przez zmysły i zabawę. Fundacja Enea – Energia Wspólnoty wsparła wyjątkowy projekt w Kozienicach",
+      "title_pl": "Nauka przez zmysły i zabawę. Fundacja Enea – Energia Wspólnoty wsparła wyjątkowy projekt w Kozienicach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTM1OXNsWFdNTmxXcFJnR0F4ME1BbmoyUmlMMmV4RWI1Q202aHBaUjlmcDk4SEFQWkR5bGp5bnhfSzZwTWxUcnNPcTdRZ2xlOUFqVG13a1JmajFwQWhjSkdzQzhoaG1CTVROUW9DV09QMmRWdWEwU3RFTmI2M0Y0TmdGYzZjUTFoUDRVU3RRVkI3UTc0dTFNelE4a2xmQXZyb0p2VmdValFKcENlZUx2X1VhMkNMS3RLYVhfbFRPSVZzWmZUSG9HMU4wdw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
