@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:40:11+00:00",
+  "updated": "2026-10-26T18:48:48+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f78744865574e03c30",
+      "date": "2026-10-26",
+      "title": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
+      "title_pl": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVFmVUtBQW9WZG9Hd0dySTNtdVZCOVFpeFRRdUN1aEVzUE9Ya2RmUFlqYWpKV3ZHa2NpZXBfVVZ2THIyUGVSTk9FTVAtaWdCSjA5MVZiV3pscmJtNDdnUW40dzc5VlNqT3BxZVdwVmZUY1h4ZTc3cGZpSHlFUTJOTFZmdENZNzVoekVseGY1b25HQXNmWExpLXdlWHNfR3hRWUtLeFNkNFZISFd1YlZRZG9JSFQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1974,6 +2003,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3743fefedc129a7d46",
+      "date": "2026-10-26",
+      "title": "Brytyjski boom na energię odnawialną napotyka na wąskie gardło w sieci",
+      "title_pl": "Brytyjski boom na energię odnawialną napotyka na wąskie gardło w sieci",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFE0d0FGbnBXaXVUazA4VFduaFhiTVItZVkzMS1FVU5JM3BFX3VMVDc5a1ROWUNOeFo4bWdwX0dWamVmaFJDVDhYektpLV9RdGJnRThpb2xxWGswRkJQZFRtNTJ3Z3dVVVFZdVNLSmNQSThJMjBiT3RMTTgzZDBvek41VzVBbVUtaGdqZm1WY0N2NXU2YW16bFE1Nm5TSnEydnU1azl5ZDBhc2djSDBUVGFqcXVleWM3b1NlTENfXzR2QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
