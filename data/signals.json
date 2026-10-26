@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:08:06+00:00",
+  "updated": "2026-10-26T23:07:26+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -321,6 +321,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ee22b539ecd690a9ab",
+      "date": "2026-10-26",
+      "title": "Pomocnik elektromontera/ Pomocniczka Elektromontera/ Elektromonter/ Elektromonterka Sieci, ORLEN S.A., Radziejów",
+      "title_pl": "Pomocnik elektromontera/ Pomocniczka Elektromontera/ Elektromonter/ Elektromonterka Sieci, ORLEN S.A., Radziejów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3dFTUg4WjdqbVR3bjNtWXFldkw2eGpTNEVqc0swTEprbHI0Z0x1SWMyYW5BbEVpOXIyVGo0UUZ5VGRkRjMtVUlxTUJ3eGxvWUkxeTcyMjlzTGk4TW44VzZKNmRwNl9ndjQ2N3RVQVVSVDNUM0Z5N3lhbFR2RlRlRmdqdzc4X1BDcUduZDcxemlVbXVqWnRwRVptcm80NDNkOVhKS3VIOE9PMWdza0lnR0tXSjdRWDJnSFlibUVrX24zT0N2ZEs2aWNwS1F2aEE4c3NNZWZDdmF6MFIzRHZ3aA?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-eaa0ef4f5271a979a4",
       "date": "2026-10-26",
       "title": "Platforma zakupowa Grupy ORLEN",
@@ -431,7 +460,8 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
-        "26"
+        "26",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2014,11 +2044,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Obniżenie VAT na paliwa grzewcze i energię, większe pozyskanie drewna w celu obniżki cen pelletu, grupy zakupowe i aukcje importowe celem obniżenia cen węgla, audyt w Orlenie i ścięcie wysokich marż spółki – to niektore propozycje przedstawione w poniedziałek przez lidera Rozwoju Plus Mateusza Morawieckiego.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5sYlh6UWFpbmJadk5fTXJCSWV0bXEyOFl0WVBpYjJjcGdORXdBWmZvaFgyNnkwejRpV2hnSEx0TnZuZGdQdHNLeFA5Skhac2FMV0gza0stWUR6am5PVnFLeDhka3pPZHJ1QTkxZ29Hcl9Vb1gzREUxempHSjdhOWFlODVrWlQ5djJHcWtzUjBodlJ5Qmlza3pzaTBZcFU2MFhMZUEtQlc0WmdlX3l5X3IyTE10a213VWlza2NR?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Droga-zima-uderzy-w-Polakow-Morawiecki-chce-ciac-marze-Orlenu-i-obnizyc-VAT-9218573.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -2032,8 +2062,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-4d37bd77021b866829",
