@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:20:37+00:00",
+  "updated": "2026-10-26T10:19:26+00:00",
   "signals": [
     {
       "id": "src-fd9084d99d3f5766d5",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f86142ba241d00fb3a",
+      "date": "2026-10-26",
+      "title": "Orlen zainwestuje w dostawy ciepła na Śląsku. Powstanie niemal 7 km sieci",
+      "title_pl": "Orlen zainwestuje w dostawy ciepła na Śląsku. Powstanie niemal 7 km sieci",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHJLZnhkSDdVd2ZMaWEtSWZMSUVaN3JZNmMtWE5jWE83QmVIeVRraGt2alRFNmJNV2RmVkhoUTBpX3dwcUJwY0drS0NxdlV4VXV2TWhfaG53ODZKZ09QZ1BjYlZJSlhTSVNCbEN1ZkFUSEpOMGxVMXRHZDV2eGpZa3F4NGcwUENxVmVLc3FjN2Fub3dzNk14MVBNY0lObVB1ellhNFY4QlI0M1pDaUpucFdOZFU0cDJhSmZBejFPSUM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -205,6 +234,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-e26bda986b0a7119e5",
+      "date": "2026-10-26",
+      "title": "Greenvolt sells off two 800 MWh Polish battery projects for $438 million",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "From 2021, Greenvolt has pursued projects in Poland and after completing construction on a combined 1.6 GWh, has sold the assets. The post Greenvolt sells off two 800 MWh Polish battery projects for $438 million appeared first on Energy Storage .",
+      "links": [
+        {
+          "label": "ESS News — source",
+          "url": "https://www.ess-news.com/2026/10/26/greenvolt-sells-off-two-800-mwh-polish-battery-projects-for-438-million/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ESS News",
+      "publisherUrl": "https://www.ess-news.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "37"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-dc5b1272c0091c6a0a",
       "date": "2026-10-26",
       "title": "Odpady zastąpią węgiel? Źródło energii wyrzucamy do śmietników",
@@ -255,6 +313,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cbb288922e0e5546c7",
+      "date": "2026-10-26",
+      "title": "Magazyn energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
+      "title_pl": "Magazyn energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -435,6 +522,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-ac1c95c5ae2ad1b888",
+      "date": "2026-10-26",
+      "title": "Ropa tanieje, gaz bije rekordy. Bliski Wschód trzyma rynki w napięciu",
+      "title_pl": "Ropa tanieje, gaz bije rekordy. Bliski Wschód trzyma rynki w napięciu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmpLNU5pajRsM2ZJbjdGSC1LSnBUeWRtYU9LZ05hUjdMRVotaGI1UmhLZHRhRDdmd29PcUhhX1I0TWt1dEYtdmZjRkVidDZoX0x3X29MQ0x3ZER1SjRpTThJN3JxZVZNUjQwdEwtYm44czRVcWdKeWZjekM4cXVZR0dlRlpBY3VMVXRydENyd0ZWX3N1QlVKRFdZRlh2Q1p6cmpPQl9jYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9f4e3321285e312124",
@@ -731,6 +847,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5f9eb0bb346f5661d2",
+      "date": "2026-10-26",
+      "title": "Czarne łabędzie nad energetyką. Firma nie może żyć jedną prognozą",
+      "title_pl": "Czarne łabędzie nad energetyką. Firma nie może żyć jedną prognozą",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVBBUUV1enNnQkFPRHFnU2VvMWpwb1lfTHJkOE5mOWo2X1Z1T0t1THBHMm1MX0NBQ3NlWkt5N2RUdEx3a1ZadXF0V25xMDkwRDlILWRjckZuUElkRjR3dG0wQkpfUnhiczViTGtPNC1COFhhV011b2VkOUoydzJGRzBra05mTG5lUVlvWDNRVWMtMDJO?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-53278d83ea2e094a9d",
       "date": "2026-10-26",
       "title": "PGE ma nową strategię. W 2030 produkcja prądu z węgla spadnie o połowę",
@@ -784,6 +929,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-43086a1996235258d2",
+      "date": "2026-10-26",
+      "title": "Rosyjski gaz znów popłynie do Niemiec? Domański stawia sprawę jasno: Nigdy",
+      "title_pl": "Rosyjski gaz znów popłynie do Niemiec? Domański stawia sprawę jasno: Nigdy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTZfSnJlYjlDanJ1YXJlTGxiM3BKUHZoWTFzMjNQalQxUm5oX2p2T1JaOV94Sl93MnlYZm9fbjdUOFoxVU5kdGRzQU03bGlDWm5EcW1HTWJvYzVhVDhHSFFUNmVLUVloeUNscmM4ZDZQR1o4MXBUajA5LWxIWm5WQjZCbFFQRkN2X3dHOERJdTBkWTBIbDhiVGk4UEcwN0V1dHlQOG16MTFVc2M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -874,6 +1048,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-318edcfccb724b274d",
+      "date": "2026-10-26",
+      "title": "PiS chce obniżyć VAT na węgiel i prąd. Czarnek mówi o oszczędnościach",
+      "title_pl": "PiS chce obniżyć VAT na węgiel i prąd. Czarnek mówi o oszczędnościach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "8-proc. stawka VAT na wszystkie paliwa stałe oraz 5-proc.VAT na energie elektryczną i cieplną - zakłada przygotowany przez Prawo i Sprawiedliwość projekt ustawy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PiS-chce-obnizyc-VAT-na-wegiel-i-prad-Czarnek-mowi-o-oszczednosciach-9218224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-30065387b8ea2567c8",
