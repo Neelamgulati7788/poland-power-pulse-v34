@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T10:19:26+00:00",
+  "updated": "2026-10-26T11:15:24+00:00",
   "signals": [
     {
       "id": "src-fd9084d99d3f5766d5",
@@ -332,7 +332,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWhONW1IS0FwX3RTVGhIUDJoX01QTk80Y19JSzk5VURzZnlGQ09PUjA3V05FS1pyMTJxQ0ctSmFJRWNibXZveUk3clpxRk8tYmxKUnRBdlZBbzhITmVKTUxUZnRNVk5wajB4alhTYjgtRnVJS3ZFX1hGTUh3R2VOWk9kcnJlbUl2ZnhHQmlJRzVFUmRyZWRpSkRtQ2YwbEZMdXROYVdOa0VnTFh4eEREZGU5MzRLZ0JGZ2pwUEVlRDE?oc=5",
           "type": "press"
         }
       ],
@@ -553,6 +553,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a6c3b403d8fab44659",
+      "date": "2026-10-26",
+      "title": "Sukcesywna dostawa artykułów żywnościowych do stołówki w Bursie nr 2 przy Zespole Szkół Elektronicznych i Telekomunikacyjnych w Olsztynie w 2027 r.",
+      "title_pl": "Sukcesywna dostawa artykułów żywnościowych do stołówki w Bursie nr 2 przy Zespole Szkół Elektronicznych i Telekomunikacyjnych w Olsztynie w 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Szkół Elektronicznych i Telekomunikacyjnych w Olsztynie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3352-6d92-b772-c385-c6000103c824",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-9f4e3321285e312124",
       "date": "2026-10-26",
       "title": "Domański wyklucza powrót do rosyjskiego gazu. Jasna deklaracja Polski",
@@ -560,11 +589,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Polska nigdy nie zgodzi się na podejście „business as usual” z Rosją, w tym na wykorzystywanie rosyjskich surowców, rosyjskiego gazu - powiedział minister finansów i gospodarki Andrzej Domański podczas IV. Polsko-Niemieckiego Forum Gospodarczego.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOW9CS1piSExSckVudElwVVlvV0hVV3BsYjZrVThBQ0tORC1JZWQ4YURGSk9mRGFCdnd5REszNHhpT3dzS0dCYk1iZl9aMDFGS21CZ1hNMTdHWV9saEM5cFVGSk1jbEhwYVFKYUdaN2N4M3ZhTDhETHlPMW9sOHk0TXk4QUp3Tk02R1Q4dFlpS1pxVzZzWXVIQVItbXVIdXZEanZIQ1ZuNFpGcFpld25QYTVLaXM?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Domanski-wyklucza-powrot-do-rosyjskiego-gazu-Jasna-deklaracja-Polski-9218203.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -578,8 +607,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-9ef82da7b28a734c56",
@@ -847,6 +876,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5fe95078dfe6d32b05",
+      "date": "2026-10-26",
+      "title": "DZIEŃ NA GPW: Główne indeksy odbijają po ostatnich spadkach; Orlen traci ponad 2 proc.",
+      "title_pl": "DZIEŃ NA GPW: Główne indeksy odbijają po ostatnich spadkach; Orlen traci ponad 2 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObk9vR1I0UnF2Ti1aZUpYeEhrRTBnOExUdFBWRVUzeHZPOUhhMEVtSURxdU5DTHp5empudlFGTDhQaWRTOWc1R3NpZjh2Ul9TZTdCQ2o1OEd2Q0NscDdUUXRIc0tPMlRYcm5SdmRiUG5RY2s1cUU5OUc3aXpaNkpYRmdUNHlwNEJSZm91TGZxZFU2c1lCUEdSVldMM3Vpd0owRnF4WWF3ajRCVEZwTjRITDhQQlJ4M09w?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5f9eb0bb346f5661d2",
       "date": "2026-10-26",
       "title": "Czarne łabędzie nad energetyką. Firma nie może żyć jedną prognozą",
@@ -900,6 +958,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4d37bd77021b866829",
+      "date": "2026-10-26",
+      "title": "Akumulator ciepła w Elektrociepłowni Żerań odsłania nowe barwy. Rozpoczął się montaż elewacji",
+      "title_pl": "Akumulator ciepła w Elektrociepłowni Żerań odsłania nowe barwy. Rozpoczął się montaż elewacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVNwbGZXem5CeXhRYWVYSFZYNlVrTndFMk83aFkxSDMwYzh5VVhhU09xRFI2Tk5Wd2xadzlUelpWMXJ2QWpxWWNZMndsenRTNFBTZHpDaV9vVFFwYURBUFBlVUlyOVFjWDVCTmlvakVMMzZIb2g0bGs1aXh4Z1RjWURvYzZWSFM2a0d2SnR4Nk1lS3dYME9Oek9LcC1pN2p0YlZSaGpHNjFrQWVmRHhGM2xIRjBRR3N5N2hDODZnclZPVVhhSy1lQU0wWjZDeVlnTXRLd1p6Q0Z5UnBmQ3Bv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1050,6 +1137,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3375b6b7d0edc7ce87",
+      "date": "2026-10-26",
+      "title": "Pompy ciepła na R454C od Panasonica będą produkowane w Europie",
+      "title_pl": "Pompy ciepła na R454C od Panasonica będą produkowane w Europie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHJLdC1xcHlPZmF3cWllVFdWTllKQS1wSDVIRHlNd0FQNEdJSXdXV3JlTG9NYzFhSTNCWWtzenRCY2tRS1lJeHhvRWR0TXBNZmFZVlNXc1BQYjEzZ0pyNjdOWEtVdHpzaHBvaUpZYS11Z2gtZUNqbHAxSjlhV0dOLXY3STAydWhXbXE3dW1UREc1STVGVjR0X2Y0TXYyajJxUkp5MW5Fa3EtSlhPRlRRcnpR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3226229b14227e498f",
+      "date": "2026-10-26",
+      "title": "Budowa akumulatora ciepła w Elektrociepłowni Żerań weszła w kolejny etap",
+      "title_pl": "Budowa akumulatora ciepła w Elektrociepłowni Żerań weszła w kolejny etap",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU1kxLWJJeWJMczlLOEhFN2ZDYW9La2FOVWpleHlBYmRfX1JJT3RoQW8tQjhiQk1sU0hQWTA5VUtmeHloRkJpN0U4anNTdlZuaFZ2OUdHM2N3ZVQzNWdRdG9rTE04SWFQTE5sVkdFQ3JSX1Y1bkRQMkxvTFFmWkZoUFFPOF9MbDZDYklCWmpuRnEwbVByaHk1MnRlbFRNZG51VlF5R2xxYmtkanExU3lQamE2MUlySWlMZ3pjdHRiNnE2THBfTm9LalM1eC03YXdvXzRCWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-318edcfccb724b274d",
       "date": "2026-10-26",
       "title": "PiS chce obniżyć VAT na węgiel i prąd. Czarnek mówi o oszczędnościach",
@@ -1195,6 +1340,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1e743db9db97d4a349",
+      "date": "2026-10-26",
+      "title": "Gaz coraz tańszy",
+      "title_pl": "Gaz coraz tańszy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkb1l2ZGxMSDNwZXZPUlNvaXNzTXowcHZ2YkMxZFQwcDhZOFdCVU04R2sydF9pZ0xpSkFmNmRvMTU0MFdrZVhVRVQ3RHBXQmpXbjVuR3I5X2ZPS1pTc2xFNUs2TFVPVG00cUpVZDBpdUVQOWM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0fbb953e52c46908ac",
       "date": "2026-10-26",
       "title": "COAL ENERGY SA: Commencement of Operations in the Spanish Market",
@@ -1309,6 +1483,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-04d014319749e02ffa",
+      "date": "2026-10-26",
+      "title": "Kompleksowa dostawa energii elektrycznej na rok 2027, tj. sprzedaż oraz świadczenie usługi dystrybucji energii elektrycznej do obiektów Gminy Mieroszów oraz jej jednostek organizacyjnych",
+      "title_pl": "Kompleksowa dostawa energii elektrycznej na rok 2027, tj. sprzedaż oraz świadczenie usługi dystrybucji energii elektrycznej do obiektów Gminy Mieroszów oraz jej jednostek organizacyjnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Mieroszów",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3352-2c25-3035-c385-c6000103c822",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ff8cc25927ba0c107f",
