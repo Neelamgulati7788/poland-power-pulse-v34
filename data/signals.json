@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-26T02:37:18+00:00",
+  "updated": "2026-10-26T03:37:06+00:00",
   "signals": [
+    {
+      "id": "src-cad6a05186c65f830f",
+      "date": "2026-10-26",
+      "title": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Zakup energii elektrycznej na potrzeby eksploatacji budynków Gminy Miechów oraz oświetlenia ulicznego w latach 2027-2028 oraz odbiór i odkup energii elektrycznej z instalacji fotowoltaicznych",
+      "title_pl": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Zakup energii elektrycznej na potrzeby eksploatacji budynków Gminy Miechów oraz oświetlenia ulicznego w latach 2027-2028 oraz odbiór i odkup energii elektrycznej z instalacji fotowoltaicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Miechów",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3311-81e1-2679-c385-c60001a8874d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ff8cc25927ba0c107f",
       "date": "2026-10-25",
@@ -613,6 +642,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-05138753709089b625",
+      "date": "2026-10-25",
+      "title": "️CENA WĘGLA KOKSUJĄCEGO W KONTRAKTACH(...) - Forum",
+      "title_pl": "️CENA WĘGLA KOKSUJĄCEGO W KONTRAKTACH(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2Y1aXE3aWZPU0I4Sjhpbkw1WkhnLVYxUmVjMmdjRldjMnhkZW9sMHFucWlqUWlRdG1kZ1V1bzhTUThHTG5QR0kzWWE4WGU1NUdDbHN2TDE4cktEY1RkSHpzQ01hQ2NKTUYydUk0U2x6dDlyTnFiVURoS1FyY3NiM2tlZ2g4VkdXUmJudlhJMlFaRENtYkJn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f2a88d0179fa21f9e9",
       "date": "2026-10-24",
       "title": "Szef MSZ Słowacji uda się do Moskwy, by rozmawiać o bezpieczeństwie energetycznym kraju",
@@ -782,6 +840,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-be18bcdc490339e812",
+      "date": "2026-10-24",
+      "title": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "title_pl": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelpwbU41ZXFFM0ZVbFlyWjlfUDFoVDNIZENZNU81d3NYS1YwYXZrWlhPX054bWFoS2pLVDJMajk1Q3R6Rjk0b1FIcFdJVjJfUGh4aE4zMnVGYk43OW9KekMyTU5pQUl0V1FLaVJwOHEwUklwMGNsbTFEbldhQzg1Q3JsZ09oWUk2N0JwR0JFcWg1M2NOX05Bc0x1VHRzS1BJaUszMU1BemljcVBwM3JmNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
