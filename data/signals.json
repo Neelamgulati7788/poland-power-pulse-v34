@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T03:37:06+00:00",
+  "updated": "2026-10-26T04:17:01+00:00",
   "signals": [
     {
       "id": "src-cad6a05186c65f830f",
@@ -14,6 +14,64 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3311-81e1-2679-c385-c60001a8874d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-c5085832899ef81444",
+      "date": "2026-10-26",
+      "title": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Zaprojektowanie, wybudowanie i uruchomienie Instalacji Termicznego Przekształcania Odpadów pochodzenia komunalnego z wysokosprawnym odzyskiem energii (ITPO) w Wysokiem Mazowieckiem",
+      "title_pl": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Zaprojektowanie, wybudowanie i uruchomienie Instalacji Termicznego Przekształcania Odpadów pochodzenia komunalnego z wysokosprawnym odzyskiem energii (ITPO) w Wysokiem Mazowieckiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZAKŁAD WODOCIĄGÓW, KANALIZACJI I ENERGETYKI CIEPLNEJ SP. Z O. O.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3311-71fa-9392-c385-c60001a88733",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-0ac69e4a57fedb364c",
+      "date": "2026-10-26",
+      "title": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Dostawa energii elektrycznej wraz z dystrybucją na potrzeby funkcjonowania obiektów gminnych na terenie Gminy Liniewo",
+      "title_pl": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Dostawa energii elektrycznej wraz z dystrybucją na potrzeby funkcjonowania obiektów gminnych na terenie Gminy Liniewo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA LINIEWO",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3311-74dd-c946-c385-c60001a88738",
           "type": "official"
         }
       ],
@@ -1175,7 +1233,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVVBa0g3eVk4SGlLcTJLX3Rpb0dpaTlpcGJWZFY3WldBTUF3WHZMVFhsdjZVMHhpc1RnZThfRDlBeXc5dnJKTk02OFNFRjgxMG1taG12N0h6dXJBNXFyMF9QT3JHazZmYmUxTzJudDdrVzZGWlhOOHBnWlBjM0xDQ0tGZnY3ZGtEbUZhVGRyODhZV3lsMlMxQVBHS2VMVHhEUFV1YmJ3RVllUE5fbDlTQkxJTmZpX0VLQXlBM2R2QkFxLUJQSGln?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2VvdEFja280bF9TMnltb1p5U0RnYjhheDhDYjRuRTRzWkpwWUt0V3JLYnY5QnZBVUpUUC12QWlnOXlWRWF3TjF6UThCTHFvWXJCcG45cnZESVcyZWdNd21hSTJSVjNiWkI1T1BibFhKRm42cVhueE56QTBobGhKckFRVlVnOUJKYlY2LW5kR0tPcTd4bDZiN2w1REQzMDc0VXQxMDJzQkpVelBXTzRRRmw2aFoxZw?oc=5",
           "type": "press"
         }
       ],
