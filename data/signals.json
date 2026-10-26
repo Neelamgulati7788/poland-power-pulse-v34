@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:11:57+00:00",
+  "updated": "2026-10-26T22:08:06+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -611,6 +611,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d9c202c9c6287de31d",
+      "date": "2026-10-26",
+      "title": "Niemiecka minister zabrała głos ws. kupna rosyjskiego gazu",
+      "title_pl": "Niemiecka minister zabrała głos ws. kupna rosyjskiego gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHJhNFl3Z0Fld3RjV0d2U1ZCdkZnVzdndk1OSWVFNTlURDM5RlRMTWlPUkV2TUxzVVplMlRMVExGajliVmN6NkRRMGZiSlJxczNsOHVZMWk1N3pNVV83V3BqdDZpcTNqb2xTNnEwZnFpUFJTN2g0VXEwakhxOWhwVHd4djVfYXdkd3hYa1owVHpNS0ltaEt2ZWFOTEp5eUhPMDJNbnNRQ1pIUUkwX3IwREhYS3hXbWRzXzZ1NUxTVkdVT0gyZk9ydGozcUxIQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d9a150d0e47466854c",
       "date": "2026-10-26",
       "title": "Biometan potrzebuje odbiorców, a LNG większej elastyczności. Wnioski z X Konferencji PPLNG i bioLNG",
@@ -1046,6 +1075,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b82567694f2fbc95b0",
+      "date": "2026-10-26",
+      "title": "PGE rozpoczęła budowę magazynu energii Gryfino o mocy do 400 MW",
+      "title_pl": "PGE rozpoczęła budowę magazynu energii Gryfino o mocy do 400 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlZ0OHY1MHRqc1puYzU1Mk85eFVPbkJPWUFGejJIQXVMOHBlVEpKTFNKOFI0ZktYaGp2OUk2X2VnWTlRNERwM2ZHbWNrRHA5TzNRc2lKZkphY1V5VGxCZ2R3Z3c0bUo3OXYtS3JReDNLd3hGa0YxLS1LZUJEc0FiM0ZfSDh3TVk3UE1XUGpCVlBxSUlrQ0JEVnJHSmJQRkN4TEh4amtfRGY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b68138210d629e2167",
       "date": "2026-10-26",
       "title": "Polska będzie produkować części do F-35. Inwestycja w Mielcu za miliony",
@@ -1244,6 +1302,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9dfda88b848f13a99a",
+      "date": "2026-10-26",
+      "title": "Coal Energy chce pozyskiwać i przetwarzać drewno w Hiszpanii",
+      "title_pl": "Coal Energy chce pozyskiwać i przetwarzać drewno w Hiszpanii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3R3NC12SVFBdkJWY1haOVIxbHA3RFQ1dVB6NnhveXk4Tk5JV2poLTJLQlp1VmtsVFNpeDctOHA5ZEJXVTlhakt2b084cmhIT0wyUDdGZTZIYlN2cDFHcW9GRFU4TW1wOG5PaFp4cHB2dHc4R1MyRUhaMi05WnlsZ2J4OFIzUmFMQ2J2bUFVMTlmWFZaTVJxQ0VLSmlGanlsVkFReA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1927,11 +2014,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Obniżenie VAT na paliwa grzewcze i energię, większe pozyskanie drewna w celu obniżki cen pelletu, grupy zakupowe i aukcje importowe celem obniżenia cen węgla, audyt w Orlenie i ścięcie wysokich marż spółki – to niektore propozycje przedstawione w poniedziałek przez lidera Rozwoju Plus Mateusza Morawieckiego.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Droga-zima-uderzy-w-Polakow-Morawiecki-chce-ciac-marze-Orlenu-i-obnizyc-VAT-9218573.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk5sYlh6UWFpbmJadk5fTXJCSWV0bXEyOFl0WVBpYjJjcGdORXdBWmZvaFgyNnkwejRpV2hnSEx0TnZuZGdQdHNLeFA5Skhac2FMV0gza0stWUR6am5PVnFLeDhka3pPZHJ1QTkxZ29Hcl9Vb1gzREUxempHSjdhOWFlODVrWlQ5djJHcWtzUjBodlJ5Qmlza3pzaTBZcFU2MFhMZUEtQlc0WmdlX3l5X3IyTE10a213VWlza2NR?oc=5",
           "type": "press"
         }
       ],
@@ -1945,8 +2032,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4d37bd77021b866829",
@@ -2625,11 +2712,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE rozpoczęło budowę magazynu energii Gryfino o mocy do 400 MW i pojemności co najmniej 800 MWh. Jego uruchomienie planowane jest na koniec 2028 roku - podała spółka w komunikacie prasowym.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-rozpoczelo-budowe-magazynu-energii-Gryfino-planuje-uruchomienie-pod-koniec-28-9218431.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnI3aWpIYzdOdmRVdzFSdHhrVUlYWXFNSWNkTjFKT3dVaWh6WXA0MEZjYTg0V0U2dXZHRzZEUklRSHJyMF9ndXhaaXdrNGFxVHhyZDBQSHJqTFM2VVh0XzJuTTQ5SGVrYWVXbjlhSDZpYm5sSU5Wa2NxVHpnOW5yVzJ3aEhETnF4N0Fpc1dHUVRwU1ZNdlVhM3FtdG5YQng0eXlxcFZJLTg4di1id0lBekFWQTVJaDQxdVJOQ1M0bjc1LWEyWVE?oc=5",
           "type": "press"
         }
       ],
@@ -2644,8 +2731,8 @@
         "27",
         "50"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0fbb953e52c46908ac",
