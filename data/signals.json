@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:36:46+00:00",
+  "updated": "2026-10-26T21:11:57+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -274,7 +274,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWm1jSS1wWWhUNjJ4RVF0ZjBZYTdHMFp5RDhtcTM5TDd2NExSYnZ6MlBmMlZKa0EtR1lMRWlFMFN4b2NOY0NSNjJrN1BuY2VFU1ZpWGxZbUNuRVhyWlJlTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWEVfVlFJUk5LQ1ZTZ2htQkptSTBiWGFVeTdVd2x4WUNaX0R6bVZObzlJZE9ZbUtETUp5ekpGYVNaR1dtZVpwWW1wVllZWWdS?oc=5",
           "type": "press"
         }
       ],
@@ -548,6 +548,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-da26677f143e44a9c7",
+      "date": "2026-10-26",
+      "title": "Na Północy Polski rusza kolejna inwestycja energetyczna",
+      "title_pl": "Na Północy Polski rusza kolejna inwestycja energetyczna",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ28xNGI5ZzhqQWVTTXR6RDl6SGhMVl9EcWNPYTNHSWd4VXc4bWU5eUkzYXU1UEZhTmJ1dFJuRkFzN0RZY01pcmtrUFRzWHp3NGF5NVRadXpFVmRNNFJLS0o1MlM4T2kxVHNIRU9ncEI5eV8xVS1qY1M2dXhITXhKTi1oeHJ5VERMYWhZNXd2N2VOS1V3Y0FObWdXT0hGZV9na0FWbUlVNGdNcHR6eU1yQ3ln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -986,6 +1015,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bcef0596e7815aecf1",
+      "date": "2026-10-26",
+      "title": "Zaproszenie do negocjacji w postępowaniu na Naprawę maszyny TERMINATOR 3400 SD nr seryjny 487100 przy użyciu oryginalnych części",
+      "title_pl": "Zaproszenie do negocjacji w postępowaniu na Naprawę maszyny TERMINATOR 3400 SD nr seryjny 487100 przy użyciu oryginalnych części",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Master Odpady i Energia Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df33a3-8e71-8822-86fd-0300016b7149",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-b68138210d629e2167",
@@ -2355,6 +2413,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2e7d5dca6e962c9e19",
+      "date": "2026-10-26",
+      "title": "Wyk. prac remontowych inst. c.o., wod-kan, węzłów c.o., inst. gazowej oraz św. usług w zakresie usuwania awarii instalacji wraz z wyk. okr. kontroli inst. gaz. w Zesp. Żłobków m.st. W-wy – zam.podobne",
+      "title_pl": "Wyk. prac remontowych inst. c.o., wod-kan, węzłów c.o., inst. gazowej oraz św. usług w zakresie usuwania awarii instalacji wraz z wyk. okr. kontroli inst. gaz. w Zesp. Żłobków m.st. W-wy – zam.podobne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Żłobków m.st W-wy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df33a4-e57d-bd3d-86fd-0300016b714b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2b5b6ca0bfbe217048",
