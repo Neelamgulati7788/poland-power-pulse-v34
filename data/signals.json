@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-26T11:15:24+00:00",
+  "updated": "2026-10-26T13:58:07+00:00",
   "signals": [
+    {
+      "id": "src-ff149f69aa57b82c58",
+      "date": "2026-10-26",
+      "title": "Ile dziś zapłacimy za paliwo? Minister Energii podał ceny",
+      "title_pl": "Ile dziś zapłacimy za paliwo? Minister Energii podał ceny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWngxOFhOdzJHT1V5TXZVZkhmc1NvOXdaemdBWjM4Rkt6OHQ1UnJ3cHJ6NGxGRkZ0RzR1OVRabTdKUWg0ZXdZRWNSczRadjNWMVMyY2FVbFZjUlRwczJ2Z0NERGxhWXFMd0IzYnNjeXA5eGFhekY1bGlPbk91QTVibjgwTUh1dFROcDF3cGtJQWtCcVc5WEZkcHNB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fd9084d99d3f5766d5",
       "date": "2026-10-26",
@@ -321,6 +350,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d764c2d91d3b668acb",
+      "date": "2026-10-26",
+      "title": "Tauron power plans to publish an update to its strategy on December 2",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWdWWlJWcHBjeXNiSEFfT1dsYkJ1ZG96am00YmRDaENjeXdXUzlHTTNlenFlaWFHUUw0ZTNRajFxVWtJR0NWVDdYMzVzSFNkRlNYbVQxUkR0X2U2TF9yWHNfYUxIUlBveTVZNjl2alF4NHdoa3FVZ0NXejk5aGhra01OLUdPSGRyNDhpdkZmUndXbkZBZy1YVFJ5ZmM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cf42671f09fbf6c545",
+      "date": "2026-10-26",
+      "title": "1 mln złotych na lokalne pomysły. Fundacja ORLEN i Centrum Nauki Kopernik wspierają Strefy SOWA",
+      "title_pl": "1 mln złotych na lokalne pomysły. Fundacja ORLEN i Centrum Nauki Kopernik wspierają Strefy SOWA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Fundacja ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcjMzNGo5YzJSb0x0QmtkSEo2Vk0zY2Q0VFo1dXFEZ0p0b0NwVDItWUhIeUxIUWJHanFRZkFhUXNUWHVsYU1zLXJjcFBvRE0yczNTTWdRMXA3Z0t3VVhYOHlsRGEydnZ1SmZQRERQZlZCU3hvTEl2QjRlYUdUZnhLNjJsNnFPVHY3c1Jma2Q3U0FvcnJRem8xbEpmUXNCLXQ1bEJpUEYxdmhMT3VTakNzMFozUk4tNmVwMllxRmRISExmWWlzQTF6RkhNaWFkNVFEYjNpaEVnWnkyeWFFQkg0T2VESVNGUQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Fundacja ORLEN",
+      "publisherUrl": "https://fundacja.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-cbb288922e0e5546c7",
       "date": "2026-10-26",
       "title": "Magazyn energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
@@ -377,6 +464,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-c7fddf7b38a71a177b",
+      "date": "2026-10-26",
+      "title": "Raport: flota osobowych elektryków w Polsce wzrosła w ciągu roku o połowę",
+      "title_pl": "Raport: flota osobowych elektryków w Polsce wzrosła w ciągu roku o połowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3RPaEpiU3hjZllPUlJzVFNrdVFlMDJTSzNiLXVUMDR0R2s2TS1LY2xraU5kOXZFV3JqVHlJSjk3ZUplaFBkWi1GM1RjMG1adjVac21RNjZONHJ6ei1VcHZzcWczaXVTLUxVVE53NDg3SlM3akpvSmxQdmw4d0ZucmVZaGxzMktFZGlYeEhiYV96RHVhamxqSHpqQXlqRjI0R0RXWEpETHhNN2p3UzlR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c5af9fc53f104a31b4",
+      "date": "2026-10-26",
+      "title": "ForFin 2026 wraca na PGE Narodowy. Puls Biznesu zaprasza na święto finansów i urodziny Inwestora Wojtka",
+      "title_pl": "ForFin 2026 wraca na PGE Narodowy. Puls Biznesu zaprasza na święto finansów i urodziny Inwestora Wojtka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXlKR1ZHaUpwQVNSTHJ4REZvbDFwaVI2YVl6cWZlc3RNSnBBcm5YbFpLWXFRQ0RNTGlpSWdXVWV4OVVCRkF0eHhsVzVQX1BjSzVPU2lmSUstNVRlenRCdXBQSUJlRlFqZ0xkM3EtVlBnWXlXLWJ0VWZGanFlUkJTNTI2cXpaVjQ0ZFBmcjIwbEtmMnZ5cXM0djcwd1Y4UDRyclVvQ2Vsak5IMjJ0Y2JyRFhaa1VCVEltaXl5R0xtQTYxSThHcnRF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c5085832899ef81444",
@@ -582,6 +727,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-a13a8ae2ee15c8bf75",
+      "date": "2026-10-26",
+      "title": "Przez lata ogrzewali dom węglem, płacąc 8 tys. zł. Po zamontowaniu pompy ciepła porównali rachunki i już wiedzieli",
+      "title_pl": "Przez lata ogrzewali dom węglem, płacąc 8 tys. zł. Po zamontowaniu pompy ciepła porównali rachunki i już wiedzieli",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUVCLUhUVWZlcEh1dG9fX0Y2dE9RU21hdEtBZm9wNmppLXRiNXBLa0RUQ2Z1QURtdHIxNGYwdHpSRGpJbVpZSDBmc0Rld2lIQmZmQ3ZWaGNlel9ZR2dRSFNXYi1lYi1SdDdVbVdZSWluN21vX2w5ZVpaZldGU2lydHJkbnV1Y1MyVUxHLTdlNEt4bHRTRnJ0OEYwdGxDWGNMd19LSFB1VV9VOFNiZXZ3VlZBSkxEel8zUDRQTGxmbEc5SFllYVFwSHV6UEJsSEs0dUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9f4e3321285e312124",
       "date": "2026-10-26",
       "title": "Domański wyklucza powrót do rosyjskiego gazu. Jasna deklaracja Polski",
@@ -589,11 +763,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polska nigdy nie zgodzi się na podejście „business as usual” z Rosją, w tym na wykorzystywanie rosyjskich surowców, rosyjskiego gazu - powiedział minister finansów i gospodarki Andrzej Domański podczas IV. Polsko-Niemieckiego Forum Gospodarczego.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Domanski-wyklucza-powrot-do-rosyjskiego-gazu-Jasna-deklaracja-Polski-9218203.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOW9CS1piSExSckVudElwVVlvV0hVV3BsYjZrVThBQ0tORC1JZWQ4YURGSk9mRGFCdnd5REszNHhpT3dzS0dCYk1iZl9aMDFGS21CZ1hNMTdHWV9saEM5cFVGSk1jbEhwYVFKYUdaN2N4M3ZhTDhETHlPMW9sOHk0TXk4QUp3Tk02R1Q4dFlpS1pxVzZzWXVIQVItbXVIdXZEanZIQ1ZuNFpGcFpld25QYTVLaXM?oc=5",
           "type": "press"
         }
       ],
@@ -607,8 +781,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9ef82da7b28a734c56",
@@ -847,6 +1021,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-84cf2c574341241cca",
+      "date": "2026-10-26",
+      "title": "Elektryków jest o połowę więcej niż przed rokiem, ale to koniec dobrych wieści. Polska czerwoną latarnią Europy",
+      "title_pl": "Elektryków jest o połowę więcej niż przed rokiem, ale to koniec dobrych wieści. Polska czerwoną latarnią Europy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Liczba elektrycznych samochodów osobowych była we wrześniu o połowę wyższa niż rok wcześniej, jednak liczba nowych rejestracji spadła – wynika z raportu Polskiego Stowarzyszenia Nowej Mobilności, F5A i Otomoto, cytowanego przez Polską Agencję Prasową. Brak dopłat sprawił jednak, że Polska jest obecnie jedynym krajem ze…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Elektrykow-jest-o-polowe-wiecej-niz-przed-rokiem-ale-to-koniec-dobrych-wiesci-Polska-czerwona-latarnia-Europy-9218288.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-82409cea81f76b03f5",
       "date": "2026-10-26",
       "title": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
@@ -871,6 +1074,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7d792ff5d829da5d78",
+      "date": "2026-10-26",
+      "title": "Nowe ceny maksymalne paliw. Benzyna i diesel będą droższe",
+      "title_pl": "Nowe ceny maksymalne paliw. Benzyna i diesel będą droższe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "We wtorek 27 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,58 zł/l, dla benzyny Pb98 7,27 zł/l, a dla oleju napędowego 8,18 zł/l - poinformował minister energii w obwieszczeniu.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nowe-ceny-maksymalne-paliw-Benzyna-i-diesel-beda-drozsze-9218311.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-746bebf12d82a653f0",
+      "date": "2026-10-26",
+      "title": "Tauron chce 2 grudnia opublikować aktualizację strategii",
+      "title_pl": "Tauron chce 2 grudnia opublikować aktualizację strategii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkxKam1FMTkzS3JCYVBUUmVFQ3BEcHBvZ3d3UUc3WXhTakZmZFo2Y2pqWXp1aGhGVEd1eW5VSTgtYUlsUENsN29yeDdqSlUweUhTb2F5LTJQc0RpU0oyQWdkZnJQUE9ZdW82a0RaZUxQTE1LcjB5TF9mU1ZEQlhGRE1yREhpM3ozcndvbVJYeW5KQzlaVFpGQW0yMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -929,6 +1190,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5f8043148950b10385",
+      "date": "2026-10-26",
+      "title": "Tauron zapowiada aktualizację strategii, prezentacja 2 grudnia",
+      "title_pl": "Tauron zapowiada aktualizację strategii, prezentacja 2 grudnia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0VWcFB0TmxBd2x3OTBuMkdjWnRiQjhGWEwtZHp1eENiLXBSS1VuaXFtV2xyVkZmbVJQeXhzVk00SHNUT0Z2a2pvVGpmTzFVQzhJWkVLN2RqbXJoLU42Smw2b3JEMlZKc0RDUUtvemFNaDZpNE4zTTFSSEpSTEJzOWM3ZndUMGRHSnVRbDViUFpSLVRYZl9iY0ZPeV9ybUczTkJFQi14SVo2U2E3V0JYZjNhUElJWWtUWjM0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1016,6 +1306,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-443839f92a26472933",
+      "date": "2026-10-26",
+      "title": "Energia w czasach niepewności. Przemysł, bezpieczeństwo i koszty transformacji w centrum debaty we Wrocławiu",
+      "title_pl": "Energia w czasach niepewności. Przemysł, bezpieczeństwo i koszty transformacji w centrum debaty we Wrocławiu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSlVtcldnbTBaUkVodC0yNFFjWGJVeXBsdk9tbjAySjNqcVAtaFBtdkVOMDR3U0l3bzA3ZEhKMUdoME5WT2tBZzAydnJBVFc0VjNEck0tdEdJSk1RaktYQ043a2RuT2gwN1dYVWtOcnA3RlFMU0lpRzRKYnlJSFNiNEtCRkJ2YnU2Y3FKVlk5eUFqWnFBdUl1NTlpeTRQQTZfMmZvREpEUXNYUEUtck5PX0ZaR0pTd3oteG1TeGcyb3BTMjFYOVYyTHkxT3VrbHVWY3EwZkVRa01RQzJDQVN6MWF0OHk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1248,6 +1567,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2e90c7c57696ac8d51",
+      "date": "2026-10-26",
+      "title": "Flota osobowych elektryków w Polsce wzrosła w ciągu roku o połowę",
+      "title_pl": "Flota osobowych elektryków w Polsce wzrosła w ciągu roku o połowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGhMQVNPWExvVHRjcWs2bVRqMVhFcDdsQzFzSXB4ZDZpNFV5dm1YbFhPMzJqS0pBSDZWc2FpcjR4OHdGbkgzVXl0NXQ1MUhrNEdoLUlnYzBiRFNnXzNPUFlvaTd5VGU2cTA1RlJIMTd1UzI2RFVSRnNhMk15X3ZoUkg4SUpnYkxMR19qSE0wT2hGTm9rS082eTY1cVdCZXQwbUxYaQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2415,6 +2763,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-aaf0cad023446800b0",
+      "date": "2026-10-24",
+      "title": "Gala ORLEN Złote Kolce Śląskie 2026 za nami. Jakub Szymański laureatem!",
+      "title_pl": "Gala ORLEN Złote Kolce Śląskie 2026 za nami. Jakub Szymański laureatem!",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVZydmt1dEIzc0RtUjREaHhNczdaT2VET1dTMVlhaVpaMVQ2UU93akJBNTExZ1dlVjBaT0VmelBJT2FvQTZKenZtNTdJeEdiTDRzWmw5UzFQYzJZOHRTdTJlNXJlbXFDOERKNmFTWW5DVWYySi1qVFpuR2Q1aHlmNFpqNFVRY3l3Q2x1aTBpRnlldWkwc2NDc2xNVFBqQ3Y4OUxZUzVIS0N0WDB4Z3lmVXJhcUZqMm5iUWpHNzJEd1NVWnNwS1BZOHkyb2FmZUxTZVE1WFVEbw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a809afd0a66868625a",
+      "date": "2026-10-24",
+      "title": "Kupię same Warunki Przyłączenia dla Magazynów Energii (BESS) lub Fotowoltaiki (PV) do 8 MW",
+      "title_pl": "Kupię same Warunki Przyłączenia dla Magazynów Energii (BESS) lub Fotowoltaiki (PV) do 8 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZW04QU1PWUpPdFFheDhRODBfTDE0YkFSbGI3SFZyNWNtUjNjaVdUaUdXTGF4OWkyeHB5OU9TM19QTnYzN1NFRGJXSGR2SUFDSDVab3dzWE5adnpCQ2I3WEVpNmphWWZueEUxZTJLR1pqVUZTWHc4dm5wRDJicUtZMGRRLWdCWGZDZUNoY0s3Y3JDMGhNWGoyVUhDSG1UZzNTMm03WW1BWTZuRHdYQUpFT0NIZkJDQTF3dExIMDlQWkhDTExZNkZ0NFZadXVqWmJ4RnRFekgtMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-853f6633639924f30b",
       "date": "2026-10-24",
       "title": "Jak wydłużyć życie baterii w rowerze elektrycznym? Najczęstsze błędy",
@@ -2729,6 +3135,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-146df57d3b7ca29f09",
+      "date": "2026-10-24",
+      "title": "Farma wiatrowa 2 x 250 kW",
+      "title_pl": "Farma wiatrowa 2 x 250 kW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlRXeDNfc2FlQzB4bjRJcTVROExfZWt3ZGxoQTVkOTVVUWdfbW5OTG44QTd2MGxyUHZLR0NYcUt6OW56Y3Y4XzMtY0Mzci15NzV3S3NlUVNDV194emNSa2IwdlFWcElkY21vVm9sUG9wSW9JSzNnVUtfTkF0ZGpEV3l2UmVRWXNSWVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0e2705d42ea7113211",
+      "date": "2026-10-24",
+      "title": "Kupię projekty farm PV 1–4 MW mocy przyłączeniowej – priorytet 3–4 MW",
+      "title_pl": "Kupię projekty farm PV 1–4 MW mocy przyłączeniowej – priorytet 3–4 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEsxM3ZSQ3k4OGNIOHVHYnVzSi02X0pOU1lSeHkxbVl5d0IxZ3VFVEJXNHpLTFlsSEdFNTVveWVuOGdWQW5BVDg4TVJfcWJZVTBuRG5NWGJUNVFXemZuUnB6dUZ4UzM1Mnp5M3BKTmd6dnA2QmNHMHRXekhuYkRfMlI0UnpmYnVER0xWYXMxaWEwdXJYQVR1MkJlQ0ZFeHVSVTlud01VUjFtNTkwOWJ5ckRpZHVwSDh4OHVDcm1B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
