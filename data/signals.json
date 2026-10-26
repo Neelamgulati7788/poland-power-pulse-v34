@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:30:41+00:00",
+  "updated": "2026-10-26T08:22:27+00:00",
   "signals": [
     {
       "id": "src-fd9084d99d3f5766d5",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f4ac634a180b164fee",
+      "date": "2026-10-26",
+      "title": "COAL ENERGY SA (29/2026) Commencement of Operations in the Spanish Market",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1lRQS04dGpIR3pibEtlUEVzMjRIakg3SGRQWVI0MG00U3Jtel93OTdvLVRqc0tJUnNPUU92WGpJNHU1d3Bjd0czNUVxT3lSSEU3bG03Z3VQdjFmMlNZdG9XdFhDV25IbE13dTFpcFc2dXJJY1d1VjhrQ0F3Ul9xeldSUS1SWDlRQnQ3SWtPcFlXOGs5bXdTUHk1MHliMTNf?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -350,6 +379,38 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9bb18fca7594aa6afc",
+      "date": "2026-10-26",
+      "title": "Trudna zima przed europejskim rynkiem energii",
+      "title_pl": "Trudna zima przed europejskim rynkiem energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gaz, woda i słońce kluczowe dla energetycznej zimy w Europie Europa, wraz ze wzrostem zapotrzebowania na ogrzewanie i mniejszą dostępnością energii słonecznej, będzie w coraz większym stopniu polegać na gazie. Niski poziom wypełnienia magazynów, sytuacja hydrologiczna oraz przepustowość interkonektorów czyni niektóre państwa bardziej podatnymi na…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122349-trudna-zima-przed-europejskim-rynkiem-energii/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ENEA",
+        "TAURON",
+        "RWE"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-911384dcfbd5dc5c56",
       "date": "2026-10-26",
       "title": "Pompy ciepła, OZE i ocieplenie w budynkach państwowych. Ruszył nabór na 160 mln zł",
@@ -408,6 +469,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-33fc1484816fdb3516",
+      "date": "2026-10-26",
+      "title": "Prosument z magazynem energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
+      "title_pl": "Prosument z magazynem energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWhONW1IS0FwX3RTVGhIUDJoX01QTk80Y19JSzk5VURzZnlGQ09PUjA3V05FS1pyMTJxQ0ctSmFJRWNibXZveUk3clpxRk8tYmxKUnRBdlZBbzhITmVKTUxUZnRNVk5wajB4alhTYjgtRnVJS3ZFX1hGTUh3R2VOWk9kcnJlbUl2ZnhHQmlJRzVFUmRyZWRpSkRtQ2YwbEZMdXROYVdOa0VnTFh4eEREZGU5MzRLZ0JGZ2pwUEVlRDE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2536a8ffe17b933b41",
       "date": "2026-10-26",
       "title": "Co z węglem na zimę? Jasny sygnał z ministerstwa(...) - Forum",
@@ -432,6 +522,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2094d9541ca5bb0ef9",
+      "date": "2026-10-26",
+      "title": "Decyzje dziś, pozycja rynkowa jutro: Jak planują przyszłość koncerny energetyczne?",
+      "title_pl": "Decyzje dziś, pozycja rynkowa jutro: Jak planują przyszłość koncerny energetyczne?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVBMcG9udGVjWlp0YXpNZTY2S1psTXRmdDJtNHQ4SFFzRkFkRUd3ckV1VTJPMWNBMnR6UkpDcnhoaHQ1Mlp3XzhGYjdHa2dlb05wTGdZTGhfYkxNTkZaS1hBcXE0b0xyUWFMYlgtanJ1c3g1cHpIQ21MZzRGVnVzLVNkcVhuakVTNWpUUEFuSG1DSmVqM0VVZG9rbEk3cUJtelhMX2w5S0w3dWxKbEJFeVhfMzRyb2U0Z2xuMnpWSkU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -606,6 +725,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-da8d0c965f498cdd25",
+      "date": "2026-10-25",
+      "title": "Strona 2588 z 2588 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2588 z 2588 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yZzVzWGhuYWNyQmQ0MzdNdzlqSThabnVSakwtX0MtWGZDN3hDUnd6RzlwendLZmdGY3FZM2VvN213OVg1c2RZX2I0TFp3bmdt?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
