@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:22:27+00:00",
+  "updated": "2026-10-26T09:20:37+00:00",
   "signals": [
     {
       "id": "src-fd9084d99d3f5766d5",
@@ -89,6 +89,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f35ae13e5b62c4614c",
+      "date": "2026-10-26",
+      "title": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "title_pl": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelpwbU41ZXFFM0ZVbFlyWjlfUDFoVDNIZENZNU81d3NYS1YwYXZrWlhPX054bWFoS2pLVDJMajk1Q3R6Rjk0b1FIcFdJVjJfUGh4aE4zMnVGYk43OW9KekMyTU5pQUl0V1FLaVJwOHEwUklwMGNsbTFEbldhQzg1Q3JsZ09oWUk2N0JwR0JFcWg1M2NOX05Bc0x1VHRzS1BJaUszMU1BemljcVBwM3JmNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e5bf41f0743be73dbc",
+      "date": "2026-10-26",
+      "title": "Europejski przemysł apeluje zmianę celów wodorowych RED III",
+      "title_pl": "Europejski przemysł apeluje zmianę celów wodorowych RED III",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnNxVlFuV2tBZ0VfS2doXzA2Z2Fma1FtekhHSk05WEk3ZzVtZmdaMVJ4WUdSaDRrN2RVbzFrN0huR1lCNWUyRDVTN3liLWhDMHEwaDNqTVNTOTBBeUxjY0pwaGU1N2FWdDdRdVF2RGw2MWRJS3NhUTQ0eHJCOGpyODM4WjV2N2V6dkJfdDZkeWE5TXZFNW9wWFh4T21QRXUt?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e503caba19fb1e1b51",
       "date": "2026-10-26",
       "title": "Ponad 1,1 tys. wniosków w kilka dni. NFOŚiGW o drugiej edycji programu Przydomowe Magazyny Energii",
@@ -116,6 +174,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e3246c9e5333de42c0",
+      "date": "2026-10-26",
+      "title": "Świadczenie usługi dystrybucji energii elektrycznej na potrzeby obiektów Zakładu Karnego w Jastrzębiu-Zdroju w okresie od 1 listopada 2026 r. na czas nieoznaczony.",
+      "title_pl": "Świadczenie usługi dystrybucji energii elektrycznej na potrzeby obiektów Zakładu Karnego w Jastrzębiu-Zdroju w okresie od 1 listopada 2026 r. na czas nieoznaczony.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZAKŁAD KARNY W JASTRZĘBIU -ZDROJU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3342-2385-a3e4-c385-c6000139a46b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-dc5b1272c0091c6a0a",
@@ -321,6 +408,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bdebb3b482dd8a0a55",
+      "date": "2026-10-26",
+      "title": "Ceny gazu w Europie najwyższe od 2022 roku. Niepokój o dostawy",
+      "title_pl": "Ceny gazu w Europie najwyższe od 2022 roku. Niepokój o dostawy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny gazu w Europie rosną i doszły do 97 euro za MWh - po raz pierwszy od 2022 r. - informują maklerzy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-najwyzsze-od-2022-roku-Niepokoj-o-dostawy-9218182.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9f4e3321285e312124",
+      "date": "2026-10-26",
+      "title": "Domański wyklucza powrót do rosyjskiego gazu. Jasna deklaracja Polski",
+      "title_pl": "Domański wyklucza powrót do rosyjskiego gazu. Jasna deklaracja Polski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOW9CS1piSExSckVudElwVVlvV0hVV3BsYjZrVThBQ0tORC1JZWQ4YURGSk9mRGFCdnd5REszNHhpT3dzS0dCYk1iZl9aMDFGS21CZ1hNMTdHWV9saEM5cFVGSk1jbEhwYVFKYUdaN2N4M3ZhTDhETHlPMW9sOHk0TXk4QUp3Tk02R1Q4dFlpS1pxVzZzWXVIQVItbXVIdXZEanZIQ1ZuNFpGcFpld25QYTVLaXM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9ef82da7b28a734c56",
       "date": "2026-10-26",
       "title": "Węgla brakuje, ceny na składach w górę. Rząd reaguje(...) - Forum",
@@ -350,6 +495,36 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9dbaf9162e0508a274",
+      "date": "2026-10-26",
+      "title": "Ceny gazu w Europie rosną - jest już 97 euro za MWh",
+      "title_pl": "Ceny gazu w Europie rosną - jest już 97 euro za MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObFIweWdyd0hjek9fdjlKYnRjSXVwY3RfLUhZeHlmQUJhWGVlNnFPeXctRmhDeFM0VUJEYjhPWkpWLXlVYlc4bWF0blM4UkRUMDVVWGd4bHNiX2tfUGJHaWRlYkp6TmplYUdNS3ZEUlp3RTBMeXdRQkRHRWxfNVJoc1VTdFVRR0VONW1PYk4yNGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18",
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9d1eee06c7a88faa30",
       "date": "2026-10-26",
       "title": "Tauron Ciepło: nowa odsłona kampanii edukacyjnej „Weź nie smoguj, weź oddychaj”",
@@ -374,6 +549,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9cb4a86637b15d99cf",
+      "date": "2026-10-26",
+      "title": "Gaz coraz droższy, będzie rzeźnia",
+      "title_pl": "Gaz coraz droższy, będzie rzeźnia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkdqZlg0SFpJcV9GMmMtbjQ3QUNLZTh3VUFuQ3V0dDRjX1p0WkxRZVJhMmJtMjNOUGk0TFJIMWFxUlA3SkJlWjhOdUpaRWhIZWhscl9iaFJDeXdSMzdieFVzMjluYjJJcERPQ2tnU2lWUUtRRVpWNUVlRGhNRDBuOTJIOEJadEJ6?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9bb442a99426b9cb80",
+      "date": "2026-10-26",
+      "title": "Ceny gazu w Europie najwyższe od 2022 roku. Magazyny przed zimą niepokojąco puste",
+      "title_pl": "Ceny gazu w Europie najwyższe od 2022 roku. Magazyny przed zimą niepokojąco puste",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWEc4WTM4enBVNll2ZVRrVW9JeUdoRjZTWUFlUDlpMFpPREZlMlM4MXFweGJfeFdrX2k4aWpMTEgzNlg3Z2Q1R0lpYVZCZVZhVjNPYVlqWjU3U2V1UzVlS2pMcmFINjhvc1BUTTZZUko3QkFMOUFsdmNhTE5xVW5MRmdRUVhUelBJWnlneVJKcmx5cmJaeGVuUXRRUG8xRHE3R1d3d1plV0lWQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -409,6 +642,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9854910d26f04025bc",
+      "date": "2026-10-26",
+      "title": "Po ile jest gaz 26 października? Sprawdzamy notowania",
+      "title_pl": "Po ile jest gaz 26 października? Sprawdzamy notowania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUJ6RTkxWl9vUFBaSllMd21Ba3Q1cUxhNDJYSWo4ekFhcGtqYTgwNDVQcjJoUDRHZWFiVXJCbmZWQzRZdDcyOWZ2cGNfNmVTTmwxQmV3ZW9fZVBxTWFLZWVFSV9mMDNCN2NhWnR0b0dtQWN4M01acW45REdkdzNVX2hVZGgwOGZVbkUzLWdUSWxTRkVnNy04WUZET3NJOHdqcWpGanNPRHJ1dkY3ZzFN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-911384dcfbd5dc5c56",
@@ -469,6 +731,122 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-53278d83ea2e094a9d",
+      "date": "2026-10-26",
+      "title": "PGE ma nową strategię. W 2030 produkcja prądu z węgla spadnie o połowę",
+      "title_pl": "PGE ma nową strategię. W 2030 produkcja prądu z węgla spadnie o połowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWJsalhrLVY0VVU0ZUF1Rm5rQVE5SHJTLUVUN0Yzbks5bks5NDdLQ2czb0l2R0JBUUpTNjdqQzhSWWNZMW1VZ0ktV3lIV1hLUDdNLWQ3ZmRtX1AyOFpLVDh5OFpGYWRxQWNoTGlIcU11V2x1bHJKcGl4ZzM4NkRNeTVldjhFeDh3WFNsdm90bnd4OFVUMmVHNktZSk5lQ3pBa2NDWDZmTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-477c3928c8ba0c04b1",
+      "date": "2026-10-26",
+      "title": "Wyburzą kominy chłodnicze w dawnej elektrociepłowni. \"Są w złym stanie technicznym\"",
+      "title_pl": "Wyburzą kominy chłodnicze w dawnej elektrociepłowni. \"Są w złym stanie technicznym\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU1jVlB1RXBiZ3NKWmdLdlh0ZThhbmZma2JZMFhpaWpXS2IxX21HaGFveDZXUkJwYl9JTVJyZ1c4N2FKeW1tTnVpZnY3MTU5NzJIZnJKdnl3YTNsUWtxaHZ0dWFMT20tUEFoMDRuS0p2YWJTc0RsZ3FLcVc5aTZsTUVGRE84a1VQby1vQ0s4c3dPTlE4c0FuZU9ubHZIaVBsN1ZoRlpOU1g0STlaZXczNnpwemNsZ0RwRjlRam9PVzMtZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4021b70e177d12bad5",
+      "date": "2026-10-26",
+      "title": "Orlen rekrutuje na stanowisko Ekspert / Ekspertka ds. Handlu BioLNG i Biometanem",
+      "title_pl": "Orlen rekrutuje na stanowisko Ekspert / Ekspertka ds. Handlu BioLNG i Biometanem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0xPeDk0cEVTUHI2aGFzVWxTMWN6Mk0yUnlMNWx6UE83RHVHRXlEQ01oZmF5N0N2cjA2Nk9nZUNmd2tJZDZwVVdlaEw4cjBPMUNCSm5mZW9RRjg4Z2dFdDlXY3ZrU1M0clV4d0xNcXVNZnpPRFpDMHlCdkZadzRrWDdsUHdLWjJWR2hoMmkyZ0FiWDdHZUxtN1I1TjkwaW1udWZoMkY4MnZiWjFZb05hdHpHTFZuS3hZX3dNNFZ1V2pmaWc3OW1pRF9vMDVYVWJR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-389d87f64cebebe322",
+      "date": "2026-10-26",
+      "title": "Ministerstwo Energii wystartowało z nową edycją kampanii „Czas zrozumieć Atom”",
+      "title_pl": "Ministerstwo Energii wystartowało z nową edycją kampanii „Czas zrozumieć Atom”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNm9jcDh6bEp2U09GVElWR2ZoY053aTFPbnlIRkw2OGlhUVVZX0N2Z3RNRXlGUEk2c0xIcFE3SVdqb2E1SDA1SnFTck9ISVRHYXFnUUFFbVZSaV9GbU9ORFJYVUlfM2RXNUhOQ1p5bUhsMkFROXRjTWxtZnlSSjVJeDc3UmlJTXlSSnh5dFhHem9SWi1qME5uWFBrNzZfUzA0cTJUUXVBOGF0U2lENGJ0MUtrNjdMMHlvTXMtSC1Eb05EQXVrZ1NMVVhJbTBKZDd2c2g2ZkYtUnRIRk5VelUyTHZB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-33fc1484816fdb3516",
       "date": "2026-10-26",
       "title": "Prosument z magazynem energii, ale bez fotowoltaiki? Kolejne ministerstwo mówi NIE",
@@ -481,6 +859,64 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWhONW1IS0FwX3RTVGhIUDJoX01QTk80Y19JSzk5VURzZnlGQ09PUjA3V05FS1pyMTJxQ0ctSmFJRWNibXZveUk3clpxRk8tYmxKUnRBdlZBbzhITmVKTUxUZnRNVk5wajB4alhTYjgtRnVJS3ZFX1hGTUh3R2VOWk9kcnJlbUl2ZnhHQmlJRzVFUmRyZWRpSkRtQ2YwbEZMdXROYVdOa0VnTFh4eEREZGU5MzRLZ0JGZ2pwUEVlRDE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-30065387b8ea2567c8",
+      "date": "2026-10-26",
+      "title": "Górnik od kiedy bumech handluje gazem ?",
+      "title_pl": "Górnik od kiedy bumech handluje gazem ?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV20za1ZSLXJjMzJoQU9hQ2FwVVA0aFB5MVNEWGotLUhrRnRkZ0Fsb2FtUVhZTDdwSEVIU3dzVHFkSzQ0M00zb2Z6MFRieXhyeUY2a1NDSjZQTXJkMkZCY0RHelptMk5GOWhvM2FzTjJVRlF1bEZWS3hUd0loSWdlMjYwWmVhWWotYUt1Z0VMNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2a013bc767c10e7ced",
+      "date": "2026-10-26",
+      "title": "Stabilność, oszczędność i niezależność energetyczna z wykorzystaniem magazynów energii",
+      "title_pl": "Stabilność, oszczędność i niezależność energetyczna z wykorzystaniem magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYnE3cGwyZHM4UG9hSXEzVjFHWXhWNUc5dEdWdkU3V1lRMXgtX0xmaEw1eWdJNDJ5dEtVd1h5dTBFbHBRRkF0VmgwNXJLcHdLYloxVlhYOW1FMy0xQVN5ajVvNzZBWER0MTM1ZF82TFh0cFZsOG4xVlZNNmVvUUZORkxPclRfazlkTzVKYnlxdWczaTFsbkt0a0xFR0wtaEtMVFVBd3NWU3Zha0RzTTgtVnQ0ZG1jdGhYbmx0Y2xkTzZFX2JHSmxlQ3JqT2pGZXZRaHI4R2tEblJEZDl5?oc=5",
           "type": "press"
         }
       ],
