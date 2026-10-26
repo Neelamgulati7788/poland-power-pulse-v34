@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:38:03+00:00",
+  "updated": "2026-10-26T16:47:30+00:00",
   "signals": [
     {
       "id": "src-ff149f69aa57b82c58",
@@ -622,7 +622,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWhONW1IS0FwX3RTVGhIUDJoX01QTk80Y19JSzk5VURzZnlGQ09PUjA3V05FS1pyMTJxQ0ctSmFJRWNibXZveUk3clpxRk8tYmxKUnRBdlZBbzhITmVKTUxUZnRNVk5wajB4alhTYjgtRnVJS3ZFX1hGTUh3R2VOWk9kcnJlbUl2ZnhHQmlJRzVFUmRyZWRpSkRtQ2YwbEZMdXROYVdOa0VnTFh4eEREZGU5MzRLZ0JGZ2pwUEVlRDE?oc=5",
           "type": "press"
         }
       ],
@@ -1398,6 +1398,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-74df07226ab9b7ac62",
+      "date": "2026-10-26",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnhLRTFzQmtnbzRoUk5pX3NlRWM2X19pNEZvbTY4TGlfR3VqcW9KYVItWWkyWVJrSmplX2VSdnc1b3dxbzZDLVNrNWRIOTkyMVdfQ0VJZ09CbE1ZMnZ2c05TWERPQUJJbWdMcVpzWWtfWVdvX0RFQTBqZlVZVzNhb3ZkZHc1RENS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-74cb1903ad52b0846a",
+      "date": "2026-10-26",
+      "title": "Klient nie rozumie taryf dynamicznych, ale chce zwrotu w cztery lata. Branża PV szuka nowych modeli",
+      "title_pl": "Klient nie rozumie taryf dynamicznych, ale chce zwrotu w cztery lata. Branża PV szuka nowych modeli",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMzVuVnR1SHhqMWo0UkRXSklLeXktdk9aRWZYUkUtVmVRdTRaQjl1VXdBQmZjSk5yaGRXX0IwVXFzODZCZF9ueHR5ZENMVmtrcmVwWmZ2RUhmSmlWWUVpZGlJUENPVFFYSkEzWUhOa3VOcFp0MGIyR1liVmFYNkgySE9ZR25HT296UFN2RDZybDVrTkY1VkxjNnZDSkFCUFRJaXQ2QTBjOU9aUS1GVE5sdWJQby04aXVXemV2cUtxNVdndE1kZDJsZlJTbVFWcWx1dHpCZXQ3bkh3TUJQb1RCSjY2VE5NY1k2T3dLSDY0OHpLTzVrLU5GYXp3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-746bebf12d82a653f0",
       "date": "2026-10-26",
       "title": "Tauron chce 2 grudnia opublikować aktualizację strategii",
@@ -2009,6 +2067,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2b5b6ca0bfbe217048",
+      "date": "2026-10-26",
+      "title": "Dramat spekulantów na Herkulesie i mocna biotechnologia. Banki i KGHM pociągnęły WIG20",
+      "title_pl": "Dramat spekulantów na Herkulesie i mocna biotechnologia. Banki i KGHM pociągnęły WIG20",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Początek nowego tygodnia na warszawskim parkiecie przyniósł wzrosty głównych indeksów, które były odpowiedzią na poprawę nastrojów na zagranicznych parkietach, gdzie inwestorzy cieszyli się z tańszej ropy naftowej i odbicia producentów półprzewodników. Na GPW uwaga skupiła się na dynamicznym odreagowaniu niedawnych spadków na Modivo i KGHM…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Dramat-spekulantow-na-Herkulesie-i-mocna-biotechnologia-Banki-i-KGHM-pociagnely-WIG20-9218537.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-2a013bc767c10e7ced",
       "date": "2026-10-26",
       "title": "Stabilność, oszczędność i niezależność energetyczna z wykorzystaniem magazynów energii",
@@ -2096,6 +2183,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-203992f1f621566f94",
+      "date": "2026-10-26",
+      "title": "Senat: Komisje za ustawą o wsparciu przedsiębiorstw energochłonnych bez poprawek",
+      "title_pl": "Senat: Komisje za ustawą o wsparciu przedsiębiorstw energochłonnych bez poprawek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR3JDNVBnb2NEb2xJM1E5a3pBU2NJUnpDMm1sQTVVUmd3Wmc0OThuczZPUEo2QjY4M3M5OTBFSzY2azhjZ2sxd2gtem5HVVhZc2liWmQ1SmZxNHYydFd3S2k5RWVVMndRNEdBQlhGMEZUZWJiSkNsUXdEUlB2VGpFOHVtRWVJcV9QYU1kMlFRTXhqd2EwbGlHUzlDUWtqc2lyWHVkNktVSGhPLVhTYjY3M3BiMjI1TFJS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1e743db9db97d4a349",
       "date": "2026-10-26",
       "title": "Gaz coraz tańszy",
@@ -2132,11 +2248,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE rozpoczęło budowę magazynu energii Gryfino o mocy do 400 MW i pojemności co najmniej 800 MWh. Jego uruchomienie planowane jest na koniec 2028 roku - podała spółka w komunikacie prasowym.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-rozpoczelo-budowe-magazynu-energii-Gryfino-planuje-uruchomienie-pod-koniec-28-9218431.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnI3aWpIYzdOdmRVdzFSdHhrVUlYWXFNSWNkTjFKT3dVaWh6WXA0MEZjYTg0V0U2dXZHRzZEUklRSHJyMF9ndXhaaXdrNGFxVHhyZDBQSHJqTFM2VVh0XzJuTTQ5SGVrYWVXbjlhSDZpYm5sSU5Wa2NxVHpnOW5yVzJ3aEhETnF4N0Fpc1dHUVRwU1ZNdlVhM3FtdG5YQng0eXlxcFZJLTg4di1id0lBekFWQTVJaDQxdVJOQ1M0bjc1LWEyWVE?oc=5",
           "type": "press"
         }
       ],
@@ -2151,8 +2267,8 @@
         "27",
         "50"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0fbb953e52c46908ac",
