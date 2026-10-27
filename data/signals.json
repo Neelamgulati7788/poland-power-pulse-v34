@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T10:16:19+00:00",
+  "updated": "2026-10-27T11:14:12+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e2691854673bb6f1e0",
+      "date": "2026-10-27",
+      "title": "Orlen otworzy biuro w Singapurze; wkrótce wznowienie dostaw LNG z Kataru",
+      "title_pl": "Orlen otworzy biuro w Singapurze; wkrótce wznowienie dostaw LNG z Kataru",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmRDNkllczFVR0lESFVBTm0ybkI4aDNFVHYzQWVFVVZJZEZuZ05BN3pzeGJ3aFZhbmVGSXF1N1FfNHluZHI5WWZaR3F6SFdOQTdlMDZna3ppTXc0S001OEpZN2g4dnBMMmJrRXdzWGNBdGEzdzRaYWNmSXlqR2wxYVRJcmNnMEZqX1NFRjl6dGQza25JaHVRb0tlamRyY3ZJSV9LSDVzMkRxc1I1c0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d7978ba2e31b79497e",
       "date": "2026-10-27",
       "title": "Korekta po rekordach z 2022 roku. Ceny gazu w Europie spadają",
@@ -67,11 +96,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Ceny gazu w Europie spadają po tym, jak w poniedziałek osiągnęły najwyższy poziom od grudnia 2022 r., przekraczając 97 euro za MWh - informują maklerzy.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUFJeE4wQWpsTHdGQXlLTUhPeWZCdWpLN1RhOTFwbEcwMUJLWWRvcFJjOG03alpTWjJJQk1QUHQ4LWVzOUJxSzZwdElhODFUdTNNd0kxRnpBR0VnZ0FWd0ctWk5rX2J6eE9yN05aV0l2blJhSDNvdU5iOWZGS2h4eURDbFFIbkVsX2Q5SDY1ejJEbVBrYXFRcnZGZXJ4OGxENVpfREZBRlJYZw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Korekta-po-rekordach-z-2022-roku-Ceny-gazu-w-Europie-spadaja-9218801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -85,8 +114,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d1797774b11e4b981e",
@@ -205,6 +234,94 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bd418b6b2720fda8c3",
+      "date": "2026-10-27",
+      "title": "Poland: Greenvolt sells 1.6GWh of projects to A&R, PGE building 800MWh with Fluence tech",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Energy-Storage.News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdG9pYW9LVHdFekU4UkJXWFRrM2NXT3NrUjUzMjNuN296YTc2WHVsTE1kVFF5dDB4NTZoVDFOeEpJX1M2bE1MZWpzQnVlVnYzQ3hpN3lSTzVLR3VqZjlScnV2LUFoaE9rcVZwWnVPUjdEdWZ3MlFBZ196X0FVQWZlUnd6RkxNVFB2WHdKcmdxakVobl84a0JTd2ZpemJBVUZCV1VZSFdYLXNNWjhpMm1xTjhrUUpZaDJFZGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Energy-Storage.News",
+      "publisherUrl": "https://www.energy-storage.news",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "38"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b851ff86806e4efef8",
+      "date": "2026-10-27",
+      "title": "Orlen otworzy biuro w Singapurze. Jest też zapowiedź wznowienia dostaw LNG",
+      "title_pl": "Orlen otworzy biuro w Singapurze. Jest też zapowiedź wznowienia dostaw LNG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen w pierwszym kwartale 2027 roku otworzy biuro handlowe w Singapurze, a w ciągu kilkunastu dni spółka spodziewa się pierwszej po przerwie dostawy LNG z Kataru - zapowiedział we wtorek wiceprezes Robert Soszyński.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-otworzy-biuro-w-Singapurze-Jest-tez-zapowiedz-wznowienia-dostaw-LNG-9218874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b414f8f8df1efe6a47",
+      "date": "2026-10-27",
+      "title": "Orlen otwiera nowe biuro handlu w Singapurze",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXg0TWxnWkE1bXU2SnAwSHV2bkU5VmdOLU9kdmpwOFVwbFpGZktmQ0xpNHZNY3RxcU84V1ZhYmY1UHdhVHFldGI5azQ2SE0zd3JocVFpcG02Rlk1eEtvSU85SmJGVXdaX0Q1SEFZWDk2dDFYSG1kVG1KVUxZaGN2b3pWcWhzaGRWMl8w?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-aef7bf507a860d4a89",
       "date": "2026-10-27",
       "title": "Zygmunt Skonieczny WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO I ELEKTRONARZĘDZI",
@@ -292,6 +409,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-92bafd8bacf6afdebd",
+      "date": "2026-10-27",
+      "title": "Bałtyk 2 i 3: postęp budowy morskich farm wiatrowych",
+      "title_pl": "Bałtyk 2 i 3: postęp budowy morskich farm wiatrowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWF9hRG5nRTl1T1pLZ29FVmlBR3pCQlUwbXExcFJ2WV9DSVhCYXl3c0ZWM25xN2pRNVdXaEt1UG5EcU44MGpxRnhMS2kweUVQeUtRbk1EZ3EwQ2w0R3NibGJSOHlOa0VNT0ZYZ1ZSN2RrTUlSd3lNTndrZ1U3aTZMSFhhZGNuQUQ5MXBIWDVTb29JM2s0YUJwdVRFR05pYWxvYUhxajRZclZ5UE9OYWw4aWJUUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://offshore.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8c5f6441e44516413d",
       "date": "2026-10-27",
       "title": "Wezwanie do zapisywania się na sprzedaż akcji REMAK-ENERGOMONTAŻ SA",
@@ -345,6 +491,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-86a64256f9f84d140b",
+      "date": "2026-10-27",
+      "title": "ORLEN rozwija działalność na azjatyckim rynku LNG",
+      "title_pl": "ORLEN rozwija działalność na azjatyckim rynku LNG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeG5VdE91UExiUHNCNnpaWjFXWjlqVTdXSE8tLUd6WlR1a25VaUZIMzdmQ0JwTHhENlJ2SWJuVGJFS1ZtV3RwWWp0ODdESlVHVFh5UjE5VThuZENsaElIc2szNEFzcUIyREd1QzhLNDlzWWRPT3ZOSWhYX1pVUEJ3WWkxMC02ajF2bXVfYnlGZWVBUFRHNTlpaWkzREhMakJUNmVDT0dSUzlZNFg4ZXJUZmtBdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -519,6 +694,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-701090fe0979345aa1",
+      "date": "2026-10-27",
+      "title": "Budimex ma umowę na rozbudowę stacji elektroenergetycznej Ełk Bis za 195,49 mln zł",
+      "title_pl": "Budimex ma umowę na rozbudowę stacji elektroenergetycznej Ełk Bis za 195,49 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOei12RlJJQzlGUkVKbzZ1aUkyLUZlbVVBRDVfNVVZR3pfbW1lMHdXTVFIWDB3Y2hSRmt3ckcwczh6amZHRHQtVmM0N2E3UTRHVWozVTUzblZ5MjhIRWZnaUZlSjFKZ3ZUT1VncVo2cmw1aXgwR1hBc3QwaXAwc2pzcF8wY2JqeHJCVUFzei15ZjFBR3VGU0paQ201azUtRldhY2pMdmFaMkFkSFRLakJxeEhhTWFvLTA4SEx3dGxPdWI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -825,7 +1029,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdWpfT2l5ZUhlSnFDdVZySFVFaDM4QlRYd1hFMWplQ0o4Rk00Sk42SnIwM3FqSkQ0aUdKbVlBVVNVVmcwQ0F6cHFYR2poUDdfcjdITVhxSURJZlZYNmtLdEdINW5HbkRsM1pWeWYzLXVUZjhHTGgyQXE2ZFFIbHdTZjhiQ3V5aXF2THh4R0FDREh2aXh4Q09HUF9na0tOS2lIMXlDY2tjS0I5MzFtMEJKUWVCYjhsc3AyNktiZ3ZWeXJiZTRjejhuMHpKaFljRFFTVDhfOEUyb052YU5hWktBS2pyWVlMc0YzY1dnTl9vUWlnZTRseFM4SGM2ejB4QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekgxNnc5eHNjZlJJaFlNbEZnaDFocTljQW1jMDltdmJHLTMxVERrWGNBMWdDNmdNS0lJUTJ0VkdMcGNMSWlqRXhSUE0xX0U3R0dkSjJhbmppc0VRWk5GaWFIT0V4QW0zZGFEeF9FY0hFLTZQWjNLbjVsTl94VTlseTRZQVNWdFBHQnJ2c01oNUFhZ2dES0ZCanZndUxERmVxd0xuMk4wdGdoMlNYelEwYW51RUtVNEJGeXJyM29QX2UzNENkaVJ4X0JtTjZRUXFPWFRlcFV6YUxCSmgybXoxcFU0bXJUdGpPZFFEXw?oc=5",
           "type": "press"
         }
       ],
@@ -1746,8 +1950,8 @@
     {
       "id": "src-da26677f143e44a9c7",
       "date": "2026-10-26",
-      "title": "Na północy Polski rusza kolejna inwestycja energetyczna",
-      "title_pl": "Na północy Polski rusza kolejna inwestycja energetyczna",
+      "title": "Na Północy Polski rusza kolejna inwestycja energetyczna",
+      "title_pl": "Na Północy Polski rusza kolejna inwestycja energetyczna",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
@@ -1987,7 +2191,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WVFsZFl4ZUVRTkRyUmJnZGhIUjBZallXLWhBUnRJRHlNTU1KMnc1SjVhYllscmNVNTROLTRJc21ZbU9yeEI1ZU85SXNwV2xx?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
           "type": "press"
         }
       ],
