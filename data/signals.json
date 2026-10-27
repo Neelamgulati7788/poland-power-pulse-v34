@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T04:11:37+00:00",
+  "updated": "2026-10-27T05:10:30+00:00",
   "signals": [
     {
       "id": "src-c2997e17e556124c86",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5758e4ca0ebdde9956",
+      "date": "2026-10-27",
+      "title": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
+      "title_pl": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTFlaFFBMDhWeHNveW10bDBuYzZka0Fkb0NsX1dsdHBocm5MR2lQVVdDNnU1MjZEX2ZZbmxIdmZxTmtsVklySHp4UUJNN3hKQnJpOU9NYWk2NnJ5MnljcGlxamJHXzVhS1M1M3AxcGFkM191U2YyUTRhUWhIanlta0dBeEFKaUlGWjJtS2lEOFBTMnAzRVNBSUc5RUotWmVpbDRn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2705,35 +2734,6 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
-    },
-    {
-      "id": "src-2b5b6ca0bfbe217048",
-      "date": "2026-10-26",
-      "title": "Dramat spekulantów na Herkulesie i mocna biotechnologia. Banki i KGHM pociągnęły WIG20",
-      "title_pl": "Dramat spekulantów na Herkulesie i mocna biotechnologia. Banki i KGHM pociągnęły WIG20",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Początek nowego tygodnia na warszawskim parkiecie przyniósł wzrosty głównych indeksów, które były odpowiedzią na poprawę nastrojów na zagranicznych parkietach, gdzie inwestorzy cieszyli się z tańszej ropy naftowej i odbicia producentów półprzewodników. Na GPW uwaga skupiła się na dynamicznym odreagowaniu niedawnych spadków na Modivo i KGHM…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Dramat-spekulantow-na-Herkulesie-i-mocna-biotechnologia-Banki-i-KGHM-pociagnely-WIG20-9218537.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ORLEN"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-2a013bc767c10e7ced",
