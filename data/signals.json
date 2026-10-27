@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:16:48+00:00",
+  "updated": "2026-10-27T19:23:53+00:00",
   "signals": [
     {
       "id": "src-ff48d41c580ae2fc78",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e43fac85d6170080ed",
+      "date": "2026-10-27",
+      "title": "LNG z Kataru znowu płynie do Polski. Orlen potwierdza",
+      "title_pl": "LNG z Kataru znowu płynie do Polski. Orlen potwierdza",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE1SdG12RHlHY29Qd0x5RzFhVVVlaENpUDBFQmJXbUViUEtFZnFDczk2YWJsUXRPMWZoc055Q1NnZklkVG1nRUpnQXR4LWlKQ3R0MHlFeDJrTHV5c0tzNkM3azRSYkV5NHFzSTBlbUZTWWZ0MjF1MmYwMV9LYW1TbXR1ZzBqaU13cHEtZ2JvbWZMdVFIMFBv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e2691854673bb6f1e0",
@@ -304,7 +333,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
           "type": "press"
         }
       ],
@@ -334,6 +363,35 @@
         {
           "label": "PAP Biznes — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2hZUHFRTndlV01BekZRem16WDY5aGkzVjdjZzhXeHIwdHhmbHVlY1ZlS1FhM1Z4UWRKdmxkVllxYl9tenVvWks2ODB6bWh3R3htOS0xMnhHbTBGamFWdTI3dkJwRmhHSmlhLUJ5ZGFBdE9BVktXZ3RrTE0xWmdrTTdlTFVVZV80OVZoWjBCSWtEVDJ3ZjFzMmxzRlh2TEZUTEhkTS1mSFotR2xabTVVQm1uUVVsZEh4U0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cfc6afecbb822ea6f3",
+      "date": "2026-10-27",
+      "title": "ENERGOINSTAL SA (19/2026) Odwołanie członków Rady Nadzorczej",
+      "title_pl": "ENERGOINSTAL SA (19/2026) Odwołanie członków Rady Nadzorczej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2pLLXVXbUkyVGdRQnVDSU14ejktNFEtc1BDd3hYZVQ2ekdUbzZhTXdJM21vXzBuMVdMNFE2QTI0MzFPc3ZXQkFseTgtWXd5TXo5cmxvMWxEd0hDU0V6b205ODV5RWoyLXc5SjZlSlR3bkFKMVFhTTlXZzIwRTdEbXNKUld3bUtaN1doNTFzZ3RWMkFCaE82d2pDcG4?oc=5",
           "type": "press"
         }
       ],
@@ -2296,6 +2354,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-33d8831983b612af00",
+      "date": "2026-10-27",
+      "title": "ENERGOINSTAL SA (20/2026) Powołanie członków Rady Nadzorczej",
+      "title_pl": "ENERGOINSTAL SA (20/2026) Powołanie członków Rady Nadzorczej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWtjdUMxYmV0WWxhSDVVcFZldzlBN3hJeVUzZjRKenhXUzA1QmNIYVpITDViczVXRldfMzV1ZzZTYWJ1U3E2eC1HdTQyLVlCVzNtVXM3d1YxQUZXMHdSeGM3RVlna1JIcVRrTmRyRlRvT1lLNm14c0k1ZTRfT1I2ZzJCa1ZhWFVoVVFiY3VidGlCR1JKOWhNYW9kbno?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-304f520d496bc422a2",
       "date": "2026-10-27",
       "title": "Ropa znów drożeje, gaz najwyżej od lat. Europa przygotowuje się do zimy",
@@ -2436,6 +2523,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2a9d93196b1c2cb271",
+      "date": "2026-10-27",
+      "title": "Branding Power Jakub Zwoliński - opinie, skargi i komentarze. monitorfirm.pb.pl",
+      "title_pl": "Branding Power Jakub Zwoliński - opinie, skargi i komentarze. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yX0lWSVMtbUxrNTBDQ3lGckR0ei0zZHJtT2xrM083S05FOHlNcElNTzRsaGNodFVzYndJU3ZEVjJIYzZWc0txSnJjeVUyT3BNQ25nV0JIXzdvUTd1Y1BLNGIzZXhXbkNOUXo4VG12RWdZX3BPbDhFa052LTBjQms?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
