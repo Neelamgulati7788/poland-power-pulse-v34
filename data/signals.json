@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:12:30+00:00",
+  "updated": "2026-10-27T04:11:37+00:00",
   "signals": [
     {
       "id": "src-c2997e17e556124c86",
@@ -31,6 +31,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-aef7bf507a860d4a89",
+      "date": "2026-10-27",
+      "title": "Zygmunt Skonieczny WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO I ELEKTRONARZĘDZI",
+      "title_pl": "Zygmunt Skonieczny WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO I ELEKTRONARZĘDZI",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFZiU2ZnVm5aRlQtaFdqa081VURyVHNUY1Y2LWZyalAzc2Q4VEdSeHNFaGRVOWZIdXNHOHo4RW1Lc1M2ajRLNmZCR01vZ3ZtTTFCUjY0ZVFDeTJ5TEtfR2VOZ3NLbEZFSFprenJMdWtpaU1DTVk4Vk9jQmdTb0ZkUUNnQ0cxQVNhZ2FGZmF6VmV0Yk9iMWxoaGZOMXZzWlRTSDhmV25R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b4e5e69cdfca80f39",
       "date": "2026-10-27",
       "title": "TechPas Instalacje Elektryczne i Systemy Zabezpieczeń Damian Pastusiński",
@@ -55,6 +84,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-832e44a24489bad9cb",
+      "date": "2026-10-27",
+      "title": "„Rz”: Miliardy z BGK na budowę Portu Polska i elektrowni jądrowej",
+      "title_pl": "„Rz”: Miliardy z BGK na budowę Portu Polska i elektrowni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUlxVWIwTjZib3Z2ZDZ0eGxDb1NmNU5CZjZrb3dwdVNzV0hRVUZjeUhFQVZlVms5LU9kTDNqaC1FTU4yTUlYNXBoUmNKVWUwYm9xamRYYTAyOVJzSlNWVXpNSmFSNHRzeXF0RlBXQnNudEFyM1Y5QjhkNFdfTWVMdVJIeHZiSzVYOGZnLTZXY1U1ZXY4ZFRxZk52cERuOU5WdEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-74ba1446cc48bd411e",
+      "date": "2026-10-27",
+      "title": "Klient nie rozumie taryf dynamicznych, ale chce zwrotu w cztery lata. Branża PV szuka nowych modeli",
+      "title_pl": "Klient nie rozumie taryf dynamicznych, ale chce zwrotu w cztery lata. Branża PV szuka nowych modeli",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMzVuVnR1SHhqMWo0UkRXSklLeXktdk9aRWZYUkUtVmVRdTRaQjl1VXdBQmZjSk5yaGRXX0IwVXFzODZCZF9ueHR5ZENMVmtrcmVwWmZ2RUhmSmlWWUVpZGlJUENPVFFYSkEzWUhOa3VOcFp0MGIyR1liVmFYNkgySE9ZR25HT296UFN2RDZybDVrTkY1VkxjNnZDSkFCUFRJaXQ2QTBjOU9aUS1GVE5sdWJQby04aXVXemV2cUtxNVdndE1kZDJsZlJTbVFWcWx1dHpCZXQ3bkh3TUJQb1RCSjY2VE5NY1k2T3dLSDY0OHpLTzVrLU5GYXp3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -332,7 +419,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWEVfVlFJUk5LQ1ZTZ2htQkptSTBiWGFVeTdVd2x4WUNaX0R6bVZObzlJZE9ZbUtETUp5ekpGYVNaR1dtZVpwWW1wVllZWWdS?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWm1jSS1wWWhUNjJ4RVF0ZjBZYTdHMFp5RDhtcTM5TDd2NExSYnZ6MlBmMlZKa0EtR1lMRWlFMFN4b2NOY0NSNjJrN1BuY2VFU1ZpWGxZbUNuRVhyWlJlTQ?oc=5",
           "type": "press"
         }
       ],
@@ -561,11 +648,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "From 2021, Greenvolt has pursued projects in Poland and after completing construction on a combined 1.6 GWh, has sold the assets. The post Greenvolt sells off two 800 MWh Polish battery projects for $438 million appeared first on Energy Storage .",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "ESS News — source",
-          "url": "https://www.ess-news.com/2026/10/26/greenvolt-sells-off-two-800-mwh-polish-battery-projects-for-438-million/",
+          "label": "ESS News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQU9HYjl5UDJMbkNHNjhES01aZmhhd0V2QUdJLWdRTXhXcy1xaUFkcUhwMjAzcUFMQk5UQ21tVUZacll6X1Q1NUlPbWtvbHVqZmpOMjFrLTVZZjB5ZngtYlFRV3VqdmE1UV9vUkFYN3BzQVFKN0FaR3N2dUY1Y0Rpck80cm0tdE5sSy03M3BDVU0yakw4d0lZUmJtYWhpR1RJckplTVFJTU1vNDZE?oc=5",
           "type": "press"
         }
       ],
@@ -579,8 +666,8 @@
       "sourceIds": [
         "37"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dd225cb97fb9e55362",
@@ -884,7 +971,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WVFsZFl4ZUVRTkRyUmJnZGhIUjBZallXLWhBUnRJRHlNTU1KMnc1SjVhYllscmNVNTROLTRJc21ZbU9yeEI1ZU85SXNwV2xx?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
           "type": "press"
         }
       ],
@@ -2801,11 +2888,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "PGE rozpoczęło budowę magazynu energii Gryfino o mocy do 400 MW i pojemności co najmniej 800 MWh. Jego uruchomienie planowane jest na koniec 2028 roku - podała spółka w komunikacie prasowym.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/PGE-rozpoczelo-budowe-magazynu-energii-Gryfino-planuje-uruchomienie-pod-koniec-28-9218431.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnI3aWpIYzdOdmRVdzFSdHhrVUlYWXFNSWNkTjFKT3dVaWh6WXA0MEZjYTg0V0U2dXZHRzZEUklRSHJyMF9ndXhaaXdrNGFxVHhyZDBQSHJqTFM2VVh0XzJuTTQ5SGVrYWVXbjlhSDZpYm5sSU5Wa2NxVHpnOW5yVzJ3aEhETnF4N0Fpc1dHUVRwU1ZNdlVhM3FtdG5YQng0eXlxcFZJLTg4di1id0lBekFWQTVJaDQxdVJOQ1M0bjc1LWEyWVE?oc=5",
           "type": "press"
         }
       ],
@@ -2820,8 +2907,8 @@
         "27",
         "50"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0fbb953e52c46908ac",
