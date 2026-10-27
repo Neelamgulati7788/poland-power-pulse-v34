@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:17:01+00:00",
+  "updated": "2026-10-27T10:16:19+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ebdb391a4efc0c60f2",
+      "date": "2026-10-27",
+      "title": "OZE w naszym regionie rosną w siłę. Najtrudniejsze okazuje się odejście od węgla",
+      "title_pl": "OZE w naszym regionie rosną w siłę. Najtrudniejsze okazuje się odejście od węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0JtdVJZRWhNQXplQU96UDl2VEJyZ2dILUZrRkRveUlFUjJUQkhKTXBzNmlUdk8xaVE4SDNsSkw5aXc0cHVuT1hwUnNOVGQ4ZDV5OEpGSGgzMTlvWkFCaGM1dXZIUkQ1dEJPLXlMX0VwQWJRTEtQOXMxM1NJd3FPUEc4VFROc0cxZ3drMkdpeW9lSEJPclZhVQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d7978ba2e31b79497e",
@@ -84,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cec48597bc0db95dd0",
+      "date": "2026-10-27",
+      "title": "Bezpieczeństwo energetyczne. Jak stawić czoła wyzwaniom?",
+      "title_pl": "Bezpieczeństwo energetyczne. Jak stawić czoła wyzwaniom?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2UzT3VJeE8xWmJ2cXViRUVsMG9FZmFsbFR6bFZuRUs1NVRudjB1QWdzbEVZSG1CMl8zUGtCUG12ZU92R0VNZjV0RFhEQnpwWFdrdE9tMUEyUWE5c0JnTy0tWDFHaV9QSGRNYWZCWXlPdkV0Z3o0ZjQwYzhkNTF0YUpjY2N1WlhnZmMxbEdCMWJYb21QaVNuYl9ZMW1DcWdpb3NxR1oxcl81YTVi?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -171,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-abcd807886f83e89e0",
+      "date": "2026-10-27",
+      "title": "Strategia Morawieckiego na kryzys energetyczny",
+      "title_pl": "Strategia Morawieckiego na kryzys energetyczny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQekdXcXV6NmRjaTBJRUxaSFVnQWVJY0FWWDVMYlMwWjRoS2dOaEExVllkV0diaGRIX2hUN1o5QjBXRGNCNFpSS0VrWHQ4NHpheUdEcjJoVGJzejNGZ2RrNkc1eGI5dnJ4ZjZ5VFRYQldvQWVPemxMQzU1TGlPNFB4SVR0ZDlqTjZIZy1oZVltbjVXUk0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -313,6 +400,35 @@
       "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7fb1a9e87792342645",
+      "date": "2026-10-27",
+      "title": "Ceny gazu w Europie w dół z najwyższego poziomu od XII 2022",
+      "title_pl": "Ceny gazu w Europie w dół z najwyższego poziomu od XII 2022",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWlJZzJjSkNaaWZyLUx0Tkhna3pOblFtbnRsdmpoM1I3NkpxaHlZR2ZvQ2ZLZnZwQXh0aGJYX0FZS0l5T295dWVoc3RLcXhnTEZHMzJUNWRmVGFFdkZFVnRqRkpsSVJmVkl5UkRhOTR5NVg2dFpZX1h4UnZfN2s0RWtKWkVMM3ZOeEJsTVQtTFB2eDF2em9HZE5tLVdZdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "18"
@@ -611,6 +727,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4d20f559e7d7ef9dc2",
+      "date": "2026-10-27",
+      "title": "Senackie komisje za ustawą o wsparciu przedsiębiorstw energochłonnych bez poprawek",
+      "title_pl": "Senackie komisje za ustawą o wsparciu przedsiębiorstw energochłonnych bez poprawek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGRKcWIyX1BlMWcyUDZiM3VGN3RoQjd4UkgxN0NWMG1JM1ZDc2dfaVpfMDBhRjBveWVmbUdjRkRid2JidlIwMDc3WDdkeHNQVEFOb1IwaGxXYjJRbk1SaEhaWU4xNnl0U3RENmV5WHhUUHAzSEEyMnJ3VlRwQWY1REJBRm9jRVo1OVQ1N0xNNlM2MHJEMmZ6MXQxYmc0U2xwMEdTcy1JZFhDVFB0ZmtEd3J2aTdHcXh2S0o5R3pVQ0ZwUjlrVEdwNVJqRHNyZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3e80dd39f0fb334821",
       "date": "2026-10-27",
       "title": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
@@ -727,6 +872,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2f9b8547cd779415b2",
+      "date": "2026-10-27",
+      "title": "Budimex podpisał z PSE umowę na rozbudowę stacji Ełk Bis wraz z przebudową stacji 220/110 kV Ełk",
+      "title_pl": "Budimex podpisał z PSE umowę na rozbudowę stacji Ełk Bis wraz z przebudową stacji 220/110 kV Ełk",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDItQzVQWlVrcG9Sazk0dmpSUzl6ak5EVnpkc3BHRjNYY0xKdjB3amRTU05SOTlHTC1zeXJUZkZTWG1LcEh1emkwQTdvTWFQanpSS3ZIWEFBeUViVHlLSTVtcnN0YlJ0TDI4VGIwd3FUT1lzOWtOb1JQWVBsTGhudWVxTmIxMWFXT0thN052SmdydTNWTm5aeVU5VHpPcC02N2JuT3FfSVFuME9xWGh3X0hJNmhfZmlRZk55MQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2b975527358d482174",
       "date": "2026-10-27",
       "title": "Platforma zakupowa Grupy ORLEN",
@@ -751,6 +925,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-288e43e56ddeac3d87",
+      "date": "2026-10-27",
+      "title": "Energopartners Ogłoszenia sądowe",
+      "title_pl": "Energopartners Ogłoszenia sądowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pNHFpalAtc21Ub093cW9pT1FhZjJmVXNGQnhIeEVDWmpmdExiZmJkbXJ5RS1seDFWZ0UzNGlqNjRoMWNIX2k3S1pKVmgyYzZtTjBpSU4xX1o4Tm4yVnZMZmt0aTVrbHVIU2ZzdWUzMzNoRVk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -900,6 +1103,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0959f84133c44323af",
+      "date": "2026-10-27",
+      "title": "„Wykonanie instalacji pomp ciepła w budynku Centrum Turystycznego i budynku baszty (wieży zamkowej) na zamku w Muszynie”",
+      "title_pl": "„Wykonanie instalacji pomp ciepła w budynku Centrum Turystycznego i budynku baszty (wieży zamkowej) na zamku w Muszynie”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto i Gmina Uzdrowiskowa Muszyna",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3410-3523-a9c6-f0a0-c40001811ace",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ff149f69aa57b82c58",
@@ -1174,7 +1406,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWm1jSS1wWWhUNjJ4RVF0ZjBZYTdHMFp5RDhtcTM5TDd2NExSYnZ6MlBmMlZKa0EtR1lMRWlFMFN4b2NOY0NSNjJrN1BuY2VFU1ZpWGxZbUNuRVhyWlJlTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWEVfVlFJUk5LQ1ZTZ2htQkptSTBiWGFVeTdVd2x4WUNaX0R6bVZObzlJZE9ZbUtETUp5ekpGYVNaR1dtZVpwWW1wVllZWWdS?oc=5",
           "type": "press"
         }
       ],
