@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:18:28+00:00",
+  "updated": "2026-10-27T09:17:01+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d7978ba2e31b79497e",
+      "date": "2026-10-27",
+      "title": "Korekta po rekordach z 2022 roku. Ceny gazu w Europie spadają",
+      "title_pl": "Korekta po rekordach z 2022 roku. Ceny gazu w Europie spadają",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUFJeE4wQWpsTHdGQXlLTUhPeWZCdWpLN1RhOTFwbEcwMUJLWWRvcFJjOG03alpTWjJJQk1QUHQ4LWVzOUJxSzZwdElhODFUdTNNd0kxRnpBR0VnZ0FWd0ctWk5rX2J6eE9yN05aV0l2blJhSDNvdU5iOWZGS2h4eURDbFFIbkVsX2Q5SDY1ejJEbVBrYXFRcnZGZXJ4OGxENVpfREZBRlJYZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d1797774b11e4b981e",
@@ -176,6 +205,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8c5f6441e44516413d",
+      "date": "2026-10-27",
+      "title": "Wezwanie do zapisywania się na sprzedaż akcji REMAK-ENERGOMONTAŻ SA",
+      "title_pl": "Wezwanie do zapisywania się na sprzedaż akcji REMAK-ENERGOMONTAŻ SA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnFuZGtJdjNaMFhaci12bzZ6VFp3SVo3N1Q1VVJJSENQR0xCbU1hMzZIM01nRU1ldlhaM29VNTk1SlNxaE1jZVJEclUzSWRZRkpGcUhxMkduT1M3LVZ6RkxQRGlKck9lZlBFS2hMSWQ1VFM0WVEyRVZUVHdZd1hFU2x5RGVZbkJHWWxRTF9xWEhabDlNODVocDRpZ0pNZDhRRnRFY1k0d2EwUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b4e5e69cdfca80f39",
       "date": "2026-10-27",
       "title": "TechPas Instalacje Elektryczne i Systemy Zabezpieczeń Damian Pastusiński",
@@ -258,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7a57c73ec1f6f115a0",
+      "date": "2026-10-27",
+      "title": "KRZYSZTOF CIEPŁUCH, przedsiębiorca",
+      "title_pl": "KRZYSZTOF CIEPŁUCH, przedsiębiorca",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdExuZFZGci1mMEpwcEZrSkdrNWttSUtPdXZpYUhTRlRWcXQ3UF9WaEhvcUZVdnU1VlRqMmljaHQ2aVBoZ01WMk5HNHJCcFlucHR3cGh6SDhRTUEtMm5SWW1wOVFpNzVPUHIxOFpoNTZVZnRyckUwNkVDSEtIYlYwQkhmWnBEY3NIcTBLaDlPUU9hRzBWSWluVWw3cElNQkdicUVPcnRMZG1pRjE3a0dR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -437,6 +524,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-5994f800c8410c3408",
+      "date": "2026-10-27",
+      "title": "Boom na magazyny energii: od 18,5 GW w KSE po rachunek zysków i strat w przedsiębiorstwie",
+      "title_pl": "Boom na magazyny energii: od 18,5 GW w KSE po rachunek zysków i strat w przedsiębiorstwie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGxsZ0ctZ0JEU3E1R3htYkdhaFBid0NjanowS3lrUzdkM2Q1c0ZJLUZnMUVrZ1NOUWhqZGlBWGVGN2VOeTJSM1d1VlhvMDNzYk9IbHZlS2FmVEJvbnpIbC1FWjlaaXlIZkxjajd6bzZyTjJjb2N6QXc4Q0FVZzBsTW9IZXJWWUhMd29NanRjQ3E3Uk0tMlVqZVQ2NG5oZzlxdXVZZXJyV1ZCQmhVM2l2QjBsVWtXYU41aU9ZNUZiVGItSUh2Z1Y4WGZTRm5DN0c1X1l0cmpyQlRaRGhm?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5758e4ca0ebdde9956",
       "date": "2026-10-27",
       "title": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
@@ -524,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3863da0dcf380820f0",
+      "date": "2026-10-27",
+      "title": "Biznes przyszłości rodzi się w transformacji. Przed nami IV Kongres Energetyki Rozproszonej",
+      "title_pl": "Biznes przyszłości rodzi się w transformacji. Przed nami IV Kongres Energetyki Rozproszonej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0l1YlZmZmxWenFoT3pRM0tzSGV6ZTNxQ1ozSjRvSXVEbnN1ZVZzd2lUYzdoUkdFU0UwUldUR2sxejlMZHFvSXRCaEViRy1QbmFzcTVNSnUzdkFpdXhEbllEV19nTkgyX2play1KSW1ockV6ay1wR2RTUzZqNDB4R29sWkZWb1h1TFN1TEZCdFhZaG1GQS1lN0pwUVZkZ19JbUlfZDctR0dTeHdUT1ZBRTBrU1Rfb0t0LUF0dUtKR0tPZlhLYWhJdXV1Sko5RHAxVVdLUExIVUtSRVZ5ZWZnbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-35ef859430cea5a55e",
       "date": "2026-10-27",
       "title": "Polenergia jest w tej chwili jedyną polską firmą energetyczną z celami redukcji emisji zatwierdzonymi przez SBTi",
@@ -548,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-304f520d496bc422a2",
+      "date": "2026-10-27",
+      "title": "Ropa znów drożeje, gaz najwyżej od lat. Europa przygotowuje się do zimy",
+      "title_pl": "Ropa znów drożeje, gaz najwyżej od lat. Europa przygotowuje się do zimy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR19kM1ViQ3ZobzdvQ2xaX1NtTzNSZmdraGFCVHRsYXN0V1FWV2tnNXV6dTdOVjRuaWktbVFMcW5kUXVsOVFjZFdSUTd3MWwtbHJaNS1rTmh5NFJRTTBhQXRZVGN3VTNCVU1Qa0JDV2VVWHo3bDBiM1BodmI1czUzSVNhLVNQYXJySDdxSjk2bzVuWE1NLUF0OWQtS0hEb0IyR2tFUlNtWnUwQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -582,6 +756,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2180f606580e02a29a",
+      "date": "2026-10-27",
+      "title": "Dostawa energii elektrycznej dla Krakowskiej GrupyZakupowej Energii Elektrycznej",
+      "title_pl": "Dostawa energii elektrycznej dla Krakowskiej GrupyZakupowej Energii Elektrycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZESPÓŁ PLACÓWEK RESOCJALIZACYJNO-SOCJOTERAPEUTYCZNYCH W KRAKOWIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df340a-4e78-c102-f0a0-c40001811aa8",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1b0e17f02449e12f2e",
+      "date": "2026-10-27",
+      "title": "Projekty OZE mogą skorzystać z ulgi podatkowej. Ale nie wszystkie",
+      "title_pl": "Projekty OZE mogą skorzystać z ulgi podatkowej. Ale nie wszystkie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Na czym polega podatkowa korzyść Ustawa o CIT ogranicza wysokość nadwyżki kosztów finansowania dłużnego, którą podatnik może zaliczyć do kosztów uzyskania przychodów. Limit nie obejmuje jednak kosztów kredytów i pożyczek wykorzystanych do finansowania długoterminowego projektu infrastruktury publicznej, jeżeli spełnia on warunki ustawowe. Projekt musi dotyczyć…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122371-projekty-oze-moga-skorzystac-z-ulgi-podatkowej/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-184e8f3be84d5923dd",
       "date": "2026-10-27",
       "title": "Wezwanie do zapisywania się na sprzedaż akcj REMAK-ENERGOMONTAŻ SA",
@@ -607,6 +839,35 @@
       "sourceIds": [
         "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0f4662a83a7633a8cc",
+      "date": "2026-10-27",
+      "title": "Sprawdza się dramatyczna prognoza. Orlen zdecydował ws. cen paliw",
+      "title_pl": "Sprawdza się dramatyczna prognoza. Orlen zdecydował ws. cen paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS1hUkJocnl0TE1CN1BMYnVwQ0gyZHo4VmUtdnBzNmRhbzJwMkNTenpqR2ZPRWMzVmUxTF9HQ1FITXp4QkoyRTloUXZEYTNlQ1hKMm9fZzUtMkN4SDRHaGYyTERpR3V6ZUdTdDdFM0YyMTlMa284S0tpVUJWMFFNTjVfV2RnOENqS0NvQnZEeWtuVlczS3lKX0tkSjFIT2FDWm1vejhMdFNoRUJRQzFv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -913,7 +1174,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWEVfVlFJUk5LQ1ZTZ2htQkptSTBiWGFVeTdVd2x4WUNaX0R6bVZObzlJZE9ZbUtETUp5ekpGYVNaR1dtZVpwWW1wVllZWWdS?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWm1jSS1wWWhUNjJ4RVF0ZjBZYTdHMFp5RDhtcTM5TDd2NExSYnZ6MlBmMlZKa0EtR1lMRWlFMFN4b2NOY0NSNjJrN1BuY2VFU1ZpWGxZbUNuRVhyWlJlTQ?oc=5",
           "type": "press"
         }
       ],
@@ -1164,6 +1425,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e1f1029851e8accb81",
+      "date": "2026-10-26",
+      "title": "Hiszpanie chcą pozbyć się farm wiatrowych w Polsce. Transakcja może sięgnąć 400 mln euro",
+      "title_pl": "Hiszpanie chcą pozbyć się farm wiatrowych w Polsce. Transakcja może sięgnąć 400 mln euro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORy1DSXpEbjQ5MC1NTGFzcGpFb3ZoUlJCa21JZld2SkJDSUxyVUNlZnh1N3NtNTU2c1lEZlJLc0hDdDVoc0Q2X1hNbURTcWt6Skt4VGJFLVZ2aHFQMEwyZ0pGV3RlaGNrYkNfTzU4OXg4SzIwMnJ4T1E2VFBFRXptX2VIY1YtNk9yUXZGTkpTdzMyNUNsa1VGZl9jODM5UTEzT0pDTzlxcDJyTXJVX0tqWGdaNEVTY0REeEUyempSQzdFYUNkWHBpQzEyUlBJZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-dd225cb97fb9e55362",
       "date": "2026-10-26",
       "title": "Spalarnia w Koninie sprzedaje prąd miejskim spółkom. MZGOK rusza z obrotem energią",
@@ -1224,8 +1514,8 @@
     {
       "id": "src-da26677f143e44a9c7",
       "date": "2026-10-26",
-      "title": "Na Północy Polski rusza kolejna inwestycja energetyczna",
-      "title_pl": "Na Północy Polski rusza kolejna inwestycja energetyczna",
+      "title": "Na północy Polski rusza kolejna inwestycja energetyczna",
+      "title_pl": "Na północy Polski rusza kolejna inwestycja energetyczna",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
