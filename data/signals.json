@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:34:52+00:00",
+  "updated": "2026-10-27T03:12:30+00:00",
   "signals": [
     {
       "id": "src-c2997e17e556124c86",
@@ -561,11 +561,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "From 2021, Greenvolt has pursued projects in Poland and after completing construction on a combined 1.6 GWh, has sold the assets. The post Greenvolt sells off two 800 MWh Polish battery projects for $438 million appeared first on Energy Storage .",
       "links": [
         {
-          "label": "ESS News — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQU9HYjl5UDJMbkNHNjhES01aZmhhd0V2QUdJLWdRTXhXcy1xaUFkcUhwMjAzcUFMQk5UQ21tVUZacll6X1Q1NUlPbWtvbHVqZmpOMjFrLTVZZjB5ZngtYlFRV3VqdmE1UV9vUkFYN3BzQVFKN0FaR3N2dUY1Y0Rpck80cm0tdE5sSy03M3BDVU0yakw4d0lZUmJtYWhpR1RJckplTVFJTU1vNDZE?oc=5",
+          "label": "ESS News — source",
+          "url": "https://www.ess-news.com/2026/10/26/greenvolt-sells-off-two-800-mwh-polish-battery-projects-for-438-million/",
           "type": "press"
         }
       ],
@@ -579,8 +579,8 @@
       "sourceIds": [
         "37"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-dd225cb97fb9e55362",
@@ -2801,11 +2801,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "PGE rozpoczęło budowę magazynu energii Gryfino o mocy do 400 MW i pojemności co najmniej 800 MWh. Jego uruchomienie planowane jest na koniec 2028 roku - podała spółka w komunikacie prasowym.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnI3aWpIYzdOdmRVdzFSdHhrVUlYWXFNSWNkTjFKT3dVaWh6WXA0MEZjYTg0V0U2dXZHRzZEUklRSHJyMF9ndXhaaXdrNGFxVHhyZDBQSHJqTFM2VVh0XzJuTTQ5SGVrYWVXbjlhSDZpYm5sSU5Wa2NxVHpnOW5yVzJ3aEhETnF4N0Fpc1dHUVRwU1ZNdlVhM3FtdG5YQng0eXlxcFZJLTg4di1id0lBekFWQTVJaDQxdVJOQ1M0bjc1LWEyWVE?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/PGE-rozpoczelo-budowe-magazynu-energii-Gryfino-planuje-uruchomienie-pod-koniec-28-9218431.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -2820,8 +2820,8 @@
         "27",
         "50"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0fbb953e52c46908ac",
