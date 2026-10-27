@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T07:26:11+00:00",
+  "updated": "2026-10-27T08:18:28+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -258,6 +258,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-777d851848a147e2e4",
+      "date": "2026-10-27",
+      "title": "Fotowoltaika pozwoliła zaoszczędzić na imporcie gazu. Jak dużo?",
+      "title_pl": "Fotowoltaika pozwoliła zaoszczędzić na imporcie gazu. Jak dużo?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnNIQU5yR3JmcmphczJhbmJXMk0wNDhBQU0wZG1aUzU1R1FtLUlvYllrR0xTLUZLemlLaDNqQnkzVGFDQzhsc254OE0xZEVIN2JvMFljbGlYdjNHaTVHX3NEVXlHMTFWYkRMWWpaaGktY3BxSHZvai1PeTVzelZNTmN6Y3o5MnQ2TkgzSDdfVUFsS1pLSUVTanJnbm5CVWhMQVZaT0M2UmFVSHM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -535,7 +564,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcVZmQkQtS1RFOTExUkxiSXBTQzhiT1RKSjRrdlhmSGp4SHpjdkc0cm54R2g2cWx5VG9IcXA5WWpVMV9nMVRwUVVJZElPdU9VM3JPQzlRYmFZajNuV0Q5aTcwaWoyZWdpWlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQk9QWnpyaDk1ajMzTTh1T1pQZlJ6SmkwVzBOR2w2bXp0ajBMMFlLQVZRNjl3V3dvQUllVjhXcV8tLWZWMDhvS05FVFVNZldObVdsQW9EZ05nWmRDMjBCblBUT01mM3ZwQVE?oc=5",
           "type": "official"
         }
       ],
@@ -576,7 +605,37 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
-        "25"
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0d657dec561103830b",
+      "date": "2026-10-27",
+      "title": "Usługi elastyczności dla OSD, od wytwórcy, odbiorcy, BESS czy agregatora – jak zarabiać - szkolenie",
+      "title_pl": "Usługi elastyczności dla OSD, od wytwórcy, odbiorcy, BESS czy agregatora – jak zarabiać - szkolenie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0tFYXZ4M3pQQlF2S3BWV1NQOFl3NVBXVHZ4SXVOSFdMZkpwX2NXSUpQNENncm5QSmtPLVBIdG5pT3JKbGQ2dGd4ZGc0aUoyeFZjUGxWY2NIYjNTMFVpOWhEaXBpTnBEX0ZubHpQUVhwSGc3aUVqeFllNHJvUmNjQVZCNUllSl80a2hoUGUtd2M0b2VGdFU4Tk1Pb3Z0bzd5ZzMyWWx0YWoxdmRZcWVLelBUUXNQMjVYVml2dUJvRGxGZmFtcGpCZWNNa1p3RnZDZFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
