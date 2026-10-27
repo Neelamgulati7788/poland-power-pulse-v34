@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:23:27+00:00",
+  "updated": "2026-10-27T17:22:16+00:00",
   "signals": [
     {
       "id": "src-ff48d41c580ae2fc78",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e909e5bc6d8b6315c8",
+      "date": "2026-10-27",
+      "title": "Wykonanie robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podstawowych SPSK zlokalizowanych na terenie Gminy Gniew – PSP w Tymawie oraz PSP w Gogolewie",
+      "title_pl": "Wykonanie robót bud. w ramach realizacji projektu pn. Poprawa efektywności energetycznej publicznych szkół podstawowych SPSK zlokalizowanych na terenie Gminy Gniew – PSP w Tymawie oraz PSP w Gogolewie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "STOWARZYSZENIE PRZYJACIÓŁ SZKÓŁ KATOLICKICH",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df344e-2bec-81ec-f0a0-c4000171d900",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-e2691854673bb6f1e0",
@@ -246,7 +275,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUxIUFJwQXA5UEdKel80MFFRMDY2X1I4YXJ6d0hmOWNib3Z2emhBRmNFNTJfYTNVYXE1OXk2RUU4Z3owYjBjRk5pQ09CLVFQNlJHaldLdlUwRTZfWlVqeEFtYWc0bmtzdlJzekE2dHNPRVgxYzVyRHp1QXRnMGdYdlZKNjVMalVp?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3V5SVFPM1pvLVhrUkJmbnNOUk1hUnp1LVBhUU5reGlGVXNSODl0S2lRMWJhSXN1RzdCc2c2S0oxcGJJeGp6M1dKVmtOUTJCX29FeGo5M2NtNzBpV0lfbGp5RmJiX2FjZEU3N0ZLbHhVSTBpbFZia2Y4Ni1mNmpmeDljUHVIdm1D?oc=5",
           "type": "press"
         }
       ],
@@ -962,6 +991,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-92674c3fccc523ce1c",
+      "date": "2026-10-27",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWp6c1FXY0tPeXFuM01CR3owM1hxOFdFUUJwd0tkVzR5YWczNVJpVFhYd2N3WU9nS3FYVHJLZU9uVnJNRXQxLXozcnFVQ19zTi1mT052cjMzNWRVTnhUOURsZTVjV2tmZjBLVkMybTNMTE12NUxWcVJadlhXTGZGNWloTGZ3OG5F?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9119b320b53359e47d",
       "date": "2026-10-27",
       "title": "Ustawa o wsparciu przedsiębiorstw energochłonnych do poprawki. Senat skierował ją do komisji",
@@ -1269,6 +1327,35 @@
       ],
       "cos": [
         "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7cc4f1cb11bbe9b721",
+      "date": "2026-10-27",
+      "title": "Krok w stronę energii z Bałtyku. Zaawansowane prace na farmach Polenergii i Equinor",
+      "title_pl": "Krok w stronę energii z Bałtyku. Zaawansowane prace na farmach Polenergii i Equinor",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFdOWHY0UVJYY3VGVEJNLXhFSUF1WmJJV3RoZzdQRFl4d1V4eC05azN5ZHhhWVZadnljNGNSNVQwT0R0cThFMTkxUEVESEFwcTlwdGdIT09iZ05ITTRoZ0ZwQzNTVlNlNFhMQjRYclNNTGh3OGxVb3RYVzFlUllmSW44QmhpeXU3bEp1UzMtTjJUTEwxSmgxTk56M29pdTBDNWRXT2QtbFBuLUZ0Y3dwVnJsZzBSdWpLWXkzTUFfcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "EQUINOR"
       ],
       "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
@@ -1774,6 +1861,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-58364edbf30e017b6f",
+      "date": "2026-10-27",
+      "title": "Dostawa energii elektrycznej wraz z dystrybucją dla budynku Podkarpackiego Centrum Innowacji przy ul. Lenartowicza 6 w Rzeszowie",
+      "title_pl": "Dostawa energii elektrycznej wraz z dystrybucją dla budynku Podkarpackiego Centrum Innowacji przy ul. Lenartowicza 6 w Rzeszowie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Podkarpackie Centrum Innowacji Sp. z o. o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df344e-a148-011a-f0a0-c4000171d906",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5758e4ca0ebdde9956",
       "date": "2026-10-27",
       "title": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
@@ -2071,11 +2187,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "The project will use 94 10 MWh Smartstack units from Fluence The post PGE hosts groundbreaking for 400 MW project in Poland, Fluence supplying Smartstack BESS appeared first on Energy Storage .",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "ESS News — source",
-          "url": "https://www.ess-news.com/2026/10/27/pge-hosts-groundbreaking-for-400-mw-project-in-poland-fluence-supplying-smartstack-bess/",
+          "label": "ESS News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTzJ4a2FUMDI3NVNKUlFZNnNqM2tMMEMxQnl4eXE4UUx1YjhsMjZMSFFsemNMczNnT3pXekhpRVp0dkhncHIyUHVhT2duUEMtUU1oWE1DV2tLbXJuU2p3ajJoUkpsaExQa0dpaWFHcnZSaG1GZzlHTDVWV2xCVGZySmdXS3hVMWxjcktSWkhkNkNkWjZMU1F5U1ZUZGNHeTc3Q2dudnZFeXF6OWVleml3RFVPT1hRbXpXem5icG5EWm45UQ?oc=5",
           "type": "press"
         }
       ],
@@ -2089,8 +2205,8 @@
       "sourceIds": [
         "37"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-304f520d496bc422a2",
@@ -2454,6 +2570,35 @@
         {
           "label": "Bankier.pl — source",
           "url": "https://www.bankier.pl/wiadomosc/Ruszyla-pierwsza-jawna-rozprawa-w-procesie-Karola-Nawrockiego-przeciwko-wydawcy-Onetu-9218811.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-0f78b95e98864b73c8",
+      "date": "2026-10-27",
+      "title": "Polska ostrożna z rezerwami paliw. ME negocjuje swój plan działania",
+      "title_pl": "Polska ostrożna z rezerwami paliw. ME negocjuje swój plan działania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polska chce do końca listopada przygotować własny harmonogram uwolnienia rezerw ropy i paliw, który będzie efektem koordynacji z innymi państwami - poinformował minister energii Miłosz Motyka.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-ostrozna-z-rezerwami-paliw-ME-negocjuje-swoj-plan-dzialania-9219164.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
