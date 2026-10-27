@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-27T05:10:30+00:00",
+  "updated": "2026-10-27T06:09:43+00:00",
   "signals": [
+    {
+      "id": "src-fe3d8d685491a4d04f",
+      "date": "2026-10-27",
+      "title": "dostawa Paliwa Gazowego z rynku SPOT w formie transz kwartalnych lub wg RDN dla punktów poboru należących do w okresie od dnia 01 stycznia 2027 r. do dnia 31 grudnia 2027 r.",
+      "title_pl": "dostawa Paliwa Gazowego z rynku SPOT w formie transz kwartalnych lub wg RDN dla punktów poboru należących do w okresie od dnia 01 stycznia 2027 r. do dnia 31 grudnia 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "\"Zakład Gospodarki Komunalnej w Szamotułach\" Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df33f0-b472-9677-86fd-030001b57d3b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-c2997e17e556124c86",
       "date": "2026-10-27",
@@ -147,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5ec3e761f896a7fad4",
+      "date": "2026-10-27",
+      "title": "8-godzinny giga magazyn energii otrzymał zielone światło",
+      "title_pl": "8-godzinny giga magazyn energii otrzymał zielone światło",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObG02eHpmaWhBcTlYNDNHek9qTFl3UFVRTXhxWHkxSzB3X3U1WWl5QnpYWEdsa042emU2ZUJvTE9teG4wSGJnWW9CRExWeDlaem1ma01xQTAyTnA0b0RCaEpGM3dNMGhNNnNWZTBTTDBRRlhZNlJGd2hYRVRFNkZXS0xxbHVRdjJ4MDdMeU1USUxWcXBaS1hTNkh6OG9sb0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5758e4ca0ebdde9956",
       "date": "2026-10-27",
       "title": "PGE rozpoczęła budowę dużego bateryjnego magazynu energii",
@@ -171,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-51eef189a887123fd0",
+      "date": "2026-10-27",
+      "title": "polska elektrownia jądrowa - artykuły",
+      "title_pl": "polska elektrownia jądrowa - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVHhmOFBJeWdsVDNWSEh0VmNZLTFXMTlydmJ2dnNSUlFaUUlwVHRRNnhhQXpDUlpMOTB0cnR6TTNodHgydU10cld2N3hPZGNsXzQzX0o3YnJzU0Q3LWRPLVdsNmlIZHlVTDFNbjFUZGN3Smll?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -448,7 +535,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWm1jSS1wWWhUNjJ4RVF0ZjBZYTdHMFp5RDhtcTM5TDd2NExSYnZ6MlBmMlZKa0EtR1lMRWlFMFN4b2NOY0NSNjJrN1BuY2VFU1ZpWGxZbUNuRVhyWlJlTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWEVfVlFJUk5LQ1ZTZ2htQkptSTBiWGFVeTdVd2x4WUNaX0R6bVZObzlJZE9ZbUtETUp5ekpGYVNaR1dtZVpwWW1wVllZWWdS?oc=5",
           "type": "press"
         }
       ],
@@ -1000,7 +1087,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WVFsZFl4ZUVRTkRyUmJnZGhIUjBZallXLWhBUnRJRHlNTU1KMnc1SjVhYllscmNVNTROLTRJc21ZbU9yeEI1ZU85SXNwV2xx?oc=5",
           "type": "press"
         }
       ],
