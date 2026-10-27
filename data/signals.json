@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:14:12+00:00",
+  "updated": "2026-10-27T12:11:55+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -205,6 +205,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c2f34385daf89a5552",
+      "date": "2026-10-27",
+      "title": "Mapa GPW: Millennium, Alior, Murapol, Elektrotim i Virtus w centrum uwagi",
+      "title_pl": "Mapa GPW: Millennium, Alior, Murapol, Elektrotim i Virtus w centrum uwagi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmg3TVFDQkZMbWpaNzRlY2xySXBoczlCX0NZOUNMeFpCbXh1UXd6NDNyWlZCZEhCUXVxaVlBdHQ3aUxXR2hTQi1KRHQySkd4MUFOUlVCUmJaSmNySjdNaDA1SzBvSDlWOFl1U2N2ZkNzcF9RTHRIZUxmZm9FaXBwdXVsS3RhVE1lTUlTc2dhbUFrcXZOdHJpSW5rNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c2997e17e556124c86",
       "date": "2026-10-27",
       "title": "E-STAR ALTERNATIV ENERGIASZOLGALTATO NYRT.: EXTRAORDINARY ANNOUNCEMENT",
@@ -270,11 +299,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Orlen w pierwszym kwartale 2027 roku otworzy biuro handlowe w Singapurze, a w ciągu kilkunastu dni spółka spodziewa się pierwszej po przerwie dostawy LNG z Kataru - zapowiedział we wtorek wiceprezes Robert Soszyński.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Orlen-otworzy-biuro-w-Singapurze-Jest-tez-zapowiedz-wznowienia-dostaw-LNG-9218874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVl9TcE5sLXdVY3diT1cyTEFBd2VXcVZ6MDB6UGp5Z2QwbVJIV2UybFZIRDFBTE51czdsODh4aVcwVlluTGQ4XzdydUt4b2c5UUZVNW5kSW1KVnFRT3BQNDRXUmVmcVhqQ09IcXBoNE9CZUhtSUF6Sm1mMmxPZ2ZFVWhyOTZrVmV3ZVU4Yi0yWFQxLWZocFgyM0pmbzlfbGFvZGxMdlRieUVsNjg0RFFVNml2R25tbFZJLUFr?oc=5",
           "type": "press"
         }
       ],
@@ -288,8 +317,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b414f8f8df1efe6a47",
@@ -507,7 +536,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeG5VdE91UExiUHNCNnpaWjFXWjlqVTdXSE8tLUd6WlR1a25VaUZIMzdmQ0JwTHhENlJ2SWJuVGJFS1ZtV3RwWWp0ODdESlVHVFh5UjE5VThuZENsaElIc2szNEFzcUIyREd1QzhLNDlzWWRPT3ZOSWhYX1pVUEJ3WWkxMC02ajF2bXVfYnlGZWVBUFRHNTlpaWkzREhMakJUNmVDT0dSUzlZNFg4ZXJUZmtBdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkZuNC0tazVhWGlRRk4wQmllRlc4a0hhcmQ1a0RhejJTd0VHek4xdEJEZGtseXp4R0tnTUNJOFBHbDBOWGpPbzlHRl9ldE5WajhUSTBTTHdUTVJ3UmdrMkxiNHhEV3RxeE9MOTlNT0R4VUtZNlZrYkFSSzI4ZjJvVEdGUjhqN2NzaHl6V09fV1lvOEtpOE5nLUVNdkhaRXpRYnJBMjZ2XzljQQ?oc=5",
           "type": "press"
         }
       ],
@@ -515,11 +544,40 @@
         "ORLEN"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-85270ee925bec5350a",
+      "date": "2026-10-27",
+      "title": "Orlen LNG Trading otworzy biuro handlowe w Singapurze",
+      "title_pl": "Orlen LNG Trading otworzy biuro handlowe w Singapurze",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0VNMkxWTFVILTJFejBOUlZTWm4zOUQzQTl2RUo5dElvWlc5MDdZUkh3RGZwQ0tQTkRoSlhzcC1IenlfeXkwRkhPVzB6MnAwZllSSkxmT2hGTGFGZ2x6M0ZlM1phbTNGRjhUVUdDV3FtbXhBX2F0eWwyaVVzYmMtNHJOby1UWXU3T0lnN2FTN1k1VE91ajJWMFdXOHA3dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -740,6 +798,64 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5R2FqTXlXM1RwMFV5bXhtRjBYNk5XTTJtQkVyMGEydkpfNlQtTUNBbTJFcWc4aEtlNFg4U1lkdEZDRnpaU0V4UUpCdWctQzFabXRxNTFKbE1tNkxXYnpfRjVDSjkyUHBtTHdxOUY1a3BLc1FCdzY3ZjdvMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6c21c163b8292c6f80",
+      "date": "2026-10-27",
+      "title": "Powstaje Magazyn Energii Gryfino. Wczoraj „wbito łopaty”",
+      "title_pl": "Powstaje Magazyn Energii Gryfino. Wczoraj „wbito łopaty”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3pOUGY4aTlhZjgxSHJ5cUpKMkF2Y2xBZGF4WXhGc29tbGtXR0d5cThKaHBjSEFUdVk0S1FCVVNTXy1NWnJhSnNlWHowTVVMMVphVzdxN2JtZnVCSE5KNlA2WlFXdFNIZTJaOUNON3hEWVBTeDBMc2FEeDNibUxCcE81SUJqSDlYSXRRNmtpMTlTeVRqajEyZlZfTVFwenc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b7281691e811bf797",
+      "date": "2026-10-27",
+      "title": "Minister Energii: w środę litr benzyny 95 ma kosztować nie więcej niż 6,55 zł, benzyny 98 – 7,24 zł, a diesla - 8,28 zł. (PAP)",
+      "title_pl": "Minister Energii: w środę litr benzyny 95 ma kosztować nie więcej niż 6,55 zł, benzyny 98 – 7,24 zł, a diesla - 8,28 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOd19tVmdBLS1jWmQwdWZRRXNRV2pNeGRKYUZJbzJ1WEFxVHVtN2pjTVpOMXdEVlAwZzRsTjBjRC1BM1lxOHN1bkFtT1BBdWlrZzJGY2U2ZE5WNW13Q25xY0d3VjFFRWJiRURKNkM4bzZYblhWQXN4T3FZeHZXRFdka3Q3OXNJX3FzaDRjNjVyczJOLVQxSUZRcWg4UlhCeVExRzBIVVJXUWZKVmo3QzR5RzRrSDU5U1FxbVJCZi1DRDVkVm1ZZFlJd3pTSi15SWtEWkZPM1kzTlJ5YXRXdjZ6RzZOd1p6bF9ha0E?oc=5",
           "type": "press"
         }
       ],
@@ -989,6 +1105,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3c465f31e2d2a9bdcd",
+      "date": "2026-10-27",
+      "title": "ORLEN wzmacnia obecność na globalnym rynku LNG. Spółka otwiera biuro handlu w Singapurze",
+      "title_pl": "ORLEN wzmacnia obecność na globalnym rynku LNG. Spółka otwiera biuro handlu w Singapurze",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQXzZjRHJ1SXZ6R1ZuQkVlaXNjQ25Eckx0SzJxa2Q1cGt6SnpMZzhUTEhXRHhhdU1QbWxidThtZGJ6TEE5RElWVWF5dnoya0xCY0VkdEpVRUxBdlVmTEZkX21vZXN2ckpnZ3Fza0M3Z0t5SzRhU0ZmOVRfdFF5VWJoSG0xMEhfUE8wV1BuazhVZEZ5YXpzUGMwTE1PMkJ2SnNLb1FHYXgzNXdTYmNFaWRYMGNXcG42M0FUQ3JUMXpsd0RLTWlHeGcyZ2ZMMGxxWmRrUXJqakFmai1zVF8yYkxEYks2dTBNUHZ3Smg0NFZwb3R3eEEwOTRSSXJoZG1majdUT0lIdmhB?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-39d227a972bd68395c",
+      "date": "2026-10-27",
+      "title": "Ceny paliw na środę ogłoszone. Benzyna potanieje, diesel w górę",
+      "title_pl": "Ceny paliw na środę ogłoszone. Benzyna potanieje, diesel w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W środę litr benzyny 95 ma kosztować nie więcej niż 6,55 zł, benzyny 98 – 7,24 zł, a diesla - 8,28 zł – wynika z opublikowanego we wtorek obwieszczenia Ministra Energii. Oznacza to, że benzyna będzie tańsza niż we wtorek, ale olej napędowy podrożeje.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-srode-ogloszone-Benzyna-potanieje-diesel-w-gore-9218917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-3863da0dcf380820f0",
       "date": "2026-10-27",
       "title": "Biznes przyszłości rodzi się w transformacji. Przed nami IV Kongres Energetyki Rozproszonej",
@@ -1158,6 +1332,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-26333e039008c7dcaa",
+      "date": "2026-10-27",
+      "title": "Chiny odcinają Japonię od kluczowego pierwiastka. Półprzewodniki i elektronika na celowniku",
+      "title_pl": "Chiny odcinają Japonię od kluczowego pierwiastka. Półprzewodniki i elektronika na celowniku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmpBVWpEaGhRQ0lqVkRuNFFvNHJLd0UtWTVhLXQxTWdwXzlYVFVFc2dFa2RVNmxLVV9kV0pZLTdTUlRkeThzeXRqcVFHR29sRkxhSkFBcFR6b0p4dnZINktjYTRDMERCYVI2YzRZbWFrT1pGYjBOMkVMVkk5cHNwdVVNM2FlZDdxZ2JKOXU2YjlWRVRiVUdEVzdNLUNMSXJXMFJpU0ZfQmpGVmNSVGNGSHZmQ3VxX1VMQU5aejRtMkw5ZVpNU0ZwdzhOUUVUdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2191,7 +2394,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ody01UmhqRjNJWW1GOGpNejFZdGk1djY2T0RTOXpLTi1tLVZwcjBRUzNmb2NZTTNFS3FRTEV1aDJYWDhnZGY1VWtCekQ2Y2FM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WVFsZFl4ZUVRTkRyUmJnZGhIUjBZallXLWhBUnRJRHlNTU1KMnc1SjVhYllscmNVNTROLTRJc21ZbU9yeEI1ZU85SXNwV2xx?oc=5",
           "type": "press"
         }
       ],
