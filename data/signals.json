@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:11:02+00:00",
+  "updated": "2026-10-27T23:08:35+00:00",
   "signals": [
     {
       "id": "src-ff48d41c580ae2fc78",
@@ -362,7 +362,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
           "type": "press"
         }
       ],
@@ -694,6 +694,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bb01210c5ce855640d",
+      "date": "2026-10-27",
+      "title": "Budowa magazynu energii PGE Dystrybucja z dofinansowaniem",
+      "title_pl": "Budowa magazynu energii PGE Dystrybucja z dofinansowaniem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PGE Dystrybucja — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXVRRF9aUFJzdTFlbVhXZW42SjRJSkFFcjBFWVNYdUY4T0Q1X3FLMlN1TF9US3dCSVp3amtDa2dYTHp0ZUJOcVdMZ19DRDlveUNyeGZYWi11OW9CSmdVdXo4blRsZ0psUnJZNlNQeGZxY2J1c3lJdzE5amlIQlA0ckVicXBvNU5sanJpQ0RlZlRUcXZ5RDJ6Z3E3S1RuYmpSQlZObm9WWQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PGE Dystrybucja",
+      "publisherUrl": "https://pgedystrybucja.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "16"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2726,6 +2755,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2b2be3be84abd4d877",
+      "date": "2026-10-27",
+      "title": "Gorzowska elektrociepłownia przygotowana na zimę",
+      "title_pl": "Gorzowska elektrociepłownia przygotowana na zimę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3p3R01HaktiNDdHTXRxeXdIcng1cDVzX1pYbmpCdUlqRTQzMVJkdnBtMGpPY29oOFlsaS04ckF3TnRmUnpmT1V0R2pHVFpCWUhiZXFHVGs1U3pjY2FuSzEtNEtzR1U3TEJhTFE0d2ZfNFYxUWZtNGhrcVZrWjdLcmtHdlBfWGJmRDhjbnB2cG54el95c0wzTXRRcTBLTW81QTAwVDhXeVFnTVRBTWtBcXZxb3Q?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
