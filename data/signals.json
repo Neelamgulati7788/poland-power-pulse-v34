@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T20:14:04+00:00",
+  "updated": "2026-10-27T21:11:29+00:00",
   "signals": [
     {
       "id": "src-ff48d41c580ae2fc78",
@@ -58,6 +58,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f66d7444b9bee261d6",
+      "date": "2026-10-27",
+      "title": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "title_pl": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXUFNZUFhEcGI3ZEFKaXZNN2tISkNzT1gwZklYb1luV0RaU3A5bWRfYWItUkFiRnlCSlJIMm9qc3V4WFhSMElzUnhiV290cTY0LXZnT3BqeXBfY3U0NkEtSF81OWJKNlU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ebdb391a4efc0c60f2",
@@ -333,7 +362,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
           "type": "press"
         }
       ],
@@ -375,6 +404,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d12e9f0c39dd63fbf2",
+      "date": "2026-10-27",
+      "title": "Senat bez poprawek do ustawy podnoszącej VAT m.in. na energetyki z sokiem",
+      "title_pl": "Senat bez poprawek do ustawy podnoszącej VAT m.in. na energetyki z sokiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaU9OcnJFU0RwaUJTdWswS1lUdV85Umc1dy1BOHd1a0NPY3c1SHdPNW1sWk5WemNJaTlHYURSTW84Tmp3VDNBeFF1OERXZko0QWtoTWdoMm1vZ3F3cWZWVkNucFRySld3bDRESll6bTFhbF9KRGZVbTNxNGZNbW1kZW1LWURNdkZOQnFTTWtVZUZTbUFPby05YUU3WHg3TmtRcHZkT0hyUlE4VFJlQXpN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -782,6 +840,35 @@
       "sourceIds": [
         "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b3a7ff21c7c4f15200",
+      "date": "2026-10-27",
+      "title": "Polski biometan zyskuje nowy impuls. Enea i Krajowa Grupa Spożywcza ze strategiczną współpracą",
+      "title_pl": "Polski biometan zyskuje nowy impuls. Enea i Krajowa Grupa Spożywcza ze strategiczną współpracą",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkxMaFMtVU5QZDZuZXc4MlpoaHZNemRjbnFrUjlOSURLejAxUEdmTkU0MDJNN1VTclFYQkVNNUlrbFhWTEdQVDgzU1o2VTREX3lfajhHYndIdG02VGgwLS1qXzdxUjVYWnhWWThBeGRLclJlZHlVY05ZS1Jha05MdzhKLWstb3lyeGtLOGFnZ09Ia0ZoVGRVZS1vS0dMeTZtVlNrWTRXSjZsNThUaTg0WDVvcTkxa0dtM2NoZ0Y3OXQ3MkE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2758,6 +2845,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-207791166fc073a504",
+      "date": "2026-10-27",
+      "title": "Moduły Ja Solar 630",
+      "title_pl": "Moduły Ja Solar 630",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ROFo0Rk1neEFFdmZNVldCTGhVQWJpdmF5S3M5MEs3aFdiWm5xU1RKSlFHWE42aTByU0ZhTXlEV3VUZExtSllxUS1kU0g5V2tVdnNpbWRIVWJXeElGOFZxcUY5U1VYTU0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1b0e17f02449e12f2e",
@@ -5667,6 +5783,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-2e3c74ed78aa01d809",
+      "date": "2026-10-26",
+      "title": "BESS dwukierunkowy o mocy 3,2 MW",
+      "title_pl": "BESS dwukierunkowy o mocy 3,2 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHhqX0REc0diWXdhNWVhM0JoMl9vLW5DaTRUaDdvM1ZsUEZyWUR2TDZEODhuLTF4R1lGWW1VRWRXb251ZnlRSk9jbFVLNFlXeDNyelAwM1NnRWFuaW8wS0JCWjBYMERDOE51M3JpQmo4bEF6c0JhamZuaElHOXJVaTNaaC16S19jUWtDdEdleWV5QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2a013bc767c10e7ced",
