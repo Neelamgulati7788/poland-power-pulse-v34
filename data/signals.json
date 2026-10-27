@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-27T12:11:55+00:00",
+  "updated": "2026-10-27T13:29:00+00:00",
   "signals": [
+    {
+      "id": "src-ff48d41c580ae2fc78",
+      "date": "2026-10-27",
+      "title": "Poland seeks European Commission approval for coal sector state support",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RnBvQ2NpdFF3Z0FPSDZaRjNqVmMzNEpSY3hzQTNreFhsUFlWcU15a1FYdm5VWU1JaTUzM29IbGRjclFCSDRDX0N3dWM3NjFMeUl3UTlfY0w5QjJWQ1psakpLYjNvaUZ0dTJsekxwVXg5dWJM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fe3d8d685491a4d04f",
       "date": "2026-10-27",
@@ -83,7 +112,8 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
-        "18"
+        "18",
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -292,6 +322,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bd2295dab8ce6b26c5",
+      "date": "2026-10-27",
+      "title": "Energia w czasach niepewności. Bezpieczeństwo, przemysł i koszty transformacji",
+      "title_pl": "Energia w czasach niepewności. Bezpieczeństwo, przemysł i koszty transformacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWVGTkdjZGp2U3Vtajg5UkpPUDNzTTFnWkdORDNyZUN2WFBkaUZDb3NsdXlUUUZHRW5CUkc3RWVZYzVqcHRuREVPMWtERzk2WkRUMG5nV0RxM3Bmcl9lS3Y2T25aX3lpR0pwVG9vZkotMU12WE5pbFZNdXFiR080T3pnRGdnOXEwMEVobF9lYlBDcmxybnQ3U0MtaG96czJiZ3I2SFBxWEFGcjNiNkNPbGFqSUJILW1FR3p5QWVUMldoVzBibkJEQ3JQdGRLUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b851ff86806e4efef8",
       "date": "2026-10-27",
       "title": "Orlen otworzy biuro w Singapurze. Jest też zapowiedź wznowienia dostaw LNG",
@@ -299,11 +358,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Orlen w pierwszym kwartale 2027 roku otworzy biuro handlowe w Singapurze, a w ciągu kilkunastu dni spółka spodziewa się pierwszej po przerwie dostawy LNG z Kataru - zapowiedział we wtorek wiceprezes Robert Soszyński.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVl9TcE5sLXdVY3diT1cyTEFBd2VXcVZ6MDB6UGp5Z2QwbVJIV2UybFZIRDFBTE51czdsODh4aVcwVlluTGQ4XzdydUt4b2c5UUZVNW5kSW1KVnFRT3BQNDRXUmVmcVhqQ09IcXBoNE9CZUhtSUF6Sm1mMmxPZ2ZFVWhyOTZrVmV3ZVU4Yi0yWFQxLWZocFgyM0pmbzlfbGFvZGxMdlRieUVsNjg0RFFVNml2R25tbFZJLUFr?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-otworzy-biuro-w-Singapurze-Jest-tez-zapowiedz-wznowienia-dostaw-LNG-9218874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -317,8 +376,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-b414f8f8df1efe6a47",
@@ -520,6 +579,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-89e05ea69fa94e43c2",
+      "date": "2026-10-27",
+      "title": "Rewolucyjne zmiany w polskiej energetyce. Jest szansa na udrożnienie sieci",
+      "title_pl": "Rewolucyjne zmiany w polskiej energetyce. Jest szansa na udrożnienie sieci",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzFlOHBCTUhhdmVseXQ1dnlrNEtrNE0xUEVwSC1Qa3ZDSHZ1ZDJ6R1JyNmVVX1VvZ3FPdnRNUHVMTWZKV2M5S3NuekVKSDBEdXJNR1d5UkxrY3FkWm5xUmdFT3VxWmZNcG1mSWo3VlRjckhiYkg2STVhSDFiVjlIdVM5U2FnODZKVEdCbENJWi0wdHJQLXlhSHYzRGNZaF9OaWwwT1lnSmN6eHlfbm96OUFZcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -757,6 +845,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-74466a664097f8cf92",
+      "date": "2026-10-27",
+      "title": "Polenergia jedyną polską firmą energetyczną z celami redukcji emisji zatwierdzonymi przez SBTi.",
+      "title_pl": "Polenergia jedyną polską firmą energetyczną z celami redukcji emisji zatwierdzonymi przez SBTi.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polenergia — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkY2TERkNk9fRUV4cGhhSlpqY1hhaXVLZXNwTUpuUzJrZXUxcFBFNHZiOTBmR1E4MnNkTVhnOVRmamJuZmRnRXpkZ2ktaURfellDVGVvNnMta0hhSGgwWDBhbFZqUzY2QTVud09hRU1Sa2hJVjU0bmkxTlhKVmh1X3V1dGhWUURDMzI2V2s0Si1oVWhBYy1BVkcxRUVYRTB3QlhhNVJ4bnZac3hoOFk0YUNjbWhPWlpiZEU2bDlR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "Polenergia",
+      "publisherUrl": "https://www.polenergia.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "57"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-701090fe0979345aa1",
       "date": "2026-10-27",
       "title": "Budimex ma umowę na rozbudowę stacji elektroenergetycznej Ełk Bis za 195,49 mln zł",
@@ -781,6 +898,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6e1932dddb5eef4d6c",
+      "date": "2026-10-27",
+      "title": "ENERGOINSTAL S.A.: Odwołanie członków Rady Nadzorczej",
+      "title_pl": "ENERGOINSTAL S.A.: Odwołanie członków Rady Nadzorczej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDlKenZ6V1dKQ1laN2dULVo4U0NPdGVhVTVPekhiY3k3UllOSHlkcVVxVkRIdmVrblBSYVRHVm5iN0d2Xzc1Wk04cnpocXdnMEwzM1JFemkyQXZDdXJOOUJOU19sM0NTR1VfZWJVTmZwa1NpZlVwYlZNTFRKMTd5RUNsYW5KNlFWdHlJaU9tczVncW9uWHZNOUViU3AxZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -984,6 +1130,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5931249c8857f57bac",
+      "date": "2026-10-27",
+      "title": "Poland is likely to be chosen as location for servicing Patriot batteries - Prime Minister",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDR2MTNpUHA5MUktaDJtRG5iMEtLOUNvNjVJcFZNaVQxdmhqUkZXUXVHNUYzYlMxQll0V0VjVVpBbDFudzRBZ3BPYUhGZHBYM0lBVG5PdGZHTzRLRWRvUHFJUWZhYlRzUjB0ZE1FdENEZVc4XzMzTjdFaVZkMGFLdjNrejlxcWZDUDhqRTVxeVRLTFBvR3R5RDN1UUlEYmg1N1lXdEVwX0Y0SEcwSGxmY3Y0Zy0wZ01rQ1Fj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1221,6 +1396,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-351324a75cdf9250c9",
+      "date": "2026-10-27",
+      "title": "PGE hosts groundbreaking for 400 MW project in Poland, Fluence supplying Smartstack BESS",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Polish utility PGE has seen work begin at its Gryfino battery energy storage project, an 800 MWh capacity project located close to the German border. The project is near the town of Gryfino, just south of the major Polish border town of Szczecin, and near…",
+      "links": [
+        {
+          "label": "ESS News — source",
+          "url": "https://www.ess-news.com/2026/10/27/pge-hosts-groundbreaking-for-400-mw-project-in-poland-fluence-supplying-smartstack-bess/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "ESS News",
+      "publisherUrl": "https://www.ess-news.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "37"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-304f520d496bc422a2",
       "date": "2026-10-27",
       "title": "Ropa znów drożeje, gaz najwyżej od lat. Europa przygotowuje się do zimy",
@@ -1274,6 +1478,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2c8ff722f08af2f5d9",
+      "date": "2026-10-27",
+      "title": "Bezpieczeństwo i konkurencyjność polskiego przemysłu. Wnioski z kongresu DISE Energy",
+      "title_pl": "Bezpieczeństwo i konkurencyjność polskiego przemysłu. Wnioski z kongresu DISE Energy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSy12M1NxSlFKdXFvaWc1U0Y5UVNVekExcHhTNUVFa0Y4QXN3RXh3MzhfU2haNEdSNFNPaU9XdjhhVjBqMXIwY2xpUHBrZlRzMjJpZFNVQVI1MUxxV3VTNTNYMkVFY3BwTW5rR0xnVldUV0JteFAxVndkLWI4ZGlfMEY2bmltNVdrNEg2YUJEY1J5TEljNlZmeHphZzNmTndJZ01fZmNucDFoUTVzNjloX2FjN0psTHFPd3Uwd0FVcTBfQndGY1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
