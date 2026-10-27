@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T06:09:43+00:00",
+  "updated": "2026-10-27T07:26:11+00:00",
   "signals": [
     {
       "id": "src-fe3d8d685491a4d04f",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d1797774b11e4b981e",
+      "date": "2026-10-27",
+      "title": "Zarmen wzywa do sprzedaży 1.451.406 akcji Remak-Energomontaż, po 20,05 zł za sztukę",
+      "title_pl": "Zarmen wzywa do sprzedaży 1.451.406 akcji Remak-Energomontaż, po 20,05 zł za sztukę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2hZUHFRTndlV01BekZRem16WDY5aGkzVjdjZzhXeHIwdHhmbHVlY1ZlS1FhM1Z4UWRKdmxkVllxYl9tenVvWks2ODB6bWh3R3htOS0xMnhHbTBGamFWdTI3dkJwRmhHSmlhLUJ5ZGFBdE9BVktXZ3RrTE0xWmdrTTdlTFVVZV80OVZoWjBCSWtEVDJ3ZjFzMmxzRlh2TEZUTEhkTS1mSFotR2xabTVVQm1uUVVsZEh4U0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cde2e453766dcb1ab4",
+      "date": "2026-10-27",
+      "title": "OZE rosną w siłę w Europie Środkowej. Najtrudniejsze okazuje się odejście od węgla",
+      "title_pl": "OZE rosną w siłę w Europie Środkowej. Najtrudniejsze okazuje się odejście od węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmxxeXhFcU5RSVgyOExQd1NUbGxQUVpzSlpwWnlTNFQzRWx0ZXFDYTF1UGl6M0FyWlRDYXZVUzhVWU5BaEpnNlg0b2syYklHbVExTmdzc1Nqd084cWNQRDJKVG0wbk9oUnA5SXp0aV93LVhUY2FRTTI5NTFCT2NZaTR2andveFJRRkwxdHZhZVhvOHVTbVZYUFB3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c2997e17e556124c86",
@@ -89,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a229ca99598a44af56",
+      "date": "2026-10-27",
+      "title": "Rusza budowa jednego z największych BESS w Polsce. Gdzie powstanie?",
+      "title_pl": "Rusza budowa jednego z największych BESS w Polsce. Gdzie powstanie?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUtTcGZxQ2NHMk52YVB4SExxSnVtdkpidGRlcktGVENta05HM0pPZkVLdHd2WnVjQmUyMXRkYWJCejM5azc0Z2RORjY1eDd5SWo5TVA5YjZEbXBWLW9OdzlQOWd2QWoyQW9BTGNtOGZfdENMUHhQYU5iYUZkNFpybW5HSU1XR0RNdGNZLWhaZVBodG9iQjRQcE9HZ3U0T1JI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b4e5e69cdfca80f39",
       "date": "2026-10-27",
       "title": "TechPas Instalacje Elektryczne i Systemy Zabezpieczeń Damian Pastusiński",
@@ -113,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-83ee4cca2cfabd22b7",
+      "date": "2026-10-27",
+      "title": "Przemysł energochłonny otrzyma miliardy złotych. Firmy będą musiały inwestować",
+      "title_pl": "Przemysł energochłonny otrzyma miliardy złotych. Firmy będą musiały inwestować",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTktWdnlSdURGWEl5bGw1UTlGcExnZzAteVVfb2VjaGd6d0dvcVBKek9hZS0taWFFZWhIQmRka0xLZHdsVVBvcjQxOFJJOEdIRlV1VHVuLXhKZVhJaUpodkFId3ZOYk9tMmNEanpJQmpkZU9tWHRGdzVOdlhHbi1mX1NpOC1DWUcxWnZjbmJfVnJLQ3VyVVJTdlFrZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -176,6 +292,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6cb3a80dce61feffa3",
+      "date": "2026-10-27",
+      "title": "Prezes Urzędu Regulacji Energetyki - artykuły",
+      "title_pl": "Prezes Urzędu Regulacji Energetyki - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5R2FqTXlXM1RwMFV5bXhtRjBYNk5XTTJtQkVyMGEydkpfNlQtTUNBbTJFcWc4aEtlNFg4U1lkdEZDRnpaU0V4UUpCdWctQzFabXRxNTFKbE1tNkxXYnpfRjVDSjkyUHBtTHdxOUY1a3BLc1FCdzY3ZjdvMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b5d96a040b384c63d",
+      "date": "2026-10-27",
+      "title": "Zarmen wzywa do sprzedaży 1.451.406 akcji Remak-Energomontaż",
+      "title_pl": "Zarmen wzywa do sprzedaży 1.451.406 akcji Remak-Energomontaż",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcmVZeE1VbnpvZVc3bHRWWUt4VWR5RFpua1JvVjdKYU1sQWw2WEJvZnlNdGQ5QTlzM2JHaXNUQ21GeXF2OGs2eFlUNDdBS0NRWWhhOV9SU1RjZ0dtUmFseHRkcmZ4NzZqMTlKMmUwLUFVaC1Venl5LXVId0w4VENLSjg5c0J4RFhWQ3BwUDZSWktfVlN2dW1LR1BWSVNUYmFrTnpIbld6MjlMRVFtak9NWEZkcU4wUjA4MDRBOGJDandhMjBwcGtZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5ec3e761f896a7fad4",
       "date": "2026-10-27",
       "title": "8-godzinny giga magazyn energii otrzymał zielone światło",
@@ -203,6 +377,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5e4f7b748baa55b56e",
+      "date": "2026-10-27",
+      "title": "20 mld zł na Port Polska i 10 mld zł na atom. BGK rozważa finansowanie",
+      "title_pl": "20 mld zł na Port Polska i 10 mld zł na atom. BGK rozważa finansowanie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Trwają rozmowy w sprawie udzielenia przez Bank Gospodarstwa Krajowego (BGK) pożyczki w wysokości do 20 mld zł na budowę Portu Polska - informuje we wtorek „Rzeczpospolita”. Bank rozważa ponadto przeznaczenie do 10 mld zł na budowę elektrowni jądrowej w Choczewie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/20-mld-zl-na-Port-Polska-i-10-mld-zl-na-atom-BGK-rozwaza-finansowanie-9218675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-5758e4ca0ebdde9956",
@@ -258,6 +461,122 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3e80dd39f0fb334821",
+      "date": "2026-10-27",
+      "title": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
+      "title_pl": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUNfM1dlYmdpN0hlOC1GaWdUVjM0alcyaVRGVW02NWs0a1VXUEp0bFVXWTVfdDFSUVhvclVRQndRMUdMS2JaZG5RNDVEUnU4ZUZCSzVoZVpydVdJamYxMGxyUnBHRHBwV3JzOElTam4wR0U2V2EzTWR0RHdkd3dKSDRiQ1M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-35ef859430cea5a55e",
+      "date": "2026-10-27",
+      "title": "Polenergia jest w tej chwili jedyną polską firmą energetyczną z celami redukcji emisji zatwierdzonymi przez SBTi",
+      "title_pl": "Polenergia jest w tej chwili jedyną polską firmą energetyczną z celami redukcji emisji zatwierdzonymi przez SBTi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdWpfT2l5ZUhlSnFDdVZySFVFaDM4QlRYd1hFMWplQ0o4Rk00Sk42SnIwM3FqSkQ0aUdKbVlBVVNVVmcwQ0F6cHFYR2poUDdfcjdITVhxSURJZlZYNmtLdEdINW5HbkRsM1pWeWYzLXVUZjhHTGgyQXE2ZFFIbHdTZjhiQ3V5aXF2THh4R0FDREh2aXh4Q09HUF9na0tOS2lIMXlDY2tjS0I5MzFtMEJKUWVCYjhsc3AyNktiZ3ZWeXJiZTRjejhuMHpKaFljRFFTVDhfOEUyb052YU5hWktBS2pyWVlMc0YzY1dnTl9vUWlnZTRseFM4SGM2ejB4QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2b975527358d482174",
+      "date": "2026-10-27",
+      "title": "Platforma zakupowa Grupy ORLEN",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcVZmQkQtS1RFOTExUkxiSXBTQzhiT1RKSjRrdlhmSGp4SHpjdkc0cm54R2g2cWx5VG9IcXA5WWpVMV9nMVRwUVVJZElPdU9VM3JPQzlRYmFZajNuV0Q5aTcwaWoyZWdpWlE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://connect.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-184e8f3be84d5923dd",
+      "date": "2026-10-27",
+      "title": "Wezwanie do zapisywania się na sprzedaż akcj REMAK-ENERGOMONTAŻ SA",
+      "title_pl": "Wezwanie do zapisywania się na sprzedaż akcj REMAK-ENERGOMONTAŻ SA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFZRaFZWQV9DMDJ3UG42OWQzbDVvNk9RN0RFeE1FbW5ENk5Qb29RSjNmUEs4b2g2akFrY191TURHVmVRYlJzZkJvU2hIaFNORkVWajI4YXUxb1Z4OVlRaUxoMzhRYkEtVW9XVFZSVGZtUjVnMlVvVmdTbklaU3R1dTBLTmVMek1uNENiN1c5cS1rVENHSUNPdzNUX3pCU29GWEdnYzN3bWI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3199,6 +3518,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-00a1b9e5788f8149a5",
+      "date": "2026-10-26",
+      "title": "MOL żąda zwrotu podatku od emisji CO2. Węgierski koncern ubiega się o 405 mln dolarów",
+      "title_pl": "MOL żąda zwrotu podatku od emisji CO2. Węgierski koncern ubiega się o 405 mln dolarów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Węgierski koncern paliwowo-energetyczny MOL oraz jego spółki zależne złożyły do organów podatkowych wnioski o zwrot wcześniej zapłaconego podatku od uprawnień do emisji CO2. Łączna wartość oczekiwanego zwrotu wraz z odsetkami wynosi ok. 133 mld forintów, czyli 405 mln USD - podał MOL w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/MOL-wnioskuje-o-zwrot-ok-133-mld-HUF-podatku-od-uprawnien-do-emisji-CO2-9218652.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ff8cc25927ba0c107f",
