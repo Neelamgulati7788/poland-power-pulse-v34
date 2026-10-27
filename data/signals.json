@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:23:53+00:00",
+  "updated": "2026-10-27T20:14:04+00:00",
   "signals": [
     {
       "id": "src-ff48d41c580ae2fc78",
@@ -604,6 +604,35 @@
       "publisher": "CIRE.pl",
       "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bc9cc4a2fa438ce4d8",
+      "date": "2026-10-27",
+      "title": "**Tytuł SEO:** Enea i KGS planują wspólne projekty biometanowe **Meta description:** Enea i Krajowa Grupa Spożywcza planują wspólnie rozwijać projekty biometanowe. Współpraca może wesprzeć rozwój odnawialnych źródeł energii i wykorzystanie suro",
+      "title_pl": "**Tytuł SEO:** Enea i KGS planują wspólne projekty biometanowe **Meta description:** Enea i Krajowa Grupa Spożywcza planują wspólnie rozwijać projekty biometanowe. Współpraca może wesprzeć rozwój odnawialnych źródeł energii i wykorzystanie suro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWREelMxRFZRSVdNZC1IbWtoVDdaWWJuU01VSjlZY2oxQ1Zwc0JWX0RrdG1pT0t4ZFNZX0VNdUlCcmNCcU03aHBqeU5fMkd4RVUtWFBsMzRVcU9tQldVS2lXd1dTeFZxYzNIckxSelJtZXo2Rk51N2Z6VUdtOW4zWmsyVGdDSWRNZHRUTW53RWNPZEZvWWprbU0tMHFXaVdwaXAxajhIdmFzVmV0VkhPeHJVZ0V4cl81c21idGVXOVUxdS1reUxwTmdIbzVZUXM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://oze.cire.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "23"
@@ -1972,6 +2001,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-591417278cab540e7b",
+      "date": "2026-10-27",
+      "title": "USA chcą powrotu rosyjskiego gazu do Europy. Ukraina w szoku: „Nie chcemy być jak Białoruś!\"",
+      "title_pl": "USA chcą powrotu rosyjskiego gazu do Europy. Ukraina w szoku: „Nie chcemy być jak Białoruś!\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnBoaVdKUkdoSi1NamVxTThIREdlRi1EUHZHTC02MGQ4QUcxWHIxWWJNQ0czZmFPMzlwSmcwUFRJMXdsSl9CUnRtZUZSWGZTM2hYNm5uZFRmbWVjRklDd1V5dEZ3OGlEU0hLaG9oaG9ET2lidG4tN0wxNUU3UlY1X3QxU2RvRlUyVUpXNWNNWXFQWFRfVnhBNG5tTHBGUzNQcmNnSThCVTJzc3dza1RYQXZnQjlZOHgxYng3cFE0NW1sUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
