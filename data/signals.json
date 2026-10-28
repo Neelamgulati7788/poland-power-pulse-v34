@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-28T01:56:31+00:00",
+  "updated": "2026-10-28T02:48:13+00:00",
   "signals": [
+    {
+      "id": "src-e9ab54634bce2c4de6",
+      "date": "2026-10-28",
+      "title": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+      "title_pl": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3491-3600-960a-75d7-fc0001a43a72",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-537e114a923f3eaa04",
       "date": "2026-10-28",
@@ -391,7 +420,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
           "type": "press"
         }
       ],
