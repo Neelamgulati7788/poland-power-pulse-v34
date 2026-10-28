@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:48:39+00:00",
+  "updated": "2026-10-28T20:43:46+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -1250,6 +1250,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-93d962c65022b3579f",
+      "date": "2026-10-28",
+      "title": "Prace remontowe (instalacje elektryczne) w budynku Powiatowej Stacji Sanitarno-Epidemiologicznej w Chodzieży",
+      "title_pl": "Prace remontowe (instalacje elektryczne) w budynku Powiatowej Stacji Sanitarno-Epidemiologicznej w Chodzieży",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Chodzieży",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3533-5a9d-711a-f9f4-660001a3c656",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-8ff6a5ec1ab962b2b3",
       "date": "2026-10-28",
       "title": "Nowe dotacje na magazyny energii. Nabór ruszy w IV kwartale",
@@ -1627,6 +1656,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7e2181ab81b6fc203d",
+      "date": "2026-10-28",
+      "title": "Ważny korytarz dostaw węgla do Polski odcięty. Minister energii komentuje sytuację na rynku",
+      "title_pl": "Ważny korytarz dostaw węgla do Polski odcięty. Minister energii komentuje sytuację na rynku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTRlQVR4MUUzWXBFZVJ5clBXeGlHOG5jYUlZclZhMDk4RldNN21zYi01cVBpUzMzbE9YR1Z4bGR4ZE9xTVhEb1NsSjVQNm1iMElVYmVHaFBoZTAwdG83bk16cVI1ODVPd0pPS0tVMlBhNVZmbDRVWmVMVU9aS0hiS3U1SnFpaFJVaHVwNDlNYXYtQmM0cFZTczNKcFpNelpBQjhXaDhfdGl0QW9hMUQtbkJxUTNicU9DZ3g3Z1VHWk9wMktpWW5HTTVYUFg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7d0795a9c78d80e971",
       "date": "2026-10-28",
       "title": "Ceny gazu w Europie rosną. Ostatnio były takie po ataku Rosji",
@@ -1812,7 +1870,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
           "type": "press"
         }
       ],
@@ -1820,7 +1878,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -4878,6 +4936,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-751f3d27915837fef8",
+      "date": "2026-10-27",
+      "title": "Podwyżki cen gazu na moment wyhamowały. Zapasy w UE nadal poniżej średniej",
+      "title_pl": "Podwyżki cen gazu na moment wyhamowały. Zapasy w UE nadal poniżej średniej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHRER3RmbjNqUGZjZldOMVFGanBNMVhWOTZHRGJYU19TdXZwVWtfTnpMQ3ZDTDZTNW5abEZUWWswMGpxbHFIc1EyQ1hYZzA4RjIyVWF6Z1J3eG1qY2I4OWpfRDlrMWxwbmF4VlhfMm1KMGwycEVZU0UwS1pScjdCa0dsaTZNckhadzhkdWh3V284Y2lpb1ZqQjllNTFJYUE1cnZLc2d5Mk0zRndCWGFDbElhWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-74c467702431d399be",
       "date": "2026-10-27",
       "title": "Śląskie: Awaria źródła ciepła dla części Dąbrowy Górniczej",
@@ -5991,7 +6078,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51TjJUVmx3UmFKYUZzRjN3WmlESlFmNVpDbTBPZ2NyRjZHaEwxTVlldE5xRURVLTItXzFVNDJJeGEzOFdzZTNSbk9lejBVbUcyZnRxdDZLeUF3d2ZiejdNZnpEcGM5NUZQM2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
           "type": "official"
         }
       ],
