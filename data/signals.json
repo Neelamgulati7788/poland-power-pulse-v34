@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:50:44+00:00",
+  "updated": "2026-10-28T10:47:42+00:00",
   "signals": [
     {
       "id": "src-fd6e922c33ba6feccd",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fd608cb5e85a91332b",
+      "date": "2026-10-28",
+      "title": "Gas Storage Poland acquires CHEMKOP",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUTVVakRLTmdrSGdma2x5TXNnWktRckQ2Y0JnbllCaWxIQ2xnbjlTbEJFaWNQMnBTbTlVWHppRE5lbDhFOVN4dk5CNHBDNGhQZ3NDWVdnQnVTbE9pcDB0aThFQ2ZmbE5CbUV1b2VSLUJweUJhOGFKV0NzVHpjVFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -145,6 +174,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-c868e2e5427923ad34",
+      "date": "2026-10-28",
+      "title": "Gas Storage Poland przejął CHEMKOP",
+      "title_pl": "Gas Storage Poland przejął CHEMKOP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHV3VTdWeDU2QU9SeXZ6NGI1eHJBS3ZPTVp5d2xqUVplei0za0dWeWZGM05TeEkzalZITjVKU3poQ2NpN0VSblI2bVRmOHkyb01qcWtuZHBWY1VkVDAyY1d5WXRaei1DNlVpZElncjJ6eHg0M085ejdIek5ZMHJSR3ln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c67938641f9e6e5129",
@@ -292,6 +350,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8fac86a3a4d422d842",
+      "date": "2026-10-28",
+      "title": "Enea zawiązuje współpracę z Krajową Grupą Spożywczą. Przy cukrowniach powstaną biometanownie",
+      "title_pl": "Enea zawiązuje współpracę z Krajową Grupą Spożywczą. Przy cukrowniach powstaną biometanownie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYXpXZUVTOVp4MVR5RUIyalZvZWZtdWdlQkE3ell3cUNTbEp1Z0Q0WEZPWXY5TmN5SC1sY0JsaXlEMk5jY096X1dPZDJBTXRPWHRnOHM3cTFxYVR6WE1kNU1RQmdQTmdZSmJyTFZDZElPdm1BSDJBQkEwZ0gxOEpsRGlUM3dNbkh0dHNSTEk4ZDdiNnZOUmZQdVp1VGcwWVdaQzktSTdTdjBTS1BNQTNVVTR1SzZwdUhoYzVfUEJ5VkQ4U1B0eWxUNEtGdEtsMW5jZTVCbnh3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8f8be57fb7c91c33f4",
       "date": "2026-10-28",
       "title": "Elektryki i hybrydy zdobywają Europę. Ich udział w produkcji aut szybko rośnie",
@@ -403,6 +490,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5d1c269c644c3978da",
+      "date": "2026-10-28",
+      "title": "Dzisiaj najdroższa energia w tym roku. Cena przekroczyła 1400 zł/MWh",
+      "title_pl": "Dzisiaj najdroższa energia w tym roku. Cena przekroczyła 1400 zł/MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHhkTGlVeFRQTUhidzZJT0l4QXlSRU1IbkhCb3g0YXNQTzRfUHpRZGJUNFh2VUE2SHBhQlhaM19VTmlpampJbWxQUlMxM1c2RDB5Zmw3enZaMHViUURzLUs2M1pqUWN6Mkh4bnVURXhhb3RIcVd6RWhhd1phMmVqV3Vkckl3ZnpjS3hQWkY0S3VBX3JqX0xjQVZKRkxWOEt5Sy15VjRmVXJ4RThTZmlqbA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-581ed3e7e4b39be70a",
+      "date": "2026-10-28",
+      "title": "Gas Storage Poland przejął spółkę CHEMKOP",
+      "title_pl": "Gas Storage Poland przejął spółkę CHEMKOP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakhEYW11ek01YndaSlNQQ3dVbU5feDhFT01ZZXpQenV6bkZuQWkwcFFtNDBUdjNpWHJLRU8tUkdDdHVwM2FCZ29lWWsyTlBnVTdadURtNUJzQkh2b09PWkt2N0NSS29Bbjg3aDhUeXVxWTZQZDFOR1pvWmNJOUtDUkUxV3B0SVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -751,6 +896,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1ae485de82616ca8e9",
+      "date": "2026-10-28",
+      "title": "Dziś PGE głęboko pod lód",
+      "title_pl": "Dziś PGE głęboko pod lód",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BS2Y4OUc0UFRGMkl2b2RaTl8wUFB6U0JTUnk2alRXbmliQ2dNQU5LaC11MkZDQnpKSHdlbGw0UU1oWjVLTFlCN09UdHh5c0l4UGR5cVMzWk40V1pCdk5ET3pQUl83anhTVFQzNmdaRW95ZXhYZEM4ekY3UHlJZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2122,6 +2296,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9c0dbe228a853bd469",
+      "date": "2026-10-27",
+      "title": "TUNDUK ENERGY & CONSTRUCTION, NIP 5833582508. monitorfirm.pb.pl",
+      "title_pl": "TUNDUK ENERGY & CONSTRUCTION, NIP 5833582508. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4TFV2X1BIbnpENU5DU2ZVTnZRcWlxRE83N3NQektsaUhEUlNaWmR4SXlYVEtIdGJWRE1YVEltWkFrMkd3bzZQbUhTVTFaYmU1d29sek03ZVZoR0dpMnowck5Fb2hEZGNtTkhB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-99ecce725a08cd01f4",
       "date": "2026-10-27",
       "title": "Budimex pozyskuje nowy kontrakt w branży energetycznej",
@@ -2987,6 +3190,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-667938506af4809a65",
+      "date": "2026-10-27",
+      "title": "Zlecę rozbudowę o 0,5 MW",
+      "title_pl": "Zlecę rozbudowę o 0,5 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1NhdFZlUTVzWVdaRzh4R2ZYRkMxbHJ6c2F5ZVV3bE1kd1NUR2NWOXF5YTFyenBfVjU4Y1plNU9HX3RUN3NoemowSHl1RzhSVlFuVlctSHJtTjhERmljMmFwRFhmRGZqTVp2RUUxSWNUWElqWXlrcDVQOUNheVNLNDRTcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
