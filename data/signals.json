@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T22:41:57+00:00",
+  "updated": "2026-10-28T23:38:30+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -1290,7 +1290,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1ZzUG1nRnpiQ2tzQkNLcjQ1YVp5RnF5WmRKTlRjV1lKTDdsQ3hWVG9wMlJwd05sOXJFTVZmMGwtTmc4b0hla2VmUzlEbkN4RU82R0N0c0FTWHFmTm4xcmdRSGFyRkl3cldVM2VhUFZXM0ItRGc0QURFX2c0Qks4M3k4RlpHRmJ0bWZqcUMwdWN5OE1RNE5wYTFGLVJXQ0lZMnBfQy13?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqY21nd3lwajBfdHZFWW9weTQtTUdSTWhTNzViQVloeUVUaFQwaEx1elhhams1RG1SWTJRS2xFR09GV0FNRXY5cXg3U3NTMmJT?oc=5",
           "type": "press"
         }
       ],
@@ -1770,6 +1770,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-72226170e056545f95",
+      "date": "2026-10-28",
+      "title": "Polska Grupa Energetyczna S.A., Author at WysokieNapiecie.pl",
+      "title_pl": "Polska Grupa Energetyczna S.A., Author at WysokieNapiecie.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vVVFMc2Mwalh0RldXOF9vWEhuelFCbDBPbzREVFhTS3VCeFQ4c0M4Q09wX2hTdFBIQjJTUG15bVBzQ1lHNkZNZ2JEV0I3emxJYlhVQ3Q3NDRZSFVETWRkbVc2Y0tRcmNIdmtfcnowWF9wNTVxdnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-70c8b8a747435dab5e",
@@ -6701,6 +6730,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0c42fb220ede690190",
+      "date": "2026-10-27",
+      "title": "Jest alternatywa dla LNG z importu. Polska energetyka sięga po odpady z cukrowni",
+      "title_pl": "Jest alternatywa dla LNG z importu. Polska energetyka sięga po odpady z cukrowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTVNc1BYY1N3ZURtNVF3Um04amVXX1VVc21MSlNRZEhkaGNzOXV5WUk5SmJMc1FnM0VzeC1RaGp1T3F5bGNjRVB5eFV0RFV6YTIwVW1Bckw0Q2ROZ09KU1hyd09NZkJLamd5S0U3Y0RXVVFPNWxaRHdVVVJZTWFrclNKUG5LV2JnR0lRVktwS1BxUnFzbl9COXFaY1pJQnBhNEtpeTJFZUdIZnpvMGNkektRTVM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
