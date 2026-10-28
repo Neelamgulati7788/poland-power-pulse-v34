@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:43:57+00:00",
+  "updated": "2026-10-28T12:54:03+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -118,6 +118,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-f0e51942a9503ad62d",
+      "date": "2026-10-28",
+      "title": "Miedź polskim złotem. Nasz kraj może być wygranym elektryfikacji w UE",
+      "title_pl": "Miedź polskim złotem. Nasz kraj może być wygranym elektryfikacji w UE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDloc3JSOEtRX2lLLTlGQUN5Qk50VVdFSWhjVFQzWTlMcEFITy1EVmt3Q3RIeUkzMUc5VGtYR3RLSTNGdFFXdFpvZkNULXRkdDM4Ti1FdGMyNW1vczdkdzRyN2VFaWNmVnRWSXNrTXdGbkdRQWZqT1A5YWpnVllySjdGLU1Rd0w2ZnVxQm5LUnEtX09fM1J3YURFZmx4LTY2czE3YmtKTUdpMEU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ea0e251b9560a530fc",
+      "date": "2026-10-28",
+      "title": "Nowy magazyn energii ma chronić przed skutkami awarii. PGE rusza z inwestycją",
+      "title_pl": "Nowy magazyn energii ma chronić przed skutkami awarii. PGE rusza z inwestycją",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYU9QQjJNaENlQThFaUxtaUNyUlM5UVQ3eE5LaE9TZ3QzNjRMeC1xWHFYbXJHRDhQT1ZkM0RSOXZuVER3NVQ3cURRaFdGZjZJWGhTZzNCLUROOTNkdVV5ajFTQ251MlBmMUNzMHFqRGhGcFZ2RlhiQUNEOU12NDZnTk9mcHBkbklxU0tGc1Yxd1B4WGZ2RTEtTUNrLUhoVDI5UjVmYWpZRnlvUE8xZkEtR2l2Ukw0c3VqUExwSzRn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e9ab54634bce2c4de6",
       "date": "2026-10-28",
       "title": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
@@ -145,6 +203,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e65e7070fcd5c18b4d",
+      "date": "2026-10-28",
+      "title": "Ceny gazu w Europie mamy 100 euro za MWh powtórka(...) - Forum",
+      "title_pl": "Ceny gazu w Europie mamy 100 euro za MWh powtórka(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWdtTjdCelkzWnJJdVRob3lVWGpKNGd3MXFKSWtlWTBDbUVDZUdhS0Ztd1lqTGN1eHFKSmVqN0Ftb1BxaDFZYlJURS1tTF9HcS1HT0oyTlpFbkVtYWhXYmdlc1lSU0tOczh3OUdqd1l2R1FpbURHZEVJRC1nNE1tTGhOMG04ZnlISmw0aUVESVNEY1dHNGlkaUhTNHVBTW9fWVo0YkotUGhVeG9LLV9lQ21NNXZEbk53UWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dde694338fb6ddeb9f",
+      "date": "2026-10-28",
+      "title": "Prezes Budimeksu o CPK i elektrowni jądrowej, Żabka coraz silniejsza w gastronomii, Kruk obniża prognozy (Najważniejsze informacje dnia)",
+      "title_pl": "Prezes Budimeksu o CPK i elektrowni jądrowej, Żabka coraz silniejsza w gastronomii, Kruk obniża prognozy (Najważniejsze informacje dnia)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNDZtWVBFSXFBbmtWdzBlRE9FWWtPN2x2WkMzemVYOXNNMElnX3JELW1jaWZvSDlmZ2ZLS0JhdTBlQ0VlSVVUWERQa3VSMXAyYU5YSDN5aGg2dTdMNVpnZHVBNE90NEN2RlFnYTU3UFducGNHbjdVc0RmWG80RVdKbk1RczNhaDNGNS05TmpWa1BhOWt0R2N0REdmWHV3Q0lxUWpvWENpc3lyX3h1QzhaVnJ3aGVTTDl3bnhneWpyUlBoZS1nVDJFZE5NVUM1elVsQWNNcTNhTFpST21FbWhtM3BYcXBFUDZnMFI3U1dZYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dadfe363fadb782649",
@@ -535,7 +651,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHlXT3FwMUR5OXRPdHNBUVZwYUl3dXc1cnV2Q3hRdU5IeTl4dVg2aEdUbGVtaDgyV2xuaUhkeE5Hb285Z3JLbmJWYzlEX3hxOEFHdGxkb3VlcTk3Um9SZzFmRm1zMFUxT3k5UHlBVmlKLVk5VjJJODJiX2VQUml6WWljODZUd0FadUg3aFVPaGl4OTVUclc1bzFVSGVBNTFST0NiZ1hnQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXQ1dGtLSjZDbFBWWmdtTjZvZEpNV3RKVVlkdzZaZ0FFNmtxUXIwczh4bVdIaXh3UVByenJZNUprUHVRVXZkYWpGRGZNbTRoSV9hS2E0VW90T01uNS0xY05WMWgtSXBkaElDLXpQMzY2YllZUlNxOVBzcDNlZFpsRWgtcXB3UXR4TS1vNnhENVNpQ3c4RDM5RHh4RWRDdw?oc=5",
           "type": "press"
         }
       ],
@@ -609,6 +725,93 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8268ede5f4d4f4349a",
+      "date": "2026-10-28",
+      "title": "Saudi Aramco szykuje odwrót z Polski? Minister ujawnia, co wie rząd",
+      "title_pl": "Saudi Aramco szykuje odwrót z Polski? Minister ujawnia, co wie rząd",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jeżeli o sytuację Saudi Aramco, ze strony koncernu nie ma sygnałów wskazujących na ryzyko dla polskiego rynku naftowego - powiedział w środę minister energii Miłosz Motyka.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Saudi-Aramco-szykuje-odwrot-z-Polski-Minister-ujawnia-co-wie-rzad-9219647.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-7d0795a9c78d80e971",
+      "date": "2026-10-28",
+      "title": "Ceny gazu w Europie rosną. Ostatnio były takie po ataku Rosji",
+      "title_pl": "Ceny gazu w Europie rosną. Ostatnio były takie po ataku Rosji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGNacjNFY0dmSkh3WDBCYlJuVlRMb0hHeFM1X0pBbkk0NXJ0ODR1VmhUM09UNVJOZmdtMEhwUzlUY3RsQXE2amg3ckEySVZsWVZrX1FNSElzZ1ptc1hFS2czaDRRSmY0OWhLTHhOQVh2RjRvYTJJWXNFYnBzV1YtZ1RYS3p4R0JGSEtGRldFNm95M0ZERnRBSGM5c0NsQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6f4f3deb8bba4ff68a",
+      "date": "2026-10-28",
+      "title": "Nowe ceny maksymalne paliw na czwartek: Pb95 i diesel tanieją, Pb98 w górę",
+      "title_pl": "Nowe ceny maksymalne paliw na czwartek: Pb95 i diesel tanieją, Pb98 w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W czwartek litr benzyny 95 ma kosztować nie więcej niż 6,53 zł, benzyny 98 – 7,37 zł, a diesla - 8,20 zł – wynika z opublikowanego w środę obwieszczenia Ministra Energii. Oznacza to, że benzyna 95 i diesel będą tańsze niż dzień wcześniej, ale benzyna…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nowe-ceny-maksymalne-paliw-na-czwartek-Pb95-i-diesel-tanieja-Pb98-w-gore-9219618.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-5db42c385c1e3f5aeb",
@@ -988,6 +1191,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2b8c9220bfa98d3b1f",
+      "date": "2026-10-28",
+      "title": "Na Bałtyku przybędzie turbin wiatrowych. Ruszyły dostawy fundamentów",
+      "title_pl": "Na Bałtyku przybędzie turbin wiatrowych. Ruszyły dostawy fundamentów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVAxeWp6Z1JON2t3ekdDMnI5amFlTm9xZjNaeTgtQkhRb3RHN0dyNzc1a3ZvQ3V3RWNTc0kzQ0xGamdGRlZra2NrMWpvemFfZ1RDQmQwR3BlR0lpc3FjakV6ZEprXzVySGxOcUJVZVJDTnl0TWRiWlhZdzR4ZE1DWkgySFBYOWRXbk9SQm1MVmdQcndmYXVRMV9LQ3B3dTJRT0p1bmh4aDRoYmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2aaf42a2e525048a1b",
       "date": "2026-10-28",
       "title": "Przydomowy magazyn energii: jak nie przepłacić i nie stracić na inwestycji?",
@@ -1038,6 +1270,35 @@
       "publisher": "CIRE.pl",
       "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-219a158a07bca3aadf",
+      "date": "2026-10-28",
+      "title": "Czy Centrum Walki z Dezinformacją stworzy tarczę dla polskiej energetyki?",
+      "title_pl": "Czy Centrum Walki z Dezinformacją stworzy tarczę dla polskiej energetyki?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlHV01JSlIydkdvUmMyeE0xbE0wUEZXODVZWGl5QUNvY0FEQkE3QnVBUnNoMi1ORWYxdzg1cFpMNnM0dk5uYnE2XzNRbHVhdnY2a3JWS3pINEpudDBXMnFnOEZFcVFmOGpPd1FrV0NmWkpDZUwxSE03ZmZodWRYTTZuaFQ1ODQzMURqYmtWaVJtZDJYZFZWdTUwREYtbWstWHJWd3hQNUxFbEV2LUpHSUlXV21UYXc1WEp1SmtIa3hZT3dzSGNkcQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "23"
@@ -1099,6 +1360,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1a9b6c6c0f91bc832b",
+      "date": "2026-10-28",
+      "title": "Spółka z sektora budownictwa energetycznego ze sporym wzrostem przychodów",
+      "title_pl": "Spółka z sektora budownictwa energetycznego ze sporym wzrostem przychodów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1VfMUdkUE9QTWpBYWxLT21xMkRmY1psSmtUbXVlNV9CNzVnbmJwSS1GZXU5WlN0bk9BMzc5dlZCZDBzeERCeWh4Q20zUU9SU1hXNFh2b05VTmFSMWxNM1BXY3lXb0NaTF9DcmNDaFBsS0NLRmM4Q3RLVl9UNkdUZGNxNHdnd1pBaWlncFhDZUJrS010TzNRSlR6dDVtb1BVS2JXaWdoRFRuM3VWXzNxaFNieDkwNzFX?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-12767effc11a752346",
+      "date": "2026-10-28",
+      "title": "Gas Storage Poland przejął spółkę związaną z podziemnymi magazynami gazu",
+      "title_pl": "Gas Storage Poland przejął spółkę związaną z podziemnymi magazynami gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcE54R1RaclpfaWdpd2haVUZUWGlaTl9GMDNHZ2s5am9ROGdoQWlmZ1d5bjExYl9TVXZ3MG83ejVlelAwSXVZdU12S0ZVZGVJeHdXMWZaMGtKM0dwSkNvV05SMWl6a3BhMVlYSFpKZF9vNnNBWGNiZ1BzdlFlQzZ0dnVFaGVwZGg0TG5HLWo4dTVaS0w5M1YtTFpXc1RCSU9CdDBTZkU2SS16djkwX0VEdnc2QlRINnpnUzVJX0w0dml4a3R5NV9qZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4192,7 +4511,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQk9QWnpyaDk1ajMzTTh1T1pQZlJ6SmkwVzBOR2w2bXp0ajBMMFlLQVZRNjl3V3dvQUllVjhXcV8tLWZWMDhvS05FVFVNZldObVdsQW9EZ05nWmRDMjBCblBUT01mM3ZwQVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
           "type": "official"
         }
       ],
