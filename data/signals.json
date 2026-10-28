@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T16:52:28+00:00",
+  "updated": "2026-10-28T17:47:25+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -201,6 +201,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ef949376f906cdaeed",
+      "date": "2026-10-28",
+      "title": "Omne Energia wygrywa przetarg MZA w Warszawie na dostawy gazu LCNG",
+      "title_pl": "Omne Energia wygrywa przetarg MZA w Warszawie na dostawy gazu LCNG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnJuSjZjSHV5M0JXN1JraGZYemdVeDVScnFGbW1mUDdxaWQ1U2FsMzdHZXlvYlpnbjNXMTRMTHoyNXpKRHFkTDZTazNzSVYySHNGSEpZUUttQkp1ZU13MzhtT1NMUDJDeUhZeTJyMnBvT1NfdXVmeUl2TkFEdW1MWEtjVHJYM0xoc3ZUMkhYQ21aYldERFByNTJ6Z3hBMm5rVnFLT0RyUUVQczhGT0dDUFVvLWRyMjc5UkVvMTFWZ2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -409,6 +438,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-e1ebda5457021870a4",
+      "date": "2026-10-28",
+      "title": "Do Świnoujścia dotarły pierwsze monopale dla morskiej farmy wiatrowej BC-Wind",
+      "title_pl": "Do Świnoujścia dotarły pierwsze monopale dla morskiej farmy wiatrowej BC-Wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd3VtQ2l1SFB6eVdvNktmdGdsMXZBR0hPbVhsblJyQWxjalFFYnNydXNscVZuTXc4SDNVZlBqdTc2QS10bUU4cUQ4a0pCcHpKZHJQaHpPNHU4SUMwSE52YUZrejJRendtdUh5SHFmVmRGaEpmWWcweE50U0ZBdmZwWVA2RU9wU3BZRlVJS21JNjlKOUU1Tk9RRW9QaXFrZHhfbkUyeXdsajd1Q1FSOGItY2Uya3dJVnRnUS1iczVKbHFKa05jd2dIVW54SXJodkxLLUVzcFFB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://offshore.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-de1174c81cf52db244",
       "date": "2026-10-28",
       "title": "PGE breaks ground on 400 MW energy storage project in Poland",
@@ -607,6 +665,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cd8a31825d4d517d91",
+      "date": "2026-10-28",
+      "title": "Ceny gazu w Europie najwyższe od niemal 4 lat",
+      "title_pl": "Ceny gazu w Europie najwyższe od niemal 4 lat",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWRCU05hV1lNX1BIay1LbTlzTGs4UG4wZEpUV0t5eVJKNTZ0X1E4V0hBRFdod2hkcC1TQjJqdU53MW9VNUJpR1M3Y3Z6SENLM2NidGw4Y3hsLUtTYlJSOHRaczZxS0hBb192RURFZjJpMGlHWWw0QmpZWHg0X29SczJTa05lYnVxampPamctamczS2tMcEJIMXdYTjJHLUxqU2lLb2VkOC1PWmY5Qnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -868,6 +955,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a5ccb00dfbc1a0052b",
+      "date": "2026-10-28",
+      "title": "W Dzienniku Ustaw ukazało się rozporządzenie ME ws. kalkulacji taryf gazowych (dokumentacja)",
+      "title_pl": "W Dzienniku Ustaw ukazało się rozporządzenie ME ws. kalkulacji taryf gazowych (dokumentacja)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1Z6anF1bnVDeGRqbmhGNnotWFBMeHBfQXFfQldhY19uTG9QcWU1MWZPLXhXTGFsc1M0SngwNWY5TEFNZjNIcFVobk5zMEswQ0lpN0YwOGVzdkx1VXNsNzJOUkZ0MjllaGJsQmxIOWZ6c3ZNaDhSblBMX1ZSWTdDYTAyS3RmXzQ1ekhzalNnV3VHeHdSbnhlQWdic2xLODRPU0p0UGRiMHR4R0psZnBZT003YzN1M2hvcm5wVQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1393,6 +1509,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-74bd66b0e6469f3e45",
+      "date": "2026-10-28",
+      "title": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego. Wydłuży o rok dostępność kredytu",
+      "title_pl": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego. Wydłuży o rok dostępność kredytu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "TAURON — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXhCalRRUmZqd2JGXzV0TGZtTVVJdjkzT0F3anFlYkRteGtCUC1CcWdCN05naUlHQzFha3dHcWhuN0VoR2lsNmpSR0lCdkcyMVh3SGpOcmx3YkVPX0Q0eWlFVmwwMGFPdDlwbVQ0WmQyR0I5NXBtelVNN1o5VHF0SkNJeGcyTjI5TTFBYmJLWGxDeGp2T1dQUUkwQm5jQ0p2NHZJcWtJcTJ2OHZfOVU1ZDRmdWgwM3YzTjdvLUhB?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "TAURON",
+      "publisherUrl": "https://media.tauron.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "54"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-73fbfe08b1c3cc982b",
+      "date": "2026-10-28",
+      "title": "Posłowie od Morawieckiego chcą sprawdzić marże Orlenu. Kontrola bez spotkania z zarządem",
+      "title_pl": "Posłowie od Morawieckiego chcą sprawdzić marże Orlenu. Kontrola bez spotkania z zarządem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Podczas środowej kontroli poselskiej nie doszło do spotkania z prezesem i wiceprezesem Orlenu - przekazał w środę PAP Piotr Uściński (Rozwój Plus). Dodał, że w związku z tym przedstawiciele Rozwoju Plus przekazali pytania na piśmie z prośbą o jak najpilniejsze odpowiedzi.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Poslowie-od-Morawieckiego-chca-sprawdzic-marze-Orlenu-Kontrola-bez-spotkania-z-zarzadem-9219873.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-6f4f3deb8bba4ff68a",
@@ -1938,6 +2112,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-480162831334eef920",
+      "date": "2026-10-28",
+      "title": "Od Orlenu przez InPost po Becherovkę i zbrojeniówkę. Polacy i Czesi: ten sojusz może zmienić układ sił w UE",
+      "title_pl": "Od Orlenu przez InPost po Becherovkę i zbrojeniówkę. Polacy i Czesi: ten sojusz może zmienić układ sił w UE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Najnowszy raport Instytutu Sobieskiego pod tytułem „Tandem Polska–Czechy. Nowy sojusz gospodarczy w Europie” niczym na tacy pokazuje, jak rośnie strategiczne partnerstwo regionalne, które ma potencjał, aby w większym stopniu oddziaływać na całą gospodarkę Unii Europejskiej. Polska i Czechy to obok Niemiec dwa najbardziej uprzemysłowione kraje…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Najbardziej-uprzemyslowione-kraje-UE-zwieraja-szyki-Sojusz-Polska-Czechy-moze-zmienic-uklad-sil-9219598.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -5556,7 +5759,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51TjJUVmx3UmFKYUZzRjN3WmlESlFmNVpDbTBPZ2NyRjZHaEwxTVlldE5xRURVLTItXzFVNDJJeGEzOFdzZTNSbk9lejBVbUcyZnRxdDZLeUF3d2ZiejdNZnpEcGM5NUZQM2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
           "type": "official"
         }
       ],
@@ -8243,6 +8446,35 @@
       "reviewed": false,
       "sourceIds": [
         "57"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5b8a6340745185aecb",
+      "date": "2026-10-26",
+      "title": "Sprzedam 10 MW ME + 12 MW PV",
+      "title_pl": "Sprzedam 10 MW ME + 12 MW PV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuYW1zNEZuVGpyS1phNUpqSUZrNzRaWXFMa1lRNXp2R3lBQzF4Z1hncFZNLVhFRkpkZVJ1bXY5NEZ3VHZtU25sR0R4bjFSQ3NBWmtoblZDRVlMdk4wQmJTMk5oZVE3SW8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
