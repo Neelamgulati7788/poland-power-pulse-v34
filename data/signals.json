@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:55:34+00:00",
+  "updated": "2026-10-28T15:53:59+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -565,7 +565,7 @@
       "links": [
         {
           "label": "Energetyka24 — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSlNXdXVTdGZ3eW4xQXNhc29XU1NDU2t5aEtISnFXendDaUZaWkdKcngtN0tKWTIxclV6QXZpS1ROZm1OS2l6el84R0p3ZHNvV0ZQYVVDbXFyOHdrQlFPcGx6LXJCX1FVTm9rRGRqRzhuR2I3UHNYWWRUSVBYN1Zjb0VrR21xSEVFUDRpRDZuUW1GWWlpTDk2MkpzQTlrZ3VSTEtpZ3Y5NVl1bFJoUlNJYkMwSGhCMTBsQno1WDNNeDZETXFTeWI2ZFc4WkVhcU83RUJ5dUkteWdxZGVGbkE3WDdjcGVvck1UTFUxWVlnQzk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUZJQTZKMjRJNlg2NmdOMmJRbVROaGh5VnFoTjY3YUx4UUt4OGJWY2hZNkwxNS1zZHlrbkpVNmREdTlmNEg0N0xOYXRPUldudnJhT2JyaFVPYzE1V3VEZ3ZzQUNNNWRidWlMb01YUnBsWlBteGRyeUlGWExVVGRWXzZhYWdkcW5Ocm9sS3p2RlVLOHRvZnJQaDRzOTNGZjQyYTF0MEV3bkNiWGo5VWkzcFZ0QUU3RW9mT1IxYXdUX2t1S2wyQ3EyanpvU01nbzhDcDQtOXJNaDJKRVVXNm5SNFJn?oc=5",
           "type": "press"
         }
       ],
@@ -604,6 +604,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b552caf5bb509ca752",
+      "date": "2026-10-28",
+      "title": "Ceny gazu już trzycyfrowe. W tym roku błękitne paliwo zdrożało 3,5 krotnie",
+      "title_pl": "Ceny gazu już trzycyfrowe. W tym roku błękitne paliwo zdrożało 3,5 krotnie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Cena gazu ziemnego w Europie osiągnęła w środę poziom 100 euro za megawatogodzinę, po raz pierwszy od prawie czterech lat, co podsyca obawy przed nawrotem kryzysu energetycznego w momencie, gdy region wkracza w okres szczytowego zapotrzebowania.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Cena-gazu-w-Europie-osiaga-100-euro-pierwszy-raz-od-kryzysu-energetycznego-z-2022-r-9219751.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -728,6 +757,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9e20d5a4553db5c75a",
+      "date": "2026-10-28",
+      "title": "Qair turns sod on 80-MW solar farm in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWJYUzdWTENxMGdoamhUXzZ3RF9FVVZOV1lwME5NY3ZBaUdJWGFoWXl0XzR4Rk1WTDBSNXFqbjhnMlhoZnBab2hhTXEtZFpXZVJldFZnQWRrZGlFRC1GZ1A0M2dsY00wWWJENjhrTWZyQVpvdktDRnpRTUFKV1FXS0FIUkhLZ1ZsM2o4SQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9900e7b0de557fb12d",
       "date": "2026-10-28",
       "title": "Gas Storage Poland jedynym wspólnikiem CHEMKOP",
@@ -826,7 +884,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXQ1dGtLSjZDbFBWWmdtTjZvZEpNV3RKVVlkdzZaZ0FFNmtxUXIwczh4bVdIaXh3UVByenJZNUprUHVRVXZkYWpGRGZNbTRoSV9hS2E0VW90T01uNS0xY05WMWgtSXBkaElDLXpQMzY2YllZUlNxOVBzcDNlZFpsRWgtcXB3UXR4TS1vNnhENVNpQ3c4RDM5RHh4RWRDdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHlXT3FwMUR5OXRPdHNBUVZwYUl3dXc1cnV2Q3hRdU5IeTl4dVg2aEdUbGVtaDgyV2xuaUhkeE5Hb285Z3JLbmJWYzlEX3hxOEFHdGxkb3VlcTk3Um9SZzFmRm1zMFUxT3k5UHlBVmlKLVk5VjJJODJiX2VQUml6WWljODZUd0FadUg3aFVPaGl4OTVUclc1bzFVSGVBNTFST0NiZ1hnQQ?oc=5",
           "type": "press"
         }
       ],
@@ -900,6 +958,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8e8a66937cc4704989",
+      "date": "2026-10-28",
+      "title": "Montaż instalacji odnawialnych źródeł energii na potrzeby oczyszczalni ścieków i hydroforni w Gminie Bargłów Kościelny",
+      "title_pl": "Montaż instalacji odnawialnych źródeł energii na potrzeby oczyszczalni ścieków i hydroforni w Gminie Bargłów Kościelny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Bargłów Kościelny",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df350b-ae67-2d5c-f9f4-660001a3c4af",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-8dfe23b4803aa2ef6d",
@@ -1134,6 +1221,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-616d395ebd7b97b3c5",
+      "date": "2026-10-28",
+      "title": "Dostawa energii elektrycznej dla Akademii Sztuk Pięknych w Gdańsku",
+      "title_pl": "Dostawa energii elektrycznej dla Akademii Sztuk Pięknych w Gdańsku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Akademia Sztuk Pięknych w Gdańsku",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df350b-8cdf-6368-f9f4-660001a3c4ac",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5f792a44533aff3b2f",
       "date": "2026-10-28",
       "title": "Energa-Operator zwiększy o 110 MW moc przyłączeniową dla Elektrociepłowni Gdyńskiej",
@@ -1145,7 +1261,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
           "type": "press"
         }
       ],
@@ -1153,7 +1269,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -1204,6 +1320,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHhkTGlVeFRQTUhidzZJT0l4QXlSRU1IbkhCb3g0YXNQTzRfUHpRZGJUNFh2VUE2SHBhQlhaM19VTmlpampJbWxQUlMxM1c2RDB5Zmw3enZaMHViUURzLUs2M1pqUWN6Mkh4bnVURXhhb3RIcVd6RWhhd1phMmVqV3Vkckl3ZnpjS3hQWkY0S3VBX3JqX0xjQVZKRkxWOEt5Sy15VjRmVXJ4RThTZmlqbA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5abce2b90ca3a23913",
+      "date": "2026-10-28",
+      "title": "Archiwa Pompy ciepła - Strona 26 z 26",
+      "title_pl": "Archiwa Pompy ciepła - Strona 26 z 26",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUExfbXdMXzVwTlBnMUQxS3lnb0RZcktNdjI0bHdoejJtaThrSk5YQ2NyV3dCZmlkTE5LMmpMRmxUVUdCWi12bFhSTk8tRGc5NHB1OVNpcS1qTHE3RUhn?oc=5",
           "type": "press"
         }
       ],
@@ -1888,6 +2033,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0a7a2ba28d879619fc",
+      "date": "2026-10-28",
+      "title": "„Sztuka na wynos” w Warszawie. Wpadnij na kawę z ORLENEM",
+      "title_pl": "„Sztuka na wynos” w Warszawie. Wpadnij na kawę z ORLENEM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamVWTFZpejZQR0pfN3gyVHRWaUl6X2M2VXJrelM5amh4RUFVdXViN01Na2VXc3NlY1dGTEFXa0lMdW5QT3JMSlJSLVpERUlaUk5rNUVCcHpoU01GcGxNYzZoQjNFblhiT0pVRS1rWGxjNWlLaVozVktqeEI1Smk4WnNGNDRCZUdtaWV1RmlSdkVDWVlJNjRUNVVzRWpmUmZxWlhWS2Z5ZDhJTnIxRWRYWTVmWlYwLWVianBtRjRaMVpzUQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-06c2fe401adb97a602",
       "date": "2026-10-28",
       "title": "W Stalowej Woli ruszyła budowa Zakładu Odzysku Energii",
@@ -2115,6 +2289,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e2817f813ab50993e6",
+      "date": "2026-10-27",
+      "title": "Kupię projekt farmy PV 1 MW",
+      "title_pl": "Kupię projekt farmy PV 1 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXZRY3U2ZUdkVFZYdVYwcXpMdzQydWNOcTFpdmdIUV80LXJFaUlWdGZqWENaVGk3WmR0SnQ3NXVBZTU1NERlS0J1bnRkekk3Wm01c0x3anlqeElReUp6cU1ZOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
