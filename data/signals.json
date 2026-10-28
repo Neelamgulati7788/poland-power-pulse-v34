@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-28T00:04:14+00:00",
+  "updated": "2026-10-28T00:58:18+00:00",
   "signals": [
+    {
+      "id": "src-537e114a923f3eaa04",
+      "date": "2026-10-28",
+      "title": "Wymiana kotła gazowego",
+      "title_pl": "Wymiana kotła gazowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZESPÓŁ SZKÓŁ CENTRUM KSZTAŁCENIA ROLNICZEGO IM. WINCENTEGO WITOSA W RÓŻAŃCU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3489-b6bf-c8e5-75d7-fc0001a43a42",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ff48d41c580ae2fc78",
       "date": "2026-10-27",
@@ -583,6 +612,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c075c06ea56f0f91e3",
+      "date": "2026-10-27",
+      "title": "Transformacja nie czeka. Forum Energii przedstawia coroczną analizę stanu polskiej transformacji energetycznej",
+      "title_pl": "Transformacja nie czeka. Forum Energii przedstawia coroczną analizę stanu polskiej transformacji energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Forum Energii — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMzlpQk1acklzQnhMRi1Rc001bElmSXlQbC12WnhRdEhKQ0gxc2dRLVQ3VHU5b0lQTGo0QkdxeXJzOEZPOGNUTWk1eWVSdlU1VnFfRUVJWDFranNPWGlzZHcyenlEMEJRdlpXOFZVQXpFQjJQTXRuSHlIVmxCbWs?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Forum Energii",
+      "publisherUrl": "https://www.forum-energii.eu",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "47"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bfeaebdc7d4d490146",
       "date": "2026-10-27",
       "title": "Biogazownia 0,5 MW",
@@ -1147,7 +1205,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWJmNEZtRnNuQ19GeUplTTBQSEJKal8xMlR6b0F4ZWZrazc3ekVpM2E3SzdMMTlrQUtESFg0SHZJODZ1WnktNG9WMmFUamhFbEVyYmgxU0lpWGlrQklSR2syMXRjS29HeWFPQkJJaU5lU2c3OHU3VHdVdzdRa0F0OUhkQUlWVWpmN2Z1RVpHUnVib1YtUkJKZ25jLWl6TVFkN1daQVp3VkJDcWVYYUFacA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEk2d19KOFdISkc1VTNaQXVQaVd2aTkxenBxVkl1TmFvNDdlMzVuMlZUZjlveXRvNjNQd1dPNlNxRlFkQmhpcEF5aUJEMUtiNU9Kdk0wTVIyc0FBdWJCa1ZPekpJcnBJc2R4YkpYSUh5NGlpaDhuVFdBbDZBeEcwREVURFRVclhERktsZ2oxZHdoTFNnU25ETG8yeTQxVGc?oc=5",
           "type": "press"
         }
       ],
