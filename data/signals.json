@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:54:03+00:00",
+  "updated": "2026-10-28T13:59:50+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -2301,26 +2301,27 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "IPP Greenvolt has agreed to sell two BESS in Poland to A&R, PGE Group has started building an 800MWh one, while SC Holding, Tauron and Tavion have launched projects into the country.",
       "links": [
         {
-          "label": "Energy-Storage.News — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdG9pYW9LVHdFekU4UkJXWFRrM2NXT3NrUjUzMjNuN296YTc2WHVsTE1kVFF5dDB4NTZoVDFOeEpJX1M2bE1MZWpzQnVlVnYzQ3hpN3lSTzVLR3VqZjlScnV2LUFoaE9rcVZwWnVPUjdEdWZ3MlFBZ196X0FVQWZlUnd6RkxNVFB2WHdKcmdxakVobl84a0JTd2ZpemJBVUZCV1VZSFdYLXNNWjhpMm1xTjhrUUpZaDJFZGc?oc=5",
+          "label": "Energy-Storage.news — source",
+          "url": "https://www.energy-storage.news/poland-greenvolt-sells-1-6gwh-of-projects-to-ar-pge-building-800mwh-with-fluence-tech/",
           "type": "press"
         }
       ],
       "cos": [
-        "PGE"
+        "PGE",
+        "TAURON"
       ],
-      "publisher": "Energy-Storage.News",
+      "publisher": "Energy-Storage.news",
       "publisherUrl": "https://www.energy-storage.news",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "38"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-bd2295dab8ce6b26c5",
