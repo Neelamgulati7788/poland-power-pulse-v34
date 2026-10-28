@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:46:09+00:00",
+  "updated": "2026-10-28T04:46:19+00:00",
   "signals": [
     {
       "id": "src-e9ab54634bce2c4de6",
@@ -478,7 +478,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
           "type": "press"
         }
       ],
@@ -781,6 +781,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bec85cbc07cb21b927",
+      "date": "2026-10-27",
+      "title": "polska elektrownia jądrowa - strona 3 - wiadomości i popularne artykuły na wnp.pl",
+      "title_pl": "polska elektrownia jądrowa - strona 3 - wiadomości i popularne artykuły na wnp.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVHhmOFBJeWdsVDNWSEh0VmNZLTFXMTlydmJ2dnNSUlFaUUlwVHRRNnhhQXpDUlpMOTB0cnR6TTNodHgydU10cld2N3hPZGNsXzQzX0o3YnJzU0Q3LWRPLVdsNmlIZHlVTDFNbjFUZGN3Smll?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
