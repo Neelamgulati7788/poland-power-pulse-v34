@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:49:14+00:00",
+  "updated": "2026-10-28T19:48:39+00:00",
   "signals": [
     {
       "id": "src-fef96d600e1faaa166",
@@ -165,6 +165,35 @@
       ],
       "cos": [
         "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f287ebad1157d4b459",
+      "date": "2026-10-28",
+      "title": "POLENERGIA: Rezygnacja członka Rady Nadzorczej",
+      "title_pl": "POLENERGIA: Rezygnacja członka Rady Nadzorczej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2E2N2lGb1BiVTNZU1U1VWVWa3AxbGMxV3lMODhBeVFDeW9DQXZCNTc3OTR6RlhjX1VaUVJ6YTBteWlReDM5dnZBLTlrX1ZSMVZwOUM2UVF0dHQ2d1FCX0hVenotSkRibGNnNXA3MDQtdEFmMWdRQ04zQ0FnTktjSXNEM01SUFZxNEMzUldSbGsxRkJ5V2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -549,6 +578,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dbc32f17719ad5864d",
+      "date": "2026-10-28",
+      "title": "Lawinowy wzrost zainteresowania. Podpis Nawrockiego game changerem dla nowego gazu",
+      "title_pl": "Lawinowy wzrost zainteresowania. Podpis Nawrockiego game changerem dla nowego gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd29DSk5MNndfWG4wWWFndFdYemwxVXpKbWxjTkJZQXBEdktrYnZJMjZLS0padGlUc1dJMVBHdGhXVlRfNjIxcUVCUnpJNERtX2xHNHQ2amhXc0p2VDlxaUdOT0hNRnRjQUpVSHdzN2F2TWlDYXF4VXI2WVA2LUgxWWwzdTFBSEx0QnJuY2pYZ1Z4dGxTZERzSktiRHVqLUU5bVdVV0lsNGdfOU9nb3dtNzlhdUJKV1hkTlhkbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5933,7 +5991,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51TjJUVmx3UmFKYUZzRjN3WmlESlFmNVpDbTBPZ2NyRjZHaEwxTVlldE5xRURVLTItXzFVNDJJeGEzOFdzZTNSbk9lejBVbUcyZnRxdDZLeUF3d2ZiejdNZnpEcGM5NUZQM2c?oc=5",
           "type": "official"
         }
       ],
