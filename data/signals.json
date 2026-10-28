@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-28T10:47:42+00:00",
+  "updated": "2026-10-28T11:43:57+00:00",
   "signals": [
+    {
+      "id": "src-fef96d600e1faaa166",
+      "date": "2026-10-28",
+      "title": "TAURON acquires Polish wind and energy storage projects",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGMxZ1EzWU1NZjJCcUhVeWFzVGJpX1A3eVgyeF9rRVIzWDAwaXZYYUxCRC1RcmFzb3lQUXNWOWtzZVhuU2ZaNXV5aGx3d09ZUXRDSWpFMk5WbW9NN25FVURuejV5aXRRd0ZXXzN0R2xPVlozVk9RYWgwdV9LXzd2RktzYTQwQzk4YkJHLS1jZHZuZmQ1WFBn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fd6e922c33ba6feccd",
       "date": "2026-10-28",
@@ -115,6 +144,35 @@
         "45"
       ],
       "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-dadfe363fadb782649",
+      "date": "2026-10-28",
+      "title": "Uchwała Senatu w sprawie ustawy o wsparciu przedsiębiorców sektorów energochłonnych z tytułu ponoszenia kosztów energii elektrycznej.",
+      "title_pl": "Uchwała Senatu w sprawie ustawy o wsparciu przedsiębiorców sektorów energochłonnych z tytułu ponoszenia kosztów energii elektrycznej.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3274",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
     },
     {
@@ -292,6 +350,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ae525844599e88d501",
+      "date": "2026-10-28",
+      "title": "Dane prawne Tunduk Energy & Construction, historia zmian. monitorfirm.pb.pl",
+      "title_pl": "Dane prawne Tunduk Energy & Construction, historia zmian. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBNmJYdUZ6NUxyaW1BRGp2OWk0WFVyV2ZSMS1GMTRjYzBvaHdxazZJcnRoNElqM3dzNEw0dmFqRkdYVnRHZFBWMlZHSms2Z0k2TVU0MkI4dDlnVEJDeVJfRFJRQ3B5MTlsRF9jV2ZGeWt3QWF4X2IwSEQ1cTk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a5c8e985406f250bfa",
       "date": "2026-10-28",
       "title": "NFOŚiGW dofinansuje budowę nowoczesnego magazynu energii w Lutomiersku",
@@ -316,6 +403,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a20595a57aed1e1230",
+      "date": "2026-10-28",
+      "title": "Polskie cukrownie zyskają nową rolę. Chodzi o produkcję biometanu",
+      "title_pl": "Polskie cukrownie zyskają nową rolę. Chodzi o produkcję biometanu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYXpXZUVTOVp4MVR5RUIyalZvZWZtdWdlQkE3ell3cUNTbEp1Z0Q0WEZPWXY5TmN5SC1sY0JsaXlEMk5jY096X1dPZDJBTXRPWHRnOHM3cTFxYVR6WE1kNU1RQmdQTmdZSmJyTFZDZElPdm1BSDJBQkEwZ0gxOEpsRGlUM3dNbkh0dHNSTEk4ZDdiNnZOUmZQdVp1VGcwWVdaQzktSTdTdjBTS1BNQTNVVTR1SzZwdUhoYzVfUEJ5VkQ4U1B0eWxUNEtGdEtsMW5jZTVCbnh3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9900e7b0de557fb12d",
+      "date": "2026-10-28",
+      "title": "Gas Storage Poland jedynym wspólnikiem CHEMKOP",
+      "title_pl": "Gas Storage Poland jedynym wspólnikiem CHEMKOP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0VyNXhwVE9tZWtSdERNQ0toVlRudGVJTkxRTU8wMmZ4UHJINENzVWVXRmdJelBael9feGZDb0o3a0NYVWVaazFnSkJiZVRoZ29kTEhOMTE1MHVzYmV1UDhLdTFYWFg1dnhQMjdxWFAydHVzQVhidXRVLWsydFhtcmlHS2F3Njd1bTdEMEgyYVY5WTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -722,6 +867,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4c4cc271739ec1e96c",
+      "date": "2026-10-28",
+      "title": "Niemiecki producent domowych magazynów energii zgłasza upadłość",
+      "title_pl": "Niemiecki producent domowych magazynów energii zgłasza upadłość",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVpObUc2RGhlYnFQWi1aV25JMVZQRnpuejdmVVNOMEVmbEcwMm1aYlN1bUJOUzM0STFSSktkTDZjakFsX3AyNGdXVFVhWFhReXBHSkFsNjVreFlqenV3OXNHTkFjWUQ2VEE2dl9uRkF3ZG1YSUNOTlVMSHRvN2pfRDhqUlhIV0hMUktCcjliYzBIRmlDZnkzS3poVERvYmxtRmdUQmVsSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1395,6 +1569,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d661720bb2716b22fb",
+      "date": "2026-10-27",
+      "title": "Orlen otwiera biuro w Singapurze. Chce powalczyć o gigantyczny rynek",
+      "title_pl": "Orlen otwiera biuro w Singapurze. Chce powalczyć o gigantyczny rynek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGlkX0ZoSkhrSWx6RDRqLVV1amMwLS1NQ2FTamhqa2hkSTFqNlFZU3FwS2tEY2R1N1doeHBCMGtpNHpERHpWd1cxcG1DV1p6VXJiSVI2WWF4Mi1wM0toS3RCUVExb2RCeVFlTENCMTl2ejdEWHpNeXpSZHZwekc5X3hyVEptdGYzX0x4LVA5QWhQa2tVM2w5RXU4NTRWc002RHhSVlp3VDN2TUU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d33574322a1606bca6",
       "date": "2026-10-27",
       "title": "Komunikaty ESPI dla ENERGOINS[ENI]",
@@ -1435,7 +1638,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
           "type": "press"
         }
       ],
