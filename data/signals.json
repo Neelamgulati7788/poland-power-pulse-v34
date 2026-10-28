@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:59:16+00:00",
+  "updated": "2026-10-28T08:52:45+00:00",
   "signals": [
     {
       "id": "src-fd6e922c33ba6feccd",
@@ -52,6 +52,35 @@
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d909f8566ff955107d",
+      "date": "2026-10-28",
+      "title": "Dostawa energii cieplnej do budynku użytkowego położonego przy ul. Kasztanowej 3 w Sosnowcu",
+      "title_pl": "Dostawa energii cieplnej do budynku użytkowego położonego przy ul. Kasztanowej 3 w Sosnowcu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miejski Zakład Zasobów Lokalowych",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df34ce-c4a4-ab16-8b01-b8000139d4d9",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "45"
@@ -245,7 +274,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSTU3dDBRTG5VTkNqVmlxd042eXZQUF94Vk1sbTZzVEVBa1N5SmdnV1JmbFZmdjk1aXhITHJZX2duR0wtVXNlVi1MVkZyc0VQU2JfMGIzWm9QVmxHc3BZMXFYelZ6OTdjNUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EblAzUlNCMTIyQUVsdTBRTzVMdHhwVEhtY09RdXRjVE1tZ0hHZ1hMOW5fSlNWZzhwV3dTQVM5MDZIellUUWhBcXFtY0lTSW9qaEd6dV9yNEN0ZFJXd05QUjRpc3dsekFvUkE?oc=5",
           "type": "official"
         }
       ],
@@ -437,6 +466,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-3bcb1da51729e98503",
+      "date": "2026-10-28",
+      "title": "Rynek komentuje uruchomienie dofinansowań na przydomowe magazyny energii",
+      "title_pl": "Rynek komentuje uruchomienie dofinansowań na przydomowe magazyny energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDZhUGlvVUxRbUEwSDZZOUVSZ1hYZjNaa2E4WVNfM1BkSU4zT0hSNXlJbE85NDUzSk9relI4RmtYQ1dmNmRVMEJkcDBtQkFzVWV4UkJ4U3VrX2lRUEI2d0xMTmJvRTlWNS1TczlvVkdvZnVKMVRpai1uMzlSWUNja2tpTExPdGs0c2hLR3dIWUR2QXhTYW5lVnN3NDdaYXBveV9PQkI3aXRla01XUk04NlprNFQwU1RPS2NuUDFCUVE5eUVNWXp3WQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2aaf42a2e525048a1b",
       "date": "2026-10-28",
       "title": "Przydomowy magazyn energii: jak nie przepłacić i nie stracić na inwestycji?",
@@ -461,6 +519,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-236dc92773b17b69e8",
+      "date": "2026-10-28",
+      "title": "Odzież robocza dla firm energetycznych: co trzeba ustalić przed wyborem dostawcy?",
+      "title_pl": "Odzież robocza dla firm energetycznych: co trzeba ustalić przed wyborem dostawcy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3ZCZW5iRV9hNEJ3WU1hdjhKM2RHdFBkQldPZUdzZUV4YmY4NERHd1FBa2dMbnUtRTM2QVhxcWVLRGNPRHVBRkplajNkVW5ld2ZIdkRuWG9MQXNEenU3TlRqVk1XZUhpYjRvOU1tUDJVam40YmhtRlE4akRPbUZQOE5sRlpLNWdFQjBkYmxPbFNkQUxIQ294bVVad0NZQm9tbkF6MHVYZV9zMmNUdVRmVjhXT0NabEwwOEVJS1ctUnNSanl3UE51aTJ2eks4ZW9T?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -942,7 +1029,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3V5SVFPM1pvLVhrUkJmbnNOUk1hUnp1LVBhUU5reGlGVXNSODl0S2lRMWJhSXN1RzdCc2c2S0oxcGJJeGp6M1dKVmtOUTJCX29FeGo5M2NtNzBpV0lfbGp5RmJiX2FjZEU3N0ZLbHhVSTBpbFZia2Y4Ni1mNmpmeDljUHVIdm1D?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUxIUFJwQXA5UEdKel80MFFRMDY2X1I4YXJ6d0hmOWNib3Z2emhBRmNFNTJfYTNVYXE1OXk2RUU4Z3owYjBjRk5pQ09CLVFQNlJHaldLdlUwRTZfWlVqeEFtYWc0bmtzdlJzekE2dHNPRVgxYzVyRHp1QXRnMGdYdlZKNjVMalVp?oc=5",
           "type": "press"
         }
       ],
@@ -971,7 +1058,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
           "type": "press"
         }
       ],
