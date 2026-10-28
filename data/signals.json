@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T04:46:19+00:00",
+  "updated": "2026-10-28T05:44:14+00:00",
   "signals": [
     {
       "id": "src-e9ab54634bce2c4de6",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b6246eb98657ac547b",
+      "date": "2026-10-28",
+      "title": "Rynki, surowce i AI. Branża finansowa i inwestycyjna spotyka się 5 listopada w Warszawie",
+      "title_pl": "Rynki, surowce i AI. Branża finansowa i inwestycyjna spotyka się 5 listopada w Warszawie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Geopolityka, perspektywy gospodarcze, globalny handel surowcami oraz zastosowania sztucznej inteligencji w finansach znajdą się w programie 15. CFA Investment Industry Conference & Workshops. Wydarzenie organizowane przez CFA Society Poland odbędzie się 5 listopada w Warszawie. Dyskusje obejmą również transformację energetyczną i inwestycje w technologie podwójnego…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rynki-surowce-i-AI-Branza-finansowa-i-inwestycyjna-spotyka-sie-5-listopada-w-Warszawie-9219008.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-8f8be57fb7c91c33f4",
+      "date": "2026-10-28",
+      "title": "Elektryki i hybrydy zdobywają Europę. Ich udział w produkcji aut szybko rośnie",
+      "title_pl": "Elektryki i hybrydy zdobywają Europę. Ich udział w produkcji aut szybko rośnie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHlXT3FwMUR5OXRPdHNBUVZwYUl3dXc1cnV2Q3hRdU5IeTl4dVg2aEdUbGVtaDgyV2xuaUhkeE5Hb285Z3JLbmJWYzlEX3hxOEFHdGxkb3VlcTk3Um9SZzFmRm1zMFUxT3k5UHlBVmlKLVk5VjJJODJiX2VQUml6WWljODZUd0FadUg3aFVPaGl4OTVUclc1bzFVSGVBNTFST0NiZ1hnQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5db42c385c1e3f5aeb",
@@ -478,7 +536,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pES29OSjEzakFfX0JYUEw4SXhMUE0zS1BCblRuUDBMQ2hFZWpjZzk4UGRCZHU4RUFscGVkS3JYQm5oY3ZrMmtaVFBNcERlaFlXOFR1TnhNV1MwUHY5amRmR0ExTDZaa0JuZFlPTEk1Y1dZWUl4X200bjM1UDhxODF0cXNzaXQ3UWdubnZuQktiaG9UUC16QVFYYnd1RHVWaWdlNW9FOEs0OXQ4RTh0MWIzc3VlLVRhTjZ0aWpaa3k3YmU5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNYaVZmcTJVRm1XdE5jYTFZdXk5TVp6QlB5RnlONUhEUlZycU9jQV85NzBNaWNxcEJzTURTSFRMTnBHWEY0RHlOUGZ3M0lISVhBaUltOE53aE1OQ0hla3VPZUI3NEFTVjFaTDQ5Y3FNYlZ2eXUwUXpBTHBOVnRmRFY3bVFoMmZQaWJNelFqcVR5OWVSRVZ5eEJENmVQOGNPVFFMbF82dXY1Q1J1NWtTM280RmRndw?oc=5",
           "type": "press"
         }
       ],
