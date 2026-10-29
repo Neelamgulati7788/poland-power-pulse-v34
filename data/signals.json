@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:48:30+00:00",
+  "updated": "2026-10-29T05:45:21+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b072784fbdf3ed7424",
+      "date": "2026-10-29",
+      "title": "First BC-Wind monopiles arrive at Świnoujście offshore terminal",
+      "title_pl": "First BC-Wind monopiles arrive at Świnoujście offshore terminal",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "The first monopiles for Ocean Winds' 390 MW BC-Wind farm have reached the Świnoujście terminal, the first time foundations of this size have been handled at a Polish installation port. The post First BC-Wind monopiles arrive at Świnoujście offshore terminal appeared first on Baltic Wind…",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/first-bc-wind-monopiles-arrive-at-swinoujscie-offshore-terminal/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8e84c015e37a065dfc",
       "date": "2026-10-29",
       "title": "DENER/01/10/2026 – Dostawa i odkup energii elektrycznej w okresie od 01.01.2027 do 31.12.2027",
@@ -116,6 +145,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1885cd71a0e08adea4",
+      "date": "2026-10-29",
+      "title": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego",
+      "title_pl": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTJBTF9MRlVUY01DMk0wMnQ2Mkh1VTFrdnhRRTR5dm1LMG0xeHRBMzZQRlA2T25vVHdQZzdxcDVnd0ktZ1RiZk9SWVZ3LWVJU1VpNHpOVUhBblg4WlZiTkJjWDA2cDBuN0hUc2J0MjdTQkJYN1JsZnJGOGhMRVh1alE2LVNKNzRERjQ4MktVY1gtRDZ3MnlVNFBHaEVPdk9HX2RVaFRBNkRGWWJzNkg5Rg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-026247d881091adb47",
+      "date": "2026-10-29",
+      "title": "Dostawa energii elektrycznej do budynku przy ul. T. Kościuszki 131 we Wrocławiu, będącego siedzibą Starostwa Powiatowego we Wrocławiu.",
+      "title_pl": "Dostawa energii elektrycznej do budynku przy ul. T. Kościuszki 131 we Wrocławiu, będącego siedzibą Starostwa Powiatowego we Wrocławiu.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powiat Wrocławski",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df357f-940b-64c2-cfcf-e60001c05c0a",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-fef96d600e1faaa166",
@@ -1464,7 +1551,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqY21nd3lwajBfdHZFWW9weTQtTUdSTWhTNzViQVloeUVUaFQwaEx1elhhams1RG1SWTJRS2xFR09GV0FNRXY5cXg3U3NTMmJT?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1ZzUG1nRnpiQ2tzQkNLcjQ1YVp5RnF5WmRKTlRjV1lKTDdsQ3hWVG9wMlJwd05sOXJFTVZmMGwtTmc4b0hla2VmUzlEbkN4RU82R0N0c0FTWHFmTm4xcmdRSGFyRkl3cldVM2VhUFZXM0ItRGc0QURFX2c0Qks4M3k4RlpHRmJ0bWZqcUMwdWN5OE1RNE5wYTFGLVJXQ0lZMnBfQy13?oc=5",
           "type": "press"
         }
       ],
@@ -2131,7 +2218,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
           "type": "press"
         }
       ],
@@ -2139,7 +2226,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -2724,6 +2811,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-36232aac7269a7f91c",
+      "date": "2026-10-28",
+      "title": "Polski terminal po raz pierwszy obsłuży tak duży projekt. Dotarły fundamenty farmy BC-Wind",
+      "title_pl": "Polski terminal po raz pierwszy obsłuży tak duży projekt. Dotarły fundamenty farmy BC-Wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3A0RWFBYzZPLWEydk9mVm5qZkJuc1VIZDI2cHotN1RmWWE0VWlSVmNPMTlXWGRkRDBheVg4Q0pyaHdlZ3F2dFRMVmxock95MmNrWXZoV01qRTI3MUdCTnlwa24yUnZvdkNVd3FvM3NabkdTcjRHMnFkYjNFYU9NWEVwVkZleTIyVVFHaXU4dllaSmdad1J3MjdUY240eFVVMXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4976,7 +5092,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkZuNC0tazVhWGlRRk4wQmllRlc4a0hhcmQ1a0RhejJTd0VHek4xdEJEZGtseXp4R0tnTUNJOFBHbDBOWGpPbzlHRl9ldE5WajhUSTBTTHdUTVJ3UmdrMkxiNHhEV3RxeE9MOTlNT0R4VUtZNlZrYkFSSzI4ZjJvVEdGUjhqN2NzaHl6V09fV1lvOEtpOE5nLUVNdkhaRXpRYnJBMjZ2XzljQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUtPbUNJNHdTNGJHaUpkVjVyV3ZnQjBYREo3U2VYRmxpTlg5bEVfNDRsd0IzdG5sSTczTHJGcm1uVVpkaGJBUlNwZk42S1FkdWJ1MmFrQWJDRHVISUtxWGE5eW1kay1pWElpVlhQbE5KQmYxR3ZFSEZDNGN1elNTM0pUeTBtcnVnaFpfUVJ3cEEwMVd1M1ltZQ?oc=5",
           "type": "press"
         }
       ],
@@ -6426,7 +6542,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51TjJUVmx3UmFKYUZzRjN3WmlESlFmNVpDbTBPZ2NyRjZHaEwxTVlldE5xRURVLTItXzFVNDJJeGEzOFdzZTNSbk9lejBVbUcyZnRxdDZLeUF3d2ZiejdNZnpEcGM5NUZQM2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
           "type": "official"
         }
       ],
