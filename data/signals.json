@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T06:54:49+00:00",
+  "updated": "2026-10-29T08:01:44+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ee088893dec400ae42",
+      "date": "2026-10-29",
+      "title": "PGE gets co-financing for 8 MWh of energy storage in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWNrZzJLcU14a1ljYmlDZ2NKbVhOc1R0REs3NTAtdlJ3VEJteFJZWnBOZ1JMb252bDVmUWdZWWlnWXZYWTlHVjd5V1NrZkZJM3RnbGpUOFNZVWlXNG02VjZlSDJrRk43TmF4Qmlvd1Jlc2lkeXRfMU9XTVZ1UXZrb2FhWllMZEtVaW9RSU1kWUMydXo0dHpFOTFUQ3pnSjNr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -60,6 +89,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e185c37c3a7551bd18",
+      "date": "2026-10-29",
+      "title": "Nadajemy przez kuriera, odbieramy w automacie. 15 miliardów złotych dla branży",
+      "title_pl": "Nadajemy przez kuriera, odbieramy w automacie. 15 miliardów złotych dla branży",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W 2025 r. przychody w segmencie przesyłek kurierskich wyniosły blisko 15 mld zł, co oznacza wzrost o ok. 8 proc. w ujęciu rocznym - poinformował Urząd Komunikacji Elektronicznej (UKE) w raporcie. Najczęściej w ubiegłym roku Polacy nadawali przesyłki przez kuriera.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nadajemy-przez-kuriera-odbieramy-w-automacie-15-miliardow-zlotych-dla-branzy-9220042.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-b072784fbdf3ed7424",
       "date": "2026-10-29",
       "title": "First BC-Wind monopiles arrive at Świnoujście offshore terminal",
@@ -87,6 +145,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-a690c4a7c258112b08",
+      "date": "2026-10-29",
+      "title": "■ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ■",
+      "title_pl": "■ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ■",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEVrMEFIUjZhUURTWWJCazhiYzJUNTNHam9Bc08tRVpDaE13d3VUQ2hSdnVzVlJySjBMeHRleE1PWE1VdHJZSVVjWGQ0bnBEZFBoVWFTajBtMjAyaTZyd0lraURwUkdtSnk5RWUtMkZQa1hHd2k3N0hobkpXMzhzaThHS3hLZVFncDdCanJR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8e84c015e37a065dfc",
@@ -263,6 +350,122 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-3fd7a57ca22b0524a4",
+      "date": "2026-10-29",
+      "title": "Zamieszki w Madrycie i gaz łzawiący po katastrofie kolejowej w Toledo. Protestujący obwiniają rząd Sancheza",
+      "title_pl": "Zamieszki w Madrycie i gaz łzawiący po katastrofie kolejowej w Toledo. Protestujący obwiniają rząd Sancheza",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W stolicy Hiszpanii, Madrycie, doszło w środę późnym wieczorem do zamieszek. Jak podała stacja telewizyjna TVE, policja użyła gazu łzawiącego, aby rozpędzić demonstrację, do której wzywały grupy skrajnej prawicy po tragicznej katastrofie kolejowej w prowincji Toledo.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Zamieszki-w-Madrycie-i-gaz-lzawiacy-po-katastrofie-kolejowej-w-Toledo-Protestujacy-obwiniaja-rzad-Sancheza-9220000.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-399f43c3a13a58c5d4",
+      "date": "2026-10-29",
+      "title": "Czy podczas przedstawienia strategii CP padnie słowo Elektrim?",
+      "title_pl": "Czy podczas przedstawienia strategii CP padnie słowo Elektrim?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFo3bjVFalRxUDhhZDdvZVg3X25FZUxCZThYV2ZaMnQ1SmhfUktFNXJvT0VkcENid1RPbHZMMENUQ05PQnVoY21hT0daOV9jcHYxbDJRZTdlcG90LUVWRUptajZUVVl0THRPX2xGdjUwNndHMDQ5YmtpUDNkc2FsUHpGbXUyWG54c2NibTRFYU9GX0VydDI3bnBuZTA3WkE3OFNETHVVTnExR2NFSlJB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-29caed5bdde03cce6d",
+      "date": "2026-10-29",
+      "title": "Pusty portfel Moskwy. Chiny i Zachód dystansują Rosję na afrykańskim rynku",
+      "title_pl": "Pusty portfel Moskwy. Chiny i Zachód dystansują Rosję na afrykańskim rynku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rosyjskie wpływy w Afryce są mniejsze niż chińskie czy amerykańskie z powodu braku porównywalnych zasobów gospodarczych. Na wizerunek Rosji źle wpływa także wojna i werbunek afrykańskich mężczyzn, którzy zamiast do pracy trafiają na front – mówią PAP autorka raportu nt. „soft power” Rosji i kenijski…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Pusty-portfel-Moskwy-Chiny-i-Zachod-dystansuja-Rosje-na-afrykanskim-rynku-9220040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-267cb0de3a6e04a28b",
+      "date": "2026-10-29",
+      "title": "Podatek od nadzwyczajnych zysków na rynku gazu? Rząd tego nie wyklucza",
+      "title_pl": "Podatek od nadzwyczajnych zysków na rynku gazu? Rząd tego nie wyklucza",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFpuY3kyYnI2WENOc19vRFRDcHdpNWpvZVdlbGRIQVc4VEVnSGpWOU9XenZKWWxyanVYOHBKbkZoWlhIMlctc1lnZ0RFR2J5VVhCdlM1a3V6ZnFtMm1PNEwwMzBmbVd4eEtNY1FuYTlNdVpuNi11VThXcDZUa1Bmb3JLQ0ZzZDJMX2stUTB2UWhQckU4NHVaeTJBQ0p6cHMzTGwtQlBOSEFSODY3OHh4cVhxNFZDdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1885cd71a0e08adea4",
       "date": "2026-10-29",
       "title": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego",
@@ -316,6 +519,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0f99cbb185e1c7183a",
+      "date": "2026-10-29",
+      "title": "MAP przygląda się sytuacji na rynku gazu; może rozważyć windall tax w odpowiednim momencie - Balczun",
+      "title_pl": "MAP przygląda się sytuacji na rynku gazu; może rozważyć windall tax w odpowiednim momencie - Balczun",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0Y1bl9PQXBqeU1ucmJLNDJNYVFiWFRDV0p5WGZCR0FhTGR5Zldta25Tb0wyWVFiS3FfUHdoQ18wNjFHb3JQdi1GdUV1V1lxU0x3UXlmQS04TWhxc0lDbXpkVThqanRIRlV6cEh2MHJaa1QzYW90M3k3ZDVMb2cxTF9xMEdrZzlfN3I5YUkzZXpXSTZZOG9TZ1R3WGRtbmFCLVVPUlJOLTZXUTZkaUIyTVhB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1783,7 +2015,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1ZzUG1nRnpiQ2tzQkNLcjQ1YVp5RnF5WmRKTlRjV1lKTDdsQ3hWVG9wMlJwd05sOXJFTVZmMGwtTmc4b0hla2VmUzlEbkN4RU82R0N0c0FTWHFmTm4xcmdRSGFyRkl3cldVM2VhUFZXM0ItRGc0QURFX2c0Qks4M3k4RlpHRmJ0bWZqcUMwdWN5OE1RNE5wYTFGLVJXQ0lZMnBfQy13?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqY21nd3lwajBfdHZFWW9weTQtTUdSTWhTNzViQVloeUVUaFQwaEx1elhhams1RG1SWTJRS2xFR09GV0FNRXY5cXg3U3NTMmJT?oc=5",
           "type": "press"
         }
       ],
@@ -2236,6 +2468,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7c1c7bd9fe5f89a28d",
+      "date": "2026-10-28",
+      "title": "Elektrotim szykuje się na boom inwestycyjny. Prezes mówi o atutach spółki, analityk widzi kilka zagrożeń",
+      "title_pl": "Elektrotim szykuje się na boom inwestycyjny. Prezes mówi o atutach spółki, analityk widzi kilka zagrożeń",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3dUWEFlRE5kZDNPeWpEaHNMUW1aWkFfUjFYS3Z3SjEwUlYxLUV6V0tVTDF3LURBLVNXTlVCREJ6UWRUQkV4b3NzcVV0X0VFLTZzdEgzSk1IbEdydjdMS3RoeEtsODFWWjZPWi1sY0wybEJEY19meHJkWVVaMl9MaVdWbkRmbmw3cTl6c3pTbUZhYW9jOFlKck5xenFuVWlSQVQ1VWpLdlFaYThUSlVVRU1rekhzaERTV2JlT2k5R0VTU21iSkRr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-74bd66b0e6469f3e45",
       "date": "2026-10-28",
       "title": "TAURON podpisał aneks z Bankiem Gospodarstwa Krajowego. Wydłuży o rok dostępność kredytu",
@@ -2479,7 +2740,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
           "type": "press"
         }
       ],
@@ -2487,7 +2748,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -5284,6 +5545,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8f6f4b3268605902a3",
+      "date": "2026-10-27",
+      "title": "Strona 2579 z 2590 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2579 z 2590 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vVXQ4cU9zckNndGNBWXJFVWdZTWZHUkFHWjUxZlgzRGxwVU81bTdFdW53N3ZYdDA4cEozQVB4cjAwSE1JMDA2SzdKOU5uNjFq?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8c5f6441e44516413d",
       "date": "2026-10-27",
       "title": "Wezwanie do zapisywania się na sprzedaż akcji REMAK-ENERGOMONTAŻ SA",
@@ -5382,7 +5672,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUtPbUNJNHdTNGJHaUpkVjVyV3ZnQjBYREo3U2VYRmxpTlg5bEVfNDRsd0IzdG5sSTczTHJGcm1uVVpkaGJBUlNwZk42S1FkdWJ1MmFrQWJDRHVISUtxWGE5eW1kay1pWElpVlhQbE5KQmYxR3ZFSEZDNGN1elNTM0pUeTBtcnVnaFpfUVJ3cEEwMVd1M1ltZQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkZuNC0tazVhWGlRRk4wQmllRlc4a0hhcmQ1a0RhejJTd0VHek4xdEJEZGtseXp4R0tnTUNJOFBHbDBOWGpPbzlHRl9ldE5WajhUSTBTTHdUTVJ3UmdrMkxiNHhEV3RxeE9MOTlNT0R4VUtZNlZrYkFSSzI4ZjJvVEdGUjhqN2NzaHl6V09fV1lvOEtpOE5nLUVNdkhaRXpRYnJBMjZ2XzljQQ?oc=5",
           "type": "press"
         }
       ],
