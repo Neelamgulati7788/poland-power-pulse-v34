@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T15:55:10+00:00",
+  "updated": "2026-10-29T16:55:41+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -118,6 +118,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-eb95646f0defa67d7b",
+      "date": "2026-10-29",
+      "title": "Energa: Blok CCGT Grudziądz 1 osiągnął operacyjny kamień milowy",
+      "title_pl": "Energa: Blok CCGT Grudziądz 1 osiągnął operacyjny kamień milowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Sieci Elektroenergetyczne potwierdziły osiągnięcie operacyjnego kamienia milowego dla bloku CCGT Grudziądz 1 - podała Energa w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Blok-CCGT-Grudziadz-1-osiagnal-operacyjny-kamien-milowy-Energa-9220500.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-e89bafc80899905511",
       "date": "2026-10-29",
       "title": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E ze stacji regazyfikacji LNG dla Szkoły Podstawowej w Bierutowie oraz Przedszkola Miejskiego w Bierutowie",
@@ -139,6 +168,35 @@
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e6f65804583131256e",
+      "date": "2026-10-29",
+      "title": "Dostawa krzeseł na PGE Narodowy w Warszawie",
+      "title_pl": "Dostawa krzeseł na PGE Narodowy w Warszawie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PL.2012+ Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35dd-37c8-70ec-cfcf-e60001f8c10c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "45"
@@ -379,6 +437,122 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c070e37bcfd5f41ee3",
+      "date": "2026-10-29",
+      "title": "Świadczenie usług cateringowych wraz z wynajmem sal na potrzeby organizacji spotkań w trakcie kampanii informacyjnej w ramach Projektu Doradztwa Energetycznego",
+      "title_pl": "Świadczenie usług cateringowych wraz z wynajmem sal na potrzeby organizacji spotkań w trakcie kampanii informacyjnej w ramach Projektu Doradztwa Energetycznego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Warszawie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35dc-f1f0-4a08-cfcf-e60001f8c108",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b8976fb21a64650f52",
+      "date": "2026-10-29",
+      "title": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY GMINY PODGÓRZYN I JEJ JEDNOSTEK ORGANIZACYJNYCH",
+      "title_pl": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY GMINY PODGÓRZYN I JEJ JEDNOSTEK ORGANIZACYJNYCH",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Podgórzyn",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35dc-935c-1dae-cfcf-e60001f8c104",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b7f2860b121ddc560b",
+      "date": "2026-10-29",
+      "title": "Inwestycja w farmy fotowoltaiczne o mocy 1 MW – Bydgoszcz",
+      "title_pl": "Inwestycja w farmy fotowoltaiczne o mocy 1 MW – Bydgoszcz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGZlTDY1WTl0TTRsRXFlOURrLS13YTAxSnZmems5cVhOQ01WT09ZY2xWakpZTldTaUtWY2M4Ynp3VkZ6SlFDTWdrTnpJNWZjYndEeU01X0tBSmdjT0VtVzBRMG53VnNaMlRremFYb2FoQ0hmcWVrT2FZcjV6S3dJSE4zMlIyblYtWUhKdnVUU1R1LTd2VkFBeXhXem50WG0xT1RoN1J3dGgxYWFXa1M3VHhKRUU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b71ab99cf7656f3ff3",
+      "date": "2026-10-29",
+      "title": "Kupię projekty magazynów BESS od 5-50 MW",
+      "title_pl": "Kupię projekty magazynów BESS od 5-50 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3pZcHc1WFVsVldrY0FyVXZyMWxmWGduWm5PNGF3TmN0WW1xMEUtSzVmUDMxOVdsRGFjMVBXNjJjLXcxQWg4TjRQU2RFX1FFQ3JsQTFWSnJMN3RhUHFGdXplelFQdWJCSGgxQUlmMzBfWlZfaFFaZ0stNU94UG9NQkZrVjNELTUtWVY0RlFmdWFqUVdnNTIwUjRn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b53e851237d85e7179",
       "date": "2026-10-29",
       "title": "Blok CCGT Grudziądz 1 osiągnął operacyjny kamień milowy - Energa",
@@ -403,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b3bd2927b529cd461c",
+      "date": "2026-10-29",
+      "title": "Oferta sprzedaż energii elektrycznej na 2027 rok – farma fotowoltaiczna",
+      "title_pl": "Oferta sprzedaż energii elektrycznej na 2027 rok – farma fotowoltaiczna",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTRIbUdVZnhJSThUZ0FWWnBHMXBKbl92VDY3VHV4ZEQwb0NhN0dFcTU3d1BCSHl6cF95QVdEdlpGODR6RWY1eTRyZ3FsOHRxMWdwT0sycXVLV2IwdkcyQWxTR0YxVjh2Slg5S1E1eEx0ZWlBQnBLY2Z0N2xrZGJabHFiME0wTTZiWUZWWlJwZ0taczA4QkpyMi1taERhT3FRdXBNY2JkWVhRODQ5ajhNcHRTVlBYcVVibEVURWFrUWVIcnZJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -524,6 +727,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-ac4f7b83f95bdfffbd",
+      "date": "2026-10-29",
+      "title": "Sprzedam działającą farmę fotowoltaiczną 999,12 kWp produkującą energię i generującą zyski",
+      "title_pl": "Sprzedam działającą farmę fotowoltaiczną 999,12 kWp produkującą energię i generującą zyski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVRnOGRNd0oyN05ZeFg3bVRKYld1SHZXeF9uamZLa1oyRjBxZXNBNnAyUXkxM2VUU1NBN3RuTWZwZjg4WVB4QUtoVWFtc0dCZVlGN1Y4bWdPQjI5aU41aGoxT1FQZ3E0a3paYzJtRWluMEJ4ZFlRbG91LVhiQUpkT3Z0ZjR0S3owYjlvcFQtVzBLckVsYVQySWo2RTQ5S1dVVDFGVmlSM2NPNldxN1MwMjV4UWdpMTdXVFFUT0VoYjZXUTVzTnNtRXF4ZmNERHlMZWhLQ3pRQndsdlQyYUEw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ab886965374b69789c",
       "date": "2026-10-29",
       "title": "EP/220/93/2026 Wykonanie rezerwowych źródeł i magazynów energii elektrycznej w SPWSZ w Szczecinie w lokalizacji Sokołowskiego 11 w ramach zadania z zakresu Programu Ochrony Ludności i Obrony Cywilnej",
@@ -564,7 +796,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEVrMEFIUjZhUURTWWJCazhiYzJUNTNHam9Bc08tRVpDaE13d3VUQ2hSdnVzVlJySjBMeHRleE1PWE1VdHJZSVVjWGQ0bnBEZFBoVWFTajBtMjAyaTZyd0lraURwUkdtSnk5RWUtMkZQa1hHd2k3N0hobkpXMzhzaThHS3hLZVFncDdCanJR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTZDUDlmWGJpVml1VF9HVThHenpCb2JhY01jZWU2V3FmbnV3VzloSGctU3BsdXQ5dmN3X2t2bEVYX1BRUE1mWGhfTWM1YS13enVGb2FsWXYyaWxaVTZ5ZHV2d0F6WnhNZjhYSWpLampKbDhXZV9fRlY1Q1dQY2ZoekxXclp3bmRIVVhEalF3?oc=5",
           "type": "press"
         }
       ],
@@ -1191,6 +1423,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-775b3241ec13308afe",
+      "date": "2026-10-29",
+      "title": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "title_pl": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkV0bV9nc0JhY1ZBc1JHbWFLYllrOHRKTWhwWTlsSXVyWFExelV5cWV2ejBmcTlUOHpvSWVtdW1jd1VpRDUzWVJzTmRzdGhyUEd2ZVdxdXlpUjZCU0NKT0pFenVzZDdsLW1ia1NSNFdlNmRBSndRSlIzVFc4cTI1UV9tRlIwZ0ZZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-76a59c327af010ad22",
       "date": "2026-10-29",
       "title": "Minister optymistycznie o marży i cenie węgla",
@@ -1800,6 +2061,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-411bfd56d990b89465",
+      "date": "2026-10-29",
+      "title": "Sprzedamy farmę fotowoltaiczną o mocy 1 MW z budową pod klucz – Milicz",
+      "title_pl": "Sprzedamy farmę fotowoltaiczną o mocy 1 MW z budową pod klucz – Milicz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1RJQi1zMDczNE5DcW1PYTdFanMwdVowSFFJeVVtVTdOMWF1R3ZObk42bVZOQ19zaXFhbTNXV0d0LVNQdnBvemVjRWl6Ny1iTk1sTDVBOEl0dWlucWZCSkVCcTNNRjR3clRjVm5NQmo3dEd5ZlJDclhUbXpoNGVSenpWVElfeldaQUZqSWlVZEpHUF9lVTF4QlpBd01IbkxPX3FZY09jLW9kYVpyNGZJaU5IVXBJS0J1MnFsTUk5TGJfVjdpaXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3fd7a57ca22b0524a4",
       "date": "2026-10-29",
       "title": "Zamieszki w Madrycie i gaz łzawiący po katastrofie kolejowej w Toledo. Protestujący obwiniają rząd Sancheza",
@@ -2085,6 +2375,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2af626109aa9af76f9",
+      "date": "2026-10-29",
+      "title": "IV Forum Polskiej Organizacji Biometanu",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Urząd Regulacji Energetyki — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVjJvSWxGYldpTk9Lc0dyUDN0eklNZXFHYnhncVRfeXd6Q3NNczFhVjFveXhrSkZGb18yb2pZVXFvQl9lY3FBSC1vWG5XMm1nVThya1JsVnJZQjB4eUV1ZWw0TGVuOWwweDNJRENKQjVVTWdRTkRIWmdoS2UwMGdja181X3NCQ3V5TDUzZHhKWXplQlVfWjdzMHczb0JKZnJrNVNrd3JhOURFNllHTWJETWxkeC1xNjRWd0ZuR1czUDBfemZLcGZLSGdkVnJ4OVVuejNraElvMFBSNzJfVWZNSVhCa2Zjc1NHUDNyWnhB?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Urząd Regulacji Energetyki",
+      "publisherUrl": "https://www.ure.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "8"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2695,6 +3014,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-027af34157f8e46709",
+      "date": "2026-10-29",
+      "title": "Farma PV 1 MW kupię projekt lub gotową farmę",
+      "title_pl": "Farma PV 1 MW kupię projekt lub gotową farmę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk9OODNUMmJPNU9iTVQxbVFvTkFrcEhlX3pCX2RpZFpFQTVKQjVCQ0tDQ0RKczFBWk81WExpdFBxS28tdU5welZnNzVESjVDTnp6U3dKRHI4QmJJaXhHZGg1MHZQRE4wSkRTUUZwa2JDWG1xUU1yb1VQem83Uk5SVVFJcTZHanF0YmppY09Nd0M0aGFVQjVERkd1UEt1VVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4220,7 +4568,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EblAzUlNCMTIyQUVsdTBRTzVMdHhwVEhtY09RdXRjVE1tZ0hHZ1hMOW5fSlNWZzhwV3dTQVM5MDZIellUUWhBcXFtY0lTSW9qaEd6dV9yNEN0ZFJXd05QUjRpc3dsekFvUkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMjBHTFpqUzZULVQtZ0ZmanJlMWVIMEk1Z2ZXZE1VZUdEZC1oQ3g5R180eVVYckZuODk1aEZWVEJmcWplTGFSX042SkRmdXk3NVNLYVU5ckpldkZjbVF0NGp5Wkg5cDRWTXc?oc=5",
           "type": "official"
         }
       ],
@@ -7606,6 +7954,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-94f8aacaae62da1167",
+      "date": "2026-10-27",
+      "title": "Membership: TGE Strengthens Liquidityin the Intraday Market for Electricity",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "TGE - Strona główna — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tNWpuRGZKd1lkT2ZVV2x5M19zRVNMejl6ZzB2ZFpPYTF2RFFNa05NcmQ0QzNSMGdaanp5dTV2cHczSEpQbUZXSnVna0Nlajd0QU1FMUkxNFpzczNwMHZJT1dlSEQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "TGE - Strona główna",
+      "publisherUrl": "https://www.tge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "15"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-92bafd8bacf6afdebd",
       "date": "2026-10-27",
       "title": "Bałtyk 2 i 3: postęp budowy morskich farm wiatrowych",
@@ -9560,7 +9937,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWREelMxRFZRSVdNZC1IbWtoVDdaWWJuU01VSjlZY2oxQ1Zwc0JWX0RrdG1pT0t4ZFNZX0VNdUlCcmNCcU03aHBqeU5fMkd4RVUtWFBsMzRVcU9tQldVS2lXd1dTeFZxYzNIckxSelJtZXo2Rk51N2Z6VUdtOW4zWmsyVGdDSWRNZHRUTW53RWNPZEZvWWprbU0tMHFXaVdwaXAxajhIdmFzVmV0VkhPeHJVZ0V4cl81c21idGVXOVUxdS1reUxwTmdIbzVZUXM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHJ3dEYzTjhsWnpzMlRQZ0RQZ2NfcndCX0Q3YVlYVjJQT2NLX1lTaXN3a2F1VndTVU9SdEc2SjNtOGw5MDNfQTZPU2F4ZWpSYWZxeFZVMTFRaklBUW51bnlJb3FMVGRtTzBGTGxPblRSTXFWYnh2ZHdQTHdNVzYxYWtoLXZrN0hybzBIdmdoRjRERTFHUjRKUVJjcVlONFhOWmVsQWc4QzBGZDBIZXMyWnYxYWFNQTVEVmJ4SjJ6emJlb21PRkJyVHRwQVlGNHM?oc=5",
           "type": "press"
         }
       ],
@@ -9568,7 +9945,7 @@
         "ENEA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://oze.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
