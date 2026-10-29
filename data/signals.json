@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:51:06+00:00",
+  "updated": "2026-10-29T20:45:29+00:00",
   "signals": [
     {
       "id": "src-ff80941993431cb421",
@@ -9,11 +9,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Choć to Norwegia ma znakomite warunki naturalne, Polska wyprzedza ją w rozwoju morskiej energetyki wiatrowej. Polskie projekty mają ponad pięciokrotnie większą moc od norweskich – wynika z opublikowanego w czwartek raportu Boston Consulting Group.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkU2cm5pQWFMQXNiaGFLOEwyUXhBTnJRMVptdVRFNWtwb0lnc2NIdXlseGxQSEFNdVJBZEJuSG0wMnVVQ3ljVkYxWFZySXM0S2NiWUpNX01ZM3h6S2VUcHBYcTI2Q2tHSlBBcXpfcW9jeHpkMURZYlRMUkZnYjZxZlVKc0t4dVRTUFY4TzlMaWRwN0lfNS1TVmVhUUM0Q0xjUXRqUmxnbVRsajk5eUZCUlNKb0VrLU1yNWVPZV9IdjdFakxmUVA2QTZB?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-wyprzedza-Norwegie-w-morskiej-energetyce-wiatrowej-Ponad-pieciokrotna-roznica-9220622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -27,8 +27,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -386,11 +386,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Rząd pracuje nad rozwiązaniami w związku z sytuacją na rynku gazu, szczegóły powinny być znane w ciągu najbliższych tygodni - poinformował Andrzej Domański, minister finansów i gospodarki.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUJsVWJiOXRhUllVeS1OYTRpZC1SV3hjd21XUnpFYm1HdWVIeFB2V1dDU2lzUTNzU2dQOUtXRDc0RmdDblhfTVlEVHpIVV9ZMUd2dUpZTHVaZXB4Q1MyVmxfai1Ra25GR1NkUGJUdzBKM21VRTduTlZjRHEteXJ5WThzNHoxUXdlTGMza3kxQlVpWFV1M1Rnc3gyZkxUSVhuVGV4bmJfZTJFa2pDUnRTZUtSQ29aU0tQ?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-dzialania-ws-cen-gazu-Rzad-pracuje-nad-rozwiazaniami-9220642.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -404,8 +404,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d6c90a0965f5e21a86",
@@ -698,6 +698,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b5189f778bbcaed0bb",
+      "date": "2026-10-29",
+      "title": "Polski Kongres Naftowy i Gazowniczy o przyszłości sektora. Rozwój gospodarczy wymaga ropy i gazu",
+      "title_pl": "Polski Kongres Naftowy i Gazowniczy o przyszłości sektora. Rozwój gospodarczy wymaga ropy i gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnQ3U005U2pwenlXOVU2QTRaejJaNEVDRGlaSk1DbUtDRWRON2ZyVVVSYUVSVHZhUXN3NVRqd2d0QTk3d3k3UjBnT1RFMGpPWEx4eU0xUnhWQWlRV0Y3c3p0Tm9GbXROckhQQnI5T3hYX19fZGliUVNfanZXUWx0Tm9BTjcwNVBQQ0ptQUZxbTlmS3pCWTNWQS1DVHNscjdueXJuMXhwQkZhbUxjLTlhZFN2eXZXeS13eTl2M2NB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b3bd2927b529cd461c",
       "date": "2026-10-29",
       "title": "Oferta sprzedaż energii elektrycznej na 2027 rok – farma fotowoltaiczna",
@@ -928,6 +957,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a9ac47a2dabb112301",
+      "date": "2026-10-29",
+      "title": "Gaz po 100 EUR. Unia znów mierzy się z zależnością energetyczną",
+      "title_pl": "Gaz po 100 EUR. Unia znów mierzy się z zależnością energetyczną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Unijni ministrowie szukają sposobów na obniżenie rachunków i zwiększenie podaży paliw przed zimą. Spory o podatki pokazują jednak, jak trudno przełożyć wspólną diagnozę na wspólną odpowiedź.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/gaz-po-100-eur-unia-znow-mierzy-sie-z-zaleznoscia-energetyczna/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-a7a076919aec708ae8",
@@ -2149,6 +2207,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-65f4c0ec81b0a20780",
+      "date": "2026-10-29",
+      "title": "Rubio i Orban podpisali porozumienie m.in.o projektach energetycznych",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1CeWZnTC04R1RqT09VSE9RcUsyVUxYZWdoTHhzc0tLUWVIaVdibEFRVmREYlVQbXZYUXAtRy03c1VzZWNVWno5a1RqQkJlNjZYbV9MMjNWLXY1Q0JJUWY2bFdCd0FFLTVtOWduQm9LN183QnMycS1zY1VFcVhfbEhRdFJEQ0RPbXFtTXk4MW53LTJWa0tPMWJ5MVplWE5YZDFoNGd4c29neExF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5cf4d456d244527687",
       "date": "2026-10-29",
       "title": "Poland monitors gas market, could consider windfall tax in due time - state assets minister",
@@ -2985,6 +3072,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-265ed500d49bd9cb78",
+      "date": "2026-10-29",
+      "title": "Kraków: Trzy firmy w przetargu MPK na 20 przegubowych autobusów elektrycznych",
+      "title_pl": "Kraków: Trzy firmy w przetargu MPK na 20 przegubowych autobusów elektrycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnhVcy1RTkdQZWxCdExWbFFqbXNTc2pyVEhUa2xPbHk5d0Y4cnVnYUdZYkNuamtyRUtNVGtEZG84b254ZHZfNEtKaXg5VDhkSk10RDE0S1JDampjRi1DdHQ1U1piTVBkaG84NlJPeC1JNHpXenZ6d09ILXVSZnBkMWk4MjZ5VGt4ZktETnFsTWRIN2RDUTBXVXFrRGptdlRUYWNEWE1ZcS1lY1BJaE9zcThuaXY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4134,7 +4250,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObl9UZGx5UmhzcXZmaGtNejJLTmh6elRuaVJzLTVyMkw5TUMwRk5QVzRaNFFIdGVoTG9lTVdBcnNUdEtYcU1pVGtOcDFuR3p5azlWbTVkaWdVclc2bHJkQ0M2ZEUzYThOWFhzQzFuTV93bzBGWFl0cUN1T19XMGhDVDJYYWs1NVBDZTduYUppbWliTHVId0pjY1V2NVN2RVRVenpFTXpkWjNGYkVJNUxjakhLdUREdHpwM2VJSVhB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd3VtQ2l1SFB6eVdvNktmdGdsMXZBR0hPbVhsblJyQWxjalFFYnNydXNscVZuTXc4SDNVZlBqdTc2QS10bUU4cUQ4a0pCcHpKZHJQaHpPNHU4SUMwSE52YUZrejJRendtdUh5SHFmVmRGaEpmWWcweE50U0ZBdmZwWVA2RU9wU3BZRlVJS21JNjlKOUU1Tk9RRW9QaXFrZHhfbkUyeXdsajd1Q1FSOGItY2Uya3dJVnRnUS1iczVKbHFKa05jd2dIVW54SXJodkxLLUVzcFFB?oc=5",
           "type": "press"
         }
       ],
@@ -4142,7 +4258,7 @@
         "OCEANWINDS"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://offshore.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -6948,7 +7064,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -6956,7 +7072,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
