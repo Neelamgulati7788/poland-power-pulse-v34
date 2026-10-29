@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:03:34+00:00",
+  "updated": "2026-10-29T14:58:05+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -495,6 +495,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a47fa2fc2ba021ddfd",
+      "date": "2026-10-29",
+      "title": "Klienci szukają oszczędności. Tauron: Dwukrotny wzrost przejść na taryfy",
+      "title_pl": "Klienci szukają oszczędności. Tauron: Dwukrotny wzrost przejść na taryfy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ponad 100 tys. gospodarstw domowych przeszło w tym roku z jednostrefowej grupy taryfowej Taurona na jedną z wielostrefowych, np. G12w lub G13 - podał w czwartek koncern. To blisko dwa razy więcej niż w analogicznym okresie w poprzednich latach.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Klienci-szukaja-oszczednosci-Tauron-Dwukrotny-wzrost-przejsc-na-taryfy-9220370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-a201812132f0bb8b19",
       "date": "2026-10-29",
       "title": "56/2026 Wymiana urządzeń metrologicznych służących do pomiaru zużycia wody oraz ciepła wraz z wyposażeniem w system zdalnego odczytu online, w podziale na 2 części",
@@ -901,6 +930,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7f1a23ce2848444e01",
+      "date": "2026-10-29",
+      "title": "Rośnie import turbin wiatrowych do Europy. Kto za to odpowiada? Znamy dane",
+      "title_pl": "Rośnie import turbin wiatrowych do Europy. Kto za to odpowiada? Znamy dane",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0libXVmNFRQQVRLVFc1bU5tM05wMzZ5VGowMXlTa08xQ3RwVE8waGJWdXVfYnFTZUxKWFNuUXh0LUg4ckRWWmUtazJrYkZtUVZHZDlzc0xmcFB3UGQ3azJTakVVQmlHVU55V09vdGZEVUdjaGZ2MDR4S25HbXFIano4RVlHdXZkd0ZsVlNnVXdpSzJkTlNqSTB0TjFGSjVma3hKZDFuZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7c3e94d5ad5981f69f",
       "date": "2026-10-29",
       "title": "Benzyna i diesel tanieją. Są nowe maksymalne ceny paliw na Wszystkich Świętych",
@@ -954,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-75ef1c7819656fb0d9",
+      "date": "2026-10-29",
+      "title": "Energia pod kontrolą. Enea Operator uruchomiła nowe funkcjonalności w Portalu Odbiorcy",
+      "title_pl": "Energia pod kontrolą. Enea Operator uruchomiła nowe funkcjonalności w Portalu Odbiorcy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjdpRmRGdDhkSElFQmRSM0plRE5jbkdJSXRwdVc0alJmTFhSSkZ2eERrU1ctOXJjT0wyQk1VcFZBcExtQ2FLbHdWOVpYcjNwZ3puMlpteVQ1cUp1LWRuTlBRRHBhNFY5RHdhaERMY3Bsb0FCa2VNd0M4c0VGTVpQVzFaMlFpWjlvM0xuOWhCd2VLUG9FOTNQbDhhMVVFeFhOcHFXTm1wTVEtVVZQQ2ZQWXBhOHp5U2lT?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1218,6 +1305,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-5b87d54e199dabc014",
+      "date": "2026-10-29",
+      "title": "Heatcation to nowy trend w podróżach. Polacy uciekają w stronę słońca i ciepła",
+      "title_pl": "Heatcation to nowy trend w podróżach. Polacy uciekają w stronę słońca i ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTNRU0FMN2pJVmlCcjVYclZReDJ3N3k3ZWJIYVRhOWV2YnFURFZ4ak5NTXd1U0FjSnV1cE5KNXhCTlQ4NzByZmJpN1Z6MmlndnRseU5MeW5nR1pTRk9Za2xVUm5Cb0dsTWZZd0ZJV3BDRGdkU19IVnNSb0lLUjVBV1hEbDdGajZvc0lCS1hNZ2RyOVNPaEEtMG5tdkVhdWtic0N1REpn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5a9706139ad7d61f1c",
@@ -1508,6 +1624,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-329868a22e93253822",
+      "date": "2026-10-29",
+      "title": "Poland designates first areas for fast-track solar roll-out",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3R4amlMYzRxcXZUQWtLbi1hTEQxMGdpUFVkU3JkWmpFZjBvUW9qMEZ5Mlp2UGZWV1I0X29RX0hqQ3h3WjlVcVpZZ0pYRFRWT3hSb0dpeVJhQ2g2TzZHWUk1UE9EN2NKdWNJeWV0ZzlUdkxrLWQwc2pvbElJa1A4UVFXWE9ySmNpZTRXNnFQVGRQUGRzVHVSbHBHWUlPcmts?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-31288e3cec412a0818",
+      "date": "2026-10-29",
+      "title": "Dostawa infrastruktury serwerowej o wysokiej dostępności wraz z macierzą dyskową i systemem kopii zapasowych",
+      "title_pl": "Dostawa infrastruktury serwerowej o wysokiej dostępności wraz z macierzą dyskową i systemem kopii zapasowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SIEĆ BADAWCZA ŁUKASIEWICZ - INSTYTUT ELEKTROTECHNIKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35cc-8e09-03b8-cfcf-e60001f8c039",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2d37b4494458ced1f1",
@@ -5439,7 +5613,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -5447,7 +5621,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
