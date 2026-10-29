@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:45:29+00:00",
+  "updated": "2026-10-29T21:43:27+00:00",
   "signals": [
     {
       "id": "src-ff80941993431cb421",
@@ -386,11 +386,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Rząd pracuje nad rozwiązaniami w związku z sytuacją na rynku gazu, szczegóły powinny być znane w ciągu najbliższych tygodni - poinformował Andrzej Domański, minister finansów i gospodarki.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-dzialania-ws-cen-gazu-Rzad-pracuje-nad-rozwiazaniami-9220642.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUJsVWJiOXRhUllVeS1OYTRpZC1SV3hjd21XUnpFYm1HdWVIeFB2V1dDU2lzUTNzU2dQOUtXRDc0RmdDblhfTVlEVHpIVV9ZMUd2dUpZTHVaZXB4Q1MyVmxfai1Ra25GR1NkUGJUdzBKM21VRTduTlZjRHEteXJ5WThzNHoxUXdlTGMza3kxQlVpWFV1M1Rnc3gyZkxUSVhuVGV4bmJfZTJFa2pDUnRTZUtSQ29aU0tQ?oc=5",
           "type": "press"
         }
       ],
@@ -404,8 +404,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d6c90a0965f5e21a86",
@@ -518,6 +518,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "18",
         "25"
       ],
       "discoveryMethod": "google",
@@ -1046,6 +1047,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a6261a04fefaac9f06",
+      "date": "2026-10-29",
+      "title": "Ceny gazu najwyższe od niemal czterech lat. Rząd zapowiada nowe rozwiązania",
+      "title_pl": "Ceny gazu najwyższe od niemal czterech lat. Rząd zapowiada nowe rozwiązania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3M2RTBVWng0eFctSzV3ekp0bWhVYWFwcUFDRXdMSTBDRDhjQXNKZ0pWbUd2TXU2MHU0aHZrcjRFeVlHOHg2Y1FYR2o4NjBuMGV3aGtzSVVxTVdIejNBaExySHlxazhKeHFoS0MyOGJDMlBqM0tFYk13UE4ybXFPSElBWFl1M0F3ekZKMVBOMDlhTFRWNnlnQ25kektaNkxVUFhNUDdHMmM2N1ZpcFVDcVNKQThVcG03di0tRXdYSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a47fa2fc2ba021ddfd",
       "date": "2026-10-29",
       "title": "Klienci szukają oszczędności. Tauron: Dwukrotny wzrost przejść na taryfy",
@@ -1423,6 +1453,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-8d2545996ca8d7fccc",
+      "date": "2026-10-29",
+      "title": "Platforma zakupowa Grupy ORLEN",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcFNKaFFUY0wycFpka2kyMGpSOGZsb2h0VkdPYU1Ub3YyZ0VKUlZJZk1mNGpESXRMS1VxV3NSd0xIbnFkSWJ0amhvYkpEeGh0Q2U2eDlZWlltcWRSb2RFSkEzTW1SVnZCdmc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://connect.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b8e113640c4aa5ec1",
       "date": "2026-10-29",
       "title": "Domański: jeszcze w listopadzie przedstawimy rozwiązania w sprawie wysokich cen gazu",
@@ -1476,6 +1535,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-89a5988f7259dd03ac",
+      "date": "2026-10-29",
+      "title": "GAZ-SYSTEM rozstrzygnął dwa przetargi na inwestycje liniowe",
+      "title_pl": "GAZ-SYSTEM rozstrzygnął dwa przetargi na inwestycje liniowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjdfS3ZkdUJQcFh1dlpqSmxSR0l5OFZ3Qk5xNUpGS2ZsX1BPUDVjR3l2eUVTTWFGT1h3U1lEUE40bWhnVjYxUjVEM0s1Z1FVeGtXT1dEcGJjOXh4T3cwaFFUYWxBSldkVGotNUlWNEltX1R1dHRBSE9TVTZaMDhUUlhFMWg3NFFsc3NwMDZJZW1UVXhPZU1uVlhmYU8xNEZQbXNSc2hmelhhSEFQdy1wa0swcjBlcGhuYlNpdzNJUno?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1888,6 +1976,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-742f53d1870cca0ff5",
+      "date": "2026-10-29",
+      "title": "Klienci Tauronu przechodzą z jednostrefowej na wielostrefową grupę taryfową",
+      "title_pl": "Klienci Tauronu przechodzą z jednostrefowej na wielostrefową grupę taryfową",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHVieDJ0a2Q3NjlFdGpLVUxjUkhCOU03ZWlQZXVWWVU3YWY3WkxpZUFldmlnSzNkc0l3MTRYMlBXS0pqb2JVODZRVXZhaGFKQmQ0UHVidG5KWnhMdWpBVmE1THhOVUtYcTZuQ1F6cXZRRWJGOUN2dmFKSmZvM19selhsekpxalNzd3l2TVl6akhjTi1LMzlJc0d6aFJyRG5fOTdxSUFaZzFzU3lickh5elJnaUhrQzlyT0tVZTNQOFZkeHNFaktDbDVqZGM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-74071620534bb52fe8",
       "date": "2026-10-29",
       "title": "Zwrot w dotacjach na domowe elektrownie wiatrowe. Będzie dodatkowy nabór",
@@ -2057,6 +2174,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-699153d37d7a6619ab",
+      "date": "2026-10-29",
+      "title": "Polish govt works on solutions to gas market situation - FinMin",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0RjSHNpazVQUjNFNEUyVDM1OVdCOHVCaG1WY1lYM09ONW9TM3ZValZsNXF4WDNzajNSWjhwWVBidko3S0lFRDE3Nk5BWjJpeFJPNXg1WlAzMi11cHBtVXZIQ2JiLXdUTVNPVTdteXVTVTFaeGJKdTluTG1hSFZQNk9wa3hVanVqT2pmN193U1FjMVJZb2FlTnhsTEU4OGVF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2753,6 +2899,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-32348e5aaa5c75c8d3",
+      "date": "2026-10-29",
+      "title": "Ceny gazu ciągle rosną, minister Domański zapowiada nowe rozwiązania dla gospodarstw domowych",
+      "title_pl": "Ceny gazu ciągle rosną, minister Domański zapowiada nowe rozwiązania dla gospodarstw domowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWmluTlNITklFWk1nQ2JZVEJCdEo5TkdHVUJnZUJjREVaUDVjSmJXX3FvQjZMMjhkaGpocm5TeWh4LXJDRFFVZy0wNnBBc20wTkVJLVVuRkRreWFuRW50TG5wdUZoNUtlV2lkWGYyb3c0TzJVbk9DbGp2MmRpeHNXVnJuWFJjZmJlLXR2Z0tSclpOeFZsamJnRlJFT3R3Nm5tRlQ2UHMxS29VTEdyc1I1NWMxajZLbzl6M0hiX08tSXB1ZlhkbnNITDZJSjlybER2Ym9nUHQ2YkpPRlFwMGwzdW41RQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5452,6 +5627,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-859af242a44c61dcb2",
+      "date": "2026-10-28",
+      "title": "Kurs gazu ziemnego sięgnął 100 EUR w Europie pierwszy raz od 2022 roku",
+      "title_pl": "Kurs gazu ziemnego sięgnął 100 EUR w Europie pierwszy raz od 2022 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkxuZ1VOODcxbFVJUURnWmsycDJ2RmJjZDBIZGxuRW9mdWx6S0s5VkliZmI5U21QOHVBSU1VUTNRTzJDcm43VFhoOHNsS0twTHg1R3dPakJlbXpleVYyaWI4Z3NBYnpFNHRjVjdYN2VYSU52QjhtTjM1RnZ0QTdEaVRSNnhpNGw0RlAzYUtxN2N1VjFELVlPVlU4VG0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
