@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:55:11+00:00",
+  "updated": "2026-10-29T14:03:34+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e89bafc80899905511",
+      "date": "2026-10-29",
+      "title": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E ze stacji regazyfikacji LNG dla Szkoły Podstawowej w Bierutowie oraz Przedszkola Miejskiego w Bierutowie",
+      "title_pl": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E ze stacji regazyfikacji LNG dla Szkoły Podstawowej w Bierutowie oraz Przedszkola Miejskiego w Bierutowie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "CENTRUM USŁUG WSPÓLNYCH W BIERUTOWIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35c5-37d1-1ccc-cfcf-e60001f8bf58",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-e2b5629bd60389c94f",
@@ -316,6 +345,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b123d7fdfe365239a9",
+      "date": "2026-10-29",
+      "title": "Gazowy kręgosłup Polski. System, który zawsze działa",
+      "title_pl": "Gazowy kręgosłup Polski. System, który zawsze działa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVl6d1M2VF94a3dUeDdVd0c4VGxGQzNCMG9fall6R20xRE5JaUZ0bnpVQ3NGT1g3U3k3QmgtdWtKZ3BfaG0tbW1jN2Q3ZHFXSEZ3M1JSekNTM0c3MHRIRGpwbHJyenZadVE5LThzR1lkX05zc2tSVDE1bFJCV2NxMEFzcUdQYzNvbkc2U3VIOFU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -872,6 +930,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-76a59c327af010ad22",
+      "date": "2026-10-29",
+      "title": "Minister optymistycznie o marży i cenie węgla",
+      "title_pl": "Minister optymistycznie o marży i cenie węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXloTFlrNmpxcE83RnNfcWphTkF5cUxIbGJYZFBpVzN1Rkw1RVZrQzRobTRsb25IWW1ramtOMjZ1RGExY3Q4RV8wNDdZLWtqVlZRTDZpZ0VnbjdZbTdXd1B5NjMzdndIMWt0bUI2VzlFS3RyR21FQUFIYUdZaEVXV2tIZTh5UGlmNlhwZkllU1VySVBpMGJfYjdn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-74071620534bb52fe8",
       "date": "2026-10-29",
       "title": "Zwrot w dotacjach na domowe elektrownie wiatrowe. Będzie dodatkowy nabór",
@@ -1131,6 +1218,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-5a9706139ad7d61f1c",
+      "date": "2026-10-29",
+      "title": "Dostawa materiałów elektrycznych, baterii i akumulatorów",
+      "title_pl": "Dostawa materiałów elektrycznych, baterii i akumulatorów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "32 Baza Lotnictwa Taktycznego w Łasku",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35c5-57d1-7d4a-cfcf-e60001f8bf5e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-5898b43b96402ca9e9",
@@ -1452,6 +1568,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2a715c4e9f5172f214",
+      "date": "2026-10-29",
+      "title": "Biznes bez barier. Ministerstwo Aktywów Państwowych i Enea wspólnie na rzecz inkluzywności i wyrównywania szans",
+      "title_pl": "Biznes bez barier. Ministerstwo Aktywów Państwowych i Enea wspólnie na rzecz inkluzywności i wyrównywania szans",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSVp0bktIYWRFLVZfNXpIVUhfVEE2ZWdTMkxvQjFicGdPNHZNazFjUVdWeEJsS2cxeHZHNmxGa3N3eEZKV0FPVFc2X2p5TFg3VDkwYTY2c1RUTUhSbTd3OGZ3bFFjbnRrSVJMNC1zN1pwWEczYkZ2VTAwZzhYR0tPX2ZGN21XakNfZksyRkY5d29GMVZKYlpUVGNlT3UyaDVlQ3lPTW5qUnJXYlBlMVRaVG5ZelNGaVY1WFotekFDNlFEMFdaTDM1d0FMRVlqYmY5MDhucVVJQVdiQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-29caed5bdde03cce6d",
       "date": "2026-10-29",
       "title": "Pusty portfel Moskwy. Chiny i Zachód dystansują Rosję na afrykańskim rynku",
@@ -1481,6 +1626,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-2721f51cd1e9285e2c",
+      "date": "2026-10-29",
+      "title": "Balczun: MAP przygląda się sytuacji na rynku gazu, może rozważyć windfall tax w odpowiednim momencie",
+      "title_pl": "Balczun: MAP przygląda się sytuacji na rynku gazu, może rozważyć windfall tax w odpowiednim momencie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcl9fX2JJbU1XSDFpVDFVWFFYemNzR1B0TVhMSlVkbEQxbHl6WGFLekwySEdnOG1MNWM0N0YtbjBNQjF2RU03cUhOS2x0QVZTam1RTDlJVFkyb0d0TmRISy0yT0dhcmZmMi05TTZtQUhQX2pacEtoMEpheVIzRTkwUDlPajBxZURFcUR1bFVLRkR4T1AwbDQ5UWxGbGZDYUFrTjZ6b2dibngwUzZ3ckRndEx5a1lQQVRYMFo3NlY1LWk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-267cb0de3a6e04a28b",
       "date": "2026-10-29",
       "title": "Podatek od nadzwyczajnych zysków na rynku gazu? Rząd tego nie wyklucza",
@@ -1488,11 +1662,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Ministerstwo aktywów i resort energii przyglądają się sytuacji na rynku gazu, nie wykluczają zastosowania rozwiązań windfall tax w odpowiednim momencie - poinformował minister aktywów Wojciech Balczun w radiu RMF.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-na-rynku-gazu-Rzad-tego-nie-wyklucza-9220081.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFpuY3kyYnI2WENOc19vRFRDcHdpNWpvZVdlbGRIQVc4VEVnSGpWOU9XenZKWWxyanVYOHBKbkZoWlhIMlctc1lnZ0RFR2J5VVhCdlM1a3V6ZnFtMm1PNEwwMzBmbVd4eEtNY1FuYTlNdVpuNi11VThXcDZUa1Bmb3JLQ0ZzZDJMX2stUTB2UWhQckU4NHVaeTJBQ0p6cHMzTGwtQlBOSEFSODY3OHh4cVhxNFZDdw?oc=5",
           "type": "press"
         }
       ],
@@ -1506,8 +1680,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-24d125844cd552aa46",
@@ -1837,11 +2011,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Ceny gazu w Europie spadają z najwyższego poziomu od 4 lat. Inwestorzy oceniają działania USA związane z Iranem i dane o zapasach gazu w Europie - informują maklerzy.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-spadaja-z-4-letniego-maksimum-9220132.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjJwbHdBU1pGWFU0bHJVbTNZWnhwN2g2SEZQdk84RjlLU1pMYVRUUTJIMUMxMmVCRzVTRzRqSFdCcTlXMjhxRGhXZHhxZDNXY2hHSG9SM2pMMnlOc0I4WEllZ1AtZkw2Y0xEdFZzM01aOGZaRkF5aWNfTEdZV1pnal8zWkVQVnZZZVg1dE15U194WlRVSVNuNzBydw?oc=5",
           "type": "press"
         }
       ],
@@ -1855,8 +2029,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-04c8522802db3c3635",
@@ -1866,17 +2040,16 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Orlen Upstream Norway, wraz z Equinor, DNO i Wellesley Petroleum, zakończyli wiercenia rozpoznawcze na złożu Afrodyta na Morzu Północnym. Dane wskazują, że wydobywalne złoża są ponad dwa razy większe niż pierwotnie zakładano - oznacza to, że ilość gazu przypadająca na Orlen przekracza 4 mld metrów…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Orlen-potwierdza-duze-odkrycie-gazu-w-Norwegii-spolce-przypadnie-ponad-4-mld-m-szesc-surowca-9220091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1BJQmxURm9CU1NXN2d3cHgyYVZobGdad0xfQmViUFB4YldsdDNHTFNWd1l5RWw2R2x6MzEyVVowU1o2ZG8yTkVYMURNVlJfSHE5dUJkbTlseENmcFhqS014ZXNVcnJJb1I4Z2FCeWktS0hoWGxrbjRvODB2MElEcnNmX3R0d2dmZDdnNGtfRTU1b1o3S0xTTlRqNzdEbU5pUnJ0N2lUNEc3ckhnelgzY3VhbDgxVHZwQ3JCR1JRcU9xNkx2cUxKQUtvWGNXMjdHUS1Xeg?oc=5",
           "type": "press"
         }
       ],
       "cos": [
-        "ORLEN",
-        "EQUINOR"
+        "ORLEN"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -1885,8 +2058,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-026247d881091adb47",
@@ -5266,7 +5439,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -5274,7 +5447,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
