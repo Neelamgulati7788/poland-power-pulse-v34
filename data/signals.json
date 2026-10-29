@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:55:00+00:00",
+  "updated": "2026-10-29T09:52:29+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -89,6 +89,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e2b5629bd60389c94f",
+      "date": "2026-10-29",
+      "title": "Orlen zawiadamia prokuraturę w sprawie Obajtka. Chodzi o poufne dokumenty",
+      "title_pl": "Orlen zawiadamia prokuraturę w sprawie Obajtka. Chodzi o poufne dokumenty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekgycHdnekQ3a2xrd0l2RnNIazlqeEIwaFNYWjNLVFl3eVdXYlprWFIyakk5bXhKOW1vWldTdWRnZ0lKZnBxbnB1NnY5Q3VvTFItNkszUTMxbE1xdVdnWkN2bnY4SmFDTHdTNTA1d25FNUx3UDVuNzRFbGhJdDB0eVZIWVFVMzRyZU4yQm9aYVpPOGprUHNvWFItMVo4VW9DYVRnTmZJSldTV25IR0Jj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e185c37c3a7551bd18",
       "date": "2026-10-29",
       "title": "Nadajemy przez kuriera, odbieramy w automacie. 15 miliardów złotych dla branży",
@@ -116,6 +145,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d4e40e36113ea5e546",
+      "date": "2026-10-29",
+      "title": "Kompleksowa dostawa paliwa gazowego",
+      "title_pl": "Kompleksowa dostawa paliwa gazowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Olkusz",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35a2-5618-53e5-cfcf-e60001c060bf",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-cc5136777994759f9e",
+      "date": "2026-10-29",
+      "title": "Ponad 65 mln zł na nowe gazociągi. GAZ-SYSTEM stawia na polskiego wykonawcę.",
+      "title_pl": "Ponad 65 mln zł na nowe gazociągi. GAZ-SYSTEM stawia na polskiego wykonawcę.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3lxY2xEWTFORjRORDJmbHM0X0xZc2RoLVlMZ1hieVAyRXlkSTM0UnpVZ3lLMktzUDh3SVJZbmlZRV9aZmNPQ2tQaFAyRW9rZ1JxSGh6YTlkNWpPbkRYSTlCWFFjT2JLRkg5d2sybS1raDZKb2RwYlpPRGZYemk3T29PZ2pnU3k5UDk3RVU1Z2FtaDJnbUdXN3hRRmFjYkVNSHdPZWk5ZDJ6YkI1R085SWlrY05sVGV4TGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c102d60c0dbe7ab637",
@@ -263,6 +350,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9a17ce871c29fdbf35",
+      "date": "2026-10-29",
+      "title": "Orlen potwierdził duże złoże gazu na Morzu Północnym. Zasoby ponad dwa razy większe niż zakładano",
+      "title_pl": "Orlen potwierdził duże złoże gazu na Morzu Północnym. Zasoby ponad dwa razy większe niż zakładano",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHFFWkR2NURpVFltY1lXa0ktWEhSal9PMVQ3dTJPa2plZkV2aHh5ck1UeWRjS2dPSVgzdm9Oc3NsYy1Ma0tTSHEyTVNYWTBnT2doN3NKSllDeUVsMnd2QWw2WVJhVUtZUktVX3AyZ0lrSGhzZU9FekszM3RNSlB0azBMRG1fLW4wZzc2RTN2VjRXUno4TFk4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-91f0bb4c7ea618378f",
+      "date": "2026-10-29",
+      "title": "Gaz-System przeznaczy ponad 65 mln zł na nowe gazociągi na Mazowszu oraz Podkarpaciu",
+      "title_pl": "Gaz-System przeznaczy ponad 65 mln zł na nowe gazociągi na Mazowszu oraz Podkarpaciu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VTU3VEZnhTOHBQMEt0cURBZUFWY20yVTJEQjlNSnRlMXRUSGxsWktBMkhhNVlvQ2RsVjdpalZCZ1l0OFJvanMwS1l4SGlDR3pIYnF3cVhHd0JmT2hCT1JSdXFRMWxvODhHVWVMVXV4cVZBN1c3WXRDdFhCYmwwOGlMcXFhQVNEQWMtYVRabklRYkdHOFRDQWd2V0hLWHp2b2stTURSVEhpUmwyWUZSZzdmSm55TG1mcEh5NHlBTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8e84c015e37a065dfc",
       "date": "2026-10-29",
       "title": "DENER/01/10/2026 – Dostawa i odkup energii elektrycznej w okresie od 01.01.2027 do 31.12.2027",
@@ -379,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-68ca25633c0a9db25e",
+      "date": "2026-10-29",
+      "title": "Szczęśliwy odwiert Orlenu. Afrodyta da Polsce więcej gazu i ropy niż zakładano",
+      "title_pl": "Szczęśliwy odwiert Orlenu. Afrodyta da Polsce więcej gazu i ropy niż zakładano",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXy1ncm1ESEltQlBDa2d1RVBIeEFNWmxXMDcxQXlpdnJOc2c1WWhJaUY2NGhJbmFMNU5wODBXR1ZSOTg0OE1wdkxCQTRUSzJZWnBROXlMdjJLeGJpdG8xWXM0ZEVramtweUdNM2FzbWFiZ3NEWUI0TmVGQ1FSV3Fsc0xlNVFsaTZnYjlMQVhUdmNYRFFQTmR6T3pnclRQd0NnZ0dBYXJIUDU0bWNLMkNQRjRvUmxSQlZBaW54VVNn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6892d8934035d9aa81",
       "date": "2026-10-29",
       "title": "Minister energii powołał zespół ds. jakości paliw stałych. Przepisy trafią do przeglądu",
@@ -437,6 +611,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5cf4d456d244527687",
+      "date": "2026-10-29",
+      "title": "Poland monitors gas market, could consider windfall tax in due time - state assets minister",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUMtNUJvZDZHRlhER1ltaHV6eTU0QzRlVUVkTzg5YkdzVk1FUmdMajZtWWNMdU9wTlhzWkNKWG9BQm9RQm5kSnN2OXpObFFhTUtRb1RJUi1aXzFaYXRHM0Nhb0lST3FacE5NbXROclQ0RDdCbURCSVNJV1ZCb1VKQ3ctWGthNHFkOEpBcllIZGJBYmN4SHZUQXZsTF8zNHpsbDkxYm50V1o3UjJHTlBlVG1LYTJXcW1ielZTbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5c121a2fa6615b9f90",
       "date": "2026-10-29",
       "title": "Polacy chcą wolniejszych hulajnóg i stref zakazu. Całkowity zakaz dzieli",
@@ -464,6 +667,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-4ba8c60f73ea0b19d4",
+      "date": "2026-10-29",
+      "title": "Balczun: MAP przygląda się sytuacji na rynku gazu; może rozważyć windall tax w odpowiednim momencie",
+      "title_pl": "Balczun: MAP przygląda się sytuacji na rynku gazu; może rozważyć windall tax w odpowiednim momencie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUZza2paX0cyUkhXMkVpU0tOQ1BteV9GQWxDRy1ianJHT0szQjJ2Zk5vRVZSLWw0b2hNM250aTZkRXpUZ3NENXZES1dzcDR6NVZGTWluRnctQWZhZWhHTDJ2U3lUTjBBUVI5TUVCaURoRUlSWjBZbDlUTGdWZUpIckJ1UGx6RTY2RmUySkV2WWtLczlfUjBoYUljOWo1SFdhSV90dnA5Um1hYTA5OGliczFvUTBCaVZnNTl6VmZReDZabzdDTi1Qa2pMdlpmVHNT?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-44bd74b456e650a2f7",
+      "date": "2026-10-29",
+      "title": "DZIEŃ NA FX: FI: Dla PLN kluczowe ceny surowców energetycznych i globalny apetyt na ryzyko",
+      "title_pl": "DZIEŃ NA FX: FI: Dla PLN kluczowe ceny surowców energetycznych i globalny apetyt na ryzyko",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWJHb1NyU19QbTZ1T05YT3Y1N2k3b2ZnV096dWNnSUhSX05PWHA0MVZLbWtYZ2U3RDBIZGVMY0YzN2RBaHVxeTVERzZRaUlhOEZYZDAtc2kyWnpCLTdwZHgwLU0xUldJRmpUYndJRHpWa1FwLVhPaEVLamd0a2lETEV0WlUxTmNBMm9TNVNaNTJ4MHk1YlR1LS1MLUZfeU5ldkJGWjk5eklzT3RROUdpUXFzVFlnRWhzQ1NSaHdJcFNkSURN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3fd7a57ca22b0524a4",
@@ -582,6 +843,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2d37b4494458ced1f1",
+      "date": "2026-10-29",
+      "title": "Tauron podpisał z BGK aneks wydłużający o rok dostępność kredytu",
+      "title_pl": "Tauron podpisał z BGK aneks wydłużający o rok dostępność kredytu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXFsOGw5LXoyaGZRM0dEa3VUSk1oTjliZFBrd1JDajFpM1hxcS1qb0M5OTJoVDQtSDN1NGlHcmQ3bGFiVFFBRDhtMDZaNHZGb1RsaHRoY3FiV08wenVrTlQzV2FEcUhHMUVzYUg3aTR1SVRmOWd2SnJ2NE9UOS02RWdFWkY0T1VJWGtlME9pVmR0TzRpZldLWHBfc2F1VzNSdXBkOXpLZ0o?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2bcfa38594087f6a66",
+      "date": "2026-10-29",
+      "title": "Orlen: Ilość gazu przypadająca na spółkę na złożu Afrodyta przekracza 4 mld m3",
+      "title_pl": "Orlen: Ilość gazu przypadająca na spółkę na złożu Afrodyta przekracza 4 mld m3",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEpvS1JKWEJ6QjJzazNWVktpTVl4Zm5wMG5jeW9fS1Fuai1ucTFtY2g5dWJvWUlKRk01cWhxTHEyb1B3Ul9LZDNFUXRaZ0VUWWtUODIwVFplV2pOOFlhSEhMMVJoSHAxNWc5ZERsbjF1X1VvWmFEd1NBMnNsVk01QzJLSWRxQTFXTnVmbGMwNlE3NG5fLTVZNDBlZlpFdV9YUy1DZ1JvOFZ0RlhoMUg4cTR3Q1B6Tm1J?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-29caed5bdde03cce6d",
       "date": "2026-10-29",
       "title": "Pusty portfel Moskwy. Chiny i Zachód dystansują Rosję na afrykańskim rynku",
@@ -618,11 +937,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Ministerstwo aktywów i resort energii przyglądają się sytuacji na rynku gazu, nie wykluczają zastosowania rozwiązań windfall tax w odpowiednim momencie - poinformował minister aktywów Wojciech Balczun w radiu RMF.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFpuY3kyYnI2WENOc19vRFRDcHdpNWpvZVdlbGRIQVc4VEVnSGpWOU9XenZKWWxyanVYOHBKbkZoWlhIMlctc1lnZ0RFR2J5VVhCdlM1a3V6ZnFtMm1PNEwwMzBmbVd4eEtNY1FuYTlNdVpuNi11VThXcDZUa1Bmb3JLQ0ZzZDJMX2stUTB2UWhQckU4NHVaeTJBQ0p6cHMzTGwtQlBOSEFSODY3OHh4cVhxNFZDdw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-na-rynku-gazu-Rzad-tego-nie-wyklucza-9220081.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -636,8 +955,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-24d125844cd552aa46",
@@ -838,6 +1157,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-08500ff6a7573d08ef",
+      "date": "2026-10-29",
+      "title": "Ceny gazu w Europie spadają z 4-letniego maksimum",
+      "title_pl": "Ceny gazu w Europie spadają z 4-letniego maksimum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjJwbHdBU1pGWFU0bHJVbTNZWnhwN2g2SEZQdk84RjlLU1pMYVRUUTJIMUMxMmVCRzVTRzRqSFdCcTlXMjhxRGhXZHhxZDNXY2hHSG9SM2pMMnlOc0I4WEllZ1AtZkw2Y0xEdFZzM01aOGZaRkF5aWNfTEdZV1pnal8zWkVQVnZZZVg1dE15U194WlRVSVNuNzBydw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2672,6 +3020,36 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-803590ee17e91d28fe",
+      "date": "2026-10-28",
+      "title": "Rozporządzenie Ministra Energii z dnia 20 października 2026 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi",
+      "title_pl": "Rozporządzenie Ministra Energii z dnia 20 października 2026 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz rozliczeń w obrocie paliwami gazowymi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API & ELI (Dziennik Ustaw) — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1418/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API & ELI (Dziennik Ustaw)",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-7e2181ab81b6fc203d",
       "date": "2026-10-28",
       "title": "Ważny korytarz dostaw węgla do Polski odcięty. Minister energii komentuje sytuację na rynku",
@@ -3002,7 +3380,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
           "type": "press"
         }
       ],
@@ -3010,7 +3388,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -4162,7 +4540,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -4170,7 +4548,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
