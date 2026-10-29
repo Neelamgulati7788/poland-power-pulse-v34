@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:58:05+00:00",
+  "updated": "2026-10-29T15:55:10+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -234,6 +234,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-df6b209b6c9d097696",
+      "date": "2026-10-29",
+      "title": "UE: EBC pozostawił stopy procentowe bez zmian; rosną ceny energii i ryzyko inflacji",
+      "title_pl": "UE: EBC pozostawił stopy procentowe bez zmian; rosną ceny energii i ryzyko inflacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUxqMVJFc2Q5eDZKMm9teHZYR3NwaFB1cWpHbk1qVGhqbGk1U2hNNWxRWGQ4OFNXY2pWMEdJaWVfOTZyVWRfc2R2REZkOHRkMU9ESkdGYUNFWFcyR2RfOWdJbDlaZUZ2RE1jTkIzZG84Z1J3TjNkOGJWQmhHMENuNGI1WG1wM1ZNZ09OdEt0U0NSVXR3bXQ3T3lveXR3SUs5QkNSMXVpTkRBMGVFck04QnpqaVFvYlRSQkxR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d6c90a0965f5e21a86",
+      "date": "2026-10-29",
+      "title": "Polsat szykuje sprzedaż aktywów, XTB zaskakuje rynek, a Orlen zwiększa gazowe zasoby (Najważniejsze informacje dnia)",
+      "title_pl": "Polsat szykuje sprzedaż aktywów, XTB zaskakuje rynek, a Orlen zwiększa gazowe zasoby (Najważniejsze informacje dnia)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjByYlQtUXM4SlFGRnhJeWM4RFZ0MF9UZ25jQk9vWjR5MV9sTnk3dkJfZWs2NEp4Z25aUlVHcXU3eEZrT3lrY1pjZU1TVGhaaWJsVW9raVZwVkpMQzhtaHR4TEtVaHpnNkdRUzlUNDNCRHA1Yjc5emhvbjJXbDE5VEtEVU1kZklKaG5zdzJsQThNbDZ1TjQxYTFxX3J5R0NHd1p5cUQ5YUE3aGUwR3RkSnFuOHJwempvSXBxQ1BfQjRTRmN0TFVhSFFJWUg1Z0hRU2ctTw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d4e40e36113ea5e546",
       "date": "2026-10-29",
       "title": "Kompleksowa dostawa paliwa gazowego",
@@ -316,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b53e851237d85e7179",
+      "date": "2026-10-29",
+      "title": "Blok CCGT Grudziądz 1 osiągnął operacyjny kamień milowy - Energa",
+      "title_pl": "Blok CCGT Grudziądz 1 osiągnął operacyjny kamień milowy - Energa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXJxVk9QVUVrelZRT1dfLWJROTR4ejNOUmhjUDJQX05lZHZwTlV2UGdwWWlfdldJU1NzY25PUHpGWkRGSUtHczNyYjhoZXhZVFpFWjZBN3FBaFVCUnVrZi1lMGpZUW5oT0Y1YUZ0Nk1HVlV2bEo2N24wN3o5QXRWdDdwQVZSc0ViT2VqNWZxVXJsVzNtaHlRQjJVN3FOdzFWZ2hR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -551,6 +638,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-9a3e7bf2dd863f9f2e",
+      "date": "2026-10-29",
+      "title": "Gawkowski: od 2027 r. ruszy elektroniczna rejestracja pojazdów",
+      "title_pl": "Gawkowski: od 2027 r. ruszy elektroniczna rejestracja pojazdów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbW12TDV6TjBoOXJKNVZ5bUYyLWpKRTZJaUxmV2NSa2NTTEg4MWxxQ3dsVFdEY3hhUUJTYktFRGtzTUVneUxGOC13UmFfMGIzcHdhLUdHLVdpWllac3cxcVQyRWlKWl9lNjBtQjI2V3Z4dDZGX2tzZm9TUVlXRldlMWxPY0RPZlAxMUVsS2wwdFlzbUZSWHR4dkdGQTNTMmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9a17ce871c29fdbf35",
@@ -901,6 +1017,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8050e0fb8409701ad9",
+      "date": "2026-10-29",
+      "title": "Poland's Enea, food group KGS team up to produce biomethane",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1k1ZXFlZmZKUUJmd25JSHRMNUpuVE85SVdMQnc1c2hCeTN1bzFFeTczOXZnR0RITzhDX1pKUE9FNGdfRUg3RnN4VnZtYlY5eHQ1Z0pGWGYyeFp4NTc3c1RUb01oQXdEZU9TbmdGcjJoZmJrYWNpSEdLTU5fNVd6QWlWTXdRczhxcW01cmVxMnZDN2QxTHFLM1cwNEs2dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7fc21abfd41a4fd169",
       "date": "2026-10-29",
       "title": "ORLEN Confirms Significant Increase in Afrodite Gas Resources",
@@ -959,6 +1104,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7cf4a18e9ae0afdbeb",
+      "date": "2026-10-29",
+      "title": "Energa power's Grudziadz 1 CCGT unit reaches operational milestone",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGpCMnlGTm5iS0NpTmhuTldGOHYtWWpyVlZtMlFnWkhycllvR212WlFJcE9QQkN6NVhLZ1dmWUZvZVpWTzh1ZG1NQUR1eEs3b1VLR2RGNkVRb24wSG5YaDBQTlFOZDJWbnJkVXh4RTVJV0ExTzg0LUVEaUhIc2Jla2ZtanZhbTNjSXFJQmRjZEFRZnJJVHd2VGZ2bVYySDRhVWplb2dwTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7c3e94d5ad5981f69f",
       "date": "2026-10-29",
       "title": "Benzyna i diesel tanieją. Są nowe maksymalne ceny paliw na Wszystkich Świętych",
@@ -986,6 +1160,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-781d23f6a1ce111c0c",
+      "date": "2026-10-29",
+      "title": "Ceny energii na TGE przekroczyły 2 400 PLN/MWh. Co pokazuje jesienny szczyt cenowy?",
+      "title_pl": "Ceny energii na TGE przekroczyły 2 400 PLN/MWh. Co pokazuje jesienny szczyt cenowy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdW0yaXYwbG9BLWtpVmJKamFNUXJrSFN3RWZ3QV9LUi1vMVBnRDNaU3RyVWxFNk1KV1J5WkROekhiSE12anlTNVBVb3ltVmMxR1ZkNlNwaW1Wa2dRSk5IWG16LTR6dDJZTXNLMHZyd0pVQnhxbVNYaFdiWlp1bGRCenpjSjVyRkRoRHYxNFVmZXYtdXgxaV9mZ3JiTEprNEMyeldoZ2x2WlRnX0hmOF9PbUNxa0FVYXdIaEl4Q205VE95aldRYUQxWkxVVmpSa05hcTVr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-76a59c327af010ad22",
@@ -1046,6 +1249,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-743e6344c98ab0c9bc",
+      "date": "2026-10-29",
+      "title": "Opracowanie studium wykonalności oraz PFU dla wykorzystania ciepła nadmiarowego na terenie OŚ w Rydułtowach",
+      "title_pl": "Opracowanie studium wykonalności oraz PFU dla wykorzystania ciepła nadmiarowego na terenie OŚ w Rydułtowach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35d4-8f8e-c011-cfcf-e60001f8c0aa",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-74071620534bb52fe8",
       "date": "2026-10-29",
       "title": "Zwrot w dotacjach na domowe elektrownie wiatrowe. Będzie dodatkowy nabór",
@@ -1070,6 +1302,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-71c59e8161793cb8f7",
+      "date": "2026-10-29",
+      "title": "Orlen Unipetrol to buy solar power from CEZ under new partnership",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2JGS1hRbEY1OEt2Qkt4NjlId2w3cjlhY1R5UjlXdHBDejJfSW1Uc0g1YnRydlhqcGhKZjhWMnZINGpmcHN3Z0E3c2U5S2ZnLXp3ODNrejZpb1FPWDhwcEVnUjFkcjhxckJjRUNnbE5WN0JIOThVQXhPRmN2Rkd4aXFheE83ZER4dHRuYl9ERTRyVXlyb2NaRjVYTlE5YTU0cS1BOUhSSDU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1247,6 +1508,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6676a62073bcf3739b",
+      "date": "2026-10-29",
+      "title": "Czy węgla wystarczy na zimę? Resort energii przedstawił dane",
+      "title_pl": "Czy węgla wystarczy na zimę? Resort energii przedstawił dane",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W okresie od września 2026 r. do marca 2027 r. wydobycie węgla kamiennego energetycznego wyniesie ok. 17,5 mln ton, a obecny stan zapasów węgla kamiennego nie odbiega od wymagań w tym zakresie - odpowiedział resort energii na interpelację poselską ws. bezpieczeństwa dostaw węgla i przygotowania…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Czy-wegla-wystarczy-na-zime-Resort-energii-przedstawil-dane-9220463.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-5cf4d456d244527687",
@@ -1568,6 +1858,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3a018d88fc9bc062ae",
+      "date": "2026-10-29",
+      "title": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji wiatrowych w dniach 24, 25, 26 i 27 października 2026 - Komunikaty OSP",
+      "title_pl": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji wiatrowych w dniach 24, 25, 26 i 27 października 2026 - Komunikaty OSP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQV2pPT0NJXzdrNGxfVXJLVGhmNS1CTFVScF95bGlNZUNBTEpuN1Rsbl9NZGNZdWRiQjRpMzFzZkVpcUdDSmtIa0xIZ3d5U2FMdVhvYm1sTU9QZzFwLWs5TWZNdnZxUnJHbzZUaS1yeW9NTUJEdUVaWE5waHVJYk5HaFlqWmNHMWZ4RFdYTU5za2ttMkZMRW8tb2plZF93aUNUSE5vRktWZE43eTFSc0Y3ekxzMWh1OFlNbVdXLTU2ZzZDamhENEhTbjlXRFFyMDdKa2loZEVPamg1M0NXcndwd0RRRzltcjRVNEN5M3JBZHRVbUllSGNaNTdXNmk3YXB3cE9jaDJTcmJ5blplNy1RcDZHOTZtUHpPMnFPZm9nZ3Q5QU9yeHdGc0dRdXRrNEtzMFV6R1I3RHhlZ19TeF9jWUs5Z3lSQXBVMEg1ZGJEbFhzcnc3WlBxM2pR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-399f43c3a13a58c5d4",
       "date": "2026-10-29",
       "title": "Czy podczas przedstawienia strategii CP padnie słowo Elektrim?",
@@ -1684,6 +2003,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-30178ae8af339d2814",
+      "date": "2026-10-29",
+      "title": "Nowość w mObywatelu od 2027 roku. Tablice rejestracyjne dostarczy kurier",
+      "title_pl": "Nowość w mObywatelu od 2027 roku. Tablice rejestracyjne dostarczy kurier",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Od 2027 roku Polacy będą mogli rejestrować pojazdy w pełni elektronicznie, za pośrednictwem aplikacji mObywatel, z dostawą tablic rejestracyjnych i dowodu rejestracyjnego kurierem - ogłosił w czwartek wicepremier i minister cyfryzacji Krzysztof Gawkowski.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nowosc-w-mObywatelu-od-2027-roku-Tablice-rejestracyjne-dostarczy-kurier-9220464.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-2d37b4494458ced1f1",
       "date": "2026-10-29",
       "title": "Tauron podpisał z BGK aneks wydłużający o rok dostępność kredytu",
@@ -1766,6 +2114,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2a2a94742a34cd7a34",
+      "date": "2026-10-29",
+      "title": "ME: do marca 2027 r. wydobycie węgla kamiennego energetycznego wyniesie ok. 17,5 mln ton",
+      "title_pl": "ME: do marca 2027 r. wydobycie węgla kamiennego energetycznego wyniesie ok. 17,5 mln ton",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS29ZV0M3QzJxSXdZUDN0SEM5aXRISHpLODJjVXYtSFY3SENmZzZVTzFoS2V4QWVDQmppd3k4cnJmMkJRdVZBcDZxdC01Q2xSREVCamFOODRkVmhYX3lCSjJXcWFBQllHc0ZTVGRuRm5uQ3RkRkNlamlpM3laQnlQelFpMUVqOVd2OUk1WF8wc3NHUVg1YnhOQURvOTEwd2FrNmowdUR3RkVidWNQSVdGc3B3LWlfYkZNeHZyUk84RnU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1858,6 +2235,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-25055e5027c9870a8e",
+      "date": "2026-10-29",
+      "title": "Możliwy 1 mld zł utraconych korzyści w związku z niezbilansowaniem systemu w 2026 r. - PSE",
+      "title_pl": "Możliwy 1 mld zł utraconych korzyści w związku z niezbilansowaniem systemu w 2026 r. - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdm03Mlo0N3hXNk14UVJlS0JBRC0xVVNBak9YcHVoekNuOUdPNC1qWWJXd3RoLUFLTjl6NjhXNWFBdzlqck9PRFdPSnBfX2dWZWcwd09MVTRzNUdqWTljUVFuN2lKdEVoNGJ6WjhVUmVqSVhWMkgyaEo4U20tc2Z2RlhPcy11VVpBSzBDTURzM3o2NkNZeTRRSWQ2cUVLTUlQWmNtcWFGaW1ncVVYLUdTdEZxNnc3WGktM1h3UA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-24d125844cd552aa46",
       "date": "2026-10-29",
       "title": "Polska niemal na 100 proc. pełna gazu. W UE zapasy wyraźnie poniżej normy",
@@ -1885,6 +2291,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-220eccd470c1f7cf65",
+      "date": "2026-10-29",
+      "title": "EBC: „Szok energetyczny może napędzić inflację”. Stopy procentowe zamrożone, Europa na zakręcie",
+      "title_pl": "EBC: „Szok energetyczny może napędzić inflację”. Stopy procentowe zamrożone, Europa na zakręcie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaG93bHBpc19VOU1SNUVMTUhJdGg1OEx4MGtkUFZSRG1Idmh4UXB0X3R6emIwdElYa056U3dMZnZLRnJzVkR2TGxLazFNanU5NnBTYTktc3dJbEtTNm5MMmNFX3JyRFo4SUtuR2FIeWEwUDlMRkFXbjdzMEsyanFFN2d0dzZac3owQXlXUjU1YklHU3FnQmRCQ0RQNHAtLUYwcVQzRVNPV1YwSjNFaUp4VTFFcWlIZ3VWUWdUcnlqYmNnWk9SUGFuZVZEQ3BFZ2xOZG01T3Ywb1M5bnRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1e8306ab32a9e07b61",
@@ -1969,6 +2404,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1872403da53dbd7adb",
+      "date": "2026-10-29",
+      "title": "Ceny gazu w Europie spadają po ostatnich rekordach",
+      "title_pl": "Ceny gazu w Europie spadają po ostatnich rekordach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnJEY0NmeUZuRjNTVFhIdjh0VXB5Y3dXelFmal9ReDJRTmJQNzV6MWQ4cV9LVGZjSkhfd0xqZTRhZmRMSTFLTjFvNlRzSklJdUlzb2tBOWJJTFdoQlNYOGxzczd1VGRiLTE1VWpUZ3FEV1RhOVQ1M1VUX21yS3h4czhUbHpUend2WGo5eFMyNmg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -9096,7 +9560,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHJ3dEYzTjhsWnpzMlRQZ0RQZ2NfcndCX0Q3YVlYVjJQT2NLX1lTaXN3a2F1VndTVU9SdEc2SjNtOGw5MDNfQTZPU2F4ZWpSYWZxeFZVMTFRaklBUW51bnlJb3FMVGRtTzBGTGxPblRSTXFWYnh2ZHdQTHdNVzYxYWtoLXZrN0hybzBIdmdoRjRERTFHUjRKUVJjcVlONFhOWmVsQWc4QzBGZDBIZXMyWnYxYWFNQTVEVmJ4SjJ6emJlb21PRkJyVHRwQVlGNHM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWREelMxRFZRSVdNZC1IbWtoVDdaWWJuU01VSjlZY2oxQ1Zwc0JWX0RrdG1pT0t4ZFNZX0VNdUlCcmNCcU03aHBqeU5fMkd4RVUtWFBsMzRVcU9tQldVS2lXd1dTeFZxYzNIckxSelJtZXo2Rk51N2Z6VUdtOW4zWmsyVGdDSWRNZHRUTW53RWNPZEZvWWprbU0tMHFXaVdwaXAxajhIdmFzVmV0VkhPeHJVZ0V4cl81c21idGVXOVUxdS1reUxwTmdIbzVZUXM?oc=5",
           "type": "press"
         }
       ],
@@ -9104,7 +9568,7 @@
         "ENEA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://oze.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
