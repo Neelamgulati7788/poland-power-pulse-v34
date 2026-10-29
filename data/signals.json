@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:43:42+00:00",
+  "updated": "2026-10-29T23:40:07+00:00",
   "signals": [
     {
       "id": "src-ff80941993431cb421",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f5956ae9863786b33f",
+      "date": "2026-10-29",
+      "title": "myOrlen ostrzega: Uwaga na fałszywe maile dotyczące nadpłaty",
+      "title_pl": "myOrlen ostrzega: Uwaga na fałszywe maile dotyczące nadpłaty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUZoanFJazdrcUUyb0daVU90SFo3Ymk3b1dUalU1RC1WbFU1TFV2clhHMkQ0bGprWVRpUkZ4bEU0TjRVN0Z2VmtnZkdiOGtHRFpRQmdadDhhSkNJajhmZ1l0U0hyNUNfSXpxTDJOQ3RuYzZHMzdjNGwyZDk0SVlLQ3gtZWRjRGVsVC1GUS1uX1MyM1J6UklUdVI1VlpWY2ZhQ0ZnNHFkQnNvUDJ3d0FjNWctcGF3cFBHNElSODc3ZldFVzduVnVMVTFld0s4N1pWQzlUR2pMTmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://fakty-i-mity-o-transformacji.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -524,6 +553,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c7bac82b33d76d6caf",
+      "date": "2026-10-29",
+      "title": "✅ CHINY POTRZEBUJĄ WĘGLA KOKSOWEGO ✅",
+      "title_pl": "✅ CHINY POTRZEBUJĄ WĘGLA KOKSOWEGO ✅",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE1UTUtQVGkwbHZxMVVfUEEwRU0tdDdaMlljVGZTV3NfLW5NVFFiLUZ6enlxaHNWR1JDWW5ZRm1qc0hlY091Y19PelBLY0llY0Y3MGtSd3ZpTVZMR2EtanBaOFV1REd5ekN2SHh1MTZQdFE5Y3UzVnBMQnZHeVRqZlpQd3h5WnJm?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c5b74ca7820a49212d",
       "date": "2026-10-29",
       "title": "Enea ma umowę dot. programu emisji obligacji hybrydowych do 5 mld zł",
@@ -610,6 +668,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-bc5b89c6ea4f2c899e",
+      "date": "2026-10-29",
+      "title": "ENERGA SA (52/2026) Podwyższenie ratingu Energa SA przez Moody's Ratings",
+      "title_pl": "ENERGA SA (52/2026) Podwyższenie ratingu Energa SA przez Moody's Ratings",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2M3WXg5bmZkenRXOHVkS1UyOXp4X2hVeFNTQkpSSHpMcmhwMFpUajE4NFVTaWcybW9uWURucnQyUUV2RjBhZndRSk9fVEpDZVFDaEIyLWctZjNnQ0YxWTJJSWh0cUlDaF96VFNGamdURjNvaEFiR0FhSnZrb3V5TElCdk1nazJTb2c4Yk1vVFpTOFBfdUtldFdORk1rbDgwb2ZEdmx1ZGVFYkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b8976fb21a64650f52",
@@ -1493,7 +1580,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcFNKaFFUY0wycFpka2kyMGpSOGZsb2h0VkdPYU1Ub3YyZ0VKUlZJZk1mNGpESXRMS1VxV3NSd0xIbnFkSWJ0amhvYkpEeGh0Q2U2eDlZWlltcWRSb2RFSkEzTW1SVnZCdmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWlBiX2g3RVh3b2dWSkJUeHFpNnBvemZfR2gxVWlTWnExcW5LNHRrcHJiSmJCYUtVMTR6VWpCZE9HaVFVejhBT2E4NEg1LUFhdVFZUHN0YkZYZjhGZ1pGTmdMenR2elBYdFE?oc=5",
           "type": "official"
         }
       ],
@@ -2411,6 +2498,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-63fff18828077f4e09",
+      "date": "2026-10-29",
+      "title": "Do Świnoujścia dotarły pierwsze monopale dla morskiej farmy wiatrowej BC-Wind",
+      "title_pl": "Do Świnoujścia dotarły pierwsze monopale dla morskiej farmy wiatrowej BC-Wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUZTV1huaTJqWjNfNl9ZUW5DNTdiRHBkS3JuSUNYNmZuVDNaNEFZV3FieUpOQktkZVFXdEd2ZEY5V3hDc3ctUWlPcEhMaDY2NXZQcUZQdWFVVHk5WXFZc1QzN2lUaWJOekdRcUpTYzRoSjVraVltbG5wbWQ1NlNkUWY1c0wtaXktc01ZMGhZaExHb3ExQncxd29Yb1BSMkpyeXhiM29QMXp5dkQ5SkVfaXY3azlvY05pRkwzS0pSLUh1TEhlTURVQTY5Q0FNMGM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5cf4d456d244527687",
       "date": "2026-10-29",
       "title": "Poland monitors gas market, could consider windfall tax in due time - state assets minister",
@@ -2991,6 +3107,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-30f82bc000a27aa9fb",
+      "date": "2026-10-29",
+      "title": "ORLEN Wisła Płock gra dalej w Lidze Mistrzów",
+      "title_pl": "ORLEN Wisła Płock gra dalej w Lidze Mistrzów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ZEdUttQnZ6S3p3X0dSTnJLNUo4UjlXR0EwanctQUJaYWVBdlhybGtlbzhPSzhWNXV4VnZSZW16OHhQX3Q1R2JFenFCdjlLc2pKVlN0Y1pDeTFjdkdoTE5tNEFXLTNlTmJ0MWFtNlg3dU1CeTI3UXRUdEVLZnVzRUQwcGJISmxuTE5lZ21ZYkNjQmpFZ2hNZlZFeGxsa3hLNy14WUhFMEp6dy1KbmdsWl9oWU4zdw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-30178ae8af339d2814",
       "date": "2026-10-29",
       "title": "Nowość w mObywatelu od 2027 roku. Tablice rejestracyjne dostarczy kurier",
@@ -3508,6 +3653,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-185780cae982bceff6",
+      "date": "2026-10-29",
+      "title": "✅ INDIE POTRZEBUJĄ OGROMNYCH ILOŚĆ WĘGLA KOKSOWEGO ✅",
+      "title_pl": "✅ INDIE POTRZEBUJĄ OGROMNYCH ILOŚĆ WĘGLA KOKSOWEGO ✅",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSklkYkxOUUp6Sy1kQzBIZ1F0aFpHOGVreEVLZUdFREFtUGlxTWFma1VON1dlOFU0UERfZFBMRjB6VS01NkpwTC1ZYW9mSnNsMGF5TWE4Z2szSVVnMUpfTjBRbUhlSTMwdUttOHJfRVZReGQ2QlZCOF9DSWxnUFlTVUtUR1RVUVR3Z2V0Vms2bFkySUgzbEV2ampPZnFwQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -7297,7 +7471,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -7305,7 +7479,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -10548,7 +10722,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVV93R054T2h3TXhvdDM3WldKdzl4UXVHNjNFbGRUR3V4T1FwbElObkFsSmhhSUpYcHR6Q2Z6c1UtVkluU3dnTi14c1dyNFc0VXNDZndodU1rLTlTVkstal94czA2RTZVd2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcVZmQkQtS1RFOTExUkxiSXBTQzhiT1RKSjRrdlhmSGp4SHpjdkc0cm54R2g2cWx5VG9IcXA5WWpVMV9nMVRwUVVJZElPdU9VM3JPQzlRYmFZajNuV0Q5aTcwaWoyZWdpWlE?oc=5",
           "type": "official"
         }
       ],
