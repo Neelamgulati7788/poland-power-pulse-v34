@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:49:46+00:00",
+  "updated": "2026-10-29T11:44:37+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -379,6 +379,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-97b9f28b08aa907a70",
+      "date": "2026-10-29",
+      "title": "Cyfrowy Polsat TMT strategy aims to divest energy and property assets, focus on TMT",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjFma0N4aVo4M3UySnM1UHhmM1RYNkN2c1Vqd1A0OUk2TjVzb2xlOU9rNS1jU2ZLSFh0eGVudjJxTnVoV2l2ZnlJeDJLYmhwbjZXdThxamNCYU82R0V5cVUtSTFGcUpmRFNVRWxGbkhuS1hfYmJ1SjJLS1h1WE5TTDUyQnNjMzRWNTR6am9HTlFTdlROSlA2Q1ZxMDA0bUZNRy1jZnd4cUttMDEzem05T0NBbW05MzJHWGVj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-93ecf43e2ec2c261c7",
+      "date": "2026-10-29",
+      "title": "Świadczenie usługi polegającej na kompleksowej organizacji usługi cateringowej dla pracowników Urzędu Komunikacji Elektronicznej wraz z podsumowaniem roku",
+      "title_pl": "Świadczenie usługi polegającej na kompleksowej organizacji usługi cateringowej dla pracowników Urzędu Komunikacji Elektronicznej wraz z podsumowaniem roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd Komunikacji Elektronicznej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35b1-ffe4-c896-cfcf-e60001c063d1",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-91f0bb4c7ea618378f",
       "date": "2026-10-29",
       "title": "Gaz-System przeznaczy ponad 65 mln zł na nowe gazociągi na Mazowszu oraz Podkarpaciu",
@@ -611,6 +669,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7fc21abfd41a4fd169",
+      "date": "2026-10-29",
+      "title": "ORLEN Confirms Significant Increase in Afrodite Gas Resources",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaVd6OXdqNjNlWHM5NzdrTzRvdmhwSFF5SmFxTDlIVzRRNWVGRVBmbVhHNmtuREdJS05qdThqUTF6a0ZFaTF5bFZGaGRQaFEtNzVod0NnNnE1WXM4S3lmYzAzREtkWVF1ZllyTU5uWkNOQWVKQlBJaXNwcUdCbVZQc2Nlazl5TWRWWjM2dmJreGk5eXFWS2I3aWU5Rkw1VEFVbE82a0tyQnNxdHlUUjN3aF9oS2c1dng3YVNrNlR6UlR4LTlRdHB6QVNVbnUtX3RSTkxpR1hRTW9raEpvWG1vMWxEWTU?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-74071620534bb52fe8",
       "date": "2026-10-29",
       "title": "Zwrot w dotacjach na domowe elektrownie wiatrowe. Będzie dodatkowy nabór",
@@ -719,6 +806,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-676e96434603388ff6",
+      "date": "2026-10-29",
+      "title": "Polski terminal po raz pierwszy obsłuży tak duży projekt. Dotarły fundamenty farmy BC-Wind",
+      "title_pl": "Polski terminal po raz pierwszy obsłuży tak duży projekt. Dotarły fundamenty farmy BC-Wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3A0RWFBYzZPLWEydk9mVm5qZkJuc1VIZDI2cHotN1RmWWE0VWlSVmNPMTlXWGRkRDBheVg4Q0pyaHdlZ3F2dFRMVmxock95MmNrWXZoV01qRTI3MUdCTnlwa24yUnZvdkNVd3FvM3NabkdTcjRHMnFkYjNFYU9NWEVwVkZleTIyVVFHaXU4dllaSmdad1J3MjdUY240eFVVMXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -1347,7 +1463,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlJSakh0cVBjN3ZjbEkzLWtVQjVERHRyYkZRbzNGUFFKbUdNcmdDY0E0d1NEU0lfVHc4WjlRSlU4Z0hXTGktZ0MyUFJhamQwMTlPaXM4d1pGaklCNklLVjkyUmxrbHRHTHpRal8tN2ExRzNCRjdYV1hDNE83T2lmZTJoenJ1UVNnRVFzY0ppaEVmZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSllTekxkN2xac09zT3NvZE51NDNoQ1ItcXBFNFU3YVlrd1RGdjkxZDF1ZjJ6WHdmS0dSR2cwZlAyamdiM2RJb2J4dHBxQU9vN2xvZHpPVnI5Z2M2TEV1MUp6SUstWG56WjJhYk5HNFMwSzloUDZPU0tfeUMyZE8xWWdlcE1UcTZnMUxfOG8tVk85a3NfdTZOeENzcGxTTkt4MUxnX3RyV2ZKdzdRUGc?oc=5",
           "type": "press"
         }
       ],
@@ -1355,7 +1471,7 @@
         "ORLEN"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://geopolityka.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -3612,7 +3728,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUVTZUFIb2lvc21LRG5KMmlxWkpzUUMxM2hnWWpDSWxVM0lfVW9LZExqcDg3cHlobmIzdUl4WUxuY0tsbG4xTFJFb3hNNEQyV0tEelpXcm0wR0gxU0dkZzZQTFluU3haTFBBNGdFcjFCNFRnZFBqSEVISUJSV1AxNk1nR2ZPUE0tRWY0Y2U2X3R4d2pZUzlUVEZ0UEsyNHIzTlh2Wk40dEpsdFg4OFpYUEVROHVFNFNOZ1RYQWNINlp3YlhtWTJNX0FHYVdmam50aGlwSUM4bVZRcU5PVTFQcVJTRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXBoaWEtZUM5R291a0M5V3oxY3lEZjV2ODJnSjFtWFQ2LVByTllaYXVNS2sxVW5VejJxdWt4NFZuSjRDWWNGaGdqQldjSjZaVGxIRHpRNjllWFlPaFlYRFllMXlBTXc3Ni04NFNNU21WbEd3OTRVaURRVzVQNEpfRnJZZXhXZldWNkhXWFN0QzV1djlqdnpOMG04dDVQWktRM1psbHAyeV9DVDR5NkYzbG9HaGhSYk9aa2FGVWVQb2dhaS1id0liSFdGQTRXVFhaTE5wb0otcw?oc=5",
           "type": "press"
         }
       ],
@@ -3620,7 +3736,7 @@
         "ENERGA"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -4210,6 +4326,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3add671d0a17c43326",
+      "date": "2026-10-28",
+      "title": "Stalprofil blisko kolejnego kontraktu z Gaz-Systemem",
+      "title_pl": "Stalprofil blisko kolejnego kontraktu z Gaz-Systemem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEdWcklSUTN5b0Z1clVfVUlNbWxFb09MY2tQQjhjVkRiN09OZ1VtWVdRR0FlTERTaVBEc1A1bHplUUpCakg2TURlMjFua2JWSXB2QlN3c2hoVy0ycW1Lc1BfZldQdklmekg5UV9acUQ1OGVHY0gxSnVWRUM3Sl9mWGZxNU9zSnNfN0pPcXg5Z1J3SlpMTjhF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-36232aac7269a7f91c",
       "date": "2026-10-28",
       "title": "Polski terminal po raz pierwszy obsłuży tak duży projekt. Dotarły fundamenty farmy BC-Wind",
@@ -4772,7 +4917,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -4780,7 +4925,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
