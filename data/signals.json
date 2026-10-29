@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:01:44+00:00",
+  "updated": "2026-10-29T08:55:00+00:00",
   "signals": [
     {
       "id": "src-fad9ef252dffeac2d8",
@@ -118,6 +118,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-c102d60c0dbe7ab637",
+      "date": "2026-10-29",
+      "title": "Pellet, pompa ciepła czy gaz? Ministerstwo przypomina, kto podejmuje decyzję",
+      "title_pl": "Pellet, pompa ciepła czy gaz? Ministerstwo przypomina, kto podejmuje decyzję",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzVRYlZZZ20wcHJlRnR4R0pIMV93ME9CQXZGQ0Nsdl8xTlVMRTAzbnlabEdqaG1jeVF4X0s1eVhGZi1xNWNnNk9kaDdnTWRMc2U5eGtrU0xGXy1fdVNXRk1zVm1ZM3Btb1IzZmFkbmZpTnlhWDVOeUMtZ3NtcXYwUUVjTklIQVdWLVJUODM2bVlETkJYeVp2elgtMm4wNWJXQzVITkNKQm5zV3d3OWNv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b072784fbdf3ed7424",
       "date": "2026-10-29",
       "title": "First BC-Wind monopiles arrive at Świnoujście offshore terminal",
@@ -145,6 +174,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-aece09706a1abe1ad6",
+      "date": "2026-10-29",
+      "title": "Kopalnie, AI i rozwój lokalnych firm. Duże zmiany w tym regionie",
+      "title_pl": "Kopalnie, AI i rozwój lokalnych firm. Duże zmiany w tym regionie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Kształcenie kadr, sprawniejsze działanie administracji, rozwój kopalni oraz konieczność produkcji elektroniki w Europie - to zagadnienia, jakie poruszyli uczestnicy panelu „Adaptacyjność: kto kreuje przewagi regionów”, który odbył się podczas konferencji Made in Wrocław. Przedstawiciele rządu, samorządów i biznesu rozmawiali m.in. o tym, jak przygotować region…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Kopalnie-przyszlosci-AI-i-lokalne-firmy-Dolny-Slask-szykuje-sie-na-duze-zmiany-9220114.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-ab886965374b69789c",
+      "date": "2026-10-29",
+      "title": "EP/220/93/2026 Wykonanie rezerwowych źródeł i magazynów energii elektrycznej w SPWSZ w Szczecinie w lokalizacji Sokołowskiego 11 w ramach zadania z zakresu Programu Ochrony Ludności i Obrony Cywilnej",
+      "title_pl": "EP/220/93/2026 Wykonanie rezerwowych źródeł i magazynów energii elektrycznej w SPWSZ w Szczecinie w lokalizacji Sokołowskiego 11 w ramach zadania z zakresu Programu Ochrony Ludności i Obrony Cywilnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df359a-333b-9d3d-cfcf-e60001c05f51",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-a690c4a7c258112b08",
@@ -229,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8930e8af3a48611e48",
+      "date": "2026-10-29",
+      "title": "Niezwykłe odkrycie Orlenu na norweskim szelfie. Złoże Afrodyta kryje ponad dwa razy więcej gazu i ropy, niż zakładano",
+      "title_pl": "Niezwykłe odkrycie Orlenu na norweskim szelfie. Złoże Afrodyta kryje ponad dwa razy więcej gazu i ropy, niż zakładano",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSnZnc3lFUlZ1R0NEWmJGTFh5U0FBUHZHUEZ4eWNuWEhKdlZOYWVGQ3J0MXcwWWVXeUtqQTlfTkVmNU91eHBLU1hhcG4yLXQ1Ti1OUGxtMEZ5ZTNjczVRQ0ZrT3laU3oxN3ZTUjcyYzQwakpqUWxfaWtaSWk0WUQtWXEycmxrQ1FVMnMyWnd6YkdLbm8zOFlvVWdpZ09sMmhhYzh6a09zcHdRbHprRG1wcC01SzJza3ktc180WFNuTjBTN1JQWjB0aEdaWjJNYk1Ma0NOM1R0dWNOYTJUTlk3MjZuN0hXUFRr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -379,6 +495,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-3d6b040dd39ad6a5b3",
+      "date": "2026-10-29",
+      "title": "Zapasy gazu w magazynach UE wynoszą 75 proc.; w Polsce powyżej 99 proc.",
+      "title_pl": "Zapasy gazu w magazynach UE wynoszą 75 proc.; w Polsce powyżej 99 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVG1Jd09qZE52VEw5bmtEdmdLRkU1a2FuWEVNVWVHd2lOV2s4a0o1UHBfU3dSa2tBT3pXMWhlN1RLbVd1a2xjVGJXZzJQR3FLc0hvMTg5M21RVEdjaEtfVVJiRjdtUU9Kc3MtaVVFU2JtUEhtY3B5RVowcVpGUDJQUVdObVc2UVh5dVY4Q3p3eHA1eVZlQzR3TkY2V0l4cVc2NEZYdTI3cnRYUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-399f43c3a13a58c5d4",
       "date": "2026-10-29",
       "title": "Czy podczas przedstawienia strategii CP padnie słowo Elektrim?",
@@ -403,6 +548,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-34f23c42aa1304db3c",
+      "date": "2026-10-29",
+      "title": "ORLEN potwierdza duże odkrycie gazu w Norwegii",
+      "title_pl": "ORLEN potwierdza duże odkrycie gazu w Norwegii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDFWNEFLTnc2MGN6bkZvY0E2aFpHTWtramM4d1FpaVBNMmc3SWxNMkpRWWZqM0FVSlBSY056eEh4X1VFQTZqVk9WZHd2XzlVM0ZpdFNTWGl3aUwwZzRWWFRQQnFOei00eDlIaEhUTzFHU2sxUkJXQTlXdUFaX0J0UXdVM1hSYVlCRkFfZnR2VXJjNWVzVURHbGxjVnhIT2Z3Y1BUZ1c5cUV1bGYtUGhsb0dWanF4ZW5oSmhWOHNuYzFRVWZicjBWQTk4R0hJWG8?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -464,6 +638,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-24d125844cd552aa46",
+      "date": "2026-10-29",
+      "title": "Polska niemal na 100 proc. pełna gazu. W UE zapasy wyraźnie poniżej normy",
+      "title_pl": "Polska niemal na 100 proc. pełna gazu. W UE zapasy wyraźnie poniżej normy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zapasy gazu ziemnego w magazynach UE wynoszą 75,0 proc. wobec średniej 5-letniej na tę porę wynoszącej 89,6 proc. W magazynach znajduje się 849,11 TWh gazu - wynika z wyliczeń firmy Gas Infrastructure Europe. W Polsce zapełnienie magazynów gazu sięga 99,3 proc.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-niemal-na-100-proc-pelna-gazu-W-UE-zapasy-wyraznie-ponizej-normy-9220095.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1885cd71a0e08adea4",
@@ -582,6 +785,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0adb32e55ba4225176",
+      "date": "2026-10-29",
+      "title": "Orlen z wiekszą dostępnością gazu w Norwegii",
+      "title_pl": "Orlen z wiekszą dostępnością gazu w Norwegii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSllTekxkN2xac09zT3NvZE51NDNoQ1ItcXBFNFU3YVlrd1RGdjkxZDF1ZjJ6WHdmS0dSR2cwZlAyamdiM2RJb2J4dHBxQU9vN2xvZHpPVnI5Z2M2TEV1MUp6SUstWG56WjJhYk5HNFMwSzloUDZPU0tfeUMyZE8xWWdlcE1UcTZnMUxfOG8tVk85a3NfdTZOeENzcGxTTkt4MUxnX3RyV2ZKdzdRUGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://geopolityka.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0972512fe7fb395ea9",
       "date": "2026-10-29",
       "title": "Strona 2591 z 2591 - Wiadomości z rynku energii odnawialnej",
@@ -609,6 +841,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-04c8522802db3c3635",
+      "date": "2026-10-29",
+      "title": "Wielkie odkrycie Orlenu na Morzu Północnym. Zasoby gazu ponad dwa razy większe",
+      "title_pl": "Wielkie odkrycie Orlenu na Morzu Północnym. Zasoby gazu ponad dwa razy większe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen Upstream Norway, wraz z Equinor, DNO i Wellesley Petroleum, zakończyli wiercenia rozpoznawcze na złożu Afrodyta na Morzu Północnym. Dane wskazują, że wydobywalne złoża są ponad dwa razy większe niż pierwotnie zakładano - oznacza to, że ilość gazu przypadająca na Orlen przekracza 4 mld metrów…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-potwierdza-duze-odkrycie-gazu-w-Norwegii-spolce-przypadnie-ponad-4-mld-m-szesc-surowca-9220091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN",
+        "EQUINOR"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-026247d881091adb47",
