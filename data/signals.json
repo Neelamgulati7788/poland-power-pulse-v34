@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:48:47+00:00",
+  "updated": "2026-10-30T04:48:33+00:00",
   "signals": [
     {
       "id": "src-e05bc7391e0a083096",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b5129647f916b3abff",
+      "date": "2026-10-30",
+      "title": "Ten kraj miał nadwyżkę energii, a za chwilę cena prądu może wystrzelić. Jest jeden powód",
+      "title_pl": "Ten kraj miał nadwyżkę energii, a za chwilę cena prądu może wystrzelić. Jest jeden powód",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVB6ZXhfNEJmN1hhdEdQcWNXYzV2M25RQUJRM2h5U3YwLTYyMVJIUzZmdVpLdU82V2pLdUVadENtOGFsODhwUm1MQWNvZkhJRS1GdnV5dmZhQzB3T3pVTnNCc1VHUEFjRkktLUZVLTk2em9GSEJvdWZEdVpweGdqSHFxaHRVcnFuSmJHdlFQVjV6TDg3NUtWZ1ZJa1cxbU1QbXY5VlotZ3hzSDRVNDZ5NjJNU2RXYVlwRVlaUzV5Yw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -58,6 +87,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-64e19a76813b0e6b74",
+      "date": "2026-10-30",
+      "title": "Gaz najdroższy od czterech lat. Rząd szykuje tarczę",
+      "title_pl": "Gaz najdroższy od czterech lat. Rząd szykuje tarczę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUhsUS1rbEh4RGI4OGl0NjZqMUpmSDVSZlBRX0tlY00xRERuX1NCMFc5VU1VM3pMSFI5TDNhTWxDRlU0VXJIa3g0T1l2UlpPODNabnRyeEJSZzdqRXFWcmNKM3VTYmhfeGVVeElnbzJFZldZREhVSGtaVXJBSUotQmxkc2tFSzFFOUcyTDd2Uy1BSnpkS3VxbG5rRXpHVXhXcTNuRVVBSGFqREJPU0xWbGVkVFBfZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-15ae7ea516f468b9e4",
+      "date": "2026-10-30",
+      "title": "Pompy ciepła w następnym tygodniu na węgiel.",
+      "title_pl": "Pompy ciepła w następnym tygodniu na węgiel.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTndZRmV1UVZLRnJNSTZXODZ4R0dhNUxKY21RRU9UZ3F4cnUwOWQzVVZDdUtWeXZiWmhVNDRXTmFwWkFyWXFCazE4NS1PZHpja3VHT2Zvb19fSTVYU1hkMDd6blo1T3EwRk9TOFljeVpEcy1qdGFsWURHNl83Z3p2bGs3QWVmMlV3UWZ6NW9BRHdCbWZxSGQ4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ff80941993431cb421",
@@ -7355,7 +7442,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUdVbFFpMzQ4cGtrWWhzd1NuNjUtcWpJNzJpOW1aZWgxNlVWOEVuT0hwejZVZ3lORTVJbWN6Q3E3OThLUzZGQktQa3NUQ3F1a2NvSDJVTndWYmxyU1U2MmRrMGp6NzA4RXpvQlE0amxyNEVHQ2ZFbVVyaWp2am53cms4YlYwNTVwd0lCS2dEclNSdkhYWkozNGl0MHZGaHYwbTBxLVNETDRkNUFaZmhfWVRoZ21qTVk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakRVNTUwREFPRFh0N1UteGFYU3RhZ0RuMUtkT0YzUzdCUVltV2NpZWtNRGVHZUl6NVlHVm5kVVpJczlLcVZRa1VtM2R4ODRJUWlaQ25xVzR0OWI2WFQ0cHhUSFBMX2dCeVJQdVZBQ2h5Y1VELU42M20zSl9qbHdPd00zUmFFeDZRbzZfLWhHeUxwSHIwYlUwWC1DVUlKeThLTHl6Rjk2TXhZVlpPSjdINml1SWxvbjlaNTZQZEI1VmFqenRJT3NXVnJfbnhmUnBLamc?oc=5",
           "type": "press"
         }
       ],
@@ -7363,7 +7450,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
