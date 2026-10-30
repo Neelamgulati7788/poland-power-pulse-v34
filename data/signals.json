@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:41:26+00:00",
+  "updated": "2026-10-30T12:54:56+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fe4bd78e23afe4117a",
+      "date": "2026-10-30",
+      "title": "Fotowoltaika na dachach ciężarówek wjeżdża do Polski",
+      "title_pl": "Fotowoltaika na dachach ciężarówek wjeżdża do Polski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3NkaGh1Wml3X3hnYmc1VnA2bC13bzRKQnl4bmtNcHIyWjdPMjlHRm1FR083NkdZakMyR0ZvcXV2em9SWWZwUzFmSWpiSkVVT1J5a2VjY0RTUnVFV0FqRVpwbC1ZZmRMdGZGaVJ2YUdGTnd4bXNCS3B2czFLd1dYQWo5RFBqNmFFUlgtTl9jdVU1UDNaRzFPOWdnYlg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -386,11 +415,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Inwestycje w morską energetykę wiatrową oznacza większe bezpieczeństwo energetyczne, pierwszy prąd z farmy Baltica 2 popłynie w pierwszej połowie przyszłego roku - powiedział w piątek premier Donald Tusk podczas otwarcia terminalu T5 w porcie w Gdańsku.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVpwaE9JTGp2VnJkeFFiZ2p3bXdobVlTLTFlYjgyM0NIZ1g2TFhwSVJqdmlaM2lfUkpESTVZR2pXd2FZeHBfUVhOQWNqd3RsamlDbElnTHNudmNncTlON3RlaVd5YU1qN3B6Sjlya0pFRURlaUVRT1cwWURBdl9XMXhEZ1NrZWpzc3F0UEZ0cTJGZ3VjWnBVd0xFYWNPdENTY2RpVlluRm1UOVV2MWoxbVRNaGozZnlzWGc?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Morska-farma-wiatrowa-Baltica-2-coraz-blizej-Wiadomo-kiedy-poplynie-prad-9220962.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -404,8 +433,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-b5129647f916b3abff",
@@ -582,6 +611,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-9f1d72397b16c50387",
+      "date": "2026-10-30",
+      "title": "REMAK-ENERGOMONTAŻ SA Raport okresowy kwartalny 3/2026 Q",
+      "title_pl": "REMAK-ENERGOMONTAŻ SA Raport okresowy kwartalny 3/2026 Q",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHhNWG5BaldMT2ctc29BY0xDNm5JZkZoVUJ6dmVHR0FHREtJaEpXLW15OW1yS1ZuVmZwczZxRWx3YmljV0JUUzlBSW9kdm45eGxIVGFUcWJpN001SGhxNTg2NXUyaV9ZaExlN2lOVzFwdXUyZjR6Z0djbVNhVjcyLXBnaVVWUTY4bEU0Z191M0Uzd0UzYW9Gb0J3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9eee9cf87c7b482f3b",
       "date": "2026-10-30",
       "title": "Relacje oparte na korzyściach. Jak technologia obniża koszty energii? - SERWIS INFORMACYJNY CIRE 24",
@@ -593,7 +651,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeUJHVTZBM3BxMkh5aVF6aG0tRjVNUTctWjlMNm9wZ2w2S0wtTXNBOWhzUWJnbVV6bVVQekoza2lxcTJHLUpiUU9YWlgwLURhODQxYWttQjVfcUpJX1dCMm5MMUYxejZBaWRwM0ZIRElKZmtoc3M0SHFHcDEtZWhud0RIa0RfVmdGZzdGeEZzdzB5Um5IRzdEcm15dTVSV0hIS3c2VWJpcTZpY2NScFc4VXNvQ3RaQ3VwbllQR0I4aGlVX25kY0ZRRGozeEhTeG9tTHVuSkNRTWZUcFpfU0RIVWhsSHZoZXRPX3lfcg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOE5rd21pY0dwXzdrTkVHYjlFRGJ6YmxmZnhDTERhb0p4WHBselRoQjBjZjhkejU3UzRFSjBHclJ3MWV1aXZyYzRQcnZIMkFQU3ZZVVdJWndjaVEyY0tHQ3F6bnZMNExOQkpsN0F3blZTLXpzd1h4cWYxSXZoNXFHZmlGZnI1emF0WE53MWgxNWhfdHZKZWhTUjRRM0dMRlJ6SEdVOEtXeWdNWXE0dWJwNDhvMWZMZUtnZXFKWllOVlhFOWV5cTF6UXFqaFdNT1dQM2FSMlk3NVE1Unc?oc=5",
           "type": "press"
         }
       ],
@@ -606,6 +664,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-969ee1cf541eea6c57",
+      "date": "2026-10-30",
+      "title": "Motyka: działania osłonowe będą w pierwszej kolejności dotyczyć rynku gazu ziemnego",
+      "title_pl": "Motyka: działania osłonowe będą w pierwszej kolejności dotyczyć rynku gazu ziemnego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZk9tQm9ZUnpRX25Mb0RQUDNfUW9MRVFoSHgzZGFUUmZ1QzVFbXZ2amhRNXUtd0hzZTlkazJGRUttcEIzRDNHT0wxSUJGRVUxZGV6UnJPUnhfU3hObnBCdWlVdkNXc0NZU1JQaXB4N0RNcnVBRWIzdnh1VXZSYy1pSnBTM2gyenpCMm9LWEx4OWtCLURqT09heEpOZ3I1aW1nX0RjYkZnTVRXMnh0ZGZabEw1NlN6NnVLbThkOXRrQ0pOR25VM3ZVQjBfSXMyQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -640,6 +727,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8f3f528a571848da84",
+      "date": "2026-10-30",
+      "title": "Rząd szykuje osłony przed wzrostem rachunków. Minister ujawnia plany",
+      "title_pl": "Rząd szykuje osłony przed wzrostem rachunków. Minister ujawnia plany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rząd w pierwszej kolejności analizuje działania osłonowe dla odbiorców gazu ziemnego, ale bierze pod uwagę też działania na rynku energii elektrycznej - poinformował w piątek minister energii Miłosz Motyka.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-oslony-przed-wzrostem-rachunkow-Minister-ujawnia-plany-9221050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8e89d7890bf9ad1851",
       "date": "2026-10-30",
       "title": "PSG: Ustawa biometanowa odblokuje potencjał tego paliwa w Polsce",
@@ -664,6 +780,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8a963ea8d46fe03151",
+      "date": "2026-10-30",
+      "title": "„Energetyka jest na froncie”. Rząd i PSE budują tarczę przed cyberatakami",
+      "title_pl": "„Energetyka jest na froncie”. Rząd i PSE budują tarczę przed cyberatakami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFRJLTZkNWVKYWNNYnhsdThDV2xVRXFCRDdVd0FRanp0SDVWdF9YQ3hVYnBVckhQQTNrQ2owa01TbWR2UG9hMnBYbks4WWw0STF0ek9IZXJ5TmRoSFBOdlcyczQwUjRmZWdjdjNnUGl4T05Sd1UzbGlhOEtGajRzdXdZemtuTHphQzVOMmt3R0lOVnRLQkNheFIzQTB2YkpOZkxPWmUtOGxHX1I5MHVPU05jWWhtNUFjQXZRUVpYM1E4UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -872,6 +1017,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-73e099c5ee42e662a4",
+      "date": "2026-10-30",
+      "title": "Europejski rynek gazu pod presją zimy i wojny USA z Iranem",
+      "title_pl": "Europejski rynek gazu pod presją zimy i wojny USA z Iranem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTFQZEM2blJ6U1paTEw5dkZFY3kyVVlWNEo3N1F2aGlMVngtUnBPb1FTRFRveUhKRjR5Yk9qV0ZPUG5HeTBFazIzcTVQNmp5TkVISDBlUXFKRmdzZWZqNHoxaHVfYjYzQXU1WDZJWHBQQktHa005VzNkYUk5Y081djVQM3doeEJaSGJFamM0SmJULWN5YnhZWGFVbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6e78737343b8eb7bcb",
+      "date": "2026-10-30",
+      "title": "Pierwsza elektrownia jądrowa w Polsce: PEJ złożyły wniosek o pozwolenie na Wstępne Roboty Budowlane",
+      "title_pl": "Pierwsza elektrownia jądrowa w Polsce: PEJ złożyły wniosek o pozwolenie na Wstępne Roboty Budowlane",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzFMYkNlV0NoU0d6amZqU2NlRUJJMmgtdlAzWjZXRzlSUWJYOWJmMkowMHQ4ci1iQ2xoRFNtZ3lLR2tjYi1XQXc3WDI3Mk5RYVRaX3RZNkM4THRzLWhtcFpwS2NRMHFRN1ZIaWNWV29iU2g0Mkk3b2JWX1VmclIxV1lUU0RZZlhuX1gyRE9ZTGVBTnpqZXlvdm5rZUozQ2pHQnUxeFNjYzFrY2FqMXpFdU0xaDdydHV3ZG1yNjVXQzNkRkxiVC1WbjFaM29jakthZmxMaVRWbVJlUXNHckFiUEgtUTJFT3FVY3dv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6a7580676ce711c930",
       "date": "2026-10-30",
       "title": "Eurostat: ceny gazu dla gospodarstw domowych w UE spadły do najniższego poziomu od 2022 r.",
@@ -1012,6 +1215,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5c82be8b8f9f465cbd",
+      "date": "2026-10-30",
+      "title": "Jesienna promocja na ładowarkach Orlenu",
+      "title_pl": "Jesienna promocja na ładowarkach Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHdYNFZubU82ZnY3NkpaQi0teGE5NnktSUJGSGJYdWw0N0dIbzZjR01NcVhPV05KaE5vSVk5Q01MQ25zMFhpcndGN1BoaXY0SkhpbnNLWTFfZFZfRWRIbDhVejA1N1VPMGdQUmt1eUwzMm1wTElxaWRrTWE5VG55U2lKSnZud2hsM1Zjb293dTROMVd2a3ozNW01V0V5ZkZCM0dFWlpZbHZidHVCOEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://elektromobilnosc.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1164,6 +1396,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4af891dbbfe3ba42c2",
+      "date": "2026-10-30",
+      "title": "Energa poprawia rating kredytowy",
+      "title_pl": "Energa poprawia rating kredytowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamMyLW1RQ3lTLUc2a2UxWW5xWC1INndKQ3B6SEZ2a3V0aW5UWmlNcHoxQThEUkxPTy1RM3B5TnBiTk84QmtXUUtNUTg5ZzJhdTdJT2JxX0daTGRkRDQxMDlmQ2dUZ2dFUU54YlpnLTZrREdSYVpxMjVYR1NZMjZfTi1uYktFelpDMlVVejNjNUFLN0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-48c65aedebc2612f9f",
       "date": "2026-10-30",
       "title": "Różnice w kosztach wydobycia węgla na Śląsku i w Bogdance",
@@ -1188,6 +1449,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-45266859140a0708e4",
+      "date": "2026-10-30",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlJzd3dxcnhENHE2UDBxeHJOOGhsZTdGaWFuNGtseHpYU3FNUWJLMzlkVVBOSERoYnZiSnhhNEdiVi1Fd2U1U1ctNHZNWjZNUldTQ2lkNGNIdnV0dGVHcDg0d0hyVy1taERyU2JJRXpGdXIwZ2VybFRLV0ZRZWtJOW9uQmNqTFJF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1320,7 +1610,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEZOVjJiaTFCd1BRWkVwV0JzUzZLa0laVDVVbjFUc1VLd2d5Y1RHQ1g5Q0hvZ3ZJM3pvaEJjRWhiWWxPM1FDZnBGRlRnMFNXQ3dCMjV2MWUwQ202RndkcjgwbERNQU5TRXhmeXljRTFIMDM0cFMxWEZtYjA1cmFOMTJmaFRWOFkyeW1OMmprRno5cXJnY1l6WEVibDhQVGRaNDR2TWduU2lkTTFEcGRNYzNlSkpIS00?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXA4b3lQZDM2TzdKRlhQQzRrRXVsQ3p4SUhkcUw1eE95Und3SkIzSkptNE1TSks4RGpTVG03VmxRcmQ5Q0o0eUY5M1NkSVgtcDdJRllpMjRVNC1oRS1CSFpSb2xlZmFLMFZoWjJYeGlzdEVCR25OajN2b2ZkQWZWY3lLN0hFWlRhVEZ1aVpOWHB0TXZ6MmlKVFYyTVRzcmxxUDB3S3VFOXE0YV9GYmc?oc=5",
           "type": "press"
         }
       ],
@@ -1333,6 +1623,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2c004fb00effe02f56",
+      "date": "2026-10-30",
+      "title": "Polskie samochody elektryczne coraz bliżej. Prezes Foxconn: wybraliśmy wasz kraj na bycie naszym hubem technologicznym dla całej Europy (MediaRoom) | Biznes PAP",
+      "title_pl": "Polskie samochody elektryczne coraz bliżej. Prezes Foxconn: wybraliśmy wasz kraj na bycie naszym hubem technologicznym dla całej Europy (MediaRoom) | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnZpdE93S1ZVTE5qSU5zTEpNNzZKaDEzTS02Qm9WR0JxbjFEZVNNSm91WWtnemVfVm12Y2lpakxZLW16aTVOMWJYUXlCSm1KWlAtUVN1bkkzbkJEV0M5ZzZmVERZajlPMGxNQXdTNGRRMDNiWkNkcGY0ODFKQ2lRdWRXendKTkZHdGlTYkZJUEw3b0w3V3BpZXVlZEFyMFdGMmpOVWtJTDR0WU55OVVWZFU5NVduUzhnNWkxSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1365,6 +1684,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2392fdc839e8c4ff1e",
+      "date": "2026-10-30",
+      "title": "Resort energii obniża maksymalne ceny paliw. Zmiany od soboty",
+      "title_pl": "Resort energii obniża maksymalne ceny paliw. Zmiany od soboty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUE9uX29CaGN0N3BtY3VfUWFTR1R3UFM3aHFXMXJFUXF1SGlteWRTRGU2eUZtY3k5cXBXdWRqeUREOWpyekQ3WGM4OXhVMERRcFF3allCNTBZNUM4dmxzbEdjc0dzYVpsQXVXRmw2RWFCUW10RHE1SUFoaVp4Z01OOUQ0R1l6dXhMMUdMMzFaN1BtYzlQa1dfUFVXRndQSUtJa1RyVXAxdmNrUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-224c201e701a934383",
@@ -1510,6 +1858,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-0240fcb4dad6391022",
+      "date": "2026-10-30",
+      "title": "Polenergia z 1,35 mld zł na rozwój i refinansowanie",
+      "title_pl": "Polenergia z 1,35 mld zł na rozwój i refinansowanie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polenergia — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRU55VUNHc0dpQ3RfdmlzZk1BeEdNNEt0My04a1h4dExuNzVpSUhiVzc2VUg1NDA0SEV1N05JQnVpeWVIS2RVR01jcXAwY1dxT3pReFlSMFVZTWR1SFlqOHRXQTAtZU9ROGZCc2FtZTJ2eXJYVFMzRFFCZmx2ZVhhNFh3TQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "Polenergia",
+      "publisherUrl": "https://www.polenergia.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "57"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-01045b24a661970498",
@@ -7213,7 +7590,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EblAzUlNCMTIyQUVsdTBRTzVMdHhwVEhtY09RdXRjVE1tZ0hHZ1hMOW5fSlNWZzhwV3dTQVM5MDZIellUUWhBcXFtY0lTSW9qaEd6dV9yNEN0ZFJXd05QUjRpc3dsekFvUkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbDgxTFNNbVRkd1ZMZFhvdXJXX01EYXAwbmNCakJKUmJLWXd1THRxOWIzWW1UQUxHNUt3bG83dTVpa05ySGFjLTBRSGlNczZvbDdpYy1HYnJuRnFrbGxHa1NqM2xjdDhBYnc?oc=5",
           "type": "official"
         }
       ],
@@ -9099,7 +9476,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -9107,7 +9484,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
