@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:00:28+00:00",
+  "updated": "2026-10-30T14:57:32+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f73a0954b0aa53d01d",
+      "date": "2026-10-30",
+      "title": "Polska energetyka wzmacnia ochronę przed cyberzagrożeniami. Powstaje CSIRT ENERGIA",
+      "title_pl": "Polska energetyka wzmacnia ochronę przed cyberzagrożeniami. Powstaje CSIRT ENERGIA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3gZBVV95cUxPelRnZXF6RzlNTWNILWdQZ2Y4ZlZGckJuZG04Q2dFNVZZQWVtTWE0RXFSSkpZSEFsQW1UZEFZRlM1V1lUdS1HOG1CVllIeU5XTnNQNmZ0U1hDSUxiWUQxNHJFbTY5dG1fWl9kbVBZWFNpRnNuLWVWUlBUZnJVLVRCNkI5QllENWZycEN6aE1fbnE3ckFnMVJwTnhsNUhqblJXMHExNUVVMDFiYzBfVVJJUkpuY09SdUZmNkJtVEdGZ3lrX1ZlZjJQN1Z5SVhMQkRLUFhRd3hUeE9BdkhvdHhwS2VCMXRReU1CMkxmOFNYM2hrOXkwdG4waElrTmhLMWFTYnctSDVrMVJ1THhRNUJCbUh3OVFvdWVoQncxUzd4QWU1bmQ1dG54VFlKRHBIaTNfeVFQNXNURlktcV82VUx2YlF3TkgtSFMybDdTOGpldFBLTDF4SU9maTVZN1RhTWk4R2I4cjhfZllLRnhlcU1CdnRUOUNFdkQ2NFgycmh1YXdwOU9UUl9fenJwMHBkTmNuR21DVXB4T3ZPWlZhZzFhdDIzcFo4MWFTb2NwdFVvaEJ6VW81bU1rYU84ang4UlNZR25WT1VtXzRCZDkxZ3d4RDF4SHFYRElJTUp2eW9UbGlwWldhai1xQ2xCbVMzUmU0SGpjNVdyMUpNVk11S3NiOTRCUEVTUDRXOGswTl9oUVRTeV9pU0FNX0YzemJXc2c4eFljeGpnRDhTRDhjZTdOZjVIQlF5ZElLbVlKbmh4VmZhSWNuZGZyN1FzajlCQUFlZ1dNRk5SbjJPOU9yQTd5VGVXOXJkZ19NdE9KZTZqbU1INnFWQ0hOZ0NDRTlicGdOOTFaRWNyazNITlYzOXdSYS1PSTVWbGc2WVdkLXJITjIwYVo4ZUJxN0o1Wjl3dm4wYWoxT2ZoSDZDWDhPVXEybldCcnZMWHZDMDVFV3FvWVRzbEQ0YjRFWndJaGJKNks2NkFUVWFSdVJxdjlveGxFbFBTSkRVY1ZnV0VwVi1xS0tJSEV4bUhNeFNKOVZ3Q0JBeU5vS0ZhZlJyVTJObDF3cnlvZ1hRTHZnZTduTFpHdURUR0Y2LWR4LS1uZFJyT0RZUXhzRllqUk1BTzFNWWduVjZPcHBldWloa2NYMm5n?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -125,11 +154,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W strukturach Polskich Sieci Elektroenergetycznych powstanie wyspecjalizowany zespół CSIRT Energia, który będzie wspierał spółki z sektora energetycznego w reagowaniu na cyberzagrożenia oraz koordynował obsługę incydentów w tym zakresie - poinformował w piątek operator systemu przesyłowego energii elektrycznej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG1LNHpfN3VSWVc0WS1jZjZqa2ZMVVFrODIwVVk4dzRXQ2N4VmVQbnk2SnNSb2VDSElwQ0FCbWdXWEFNQUp4bm9iN3NmbllMR0hGbExTVWNuS2Jac3JOeDVhU1E0Qng3cWdKTlNncF9qWk45NUVZRlBnX3FrajlBOVZVc3F1NWJ6d0xSUE5aQW5sQ3p1ODhGaG5JU2VILTk1VFBjc0VJbTA?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -138,13 +167,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-e8751820bc1e597d0f",
@@ -316,6 +345,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cafd8da12bd979b422",
+      "date": "2026-10-30",
+      "title": "Polish port of Gdansk inaugurates terminal for offshore wind farms",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWYtT3I1dVh5bkJiR3UyQmxoQ3VmOThrU2s5MWNfa203dTI2N3F0R19kU2p0LTA2TTlGQ2JQdEd1MnMzV0pWZXlKcGtqWjAtOFQ4VVdJTVpXa0EtY2J1SnpobFVINVhKd25GYUptYUQ2M3dsdjdvdnl2NGVIaWdfTkdNTnRvUEQ1eHlWNnU2ZURBc1JZUjh1eHJZMW8yWWdfdzJCTDRRMGlsdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -495,6 +553,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-bb37f37f3c6f3f063c",
+      "date": "2026-10-30",
+      "title": "Oferty Onde za 129,8 mln zł netto wybrane do budowy dwóch magazynów energii",
+      "title_pl": "Oferty Onde za 129,8 mln zł netto wybrane do budowy dwóch magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXZDeXBtN2thV3Z1Zzc1b1htOE9US3Q4cG5wSWxodHhJTm1rS2xxdHhPQWlsM1ZPMENURkZxek1halBqVXlnSFRuMTNWRGZBWERaQjJ3eUo0YWVmZXIteS1wRkM1NmxPeDk1a25vS1hPTFNyQ0JQaDVUM09adHV2UEtFb0tPQ0VOMXgyZmRSZmtDeHgzVGc0TWVubkVZRHlTQXY4QmxNMkZtUGtXVzZlZ1F4QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b5129647f916b3abff",
       "date": "2026-10-30",
       "title": "Ten kraj miał nadwyżkę energii, a za chwilę cena prądu może wystrzelić. Jest jeden powód",
@@ -580,6 +667,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-afe5e1dd95d427de83",
+      "date": "2026-10-30",
+      "title": "Dostawa energii elektrycznej do budynku Lubelskiego Centrum Konferencyjnego w Lublinie na rok 2027",
+      "title_pl": "Dostawa energii elektrycznej do budynku Lubelskiego Centrum Konferencyjnego w Lublinie na rok 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Lubelskie Centrum Konferencyjne w Lublinie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3695-5fcf-728c-e2d6-6b000120baa1",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ac7753ddb645e06d38",
+      "date": "2026-10-30",
+      "title": "Fotowoltaika z obierków? Polscy naukowcy pracują nad niezwykłymi ogniwami",
+      "title_pl": "Fotowoltaika z obierków? Polscy naukowcy pracują nad niezwykłymi ogniwami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXgzbV9VN3VvdmVIR1hUdzJScnZGRmZ1QzlwQXcyVExMY2VyYjM3Qm9Feko5c2o4UWdUYTlJVFpYVFVBVGo0VnFWRVl4OEVCRVg3cTBJWkhxU1U1aVJjSVlZOHlSbzN2eTFOQ3NFVGJ0bFJCOHF3MktZSmNqd1pYWk9GOVhOdnB3ZGxwZVFGWFRtd196ZzVFQnZmUThmTkdoS2NUS2tBYmROcXdhS1NJUnFnY18?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-abf7e019efff6d27a9",
@@ -867,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8d7cffb078ae87805d",
+      "date": "2026-10-30",
+      "title": "Onde builder’s PLN 129.8 mln bids picked for construction of two energy storage facilities",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0F3Y2p5SUpZUWZsRjBFbDljTF9ITHRSYUQ3WE1xNjFodEN4bkdNTjE3SG5KdTJiaXFIWHN4RElWZHEwbkx1Mm9HLWNTYnQzNEN1eUljNFBob2NGYjFiek9KRkIyR3pLa25oTHU0LVpRU0xUNTQteU9HazFvY3NiajNHenlVZzhnNVJfWHhZWlNnbEtSZ01FY2VoVkFucUNZM09zSEhkT0o0ZUlLU1VkQldaZk83ajl3X2cwTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1191,6 +1365,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7211ffe6133015b049",
+      "date": "2026-10-30",
+      "title": "Polenergia pozyskała 1,35 mld zł na refinansowanie i inwestycje",
+      "title_pl": "Polenergia pozyskała 1,35 mld zł na refinansowanie i inwestycje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkM2N2pPT2dTTHY0WTdrdDRnMjFoN1NPVGdRZ2xETUhMdnkxakRWNVhPN2hlMDl0dTBxMmdpeXV0cEUyVmRKZXg1M0NnWDB5c3NBRmU4RzdDVlFreVBuSG1RWkFLdWNUbHg1RDIzWDY2QTZvV2Fmd2ZJZkdxMXBVTU93RndqNEN0ZzhXcjNrSnZsMG5iWjRyWmx6ZWVBbGxFQnBNNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6e78737343b8eb7bcb",
       "date": "2026-10-30",
       "title": "Pierwsza elektrownia jądrowa w Polsce: PEJ złożyły wniosek o pozwolenie na Wstępne Roboty Budowlane",
@@ -1328,6 +1531,35 @@
       "publisher": "WysokieNapiecie.pl",
       "publisherUrl": "https://wysokienapiecie.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-628134772554abf8ff",
+      "date": "2026-10-30",
+      "title": "Istrana uruchomiła w Gdańsku bazę instalacyjną dla morskich farm wiatrowych na Bałtyku",
+      "title_pl": "Istrana uruchomiła w Gdańsku bazę instalacyjną dla morskich farm wiatrowych na Bałtyku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQTVGdkZaYzdvdk1qSVI0LS1FWUNKVWVrQnZoRnR1S0xLTHF2NC1xWWlKd0ZYRkR6cEZLenppQkFHRk5aUWpUenZUOU1vbi13WVRSM3IyMlhqb2NGVzZSUEt5bEpHanZKTl9sTUFoczRQc1k4RkhQeUZ4OXN2VVRPVzZmV2ZVYTFMUU9aTE1ZVFNKb2d0WGJUVVgyU094SEFvSnVJei1oemo0cVo3T3hOLVVvWkR2QjRUQWliWnlXUjl1U2lYbDNj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "19"
@@ -1744,6 +1976,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3b9a7c641930f4aec5",
+      "date": "2026-10-30",
+      "title": "Ocean Winds receives first monopiles for BC-Wind off Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWJBZGJUa1FTU1JaeWFJaEl2WUo2Z0Z6OWFwdG1Rb2toaFYxQkVoTHlDWWVLNmRWU2xIeUpGdmxTV0pkWGRHM3ZNVzBpeU42VEtCMFRkUE1JNi1pZHROX2xNMU1naEs3djR1VXVZbE52dDBtMVhRcEdYWEROSlNqMkZDbWc4VU1mN1NITzNadHNNNE9HQUVfaC1QZFkxOGpf?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-36c3ca0cdc0a2a64db",
       "date": "2026-10-30",
       "title": "Od CIRE PowerUp do CSIRT Energia: Bezpieczna cyfryzacja polskiej sieci",
@@ -1954,11 +2215,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,48 zł, benzyny 98 – 7,32 zł, a oleju napędowego - 8,15 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż w piątek.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUE9uX29CaGN0N3BtY3VfUWFTR1R3UFM3aHFXMXJFUXF1SGlteWRTRGU2eUZtY3k5cXBXdWRqeUREOWpyekQ3WGM4OXhVMERRcFF3allCNTBZNUM4dmxzbEdjc0dzYVpsQXVXRmw2RWFCUW10RHE1SUFoaVp4Z01OOUQ0R1l6dXhMMUdMMzFaN1BtYzlQa1dfUFVXRndQSUtJa1RyVXAxdmNrUQ?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Resort-energii-obniza-maksymalne-ceny-paliw-Zmiany-od-soboty-9221038.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -1972,8 +2233,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-224c201e701a934383",
@@ -7880,7 +8141,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbDgxTFNNbVRkd1ZMZFhvdXJXX01EYXAwbmNCakJKUmJLWXd1THRxOWIzWW1UQUxHNUt3bG83dTVpa05ySGFjLTBRSGlNczZvbDdpYy1HYnJuRnFrbGxHa1NqM2xjdDhBYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EblAzUlNCMTIyQUVsdTBRTzVMdHhwVEhtY09RdXRjVE1tZ0hHZ1hMOW5fSlNWZzhwV3dTQVM5MDZIellUUWhBcXFtY0lTSW9qaEd6dV9yNEN0ZFJXd05QUjRpc3dsekFvUkE?oc=5",
           "type": "official"
         }
       ],
@@ -9766,7 +10027,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -9774,7 +10035,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
