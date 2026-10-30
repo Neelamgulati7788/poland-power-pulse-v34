@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:47:09+00:00",
+  "updated": "2026-10-30T19:47:50+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -2725,6 +2725,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2da9fa6267d47862e4",
+      "date": "2026-10-30",
+      "title": "Ceny gazu jak w apogeum kryzysu z 2022 roku",
+      "title_pl": "Ceny gazu jak w apogeum kryzysu z 2022 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazhzV1lnM1NqYnZoV2xUTkoxWkYyOFk4UXZnM3BiZlJHUHZuR3lpcHBrUFkzaENDX0pVUWVzaVNrSWg0YlpSNHpEQUZiTXZfRmdBN0dRb0VNSDE3X0s1QWRmZEhRb0dpNlcyZFBZTGx0MGpGYVlMYTFJYkJJN2Z3UzRXT3pqRFZCU09uck1IYzJhUnhkNENN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
