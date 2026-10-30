@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:54:56+00:00",
+  "updated": "2026-10-30T14:00:28+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ec815d86e569be7069",
+      "date": "2026-10-30",
+      "title": "8 tys. cyberataków na energetykę. PSE tworzą specjalny zespół",
+      "title_pl": "8 tys. cyberataków na energetykę. PSE tworzą specjalny zespół",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG1LNHpfN3VSWVc0WS1jZjZqa2ZMVVFrODIwVVk4dzRXQ2N4VmVQbnk2SnNSb2VDSElwQ0FCbWdXWEFNQUp4bm9iN3NmbllMR0hGbExTVWNuS2Jac3JOeDVhU1E0Qng3cWdKTlNncF9qWk45NUVZRlBnX3FrajlBOVZVc3F1NWJ6d0xSUE5aQW5sQ3p1ODhGaG5JU2VILTk1VFBjc0VJbTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -345,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c7e5187f3dda9487ae",
+      "date": "2026-10-30",
+      "title": "Krytyczna sytuacja w Europie: brakuje gazu, nadchodzi zima. Ekspert: To odbije się na Polsce",
+      "title_pl": "Krytyczna sytuacja w Europie: brakuje gazu, nadchodzi zima. Ekspert: To odbije się na Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTR6MVZLbFBTbjF5dHFIalFLSXQzYlZkYmtYbnQtVnYzaGlHYy1qNmtHZXA5TWhYb0dOeGRwWFZWNVBDVnFoNjZRWjlhUGpoc1k5Zm1PN1l5aEV6TjZVR2dpcVRoQzBOTTVoTm5LQ1pHcWpmdGpLQlQ4Umxjd0NiUlF1S1pBTi1JNHRXR2YwQ1lISEY4ZmRXX0l2SHNGM3JnNDVOUW5DeWRPbmhEc1Fr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -698,6 +756,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-96304f18ccc1eee323",
+      "date": "2026-10-30",
+      "title": "Bransoletka zamiast krat? Rząd chce wprowadzić nowy rodzaj aresztu",
+      "title_pl": "Bransoletka zamiast krat? Rząd chce wprowadzić nowy rodzaj aresztu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rozpoczęły się konsultacje obszernego projektu MS mającego wprowadzić do polskiego systemu prawnego „domowe areszty”, czyli stosowanie systemu dozoru elektronicznego jako środka zapobiegawczego w sprawach karnych.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Bransoletka-zamiast-krat-Rzad-chce-wprowadzic-nowy-rodzaj-aresztu-9221102.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-920ed077219551117a",
       "date": "2026-10-30",
       "title": "Polska buduje własną potęgę energetyczną na Bałtyku",
@@ -867,6 +954,64 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8812268c37948e2f6a",
+      "date": "2026-10-30",
+      "title": "Polish grid operator to set up CSIRT Energia team for energy sector cybersecurity incidents",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtMa2RXX1Y0OEZDTndqY1poMjhGUHFKRkpDQmZLbFBtdVBHbFp0QWJMQlVONEwzb0cyRE9EU3ZmdDB2R0Z1aXZ2YWc1QkZBWWpBZUljdkl3RFBaaGZPMlZrdFBMbW1WV1ZhSS1oZ2luem9wdGxLWXdEa0tJaXUyaml3cEdjZi1ERlJVWm5keUJWSFg2THZzY0t4TndOQ3RpUGVCMmQ4ZjJhQTJsZ3hNYU9n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8655576d3116803724",
+      "date": "2026-10-30",
+      "title": "PEJ złożyły wniosek o pozwolenie na budowę dla wstępnych robót przy elektrowni jądrowej",
+      "title_pl": "PEJ złożyły wniosek o pozwolenie na budowę dla wstępnych robót przy elektrowni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHU2RHg3T1VnWGdEMWVwb1JRSS1QbzdUV3VYLTV6MjVKRnNRLXMxclp4dHdlTGx5STNHam9CYWNhejlxN2k4cDdsYmpWNWdhU2N4TlVRTHhIemZyVWNWSkE5R1daNF9DOFZFYmtXNEVFdkNtM1VmbDNwQnVwTzVmc0lJQXQ0SXpvR2RiZEZjbGx6SWJCZld5VkZsR0pfWkYtQ3JvdlAwdjRfVGVJZ3M2VzhDS1JkRmdaeEtUalk3LU5rRWZCMDZPbkxB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1104,6 +1249,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6704190f16c29e4c9e",
+      "date": "2026-10-30",
+      "title": "Ministerstwo Energii przyjrzy się przepisom dotyczącym jakości paliw stałych",
+      "title_pl": "Ministerstwo Energii przyjrzy się przepisom dotyczącym jakości paliw stałych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWFGN0FtcTdULVM1V1M0aHM1YkJhakR0enRmVW1fV2ZVTjU3dkVqOWFvbDNDUDlwZ3A4M0M1MTFOYnVKYzJHRmNWSDBjLWVPclVCMzhsYkdDbnpRWXNxTmMyTXZRT1g2RENmZkVCYnpJanNfT0kzdHVCR0ZrOThiUVpnRGN5WENrYkZtN1YxRG9mYUtsNE1zN2xKTGJQUUNFb1BfRmFjUDMzVVlPT0kwUE5ZUUFkdlk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-64e19a76813b0e6b74",
       "date": "2026-10-30",
       "title": "Gaz najdroższy od czterech lat. Rząd szykuje tarczę",
@@ -1244,6 +1418,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-57d4440ce9f1004dde",
+      "date": "2026-10-30",
+      "title": "W PSE powstanie zespół CSIRT Energia do reagowania na incydenty cyberbezpieczeństwa w energetyce",
+      "title_pl": "W PSE powstanie zespół CSIRT Energia do reagowania na incydenty cyberbezpieczeństwa w energetyce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHd3ODRSVUJJQjBhQ1ZzSDR4XzV5RS1YNV9mSGZqZDFuSUh2NVJEeHVaNy1oNkxjekNMMExnV3d1V1NlU0RLdTdsWXkzbUQxMzZ5SVREci01UzFxbW5CT2Q0S2dtSWg5LVFaN29sNDk5YnNtUDN4TDBQb25TdjlBdFlrTGlRNFdhV0tOYm52b2V4NlBtRmc1UUVFaVlZR1VuYlFvYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1541,6 +1744,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-36c3ca0cdc0a2a64db",
+      "date": "2026-10-30",
+      "title": "Od CIRE PowerUp do CSIRT Energia: Bezpieczna cyfryzacja polskiej sieci",
+      "title_pl": "Od CIRE PowerUp do CSIRT Energia: Bezpieczna cyfryzacja polskiej sieci",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ3pwYzJxelVfel9iTjFNczUydlp2VS0ybHczNnl3X29PeGxiQ0VjVl8yajVtUTFvdDRCdXczZTVxc25Cc2xIN2ZpMHJVdERNaEZ0QUV3eHJsTU1CR0lKUjZrR2NVLVEtMGFESlI1Z3dOUWdYTmVhNF94ZW9xLUZ3a3lyUlhzeEloT2hYVEpKUDhHQUJGTXVPWlppRHp1SGJIc2Myb0laMkVidXYyZG5fbklxblpyV2h0aU9IemEtdlc3b2FrU2ZtQk11eEstc1JkNm9GcGJ2aldrbThGenB2UkFwWDdCaTFUUjVYbHpZbEo5eWJPNUxHc2N4clF6NE81b1ZPb0Vn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-36c09d20c2fdca85a7",
       "date": "2026-10-30",
       "title": "Aukcje dla biometanowni z podpisem prezydenta. Kiedy ruszą nowe inwestycje?",
@@ -1652,6 +1884,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2b8307f2ba5e94e473",
+      "date": "2026-10-30",
+      "title": "Najnowsze informacje o: Energetyka",
+      "title_pl": "Najnowsze informacje o: Energetyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Biznes Alert — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01dkc5aXpCNGxfdWFvOUJPTWFONm81OXdUUlc3TFVRMEU0ZjZfeUVLWkw4b1pzQVZTclQ5ejJzTThJT3hTVGs3SXJmdFh0VW1KaXBnZElR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Biznes Alert",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1771,6 +2032,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-129799a2723e9ee91b",
+      "date": "2026-10-30",
+      "title": "Elektrownia jądrowa w Choczewie. Inwestor chce rozpocząć głębokie wykopy",
+      "title_pl": "Elektrownia jądrowa w Choczewie. Inwestor chce rozpocząć głębokie wykopy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Elektrownie Jądrowe złożyły wniosek o pozwolenie na budowę w zakresie Wstępnych Robót Budowlanych (WRB) dla części prac związanych z budową pierwszej polskiej elektrowni jądrowej - poinformowała w piątek spółka.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Choczewie-Inwestor-chce-rozpoczac-glebokie-wykopy-9221047.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0f23392b6ede656e8f",
@@ -9476,7 +9766,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -9484,7 +9774,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
