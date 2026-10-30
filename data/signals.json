@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T04:48:33+00:00",
+  "updated": "2026-10-30T05:46:29+00:00",
   "signals": [
     {
       "id": "src-e05bc7391e0a083096",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-299fb5fff7808b094a",
+      "date": "2026-10-30",
+      "title": "Ceny stali w górę. Energia, polityka i kto na tym może zarobić na GPW?",
+      "title_pl": "Ceny stali w górę. Energia, polityka i kto na tym może zarobić na GPW?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny stali w Europie rosną, jednak za podwyżkami nie stoi drożejący gaz i energia elektryczna, lecz unijna polityka. Które spółki z GPW mają szansę skorzystać na wyższych cenach, a które muszą patrzeć na stronę kosztową i drożejącą energię pytamy Jakuba Szkopka, eksperta z Erste Securities.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ktore-spolki-z-GPW-moga-zarobic-na-wzroscie-cen-stali-Ekspert-opiniuje-Cognor-Bowim-MFO-Stalprofil-i-Stalprodukt-9220346.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-15ae7ea516f468b9e4",
@@ -7442,7 +7471,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakRVNTUwREFPRFh0N1UteGFYU3RhZ0RuMUtkT0YzUzdCUVltV2NpZWtNRGVHZUl6NVlHVm5kVVpJczlLcVZRa1VtM2R4ODRJUWlaQ25xVzR0OWI2WFQ0cHhUSFBMX2dCeVJQdVZBQ2h5Y1VELU42M20zSl9qbHdPd00zUmFFeDZRbzZfLWhHeUxwSHIwYlUwWC1DVUlKeThLTHl6Rjk2TXhZVlpPSjdINml1SWxvbjlaNTZQZEI1VmFqenRJT3NXVnJfbnhmUnBLamc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUdVbFFpMzQ4cGtrWWhzd1NuNjUtcWpJNzJpOW1aZWgxNlVWOEVuT0hwejZVZ3lORTVJbWN6Q3E3OThLUzZGQktQa3NUQ3F1a2NvSDJVTndWYmxyU1U2MmRrMGp6NzA4RXpvQlE0amxyNEVHQ2ZFbVVyaWp2am53cms4YlYwNTVwd0lCS2dEclNSdkhYWkozNGl0MHZGaHYwbTBxLVNETDRkNUFaZmhfWVRoZ21qTVk?oc=5",
           "type": "press"
         }
       ],
@@ -7450,7 +7479,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -7645,7 +7674,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
           "type": "press"
         }
       ],
@@ -7653,7 +7682,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
