@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:43:38+00:00",
+  "updated": "2026-10-30T18:47:09+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f92ede99798ab63e4e",
+      "date": "2026-10-30",
+      "title": "Modernizacja systemu/oprogramowania do tworzenia bibliotek cyfrowych – digitalizacja zabytków ruchomych, księgozbiorów, muzealiów",
+      "title_pl": "Modernizacja systemu/oprogramowania do tworzenia bibliotek cyfrowych – digitalizacja zabytków ruchomych, księgozbiorów, muzealiów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MUZEUM GÓRNICTWA WĘGLOWEGO W ZABRZU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df36b4-7e82-ed19-e2d6-6b000120bb1b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f8ceb2ad3838f0416a",
@@ -477,7 +506,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVY1RPNXcwNnJXcEh0QS1zd1YzSjNIUlhRXzNUajlMZEJfdTh5WnNJZUg1cEczT2tCM0dkYzVvREtXYlVfWnp4VVJBcDlOYU5SNFJNTFRTazdhUXN3elJBdkl6Z3UtZ1FMOXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZVNTZVZwVnR3OVRMTGk0T0l5ZU1PRmRROHpnTWZZTURzNEQtTmgyMnJoM0lPVzdwUEJOYWhxN25FYVdQQjFPYktvYmVVcnJwYWZBaVdGZ3J5cGUzRHMySklJeHVqZlNpUVE?oc=5",
           "type": "official"
         }
       ],
@@ -1684,6 +1713,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-73e6fc68ef36844504",
+      "date": "2026-10-30",
+      "title": "Dostawa z montażem systemu audiowizualnego w Auli Wydziału Automatyki Elektroniki i Informatyki Politechniki Śląskiej. Znak sprawy; DZPZ.282.56.2026.EK",
+      "title_pl": "Dostawa z montażem systemu audiowizualnego w Auli Wydziału Automatyki Elektroniki i Informatyki Politechniki Śląskiej. Znak sprawy; DZPZ.282.56.2026.EK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Politechnika Śląska",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df36b2-41b9-17a2-e2d6-6b000120bb18",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-73e099c5ee42e662a4",
       "date": "2026-10-30",
       "title": "Europejski rynek gazu pod presją zimy i wojny USA z Iranem",
@@ -2078,6 +2136,35 @@
       ],
       "cos": [
         "POLENERGIA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5e1b5523a8a1fde45b",
+      "date": "2026-10-30",
+      "title": "Ceny gazu dla gosp. domowych w UE spadły do najniższego(...) - Forum",
+      "title_pl": "Ceny gazu dla gosp. domowych w UE spadły do najniższego(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3hNazhhclJGczl2aktiSFdwUTJ0RUVHNk8zWUlVX2t1RnRqZ2Vva181Sm9yX2ZhUEhKaVJmMHd3QU5jRWdWSEJPQTJCUVVhTHhlYVFObjNyY1V1ZUVSZF9YRnhSZVlMdHIxTjY3RXd5OVhiS3JQZDQzTGlRMGVoOWozaVZXUVhkRjJCSVJSU3lsRE4xMWd2dWs2MGpwMFF2dDRMZFVvSVktdHZCVDFLcWZZUHZldTFoQ0hZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
