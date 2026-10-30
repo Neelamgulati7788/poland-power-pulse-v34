@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-30T00:56:10+00:00",
+  "updated": "2026-10-30T01:57:50+00:00",
   "signals": [
+    {
+      "id": "src-a078b83d92bf7b6add",
+      "date": "2026-10-30",
+      "title": "Polska – Elektryczność – Kompleksowa dostawa energii elektrycznej w zakresie sprzedaży energii oraz świadczenia usługi dystrybucji energii elektrycznej dla Gminy Tomaszów Mazowiecki",
+      "title_pl": "Polska – Elektryczność – Kompleksowa dostawa energii elektrycznej w zakresie sprzedaży energii oraz świadczenia usługi dystrybucji energii elektrycznej dla Gminy Tomaszów Mazowiecki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Tomaszów Mazowiecki",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3623-8535-6bbe-e2d6-6b000120a5f6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ff80941993431cb421",
       "date": "2026-10-29",
@@ -5295,7 +5324,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2N3SXRpaHpkdTV0NnJfREQ3VGtjNXZnV3hMcXMxYVpmdXVFbXVHVzVYUVdHVDNHc3ZlSDRZSDl1dTU5M211MV9TTUFyTVFtaWZnanFpMThCRDRQa25mVFdtVHhTdVV0aGgtcEF6N0hpaEozOUNLMFhyOUZOZ0F6Z05kcE54WkxQSGktMW52VlZHTkNrZ2hSNm1BS0J6ZmhvdVlCWE1sMDRQeXBVYVRqOTBwMVo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2RlUFYtdjR0bTZ0VFNUcTdxYUtTX3lyZWhHVEZOblJzUXY3YUVxbkk1QW9yQU5TUHlLQ2JVR09QZnhrN3M0VXpnYWFJOVRCSktvZl9FbUwzcW9sMVFha2dxaUJqdF9PRUoxRWZOVERqckY1bS1DaGV5UGhtUXNSYm5hZEU0N0YtYUZoM0wtcUJKRmJIRF9aY0NraGg4bTQ0YzZoWl9YMk9ITXl6dlVhWGkzSG1nQkR5ZWFKSXAxLWNyVUduM0E?oc=5",
           "type": "press"
         }
       ],
@@ -7268,7 +7297,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakRVNTUwREFPRFh0N1UteGFYU3RhZ0RuMUtkT0YzUzdCUVltV2NpZWtNRGVHZUl6NVlHVm5kVVpJczlLcVZRa1VtM2R4ODRJUWlaQ25xVzR0OWI2WFQ0cHhUSFBMX2dCeVJQdVZBQ2h5Y1VELU42M20zSl9qbHdPd00zUmFFeDZRbzZfLWhHeUxwSHIwYlUwWC1DVUlKeThLTHl6Rjk2TXhZVlpPSjdINml1SWxvbjlaNTZQZEI1VmFqenRJT3NXVnJfbnhmUnBLamc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUdVbFFpMzQ4cGtrWWhzd1NuNjUtcWpJNzJpOW1aZWgxNlVWOEVuT0hwejZVZ3lORTVJbWN6Q3E3OThLUzZGQktQa3NUQ3F1a2NvSDJVTndWYmxyU1U2MmRrMGp6NzA4RXpvQlE0amxyNEVHQ2ZFbVVyaWp2am53cms4YlYwNTVwd0lCS2dEclNSdkhYWkozNGl0MHZGaHYwbTBxLVNETDRkNUFaZmhfWVRoZ21qTVk?oc=5",
           "type": "press"
         }
       ],
@@ -7276,7 +7305,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -10999,35 +11028,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-1b0e17f02449e12f2e",
-      "date": "2026-10-27",
-      "title": "Projekty OZE mogą skorzystać z ulgi podatkowej. Ale nie wszystkie",
-      "title_pl": "Projekty OZE mogą skorzystać z ulgi podatkowej. Ale nie wszystkie",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Na czym polega podatkowa korzyść Ustawa o CIT ogranicza wysokość nadwyżki kosztów finansowania dłużnego, którą podatnik może zaliczyć do kosztów uzyskania przychodów. Limit nie obejmuje jednak kosztów kredytów i pożyczek wykorzystanych do finansowania długoterminowego projektu infrastruktury publicznej, jeżeli spełnia on warunki ustawowe. Projekt musi dotyczyć…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122371-projekty-oze-moga-skorzystac-z-ulgi-podatkowej/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "PGE"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1a0faafa955de28218",
