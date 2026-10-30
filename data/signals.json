@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:49:31+00:00",
+  "updated": "2026-10-30T17:43:38+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -408,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d816da41c7629d4159",
+      "date": "2026-10-30",
+      "title": "Cud nad dystrybutorem przed sądem. Kaucja zamiast krat dla dyrektorów",
+      "title_pl": "Cud nad dystrybutorem przed sądem. Kaucja zamiast krat dla dyrektorów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Sąd utrzymał w piątek w całości decyzję o areszcie warunkowym dla byłego wiceprezesa Orlenu i trzech dyrektorów spółki – potwierdził PAP rzecznik PK prok. Przemysław Nowak. Tym samym wykonalne stało się postanowienie sądu rejonowego o możliwości wyjścia podejrzanych za poręczeniem majątkowym.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Cud-nad-dystrybutorem-przed-sadem-Kaucja-zamiast-krat-dla-dyrektorow-9221270.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-cafd8da12bd979b422",
       "date": "2026-10-30",
       "title": "Polish port of Gdansk inaugurates terminal for offshore wind farms",
@@ -553,6 +582,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c2838864b11cdbf7fc",
+      "date": "2026-10-30",
+      "title": "MRiT: Terminal T5 uruchomiony - strategiczna inwestycja dla transformacji energetycznej Polski (komunikat)",
+      "title_pl": "MRiT: Terminal T5 uruchomiony - strategiczna inwestycja dla transformacji energetycznej Polski (komunikat)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWngxV1R3WmpLUzJoMkxIb01WSHhSZnd6WnRLZHZuLVlRU3hsT2YtX29Pdl95azNwYzgzOGIyQ1ZOekVxZ295VjhjdDNoV2gxQW5fSTB4WGZsaVdrUlUwZEE1cFZYb1pHWVhRdC05RXVHdkFfQzFpaWYxSmJ2Y1pTSEExdGNUemRpN1RrZ25nWTZuYS1lOENCZ3c1MGNwUlN1a1laWDNEbFBDSG93OEliVTlyZkstTUdQcUh3bWZzSU45cXczZTF6S1ladV9KYnlGZlJPUnBB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bf926c6dd3fff1b88d",
       "date": "2026-10-30",
       "title": "Enea ma umowę dot. programu emisji obligacji hybrydowych do kwoty 5 mld zł",
@@ -635,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b9ca10a701ef50afb0",
+      "date": "2026-10-30",
+      "title": "ME proponuje zmiany w Prawie energetycznym ws. ciepła odpadowego i efektywności energetycznej",
+      "title_pl": "ME proponuje zmiany w Prawie energetycznym ws. ciepła odpadowego i efektywności energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZl94T2dja3ZYeThLZGlQa0VFSFh5M0p2TnBGd05HTm9PSTBlZGpDRld2Vzh1NXdGZTFBUDdRREFnVTJjZEN3WGM3X2hxRWNpeFdJRGFnbDYwdHhIQjJtZzJHbGd6OHlxc1pIdTMtdmh0NWxhdlk2WDlBRzJsb2drckhaQTA4QnNBVE9VS0d1TjJzQ2FfbXMtTk9icHJ5SGhhX0VmLTZWOGgzbEMxSFZqSFRfcEhEWTJqWnpQX2kzQ295MWRIY3REUXJ3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2148,6 +2235,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4e71d3c566d6bcc54e",
+      "date": "2026-10-30",
+      "title": "Kiedy ruszy budowa pierwszej polskiej elektrowni atomowej? Jest odpowiedni wniosek",
+      "title_pl": "Kiedy ruszy budowa pierwszej polskiej elektrowni atomowej? Jest odpowiedni wniosek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVMxYVV4UUpzWDkwajhnMHJ2enIxNmhMSWJHOWl0VG50R2lfYW16TWxTUTIwNFpvYllKeV94ZDIxcnBfUjI4X3lHUnhqTlJQTlgyNElHN2xHNTdtRjI3WnRkalA4NDQ5UUl2VHpYVmMwdW5nQ3VnQWl6YUpyTm5ubmt5OHA1d0VGb2lSTW1fMU8yNFpRcmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4dd45e56563d1efe00",
       "date": "2026-10-30",
       "title": "Co się dzieje z Orlenem ?",
@@ -2931,6 +3047,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-05cb8412f28175bc71",
+      "date": "2026-10-30",
+      "title": "Najdroższy prąd w 2026 roku. W tle niższy VAT i boom na magazyny energii",
+      "title_pl": "Najdroższy prąd w 2026 roku. W tle niższy VAT i boom na magazyny energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGNDdExiaUpSR25IS2E5ZEF6a0xYTjkwR3k1RG9VM1Z0WWNnbmEzNC1fRDB5dHQzUEtqOHE2eE9CTmdzbXg0cktxdXhTTkk3RVZZeWNxQWV6LVl3T2E4TGo3TlNvT3FndHFPQWgySWcyRU40SnJZMDM3QXJORjFsUHl2Ykktb05JeGRDZm5ZOE5FR2xRUW9zWXBYTXFlN2x6N1JTX01BNmVabEVvVTh1bkFiMUp5UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0240fcb4dad6391022",
@@ -4657,7 +4802,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcFNKaFFUY0wycFpka2kyMGpSOGZsb2h0VkdPYU1Ub3YyZ0VKUlZJZk1mNGpESXRMS1VxV3NSd0xIbnFkSWJ0amhvYkpEeGh0Q2U2eDlZWlltcWRSb2RFSkEzTW1SVnZCdmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWlBiX2g3RVh3b2dWSkJUeHFpNnBvemZfR2gxVWlTWnExcW5LNHRrcHJiSmJCYUtVMTR6VWpCZE9HaVFVejhBT2E4NEg1LUFhdVFZUHN0YkZYZjhGZ1pGTmdMenR2elBYdFE?oc=5",
           "type": "official"
         }
       ],
@@ -5167,6 +5312,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-743a5da887068bb14d",
+      "date": "2026-10-29",
+      "title": "Bank centralny reaguje na wysokie ceny energii. Od tego zależą raty kredytów",
+      "title_pl": "Bank centralny reaguje na wysokie ceny energii. Od tego zależą raty kredytów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR25iV19DVGVZbnN5ZmRnTkw2TFhoNkw2RmMzbERTa0VpNW4tMnNYbXI2X2lHUXlzalp6YTVISndWLV9keGd2ZzY4QXhUTWtaSjlGaEdPNFRrcGdBcTBfM3Q2ZEhSbmNYc0pwb20zbDN3NjNCT0djTF81Zjl4QTc5OGVIZ3diVlM4NmRyLUZLSHhQb29FQkt5bVNSVHh4emNEbWRYemhpTUVQbUdiQWtVSC1Taw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-742f53d1870cca0ff5",
@@ -10607,7 +10781,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -10615,7 +10789,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
