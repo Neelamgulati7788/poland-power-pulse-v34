@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:54:45+00:00",
+  "updated": "2026-10-30T09:52:31+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -205,6 +205,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-da7b13ca08a91597c2",
+      "date": "2026-10-30",
+      "title": "Ceny prądu w Teksasie poleciały w dół. Magazyny energii dały miliardy oszczędności",
+      "title_pl": "Ceny prądu w Teksasie poleciały w dół. Magazyny energii dały miliardy oszczędności",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVJEWkpyMDhfR0tSRnVGNk9iRng1Qml2NHBuR2Q2Q0hlMkJnZFBvcDdtLVVwSEtldFYwdEhZanQ3cDNUWTNiNXp1VjhFMElRajktOVdDWXJlcmE1c0lDYlAzbUR3RnM1c2ZlaXlYQTBMMk5CakdzNHVhd01OS1hxaXZwWDZpa28?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c8c18a6ffe1df10d0d",
       "date": "2026-10-30",
       "title": "Platforma zakupowa Grupy ORLEN",
@@ -216,7 +245,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wdTc2YUFjaTZBenprTzFBU051dlNmeS1uUkl5N0xFdllFS3Q4eHViejNFLXVQMzkxTTZTZTBWQmFkUXZVd2tZTF9rRXNnTDVWYkwxenA4Slh0SkpERkE2aDRud2RkWnNrREE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVY1RPNXcwNnJXcEh0QS1zd1YzSjNIUlhRXzNUajlMZEJfdTh5WnNJZUg1cEczT2tCM0dkYzVvREtXYlVfWnp4VVJBcDlOYU5SNFJNTFRTazdhUXN3elJBdkl6Z3UtZ1FMOXc?oc=5",
           "type": "official"
         }
       ],
@@ -319,6 +348,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b4fca1e240be5f8a2b",
+      "date": "2026-10-30",
+      "title": "Energetyka – strona 739",
+      "title_pl": "Energetyka – strona 739",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eHZVV0R2RGN6YUhfQkhfSUgzcnE4YURXaDRtRmliSV9jUHdFMmRUMC0tTURINE90cnM3OFBuRWdXN2lBeEJvWk42aWJBUDlpYjZnc05MVQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b1022553261bef4a3d",
+      "date": "2026-10-30",
+      "title": "Co unijne etykiety energetyczne oznaczają dla polskich centrów danych?",
+      "title_pl": "Co unijne etykiety energetyczne oznaczają dla polskich centrów danych?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Czy rynek się zachwieje? Centra danych to kluczowy aspekt trwającego boomu inwestycyjnego związanego ze sztuczną inteligencją (AI). Dotyczy on przede wszystkim USA i wydarzenia na tamtejszym rynku stanowią kluczowy barometr nastrojów związanych z tym sektorem - w tym oznak potencjalnego przegrzania rynku, na którym wciąż…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122469-co-unijne-etykiety-energetyczne-oznaczaja-dla-polskich-centrow-danych/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-abf7e019efff6d27a9",
@@ -432,6 +519,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-882e38285e0d925017",
+      "date": "2026-10-30",
+      "title": "Biometan szansą dla polskiej energetyki. PSG rozwija sieć i wspiera inwestorów",
+      "title_pl": "Biometan szansą dla polskiej energetyki. PSG rozwija sieć i wspiera inwestorów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjlSXzIyUlR3U0hzMFpxUGFydmtHY19rR2c3QUdXanpIb2dLbU9sclpKenRWQzd2YzZzaXJ3RkE0WHo3MDhjeEQtMVBuWll4ZVktN2ptM2xWWlhtQ3E4SUNfQW1laUNUcmhpbV9HV2ZVT3J4Z0czMlRYSk1xNmZDWFJIR1hjaUl5OEFmWnhrWFBWXzF0aUdXZWhVR0R0MnlqQnIyay1Sdl9lZHRHdWtkRkZvMGpyNkNq?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -577,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6466470970c9aef1af",
+      "date": "2026-10-30",
+      "title": "Moody’s podniósł rating dla Energi do A3, z perspektywą stabilną",
+      "title_pl": "Moody’s podniósł rating dla Energi do A3, z perspektywą stabilną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjJURzQwd2w1Vk5oTWJMZ3ROTzk5TXg4WkxwMTJrUDdlVE03SDZNbkM3VDlvMTFlOXc0cUxCVGhYVkFNUHo3cHZ3ZU9vY2dBYTVuTDlkTEtBT2N4MDBvYkFsMHQ1VGFDeUIyWURqUzFISnZKUnJaa0FjRTdrLVhOQjNSdy1Vd3lRc0t0b0RpOFZSZzYxRUcyVmZOcTRuMzdCdEFHY2RCaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -811,6 +956,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-304d02c096cd8c45f6",
+      "date": "2026-10-30",
+      "title": "Orlen podjął decyzję. Od soboty zmiany na wszystkich stacjach w Polsce",
+      "title_pl": "Orlen podjął decyzję. Od soboty zmiany na wszystkich stacjach w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXpYU0pDYV9sdlo3cFg0Y29NNWNObjd6UmlIN2c2cE12THhvV0F5LU9WeXN5NHZCN012QUJxcGp3UXNIMF9ZV1Fmdkc1eDZLNHNnd25kTjJQVEc0ZEtxSy16NGJwOWt2ZFcwRktCbUxzaWhGRzBFMWRDRXNnbFYwT3ZMR0o4TDBhdWNXa3BfWm50MkkyOVRyZklQellxY1dwZjFIN0dkaWlnSjA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1104,6 +1278,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ecbcc6a0948568ab15",
+      "date": "2026-10-29",
+      "title": "Rozporządzenie Ministra Energii z dnia 28 października 2026 r. w sprawie maksymalnej ilości i wartości energii elektrycznej z wysokosprawnej kogeneracji objętej wsparciem oraz jednostkowych wysokości premii gwarantowanej w roku 2027",
+      "title_pl": "Rozporządzenie Ministra Energii z dnia 28 października 2026 r. w sprawie maksymalnej ilości i wartości energii elektrycznej z wysokosprawnej kogeneracji objętej wsparciem oraz jednostkowych wysokości premii gwarantowanej w roku 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API & ELI (Dziennik Ustaw) — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1426/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API & ELI (Dziennik Ustaw)",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ec75310e3e2445f52f",
@@ -2539,7 +2743,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWlBiX2g3RVh3b2dWSkJUeHFpNnBvemZfR2gxVWlTWnExcW5LNHRrcHJiSmJCYUtVMTR6VWpCZE9HaVFVejhBT2E4NEg1LUFhdVFZUHN0YkZYZjhGZ1pGTmdMenR2elBYdFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcFNKaFFUY0wycFpka2kyMGpSOGZsb2h0VkdPYU1Ub3YyZ0VKUlZJZk1mNGpESXRMS1VxV3NSd0xIbnFkSWJ0amhvYkpEeGh0Q2U2eDlZWlltcWRSb2RFSkEzTW1SVnZCdmc?oc=5",
           "type": "official"
         }
       ],
@@ -4499,6 +4703,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-221b00b8ffdfeb214c",
+      "date": "2026-10-29",
+      "title": "Rozporządzenie Ministra Energii z dnia 28 października 2026 r. w sprawie wartości referencyjnych dla nowych i znacznie zmodernizowanych jednostek kogeneracji w roku 2027",
+      "title_pl": "Rozporządzenie Ministra Energii z dnia 28 października 2026 r. w sprawie wartości referencyjnych dla nowych i znacznie zmodernizowanych jednostek kogeneracji w roku 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API & ELI (Dziennik Ustaw) — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1432/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API & ELI (Dziennik Ustaw)",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-220eccd470c1f7cf65",
@@ -6573,7 +6807,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EblAzUlNCMTIyQUVsdTBRTzVMdHhwVEhtY09RdXRjVE1tZ0hHZ1hMOW5fSlNWZzhwV3dTQVM5MDZIellUUWhBcXFtY0lTSW9qaEd6dV9yNEN0ZFJXd05QUjRpc3dsekFvUkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbDgxTFNNbVRkd1ZMZFhvdXJXX01EYXAwbmNCakJKUmJLWXd1THRxOWIzWW1UQUxHNUt3bG83dTVpa05ySGFjLTBRSGlNczZvbDdpYy1HYnJuRnFrbGxHa1NqM2xjdDhBYnc?oc=5",
           "type": "official"
         }
       ],
