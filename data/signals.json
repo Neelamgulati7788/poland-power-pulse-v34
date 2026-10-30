@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-30T05:46:29+00:00",
+  "updated": "2026-10-30T06:55:01+00:00",
   "signals": [
+    {
+      "id": "src-e8751820bc1e597d0f",
+      "date": "2026-10-30",
+      "title": "Trump uruchamia projekt „rurociągów pokoju”. Węgry dołączają do inicjatywy",
+      "title_pl": "Trump uruchamia projekt „rurociągów pokoju”. Węgry dołączają do inicjatywy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Szefowie dyplomacji USA i Węgier Marco Rubio i Anita Orban podpisali w czwartek porozumienia o współpracy w walce z lewicowym terroryzmem oraz o projektach energetycznych, w ramach inicjatywy „rurociągów pokoju Trumpa”. Ten drugi projekt ma pomóc w dywersyfikacji dostaw ropy naftowej i gazu.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Trump-uruchamia-projekt-rurociagow-pokoju-Wegry-dolaczaja-do-inicjatywy-9220656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
     {
       "id": "src-e05bc7391e0a083096",
       "date": "2026-10-30",
@@ -89,6 +118,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-88ab8325a0f8867b1e",
+      "date": "2026-10-30",
+      "title": "Polenergia RES subsidiaries sign conditional loan agreement",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzZVMTIyaG10OHh6REw5ekkweVZiQm85X0FTaFlnZUF2MGhnV2owSU04aHJDR2lHUVFhbTZJWHRndTBtX25jS3FVZHVMUE5ib0ZQNnB2VDJGbXpibUxCcWR6Tl9ZcWRlZ3ExY0lEaHdEQnF5ZmQ3Q3VfMDlCT1E0ZEd5aVBtbFdmM0tnVzFhTFBQQ2hoS3VEaVAtcENrT0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-82fab2060299d3dade",
+      "date": "2026-10-30",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3pPRnkwa040T2JCMTZYWXlIUWFKNFZxUHNtV0dJNkZHVWIxVFMwVndYVHNaMnhpWTNMV3pGZmsxRFM1SEtEeFk0UDBQWkZDbkFEMHcwbGxqQ1paX3kxaHoyMXVUQ2dya1RmdzlENkx2M1NtRkZaeWdZbkNyY3lacE0zdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-64e19a76813b0e6b74",
       "date": "2026-10-30",
       "title": "Gaz najdroższy od czterech lat. Rząd szykuje tarczę",
@@ -113,6 +200,210 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60933b1a6e7ba57edd",
+      "date": "2026-10-30",
+      "title": "Europie może zabraknąć surowców do transformacji energetycznej. Naukowcy ostrzegają",
+      "title_pl": "Europie może zabraknąć surowców do transformacji energetycznej. Naukowcy ostrzegają",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWJocmYxWHVRVFpjcURoVjVObl9rVlpiS19sblBZeUkxOUw1WTE0dHoxVEhEQ1BHbEJmMEZIS3paZG9jcTRPdkdlb2tRd2lRcGRTS3ZseE9FbmlrUGhGSzVrc0MxbXZYTU1ZUUNnU085dGdLMS1hR29obU9lR2o4SUJGYXFFeG1SMGJLUDQyaWQ0QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60578ac85ae60a7ca3",
+      "date": "2026-10-30",
+      "title": "POLENERGIA: Zawarcie warunkowej umowy kredytów przez spółki zależne Emitenta",
+      "title_pl": "POLENERGIA: Zawarcie warunkowej umowy kredytów przez spółki zależne Emitenta",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXZmRDdFVVlTOHdVYnJsYzZsckY0M2tsYWhMcVFRMTczOHN5Z1I5a1dNaUxtMXFUVC1tZUZBMkJpaGRjNlFwRUVuc041cXFTOUtvLTlDNWhQVVRKOE15aEctZDlqc0dyVHNUTDVnQkF1Nl9jLV96M05jbExmS1VEc216Qjg3aFFJb3JadVhwRGd1X25fQnJLal9pcUh3a2YzYXRZb2NwYzJTQ3lpekttdHVvdlp4NEtyM0ltajlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-500c55e78be3039a20",
+      "date": "2026-10-30",
+      "title": "Dostawa zestawu spektrometrów Magnetycznego rezonansu Jądrowego (w tym NMR 600 MHz) na potrzeby projektu „W kierunku interdyscyplinarności i integracji z otoczeniem społeczno-gospodarczym”",
+      "title_pl": "Dostawa zestawu spektrometrów Magnetycznego rezonansu Jądrowego (w tym NMR 600 MHz) na potrzeby projektu „W kierunku interdyscyplinarności i integracji z otoczeniem społeczno-gospodarczym”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Uniwersytet w Białymstoku",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3652-b93d-c7fd-e2d6-6b000120a9a8",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-4d32b350ba87f0c417",
+      "date": "2026-10-30",
+      "title": "Spółki zależne Polenergii zawarły warunkową umowę kredytów",
+      "title_pl": "Spółki zależne Polenergii zawarły warunkową umowę kredytów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDREZlc0WEIzUjh4ekdJYVkzci1VNFRmN3ZCMWd4bm9LRzAtVDBiZW5ndFJvbmlWTUdPQ0RXQjkzTFRoVWgwVXBrZGtCam5VWFNVZkY5eU1EcWh3M0NRT2E3RFYyY3JHR3drSXp5OHh3ajZVcU9wMGdPSzNaQTJJNkhJOUtvVWc3dVBrYmZtTDNCdXdBdFlCbl96TE82Z3VJeXhtZzRDSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3dc754c2d1492da41e",
+      "date": "2026-10-30",
+      "title": "Enea ma umowę dot. programu emisji obligacji hybrydowych do 5 mld zł",
+      "title_pl": "Enea ma umowę dot. programu emisji obligacji hybrydowych do 5 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkpwVTVISVQ1SnJVNTg0dmR1dnFZNjRsbmhTTlJsTFpqTXdWalAxV2ZpeC1JVEkzV3dnY3ZuVWNzLXJ1ZUcwRW5ERklSM1J4NFh0NTQ0b2lyWDUxU0FpWWozMjZ1RGRIeWhQUkpJZjhhcEllZlp3UlkwQTdaX0syMjZrcnpxUmNzSml0N1ZvY2tqVDhVZmlVWHVjVVZHcGVPb2VkTVhDclo3c3hGX2VLWE5HcU1ySGJseFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-36c09d20c2fdca85a7",
+      "date": "2026-10-30",
+      "title": "Aukcje dla biometanowni z podpisem prezydenta. Kiedy ruszą nowe inwestycje?",
+      "title_pl": "Aukcje dla biometanowni z podpisem prezydenta. Kiedy ruszą nowe inwestycje?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbDhUbjhWdEhudTVKZldiT2F1V2JnRXNrMFlpZXo2QUpLQWZxbEhtdEVDRWE5UVdOTkxCQTZzUmpBSDJoSWRBUktkaWdweGE0dmphVjNFaWVpa1lkaWU3QjFycTVoWDBfNnlLX1JhVVFIT1k0YTJGdlVncGxqbGFsNmFtSlVtelRmTjRVMXJKX2RVNGgyekwtLUU1VUVOQllhcnBjRUJwTHJXbVZ0Z1RjMG5NTkhKZUJ0MmFTb210cmlsOFdBdXZsdkdRYkxpYW9sd19zdDdMWGlpM28?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-33bd70012fb346a730",
+      "date": "2026-10-30",
+      "title": "Fotowoltaika na dachu… ciężarówki. Ma obniżyć koszty paliwa",
+      "title_pl": "Fotowoltaika na dachu… ciężarówki. Ma obniżyć koszty paliwa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3NkaGh1Wml3X3hnYmc1VnA2bC13bzRKQnl4bmtNcHIyWjdPMjlHRm1FR083NkdZakMyR0ZvcXV2em9SWWZwUzFmSWpiSkVVT1J5a2VjY0RTUnVFV0FqRVpwbC1ZZmRMdGZGaVJ2YUdGTnd4bXNCS3B2czFLd1dYQWo5RFBqNmFFUlgtTl9jdVU1UDNaRzFPOWdnYlg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -6659,7 +6950,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1VNZy1TNy0wWGdsQ3hwOHdyY1pTQWNJU1lNV3lSQVRhYlhKUmtPTGdyd2JXakJUOFp2UkFwVmNjemRxWjBPYXVqbGt1RThBOFhya0lXRVprVTJieUF0azB1ZEdaX2dJNlJQbDhsdzhKMDg2LWptTXhpOXlqbXRWekloaEdzYVE0LXdNbzRINWNhREhxVWMzUHc1aEJfcFNZOWlDWkYxQVZEMzBwTFYxMlJ6bm51U3BiMThpUmJacjlzcG9ER19ubWJzOEtNTGptRVRLWC1HNVJxVjBBRUxRTzVmNk4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBRamFrbVdoZ1BZcTRnR1diSTR3YjN5ckpjb3ZkS1BPQ3ZXcUNmbEtBbXlsTlFyakprNXB5dUJsZzFVZnpsSmlSYWlXZzRmVDd2bFlzdkhOekF4dkcxakNvTUxaQjRZSEJucGtERmd1eHlyWmF5TFcxZ3NDaGJ1a0FNVzAxc0w4Q2VQd2J1VC1udDNYQzlFQlN5ZnRXM0pYc1JZa2R5Q3VfWkppdzNVODc5QzN1c29McHk2LV9xQW15RERyZ3lj?oc=5",
           "type": "press"
         }
       ],
@@ -6667,7 +6958,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://fotowoltaika.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -7471,7 +7762,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUdVbFFpMzQ4cGtrWWhzd1NuNjUtcWpJNzJpOW1aZWgxNlVWOEVuT0hwejZVZ3lORTVJbWN6Q3E3OThLUzZGQktQa3NUQ3F1a2NvSDJVTndWYmxyU1U2MmRrMGp6NzA4RXpvQlE0amxyNEVHQ2ZFbVVyaWp2am53cms4YlYwNTVwd0lCS2dEclNSdkhYWkozNGl0MHZGaHYwbTBxLVNETDRkNUFaZmhfWVRoZ21qTVk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakRVNTUwREFPRFh0N1UteGFYU3RhZ0RuMUtkT0YzUzdCUVltV2NpZWtNRGVHZUl6NVlHVm5kVVpJczlLcVZRa1VtM2R4ODRJUWlaQ25xVzR0OWI2WFQ0cHhUSFBMX2dCeVJQdVZBQ2h5Y1VELU42M20zSl9qbHdPd00zUmFFeDZRbzZfLWhHeUxwSHIwYlUwWC1DVUlKeThLTHl6Rjk2TXhZVlpPSjdINml1SWxvbjlaNTZQZEI1VmFqenRJT3NXVnJfbnhmUnBLamc?oc=5",
           "type": "press"
         }
       ],
@@ -7479,7 +7770,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
