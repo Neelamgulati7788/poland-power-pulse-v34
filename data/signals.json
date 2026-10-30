@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-30T08:01:41+00:00",
+  "updated": "2026-10-30T08:54:45+00:00",
   "signals": [
+    {
+      "id": "src-ffeab85c3902876492",
+      "date": "2026-10-30",
+      "title": "Port dla gigantów. Jak Polska buduje zaplecze morskiej energetyki wiatrowej",
+      "title_pl": "Port dla gigantów. Jak Polska buduje zaplecze morskiej energetyki wiatrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXdNSGRkM1JuSkVQT1lidlBNQ2FRLWtyNlBzLTI0MUNQaU1NOXN4RlNNR1FheC1iU0Rua0xqek1Bdk1uTG9KQ3A0bll4TGtMN2J5dHpwaVFSVV8xTWYyQUw3blFZU0lMdDd1Rzh0UDBHRlFNV3BHcEpDUUd0RkF5YkFaNi04azI2TTJHQXZLenlaRGk1Y2x1eXQ4UGk2RkhIMEdKaXdPb3Y1VXJpc3RUaEN1cG9laDRFY3hlWDVR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-f69691720560ef0776",
       "date": "2026-10-30",
@@ -87,6 +116,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e32a6ccefaa6858fe9",
+      "date": "2026-10-30",
+      "title": "Polenergia pozyskała 1,35 mld zł na rozwój i refinansowanie w ramach umowy z bankami",
+      "title_pl": "Polenergia pozyskała 1,35 mld zł na rozwój i refinansowanie w ramach umowy z bankami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRG9obUE0UWNWY3V1OTJrQ0MtRV9pTUhORk03Q3hOU0ItVGNBVHRCVHNvZUJyTll1QVFUT1BNbkFtZG9MOEg1SjZ3aklVb052dWRwNEt1UmpBOVRSZzh4eHIxOVJrNEF4QVh1aGEtNzgyazdYOVNaV1JaWXhZRjhONUVKa3ZQM1ZJR3NHSDRyNi1GSEFjenNRSm4zalVGS1d1eFVTMDVibWFOOGhhcnJfd01aR3VtdGRmYkhWMmZFekxXSUdPN3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e2c724f10742bce8ac",
@@ -205,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bf926c6dd3fff1b88d",
+      "date": "2026-10-30",
+      "title": "Enea ma umowę dot. programu emisji obligacji hybrydowych do kwoty 5 mld zł",
+      "title_pl": "Enea ma umowę dot. programu emisji obligacji hybrydowych do kwoty 5 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRGZqbUxacjU1R0RlajZWQVZjTF96OEoxLUkwMWdneENwR2I4SXB5d0NmSDViRDZHdmdnN2M3YUdIMXFsZG1NanFwTjl6d2JNN2hGQXJfVXI3SlpGdW9vLXdTQ2V2Y0MteTdNWkY4S0ROQ3g4cXhyclZwNjRLWG1ZSTRJTjhkeEdtSTRQNWJ5UG85WWtzZUhFNXJuc0prTjFydXcwc2IxM1oxV2R1X1lYTXBVSzNsZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b5129647f916b3abff",
       "date": "2026-10-30",
       "title": "Ten kraj miał nadwyżkę energii, a za chwilę cena prądu może wystrzelić. Jest jeden powód",
@@ -229,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-abf7e019efff6d27a9",
+      "date": "2026-10-30",
+      "title": "Energa ma potwierdzenie operacyjnego kamienia milowego dla bloku CCGT Grudziądz 1",
+      "title_pl": "Energa ma potwierdzenie operacyjnego kamienia milowego dla bloku CCGT Grudziądz 1",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEN6d1lPZTdZaldILWJSZkpLakd4YlFta1E1OUNaZFBhc0htbXJ6c1dDUERJRmgwQ3QybVh3LWFVaHE3UFczVnU2VnAtcWVORHluQ1lVUjh0Y3dLU3lNeEYyOXlQNDc0ZnVKUlo5LThybFlxZHlwYmhEbmxBMlI1RTVqUjZQYk9iLWJHVERBYjlYRWRDY0hZME5EOGVrWktEaVRXUXBCWlNIUFNGR2YwVjdtUkxmQWw3Vld0MlBuemVIc3M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -263,6 +379,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-920ed077219551117a",
+      "date": "2026-10-30",
+      "title": "Polska buduje własną potęgę energetyczną na Bałtyku",
+      "title_pl": "Polska buduje własną potęgę energetyczną na Bałtyku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW04UVI4QkVzUHZaNkUzRDd4cWNiZ3VzdndWU3dtMkcxNTN3eW1ZalZoRkdacG9YNVNsVFdiY1plRV85VnlOTnpUeUN4UERidXV1YllMUTNBRlBwRnVyT2FJMGtNc0YzMGpWMTlXeHh1cWhOUll5MmdUNzRDX3diN0k1XzFxQjJjTjJYZ0M3RDZmSG5ESVpGTlBranBnUFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-88ab8325a0f8867b1e",
       "date": "2026-10-30",
       "title": "Polenergia RES subsidiaries sign conditional loan agreement",
@@ -290,6 +435,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-84d20dba2bdae7f62a",
+      "date": "2026-10-30",
+      "title": "PGF przeprasza PGE. Nazwa mogła wprowadzać klientów w błąd",
+      "title_pl": "PGF przeprasza PGE. Nazwa mogła wprowadzać klientów w błąd",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Spółka PGF Polska Grupa Fotowoltaiczna S.A. opublikowała oświadczenie, w którym przeprasza PGE – Polską Grupę Energetyczną za używanie bez uprawnień nazwy swojej firmy i skrótu „PGF SA”. Przyznaje, że klienci mogli przez to pomylić ją z największym koncernem energetycznym w Polsce. Podobne nazwy firm to…",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/pgf-przeprasza-pge-nazwa-mogla-wprowadzac-klientow-w-blad/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-82fab2060299d3dade",
@@ -8285,7 +8459,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnZfaXJnZk0wWXhQa2NjQmFSYmxWVVg1V2pWcmZPX2QyMEUxVzlCZUFXWTI0SU90dWd5dEpnU0FSajVPWXFxZUtLUjRuNDZwaFAxU2hsTWxWSWsyLTlmRFhxSUJmVXRjQXFNeTItWElDMUgxRlhGUzl1bG9qR013aGJseGJXV3Rocy04d2NYTlhhNnJzd1BqdE9DdlowSlU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnFLYWNxT0N4NkNqNWl6YXg2NjNuRnV0TENBemJOMVl1LXAzYWtjYnlaYzdOVEdUaHo1aFFENnZFWXhUMVhhc2hVQ2hubkpNTDBvMDY2TmFlTUJvWXFLdDhya3BzRDlwanBROFBPM1JKTEFhYWUzbzFYYlR0VVBESWZxQVU5UDRKeFd0anBtRzVxbUt3WXJJUmwzOVJIYTlETmlqMzlWbU94ZUtjMEJWNzdJQjNwdlNvUmlyeVVCRTZBTEk?oc=5",
           "type": "press"
         }
       ],
@@ -8293,7 +8467,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
