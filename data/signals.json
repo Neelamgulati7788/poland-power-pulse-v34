@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:38:47+00:00",
+  "updated": "2026-10-31T17:35:46+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -1189,6 +1189,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d7eaeb48d034f3a2ce",
+      "date": "2026-10-30",
+      "title": "Polskie samochody elektryczne coraz bliżej. Prezes Foxconn: wybraliśmy wasz kraj na bycie naszym hubem technologicznym dla całej Europy (MediaRoom)",
+      "title_pl": "Polskie samochody elektryczne coraz bliżej. Prezes Foxconn: wybraliśmy wasz kraj na bycie naszym hubem technologicznym dla całej Europy (MediaRoom)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnZpdE93S1ZVTE5qSU5zTEpNNzZKaDEzTS02Qm9WR0JxbjFEZVNNSm91WWtnemVfVm12Y2lpakxZLW16aTVOMWJYUXlCSm1KWlAtUVN1bkkzbkJEV0M5ZzZmVERZajlPMGxNQXdTNGRRMDNiWkNkcGY0ODFKQ2lRdWRXendKTkZHdGlTYkZJUEw3b0w3V3BpZXVlZEFyMFdGMmpOVWtJTDR0WU55OVVWZFU5NVduUzhnNWkxSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d199e05cf49e366d71",
