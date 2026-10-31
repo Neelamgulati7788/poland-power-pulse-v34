@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:17:50+00:00",
+  "updated": "2026-10-31T20:06:28+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -379,6 +379,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6b74698e42e7d5b323",
+      "date": "2026-10-31",
+      "title": "Ceny prądu na giełdzie zaburzone. PSE ostrzega przed chaosem",
+      "title_pl": "Ceny prądu na giełdzie zaburzone. PSE ostrzega przed chaosem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnRFUmNDRkVRMnRWRS0wUjFmVjllUDJLek5OU1l2LTd0WVFzRzJOS1RZdWI5MUtmbzhkTldsYWlMWmF5dnhkQ2NCczZ1NEVZQUhMUkVDNGwzNE5UcmFsOW01N19VVzRubjc1eXp5UHJNNjR1LVJJZ3hLUV9ncVBDSjUzOVJJS1ZQZ0hUVUtKakJPcXhuek82cC1ROXFuanhnc2I2Vnh4MDc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-692fca910fa513a28c",
       "date": "2026-10-31",
       "title": "Kryzys na rynku gazu. Co planuje polski rząd?",
@@ -408,6 +437,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5dd92e595cb742bcb1",
+      "date": "2026-10-31",
+      "title": "Poprawa efektywności energetycznej budynku Szkoły Podstawowej w Kiernozi",
+      "title_pl": "Poprawa efektywności energetycznej budynku Szkoły Podstawowej w Kiernozi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MIASTO I GMINA KIERNOZIA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3785-a44a-8971-e2d6-6b000120bbbe",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-56ec25e802bd5a46d8",
       "date": "2026-10-31",
       "title": "Polish president in physical confrontation with judges amid power struggle at constitutional court",
@@ -432,6 +490,64 @@
       "reviewed": false,
       "sourceIds": [
         "30"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-52ed673b4d27138ec6",
+      "date": "2026-10-31",
+      "title": "Wykonanie dwóch magazynów energii",
+      "title_pl": "Wykonanie dwóch magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGpiRl95RG5KN2hXOHVhOUctOHdOMVIxMU0yN3NEcTAxejhZY1RvaWJYd2JfOF9KbjdWUm1CYXBtektzanZqc3VUdWlCRlpQZWNwSFFMc2VBWDduZWVyeUwxbFZrVzhHd2x5UkpXS0p1Mm5BTEYybGpVV3NqdE1FbTNaX0ZTQkNyc3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-49700bff8051f76d50",
+      "date": "2026-10-31",
+      "title": "COAL ENERGY SA (32/2026) Consolidated Report on Payments to Governments in FY2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWVCQjVjaFhLRXd3aHRveWxfWFhhekFJNFJVeGdxVEs5cXNNSlUtQVBsckZYNWF6UlhwTEJGN2RHSURmaGlVMjBnZ1h3TDJQWWViY0NQeWhNcUFvM2I0UHZ4QmdRdlRYSDJaZlFFVGlMem8tOEdvak9yQ1BOREtLZDVwRTRkSVcwN3cyUG5SZFlCSlotajItaXpXd29HNjN5WGZ5R2l2dGFvOEVC?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -553,6 +669,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-06bf81a66f83946553",
+      "date": "2026-10-31",
+      "title": "Jutro jem na Orleanie, wszystko pozamykane a Orlen działa",
+      "title_pl": "Jutro jem na Orleanie, wszystko pozamykane a Orlen działa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXFwSVE2eWJyeENvSDF0Znd2Y2UwZ2U2bjg0TnRSdmx1OXI0ZUJ4X3pJOENYa1UyTk5RandNZWs4U1JMX1Fjd0ZtTllwdzNhdkNiQ0ZvTWdUakFlUHRHWDZsUmdJYko1MnFOcG9aNEJoaVVnQ1dySnZ1YUNFU0ZveExfdFRYdHhUbnVuajlNU1ByazhoOFZMd0VJWnlTdmxtaVA0Sk1nOFc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ffeab85c3902876492",
       "date": "2026-10-30",
       "title": "Port dla gigantów. Jak Polska buduje zaplecze morskiej energetyki wiatrowej",
@@ -577,6 +722,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fe820dc25f10316712",
+      "date": "2026-10-30",
+      "title": "ORLEN potwierdza duże odkrycie gazu w Norwegii",
+      "title_pl": "ORLEN potwierdza duże odkrycie gazu w Norwegii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDFWNEFLTnc2MGN6bkZvY0E2aFpHTWtramM4d1FpaVBNMmc3SWxNMkpRWWZqM0FVSlBSY056eEh4X1VFQTZqVk9WZHd2XzlVM0ZpdFNTWGl3aUwwZzRWWFRQQnFOei00eDlIaEhUTzFHU2sxUkJXQTlXdUFaX0J0UXdVM1hSYVlCRkFfZnR2VXJjNWVzVURHbGxjVnhIT2Z3Y1BUZ1c5cUV1bGYtUGhsb0dWanF4ZW5oSmhWOHNuYzFRVWZicjBWQTk4R0hJWG8?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
