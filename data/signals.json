@@ -1,6 +1,64 @@
 {
-  "updated": "2026-10-31T06:51:45+00:00",
+  "updated": "2026-10-31T07:52:58+00:00",
   "signals": [
+    {
+      "id": "src-cf5343963e72fb7467",
+      "date": "2026-10-31",
+      "title": "Znicze fotowoltaiczne. Jak działają, ile naprawdę świecą i na co uważać przed zakupem?",
+      "title_pl": "Znicze fotowoltaiczne. Jak działają, ile naprawdę świecą i na co uważać przed zakupem?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkw4QVVNRWN0dkYxTFRsUzNJSDVJTGtSYkVxSW5PMlpmeGZGS3J5WVdoaG9YXzBFUE4yeHZYQmhwc2JWdF9sLTZvc1hMUTJHRnhYSXZpYVlJdW5CLTdZM004UzAzUnZSMUhiZU1xaXlXeGotbWNmcUFyTFdCVWgtTlBUVHhIMElqaHJhNVlLYXFPRmFpRDBzRlJWZk1iMHVSdTVzQUNkZWFab1RkeDMzY1lBUnNDT202ZU9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c70d1ccc4a12c27f0e",
+      "date": "2026-10-31",
+      "title": "Opolskie: pierwszy powiat w kraju otrzymał przewoźny magazyn energii",
+      "title_pl": "Opolskie: pierwszy powiat w kraju otrzymał przewoźny magazyn energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0dvN3FveUZubnE4UVRWQ0UwNlNPX1VHeEZsYzRoRHRMdWduRmkydGR2Mk9ja05jNUVTdmFCQkxoZ20ta1lFckxxMl85NmZINzdLVm1fTWN2c2p1Y3dTVDFlTHRYRUdHU2k3aGRwdkxXNkRKWENmbDhwYks4Y0lRaFRLNUdTbUNwYjJ0NF91Vl9RVmo4TzlISnMtXzBxRFFxa3VPMHFKdzA2YVNRcmZGeEtpeWdLbVYyX3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-a89079ac0a69d17c1c",
       "date": "2026-10-31",
@@ -435,6 +493,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e8518e59bd6ea617dc",
+      "date": "2026-10-30",
+      "title": "Rząd w pierwszej kolejności pracuje nad rozwiązaniami na rynku gazu – Motyka",
+      "title_pl": "Rząd w pierwszej kolejności pracuje nad rozwiązaniami na rynku gazu – Motyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSi02NHhXUWdkejJzNW9BTE1oLWZ3UXpmdjExZEtWeDY2QTYwSVpzNXQ3YW9YWkZpX2NxQVM2Z1FxdVR5Rkt4QTdpMlRYQlJZenlDUUtLSWVUMlF3T2pWZVhodXRUeTRxV0VqOHp2OEQ4TVlyOVpwM2V4MXhoeVN1UnMwQzE0SE1fa1NDLWpia1BYel9HcmdyNTZSMV94NnlOX3VaeVZ5VmxldnZhdms3cER4S1VxZGEyTVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e4ca70812cfbeec0f1",
