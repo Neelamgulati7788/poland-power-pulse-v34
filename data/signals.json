@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:38:10+00:00",
+  "updated": "2026-10-31T00:58:06+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -328,11 +328,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W strukturach Polskich Sieci Elektroenergetycznych powstanie wyspecjalizowany zespół CSIRT Energia, który będzie wspierał spółki z sektora energetycznego w reagowaniu na cyberzagrożenia oraz koordynował obsługę incydentów w tym zakresie - poinformował w piątek operator systemu przesyłowego energii elektrycznej.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG1LNHpfN3VSWVc0WS1jZjZqa2ZMVVFrODIwVVk4dzRXQ2N4VmVQbnk2SnNSb2VDSElwQ0FCbWdXWEFNQUp4bm9iN3NmbllMR0hGbExTVWNuS2Jac3JOeDVhU1E0Qng3cWdKTlNncF9qWk45NUVZRlBnX3FrajlBOVZVc3F1NWJ6d0xSUE5aQW5sQ3p1ODhGaG5JU2VILTk1VFBjc0VJbTA?oc=5",
           "type": "press"
         }
       ],
@@ -341,13 +341,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e8751820bc1e597d0f",
@@ -622,7 +622,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZVNTZVZwVnR3OVRMTGk0T0l5ZU1PRmRROHpnTWZZTURzNEQtTmgyMnJoM0lPVzdwUEJOYWhxN25FYVdQQjFPYktvYmVVcnJwYWZBaVdGZ3J5cGUzRHMySklJeHVqZlNpUVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVY1RPNXcwNnJXcEh0QS1zd1YzSjNIUlhRXzNUajlMZEJfdTh5WnNJZUg1cEczT2tCM0dkYzVvREtXYlVfWnp4VVJBcDlOYU5SNFJNTFRTazdhUXN3elJBdkl6Z3UtZ1FMOXc?oc=5",
           "type": "official"
         }
       ],
@@ -2672,6 +2672,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-48f804e69cc39d54bc",
+      "date": "2026-10-30",
+      "title": "Magazyn energii kontenerowy",
+      "title_pl": "Magazyn energii kontenerowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTndPM1BjMGRncmozNGJrQy14YmZPd29sc3J3T0tQeUpwZnZ0eU9FbWRPNlk1UGFSaUdDdThmQzZzMHZfZVVrd1d6SHFDTlJZOWhPZFh6bktZVDY4TjdPbzNrSUNxOTJmdktaVThHdUJmb2xZazJkbzNKRzd4V3JRSlVkcDh4Yk02?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-48c65aedebc2612f9f",
       "date": "2026-10-30",
       "title": "Różnice w kosztach wydobycia węgla na Śląsku i w Bogdance",
@@ -3484,6 +3513,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-059db5bec00e03a803",
+      "date": "2026-10-30",
+      "title": "Pierwsza taka sytuacja w Polsce. Dostali mobilny magazyn energii",
+      "title_pl": "Pierwsza taka sytuacja w Polsce. Dostali mobilny magazyn energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWktTTdQSjFWdFdkTmZ2NHVwNnd0S1VjUmRkSnR0dnF2VWZES0lkR0NhWV9acHJZU2R2M19OV2cxZFhhdmtORUtLcnluaE5aY09RcHFuMnlfQ01MSlByR1VRVTE0bWpndnh5TGZ2aXVoMXpUd2hjMjRJN0wwR0pXRTBvZTVWQmJsMHBFZUw1MjIwZWphemlOellURDNoYWJzWThCa19NRzRyUjVPZ2ZfQ3FfSTlCVWRp?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0240fcb4dad6391022",
       "date": "2026-10-30",
       "title": "Polenergia z 1,35 mld zł na rozwój i refinansowanie",
@@ -4147,6 +4205,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c9aad5f1cc25b9dd5e",
+      "date": "2026-10-29",
+      "title": "Orlen odkrył ogromne złoże gazu. Dwa razy większe, niż zakładano",
+      "title_pl": "Orlen odkrył ogromne złoże gazu. Dwa razy większe, niż zakładano",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQei1BOFFvNEprSFlVM2otVVljaWhXQ01SOXROeXdzaHNSc1pZVnNGZTdLWS1YMVRvNGctMUhkZDdwZUdHS1FGcGVsRmFLeml3cDZvbnUwT0w0N2VDSGJLUDV0dXZTa2sxUnUtN2l4RVozelFCcUdPX1JsQTdCYUJSZ3RRNk5HSXhZeHJmbklfWGlCOWhBbENkM0lhd1BlanZWYVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5208,7 +5295,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWlBiX2g3RVh3b2dWSkJUeHFpNnBvemZfR2gxVWlTWnExcW5LNHRrcHJiSmJCYUtVMTR6VWpCZE9HaVFVejhBT2E4NEg1LUFhdVFZUHN0YkZYZjhGZ1pGTmdMenR2elBYdFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcFNKaFFUY0wycFpka2kyMGpSOGZsb2h0VkdPYU1Ub3YyZ0VKUlZJZk1mNGpESXRMS1VxV3NSd0xIbnFkSWJ0amhvYkpEeGh0Q2U2eDlZWlltcWRSb2RFSkEzTW1SVnZCdmc?oc=5",
           "type": "official"
         }
       ],
@@ -9301,7 +9388,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbDgxTFNNbVRkd1ZMZFhvdXJXX01EYXAwbmNCakJKUmJLWXd1THRxOWIzWW1UQUxHNUt3bG83dTVpa05ySGFjLTBRSGlNczZvbDdpYy1HYnJuRnFrbGxHa1NqM2xjdDhBYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55dHY4VnZuS0RlVXVBX0FDUXU3emU4Z2NEOGZfTllCckw2am56Y1NWM2VFVDVkMm5qRDYtRVI3Z3NHcnBDT2FWbHNxcWlCUUYzc3FDMFpvdW1JUUJFRWdqUTdGSUwwQ3l5TGc?oc=5",
           "type": "official"
         }
       ],
