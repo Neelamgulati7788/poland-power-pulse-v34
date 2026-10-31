@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-31T04:44:26+00:00",
+  "updated": "2026-10-31T05:41:07+00:00",
   "signals": [
+    {
+      "id": "src-a89079ac0a69d17c1c",
+      "date": "2026-10-31",
+      "title": "Niewinny gadżet, potężny pożar. E-papierosy i szczoteczki puszczają z dymem sortownie odpadów",
+      "title_pl": "Niewinny gadżet, potężny pożar. E-papierosy i szczoteczki puszczają z dymem sortownie odpadów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powszechne stosowanie baterii litowo-jonowych w małych urządzeniach oraz brak wiedzy, jak pozbywać się elektroodpadów, sprawiają, że z roku na rok obserwujemy coraz więcej pożarów w zakładach przetwarzania odpadów - powiedział PAP Henryk Buczak, wiceprezes zarządu Grupy Biosystem.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Niewinny-gadzet-potezny-pozar-E-papierosy-i-szczoteczki-puszczaja-z-dymem-sortownie-odpadow-9218130.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
     {
       "id": "src-ffeab85c3902876492",
       "date": "2026-10-30",
@@ -345,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e8b8af57d53a59d189",
+      "date": "2026-10-30",
+      "title": "Kryzys na rynku gazu. Co planuje polski rząd?",
+      "title_pl": "Kryzys na rynku gazu. Co planuje polski rząd?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc25faFJuajc0NDY0ck96a29qTkp1aGUyMFo5RGRiYk5kN21Ma1lqMjNabXc3WDczcWM3OUw5S3ctaHQtdXpzR25wSzk1Mk9vcHloSGg4bnJHZktCRW1zdFJMdGhVdXNNdEJWcElwMnNncEFwLWlHbk04LTB3VmY2bXlMdzFyR1ZuVF9uUUltSUNjUDc0M1lTcFJqTmhVQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1724,7 +1782,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDZWMERhMjBqYXAzZGZZVFBkREhGYTdCMU01OHRoMnVZaTJnbmpFTU5RRDdCMnJWWGhHd2MxWDdTVnhma0JhNHZDN2JlVm13LTluY3Nvb1IxZVBIVTRocmJ5aGhaZmJyLXJvblBKZ0xmR2ZmckZadXlNLWNCcGJDVGdZeUNjcjE5Rmw0N0Q4dVRmSWszcFJFX3A1RmVTZS12SmRPM3RWMTd3bVh3aU9raWRTWUxPcE9LX1QwaHBfVUFQUUY1VkxDSFBaZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC0zN3ZCREFhOHkzRnhxZkpOV3d6XzhYeG5rYk5mWjBFZU1lWDZPaGx5S2pBYmdzWnZ2MDVuSEQ0dC1IVTZvNnpqY0NDWjUwR0U4TXJZQ1lrX1FZUC1wTlE0LTRMTjZmXzgtR3o2dG5hbzVMX3hlR1l2TEg3b1J2cFlueHdmZmRQSHdEX1FzWm5ILUU2eFBIWHk0SUZ6dTZPYkdHcjZSeGtJcHBJcnlwVkNQdXZpOVJ5OUFMVmhXdk9Vang2R0RSSENfVUZHUzVCc3hkTHQwVV9qa1ozbEFQWHpUVQ?oc=5",
           "type": "press"
         }
       ],
@@ -1732,7 +1790,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://offshore.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
