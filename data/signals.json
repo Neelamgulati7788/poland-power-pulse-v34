@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T12:47:41+00:00",
+  "updated": "2026-10-31T13:46:22+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -200,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8ed66f23725e3791ad",
+      "date": "2026-10-31",
+      "title": "Ukraina pogrąża się w ciemnościach. Rosja zaatakowała elektrownie i podstacje",
+      "title_pl": "Ukraina pogrąża się w ciemnościach. Rosja zaatakowała elektrownie i podstacje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUcyT1hULXpYYndEVzlOalpjM0lCR2lUdi0zczlteFZSZHQ5cENnZ043UENkMGdHTTVWSkF5eE8wWHJ1RmI1Uk9obnphdm1RcTd1Tk9lTGtxV2RXdWhMYWRXY1BBVjVrTUZZWXh3WmtTMmxuRmZOaV82dHFMSHBBaU9FTzVBTDBDWDRybkpKckswWjNCOFJVcmtnMFgzY0c1ZmlPeDhNbHFHY0U0clBXY1VlY3ZkQWNwemJ1dzloVHhiaVRReTJB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3176,7 +3205,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamMyLW1RQ3lTLUc2a2UxWW5xWC1INndKQ3B6SEZ2a3V0aW5UWmlNcHoxQThEUkxPTy1RM3B5TnBiTk84QmtXUUtNUTg5ZzJhdTdJT2JxX0daTGRkRDQxMDlmQ2dUZ2dFUU54YlpnLTZrREdSYVpxMjVYR1NZMjZfTi1uYktFelpDMlVVejNjNUFLN0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmpHY29mb0g5UXB5MHlnQmhWU054Y2NHMDEzN29raGtqN2o4MmE2RVhPdTFfWjRMWW9kQUdDUUtkdDN6Yld2eENiaHBsQ1c1eFZFVG42T3RuMEJ4WkYxUnc4dklXb2FWc2tHUGsweGxPOVhha2pfTXlkQjVlMm1wVTV3?oc=5",
           "type": "press"
         }
       ],
