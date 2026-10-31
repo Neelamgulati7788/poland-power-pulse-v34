@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:37:46+00:00",
+  "updated": "2026-10-31T12:47:41+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -118,6 +118,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-abf925b7c96e088a06",
+      "date": "2026-10-31",
+      "title": "PKO Bank Polski angażuje się w rozwiązania finansowe dla branży offshore wind",
+      "title_pl": "PKO Bank Polski angażuje się w rozwiązania finansowe dla branży offshore wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmJWVkhjbVNMWS1aQXZ1dlB1Vk1ELVNEaUw3R0J4NmRsS1B4MXY3ZmRIamlYbjBHcFl6dkJIQ2diMEIwQXo4YzkxSWZRa0hfSkZFckxrYkN3aTRQaDd6YVpuY2xRdnR4b2xBTW5haDJzVFV3UHpHS2pTYml5b2psTHJ1SnFNcG5yOEdVOGtYSXpWd3FYRlp4aFRtOWVMZzZJMTVXTGZSWUZuV2drV3BlTDN0Um5xck13Qng5aldjMFlqT2tNbzJXQ1hhbFNLQ1IwNDROZEVB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://offshore.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a89079ac0a69d17c1c",
       "date": "2026-10-31",
       "title": "Niewinny gadżet, potężny pożar. E-papierosy i szczoteczki puszczają z dymem sortownie odpadów",
@@ -200,6 +229,93 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-692fca910fa513a28c",
+      "date": "2026-10-31",
+      "title": "Kryzys na rynku gazu. Co planuje polski rząd?",
+      "title_pl": "Kryzys na rynku gazu. Co planuje polski rząd?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc25faFJuajc0NDY0ck96a29qTkp1aGUyMFo5RGRiYk5kN21Ma1lqMjNabXc3WDczcWM3OUw5S3ctaHQtdXpzR25wSzk1Mk9vcHloSGg4bnJHZktCRW1zdFJMdGhVdXNNdEJWcElwMnNncEFwLWlHbk04LTB3VmY2bXlMdzFyR1ZuVF9uUUltSUNjUDc0M1lTcFJqTmhVQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-56ec25e802bd5a46d8",
+      "date": "2026-10-31",
+      "title": "Polish president in physical confrontation with judges amid power struggle at constitutional court",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGhOMC1JN1duMzlpNDRSQi1hLVJtaEhzN2c5VEd5eTl1elVzNDN6NVhOQlNQQnd1OVhfdUN4THEwR2xzNVRkZkUwMVN0SFlqUWwycjhBRHBBb1VRRWZ2czZlSHpydDBiY0F0X3ZQS0hvTlpWc2J3Tm01TlVremZfbEticHBQbWlRZVg5aS10bzFoOUctSkUyUzUzU0FxWTRwWFRMQ2FKT1h6RTh4YUNJYU5JdkF0QVh3R0FsVDNiV0NfMldWM2stMjdXdlhIUWJCdEF2VQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-10e0200669d8ba93db",
+      "date": "2026-10-31",
+      "title": "Za 4 lata kominy Elektrociepłowni Wrocław przestaną dymić, to będzie koniec węgla",
+      "title_pl": "Za 4 lata kominy Elektrociepłowni Wrocław przestaną dymić, to będzie koniec węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQenVfQ0JsUl8xNUFwQlQ3QTFVcnBZYXQzZ0l4bGtTUEZFUFJjLS1Ud25uMVd3QnpPblZITEhSNGVtT3pXaTNPSVBuLVRyV0FQWTBWM09aTFFXRnJmSmVTbXFGOFZOcjRINzlhM1E3QWExTG11ZGNSWl95S0F4VHBxNTY4YVo2X29IbXhFODgzQVg0MkZ4Sk1iVkpWRDBveFI2eFBGOXpQSmgwTjZsRmEtNWFsbnFlTEhMWGp0Q3hJc2FoLXB4NHpua2cwSzhSZWlfZ3pHRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1679,6 +1795,35 @@
       "reviewed": false,
       "sourceIds": [
         "47"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-94296805bf1e1f88c1",
+      "date": "2026-10-30",
+      "title": "W PSE powstanie zespół CSIRT Energia do reagowania na incydenty cyberbezpieczeństwa w energetyce (opis)",
+      "title_pl": "W PSE powstanie zespół CSIRT Energia do reagowania na incydenty cyberbezpieczeństwa w energetyce (opis)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYU85RGJoR1lBQ3JWNHVuOU5iQ2kzVGN1RkJpT0swRUdDaW1ZbW9peFdSR0ctcjl2WnQ1WmNxOC02b05BY3JDd2FzbWJRMGF3SDUxaXNwcnVXM1A2RVdVVlZWa2ZnZTJiY2FFOUlTeVJFc2VVdjctSnlLQV9IVEFSdHFYTWRFWXY0QnBXNnN0NF95QjdMeERjWHF1LUdtM3dyRVdNdklSQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
