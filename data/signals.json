@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:49:13+00:00",
+  "updated": "2026-10-31T03:44:54+00:00",
   "signals": [
     {
       "id": "src-ffeab85c3902876492",
@@ -751,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bfe8bbac3e15f86736",
+      "date": "2026-10-30",
+      "title": "COAL ENERGY SA (31/2026) Audited non-consolidated annual financial report for FY2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2dhNXFNazFrUnRsNVNHVWlOS3ZxbkdBOVVnejVEQmY5NEtEamZTUnpndTlxck84ejMzWTJpeXlqZWU0ZWhkbjFYUW1SdUJoRm0za0JMZ01DeVNndFEzQTJpR3BIa0VDdzBrMDlsSzVZbndRQ085aUdrcjVfbThybk14MTNUajg3cFlKYVFQaEZpVWo5NUdaZXM2TnA2V0ttMm0tb3FBc1Jib0FqeEFyRVV5ZDZwazQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
