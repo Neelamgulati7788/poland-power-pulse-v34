@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:06:28+00:00",
+  "updated": "2026-10-31T20:40:36+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -232,6 +232,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9aebd860226d3b47bb",
+      "date": "2026-10-31",
+      "title": "\"Dostawa samochodu elektrycznego dla Centrum Alzheimera.“",
+      "title_pl": "\"Dostawa samochodu elektrycznego dla Centrum Alzheimera.“",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "CENTRUM ALZHEIMERA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df378d-c427-5b40-e2d6-6b000120bbcc",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-97bf8bff4ff391208c",
@@ -4006,6 +4035,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-35927d65a3ee7203cd",
+      "date": "2026-10-30",
+      "title": "Rachunki za gaz mogą gigantycznie wzrosnąć. Tak rząd planuje pomóc Polakom",
+      "title_pl": "Rachunki za gaz mogą gigantycznie wzrosnąć. Tak rząd planuje pomóc Polakom",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDhLN2hZT1lReVBiQ2ZhSjQ2alBXZm14TnNJeTRlbjlsVEc0aXk3VThjb1hfbldUcHF3ekRSb1d5N1MtV0F0Ry1abENIRW5ndE1hRkdHemttdzFXeFhJZWVKTmdUM1o3OUJheTdiZEUta2lXWnBhamppU09zWW5RYmZLaUlmMTR2RjZsaXdLLTVmQ2JuWmFMdGFEMzRQUjYxOWNBZnNreFJWSmNHOEhhNFdyTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-33bd70012fb346a730",
       "date": "2026-10-30",
       "title": "Fotowoltaika na dachu… ciężarówki. Ma obniżyć koszty paliwa",
@@ -6674,6 +6732,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-78eecb5b514641f67f",
+      "date": "2026-10-29",
+      "title": "Enea power signs agreement for hybrid bond issuance programme of up to PLN 5 bln",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG9OTHFpTHBaY0ludm9Fa1BDc2hEMWZPY0MyUHJ6U1RrYk1XSVhNYkFHejlRM1Vja0MxYXB3bkZiNkFldE8tS2xWeWtobGRoVmROSDhtSlJoNlBYRWxiaEljaTlVQUlyX0RnY2JnWVRsVFdSVGV1RHB2VUZodXFORG5FcF9CelhOTlVQckRyZ0pFWXdVSDNnY2dQVnRVVllXR20tUVFSdmVlUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-78311b834cddb29aba",
