@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-31T01:57:17+00:00",
-  "lastSuccessfulCollectionAt": "2026-10-31T01:57:17+00:00",
+  "checkedAt": "2026-10-31T02:49:13+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-31T02:49:13+00:00",
   "status": "partial",
   "successfulSources": 71,
   "totalSources": 72,
@@ -35,8 +35,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -62,8 +62,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -100,8 +100,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -127,8 +127,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -154,8 +154,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -164,8 +164,8 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://api.sejm.gov.pl",
-      "status": "success",
-      "coverage": "direct",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -173,26 +173,19 @@
           "method": "prints",
           "url": "https://api.sejm.gov.pl/sejm/term10/prints",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 3513,
-          "matched": 0,
-          "coverage": "api_metadata",
-          "limited": false,
-          "note": "Latest API result window; not a full legal or procurement archive."
+          "status": "error",
+          "error": "The read operation timed out"
         },
         {
           "method": "processes",
           "url": "https://api.sejm.gov.pl/sejm/term10/processes",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1764,
-          "matched": 0,
-          "coverage": "api_metadata",
-          "limited": false,
-          "note": "Latest API result window; not a full legal or procurement archive."
+          "status": "error",
+          "error": "The read operation timed out"
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
+      "error": "The read operation timed out; The read operation timed out",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
       "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
       "windowStart": "2026-10-29"
     },
@@ -219,8 +212,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -257,8 +250,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -295,8 +288,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -322,8 +315,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -349,8 +342,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -369,15 +362,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 58,
+          "entriesRead": 100,
           "matched": 0,
           "coverage": "indexed_discovery",
-          "limited": false,
+          "limited": true,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -402,8 +395,8 @@
           "note": "Market-data endpoint checked. This row is not a headline source; PSE news is monitored separately."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -429,8 +422,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -467,8 +460,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -494,8 +487,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -521,8 +514,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -548,8 +541,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -585,8 +578,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -612,8 +605,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -649,8 +642,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -661,7 +654,7 @@
       "url": "https://www.gramwzielone.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 28,
+      "matched": 29,
       "latestPublicationDate": "2026-10-30",
       "routes": [
         {
@@ -669,15 +662,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 58,
-          "matched": 28,
+          "entriesRead": 63,
+          "matched": 29,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -688,7 +681,7 @@
       "url": "https://www.cire.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 21,
+      "matched": 19,
       "latestPublicationDate": "2026-10-30",
       "routes": [
         {
@@ -696,15 +689,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Acire.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 56,
-          "matched": 21,
+          "entriesRead": 49,
+          "matched": 19,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -730,8 +723,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -761,15 +754,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 7,
+          "entriesRead": 8,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -795,8 +788,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -807,7 +800,7 @@
       "url": "https://www.bankier.pl",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 12,
+      "matched": 11,
       "latestPublicationDate": "2026-10-30",
       "routes": [
         {
@@ -826,14 +819,14 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 6,
+          "matched": 5,
           "coverage": "indexed_discovery",
           "limited": true,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -859,8 +852,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -879,15 +872,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 4,
+          "entriesRead": 5,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -923,8 +916,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -950,8 +943,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -987,8 +980,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1014,8 +1007,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1041,8 +1034,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1075,8 +1068,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1112,8 +1105,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1149,8 +1142,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1179,15 +1172,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 23,
+          "entriesRead": 21,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1223,8 +1216,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1233,8 +1226,8 @@
       "group": "International media",
       "language": "Multi",
       "url": "https://api.gdeltproject.org",
-      "status": "error",
-      "coverage": "unavailable",
+      "status": "success",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1242,13 +1235,16 @@
           "method": "gdelt",
           "url": "https://api.gdeltproject.org/api/v2/doc/doc",
           "language": "Multi",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "api_metadata",
+          "limited": false,
+          "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-30T12:54:56+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-28"
     },
     {
@@ -1274,8 +1270,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1301,8 +1297,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1328,8 +1324,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1355,8 +1351,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1382,8 +1378,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1409,8 +1405,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1447,8 +1443,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1467,15 +1463,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 43,
+          "entriesRead": 35,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1512,8 +1508,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1550,8 +1546,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1588,8 +1584,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1615,8 +1611,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1627,7 +1623,7 @@
       "url": "https://www.orlen.pl/en/about-the-company/media/press-releases",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 7,
+      "matched": 6,
       "latestPublicationDate": "2026-10-30",
       "routes": [
         {
@@ -1635,8 +1631,8 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 71,
-          "matched": 33,
+          "entriesRead": 52,
+          "matched": 29,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
@@ -1653,8 +1649,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1673,15 +1669,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Amedia.tauron.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 2,
+          "entriesRead": 3,
           "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1718,8 +1714,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1756,8 +1752,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1794,8 +1790,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1821,8 +1817,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1848,8 +1844,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1886,8 +1882,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1913,8 +1909,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1940,8 +1936,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -1967,8 +1963,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2005,8 +2001,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2032,8 +2028,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2059,8 +2055,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2097,8 +2093,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2135,8 +2131,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2162,8 +2158,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2189,8 +2185,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2216,8 +2212,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     },
     {
@@ -2253,8 +2249,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-10-31T01:57:17+00:00",
-      "lastSuccessfulCheckAt": "2026-10-31T01:57:17+00:00",
+      "checkedAt": "2026-10-31T02:49:13+00:00",
+      "lastSuccessfulCheckAt": "2026-10-31T02:49:13+00:00",
       "windowStart": "2026-10-29"
     }
   ],
