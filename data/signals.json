@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:41:07+00:00",
+  "updated": "2026-10-31T06:51:45+00:00",
   "signals": [
     {
       "id": "src-a89079ac0a69d17c1c",
@@ -435,6 +435,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e4ca70812cfbeec0f1",
+      "date": "2026-10-30",
+      "title": "Kurs gazu w Europie ponownie powyżej 100 EUR. Powodem obawa eskalacji wojny na Bliskim Wschodzie",
+      "title_pl": "Kurs gazu w Europie ponownie powyżej 100 EUR. Powodem obawa eskalacji wojny na Bliskim Wschodzie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2pObVZjYjZwVFBFLVlocGxkY0RUdzNPRWNiLVRUdlZHVTJEVjFuYm5paUJMcGRwME53RENlT1k3dGNtNmFYbHJmWlNPZWRiMVVVSzh0REFyYTJDbUNYUnRzRG1vbXRRT29RZzZaRXIwVXhySXJUOW82UTlGaTFwWXNNbjFGVTlVbW1aNEFiZ0lvYmxUcU40NkdicVp5ZU1wcE5wX3NMRnpfbDMtVlMybDZZelF4OV94bU4zeXN3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e32a6ccefaa6858fe9",
@@ -2583,6 +2612,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-509563aa29b36cef6d",
+      "date": "2026-10-30",
+      "title": "DB ENERGY SA Raport okresowy roczny RR",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2U5SzNmTnRoUTB2Tk5DWjZXMFl1dkRRYWxMbG05LUVsWDJEamxvUlE2UDJhRmhlU2ttc1RmVDhkXy1OWGZBWmJRTFAzS0dMZjVFWnpwQzdabmpxRENIeFpNWEVnYi1DV2g0cVpGYUVoOWVXUHlfVEloVGRkOFVXeW05X0F0MUpy?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-500c55e78be3039a20",
       "date": "2026-10-30",
       "title": "Dostawa zestawu spektrometrów Magnetycznego rezonansu Jądrowego (w tym NMR 600 MHz) na potrzeby projektu „W kierunku interdyscyplinarności i integracji z otoczeniem społeczno-gospodarczym”",
@@ -3346,11 +3404,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Szwedzki operator sieci przesyłowej Svenska Kraftnaet poinformował, że w piątek po południu doszło do awarii podmorskiego kabla NordBalt, łączącego Nybro na południu Szwecji z Kłajpedą na Litwie.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Znow-niespokojnie-na-dnie-Baltyku-Awaria-kluczowego-kabla-energetycznego-na-Litwe-9221415.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc19KcEZINXRhaGNiemNsbmpSXzItbTVKckNTbFRqMVFOX1JsbXZnTFVGdWcwNzR2Y2MtQ2FPQUcwdjBvSFBMeEwxNl8tbXVnQ1VzMk8zaVBzV3F1LU5tWDhibXZ3dkRRZnBtbkEwSnE1Rm9zUDR5X1U3ODhsVHlRQUhRREIxMmNQay1iN1F5REtjZEpsSTk0LWc0dDlPU29qT045S1g3RXBmSm9ZcThyeEpfMnFnZXdwQm1WTGVtekVPWGppR0E?oc=5",
           "type": "press"
         }
       ],
@@ -3364,8 +3422,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-18e387068ab90f45d1",
