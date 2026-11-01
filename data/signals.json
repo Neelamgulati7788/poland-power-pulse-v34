@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T05:47:07+00:00",
+  "updated": "2026-11-01T06:56:11+00:00",
   "signals": [
     {
       "id": "src-fafa3272f65514f657",
@@ -693,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-235894ba0a87cc38a3",
+      "date": "2026-10-31",
+      "title": "Ataki dronów na port Ust-Ługa mogą opóźnić dostawy węgla z Kazachstanu do polskich ciepłowni",
+      "title_pl": "Ataki dronów na port Ust-Ługa mogą opóźnić dostawy węgla z Kazachstanu do polskich ciepłowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdDZnMkdha0hYaUhUYzB3N1ljTDBuR0lZMzgydE5CZ2pQbkpKMF9vUkhPZWJBSDJKZDFrVXo0QWIxdm9vMl82emkwdjRSemJWeFpZSWlFSkpMYzU0Z1U3Z0x1XzlQTG9TdlNlRVpUaU54VWx5dlIxbVlHalNTOW5temt0S1cxVGNONURLVUROc1poZWkyR19ZQmI1dmxXQ1NpLVdaMDJ0b25UMFB1VkVOdmZod0lQR1BaOWJBdVhqUk0wUHR3ZUxqMHhFam0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1766,6 +1795,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c792fdecaf678802a5",
+      "date": "2026-10-30",
+      "title": "Gdzie wyrzucić znicze solarne, LED i elektryczne? Prosta ściągawka na Wszystkich Świętych",
+      "title_pl": "Gdzie wyrzucić znicze solarne, LED i elektryczne? Prosta ściągawka na Wszystkich Świętych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0c5dmVDMktENGd3OTRKdlduWDZPdFI4ampfbW51eEx4XzlkNm9kVjJydFV1b0hVTEJXSThLalA3cFEtVVhzc2lVRFBiWndvX2lTVVEySTRCWjVjNWlDZjVDVGRCNHlNN09fckl1VEdNc2huR3JzaXE2OTY3dFNxOEFqLVNsMnBfYTI3ZkJ4czFkNlQyWGZNTGQ5dnhkVElpbE5vOXl1TzFmOXgyWlpuMzlVTndWV1R2Wjh5a1FOdlpCbWVUbDdfWTNrSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
