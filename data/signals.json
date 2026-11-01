@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-01T08:50:08+00:00",
+  "updated": "2026-11-01T09:45:05+00:00",
   "signals": [
+    {
+      "id": "src-c2e5a1d21df5b4f96a",
+      "date": "2026-11-01",
+      "title": "Tanie godziny z PGE - korzystaj z tańszej energii elektrycznej | PGE dla domu",
+      "title_pl": "Tanie godziny z PGE - korzystaj z tańszej energii elektrycznej | PGE dla domu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeWFDV2FpVGgzSEdzaGFwUThlczNaUWcwUGhfTjJIWXhmcnA4WENLdlQ4Wll4LWEyQnJKMEFhclBtc0MzRl9lUXpfdGFSTXcxSkw3NEcwM2Frck5sZTc3MkhhcE13eUE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-636e7bf17c7f50e4c3",
       "date": "2026-11-01",
@@ -55,6 +84,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4ddb73102db48e19d0",
+      "date": "2026-11-01",
+      "title": "ORLEN zmodernizuje oczyszczalnię ścieków w Płocku. Kontrakt wart do 258 mln zł",
+      "title_pl": "ORLEN zmodernizuje oczyszczalnię ścieków w Płocku. Kontrakt wart do 258 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRno4NFk5V0R2TUppNmFiTmRHeE8zdUdYYzJWa2Z2V25xdDBOaHppdmtKczB6ZUxvMjZQbng3bHR3Ylc5VE9Bdk11RDVhNExfQVVCZ1NsdmlIVHd2cDZreEMwY3JRU1dJZ2dlSk5jU05kMmVHTmV4d1ZMVnZkMnhKRldnRXkwUkthd2FEQkhDRXhnS19YaENORXJwXzJJUEdnY09PeW52V2xOQ0tpVDN2YWFzdjEzVnpnUzVweUlDUUtNVzk2QnBpRko1bUs4SXF5dm5MUllYMlJyM2tndXBWc2p3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3000,7 +3058,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1ZseC1uam45MDY1cVBHenVmelUyZ3AwRXdISVFOOG1wVUdhZllXTVdLdk8tYlQyd0NTU0RDMlBxVno4SEJGVmJxVVN5TGFmVEJMR0NFOEIzUWpZTG5XQ3ZTakliNzVPM2lTVFpnSXM0OFJzd1BDMFRBYzdFZXlhU0k3cFp6ai1MUmEyNnNYZXVSdGZ3cmVmMVRFakhQNDdtRk9DWmkyQ1VUb1h1azU4djBTeVp0RmE4ZlB2SXBfWXhsU0xBekFvWHR6RjF1WGJ1N3dBQTViZ2t4OS03?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC0zN3ZCREFhOHkzRnhxZkpOV3d6XzhYeG5rYk5mWjBFZU1lWDZPaGx5S2pBYmdzWnZ2MDVuSEQ0dC1IVTZvNnpqY0NDWjUwR0U4TXJZQ1lrX1FZUC1wTlE0LTRMTjZmXzgtR3o2dG5hbzVMX3hlR1l2TEg3b1J2cFlueHdmZmRQSHdEX1FzWm5ILUU2eFBIWHk0SUZ6dTZPYkdHcjZSeGtJcHBJcnlwVkNQdXZpOVJ5OUFMVmhXdk9Vang2R0RSSENfVUZHUzVCc3hkTHQwVV9qa1ozbEFQWHpUVQ?oc=5",
           "type": "press"
         }
       ],
@@ -3008,7 +3066,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://offshore.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
