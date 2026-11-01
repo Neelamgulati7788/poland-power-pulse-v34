@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:39:22+00:00",
+  "updated": "2026-11-01T17:35:35+00:00",
   "signals": [
     {
       "id": "src-ff5908d126cf951189",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c80b4e6d1e4545595c",
+      "date": "2026-11-01",
+      "title": "Poprawa efektywności energetycznej budynku OSP w Borowcach",
+      "title_pl": "Poprawa efektywności energetycznej budynku OSP w Borowcach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA DĄBROWA ZIELONA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df383c-0194-6ab1-e2d6-6b000120bc13",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-c5f5a78b21f37279ae",
@@ -3378,7 +3407,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC0zN3ZCREFhOHkzRnhxZkpOV3d6XzhYeG5rYk5mWjBFZU1lWDZPaGx5S2pBYmdzWnZ2MDVuSEQ0dC1IVTZvNnpqY0NDWjUwR0U4TXJZQ1lrX1FZUC1wTlE0LTRMTjZmXzgtR3o2dG5hbzVMX3hlR1l2TEg3b1J2cFlueHdmZmRQSHdEX1FzWm5ILUU2eFBIWHk0SUZ6dTZPYkdHcjZSeGtJcHBJcnlwVkNQdXZpOVJ5OUFMVmhXdk9Vang2R0RSSENfVUZHUzVCc3hkTHQwVV9qa1ozbEFQWHpUVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1ZseC1uam45MDY1cVBHenVmelUyZ3AwRXdISVFOOG1wVUdhZllXTVdLdk8tYlQyd0NTU0RDMlBxVno4SEJGVmJxVVN5TGFmVEJMR0NFOEIzUWpZTG5XQ3ZTakliNzVPM2lTVFpnSXM0OFJzd1BDMFRBYzdFZXlhU0k3cFp6ai1MUmEyNnNYZXVSdGZ3cmVmMVRFakhQNDdtRk9DWmkyQ1VUb1h1azU4djBTeVp0RmE4ZlB2SXBfWXhsU0xBekFvWHR6RjF1WGJ1N3dBQTViZ2t4OS03?oc=5",
           "type": "press"
         }
       ],
@@ -3386,7 +3415,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://offshore.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
