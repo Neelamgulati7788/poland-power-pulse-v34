@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T15:37:21+00:00",
+  "updated": "2026-11-01T16:39:22+00:00",
   "signals": [
     {
       "id": "src-ff5908d126cf951189",
@@ -119,6 +119,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-a5d9de21166853972c",
+      "date": "2026-11-01",
+      "title": "Tylko jeden kraj w UE ma gorzej. Koszty energii uderzają w polskie rodziny",
+      "title_pl": "Tylko jeden kraj w UE ma gorzej. Koszty energii uderzają w polskie rodziny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polska znalazła się na drugim miejscu w UE pod względem kosztów energii elektrycznej dla gospodarstw domowych po uwzględnieniu siły nabywczej mieszkańców. Według danych Eurostatu cena energii wyniosła 41,1 PPS na 100 kWh, ustępując jedynie Rumunii (46,9 PPS) - wynika z danych Eurostatu.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Tylko-jeden-kraj-w-UE-ma-gorzej-Koszty-energii-uderzaja-w-polskie-rodziny-9220937.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8286c65029ea50d4fc",
       "date": "2026-11-01",
       "title": "PGE Group reveals updated 2035 strategy",
@@ -188,7 +217,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
           "type": "press"
         }
       ],
@@ -375,6 +404,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-15717655dbe58fae95",
+      "date": "2026-11-01",
+      "title": "Europa przeprasza się z rosyjskim gazem",
+      "title_pl": "Europa przeprasza się z rosyjskim gazem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-05f1ebea98fc572e3f",
+      "date": "2026-11-01",
+      "title": "Nowa inwestycja w Wałbrzychu, to fabryka produkująca inteligentne liczniki energii",
+      "title_pl": "Nowa inwestycja w Wałbrzychu, to fabryka produkująca inteligentne liczniki energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGVhdmc0ZHR6R3lXdVhJNV9GV3M4X0ROV2h4TlpHSENtTVdPR1ZzcXBNQ3hKT1lHcDRWeFI4UGhOMlhjbFFNbmZJTzNJV2xhbUlZX1dQYkNMcy1HYmkyR09kN253cXFpdEpBanFJTi1yR0tGNjVSS0N3VmFfaTdTcVFrekxoZndHblJPQ0FsUkR1ZVctMF9YZmVnUGVnVVRNeVNiSV9JdDhsMDZLb2xqNWlHNjJiYmtPOXpVS2xqMnpoaWp5ZkJGMEY1SjBIamw0b1ZJNw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
