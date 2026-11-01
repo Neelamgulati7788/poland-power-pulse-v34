@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T07:58:50+00:00",
+  "updated": "2026-11-01T08:50:08+00:00",
   "signals": [
     {
       "id": "src-636e7bf17c7f50e4c3",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-435037b2938b41e585",
+      "date": "2026-11-01",
+      "title": "Na Sunex Ciepła_Pompa też była",
+      "title_pl": "Na Sunex Ciepła_Pompa też była",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTNQOEFhcWNtVmlZek1fMEdfRVdsOWFIYVJPT3NDMXRQNUtZeDEydGlnbldYMGFncGxVc0hVclJGZ0Jza3dHWnZqX1hUMHpENDJCREF3WTFiV0VwbVo0ekhYc3JUY0JwY2d5eVZFVEp2bU9aU015anNhcGdyZXJTR1drSWVHQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2971,7 +3000,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC0zN3ZCREFhOHkzRnhxZkpOV3d6XzhYeG5rYk5mWjBFZU1lWDZPaGx5S2pBYmdzWnZ2MDVuSEQ0dC1IVTZvNnpqY0NDWjUwR0U4TXJZQ1lrX1FZUC1wTlE0LTRMTjZmXzgtR3o2dG5hbzVMX3hlR1l2TEg3b1J2cFlueHdmZmRQSHdEX1FzWm5ILUU2eFBIWHk0SUZ6dTZPYkdHcjZSeGtJcHBJcnlwVkNQdXZpOVJ5OUFMVmhXdk9Vang2R0RSSENfVUZHUzVCc3hkTHQwVV9qa1ozbEFQWHpUVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1ZseC1uam45MDY1cVBHenVmelUyZ3AwRXdISVFOOG1wVUdhZllXTVdLdk8tYlQyd0NTU0RDMlBxVno4SEJGVmJxVVN5TGFmVEJMR0NFOEIzUWpZTG5XQ3ZTakliNzVPM2lTVFpnSXM0OFJzd1BDMFRBYzdFZXlhU0k3cFp6ai1MUmEyNnNYZXVSdGZ3cmVmMVRFakhQNDdtRk9DWmkyQ1VUb1h1azU4djBTeVp0RmE4ZlB2SXBfWXhsU0xBekFvWHR6RjF1WGJ1N3dBQTViZ2t4OS03?oc=5",
           "type": "press"
         }
       ],
@@ -2979,7 +3008,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://offshore.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
