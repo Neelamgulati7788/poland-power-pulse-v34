@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-01T12:50:16+00:00",
+  "updated": "2026-11-01T13:47:59+00:00",
   "signals": [
+    {
+      "id": "src-ff5908d126cf951189",
+      "date": "2026-11-01",
+      "title": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "title_pl": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9YVjFORHQwbWY2NGhtOVVWOGJEQVliZnVTc09nTlVFZjY1R3diUk9ZX2E0cjVMZzdxR1NvR3lSY3JaeUI0RzlublBYLUloWFE5UDNQU1IybW1lbDNGWllkcnFZemptY2VRdU9QR3gyM3l5cVBkV091cnM5SlNNSE51MXdfd3I0TVF2eGJR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-c5f5a78b21f37279ae",
       "date": "2026-11-01",
@@ -130,7 +159,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
           "type": "press"
         }
       ],
@@ -851,11 +880,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Kontynuacja obecnego trendu w niezbilansowaniu systemu elektroenergetycznego będzie skutkowała utraconymi korzyściami sięgającymi łącznie ok. 1 mld zł w 2026 r. - prognozują Polskie Sieci Elektroenergetyczne.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnRFUmNDRkVRMnRWRS0wUjFmVjllUDJLek5OU1l2LTd0WVFzRzJOS1RZdWI5MUtmbzhkTldsYWlMWmF5dnhkQ2NCczZ1NEVZQUhMUkVDNGwzNE5UcmFsOW01N19VVzRubjc1eXp5UHJNNjR1LVJJZ3hLUV9ncVBDSjUzOVJJS1ZQZ0hUVUtKakJPcXhuek82cC1ROXFuanhnc2I2Vnh4MDc?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -864,13 +893,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-692fca910fa513a28c",
