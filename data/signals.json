@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-01T10:41:31+00:00",
+  "updated": "2026-11-01T11:37:25+00:00",
   "signals": [
+    {
+      "id": "src-c5f5a78b21f37279ae",
+      "date": "2026-11-01",
+      "title": "Rosja atakuje, by zniszczyć energetykę. Roje dronów nad Ukrainą",
+      "title_pl": "Rosja atakuje, by zniszczyć energetykę. Roje dronów nad Ukrainą",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEU0VmpFbWY4X1Bqd0FMLWwwcElyc21yS00zOUI0S2lJSXVIZVF4MmtOdTQwamVGUGZlTzN5QkhXQWRMcVhQTWMyd0NoVEM2V3Z4UW5mTXZ1M1lROTdTY1k5ejY3QnE0bEVvcm5lYk9yZDB6cUgwOEtBaTRpd1NxSVRGZGdsZWthaml0aWFUNnFFbHJMM25XU1VqRjRMZHd0cDdzNFFCQnQ0YXd4QVFTSUltR2Zmdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-c2e5a1d21df5b4f96a",
       "date": "2026-11-01",
@@ -29,6 +58,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a9b5ac682176fdb6ce",
+      "date": "2026-11-01",
+      "title": "Nowe stawki opłaty mocowej dla biznesu i przemysłu",
+      "title_pl": "Nowe stawki opłaty mocowej dla biznesu i przemysłu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prezes URE nie zmienił stawki opłaty mocowej, jaką w 2027 roku będą płacić ryczałtem w rachunkach za prąd gospodarstwa domowe. Za to stawki dla biznesu i przemysłu będą zmienne w zależności od kwartału. Gospodarstwa domowe dalej będą płacić miesięcznie od 4,29 do 24,05 zł netto,…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122522-nowe-stawki-oplaty-mocowej-dla-biznesu-i-przemyslu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN",
+        "ZEPAK"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-636e7bf17c7f50e4c3",
@@ -142,6 +201,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3e2552382461bd020b",
+      "date": "2026-11-01",
+      "title": "Wzmocnienie infrastruktury bezpieczeństwa oraz zapewnienie ciągłości dostaw energii elektrycznej poprzez rozwój systemów zasilania rezerwowego-zakup agregatów prądotwórczych",
+      "title_pl": "Wzmocnienie infrastruktury bezpieczeństwa oraz zapewnienie ciągłości dostaw energii elektrycznej poprzez rozwój systemów zasilania rezerwowego-zakup agregatów prądotwórczych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA NASIELSK",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df380b-0b0e-cac0-e2d6-6b000120bbf2",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-189f22fd1bd6583921",
+      "date": "2026-11-01",
+      "title": "Znicze fotowoltaiczne. Jak działają, ile naprawdę świecą i na co uważać przed zakupem?",
+      "title_pl": "Znicze fotowoltaiczne. Jak działają, ile naprawdę świecą i na co uważać przed zakupem?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkw4QVVNRWN0dkYxTFRsUzNJSDVJTGtSYkVxSW5PMlpmeGZGS3J5WVdoaG9YXzBFUE4yeHZYQmhwc2JWdF9sLTZvc1hMUTJHRnhYSXZpYVlJdW5CLTdZM004UzAzUnZSMUhiZU1xaXlXeGotbWNmcUFyTFdCVWgtTlBUVHhIMElqaHJhNVlLYXFPRmFpRDBzRlJWZk1iMHVSdTVzQUNkZWFab1RkeDMzY1lBUnNDT202ZU9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -676,11 +793,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Kontynuacja obecnego trendu w niezbilansowaniu systemu elektroenergetycznego będzie skutkowała utraconymi korzyściami sięgającymi łącznie ok. 1 mld zł w 2026 r. - prognozują Polskie Sieci Elektroenergetyczne.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnRFUmNDRkVRMnRWRS0wUjFmVjllUDJLek5OU1l2LTd0WVFzRzJOS1RZdWI5MUtmbzhkTldsYWlMWmF5dnhkQ2NCczZ1NEVZQUhMUkVDNGwzNE5UcmFsOW01N19VVzRubjc1eXp5UHJNNjR1LVJJZ3hLUV9ncVBDSjUzOVJJS1ZQZ0hUVUtKakJPcXhuek82cC1ROXFuanhnc2I2Vnh4MDc?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -689,13 +806,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-692fca910fa513a28c",
@@ -3058,7 +3175,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC0zN3ZCREFhOHkzRnhxZkpOV3d6XzhYeG5rYk5mWjBFZU1lWDZPaGx5S2pBYmdzWnZ2MDVuSEQ0dC1IVTZvNnpqY0NDWjUwR0U4TXJZQ1lrX1FZUC1wTlE0LTRMTjZmXzgtR3o2dG5hbzVMX3hlR1l2TEg3b1J2cFlueHdmZmRQSHdEX1FzWm5ILUU2eFBIWHk0SUZ6dTZPYkdHcjZSeGtJcHBJcnlwVkNQdXZpOVJ5OUFMVmhXdk9Vang2R0RSSENfVUZHUzVCc3hkTHQwVV9qa1ozbEFQWHpUVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1ZseC1uam45MDY1cVBHenVmelUyZ3AwRXdISVFOOG1wVUdhZllXTVdLdk8tYlQyd0NTU0RDMlBxVno4SEJGVmJxVVN5TGFmVEJMR0NFOEIzUWpZTG5XQ3ZTakliNzVPM2lTVFpnSXM0OFJzd1BDMFRBYzdFZXlhU0k3cFp6ai1MUmEyNnNYZXVSdGZ3cmVmMVRFakhQNDdtRk9DWmkyQ1VUb1h1azU4djBTeVp0RmE4ZlB2SXBfWXhsU0xBekFvWHR6RjF1WGJ1N3dBQTViZ2t4OS03?oc=5",
           "type": "press"
         }
       ],
@@ -3066,7 +3183,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://offshore.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
