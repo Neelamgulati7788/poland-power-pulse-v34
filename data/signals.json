@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:45:56+00:00",
+  "updated": "2026-11-02T21:42:42+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-fb697f1be926193091",
+      "date": "2026-11-02",
+      "title": "Ważna spółka z branży fotowoltaicznej została sprzedana. Nabywca działa w branży stalowej",
+      "title_pl": "Ważna spółka z branży fotowoltaicznej została sprzedana. Nabywca działa w branży stalowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVMtYVdraXFtWXZud0hTWjdWN01tOVhPWjBWSGhtWmZXQnJacE1mVVZBWGREZk9ZNEpuU2FnRUYyUVE0OTVPclNBeE9rU0ZBOVl2VHNBZi1KVlZ4Y29lVXozaDVtS3ZCcHlWSWc0YUZ3TGNMa2NmLXNYdW5MX2lGWkVuLU5LUWdxRmxGYzlkYUY5WWVQQmEzcTlENHhqd19yWkZ5QmhHc1pHMmZ2cFFmSXZqeHRNa0EycXFrRUF2cXQzTHJLb3h3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fa78d5e6ca31a45820",
@@ -2382,6 +2411,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-77d983daa97ac74816",
+      "date": "2026-11-02",
+      "title": "Termomodernizacja z zastosowaniem odnawialnych źródeł energii budynku Samodzielnego Publicznego Zakładu Opieki Zdrowotnej w Moszczenicy.",
+      "title_pl": "Termomodernizacja z zastosowaniem odnawialnych źródeł energii budynku Samodzielnego Publicznego Zakładu Opieki Zdrowotnej w Moszczenicy.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Woli Moszczenickiej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3926-cf0a-54c8-e2d6-6b000120ce6b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-73815f29293a91aa0c",
       "date": "2026-11-02",
       "title": "Tauron szacuje wynik EBITDA w III kw. na 1.821 mln zł, wobec 1.565,4 mln zł konsensusu PAP Biznes",
@@ -2409,6 +2467,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6e918806f566c4357b",
+      "date": "2026-11-02",
+      "title": "Prace modernizacyjne/adaptacyjne - Sala – pracownia robotyki w budynku Zespołu Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu w formule „zaprojektuj i wybuduj”",
+      "title_pl": "Prace modernizacyjne/adaptacyjne - Sala – pracownia robotyki w budynku Zespołu Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu w formule „zaprojektuj i wybuduj”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZESPÓŁ SZKÓŁ ELEKTRONICZNYCH IM. BOHATERÓW WESTERPLATTE W RADOMIU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3927-1791-7daa-e2d6-6b000120ce70",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-6cc6887fe45ec2ea2a",
