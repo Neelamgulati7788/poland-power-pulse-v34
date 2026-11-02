@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:34:19+00:00",
+  "updated": "2026-11-02T05:35:40+00:00",
   "signals": [
     {
       "id": "src-fe4155364d5f3c159d",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c4ff4f6abb8c2ab325",
+      "date": "2026-11-02",
+      "title": "PSG buduje gazociąg Tworzeń – Łagiewniki",
+      "title_pl": "PSG buduje gazociąg Tworzeń – Łagiewniki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelQzNG42VlFWalJDVV9LU04xVmwtQzFXdl9uTk94cWtEckVZSHliVUtMWmUtMHRISVBMMjc1dGluTFdIcVV4OTB2TV9WRm95YmlJN092T3dqaUNEa2VQa19FcFR1MlZfMl9UWF80WUxhQ0I3MVpRZE1RMnZ5ZjVMMXFHWG9uYjNVaml1QmdDLU1Nc2NfWkRmUnNOM0d4Y2RPVU5ab1ln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -60,6 +89,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-4e7ac2957676959f29",
+      "date": "2026-11-02",
+      "title": "Rosyjski gaz popłynie rurociągami przez Ukrainę? USA chce sprzedawać go Europie",
+      "title_pl": "Rosyjski gaz popłynie rurociągami przez Ukrainę? USA chce sprzedawać go Europie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnBnaVJvYnd4R2FwVGYzTnVsMUZhVFZUTzFybGplM24wSmcwaEM3SmxHeUI3NExnQi16VEJkdVgyb1J0bVM3Y3B1STZJQlExeXI1N2x4VkJyT1hRZW1lUF8tYlRwVGE5R081V1JVU2ZzU2FTeFI4T0tKNi1TVm8xLS1jOWxfVldxcHJfYjhacno3c3JMSEN5S3ItcFVyMDhIdDB0MkJsSzFMOUV6Qy1HR3ZkaElxSUFWcDNhRGJwZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4436c79c779cc7b6dc",
+      "date": "2026-11-02",
+      "title": "Gaz kosztuje trzy razy więcej niż rok temu. Azoty nie mają planu B",
+      "title_pl": "Gaz kosztuje trzy razy więcej niż rok temu. Azoty nie mają planu B",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1Z6T1Rpa0huMV9icmRlNFZzLVhHZVVEbmFYcjd3b2VpdjNpd2lFQzRSbU9KTHVvRTZ1RHFTamxvRFBNc0JHOENWQTlzZVJ5eEJ4UGtKcXFTS0FSVEZmUVAtZWRBZ0ZydEloZllRWWxPd0F1T2J3TVdYN1g1UFNjOUkyZkJyM2RvUDl4eXNKM09yNGNDVmdpcF93?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1ed49060b4d54ffcac",
       "date": "2026-11-02",
       "title": "„WSJ”: USA chcą szybkiego wznowienia eksportu rosyjskiego gazu do Europy przez Ukrainę",
@@ -84,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1b9004aa19c5f28fc3",
+      "date": "2026-11-02",
+      "title": "TYDZIEŃ W KRAJU: Decyzja RPP, rating S&P, PMI, wyniki PKO BP, Orlenu",
+      "title_pl": "TYDZIEŃ W KRAJU: Decyzja RPP, rating S&P, PMI, wyniki PKO BP, Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelZIWHQ0RXQ0MDltTDFLMVhGeUNUcjQtb19YS2VpODJTS2J2Rk13MUJMWEl1ZVhobFJHd0xpR0F2R3JKWkZFMWpHX21wa3VvZ0RnQlc1X01vbFdhN3R2S3JJYmV1ZzdyMWtnck94VGNnV0ZiRml0dC1Vd1pVMGNJaFJfUDdmblhfV1Bic0dvazFNanBBZnY3a090ZndoRHBCWWFzaXZ3Z0pRZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -116,6 +232,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0d88d9b2785b058460",
+      "date": "2026-11-02",
+      "title": "Wrocław 2035: AI, tania energia i globalny biznes. Miasto musi wymyślić się na nowo",
+      "title_pl": "Wrocław 2035: AI, tania energia i globalny biznes. Miasto musi wymyślić się na nowo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wrocław ma za sobą trzy dekady silnego wzrostu, ale silniki, które go napędzały, właśnie się zacierają. Jeśli stolica Dolnego Śląska chce utrzymać pozycję w Europie, musi wymyślić się na nowo, wykorzystując globalne zmiany. Inaczej grozi jej los miast spóźnionych na poprzednie rewolucje przemysłowe, o czym…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Wroclaw-2035-AI-tania-energia-i-globalny-biznes-Miasto-musi-wymyslic-sie-na-nowo-9220182.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ff5908d126cf951189",
@@ -449,7 +594,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
           "type": "press"
         }
       ],
@@ -710,7 +855,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmMwYlMwMk9zS19kX2lDNzZMME9ucG15eU5QTXlqT3A3NmQ3VFJrb1g1QTVNRWpEWW1ZNk5fb3lzSjljaGZBU09TQ0dsdHptdG9iMmxhYVh2eGlaRlBFaERzOWFyNGRBeU5rQl85TmJVd3UwcGV5Zk9RMmtYRzFzdGp2SQ?oc=5",
           "type": "press"
         }
       ],
