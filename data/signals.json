@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-02T05:35:40+00:00",
+  "updated": "2026-11-02T06:38:10+00:00",
   "signals": [
+    {
+      "id": "src-fe6456f33c2bb768a7",
+      "date": "2026-11-02",
+      "title": "Wenezuela bez prądu. Kryzys energetyczny przybiera na sile",
+      "title_pl": "Wenezuela bez prądu. Kryzys energetyczny przybiera na sile",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JiczYxbTNpYWpkSUR4OFBvSTZlZUc4NFdfRTVOa0ljUDFuMUkxc2E4a2VxVmgzQW0tSzQ4ZVhGUXM5VFM5UFBhT19RM3czd1ZSSWJUXzNvMFlYX2dVc3FpbTZTcm5QWjBRTEQ1cU9YSmFFeFdsWGlnWGlpYTk0NHUyVUNGSXlEcUhiaXZaekVjTFNkWk5QNVVjTlREOWtQZzk5RG1n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fe4155364d5f3c159d",
       "date": "2026-11-02",
@@ -14,6 +43,93 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkw4QVVNRWN0dkYxTFRsUzNJSDVJTGtSYkVxSW5PMlpmeGZGS3J5WVdoaG9YXzBFUE4yeHZYQmhwc2JWdF9sLTZvc1hMUTJHRnhYSXZpYVlJdW5CLTdZM004UzAzUnZSMUhiZU1xaXlXeGotbWNmcUFyTFdCVWgtTlBUVHhIMElqaHJhNVlLYXFPRmFpRDBzRlJWZk1iMHVSdTVzQUNkZWFab1RkeDMzY1lBUnNDT202ZU9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f04884d81aa71d477c",
+      "date": "2026-11-02",
+      "title": "Rosyjski gaz znów popłynie do Europy? Waszyngton ma nowy pomysł",
+      "title_pl": "Rosyjski gaz znów popłynie do Europy? Waszyngton ma nowy pomysł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmNjY196bHNyQks0blVKNUJSbXBiVlhpOVd5aXZlNHBITnBzSC1QRkhCWWNRaGJsRllzLXhLbkpyYThfLVg4Q3NnVDRuUXR0RGhkMkpYVGlvNlY1UDZDenJVMEpPeGh0WmRTQ3hHY0RieS1NVy1OcFM5N2lWcEp6b1RyUl9QVUJBY1BkWXR0eV9zTVhhVGFfb0NsTzNORnJIMkF3am1MbjdDdTNB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c5331bdbeed4db73cb",
+      "date": "2026-11-02",
+      "title": "Kompleksowa dostawa gazu dla Szkoły Podstawowej im. Wojska Polskiego w Płazie na 2027 r.",
+      "title_pl": "Kompleksowa dostawa gazu dla Szkoły Podstawowej im. Wojska Polskiego w Płazie na 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SZKOŁA PODSTAWOWA IM. WOJSKA POLSKIEGO W PŁAZIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ab-301e-0c59-e2d6-6b000120bef6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-c5190390d651da06e0",
+      "date": "2026-11-02",
+      "title": "Trzy razy więcej mocy dla EC Gdynia. Powstaną kotły elektrodowe o mocy 90 MW",
+      "title_pl": "Trzy razy więcej mocy dla EC Gdynia. Powstaną kotły elektrodowe o mocy 90 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT09aWGtYYVd6RUxiaUNMZUg0Qms3dEVVdzdCX0N3SWFHZGxGOVRWZXJweVNtN1Z4blYzS1g2SURmQnpxckxTNndQdWdIN0k2WjZzckFWOTd0UW9uQUV0eVFpMDJTeThuUU1td2pmZ0JBSWpxYXozUmVja1VGbEI4NkJGOUcyNnVlQlRnajV5M1lrWWd0aWpqejBXRjhDV3Frd0FwUWJ6UkYtNGRh?oc=5",
           "type": "press"
         }
       ],
@@ -55,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6770cd7a105a70b258",
+      "date": "2026-11-02",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3djb0MtNFV0djBoM0d6QnRHaWdyZXhhN1B6Z3VNVjQtYlk2cWJBdTIzUllBNTdJRmpyTTZDXzYtOVJmQ0xOa3ctMUtGa3dxMFBGbzNaTmFobmFjakdwRnNsdHNnODVfcmU0M3l3ZjZJdkxJTHVXVUJtTDA2YzUxQ09aSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -142,6 +287,64 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-30d09acf79cf8a1df4",
+      "date": "2026-11-02",
+      "title": "Żelazo i ołów zamiast litu. Hiszpanie rozwijają nowy typ magazynu energii",
+      "title_pl": "Żelazo i ołów zamiast litu. Hiszpanie rozwijają nowy typ magazynu energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFhDOTh6cWgwZThtejNwYm9UNjVuV1F5QTktRUtyeHZ4blM1cVk0S2toaHd0aDktYWpQQ3Ayem5jenlzYnA1UDVMOE03dkxuQUhyUTJxRnBZZ05oTWlQbzZZMnJzRV9NMFhKenVmc1JzMUZobnBWS05Fd3hRUnhWT3NDYW42MGRjNGRIQTRvekNpczk5aFIwaHhUNE5xazctVDVxWTVQXzFmU3Q4ZzYyWmE2NE1HemJES05CXw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-28660f62c5881f9ec2",
+      "date": "2026-11-02",
+      "title": "Rosyjski gaz znów popłynie do Europy szerokim strumieniem? USA zacierają ręce",
+      "title_pl": "Rosyjski gaz znów popłynie do Europy szerokim strumieniem? USA zacierają ręce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGlEaVRvM0V2QTFfY1lPYWctQ0lrT0hZLXZ5TUNqX0x4aGxvTlVvVGR4MkRJRXdISE9XSmdTSkYzNG9GNU5EenE4MGJZOV80RWU3Z1lFeC12OHBhaUNFZG5YZ1c0UlNCUXlhR01yNWVEczYxUGlSN2FRZzF6MlhIa0pTWlJrWFBRWi1HWGJlclplZGhpS0JlSEJkZkh1bU5tNDcybGZIOG1Ic2dNd1BQUw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -261,6 +464,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-05b28e32468d88460a",
+      "date": "2026-11-02",
+      "title": "Nasila się kryzys energetyczny w Wenezueli. Brakuje prądu",
+      "title_pl": "Nasila się kryzys energetyczny w Wenezueli. Brakuje prądu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUW1CbmtfVXhsWlBiV3lzWlA2cUJRbTllbHBPbzZqWXJ3ekNQY3VsaHhwcWE5RlE3MlFoeldiaVNEWl8yeXhVSEk0NkJWOHNGcDRkMXIwUmZHbF9feXNCd1owQlloX01GUWpHem44eUZzM1A3QldocXo0YTFNM1RnQ2FRV3ozS1lUYWhOaHNnYUx2Q0NlUl9DRjB3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-04e9b8a59aba834247",
+      "date": "2026-11-02",
+      "title": "Niemcy mają problem z gazem, ropa tanieje, a hakerzy kradną miliardy. PB BRIEF",
+      "title_pl": "Niemcy mają problem z gazem, ropa tanieje, a hakerzy kradną miliardy. PB BRIEF",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR21WWXk3dWdOZ05xSmhrRkQ5MVVYa1J4bkJBY3ZMbndSUU45a2lIRTBQRjA0eF9nT1BNVVhqVllkLXRlQkZ6VDJ4UzNPYTBCcV9UZzAxS0Mwa1R5VFBLLVhqQTdnc200S2NGQmotSkt3SXNkS29NWlZ2U1I3TGYzeldTN3c3eUprT0ZqQVhOd0V1dGhsVFVwanRDUkE0RDg0N3Rn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ff5908d126cf951189",
@@ -594,7 +855,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
           "type": "press"
         }
       ],
@@ -694,6 +955,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-45ba043360b5300624",
+      "date": "2026-11-01",
+      "title": "️CENA WĘGLA KOKSOWEGO W GÓRĘ INDONEZJA WPROWADZA(...) - Forum",
+      "title_pl": "️CENA WĘGLA KOKSOWEGO W GÓRĘ INDONEZJA WPROWADZA(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2RDTm5fMmpFZ3BGU2pTd1pIQThxeU1HZFpkbVo5eXhqcVdzaW41UHFDR0xIVEZwcmNEc3F4MlBCeFUxUmcwd3Y0RXdqa0p0M19qZ0QzTEFjc1ladjhUWGZtTEcwZEhLRW5veFNVTUljYUNwLXJwbEg4dUp4bU03OXJlNkdwY3RlOUliNFdXYWdEUEIweXNfc0xTblBUUEhlS2dDdEQ5ckU0SFRaWUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -855,7 +1145,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmMwYlMwMk9zS19kX2lDNzZMME9ucG15eU5QTXlqT3A3NmQ3VFJrb1g1QTVNRWpEWW1ZNk5fb3lzSjljaGZBU09TQ0dsdHptdG9iMmxhYVh2eGlaRlBFaERzOWFyNGRBeU5rQl85TmJVd3UwcGV5Zk9RMmtYRzFzdGp2SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
           "type": "press"
         }
       ],
