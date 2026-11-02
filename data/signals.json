@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T16:00:06+00:00",
+  "updated": "2026-11-02T17:03:48+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -89,6 +89,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-fd4d8f5cda99db8b1b",
+      "date": "2026-11-02",
+      "title": "Ponad miliard złotych zysku Taurona. Analitycy nie doszacowali wyników",
+      "title_pl": "Ponad miliard złotych zysku Taurona. Analitycy nie doszacowali wyników",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Tauron Polska Energia szacuje, że miał w trzecim kwartale 2026 roku 1.821 mln zł zysku EBITDA oraz 8.624 mln zł przychodów - podała spółka w komunikacie. Konsensus PAP Biznes zakładał 1.565,4 mln zł wyniku EBITDA oraz 7.720,7 mln zł przychodów. Szacowany zysk netto w III…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Tauron-szacuje-wynik-EBITDA-w-III-kw-na-1-821-mln-zl-wobec-1-565-4-mln-zl-konsensusu-PAP-Biznes-9222403.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-fa78d5e6ca31a45820",
       "date": "2026-11-02",
       "title": "R.POWER SA (33/2026) Zawarcie umowy przyrzeczonej sprzedaży udziałów w spółce posiadającej prawa do projektów OZE | Biznes PAP",
@@ -125,16 +154,16 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Wojewoda pomorska wydała pozwolenie na budowę infrastruktury wodno-kanalizacyjnej dla pierwszej w Polsce elektrowni jądrowej. Zgoda dotyczy budowy systemów zaopatrzenia w wodę oraz odprowadzania ścieków dla inwestycji w lokalizacji Lubiatowo–Kopalino – podał przedstawiciel spółki PEJ.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Jest-wazna-zgoda-dla-pierwszej-polskiej-elektrowni-jadrowej-Rusza-kolejne-prace-9222308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeW9CVUUteU5QWmg1clRpVGt1enUtOFpfQXdSQ0lUMjdFRWdRQjZEbUF6TFFrSDJtZzVIZnk1UTB0cGUwZnpZalgtRmlzRVRfX05fdmVGVUNEcG04VXNQdnBGMTdmWmo5LW5BYnpDUkpfZHhpbjZiR0VtNk5tSmMtSFhPYndUbHBTRzlsRHB1MHdxbGlYMDFkUWl0aHo3ejNSLWpva3FNQzFvM1VQSTl4Nlo1R1lld2M4QXFrSVhEMm1EeDg?oc=5",
           "type": "press"
         }
       ],
       "cos": [
-        "PEJ"
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -143,8 +172,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f0513c513c77605e9c",
@@ -232,6 +261,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f01ee1ade2b4c98f88",
+      "date": "2026-11-02",
+      "title": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (…)\"",
+      "title_pl": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (…)\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Pniewach",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3901-8b58-9e24-e2d6-6b000120cd75",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ef3d1ffee94a9656b8",
@@ -375,6 +433,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-eb22cdafdc3241b397",
+      "date": "2026-11-02",
+      "title": "Kolejna decyzja ws. elektrowni jądrowej. Wojewoda dała zielone światło",
+      "title_pl": "Kolejna decyzja ws. elektrowni jądrowej. Wojewoda dała zielone światło",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNEU1NrVUlNS2w0VThGSlFCcEFUclNYcnU2U3UyOXktcjN5Z1RVTm1ZbkE4TWswclk4UHowWmRlQzd6MTdVQVFZdGxKZGRxSWpqRTYtUXJEZERoWUd4R01wb0p6amxDSEVaSzhxRDdqVUROcTBZOUJ3MDJjY3ozS0FNYzNROW1MMlAzbElLaXFZdy0zVkxfaDNsQ0N6YnNKcmZQdmxYMzNLMEZxSHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1164,6 +1251,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c003b9441a8da95555",
+      "date": "2026-11-02",
+      "title": "Nowe zasady transformacji ciepłownictwa systemowego. UD495 w wykazie prac Rady Ministrów",
+      "title_pl": "Nowe zasady transformacji ciepłownictwa systemowego. UD495 w wykazie prac Rady Ministrów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0tzS2VYNnVLYXpWNW9mWjBxOHFYeWdtd0FWanJVMG9XMWxhSTZtYjFxWEJJRHEwR2QyaWFxSWQ4cWJmbVpjUVFTRVJPcWNZMWo0NDhTTWlZbEFQMFUzUlBJblRCVm5Ld3ZKLURndWNxNldOeEVjbFNLOTFjajhNOE5wWG1HamVSdFo3aE5ZMllpcTFIdFlnRE5xNEJFUWxKbGxtc2JCdTctYU1CZ1VfaEdwZmRDSEtzSWlSdl9ISmFrWlpJcWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b776422f17ea3f0414",
+      "date": "2026-11-02",
+      "title": "Over 50 industry groups ask Brussels to suspend 2030 renewable hydrogen target for industry",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "An appeal led by the Polish Chamber of the Chemical Industry asks the European Commission to pause the binding 2030 RFNBO target for industry and reassess the 2035 goal. The post Over 50 industry groups ask Brussels to suspend 2030 renewable hydrogen target for industry…",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/over-50-industry-groups-ask-brussels-to-suspend-2030-renewable-hydrogen-target-for-industry/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-a7aef05f7cab870994",
       "date": "2026-11-02",
       "title": "1,3 GW nowej mocy w Kozienicach. Rusza budowa fundamentów bloków gazowo-parowych",
@@ -1367,6 +1512,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9a3933be5d5a035585",
+      "date": "2026-11-02",
+      "title": "PEJ applies for early works permit for nuclear power plant",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Polskie Elektrownie Jądrowe has applied to the head of the Pomeranian Voivodeship for a permit to start early works required for the construction of Poland's first nuclear power plant at the Lubiatowo-Kopalino site in the Choczewo municipality.",
+      "links": [
+        {
+          "label": "World Nuclear News — source",
+          "url": "https://www.world-nuclear-news.org/articles/pej-applies-for-early-works-permit-for-nuclear-power-plant",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "World Nuclear News",
+      "publisherUrl": "https://www.world-nuclear-news.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "32"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-98133cf7e9adf0a398",
       "date": "2026-11-02",
       "title": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 6,45 zł, benzyny 98 – 7,31 zł, a diesla - 8,14 zł. (PAP)",
@@ -1565,6 +1739,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8853f87a51819a70d1",
+      "date": "2026-11-02",
+      "title": "Szacunkowe wyniki Tauronu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "title_pl": "Szacunkowe wyniki Tauronu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTJycTU2Nnh5RHFVSDlKejZPTElKMkE5TFFWcXQ3NXFlNWV5dmp0elJXODhzaThSVWNpVU5TajYyOVhQUVhuczNkNHNnQ2FPMXNkbUVhd1Zya0o4Z1pwejVmOWU2RzdldlBYZXl6TGpHemVYeVdVd0NJa2Izcnp0VnF4R25uMDhXb1pRbFJiVkRzRkxCRzJHbmlYYmVQSEtLMkFEejNKRkZic1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2121,6 +2324,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5914243aa71f9ea1ac",
+      "date": "2026-11-02",
+      "title": "348 mln zł na inwestycje w OZE i magazyny energii dla przedsiębiorstw energochłonnych - NFOŚiGW",
+      "title_pl": "348 mln zł na inwestycje w OZE i magazyny energii dla przedsiębiorstw energochłonnych - NFOŚiGW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExlSHA5bXBoczdEVTFQck1JXzRMZkN0bkt1Rk8tUnFEWTlLeERuLW9wRXpIWG44NVV1RG5JN0RRTUZxRE45TE9CWkRaSlNDbXQ5a0EwQ0RYcVhIcEI0ZWFiU21KS1g3em9QdERlQWFEc1R0cGVEMGFzNzdjY2RWUEZTMTBEMngyX3pGLTZxRWFnTXAtaEVBdXBJbEhwMFNCZFVrak8zOXBWWkMta05ad19IYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-565f19e44385aa9a5f",
       "date": "2026-11-02",
       "title": "Tauron Dystrybucja zakończył budowę systemu teletransmisyjnego w standardzie MPLS TP",
@@ -2556,6 +2788,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4042880acfd0503229",
+      "date": "2026-11-02",
+      "title": "Tauron power estimates PLN 1.82 bln in EBITDA in Q3 2026 vs consensus of PLN 1.56 bln",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmlzX2VoUWxRTDBZUTNaYWREYTlDeVVybU9lSkhKN1RKTUt5VkY4ZnM3SUU3SGt2V19VbW1PUW1CY2huTFRuWnBtRXpFN3NaRmY5VWc1Y0o4OU1OdWlxclpRTkRESTRTZW5Qelc2WWJxb1ZRUGVlbmdDdl9nMlNKVmJoQUJTZk56SmtBbGxHRC0wR3gtcnRjNmM5cjRkR1gtV1JubFFqcG5wcHpvZzlxbGxpSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-39dca2554549623916",
       "date": "2026-11-02",
       "title": "Za gaz zapłacimy mniej? Rząd chce ulżyć Polakom ws. wysokich rachunków",
@@ -2609,6 +2870,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3340b058e7f55548df",
+      "date": "2026-11-02",
+      "title": "Były prezes Jastrzębskiej Spółki Węglowej ma już nową pracę. Pozostał w branży",
+      "title_pl": "Były prezes Jastrzębskiej Spółki Węglowej ma już nową pracę. Pozostał w branży",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV25Ga2dsSWV2NG5ZSGhISjJjUUVzcmE1X3ZpalU1THkwT0tuaTJBb0NUcV9XWUZ3ak53NHBjcU5VbWhMdkl5WmlIYzgzQ09STlVYSUFnNkhTRzlCSFVmQTlLQjlDMTFtYUlLdUFUSnF0QS1KZUg0LUh1cHJmZ20xMGRRakhmV1VLNEZrOWtmbzNud1hfakJGQkhaLTkxbzZzZFQ1dTZn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
