@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:26:38+00:00",
+  "updated": "2026-11-02T04:34:19+00:00",
   "signals": [
     {
       "id": "src-fe4155364d5f3c159d",
@@ -26,6 +26,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-657563791fba7bfe25",
+      "date": "2026-11-02",
+      "title": "Polska – Komputery osobiste – Rozwój usług elektronicznych oraz wzmocnienie stopnia cyfryzacji w Gminie Rybczewice",
+      "title_pl": "Polska – Komputery osobiste – Rozwój usług elektronicznych oraz wzmocnienie stopnia cyfryzacji w Gminie Rybczewice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Rybczewice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df387e-fc5e-c4d4-e2d6-6b000120bc6d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1ed49060b4d54ffcac",
+      "date": "2026-11-02",
+      "title": "„WSJ”: USA chcą szybkiego wznowienia eksportu rosyjskiego gazu do Europy przez Ukrainę",
+      "title_pl": "„WSJ”: USA chcą szybkiego wznowienia eksportu rosyjskiego gazu do Europy przez Ukrainę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTJXcmwwTU82cEN6RERaVmFvM0J5YWowNjl1WldpclkwdkcwM3U4UkIxQ2RPVmV0TzdHVjBSWGlpemlVaWY4NW1YN1JjeVpkOVFhY1ZjODRyVTJDSVQ4OTBwM3p2RFV1T3RIQ2ctMURTOXd6d0tLSTBSWEY0SWRsYnlXaERKdlpQb3NaUUNjTkRmOF9mQnFYREVfa3dEcXNzR3Z5emVCbFNCZVZFZXVGRkY1bEh2Xy1HTldidUZB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -391,7 +449,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
           "type": "press"
         }
       ],
@@ -652,7 +710,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmMwYlMwMk9zS19kX2lDNzZMME9ucG15eU5QTXlqT3A3NmQ3VFJrb1g1QTVNRWpEWW1ZNk5fb3lzSjljaGZBU09TQ0dsdHptdG9iMmxhYVh2eGlaRlBFaERzOWFyNGRBeU5rQl85TmJVd3UwcGV5Zk9RMmtYRzFzdGp2SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
           "type": "press"
         }
       ],
