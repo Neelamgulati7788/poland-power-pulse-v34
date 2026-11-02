@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T19:54:20+00:00",
+  "updated": "2026-11-02T20:45:56+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -171,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f4af38f9d2992f644b",
+      "date": "2026-11-02",
+      "title": "Elektromonter / Elektromonterka ds. Sieci, ORLEN S.A., Wejherowo",
+      "title_pl": "Elektromonter / Elektromonterka ds. Sieci, ORLEN S.A., Wejherowo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Grupa Energa — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1FtMGFvczZ5ZWRXMjJrYXc4U0xwVEthNk9VR3BYR2ItemVSSGpOeXB6UDZUR3ZsOUxBNXZNWkZiSnFhanZFd2dobjhMa0pJMmlESVlDWEtCbGtzNmtjMVRqbmRGT2kwV1NxZWRMVzlVT1JBbmRDdkYzbGUwX3FWeFNSVy02U2gxNXJPTk1xMVc5M3lfZ0ctWTRYWUdsUm5iSDRidkhsbUVWVVE1YUQxLTlid1NYckV0MzJqRg?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Grupa Energa",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -961,6 +990,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cf7b17986a43964cf9",
+      "date": "2026-11-02",
+      "title": "Na sprzedaż projekt PV Wola Głupicka – 1 MW, gotowy do budowy",
+      "title_pl": "Na sprzedaż projekt PV Wola Głupicka – 1 MW, gotowy do budowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INlpQWExnU3dreERQZ0NhYlE0dGdXWVQtWnhzUUt3emVaZGM4SE9vU1FKLWpjUHNlZnNzRHdmbVJLaGJJOVpmeVktdXhpR0Rpbk1uMWxiT3M2UDhqMDZ1U2ZSb1lpRHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-cf5a85f80dbe37b7c7",
       "date": "2026-11-02",
       "title": "Tauron ukończył jeden z ważnych projektów cyfryzacji swojej sieci",
@@ -1146,7 +1204,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmdXU0Y1aGMtSmRodUt6UzZub2ZUSUNRQVhWLV9nSFcyVEwxdHNiek81SlRQUFQxN1BWZzJ3ZUk4dUVtbzlRelZhTkVFTjExTnoyQTVNajNtci1xT2hFa2tjME9mUGpQWXBScFdqMXBhNVJUWTZHV3RMVWpVSkJ5VjZFSXhzdXFwV054aTlJMUd4TjBoTXFoRVQ1TXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelQzNG42VlFWalJDVV9LU04xVmwtQzFXdl9uTk94cWtEckVZSHliVUtMWmUtMHRISVBMMjc1dGluTFdIcVV4OTB2TV9WRm95YmlJN092T3dqaUNEa2VQa19FcFR1MlZfMl9UWF80WUxhQ0I3MVpRZE1RMnZ5ZjVMMXFHWG9uYjNVaml1QmdDLU1Nc2NfWkRmUnNOM0d4Y2RPVU5ab1ln?oc=5",
           "type": "press"
         }
       ],
@@ -1154,7 +1212,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://rynek-gazu.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -1541,6 +1599,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a58a4ddd76eb1b2942",
+      "date": "2026-11-02",
+      "title": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY OBIEKTÓW KANALIZACJA GMINY KOLONOWSKIE \"KGK\" SP. Z O.O.",
+      "title_pl": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY OBIEKTÓW KANALIZACJA GMINY KOLONOWSKIE \"KGK\" SP. Z O.O.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "KANALIZACJA GMINY KOLONOWSKIE \"KGK\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df391e-a222-590a-e2d6-6b000120ce1b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-a38df4ce3e31a78c1a",
       "date": "2026-11-02",
       "title": "Tauron szacuje EBITDA w III kwartale na 1,8 mld zł. To wynik powyżej konsensusu",
@@ -1594,6 +1681,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9cd86627ef6edacbcd",
+      "date": "2026-11-02",
+      "title": "Uzgodnienia ppoż PV i magazyny dla firm instalacyjnych",
+      "title_pl": "Uzgodnienia ppoż PV i magazyny dla firm instalacyjnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGlBQVVPbWFLaGFza1VEOXNvVXhGamxBWl9QRFpUWnh5YlBXaUhJeVZNbm9GdjFTcEJCMWFQWlU5dUlIVWQ4U0NFSDh2QnlaZFJSc016OXUxbWw2aWZROVk0aG1WWHUtUGo2QW1HMHlFNXVEbHlMeHZUSGcxVlpHNXdXc3BlNDB3XzlFaXJ4Q0pBRDVqOFdOaTJzcXJJTklNd3dKa3FCVl9zMTBkTG9MTg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1713,6 +1829,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-99a3acb76ad38f1384",
+      "date": "2026-11-02",
+      "title": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "title_pl": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlJhekpwN1M1d3JsbjZOZHVRUnVvdGVsM1FYS1NYSTFXVF84Qlk4ZzZXcFdfOGNyRnpZV3hhWHZXMnlwejVFVlgwTFRnRl9KZS1aUmRfa2VfVG1uajhpc1FoRnlqWE9GbnF0YklFOWc1Q2JiSlJLd1gxQTZpOUVTcEZWZklzUFJm?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-98133cf7e9adf0a398",
@@ -2469,6 +2614,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6590f226400a4db674",
+      "date": "2026-11-02",
+      "title": "KOMPLEKSOWY ZAKUP PALIWA GAZOWEGO DO OBIEKTÓW POWIATU WODZISŁAWSKIEGO I JEGO JEDNOSTEK ORGANIZACYJNYCH",
+      "title_pl": "KOMPLEKSOWY ZAKUP PALIWA GAZOWEGO DO OBIEKTÓW POWIATU WODZISŁAWSKIEGO I JEGO JEDNOSTEK ORGANIZACYJNYCH",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Energia Optimum Sp. z o . o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3920-7c7a-5ab4-e2d6-6b000120ce20",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-657563791fba7bfe25",
       "date": "2026-11-02",
       "title": "Polska – Komputery osobiste – Rozwój usług elektronicznych oraz wzmocnienie stopnia cyfryzacji w Gminie Rybczewice",
@@ -2928,6 +3102,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4ddd9144aaffa20f9b",
+      "date": "2026-11-02",
+      "title": "ORLEN Open innovation day",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nYXBhM01ZZy1HWlhYcm1HXzlQSndUSGVCLVUyay1pMnZBVnB1Y1NaMnA0N0FOUmY0MG9penhfWkpOd3plbTJLRklhNHZ1VFY5dFU2MlFycnBYN3VGdlRoM01FRHVuUlJpZ1d5T2tqOHFCR19aREJr?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
