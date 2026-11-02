@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:58:08+00:00",
+  "updated": "2026-11-02T18:56:04+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -436,6 +436,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ec45423f570adf1491",
+      "date": "2026-11-02",
+      "title": "Tauron podał szacunkowe wyniki za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "title_pl": "Tauron podał szacunkowe wyniki za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWhpZDR4SUdpRnVWaG5QaWJqcERFWnFsZE9OajIyNEJLLTRGbTFEOFh1TFl2Rmc4Ti1iTWZ1LVBwN1FZeURmZDJ1OXJidjJQVmNzanJDU090REJxTFRacGQ4VTI2Z3FoMjRmWENKSUdycnpuYWtaMUNRdWp2UnZJdUVRalJTNllZRHdKZUlUemZUenc0M3cyTTltbHo5QllDYkY4LWNoNGZMWFVDZnZjSXY2YnBMOUlEUlc0Y2lvSVFFRjlROEJ5Vw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-eb2e6f12f995d22308",
@@ -932,6 +961,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cf5a85f80dbe37b7c7",
+      "date": "2026-11-02",
+      "title": "Tauron ukończył jeden z ważnych projektów cyfryzacji swojej sieci",
+      "title_pl": "Tauron ukończył jeden z ważnych projektów cyfryzacji swojej sieci",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXFmOUVSVDJTYW92MVNKQU5BX3lES09JMjVybjJ4WlduSTVHRjc5VnpHYzk2SU5NSE5PcUhUUDJJdHRFczJwaHBMT21qVk1pN2NkYU9mMlVoZ2pyYU9zaFZ0RWpvb3k3dWxEeVJaLVJYb0F2Z3NkSU83RXRWVVFDN3BhNGxjR09UWWZtWWFoZFQyMXdFWmE2VHhBSFo1bWNOWXd2TzIxVXFVTlItY29GVE1YUmF2ZHpSaFpVWmVEbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-cc8aa47541d3785648",
       "date": "2026-11-02",
       "title": "ENERGY SA (46/2026) Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
@@ -1088,7 +1146,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelQzNG42VlFWalJDVV9LU04xVmwtQzFXdl9uTk94cWtEckVZSHliVUtMWmUtMHRISVBMMjc1dGluTFdIcVV4OTB2TV9WRm95YmlJN092T3dqaUNEa2VQa19FcFR1MlZfMl9UWF80WUxhQ0I3MVpRZE1RMnZ5ZjVMMXFHWG9uYjNVaml1QmdDLU1Nc2NfWkRmUnNOM0d4Y2RPVU5ab1ln?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmdXU0Y1aGMtSmRodUt6UzZub2ZUSUNRQVhWLV9nSFcyVEwxdHNiek81SlRQUFQxN1BWZzJ3ZUk4dUVtbzlRelZhTkVFTjExTnoyQTVNajNtci1xT2hFa2tjME9mUGpQWXBScFdqMXBhNVJUWTZHV3RMVWpVSkJ5VjZFSXhzdXFwV054aTlJMUd4TjBoTXFoRVQ1TXc?oc=5",
           "type": "press"
         }
       ],
@@ -1096,7 +1154,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-gazu.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -1104,6 +1162,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c4ac71a20515f737d9",
+      "date": "2026-11-02",
+      "title": "Wspólna wizja nowoczesnej gospodarki. Podsumowanie XIV Executive Innovation Forum",
+      "title_pl": "Wspólna wizja nowoczesnej gospodarki. Podsumowanie XIV Executive Innovation Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "21 października 2026 roku w Starej Zajezdni w Krakowie odbyła się XIV edycja Executive Innovation Forum. Spotkanie zgromadziło przedstawicieli biznesu, nauki i administracji publicznej. W centrum uwagi znalazły się transformacja energetyczna, sztuczna inteligencja, krajowy potencjał przemysłowy oraz bezpieczeństwo cyfrowe.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/wspolna-wizja-nowoczesnej-gospodarki-podsumowanie-xiv-executive-innovation-forum/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-c460529926ff79a076",
@@ -1336,6 +1423,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b37bcc56cb3579e6da",
+      "date": "2026-11-02",
+      "title": "Strona 2594 z 2594 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2594 z 2594 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPYWdwbENGM2QxLUlya1ZjTWZCWDRfUFotak4zZFFBS2lhQmo3QjFZSkVwdDlFSXQ3UHJSZmJ2d1BFaG13TF9RdlFXNEQ1eDhGT19nLTNvN0ROVy1HY3hMMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a7aef05f7cab870994",
@@ -3859,6 +3975,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-037f54228393b2e2b4",
+      "date": "2026-11-02",
+      "title": "Zakup i dostawa samochodu osobowo – ciężarowego 9 – osobowego w ramach Programu Ochrony Ludności i Obrony Cywilnej na lata 2025/2026",
+      "title_pl": "Zakup i dostawa samochodu osobowo – ciężarowego 9 – osobowego w ramach Programu Ochrony Ludności i Obrony Cywilnej na lata 2025/2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MIEJSKI ZAKŁAD ENERGETYKI CIEPLNEJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df390f-2cd1-1526-e2d6-6b000120cdd1",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-014617089ac9218768",
