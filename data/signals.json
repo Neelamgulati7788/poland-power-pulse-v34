@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:03:48+00:00",
+  "updated": "2026-11-02T17:58:08+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -147,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f70ef183d91b62bce5",
+      "date": "2026-11-02",
+      "title": "Tauron cyfryzuje sieć energetyczną. Awarie będzie można usuwać bez wysyłania ekip w teren",
+      "title_pl": "Tauron cyfryzuje sieć energetyczną. Awarie będzie można usuwać bez wysyłania ekip w teren",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV29qMU9EX0xMS2VtX0h6QlU0U3pRWWpITnFFU0JyQ01aMmxteFM4ZkRXRkZtVlFNcEU5SG0xX0tLWnZrdGdHWWo0V2I5dlRTRkYxNGdLQVdnNDQyT0lGQjNneWJMb3JnQi1INTkzTmNVV3MzMDFHbUxJY1c0cVpjcVRPOFc0d0pvUGlNcGNhY1loVXNXOHFDNWJ0cjBhUTVsWmF4YVRVcnhBQ3Iy?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f32c01b097a4f23bdd",
       "date": "2026-11-02",
       "title": "Jest ważna zgoda dla pierwszej polskiej elektrowni jądrowej. Ruszą kolejne prace",
@@ -154,16 +183,16 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Wojewoda pomorska wydała pozwolenie na budowę infrastruktury wodno-kanalizacyjnej dla pierwszej w Polsce elektrowni jądrowej. Zgoda dotyczy budowy systemów zaopatrzenia w wodę oraz odprowadzania ścieków dla inwestycji w lokalizacji Lubiatowo–Kopalino – podał przedstawiciel spółki PEJ.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeW9CVUUteU5QWmg1clRpVGt1enUtOFpfQXdSQ0lUMjdFRWdRQjZEbUF6TFFrSDJtZzVIZnk1UTB0cGUwZnpZalgtRmlzRVRfX05fdmVGVUNEcG04VXNQdnBGMTdmWmo5LW5BYnpDUkpfZHhpbjZiR0VtNk5tSmMtSFhPYndUbHBTRzlsRHB1MHdxbGlYMDFkUWl0aHo3ejNSLWpva3FNQzFvM1VQSTl4Nlo1R1lld2M4QXFrSVhEMm1EeDg?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Jest-wazna-zgoda-dla-pierwszej-polskiej-elektrowni-jadrowej-Rusza-kolejne-prace-9222308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
       "cos": [
-        "ALL"
+        "PEJ"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -172,8 +201,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f0513c513c77605e9c",
@@ -265,16 +294,16 @@
     {
       "id": "src-f01ee1ade2b4c98f88",
       "date": "2026-11-02",
-      "title": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (…)\"",
-      "title_pl": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (…)\"",
+      "title": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (...)\"",
+      "title_pl": "Zakup samochodów elektrycznych do przemieszczania się terapeutów środowiskowych w ramach projektu \"Wsparcie infrastrukturalne Centrów Zdrowia Psychicznego dla dorosłych (...)\"",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Pniewach",
+      "summary": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARCZYNIE",
       "links": [
         {
           "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3901-8b58-9e24-e2d6-6b000120cd75",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3908-bc7d-dddf-e2d6-6b000120cda9",
           "type": "official"
         }
       ],
@@ -1686,6 +1715,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-90d02c13098022c0d0",
+      "date": "2026-11-02",
+      "title": "Tauron szacuje wynik EBITDA w III kwartale na 1,8 mld zł. To wynik powyżej konsensusu",
+      "title_pl": "Tauron szacuje wynik EBITDA w III kwartale na 1,8 mld zł. To wynik powyżej konsensusu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2hFbUhOR2RXV2JYT1pmdVNJbUU1M2JQS1NUaEszcUxfVndmbE1vOGlPNk4yUk84UF82VW1UazFNZDNfcF9ET2kzc2dxOWs0LWdva3NOeG93a3lZNFZ6TWZ2RHk0c3U0MXNMRWpFRko0YjJscHZfeDZ3OHd5aTZqZmphT3d3MExINE55MXJNTVphZWtDZFlmZEQtaUVPTnlxTm1ubUxTTXdzVFFxWmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8ed7de3c3711787526",
       "date": "2026-11-02",
       "title": "Prezes Wód Polskich: 130 wniosków dot. budowy małych elektrowni wodnych",
@@ -1744,6 +1802,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8a3302047e6bafa1fb",
+      "date": "2026-11-02",
+      "title": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "title_pl": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OQ1ZlTktld1FfdF9lVU82bzdJenlONTBKRE1hblRMWV9Wa0dTaWJ0V2ZySDJ4ZzhzeDZOMUN6clpWVXlsc0RMZ1NOaExrZ2QtaVROTlpnT0FEdXhDSTF1RXdTWkVGZUU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8853f87a51819a70d1",
       "date": "2026-11-02",
       "title": "Szacunkowe wyniki Tauronu w III kw. 2026 roku vs. konsensus PAP (tabela)",
@@ -1756,6 +1843,35 @@
         {
           "label": "PAP Biznes — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTJycTU2Nnh5RHFVSDlKejZPTElKMkE5TFFWcXQ3NXFlNWV5dmp0elJXODhzaThSVWNpVU5TajYyOVhQUVhuczNkNHNnQ2FPMXNkbUVhd1Zya0o4Z1pwejVmOWU2RzdldlBYZXl6TGpHemVYeVdVd0NJa2Izcnp0VnF4R25uMDhXb1pRbFJiVkRzRkxCRzJHbmlYYmVQSEtLMkFEejNKRkZic1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-833978851d6ae33038",
+      "date": "2026-11-02",
+      "title": "TAURON PE SA (47/2026) Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "title_pl": "TAURON PE SA (47/2026) Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlZrQy1HTDNvTzhRWGh4eWVLY1B0bUp3OXYtLTVQbVVDUlVWalVGVFN5eWtKSTJTLUZWTUxlMTkwU0t0RjEta3gwc0NOcUE4cWV1RXJRai1lVWxCYVFHbUZLMTBWajkxRldwYm1HLVVJWjNEbktmanFBVTY3UDJxVl83XzkyS3QtVTF3eGhidWY2YjRDTjVvZ2ZfMGVkbDB4TEhVYTlPcEhLTkpkeGVPUXkzRXdFb3lESWhCaQ?oc=5",
           "type": "press"
         }
       ],
@@ -1976,6 +2092,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-73815f29293a91aa0c",
+      "date": "2026-11-02",
+      "title": "Tauron szacuje wynik EBITDA w III kw. na 1.821 mln zł, wobec 1.565,4 mln zł konsensusu PAP Biznes",
+      "title_pl": "Tauron szacuje wynik EBITDA w III kw. na 1.821 mln zł, wobec 1.565,4 mln zł konsensusu PAP Biznes",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdndSY2JJYUV2ZlZQbGEwVXhrNFpldjdwYkF6ZVRsZnA1dnFQOHVWWUFVNFR3U0ZaSjh1bjR5UXJyY3gtajRiN21HemFYU0J1YW9yZDBtMWZYMFdWZTNKeURBaG1BMnFpOTh1RTF3NmRvdGY3Rlc0clZuUExTZTk4X0d4LVJ5SjB1S09HekZERVhBVlg5TU15X0c4MVllZUZPcXVQS0RZdGxqaXhIa1lSeGhibUk0RTliVXA3Uw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6cc6887fe45ec2ea2a",
       "date": "2026-11-02",
       "title": "Firmy po zakończeniu rządowej ochrony cen energii. Rynek daje nowe sposoby zabezpieczenia kosztów",
@@ -2145,6 +2290,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-669838cca114f74415",
+      "date": "2026-11-02",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDdRWUgtenMwMHMyYWkwU1lCX2c3Z2RrVEh1RE1xdlEzXzBMRWx0bUlUVHBPMTYtYkpjOXRBSVc1ZFVyWmpPSDRPaGY0Nk1zUTRFQWhxaDlQT0JYbXpBZ0d0TDFfQkRfS20xU3h2QVQxUTNQendMLVZfYVFBN0xaWmtfZkgzaTI3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4366,7 +4540,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmMwYlMwMk9zS19kX2lDNzZMME9ucG15eU5QTXlqT3A3NmQ3VFJrb1g1QTVNRWpEWW1ZNk5fb3lzSjljaGZBU09TQ0dsdHptdG9iMmxhYVh2eGlaRlBFaERzOWFyNGRBeU5rQl85TmJVd3UwcGV5Zk9RMmtYRzFzdGp2SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
           "type": "press"
         }
       ],
