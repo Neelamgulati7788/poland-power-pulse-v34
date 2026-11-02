@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:58:23+00:00",
+  "updated": "2026-11-02T16:00:06+00:00",
   "signals": [
     {
       "id": "src-fe67b063a7f25303d6",
@@ -38,11 +38,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Wielogodzinne niedobory prądu występują od niedzielnego popołudnia w kilku stanach Wenezueli pogłębiając panujący od kilku tygodni w tym kraju kryzys energetyczny - wynika z relacji lokalnych mediów oraz użytkowników sieci społecznościowych.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Wenezuela-bez-pradu-Kryzys-energetyczny-przybiera-na-sile-9221908.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JiczYxbTNpYWpkSUR4OFBvSTZlZUc4NFdfRTVOa0ljUDFuMUkxc2E4a2VxVmgzQW0tSzQ4ZVhGUXM5VFM5UFBhT19RM3czd1ZSSWJUXzNvMFlYX2dVc3FpbTZTcm5QWjBRTEQ1cU9YSmFFeFdsWGlnWGlpYTk0NHUyVUNGSXlEcUhiaXZaekVjTFNkWk5QNVVjTlREOWtQZzk5RG1n?oc=5",
           "type": "press"
         }
       ],
@@ -56,8 +56,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fe4155364d5f3c159d",
@@ -113,6 +113,64 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f32c01b097a4f23bdd",
+      "date": "2026-11-02",
+      "title": "Jest ważna zgoda dla pierwszej polskiej elektrowni jądrowej. Ruszą kolejne prace",
+      "title_pl": "Jest ważna zgoda dla pierwszej polskiej elektrowni jądrowej. Ruszą kolejne prace",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wojewoda pomorska wydała pozwolenie na budowę infrastruktury wodno-kanalizacyjnej dla pierwszej w Polsce elektrowni jądrowej. Zgoda dotyczy budowy systemów zaopatrzenia w wodę oraz odprowadzania ścieków dla inwestycji w lokalizacji Lubiatowo–Kopalino – podał przedstawiciel spółki PEJ.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Jest-wazna-zgoda-dla-pierwszej-polskiej-elektrowni-jadrowej-Rusza-kolejne-prace-9222308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f0513c513c77605e9c",
+      "date": "2026-11-02",
+      "title": "Projekty OZE i BESS z warunkami przyłączenia – cała Polska",
+      "title_pl": "Projekty OZE i BESS z warunkami przyłączenia – cała Polska",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMGRMRVhRLXJIeFJpQlpBVXE2aG51cDVZTzJpZU9XY3Zoc2liSGFUTmpXdDNUTXVCeVc3YTQzVUNCTkdnVzU5bi1pWTBzSWhfRnBkT3M3TjR4dVZIZFhJMVpGeU93UmM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -409,6 +467,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e88a8f22add6d4355d",
+      "date": "2026-11-02",
+      "title": "Farma na sprzedaż – 4,5 MW, Wołomin",
+      "title_pl": "Farma na sprzedaż – 4,5 MW, Wołomin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjk5blBMX0JBSktIOVZKZW9mdjMxajJxbVRFNnVuM0tNb084X1RnTUdLVzlxczV4am9QRnVidC0zMlhWZ3N1OE41LXE4WXFKNEZvQ3Jrc3ZGc2pTd0dzYmxkUmxZVDMycndsUmNxdXdLYlRrMnR2QkQ5dS1NT1hZVTlKRFA2RUwxYUVJSk4tTkJVZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e660bf00db3078e1ed",
       "date": "2026-11-02",
       "title": "Energia wtedy, kiedy jest potrzebna. Enea buduje w Kozienicach 1,3 GW nowej mocy dla Polski",
@@ -462,6 +549,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dd4eb02ba4e7479bc4",
+      "date": "2026-11-02",
+      "title": "Ponad 100 tys. zmian na wielostrefowe grupy taryfowe w TAURONIE",
+      "title_pl": "Ponad 100 tys. zmian na wielostrefowe grupy taryfowe w TAURONIE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnFnanl6UDhOX0o3U2hFM0x1bFJ4d0YyeXIxM2k3X3dMVFlaMTdYajcwbFE1TXNyOUgzYmJNdmVwQXpLU3VwbE5RcDdlTTEzd25tWDBiWkZMemlVZ1BCdUlPdHY4LXRHcDR4b2tJUGp5ZXA0V3pJcDhVRHIycE91bVF0S3R3VDRKQnluSUFTM0IydDVQQ09ZY0VELXcxQWhCdXliaFlKYTEtUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -579,6 +695,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d6190fbc88de932a14",
+      "date": "2026-11-02",
+      "title": "Tauron ZE i Energia z Rolnictwa chcą utworzyć JV w sektorze OZE",
+      "title_pl": "Tauron ZE i Energia z Rolnictwa chcą utworzyć JV w sektorze OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMml1ZENERjBsNW43M3BSdFRDTjg1YXloTVZXVmppVDQ1NWpMMUJRbTZIYkdraFB6Y2wwMVA4SVZyUFI4ZFYtVkVzVDFrTFlIUFU2Q29kSWpHNUowX1R1VFItT2JZdE1MRERrZmgzSlhySFRiSzZwVUo1T25CNEhsVVNOei1UdmxWTVBHYUY3RnFidFNqVS0xWm82SUZ5clZQRF9fYg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -845,6 +990,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c460529926ff79a076",
+      "date": "2026-11-02",
+      "title": "Szukamy ekip montażowych PV – farma 14,7 MWp w Austrii (grudzień–luty) i projekty w Niemczech",
+      "title_pl": "Szukamy ekip montażowych PV – farma 14,7 MWp w Austrii (grudzień–luty) i projekty w Niemczech",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaDNsSDdZODVjQUs5cEpDa1QzRjd3ZUtnMmtoNmszc3h1QWxBZnR2YW5SRVdSRG9WZjlaR0M3NTJ0bmxKblE0dWVtalczajg2RDhwZzA0UTdOMEd1TjVvUVl0WE5wTTBqRU1nOXo1VTFLcGFZOGdCQ0NMb3o1Rkh1X1VIRWo3dUdlRjliR19FNWotY2Q2aFFnTE1sWVlUWW55Q1ZmUDVXNmdndF9adFpzZFpKT3hoM2U3am5lMXFEQmpHVWsyYVVIVTdlMjBObV9JZ29QSWwzT2treVNCSEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c4500301c99821bd1a",
       "date": "2026-11-02",
       "title": "Pompy ciepła i ciepło odpadowe. Rząd planuje zmiany w prawie",
@@ -1072,6 +1246,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a302e8af410bf89396",
+      "date": "2026-11-02",
+      "title": "Lekcje praktyczne dla uczniów technikum na farmie PV Tarchały Wielkie",
+      "title_pl": "Lekcje praktyczne dla uczniów technikum na farmie PV Tarchały Wielkie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamJlRTQ0Z0JYM2dfOVhfWnJUaGRVbHR1T1FkWktqOUFiWDB6d1ZfLUlRVVJkOW1acC1sNnZ1RFo0MzVRcmxwTlBVeXRaN2tYMndRdXJBU1hTQmx1SDdnQS1LTlVzMnV4Tndlb3N3bmZ3aDFrTEZKMDdjdVVzUWpnVWFwclR4Q244bHRqZjdkTnE0dkZfN013ZHZpWXBNYXNEOG4xWXFIRnpOY3ZOZWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1802,6 +2005,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-63002c0534ea7369f7",
+      "date": "2026-11-02",
+      "title": "Kupię warunki przyłączenia OZE i BESS – cała Polska",
+      "title_pl": "Kupię warunki przyłączenia OZE i BESS – cała Polska",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CR192MUE4ZXkxSVpMWlVhdDBGMHIyeXhRcnlWemRaTTY5Smg3b3EwLVFPVUw2S1ZzSEdwaHdLdUN0MTVXelo2aHlhWi0yZnpqTHlkaFk5VGl5NW9rcDZERGdKOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-62b8923d8b50631df6",
       "date": "2026-11-02",
       "title": "Węgiel znika ze zwałów. Sprzedaż polskich kopalń mocno wzrosła",
@@ -1976,6 +2208,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-52f6afc81f4bb3cc2c",
+      "date": "2026-11-02",
+      "title": "PKP Intercity receives PLN 512 mln from FEnIKS programme for 70 new carriages and 10 electric locomotives",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDcyUGtud3RUOWw2bGZsQkM1ME04YV8xeDljRWdrTWV3NXNibnZHdHlHSXFZczNWb09DakcweThRbUhQdi1RRDQzbFliLXFEaElKRHl2T2dsODNQdHBSY2JyY05HWmdqdjNHUlluTTlFVHdKUVFCdVRPWks2YTRKY1M4dTVrQkphcU5lSl9ZUzl4NzdVWmoyTjNQMjdsN2hRQ0Jkdjc0Ym5XNnFUd2loY0FEVQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-50d18c14f6de6cef6e",
       "date": "2026-11-02",
       "title": "Powołano specjalny zespół do ochrony energetyki w cyberprzestrzeni",
@@ -2034,6 +2295,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-508e2f6118a02d452b",
+      "date": "2026-11-02",
+      "title": "PEJ otrzymały pozwolenie na budowę infrastruktury wodno-kanalizacyjnej dla elektrowni jądrowej",
+      "title_pl": "PEJ otrzymały pozwolenie na budowę infrastruktury wodno-kanalizacyjnej dla elektrowni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdURpbWRobnNkeTI4emJnSE5rcnAzMzU1dGdYVVV2UFdaQUVDLVJOVVNKSHBuc3VsVHlJb2JDM1BLQWJSVWhaLXVfWlJYSmw5NVA1dlRVYnRvNWZfQ2Rwc29TaEYzSmxmZUFHNGg0Nm1qY2F5aC12RTA3SHZ4X3U1amkzUVgzY2xZQkxlT3hmSlFVUmVBODJfdV9GRWR1LWxsQnRXY0xiblNwZ3BQUmxBNDduczZzbWhjTjVIWC1MblRQWVhLTmhwZ2RXejg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4f9ef1e9749f7df1ab",
       "date": "2026-11-02",
       "title": "DZIEŃ NA GPW: Główne indeksy spadają m. in. z powodu zniżek banków; rosną Orlen i KGHM",
@@ -2087,6 +2377,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4dbc246450cfbc21a5",
+      "date": "2026-11-02",
+      "title": "Odkupię Gwarancje pochodzenia energii produkcji 2025 i 2026",
+      "title_pl": "Odkupię Gwarancje pochodzenia energii produkcji 2025 i 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zSF9YUUgtYXhNTmVTSk5sN3hvSUpnc1JYaUhXMzFmYktRZ1pOWllOSEdRTktxQTVxX1c1Qkc0Z3hHaHhDc0JKcXhoc1ZRcGlzUXpwNEtkME5McWVqRERjWXl2Zw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2171,6 +2490,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-45b092ae4a277fc65e",
+      "date": "2026-11-02",
+      "title": "Bogusław Oleksy wiceprezesem PGG. Kilka dni temu odszedł z JSW",
+      "title_pl": "Bogusław Oleksy wiceprezesem PGG. Kilka dni temu odszedł z JSW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Bogusław Oleksy został wiceprezesem Polskiej Grupy Górniczej ds. finansowych – poinformowała PGG w poniedziałek. Kilka dni wcześniej zrezygnował on ze stanowiska prezesa Jastrzębskiej Spółki Węglowej.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Boguslaw-Oleksy-wiceprezesem-PGG-Kilka-dni-temu-odszedl-z-JSW-9222294.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -2464,6 +2812,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-20fb964b7b9d1919c9",
+      "date": "2026-11-02",
+      "title": "Wyłączność / 14 ha w jednym kawałku. Kompleks pod OZE lub Magazyn Energii",
+      "title_pl": "Wyłączność / 14 ha w jednym kawałku. Kompleks pod OZE lub Magazyn Energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGJlNWthX1ZkNDlrTFhXWkl3a2tUUENyeHBYLWdrclVXVEVOMkxNelpBc0lFMnNkcGRRMHFfS0NfRTVtbjZQUUNxVENrN1VkcGJkRFZVMDhFQzdHTmJQVkRSTVJ1UXM3eGRTQWlHWEtRYTRzZjludzJiM3FrSTJMMGNjUllGTm4yQndMVmtLWDcxMmpVUWYzcjkwUEE0aTNXODZNMDIwOFNpNlVFOEJ5ekd2THI0eG14a1FTN2t4LTAxQW8xRWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2870,6 +3247,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-092fbb58f20cc738b8",
+      "date": "2026-11-02",
+      "title": "Grunt pod PV ok. 2 ha woj. świętokrzyskie",
+      "title_pl": "Grunt pod PV ok. 2 ha woj. świętokrzyskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNektJWFlmLWRQeWVsZjhsMmtqOUQ0S1haeU1UakVTVkNrQjlGbXJLZlJ6bzFBMWVIYkpISEFtNlFSMkZSYjcxRGh6UjZEVG11Mzg3NHh6UmgxV1BwUi1fRHVQcU1SS01qTDhlUzd3VFItaVJqbTRkNHNNc2taMDBTRVBIM3FlN0xtRkNhcTlpLUJySmo2T2FxX3VzMnR3S00?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
