@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T08:26:51+00:00",
+  "updated": "2026-11-02T09:37:02+00:00",
   "signals": [
     {
       "id": "src-fe6456f33c2bb768a7",
@@ -9,11 +9,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Wielogodzinne niedobory prądu występują od niedzielnego popołudnia w kilku stanach Wenezueli pogłębiając panujący od kilku tygodni w tym kraju kryzys energetyczny - wynika z relacji lokalnych mediów oraz użytkowników sieci społecznościowych.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1JiczYxbTNpYWpkSUR4OFBvSTZlZUc4NFdfRTVOa0ljUDFuMUkxc2E4a2VxVmgzQW0tSzQ4ZVhGUXM5VFM5UFBhT19RM3czd1ZSSWJUXzNvMFlYX2dVc3FpbTZTcm5QWjBRTEQ1cU9YSmFFeFdsWGlnWGlpYTk0NHUyVUNGSXlEcUhiaXZaekVjTFNkWk5QNVVjTlREOWtQZzk5RG1n?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Wenezuela-bez-pradu-Kryzys-energetyczny-przybiera-na-sile-9221908.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -27,8 +27,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-fe4155364d5f3c159d",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fa78d5e6ca31a45820",
+      "date": "2026-11-02",
+      "title": "R.POWER SA (33/2026) Zawarcie umowy przyrzeczonej sprzedaży udziałów w spółce posiadającej prawa do projektów OZE | Biznes PAP",
+      "title_pl": "R.POWER SA (33/2026) Zawarcie umowy przyrzeczonej sprzedaży udziałów w spółce posiadającej prawa do projektów OZE | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlRsdGM0Z2xWdHdtVDR2RWdsTFlaRk82V2RRVXh5ZVJMem5vT3lwaE9TUUxyV3RJNmpOM21XdWlyU3hWODBIMDNPcGxYS3NPUjNhQV9pZ0kzMFlsSXd5eUx0N053Rmpfb3k5d05sbnRFa3BvNEMxVkp6TUNTTHhaQlFXUUNrcktTMk5lWTRYei1qRHlISHp1dno0MWQzdWk2WlNCaGJyXzdrWmRINlhYOURB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -113,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-eb2e6f12f995d22308",
+      "date": "2026-11-02",
+      "title": "Aktywa zielona energia",
+      "title_pl": "Aktywa zielona energia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbGQ2Nk5HeVRRSjRDblRrYVpKWDdEaHVFdGFyOXY3RGptcEJzSTRScFgzT3ZCcFMyRWdMZHR1bExETW1neUxMTERPcDBlRUxKS216a3VtdkV3MDk2TFQ1bHlHX1hzZXpRR0o1anFkazRtaVphX3VwNkd4WQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -205,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d598701f5a68db5bbe",
+      "date": "2026-11-02",
+      "title": "Podsumowanie Forum ENERGY PRO – CYBER 2026 o bezpieczeństwie OZE",
+      "title_pl": "Podsumowanie Forum ENERGY PRO – CYBER 2026 o bezpieczeństwie OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUklZN1FBNlRYSERYSkstMHJNZDdZQU8yRzJ1eC1LUHBVUG5XNG9rOHN2MFczZkJLaHd2dWd0MTJWSFg5cm1Wdm9SODZSaUU3TlNMRC14ZmoweUZ5UDNHb2Q1UU5TVUNJLU9EMGdYSEdVMWRkNlZ5c3pLaV82ZlYzRF9icmNSdEd1RVNGNThHVFotcXV2dy16a2Q1NmlNWFhqUVlqdzVsYjhCTExuQlE4U2xSYlp2ZDlN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-cfc081633410bd65ed",
       "date": "2026-11-02",
       "title": "Domański: decyzje ws. wsparcia dla cen gazu dla gosp. domowych w listopadzie",
@@ -229,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cc8aa47541d3785648",
+      "date": "2026-11-02",
+      "title": "ENERGY SA (46/2026) Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzZhSkJJN29kRlBXc245TFExRUV5eG1sSy01WmVIV001ZEcxd0Mya2lPVkhmTENsZ2NYcDE0RXR6TU1lUXpObVY4UHFsMGVEeTZPTDFRVVhMWEZVQXVQWTlCaVRoTzJqUFlxOFlGMm1qYjBlS0hZdmpGRXRQZ3BXN19qakpuRVN2UmE0VTdIcW8xVW9IRXJhaDl6djZra0xtaWNmUWR6RkdVVG90XzdBbkl6MkhTS3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -350,6 +466,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c3e5dcefb5cdc22a6a",
+      "date": "2026-11-02",
+      "title": "Ceny gazu w Europie spadają po zwyżce w październiku o 44 proc.",
+      "title_pl": "Ceny gazu w Europie spadają po zwyżce w październiku o 44 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2VjUjhVcFlual9jdC01enduZUdLc0VUdXo5X3V5ZE1EWUYwZUN3d3RSdWxMc2s5VFVoQXhZelptRDU3c24xSFNvc2pZV0JpOFF5Z29MS0RSNzlCVndtRV9WSU9DUVhxS1cydmNsUGRHUFJtakFGMkNzb2lGUlRxX3NldGZoblRpeHpPQmdHeGx3N1pKZHJEcHFQYTUwbWttc2tN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c354746f9359e3bd96",
       "date": "2026-11-02",
       "title": "Problem z węglem narasta. Rosjanie znaleźli sposób(...) - Forum",
@@ -379,6 +524,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a7aef05f7cab870994",
+      "date": "2026-11-02",
+      "title": "1,3 GW nowej mocy w Kozienicach. Rusza budowa fundamentów bloków gazowo-parowych",
+      "title_pl": "1,3 GW nowej mocy w Kozienicach. Rusza budowa fundamentów bloków gazowo-parowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmVhMkZRRXMzakthc0o5azViS21wUnpEVml5S2hyVENUT3JnRUgtRFlpMTFKelFDa21hMXdhZUtZM2tzMzY5elNFQ2thS2hNWXhGZUdCTzV4dHRjVkhSeXFzYTAwWGFiSVgtQVdtLW96LVFKMzNmTUlkTldCbTU5S0Z5TVZQNG50bHY5VGFGNTFpQXFIX1psUDd4MFB0NEtUWkhXU2YwUzI0Xy12cDM2eDdlUGFUU1oyQkUwTUZn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a7343ce8fb437290f9",
+      "date": "2026-11-02",
+      "title": "Dają mieszkańcom 6 tys. zł na wymianę pieca z węglowego na gazowy",
+      "title_pl": "Dają mieszkańcom 6 tys. zł na wymianę pieca z węglowego na gazowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHE0Z0Y2bjhzZEZ2bENLZ0dQMk9zYVE3SHRHRXloQ2lpRkVGOWhvNzAzRTFic0dUeUVGdndLWmpjc3lnNzVseXAzZGpibklmYWVzVGQ0cC1yalZaVGFqd2NuOHozQWZIbEZsM3FpQnlDRzJLX2RoVG84ajlIYVdwTEgtMk5yUDk5QXNmd2ZrTVB0cmJVa19uUWpZb1dJcXpPOUgyOFc4MA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-961754ce4f431de354",
       "date": "2026-11-02",
       "title": "Resort nie ustąpi w sprawie magazynów energii? Limit 600 kWh pozostanie?",
@@ -391,6 +594,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaU9uRU44Z1J1YjhiMlIzdGIxaGwyWUQ3SVNFdUhGN1J0dTVGVUxhMmhkbUJaWnFOS1ZMN2RxS0xVbnRqWHR4UURaVGNjY1FFd2FvSVkzQzVpS21qaENBc20tOXRPS0M4akNlbGdwa1FXbXNNbmtqWFFJOVFybXMyQlV1MEVvX1NYcThxdUp6aldvemtSd0lVNXlZTk1qay1paV9DT1dFVXJpQkdDQTFwd2wxa0RFQ3I1UGJFZnBOV2dsVkJTbUM0bQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-95b14822aa9e3db21f",
+      "date": "2026-11-02",
+      "title": "Wiatrowy lider uruchamia nową linię produkcyjną w Polsce",
+      "title_pl": "Wiatrowy lider uruchamia nową linię produkcyjną w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlITGlMSWg3TFJZRUZ4UmVXRVE3RWxUeDJKZW0wa2tSMTk1Q2ZCM2tyNE05UEFNdEN0bUVtUy0tTXY1WkRWX203QzRveUtMQkFnbkVSU3BWdWxoazBnbnZHOE1ycmtBWGhKUXk3WEJ2UTFsVUd2QV9OaU5rWGJGbmlheUZ4Z1NSMWhySE1IWXYzNjdzdm0wNFRlcmVlX2xudTM3eWFwV1J3Uk92R0Fv?oc=5",
           "type": "press"
         }
       ],
@@ -535,7 +767,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0NpNDhreENyeFQtXzBmaW5yRWQxNzRMa29Rc1ZUM20xUlRNTGwtanAxZ19vZmNOcjhtemQ2RFV5XzBUYTZ4aFdoZWZZc0tHblRjbDFQaDRub1VMRGQ2RmF4b1MxOGt0N0pGWUFmbFk5YnB6ZHF1SlFOVHNIaHFIVlVyTWZ5ZXRlY2ZxdXVTUDlSb0hFX19PbGdMcld5a0pkOWIwNUdYcGxNcUwy?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTc0QnZaLUpFc3VXY2VQQ0ZXcVg1YVpOM2RLTG5ELTdVUEw5OVJyZW5aWlVIOUFBMWVfMDVlYl92ZFNtN2dmb0VPMS1UVGdEZmhGd3AyOVlrT0ZyNWdNXzRVbThIYWgwXzZ5aHZhaXRJM0NJOWRtM0hmMzlqMDl2RTFOYW1TOWRKYmVhZ1o5QzM1TUlScE1teU52enZHUUtXWnQxX1lRTDZPVDQ0bXNXeUhR?oc=5",
           "type": "press"
         }
       ],
@@ -669,6 +901,93 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-5dc0a9934244bff05b",
+      "date": "2026-11-02",
+      "title": "CSIRT Energia – powołano zespół do ochrony energetyki w cyberprzestrzeni",
+      "title_pl": "CSIRT Energia – powołano zespół do ochrony energetyki w cyberprzestrzeni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXpOMk9hRWYyN3RQUl96bklsbVZpc3dabGRMUW5iQ2N0NXVGZF9yNDR5RTdrWjBSV1libDhvaWlrXzBzOVhvY3Y0RmdxRXd3d29YQ1lZYmNySDlGOHVLYmYyQUM5Vjdld1doaUM4ZHR6VU9seWF6MVhEUGFPUU1oNTRiTEoySFhfMVU3UXNhcWtxYTZXOGxqejhGdDJReDYwQ3dHdFJ1UUFDOVdyeHJB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-54c0da3c815e02df71",
+      "date": "2026-11-02",
+      "title": "Nawet 24,05 zł miesięcznie. URE ogłosił stawki opłaty mocowej na 2027 rok",
+      "title_pl": "Nawet 24,05 zł miesięcznie. URE ogłosił stawki opłaty mocowej na 2027 rok",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd Regulacji Energetyki ustalił stawki opłaty mocowej na 2027 rok - podał Prezes URE w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nawet-24-05-zl-miesiecznie-URE-oglosil-stawki-oplaty-mocowej-na-2027-rok-9221995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-54b1dad5cb06c94de0",
+      "date": "2026-11-02",
+      "title": "Na rynku ropy naftowej utrzymują się obawy o podaż surowca",
+      "title_pl": "Na rynku ropy naftowej utrzymują się obawy o podaż surowca",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Na rynku ropy naftowej utrzymują się obawy o podaż surowca z powodu napięć geopolitycznych - ocenia Magdalena Płaczek, analityk rynku w Unimot Energia i Gaz. Inwestorzy czekają też na wyniki wyborów midterms w USA.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Na-rynku-ropy-naftowej-utrzymuja-sie-obawy-o-podaz-surowca-Unimot-EiG-opinia-9222041.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-50d18c14f6de6cef6e",
       "date": "2026-11-02",
       "title": "Powołano specjalny zespół do ochrony energetyki w cyberprzestrzeni",
@@ -693,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-509355002f7152d01f",
+      "date": "2026-11-02",
+      "title": "Wszystko co warto wiedzieć o nowej inwestycji w Elektrowni Kozienice",
+      "title_pl": "Wszystko co warto wiedzieć o nowej inwestycji w Elektrowni Kozienice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVFLSnROSFlCMGJTVFg3YlpWRDVwMk5SeGc3ZzBuc21wclB3NC1FY21uQ2tjX1NkRXJJWHZmWkc0aF93MmQyTUpwYjNMTU5IVmRKY0pIZTlWWUpJZXVSVHZQMUk3X3dfZkJ4QXBNYnhaekFjaTMwQlJ4ZU1nMDhmVWV2VVkzOEJGNE1iS1NSM0pxejE3S2xQVm5zQ2ZTYzRTSW45Ny1WWkZBWTQwa1QxYmY5WV9xS2pNNG1IekdMeXhEYjA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -843,6 +1191,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2e8f85cb814b70c905",
+      "date": "2026-11-02",
+      "title": "Ceny gazu najwyższe od '22, inwestorzy patrzą na Bliski Wschód i pogodę - Unimot EiG (opinia)",
+      "title_pl": "Ceny gazu najwyższe od '22, inwestorzy patrzą na Bliski Wschód i pogodę - Unimot EiG (opinia)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMV9GSDFsZ21KUVdTMUJKbFZ2cGVONUhYWkZjY3B4ai00T1lpSXE1VFIwTlBxbmRySUlPWWxEaWpWMGl5ME5PRUYwcjNuWER6NWMxYUxpaWtLaUdaV0pyRUdVdlJYTE9YTU9uSFRVOGFXRk52bGs4d3BsM1RDQldyU2laS3Q4UkNNeFh3VGtvdlNQeDRVVmh2RlVoZ2lvWTlzYi1GXzlNMUJVZk1xVTNGVnk1bGZnOWZXcHow?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2aa2afbd309b3b9a71",
+      "date": "2026-11-02",
+      "title": "Wybory i dane z rynku pracy w USA, decyzja RPP oraz wyniki PKO BP, Orlenu i Asbisu. Oto najważniejsze wydarzenia tego tygodnia",
+      "title_pl": "Wybory i dane z rynku pracy w USA, decyzja RPP oraz wyniki PKO BP, Orlenu i Asbisu. Oto najważniejsze wydarzenia tego tygodnia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmFEdTFYWm1xOXVsZzFBRnVzNEF1dVJKOVlpbmNhcWYtY0FOY0Jndm9VU1VCRkk4V1oxd2dPaTdvcVI1VTE4OENQVElUUUl3cVptZ25UeE5DR212azZWbEpmei1sY3B2YktZUmdienFscDBhamRpbWxyWWNqSmswaGFNQmhVNGRIVFNWOFltN3laNGtRN2FiQm9hREpmY1MtVjloWXR2LVE0NzZLMmktYUdpUllUQ0RmYlpzY21MTExDZEVrU0N5X0Zfek94TjNPQ2h5aE9HdFZZd3NLajd3RkhBWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-28660f62c5881f9ec2",
       "date": "2026-11-02",
       "title": "Rosyjski gaz znów popłynie do Europy szerokim strumieniem? USA zacierają ręce",
@@ -928,6 +1334,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-14350f0972a08793a5",
+      "date": "2026-11-02",
+      "title": "Ceny gazu spadają, ale rynek wciąż niepewny. Kluczowe będą Iran i pogoda",
+      "title_pl": "Ceny gazu spadają, ale rynek wciąż niepewny. Kluczowe będą Iran i pogoda",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny gazu w Europie spadają po tym, jak w październiku wzrosły o 44 proc. - informują maklerzy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-spadaja-ale-rynek-wciaz-niepewny-Kluczowe-beda-Iran-i-pogoda-9222042.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-10846506134aca0ab2",
@@ -1075,6 +1510,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-08de719c908e6e493e",
+      "date": "2026-11-02",
+      "title": "PKN Dlaczego Aramco chce opuścić Orlen",
+      "title_pl": "PKN Dlaczego Aramco chce opuścić Orlen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUgyaW9La1d2V3VMa2xEQ2kwRGVBbjRqQ3ZCaE1yWTJjTWJzYUdhWDh3em5JbHQwYUR3ZFp5ZlIwX3puSkhrR2hsZjNHaTU5UUdlMDEyeVh5clRFd3ozVGVTSnNFR1NlYnRfUkhMX3Y5alRlZnJKUjZFOUVWNF9SVEtfQ0s2Qmp4eC1hc1NLR1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0664d254cf12861b01",
+      "date": "2026-11-02",
+      "title": "Rząd zdecyduje o wsparciu cen gazu dla gospodarstw domowych. Domański podał termin",
+      "title_pl": "Rząd zdecyduje o wsparciu cen gazu dla gospodarstw domowych. Domański podał termin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON09DY2JwY0xHTTdVZEQtT2pIQlhOdTVfNUxqWXVIOVVrY3ZnbGlrUU1EQTYyRnluR0lleU45WEtKbnVlR2hTaVl5U2o4LTlzVHY1SVA2ZHFhbHp0ZkNpMGIwcDdrQ1JjSWVfWmIxZC1tVDNmb1p4akcxOFUxMnJ6NWNyeW12MFN4UXJlMlVTMGZDOTJZVzNfWjY1V0NZZnN0NUY3OWFRQ2tQZFpTNW1PQldjb21sWm5ycVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-05b28e32468d88460a",
       "date": "2026-11-02",
       "title": "Nasila się kryzys energetyczny w Wenezueli. Brakuje prądu",
@@ -1086,7 +1579,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWh5eWRTcmNkaTFwdDE5QUZFcnhES0F4RXgtN1B4MnV3SE5BV0U5cHp3bGF4OTBQV2JmZWRFNXdmWnIwcEdUUEhmb1I2XzIwbTNCS21MbWtrM2hQN25iRWFMZ1BfdWI4N1ZmSzFGdzhwVVJfNHYxU3ItSi03TnZ1VVVqMjk1MkNXQkd6YXZPVkRGSS12ck45N2N3NzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc01UUzFOcF9PcDBvLVVuTVdiUE0xQzkzOGYzM0Q4dzFTM2UySkZoWWptVWJKX0x3M1FVeEVibEI0R0M1bGdBUC1kRDdFSHVnb0lycGh0RWxqUWtldXMybUNIU1RJRWI2a3lSVWRURmluZnMxTjV3amp3eDdpSzZENkRjMk9xN09kd21iNXhnZHEwd3R5aFJweE9ySFF6R3U2N0ZNVjJ4bFk1dw?oc=5",
           "type": "press"
         }
       ],
@@ -1464,7 +1957,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVlFNU5jb2dMQW5KSlFUTmpsUnZWbURhUlk1SF9fb09zOUJCblVOY3NKODJ3d0VXMkw4OW51RnFWSkdsWFlhWl9yN21aaldiei1OU0Fwdl9FZWZKSFV2Wi1IUTA2NWdtWVhWdjFneG8xSW5aZlhUTzY5V0ZIdVhrR09XZUZhZmF2aWR1cnl0bmdxODlIanhHUEJ5ZkJKU041b3ZqeVQwMmZ3ZzRJYjRHMkE4X2VVZXkxd05laEp2a1gyay1XWlE?oc=5",
           "type": "press"
         }
       ],
@@ -1754,7 +2247,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1Y5S19LZ3A4ak9FclliNTFtRnk3TVJ5WnlWdU5VcHFIcHNqTkctT3lfWmtuZ2FmLTltR2NwVGtPMFFpWi1ndjMxVmZvZ3g4NUNjMk4yd1owVFZFeUhhSHFNQVhqd2w0cVdxc3hZU3dYWUJnVXN5b05vLXl5N2w0bUpFaXF0dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmMwYlMwMk9zS19kX2lDNzZMME9ucG15eU5QTXlqT3A3NmQ3VFJrb1g1QTVNRWpEWW1ZNk5fb3lzSjljaGZBU09TQ0dsdHptdG9iMmxhYVh2eGlaRlBFaERzOWFyNGRBeU5rQl85TmJVd3UwcGV5Zk9RMmtYRzFzdGp2SQ?oc=5",
           "type": "press"
         }
       ],
