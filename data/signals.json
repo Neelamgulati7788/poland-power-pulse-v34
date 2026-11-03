@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T09:26:54+00:00",
+  "updated": "2026-11-03T10:29:38+00:00",
   "signals": [
     {
       "id": "src-ed4f492d945f827ba3",
@@ -84,6 +84,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e26882cd019af2ef09",
+      "date": "2026-11-03",
+      "title": "JSW coal appoints Tomasz Gawlik as acting CEO",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVF5bU02LVVwalBXOFVpQTQ5aDhLbi1IQm5nczByTEJ4N0tIdlRTOG1CTTFyMHZpQzJuVzhxRGpCTWlUcTFUSjBZNGtncWJHdkNheVBkMXNtT2laNlY5NUZSY3hTdklZZ1BqTGRMNWpLazVCc2Q5cGlmNlpvNUhVOUpfazVkbmgz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -234,6 +263,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-c2ef7b1a33ec512581",
+      "date": "2026-11-03",
+      "title": "Tauron miał szacunkowo 1020 mln zł zysku netto, 1821 mln zł zysku EBITDA w III kw. 2026 r.",
+      "title_pl": "Tauron miał szacunkowo 1020 mln zł zysku netto, 1821 mln zł zysku EBITDA w III kw. 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSk5hdTlxYzFzU3VSb1lEOE56SklMNmEwU1lDbk1uZEk0NWVoRXNrZzdCZmxSZFRabGYySDhKYnN0U3ZXNWNsemZKa0c3WHE5Y05hS0ZCN3M5QmFqRG9EZ0ROVnNJU2pYcHYyVlhjM19IemM0dmhZLTUyVUFFaEgyYXk5NHZhN05XNms3UjhOaHVPT2M3VkdxOTlWdmNvQXdNY01sMENDc2JyNTN4Z2twR1NVQVpkdnpOSjhEdFNBX3RaNng2NjdJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bf1a39f04099eba8ca",
       "date": "2026-11-03",
       "title": "Notowania metali bazowych, węgla i paliw",
@@ -379,6 +437,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7e234be4e2e325d313",
+      "date": "2026-11-03",
+      "title": "Gaz znów drożeje. Decyzja Trumpa podbiła ceny surowca",
+      "title_pl": "Gaz znów drożeje. Decyzja Trumpa podbiła ceny surowca",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUZwVW1Wbk1mQTNTSF9HaUxLeng1SXdKcE52N0ZUREFMTWtnTGNNekVxZWtBbXVvYmk3anZXTjZsRkxTM0s3YVhldHNENklDMkZJZlJyekl4YzU0dUQ5Y1FHZ1NqMEtXMU5wVy11YldreEp0a3hpSFRMOFZabVJGWkJJYnBEMmhnMW5OcTZGajNmZ3FKZDA4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7655e801ccaf3afa27",
       "date": "2026-11-03",
       "title": "Gdańsk: Morski terminal Orlenu na Martwej Wiśle obsłużył od lipca ponad 30 zbiornikowców",
@@ -495,6 +582,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-65b0ae5018dce10942",
+      "date": "2026-11-03",
+      "title": "Wykonanie robót remontowych w zakresie: robót budowlanych, sanitarnych i elektrycznych w placówkach oświatowych na terenie Dzielnicy Praga-Południe m. st. Warszawy",
+      "title_pl": "Wykonanie robót remontowych w zakresie: robót budowlanych, sanitarnych i elektrycznych w placówkach oświatowych na terenie Dzielnicy Praga-Południe m. st. Warszawy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd m.st. Warszawy Dzielnica Praga-Południe",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3995-4472-ff40-e2d6-6b000120d769",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5d19d39f282b69facb",
       "date": "2026-11-03",
       "title": "Ataki USA, rosnące ceny gazu i puste magazyny. Widmo trudnej zimy nad UE",
@@ -519,6 +635,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5a6ad1a86dcee3d0b7",
+      "date": "2026-11-03",
+      "title": "ORLEN Unipetrol and ČEZ ESCO partner on solar power for Litvínov refinery",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDJ5V0N6TkRXdVQ4eDYzWkZBR21aSm45ZEFzY3hmeFE4TDhIYkkwWTRPR3hoTDJGTmlBOWkzbGxydEk2UXlIQkVPbkpUYk1QTzBtdm9ZWEk4UzZ6YzM4VXhsRGpuSWRRbUJIMjdSUkpzV3VRSkRlRXVXc3NXVTJuOFZ2M2tUbmk0QS1qRjBSRlF2TmtoblpYSDFnMDFoUnhOQVNKTWNDUERoZ2FmU2lR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -690,6 +835,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-05c45f30aa63d843fb",
+      "date": "2026-11-03",
+      "title": "71 ton i dwa miesiące przygotowań. Tak transportuje się magazyny energii",
+      "title_pl": "71 ton i dwa miesiące przygotowań. Tak transportuje się magazyny energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tsUHVob1RtRkk0TExZdnpNcFcwMFRxV3hDX2JGWnJnQ2xOUXFwTmUxbDl2REdoMFJaeVo3ZXJEcTU4ZkNBM0hnOEkyOG80N3EzMEc0WnpFLVMyWVVGOFIwd3pKaEpMRlRWVnNHSGY2YzN5dzhhTmI3c1Q5QzN1S3RTbFR2YmNiQ1hlYmM5LXlQN2pTUEdJc3o3c2xQS3ZEWW41MnFLUGVoa3hkSHc0RHpvMjZzaDZCS3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
