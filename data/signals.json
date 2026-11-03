@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:52:42+00:00",
+  "updated": "2026-11-03T16:57:07+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -438,6 +438,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cf7f0099a646cf9020",
+      "date": "2026-11-03",
+      "title": "Orlen rozważa dalsze finansowanie inwestycji w Możejkach. Potrzeba jeszcze nawet 700 mln USD",
+      "title_pl": "Orlen rozważa dalsze finansowanie inwestycji w Możejkach. Potrzeba jeszcze nawet 700 mln USD",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBSVjBkTlExY1ZKUFhRRWhIbTJFMEJ5S2xsRWdXZlEwZldOLXRIZzJESGN4dGJ0SVg4UUxMY1FjbGFwWXNpcEszNmdibVd6cUNmb0NjUk9IaEVjMFhXYUtGUi1pckVuRWxCbmNndEd1NUZOYi1kTzVjX3c2bUxvVXF5ZndBSEVLdWJfaWVBSVFiSFQ3QTdjb0s5bjhZQmJQd1g3ZGtRbE84SVhjcmZRa2d6WVVrR1FN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-cb10f1191fe2875895",
       "date": "2026-11-03",
       "title": "Tauron ukończył jeden z ważnych projektów cyfryzacji swojej sieci",
@@ -520,6 +549,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c76841850f4f011aaf",
+      "date": "2026-11-03",
+      "title": "Komunikaty ESPI dla ELEKTROTI[ELT]",
+      "title_pl": "Komunikaty ESPI dla ELEKTROTI[ELT]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWIyNkZZN3FNMzFhUlF2TzBwbVhWZWpjVDlmNWNvUHIxX1Y1bjV4aGo0b2pZSklGZktZc0lOdG1LcTkwNnZCNEVQQ1pMS0x4QngyY1FlS2QyNVhTWk5MLUNXVmdncDhKOG96RjU1UWwyVkxsM2szRUE0Z0tRX3JOcUxKdUx2Sjdk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -612,6 +670,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-9c57e650e8fe1be842",
+      "date": "2026-11-03",
+      "title": "Zakup i dostawa energii elektrycznej do obiektów Gminy Ozorków oraz jednostek organizacyjnych w 2027 roku",
+      "title_pl": "Zakup i dostawa energii elektrycznej do obiektów Gminy Ozorków oraz jednostek organizacyjnych w 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Ozorków",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39c6-b739-90aa-e2d6-6b000120dfde",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-911f3e6b0a71807fdb",
       "date": "2026-11-03",
       "title": "Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej. Ozn. sprawy: DNZP.260.76.2026",
@@ -687,6 +774,35 @@
       ],
       "cos": [
         "PGE"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8878117d0589c68bb8",
+      "date": "2026-11-03",
+      "title": "Wspólny głos polskiej energetyki w Brukseli. Ruszyła nowa inicjatywa",
+      "title_pl": "Wspólny głos polskiej energetyki w Brukseli. Ruszyła nowa inicjatywa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTjl1NEtpcWJyS09yRm9TTDNQSUFzdGxKYWcySzBfcWZyelhwSzQwYmU3T3NRXzc2bENVTWljaTZ5SG1Cc1BXbHRtQ0JsRVNHRUNhbUVnMm5UQnR3VjgtSGtwOUxmX2cxaklGRGlSTTByWXZGbFVINXIyRGdwYlFDVmdSaUpEajBPODUya1J5dmFXbFkxclJFMkZQWlVBeUtsV3l6ZDh0RnJueEhTZVhwNUpkWEV0WUVrdTJLejRR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
       ],
       "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
@@ -839,6 +955,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-75e871a5255e697c49",
+      "date": "2026-11-03",
+      "title": "Widoczni i bezpieczni. PEJ wsparły działania edukacyjne Policji",
+      "title_pl": "Widoczni i bezpieczni. PEJ wsparły działania edukacyjne Policji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3lUemRKZ25XRkdtaEp2cXQ0WDlFYVpya3RMTUhDbjlTcldnQnh1UXlmVlNtbXA2aVFRTlFhN292LTVkd0tVMk1sX2JORzNoTnh2UVZpNFR2ZnNUemVjelE0Z3pVd3lTMGpZTzhlLVA1NlR2ZWZzYURDdUlnUlpxWjJ3aDRLNDB1TjBZMy1wNHhIVy0xMlNwcXMzMXBzVHVnRGc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1280,6 +1425,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-44abf598fdf50dd0ed",
+      "date": "2026-11-03",
+      "title": "Enea and National Food Group partner on biomethane development",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnd4d3dqRmN0WjQ5VmNvV3VYQTVwUjBELVExSXpNaXA2aW9WaGtrVHF0NFp2YkZkT3E4UmNaX2FLcGNLaW4taFBZMVpmTlJoRzZKVDBhcTJZUmNSYXZrODZsUGdSVDJYSU9feHhLWkJzYnA1WDJGdFlrcDN5UWdJZ2s1ZWhlSW92dFVmNFJ6X3hsQjlHdXJQWUNSSkw2WkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-301d83b8facfa1db6e",
       "date": "2026-11-03",
       "title": "Tauron plans renewables JV with Energia z Rolnictwa in Poland",
@@ -1623,6 +1797,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0a0466695113075a27",
+      "date": "2026-11-03",
+      "title": "Ukraina: Ukrenerho: trwa jeden z największych ataków Rosji na naszą energetykę",
+      "title_pl": "Ukraina: Ukrenerho: trwa jeden z największych ataków Rosji na naszą energetykę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDBlWjZ3bkZIOEwxc2RDSDBPd0hjVUFyNGh1UkhtdHE5ZnFITGFOMG1GMlgtUmlZaG4wOVhaZnpySEpMMkpIczd4WERsamRhMjZhLWpLN201QTNuZnp1M3BBWF8yRkJEVEZhMDBTcFhiSFNnM2JpeVhGWW8tM25sQjVpcHJ5Rm85NHZndGpYQzZ6NkRnSlI3cUo1VG5iY2dkMmU0SFBSUl93WHRHOUJ5aTNlX2E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
