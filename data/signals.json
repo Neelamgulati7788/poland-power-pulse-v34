@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:51:36+00:00",
+  "updated": "2026-11-03T18:53:13+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -184,11 +184,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Ministerstwo Energii (ME) aktualnie nie identyfikuje ryzyka możliwych ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym - podał resort w odpowiedzi na interpelację poselską. W ocenie ME, obecnie nie ma również w Polsce \"kryzysu cenowego\" na rynku energii elektrycznej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVkdWxlN0xHMXBpbzhsTmhiSnRETlkzQ3hyRDlIRW1LOHdUaTVFQU1EcDFsUVB0WjVSRE9URjA1cVBHUlF0U2tKU0lKb0R0SkYwYkhVU1dOSzBmaWZLbnFHLTdxSHZJQnJfZ2laUW9KU0w2ZjhFYjBwNkY3YjlhQUFCOHBUSm54QnM3MWdDV1I3TDVSVW5zV25SZTVuV0dvWDJhNDdENzNpU1daNnV6Tmk2Zm02dzNVXzk1RWJFRjFHcWFxNURj?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Mrozenie-cen-pradu-Ministerstwo-Energii-odpowiada-Tylko-przy-gwaltownych-wzrostach-9223000.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -202,8 +202,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-e5a0065d9335a0a39c",
@@ -665,6 +665,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-afea8404580410384c",
+      "date": "2026-11-03",
+      "title": "Enea podaje szacunkowe wyniki za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "title_pl": "Enea podaje szacunkowe wyniki za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2szaVVmSnlwNHE1Vmw3aWx2RlYzZ1UxbDFCbkUwV1VfTVo2aEtUUVN2dFkzZmJfMWtqcXNWb1ZObDJZc3AyMTJKc0JaZmh4VnM1bDh6U01oVTE3eEhXYnRUTkJHQUVtMjBNdV9nbERaODF6UDlzSV83QlFCQ0ZFM0Y3R29KOVdmbEV6UHhpWjN6MG1rcHhfSUlQMGtBVlVGazd4SzhCRkw3eGVUUzA5MXBOeXU4Zlh2MThTNjY4dXp6NnFxN0NR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1510,6 +1539,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-44cc1e023f58f19a43",
+      "date": "2026-11-03",
+      "title": "Wdrożenie zintegrowanej architektury odporności IT i OT wraz z przygotowaniem kompetencyjnym i organizacyjnym Zamawiającego na cyberataki",
+      "title_pl": "Wdrożenie zintegrowanej architektury odporności IT i OT wraz z przygotowaniem kompetencyjnym i organizacyjnym Zamawiającego na cyberataki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZAKŁAD ENERGETYKI CIEPLNEJ WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39da-cfbc-ea5a-e2d6-6b000120e021",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-44abf598fdf50dd0ed",
@@ -2842,6 +2900,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e643f7f456ffcd1402",
+      "date": "2026-11-02",
+      "title": "707 drużyn z całej Polski zgłosiło się do programu „ORLEN dla Młodzieżowych Drużyn Pożarniczych”",
+      "title_pl": "707 drużyn z całej Polski zgłosiło się do programu „ORLEN dla Młodzieżowych Drużyn Pożarniczych”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Fundacja ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQllDNUhyR1BBNEJ3OG84QThuLVJwbm1CbHVCbkVrazRueVpaSmNCY0o2YkRzR0FFdENxUXBPc0tOcHdINDZHOElEZmVOSlM4VDZmYUNMRjM5NE5sUFh3NDVtdjFSRnVORkp6ck96WWx0WVktSEZuczJaNzJPRnUwVWlLMUlkVlQwcjFDWjJwaGx1OWVVZzd0M0dORDhYS1FNYkMtVE56cnNQQWJzcGpYVE1SQ3M0Y1ExaUd0bGZnSWlud0hSUHR3RGp4a3h2MTJNeWlpSlNmbUlvWmpDMWJLbkhGQkJTZw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Fundacja ORLEN",
+      "publisherUrl": "https://fundacja.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
