@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:44:41+00:00",
+  "updated": "2026-11-03T23:41:20+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -445,11 +445,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W związku z krytyczną sytuacją w energetyce Ukrainy po rosyjskich ostrzałach w Kijowie stanęły we wtorek tramwaje i trolejbusy. Minister energetyki Denys Szmyhal ogłosił, że Rosjanie skierowali drony na podstację elektroenergetyczną o kluczowym znaczeniu dla Chmielnickiej Elektrowni Jądrowej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGcyazdpRUJwelp1SEZIQVhCYTVrRFExdGlkZi1DMFBISFlNMUFFVUg5MnFPY2N0WW1RQVRYSzFuM051dm51cGIyRmgzbk9EMjd4Y3pKbmNORzBtMGtLT05PUlFrcFlzemJ4b18yN1FsX2lyaWJYck1oNmdUdkR5WnZHcUxJVjF3YS10Y3ZtT2FveHNBR3ZqRXpZR3ZHaGVFVjA2MVNwS0RpTFkxRExGaFdscVhBNUpZOU54Rw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Paraliz-w-Kijowie-Rosyjskie-drony-uderzyly-w-podstacje-elektrowni-jadrowej-9223131.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -463,8 +463,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d0ef9fde2dfe5677be",
@@ -842,6 +842,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-95f195522f8290e503",
+      "date": "2026-11-03",
+      "title": "ZAOPATRZENIE ŚLĄSKIEGO OŚRODKA DORADZTWA ROLNICZEGO W CZĘSTOCHOWIE W PALIWO GAZOWE NA ROK 2027",
+      "title_pl": "ZAOPATRZENIE ŚLĄSKIEGO OŚRODKA DORADZTWA ROLNICZEGO W CZĘSTOCHOWIE W PALIWO GAZOWE NA ROK 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Śląski Ośrodek Doradztwa Rolniczego w Częstochowie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a00-8131-40c5-e2d6-6b000120e0a0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-958889edde3c47d864",
@@ -2319,6 +2348,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-00ecb424a7b0a1d011",
+      "date": "2026-11-03",
+      "title": "Ile nauczył Europę kryzys energetyczny? Polska i Czechy wzorem do naśladowania",
+      "title_pl": "Ile nauczył Europę kryzys energetyczny? Polska i Czechy wzorem do naśladowania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUJpaEdMb2tMbU5NSnFZYV93N3hqN3BlSFF4dmV2RUhta2EtTWEwQWFEZ2lpa1pNTmtHV0c2Nl95cFhXd2FJNnFuWnBQSWdOb0pfVkNiTURuc2ktWDBoaU9RbWd6YWtiX01LSzJOVjdWMkw1SUJlTFhhUFNpbFhSR2QzeXN5anRqYlRlUExNb0pMTUVvcjd1N1R2TUh0ZXB6SGpBSFR6NjZIOGRiY3RRV2UwUFZBNkR4WDdjNGRXWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4032,6 +4090,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b1ef6eb22f9e59b950",
+      "date": "2026-11-02",
+      "title": "Archiwa magazyny energii - Strona 116 z 116",
+      "title_pl": "Archiwa magazyny energii - Strona 116 z 116",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JaWk3bTN6V252U2xkR3Q0NlZidWx3LTFxbWg4SHhseTVVd2UxZE5RSy1JSHRYcUh1VzdVS2d5ZVY3MmhRT05VeklwNEZhM2hIVFNoMV9FT2hfNXpFYjU3aW1rWnNrb0t3Tmp3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
