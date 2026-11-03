@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T16:57:07+00:00",
+  "updated": "2026-11-03T17:51:36+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -172,6 +172,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e95f378fb7736b4c70",
+      "date": "2026-11-03",
+      "title": "Mrożenie cen prądu? Ministerstwo Energii odpowiada: Tylko przy gwałtownych wzrostach",
+      "title_pl": "Mrożenie cen prądu? Ministerstwo Energii odpowiada: Tylko przy gwałtownych wzrostach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVkdWxlN0xHMXBpbzhsTmhiSnRETlkzQ3hyRDlIRW1LOHdUaTVFQU1EcDFsUVB0WjVSRE9URjA1cVBHUlF0U2tKU0lKb0R0SkYwYkhVU1dOSzBmaWZLbnFHLTdxSHZJQnJfZ2laUW9KU0w2ZjhFYjBwNkY3YjlhQUFCOHBUSm54QnM3MWdDV1I3TDVSVW5zV25SZTVuV0dvWDJhNDdENzNpU1daNnV6Tmk2Zm02dzNVXzk1RWJFRjFHcWFxNURj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -697,6 +726,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-98e452acef80f81f8d",
+      "date": "2026-11-03",
+      "title": "Orlen rozważa celowość dalszego finansowania inwestycji w Możejkach. Potrzeba jeszcze nawet 700 mln USD",
+      "title_pl": "Orlen rozważa celowość dalszego finansowania inwestycji w Możejkach. Potrzeba jeszcze nawet 700 mln USD",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBSVjBkTlExY1ZKUFhRRWhIbTJFMEJ5S2xsRWdXZlEwZldOLXRIZzJESGN4dGJ0SVg4UUxMY1FjbGFwWXNpcEszNmdibVd6cUNmb0NjUk9IaEVjMFhXYUtGUi1pckVuRWxCbmNndEd1NUZOYi1kTzVjX3c2bUxvVXF5ZndBSEVLdWJfaWVBSVFiSFQ3QTdjb0s5bjhZQmJQd1g3ZGtRbE84SVhjcmZRa2d6WVVrR1FN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-911f3e6b0a71807fdb",
@@ -1279,6 +1337,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-59b132d5e5f2c835aa",
+      "date": "2026-11-03",
+      "title": "Ponad 2,5 mld zł na inwestycje i niski dług. Enea odkrywa karty po trzecim kwartale",
+      "title_pl": "Ponad 2,5 mld zł na inwestycje i niski dług. Enea odkrywa karty po trzecim kwartale",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Grupa Enea szacuje, że miała w III kwartale 2026 roku 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł - poinformowała spółka w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Grupa-Enea-szacuje-ze-miala-w-III-kw-1-139-mln-zl-EBITDA-a-zysk-netto-j-d-wyniosl-542-mln-zl-9223033.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-584459fdbbfdd787df",
       "date": "2026-11-03",
       "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
@@ -1449,6 +1536,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3df5afb5cd3ee3174b",
+      "date": "2026-11-03",
+      "title": "The Batteries",
+      "title_pl": "The Batteries",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQjBUcEYwT3RwcksyS0Ezc1U1bmxXd04xN0NWMml6NnJYWjdfMVhmQjRDU1FBX3VBSk83WmRLWWJjR0hDRlVzc1ZPa1dOejRnaTgzOGM2WmM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1913,6 +2029,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-03e5f61238fdad2ab2",
+      "date": "2026-11-03",
+      "title": "ME nie widzi obecnie ryzyka ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym",
+      "title_pl": "ME nie widzi obecnie ryzyka ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkFqMnBkU19xc1JjVGJjQnBUanVZelRyY243TW1URE1qcE5sQ2U2Tk1WdEZVeEJsU2w0X3pXU0dtNHU0bnZIZ1hjZHVJcVhpN0dobkI2d2Y0NE51VWVld3NHdDRXR2dyRmZpRFdVTU9jT0g5dFRzcU1KWWNYcVc2MXEwaVNCbElSTWpkaFVCMGVOWjhaQmItdGpvV2ZFMnZTNjV1b2UtZlY0NXJMLVA1MHAwS1FtTWNVakYxTURHcTRnTXZEMWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
