@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-03T10:29:38+00:00",
+  "updated": "2026-11-03T11:27:08+00:00",
   "signals": [
+    {
+      "id": "src-fea00fcbba1c036787",
+      "date": "2026-11-03",
+      "title": "Rekordowo niskie zapasy i drogi gaz. Jak Europa przygotowała się do zimy?",
+      "title_pl": "Rekordowo niskie zapasy i drogi gaz. Jak Europa przygotowała się do zimy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUhxZURGdmZuOXh1eXVMVXBVSHpyYW4yb1dDLXgyT29OMHR0NFkzajl5Z2M2TGNJcVNLbW0ta1UtMnRUNFJDcC1mSXRMWmlOdEEzUUlfWkxSbVRLczBncXRrNXh3NzVYUUZsQW96Q1dtQVJCa2dFV245dUlHcm1ONw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f765c0f8f0b317e975",
+      "date": "2026-11-03",
+      "title": "Dostawa sprzętu komputerowego dla IFJ PAN w Krakowie (DZP.260.28.2026)",
+      "title_pl": "Dostawa sprzętu komputerowego dla IFJ PAN w Krakowie (DZP.260.28.2026)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "INSTYTUT FIZYKI JĄDROWEJ IM. HENRYKA NIEWODNICZAŃSKIEGO POLSKIEJ AKADEMII NAUK",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399d-5749-9602-e2d6-6b000120d95f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ed4f492d945f827ba3",
       "date": "2026-11-03",
@@ -118,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-db02f0c7648a0a3700",
+      "date": "2026-11-03",
+      "title": "W środę ceny maksymalne benzyny i diesla będą niższe niż we wtorek",
+      "title_pl": "W środę ceny maksymalne benzyny i diesla będą niższe niż we wtorek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W środę litr benzyny 95 będzie kosztował nie więcej niż 6,37 zł, benzyny 98 – 7,24 zł, a diesla - 8,05 zł – wynika z opublikowanego we wtorek obwieszczenia Ministra Energii. To ceny niższe od tych, które obowiązują we wtorek.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/W-srode-ceny-maksymalne-benzyny-i-diesla-beda-nizsze-niz-we-wtorek-9222698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-dae77be68d5a71250f",
       "date": "2026-11-03",
       "title": "REMAK-ENERGOMONTAŻ SA (29/2026) Stanowisko Zarządu Remak-Energomontaż S.A. z siedzibą w Warszawie w związku ogłoszeniem wezwania do zapisywania się na sprzedaż akcji ogłoszonym przez Zarmen sp. z o.o. z siedzibą w Warszawie. | Biznes",
@@ -216,7 +303,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
           "type": "official"
         }
       ],
@@ -727,6 +814,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-45bd6b38982058690a",
+      "date": "2026-11-03",
+      "title": "Ukraina: Premier: rosyjskie ataki na infrastrukturę energetyczną w dziewięciu obwodach",
+      "title_pl": "Ukraina: Premier: rosyjskie ataki na infrastrukturę energetyczną w dziewięciu obwodach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVURJU3RZSnN0TGFXV21WeS1zbkVuTGJ6YlF1bUV5M0FPVkhQc1VGM3hTeGlnb0x6MU9oTXM4LVBBOHd0OENQWmRuRExvUHJ3bUcyaFk3bDhrQ1oxVWlPQWRTOU9hbUdReS1BbzBLMTAyMll0R293bnBJdTZIYVZvODZ1QUpPSGtoczV2a05XaVRSdmdES1Z0XzlDYkJNU3QxZGtIVG1ETE9qMXVxUEdRd1pDOFhtMnJyeUEyODBXWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2ca1892eb25a3b2a18",
       "date": "2026-11-03",
       "title": "Na jakie sposoby magazyn energii może generować przychód dla firmy?",
@@ -838,6 +954,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-080d0820822e527285",
+      "date": "2026-11-03",
+      "title": "Minister Energii: w środę litr benzyny 95 ma kosztować nie więcej niż 6,37 zł, benzyny 98 – 7,24 zł, a diesla - 8,05 zł. (PAP)",
+      "title_pl": "Minister Energii: w środę litr benzyny 95 ma kosztować nie więcej niż 6,37 zł, benzyny 98 – 7,24 zł, a diesla - 8,05 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQUh0LV9DYnhjWjBxYXdoQ2F6Z0tTVFBpclI2N1VhMlRfMHQ0VDZ2ZEptdlJsaGR2Q0dyV2dDUDgtYzlBVXEtT2NPZkRidFZGLXlvQlJtRTV4Z2ptemRSczVMRUhSUGxlUVI5R3JzZTlTa2h6Y1ZiWDJrXzBmd1Zab3RqTHRabXpReGN4akxiYWlTb2htUTF5NzVKQVY5NG94UUhIMFAyRkFtTDJpa0VzaDZJVjFONlZhbHlhUWlWWFc1c3Fxd2JIVWlaZnpJYmRtRTJjUmItd2dJb2M1V3dvb2V5ZHdGM2NJTkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3073,6 +3218,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8f379f93fa4c9ab886",
+      "date": "2026-11-02",
+      "title": "Koszenie farm PV bez uszkodzeń modułów. Warmia, Pomorze, Mazowsze, do 300 km od Olsztyna",
+      "title_pl": "Koszenie farm PV bez uszkodzeń modułów. Warmia, Pomorze, Mazowsze, do 300 km od Olsztyna",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzRPWHdfSV9oLWFlUGNteXc5QUt2SVkxMGtYVU10OVoyN3poenA1emk1c3ZINHFzcnh5QkhqLUNELTVHa2NpWVZtemMwR3JIVEJ3dlZmcW0wdEhRenNUMnNHcWFneHA2MkhaNjhWeDdtbTlJVHV2WVpmcW51WVJDWmlEWkdGNDUwaVNYdm1xeHpPTmFmaFRHV1ZTSlRzdy04c195QzZlMHlkazJxcmlrV2xOckJ4U3BIZmZZRGgyZVp1alNEZEpZdmJudHdDR0RYZF9rcTlJcTg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
