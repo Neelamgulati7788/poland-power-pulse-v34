@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:53:13+00:00",
+  "updated": "2026-11-03T19:53:49+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -407,6 +407,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d69b726121fe02bb45",
+      "date": "2026-11-03",
+      "title": "Paraliż w Kijowie. Rosyjskie drony uderzyły w podstację elektrowni jądrowej",
+      "title_pl": "Paraliż w Kijowie. Rosyjskie drony uderzyły w podstację elektrowni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGcyazdpRUJwelp1SEZIQVhCYTVrRFExdGlkZi1DMFBISFlNMUFFVUg5MnFPY2N0WW1RQVRYSzFuM051dm51cGIyRmgzbk9EMjd4Y3pKbmNORzBtMGtLT05PUlFrcFlzemJ4b18yN1FsX2lyaWJYck1oNmdUdkR5WnZHcUxJVjF3YS10Y3ZtT2FveHNBR3ZqRXpZR3ZHaGVFVjA2MVNwS0RpTFkxRExGaFdscVhBNUpZOU54Rw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d0ef9fde2dfe5677be",
@@ -1771,6 +1800,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-173c588a9c63168048",
+      "date": "2026-11-03",
+      "title": "Dostawa noży z węglikami spiekanymi",
+      "title_pl": "Dostawa noży z węglikami spiekanymi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "OŚRODEK TECHNIKI LEŚNEJ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39e2-1bec-9619-e2d6-6b000120e043",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-169d15933dbec93130",
