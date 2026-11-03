@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:26:04+00:00",
+  "updated": "2026-11-03T13:44:34+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-eaa5383dd472ebd76d",
+      "date": "2026-11-03",
+      "title": "Orlen analizuje celowość inwestycji BoB w Możejkach, alternatywą zamknięcie rafinerii - prezes",
+      "title_pl": "Orlen analizuje celowość inwestycji BoB w Możejkach, alternatywą zamknięcie rafinerii - prezes",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW9XR01mWkdnNkExc3RTLXhBV1YtSWx5c1FVQWkzc211U1lNZS0zTnRkcXBFa3o5V2ZzUU9WbkVYZkZJVU5FWl9VeDJNM1hTNDhZeG9yaEp0bDF4ZEY4REgwVXFhQUtEa1U1bmw4SW5hS3Npa2RxV0hLam5DM1lpeE90YjJ6ajFnLURGY2E2dHRsWnFqbnRIcHR2cDhHSmd2azgxQWcyY1pVMjJfNDY4Yzc4RQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -408,6 +437,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-c8d477d665833c7c8d",
+      "date": "2026-11-03",
+      "title": "Tauron i KOWR utworzą wspólne przedsiębiorstwo rozwijające OZE. Wniosek trafił do UOKiK",
+      "title_pl": "Tauron i KOWR utworzą wspólne przedsiębiorstwo rozwijające OZE. Wniosek trafił do UOKiK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOS0tWERhckNnLWdvNnVDcjktQ2w5NkpfSmNXeS05aVFwcWJ1SEJwQ21aT181RlRqRWh2MUdpTEVpNnFhS2ZZR3VIQU9DejBQYjRCSDJYeExkRFY4M0xDMTVUbmc4aGZqNk9WUHJOeEVVV1l6TjJzTWNWVlVHOFAxTFZteTNTejZUZ09RalE1Y21CSzI1TXRlcXpkU3gwLUppMHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c2ef7b1a33ec512581",
       "date": "2026-11-03",
       "title": "Tauron miał szacunkowo 1020 mln zł zysku netto, 1821 mln zł zysku EBITDA w III kw. 2026 r.",
@@ -553,6 +611,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-84dd26391c1ee79af5",
+      "date": "2026-11-03",
+      "title": "Fąfara: Inwestycja w Możejkach nigdy się nie zwróci. Orlen analizuje scenariusze",
+      "title_pl": "Fąfara: Inwestycja w Możejkach nigdy się nie zwróci. Orlen analizuje scenariusze",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach - poinformował PAP Biznes prezes Orlenu Ireneusz Fąfara. Alternatywą jest rezygnacja z inwestycji i ryzyko zamknięcia litewskiej rafinerii. Według nieoficjalnych informacji na inwestycję brakuje 600-700 mln USD.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-analizuje-celowosc-inwestycji-BoB-w-Mozejkach-alternatywa-zamkniecie-rafinerii-prezes-9222807.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8155fed1122f4185c3",
       "date": "2026-11-03",
       "title": "Wiceprezes KGHM: Stabilna jest dziś niestabilność. Polska musi zmienić model rozwoju",
@@ -611,6 +698,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-79f3074a3dc2b11d29",
+      "date": "2026-11-03",
+      "title": "Możejki na krawędzi. Orlen rozważa wstrzymanie kluczowej inwestycji",
+      "title_pl": "Możejki na krawędzi. Orlen rozważa wstrzymanie kluczowej inwestycji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYlBDR3daS083WTZGZHpQSU1QMW9SMUszNnhvUlVjN3lCaHdzeXJEV3hKV0swUnJELW5XcHcxaHNkUVRkVXJKNTYzM0d6N1hLX2JEMFFsRkV6OXQwZHA2UWtqRGlSODRFNUJaQnNBR0xYcU9iZUxVVzVHa2NMaVVLMVMtZXJzcDZyVkZNSktRRlJja29lWno3bERLRDNrTUFmYXZNcU5wdGNnYzNhOWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7655e801ccaf3afa27",
       "date": "2026-11-03",
       "title": "Gdańsk: Morski terminal Orlenu na Martwej Wiśle obsłużył od lipca ponad 30 zbiornikowców",
@@ -652,6 +768,64 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df398c-84aa-cfb7-e2d6-6b000120d54b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-710306b93ef3392c55",
+      "date": "2026-11-03",
+      "title": "Poland has EU’s second-highest electricity prices accounting for cost of living",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3NYbUphVnFMa1l0QWFvTTdBdlV6a2tGUUJvU0MwZ1EzeldjcVlOV2lzZkpFLS13RlFuMmhSR3dPcXdFVkVEeUlrbjlHTER5b2s2bzVrM0pKVDVoOEZZdWpHUTdhUTRkeDJmbXZwQWFDQjUtSXNVOWdpTU5Ebm1xTkVMaEFOVkR5VDE5bWxLQ1RZaERGWEM4R3R5NnljMWw5X2pOMUc0TGhneXVXX0I3bEZhLWo3RXZwWFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6ee063a3553b0792ce",
+      "date": "2026-11-03",
+      "title": "Wykonanie wielobranżowej dokumentacji projektowej przebudowy budynku adm.-gospodarczego Gospodarstwa Szkółkarskiego w Nędzy wraz z częścią laboratoryjną, instalacją fotowoltaiczną z magazynem energii",
+      "title_pl": "Wykonanie wielobranżowej dokumentacji projektowej przebudowy budynku adm.-gospodarczego Gospodarstwa Szkółkarskiego w Nędzy wraz z częścią laboratoryjną, instalacją fotowoltaiczną z magazynem energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Rudy Raciborskie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b0-55dd-2aa2-e2d6-6b000120de0d",
           "type": "official"
         }
       ],
@@ -756,6 +930,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-5f718dd33d46ccc8ef",
+      "date": "2026-11-03",
+      "title": "PGE podpisuje list intencyjny z Miastem Lublin, chodzi o dostawy ciepła",
+      "title_pl": "PGE podpisuje list intencyjny z Miastem Lublin, chodzi o dostawy ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTk81OEVtVmdRUzZCTkUzTmRCZHZfUmpiUzBvcUZsTi1OQ3ZLUm5kYWpCTkpKYVF5ekVodng3N09PQVhwX1o2VlBBeExnTlZ4WURieVl5SGwyV0dGN0VXU3VjazlCQjNSc0F5d3FRQl9aaThZVUhEQnFHOHBjWG9TdVg4TGU5UENDTzgzTG5hcWtiVlJVY1Bpa3Z3ZWVLazV6WUdNVE40cFlXcTdVeTgxZHZrRVNIWFh1OFhfOUZvZ0VYUDhhb1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5d19d39f282b69facb",
       "date": "2026-11-03",
       "title": "Ataki USA, rosnące ceny gazu i puste magazyny. Widmo trudnej zimy nad UE",
@@ -809,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4e194be8c2f128d1a3",
+      "date": "2026-11-03",
+      "title": "Fąfara: Orlen analizuje celowość dalszej inwestycji w budowę instalacji pogłębionego przerobu ropy w Możejkach; alternatywą może być zamknię",
+      "title_pl": "Fąfara: Orlen analizuje celowość dalszej inwestycji w budowę instalacji pogłębionego przerobu ropy w Możejkach; alternatywą może być zamknię",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMUFxLVlESEI1c3Q0cDdzcUZvOGFib0l0VGpUWExEVlptUURpYkNQZzlZS0VYVDBxWWtZc2RpQWhOSkkwQ2N0c19meW85UUFMTHhkWXZvbkd1RWswX0FLdGhhQlF4cjRxYWRMSG53aU56bF9xVmJfczVjNElacVh6TFBQVURHZmhQN1d5QU5yMkl5bFpGLVJkMElnMEtGa1JyN2VDWkhMVU1qVUxfLVNTNFdsWkNsRFU2V3RuWk5RZHlvSmhKZHR2OEdfMFNNQVhpYnFqbFZXVkd2LURYX1FrNGQ1NlRwZFpWQWZBVVVKLWdBNFJqRTRkc29n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -882,7 +1114,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVURJU3RZSnN0TGFXV21WeS1zbkVuTGJ6YlF1bUV5M0FPVkhQc1VGM3hTeGlnb0x6MU9oTXM4LVBBOHd0OENQWmRuRExvUHJ3bUcyaFk3bDhrQ1oxVWlPQWRTOU9hbUdReS1BbzBLMTAyMll0R293bnBJdTZIYVZvODZ1QUpPSGtoczV2a05XaVRSdmdES1Z0XzlDYkJNU3QxZGtIVG1ETE9qMXVxUEdRd1pDOFhtMnJyeUEyODBXWQ?oc=5",
           "type": "press"
         }
@@ -890,7 +1122,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -986,6 +1218,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-14aaa353daf4b3df47",
+      "date": "2026-11-03",
+      "title": "Dostawa traktora wraz z chwytakiem oraz wózka widłowego elektrycznego czołowego w ramach projektu pn.: „Budowa Punktu Selektywnej Zbiórki Odpadów Komunalnych w gminie Gomunice”",
+      "title_pl": "Dostawa traktora wraz z chwytakiem oraz wózka widłowego elektrycznego czołowego w ramach projektu pn.: „Budowa Punktu Selektywnej Zbiórki Odpadów Komunalnych w gminie Gomunice”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Gomunice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b0-6a9d-8bef-e2d6-6b000120de10",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1463fd22512dce2158",
+      "date": "2026-11-03",
+      "title": "PGE Energia Ciepła i Miasto Lublin wzmacniają bezpieczeństwo energetyczne",
+      "title_pl": "PGE Energia Ciepła i Miasto Lublin wzmacniają bezpieczeństwo energetyczne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDNsaVZUakdPYktnc3RqcjYwX2tVamlTeERTMzhFN05tN3dmbW9Nb1hFVVZXMHVpYnFadjd3UXVxdVQ1WE1KQTV1blJxcEpQaFR0S1NRS29rUHlkczZ1NURXMDVhSkxsU3oySU5RcWNWTUsxTjhaRXctMmpudnFTSGFsQnJwbDV3S2ZxVDJmcnZXU1dhTTlQN0U3RTduNUlnWU5faVZuUEg5LVlmT2dwdTBlaXNZbFhW?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-11250ab3b94715845e",
@@ -1157,6 +1447,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-009ace825b0276ddbd",
+      "date": "2026-11-03",
+      "title": "130 wniosków o małe elektrownie wodne. Wody Polskie stawiają na istniejące zapory",
+      "title_pl": "130 wniosków o małe elektrownie wodne. Wody Polskie stawiają na istniejące zapory",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVRYRXZpUUZZa2RkY2dWeUpmLUphQWVqd081LUJSaVlpSnF3SGl6VDg2YnVCaW9pS1U4bGZwaUhXbzYzSXNIVVp5SkQzQkllZW14VkFxMUo1M21pVWhCYlJRQWU2Sk5mcE5OR01vRzFaY21RTUloeXRDYnZubjl3bUI3NGRQaWdWZXZRYWYwQzRLQ29lN3NmTFViN2JSUFI1bFY0LUZyRS1LdXhrWFJRUTZxajhZX3BkSWZCdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2534,11 +2853,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Resort energii chce uzupełnić regulacje dla ciepła systemowego m.in. w zakresie systemu gwarancji pochodzenia dla ciepła odpadowego oraz wykorzystywania wód powierzchniowych jako dolnego źródła ciepła dla wielkoskalowych pomp ciepła - wynika z wpisu ME do wykazu prac rządu. Planowane zmiany mają wesprzeć transformację tego sektora.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Pompy-ciepla-i-cieplo-odpadowe-Rzad-planuje-zmiany-w-prawie-9222165.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzNFYlVtajBQazNiLVVxS1VaZ1B0QzdwYzFlbElLR0tjTVdDX3A4bklOeEd3bHVISE5mOGhJdEppNEtWTG1OS194MGFGMEhjWmJVbUJYaFY1bnM0cFN2ZGtKZENOMjlfNTliS2VURHNtYXgzV0pieEk4MVhOVEYyQVVidTRhdF9TLThoYy1xbk5ydVJtR0pCUTFzeVc3S1pzaFlDd3JhY1A?oc=5",
           "type": "press"
         }
       ],
@@ -2552,8 +2871,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c3e5dcefb5cdc22a6a",
