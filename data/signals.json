@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:53:49+00:00",
+  "updated": "2026-11-03T20:48:34+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -1449,6 +1449,35 @@
       "sourceIds": [
         "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-50f60ad20d787f5d28",
+      "date": "2026-11-03",
+      "title": "Energetyka i górnictwo - strona 2156 - Puls Biznesu - pb.pl",
+      "title_pl": "Energetyka i górnictwo - strona 2156 - Puls Biznesu - pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ZmJMVFBPcW1FLVlGUThWUTA0bnBBREZxTjB2cnhmaXRWb0dzeFhHZTBVR2I3b0VIbW9fNWgxazJzUXBMWDBqbl9YYVBMcGJwbHl1YWJpNTlFckRFTDhiRF95NkNudw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4931,6 +4960,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6988dbfc421f224a25",
+      "date": "2026-11-02",
+      "title": "XXVIII Mistrzostwa Polski Energetyków w Narciarstwie Alpejskim",
+      "title_pl": "XXVIII Mistrzostwa Polski Energetyków w Narciarstwie Alpejskim",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU9sSEVPTTJ6cU5BRnltLVRYdlNBVVZHem5WRTJFV0JZb3Fwc0Y3bWpvUkhMZXFsR2lFUlR2RGxxdmtXWHc1b1JOQU1oQUgxY2RJMmJ4eEczdlF5ZHEzUFJGTXktVFFUQUNwNGVKcVFtbjA5bXVSMml4RmFNVmRQdWVhN2drMTVaMi1JRGlWNktiSmM4b3ZmdQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
