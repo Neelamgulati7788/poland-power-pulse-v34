@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T08:31:51+00:00",
+  "updated": "2026-11-03T09:26:54+00:00",
   "signals": [
     {
       "id": "src-ed4f492d945f827ba3",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ecabaadff28bcef2bc",
+      "date": "2026-11-03",
+      "title": "Ceny gazu w Europie w górę po ataku USA na irańską wyspę",
+      "title_pl": "Ceny gazu w Europie w górę po ataku USA na irańską wyspę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGNoSXVnY210SG82RUFjc0JqRWpiZmM5b1c4Ym5HU0pFUkZmdkVkUnhpM2FFSXhTQzBhRHItZ3JTSFVZRlQtVDB0SldZcUJ2bGRyN2o3b1hGZnZLWUh1LWlrZmdTSEhxMXN3VnAwcy1Dbjh3YnFuM2RWUmxBRlJSMkxBa1IwY2NfcVU5bEg1djhrT3hGeFR2V1pn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -60,6 +89,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-dae77be68d5a71250f",
+      "date": "2026-11-03",
+      "title": "REMAK-ENERGOMONTAŻ SA (29/2026) Stanowisko Zarządu Remak-Energomontaż S.A. z siedzibą w Warszawie w związku ogłoszeniem wezwania do zapisywania się na sprzedaż akcji ogłoszonym przez Zarmen sp. z o.o. z siedzibą w Warszawie. | Biznes",
+      "title_pl": "REMAK-ENERGOMONTAŻ SA (29/2026) Stanowisko Zarządu Remak-Energomontaż S.A. z siedzibą w Warszawie w związku ogłoszeniem wezwania do zapisywania się na sprzedaż akcji ogłoszonym przez Zarmen sp. z o.o. z siedzibą w Warszawie. | Biznes",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUdJU0UwcU9XZGhjdVJ4UFFNaTVVY3ZoSU52Z01HbDJxNjZOZGZQd0JIdmpYSkVJT0pqMkN0bVVVbWluSnE0NTJaR1hVTkx5OVVqMkZIVnpVeWw0cExtTlZ0ZTZXVnYtTm1vNVY1Smg3YlRKand0cnQ3UC1jV1lFb2NqempPd25hQUpkSEgycVNObXNpUWhaa295NlY0M3hhNGF2a2hzNkphQzY2Rm1hNHJyWFBxd0dnM0dveUtR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d8d978aab15f1a406b",
       "date": "2026-11-03",
       "title": "Nowe technologie baterii z Europy. Oto co rozwijamy",
@@ -87,6 +145,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d0ef9fde2dfe5677be",
+      "date": "2026-11-03",
+      "title": "PSE alarmują po dwóch latach od reformy. Jakość bilansowania bez poprawy",
+      "title_pl": "PSE alarmują po dwóch latach od reformy. Jakość bilansowania bez poprawy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZicG9IOWZYSlJZbzFhOTk0aXhNdnZ4YnRIOURvWC1iRk9sSjJRODFTTmhZU0tqOG80YzNvQlp1cXBBcXZFMnMxS0xsaDJYbVNmZDFXU21zdHFFVHByT0xCOUFtc3B0SUs2RUd3YUxJeUFsYU9TcHlJNEZ5V2xldFNlNnZmVVdmTzVCREwyeEZkWXpfX21Idjl2ZmVDLXA3Sm82dHRtNy1UT2ppclRSNQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-cfe7db07005ae920c9",
@@ -321,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7115cfee68c27d2943",
+      "date": "2026-11-03",
+      "title": "Kompleksowa dostawa energii elektrycznej obejmująca sprzedaż energii elektrycznej oraz świadczenia usług przesyłania i dystrybucji energii elektrycznej do obiektów Gminy Kołbaskowo",
+      "title_pl": "Kompleksowa dostawa energii elektrycznej obejmująca sprzedaż energii elektrycznej oraz świadczenia usług przesyłania i dystrybucji energii elektrycznej do obiektów Gminy Kołbaskowo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA KOŁBASKOWO",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df398c-84aa-cfb7-e2d6-6b000120d54b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-6ebe42b250d8be70e7",
       "date": "2026-11-03",
       "title": "NEXIO ENERGY POLSKA, NIP 7011338516. monitorfirm.pb.pl",
@@ -345,6 +461,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b60ef21162d730c6c",
+      "date": "2026-11-03",
+      "title": "Bogdanka sprzedaję tonę węgla energetycznego po(...) - Forum",
+      "title_pl": "Bogdanka sprzedaję tonę węgla energetycznego po(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzEzNmtIOTB2REtrZS1MS1c2ZVZXdGVDeDFwXzVUMEhhYjJiVmMyNWRIUmdvLTZrLXUyVUJzMmxTZ1FZVkR0VkhrNks5QktFS3Q5bUxJeVBxMHZJLTROdWtKb3V0eDlPR0ljbThzUm9TdFhoYnFkV3NibjJmczFMQWRsaHdySE1FbkxnZEw0X1RKdlZzM2tRb2F2TUp2cnV5d2t6elpQRnJzZEJqS3h6dzFqZmJzb00?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5d19d39f282b69facb",
+      "date": "2026-11-03",
+      "title": "Ataki USA, rosnące ceny gazu i puste magazyny. Widmo trudnej zimy nad UE",
+      "title_pl": "Ataki USA, rosnące ceny gazu i puste magazyny. Widmo trudnej zimy nad UE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkdxb1Y0WHNRWUd3a25fV2xjaGVZUWZOMlZmaVU0Qy0wdmJPdjhUZkM4amUxWGtCQi1zUEowUWdkTi1OQTJTX3NtaUp4RTVPQm5SSGVKaFhxaHR0bzI1T2NMR0Yxcm9QXzdzcU5ta0szZC15UWgyWFdoODhLSF9TY0hJSV9zVVVTSkVadm5mRVdPVHFRSXpPWlRTdDYtUVYxZ1lyc1RtU05jOUk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2770,7 +2944,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNKTS1IRG1BZzZuWHhkbENYV0hmM01FOW0xMV9Yb0tCNDFBSXJ0OGF5b3plM0x4OS1rM0ZxeXVVUl9hRXJaN0Ntbk1XYkRTSHZQRmtQblJRSkdVRXk3TndRRFE4V0szaDdZbmc4SU9xa2daejZucDZ2a1A2Tms2NTRnUGVGd3Q3RUJTdFM3cEI4REMwYWl6alVpMUt3WEZ0cWtyMzVvSndRZ3hfV0d0Z0ZSOHAzYXk5R0d1Y3o5MFJWeV9MQzNuc281dmFRZUYyWjJaVDFxXy1wRVlRYVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1A0YXduWWZqU1R5bVNnM010YVY4aDluNEZBcGFHWktUZmtreTZMQ3lQcGNZMHl0OHVnbER0OGI3WE1EcHBhS0QxQjBqMklRTG9xOEVJbHpIemYxUzI5a1Q4TEdaeWRfeHptSWxmZGVfY0JoV2MwdUI5TkV6R2FUZ3ZiUEcyZ3BqX0ZkczlYWlBJR1lyUDd1SFdaLVYxdUhlX0oyWlg5ZG5FWldtZUhRT0Z3V2hNMHptQWUwMWRCNmtsbXZiNkxtWGZEYTdDdjc1aFE?oc=5",
           "type": "press"
         }
       ],
@@ -2778,7 +2952,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://fotowoltaika.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -4640,6 +4814,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1897e433170c80b14b",
+      "date": "2026-11-02",
+      "title": "Archiwa Energetyka - Strona 2 z 2",
+      "title_pl": "Archiwa Energetyka - Strona 2 z 2",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93R05IWnJwOVptR19JZjljWi1weV9aMXVfcFJCRjRqck42cXpZU2tlLXhzZS16V1JodThybFlFWnFQblh6bXg5UVI4OGpFVmFYSmVLQXYzWEdZX1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
