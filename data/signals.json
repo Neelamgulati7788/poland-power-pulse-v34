@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:08:02+00:00",
+  "updated": "2026-11-03T08:31:51+00:00",
   "signals": [
     {
       "id": "src-ed4f492d945f827ba3",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d8d978aab15f1a406b",
+      "date": "2026-11-03",
+      "title": "Nowe technologie baterii z Europy. Oto co rozwijamy",
+      "title_pl": "Nowe technologie baterii z Europy. Oto co rozwijamy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Chiny produkują większość baterii litowo-jonowych na świecie, dominują też w dostawach materiałów do ich produkcji. W dodatku dzięki ogromnej skali działalności, zintegrowanym łańcuchom dostaw i wysokiej wydajności fabryk, potrafią produkować ogniwa znacznie taniej od europejskich konkurentów. Według Międzynarodowej Agencji Energetycznej (IEA) koszty produkcji baterii poza…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122506-nowe-technologie-baterii/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-cfe7db07005ae920c9",
       "date": "2026-11-03",
       "title": "Platforma zakupowa Grupy ORLEN",
@@ -71,7 +100,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cand3OTlfR1JyTHd2bm5tZEtlY2tjVF9zMlhYUktLRGFRdk43MUZuLUpGS0I3YV96OS1mbmxKSS12TGZaSG10SGlYVGpqbW81QmtSZUNOUkM4Vjd4WmhVTGNSOUR2RFQtN3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
           "type": "official"
         }
       ],
@@ -147,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ad37a7121fa008be61",
+      "date": "2026-11-03",
+      "title": "Dostawa Energii Elektrycznej na potrzeby zasilania lokali i budynków oraz oświetlenia ulicznego Gminy Purda i podległych jednostek w okresie 12 miesięcy od 01.01.2027 r. do 31.12.2027 r.",
+      "title_pl": "Dostawa Energii Elektrycznej na potrzeby zasilania lokali i budynków oraz oświetlenia ulicznego Gminy Purda i podległych jednostek w okresie 12 miesięcy od 01.01.2027 r. do 31.12.2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA PURDA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3984-b661-ccc4-e2d6-6b000120d3c5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-911f3e6b0a71807fdb",
       "date": "2026-11-03",
       "title": "Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej. Ozn. sprawy: DNZP.260.76.2026",
@@ -203,6 +261,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-8155fed1122f4185c3",
+      "date": "2026-11-03",
+      "title": "Wiceprezes KGHM: Stabilna jest dziś niestabilność. Polska musi zmienić model rozwoju",
+      "title_pl": "Wiceprezes KGHM: Stabilna jest dziś niestabilność. Polska musi zmienić model rozwoju",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polska gospodarka stoi przed koniecznością zmiany modelu wzrostu. Przewagi oparte na niskich kosztach pracy stopniowo się wyczerpują, a w kolejnych latach coraz większe znaczenie będą miały kompetencje, kapitał, technologia i zdolność do ekspansji międzynarodowej. Równocześnie przedsiębiorstwa muszą nauczyć się funkcjonować w świecie, w którym niepewność…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-KGHM-Stabilna-jest-dzis-niestabilnosc-Polska-musi-zmienic-model-rozwoju-9222593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-7655e801ccaf3afa27",
@@ -292,6 +379,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-49dbf0e31bf821ba71",
+      "date": "2026-11-03",
+      "title": "ELEKTROMONTERKA/ELEKTROMONTER UKŁADÓW POMIAROWYCH - RE PRZEMYŚL",
+      "title_pl": "ELEKTROMONTERKA/ELEKTROMONTER UKŁADÓW POMIAROWYCH - RE PRZEMYŚL",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONi04QVBVQ3AwX2pzRFlIXzBoa3QyQ29YaHJfRkNMN2VZYVQwbEVUMlBvTlBNZE9kTkVIczA2OHp2cGZrQi1lbEI3SW5Rdjd4ODhYLUJyUHBpNnphLVBOLS1vLVNLVVh3UU05ZDJJZXl1MDE2NDdzbXctb1BaYnRYV1h3UjhiSmFrQ0J6d3VXY0MzOFcyaXFyRzZ2aFNEY2k4aFVZYVNYRTMyemM?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2ca1892eb25a3b2a18",
+      "date": "2026-11-03",
+      "title": "Na jakie sposoby magazyn energii może generować przychód dla firmy?",
+      "title_pl": "Na jakie sposoby magazyn energii może generować przychód dla firmy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlhCVl9xMXlUTGl6YU1HeEItWDI2N0ZZVHBpWTF3QkZYdmRiUEVXdlBLMW90enlSbVcxTTBpN015dk5peHJSUGFFbzB0NlVXS2FTSzI5emNyLVQxLURqMlZZX3VwSXdyb1FHcTZOTlp0QW1pMzd4LVphWWpSeVVweWNUbm9VZUZ0LWh0T3QwajBibjd1U2s5dm5mM3VrRWhLWVFkc0VxeWJteFRUeUNDLTBJQlVrNS0wRTUzTUticngtOTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-169d15933dbec93130",
       "date": "2026-11-03",
       "title": "Polska – Usługi w zakresie napraw i konserwacji elektrycznych instalacji budynkowych – Naprawy i usuwanie awarii instalacji elektrycznych i odgromowych, linii kablowych i oświetlenia terenu na terenie kompleksów administrowanych przez Jednostkę Wojskową nr 2063 w Warszawie",
@@ -319,6 +464,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-0da27db30a302936d0",
+      "date": "2026-11-03",
+      "title": "Nowe zasady aukcji dla farm wiatrowych ograniczą kumulację inwestycji na Bałtyku",
+      "title_pl": "Nowe zasady aukcji dla farm wiatrowych ograniczą kumulację inwestycji na Bałtyku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2JsRFJIQ2ZDRHlLVUxYMndoSjhnLU9YUFBVUWxua1ltckV3M1o4VjNTeDU1eXA3WGhTUnJQbkY3QlBrb0NnTUJtRW45OE1jN1JJN0t6dVJ4bFROWG1Ma05LcVdMN2RNQ2E5NGNuS0JkTzdJV3hsb0FvekpCQTRFTGdxTmxOOC1XdThPa1dxMUs4U1JBb2ZkSFppNVJtaDBsRGRhUTE3M01xcnlCSDZJTkZ6c1cyYmdxbGVXeERBYlloS3J2a0djSG1fY0FqRms?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0bb30757f06fd0c392",
@@ -5323,7 +5497,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEtxRk84azRnb3drZlAxaXdES2xBWmZXTUM2Z1lVeTNBQ3ZFelIwM3lyN2IwYkpPUTJzQUYzbmlBZzV6Q05sM2xYMkhGTkNEUUJFQnNVMEhfc1U0UUlZSlZ1TzJYVWQ1amo5QndBTGpRV1pMa2NycmMtSWJIZElQd2l1VFIzRnlWRkpEYkplYkQxVHB6VDhGZENqeUNrRzZfOHh1dHlDLV9NV3B0bTVqM2VFYmE2R0pBTDlyWVVKaURlV0lQVFpnbg?oc=5",
           "type": "press"
         }
@@ -5331,7 +5505,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
