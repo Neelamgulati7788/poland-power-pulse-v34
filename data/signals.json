@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:57:36+00:00",
+  "updated": "2026-11-03T15:52:42+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -148,6 +148,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e9f75b46dedd3e19d6",
+      "date": "2026-11-03",
+      "title": "Postęp prac energetycznych na budowie CPK",
+      "title_pl": "Postęp prac energetycznych na budowie CPK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzI5QTl5RUtCS2k0ZzljcFJ5NGdMYThiYlo2SUZvUUZBRm5EYlc4bEtEUTBjR2JhVzh2RFBOTzhhV1VsVnJHOVk4TXdMbWtZTmp2MHVoN1BKMWVVY05Da2JUNmNMMjVYSUVMSTlOZnZDXzZfcnZjT29IYW9JSmEzOEZla1pRR2h2SDRqTF9lazZpVFRLaTVBWUw2NEdEQ1U?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e5a0065d9335a0a39c",
       "date": "2026-11-03",
       "title": "Prawie 29 mln zł dofinansowania na fotowoltaikę i pompy ciepła",
@@ -230,6 +259,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dd0c5e8934f19b5a68",
+      "date": "2026-11-03",
+      "title": "GEN-I chce zarządzać magazynami energii i rozwijać umowy PPA w Polsce",
+      "title_pl": "GEN-I chce zarządzać magazynami energii i rozwijać umowy PPA w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYURIN3BiZnhRUmFRQWY0bVluVTUxTUdzb2lHWUFMVWZSTUd2WHVvX3RxWm1QQTRJX25pRF9OZ3A3Nm1IeWsySnJfcmJZS2thT1VXb3N2M3UxcnZxeFFuNHd0M2xBTWdCM1A0QTV2cTZtSkdCMXpjQUFVSklVRjZjVENoLW50SEtRLXVjYXJkeWhxRTkxclBKdl80VU10UFNRRk9TX19sNzJ0dVdpbVpfeXNIMHF1NVpIdjQ2M0dQRFNXYkw3OWEw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -902,6 +960,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6d24e5cac8fa337f92",
+      "date": "2026-11-03",
+      "title": "Dostawa energii elektrycznej dla Państwowego Muzeum na Majdanku",
+      "title_pl": "Dostawa energii elektrycznej dla Państwowego Muzeum na Majdanku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Państwowe Muzeum na Majdanku",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39c1-88af-e4f5-e2d6-6b000120dfc0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-6b60ef21162d730c6c",
       "date": "2026-11-03",
       "title": "Bogdanka sprzedaję tonę węgla energetycznego po(...) - Forum",
@@ -1246,6 +1333,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-20125cd88021bc809e",
+      "date": "2026-11-03",
+      "title": "CPK: nowe linie elektroenergetyczne 110 i 220 kV przeszły odbiory techniczne",
+      "title_pl": "CPK: nowe linie elektroenergetyczne 110 i 220 kV przeszły odbiory techniczne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclN4eUI2WjNIVVhBVUYxSkRhTnhQUHBhOWpkWTFrbWh4ZldnNHJzbHlWcEd5bmwyT1ZlSGpvZm5hempZbUZBWXRwVmxNTE5kQ1V2RUE1UUVJRi1raG93Uy01Nl9OeUhibjR1Nk5icVllSEVxR3NzSFVTbTg2WGpvMGJyaEZ6dDhoTjJXam01Nk84U1JYSkp4dktfRFFhZnNMXzdMVFJ3aXJKcXZvSThuV1cybw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1fa1b1010387a4686b",
+      "date": "2026-11-03",
+      "title": "Zamienią starą lokomotywownię w bazę autobusów elektrycznych za niemal 6 900 000 zł",
+      "title_pl": "Zamienią starą lokomotywownię w bazę autobusów elektrycznych za niemal 6 900 000 zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWEwa3NwY21DTG9xZENZR1pHbVlFbWxSekQ4aWxkVFBJRnNZbWVxcC1LMWlDanppM3BPMmxRV0o0QzlTTmR3VFJXbkFBTzBRb001XzhBTmlaVksxN1U3bFE0Zjl4N2FMMVl6OUFVZ2hFMWhkN1BJLU41aXhCeXlyS1o1U1R4S1poV1dmWFdMeTFiM254ME84ai1KNFhHVTMxWlJldkY0UEFnYlhXa0lsWVpJN1hHcW9BTFh1VU8zNXI2RVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
