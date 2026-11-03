@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:44:34+00:00",
+  "updated": "2026-11-03T14:57:36+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -141,7 +141,8 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
-        "25"
+        "25",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -611,6 +612,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-8ddf3834a8935f10ff",
+      "date": "2026-11-03",
+      "title": "PGE Energia Ciepła chce wybudować w Lublinie magazyn ciepła za 100 mln złotych",
+      "title_pl": "PGE Energia Ciepła chce wybudować w Lublinie magazyn ciepła za 100 mln złotych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU52eG1HSGdWUW1PVnRGbFZlSmY4Mkc3MkJvOVQwa3VkTF9CUnhzZnhrNFVBWklKWnhWY3IwbHl4QVZNbTJkdVE5ZDRkc0E4cWRCRlpHMjBCSGtSQlhwWEloM0J1MlNqcDItRzBQTXRScGI1VVpkbkpUYVUyLXlQallrVVo3TDRDSUZ3RmNNd3FhVHpVQ1lyUVdBWHNxcFNqQVhOaU84MXFEQk1BNDRfeHY1UER2Sm1UeGp2UDB0OV9udVJBN2dTUUg3SE8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-84dd26391c1ee79af5",
       "date": "2026-11-03",
       "title": "Fąfara: Inwestycja w Możejkach nigdy się nie zwróci. Orlen analizuje scenariusze",
@@ -1017,6 +1047,36 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-584459fdbbfdd787df",
+      "date": "2026-11-03",
+      "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
+      "title_pl": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjd0YTNFSDVDMXg0OWlzQzktMXBsb1ZsT1JZb0tILW94LUdsOHJEZ2ZTWmV4TWtEamdZMTF4cUtjRnpKQjVkZmtLYWZTMFp2SzIyZ2FiTDFwc2ljYTJiNk5LbTdVTjZBMVk4eldZb3l5N3E4ZjFhSHlpZmV0c3FBU0dobS1OeTRFaG14d0JCRVJiMjQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4e194be8c2f128d1a3",
       "date": "2026-11-03",
       "title": "Fąfara: Orlen analizuje celowość dalszej inwestycji w budowę instalacji pogłębionego przerobu ropy w Możejkach; alternatywą może być zamknię",
@@ -1133,6 +1193,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-301d83b8facfa1db6e",
+      "date": "2026-11-03",
+      "title": "Tauron plans renewables JV with Energia z Rolnictwa in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTJPT0pVUDdLWXpOUGVDODdDZmpNMDVNVVZPS2VuVEVBSFJWVF8wcGUzdngzWElSa24yTnJDWjh4eTZnMVZfczVBQVBoaE5zcWVWR29vRTFxSFNkSjQ3VXFwYnJfZHh1TmZYRmVZUFl4Tjg5TU5rSmhFaVpBdFc1aWZGcVkxZk9MU0RuclZGLTRwb2hDcDY3RV9IWW5TQTZOenpB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2ca1892eb25a3b2a18",
       "date": "2026-11-03",
       "title": "Na jakie sposoby magazyn energii może generować przychód dla firmy?",
@@ -1218,6 +1307,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-15dcf399654ec3cf7a",
+      "date": "2026-11-03",
+      "title": "Ceny energii rosną. Czy wynagrodzenia za nimi nadążają?",
+      "title_pl": "Ceny energii rosną. Czy wynagrodzenia za nimi nadążają?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmU1cEk2b3pWTHBKekhUUDg4QmRGR1FqUHg3Z1FiYkU2cmdhbnAycWhrTWI2cGhneUlPWlU3ZlpOWC1HRXJCZE8tLUpJN2x6NlJnTllQcmRXU1VqemJmSGNHOXRjMXU3dkhjNWRqSjlfdXZmb3hfN1ktV2sxS3BVSDhCNTFnVjlUU3JZMWYzTWJQSDMzenZvOS05U3lObE00d09LRWRfNGEzbmw3VFZF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-14aaa353daf4b3df47",
