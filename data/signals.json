@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:48:34+00:00",
+  "updated": "2026-11-03T21:45:46+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -813,6 +813,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-958889edde3c47d864",
+      "date": "2026-11-03",
+      "title": "„Wymiana źródeł ciepła i poprawa efektywności energetycznej Szkoły Podstawowej im. Jana Pawła II w Dąbiu”",
+      "title_pl": "„Wymiana źródeł ciepła i poprawa efektywności energetycznej Szkoły Podstawowej im. Jana Pawła II w Dąbiu”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA DĄBIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39f2-1a7f-ef59-e2d6-6b000120e081",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-911f3e6b0a71807fdb",
@@ -1655,6 +1684,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-43daf8fd681e3c8582",
+      "date": "2026-11-03",
+      "title": "Usługa dystrybucji energii elektrycznej dla zasilania podstawowego i rezerwowego obiektu Prokuratury Okręgowej w Krośnie przy ul. Tysiąclecia 3",
+      "title_pl": "Usługa dystrybucji energii elektrycznej dla zasilania podstawowego i rezerwowego obiektu Prokuratury Okręgowej w Krośnie przy ul. Tysiąclecia 3",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prokuratura Okręgowa w Krośnie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39f1-48a3-1da1-e2d6-6b000120e07d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-3df5afb5cd3ee3174b",
@@ -2726,6 +2784,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ecb605ed2934844e03",
+      "date": "2026-11-02",
+      "title": "XXXII Ogólnopolski Zimowy Rajd Górski Energetyków „Polski Spisz – 2027”",
+      "title_pl": "XXXII Ogólnopolski Zimowy Rajd Górski Energetyków „Polski Spisz – 2027”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDBOTVROU2ZHUml3TGYyRUh1NE9TVlJJT1VqOUtiN0c3cHdKWkZQeEQ1STZGNTBUb2czMDN3WUNGazM3MDIzYTYzNU40ZHhRWlZJNGVhVnBSMEVkNndjSFFQSktMclBXOWROU2VSbmYtRmVkdGlLN2tLMDMzODhfbnNKd091RHc3WFllMlFqRjBUNnBKNGdNamFBbDFEVS1M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
