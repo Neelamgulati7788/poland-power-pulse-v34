@@ -1,6 +1,93 @@
 {
-  "updated": "2026-11-03T04:55:35+00:00",
+  "updated": "2026-11-03T05:55:37+00:00",
   "signals": [
+    {
+      "id": "src-c9e29aa29f9a0acbb9",
+      "date": "2026-11-03",
+      "title": "Zad. 5 -Świadczenie usług utrzymania urządzeń i instalacji elektrycznych w obiektach PKP S.A.",
+      "title_pl": "Zad. 5 -Świadczenie usług utrzymania urządzeń i instalacji elektrycznych w obiektach PKP S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Koleje Państwowe S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396e-8d35-4c54-e2d6-6b000120d102",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-bf1a39f04099eba8ca",
+      "date": "2026-11-03",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUtPcHBwaEVOamZfajdLcFdIU081b2c3MllWblI4ejU1aW9CNGI0ZEU0WEtLeTJIQzJkQXdvQzNQTkpSaFd3VGlOUHFhMjJ1Sy1hQW5KMkIwdWdtaVRzSGItQkh2Z2hZZ0E0WXFUVzZaMV8wNWtaZ3hGWGdHd1o5U3FNNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-911f3e6b0a71807fdb",
+      "date": "2026-11-03",
+      "title": "Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej. Ozn. sprawy: DNZP.260.76.2026",
+      "title_pl": "Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej. Ozn. sprawy: DNZP.260.76.2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396e-86a4-3ca4-e2d6-6b000120d101",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-8e9d6d16bf4be293b7",
       "date": "2026-11-03",
@@ -29,6 +116,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7655e801ccaf3afa27",
+      "date": "2026-11-03",
+      "title": "Gdańsk: Morski terminal Orlenu na Martwej Wiśle obsłużył od lipca ponad 30 zbiornikowców",
+      "title_pl": "Gdańsk: Morski terminal Orlenu na Martwej Wiśle obsłużył od lipca ponad 30 zbiornikowców",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekNnU0dZTHdQVnpHeEdHUjlHd1FnaUEyU1BQOEF2ZnE4Wmd4Y25jX0luNlhzTkRqdlM5X1NhOVRVLXNuNGZhME00OC1hdGFBd0hSR0d2UEU0S1RsalVKbkxQUUlIQkdBZXZSQmVLNWpmY20wTlFyR0hqdl9oMUtySm5sbWxJNjZlemRIWXdDQVZnZmwzMnN4NVFzRUtBbzVxd3NCR1F6T1g4bmpteFpqSnk4cjFrUl84TGdFNXhNT19kU0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-169d15933dbec93130",
@@ -1800,6 +1916,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a4339339a4b38fdd4b",
+      "date": "2026-11-02",
+      "title": "Dyspozytor Regionalnej Dyspozycji Mocy, ORLEN S.A., Gdańsk",
+      "title_pl": "Dyspozytor Regionalnej Dyspozycji Mocy, ORLEN S.A., Gdańsk",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa-Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY2IxcmNyejVWU3BTVjhMSm1zUjdHRDloaU9xdlAzYTg2MHkyMnNYVGtlQXBNRTBJLUF1eUlyMVJnektiaDVnOEF6VUxDbVA0SWtBNWFXbzN5ei1ybUM1YWk3M2JlVWRpeU9BTGJZNTBHa0hybExEVmNhNXBEd3E0T2JJSnZ6V1lzaXhJdE1IcHlOZGJGTlVldzJsMk9PTVVjRWlEWEZWSUZyaE9PeGpnNXBUWWp2Wnl4WEZsVnpoSjNFM1dLVS1sTUxR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa-Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a38df4ce3e31a78c1a",
@@ -4176,6 +4321,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0f99ebbe98ca227f6d",
+      "date": "2026-11-02",
+      "title": "Archiwa Ciepłownictwo - Strona 2 z 2",
+      "title_pl": "Archiwa Ciepłownictwo - Strona 2 z 2",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SYVkzMHZISnNiMVU2MWpuWGRXWmhTT1N5dmNSSnNhdVRTMG5uYzlaLVJTZmRkUFZCMVdQNHg5UlJnRTI0MHVyRVRGQVVtbVFvWXNMazRTUFd1RF9YTzdF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
