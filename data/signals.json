@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T02:00:14+00:00",
+  "updated": "2026-11-03T02:52:24+00:00",
   "signals": [
     {
       "id": "src-8e9d6d16bf4be293b7",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-169d15933dbec93130",
+      "date": "2026-11-03",
+      "title": "Polska – Usługi w zakresie napraw i konserwacji elektrycznych instalacji budynkowych – Naprawy i usuwanie awarii instalacji elektrycznych i odgromowych, linii kablowych i oświetlenia terenu na terenie kompleksów administrowanych przez Jednostkę Wojskową nr 2063 w Warszawie",
+      "title_pl": "Polska – Usługi w zakresie napraw i konserwacji elektrycznych instalacji budynkowych – Naprawy i usuwanie awarii instalacji elektrycznych i odgromowych, linii kablowych i oświetlenia terenu na terenie kompleksów administrowanych przez Jednostkę Wojskową nr 2063 w Warszawie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jednostka Wojskowa 2063",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3948-4b43-7855-e2d6-6b000120cfaa",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-0457c8521122af4588",
+      "date": "2026-11-03",
+      "title": "Gigantyczny rachunek dla spółek energetycznych. URE chce nawet 1,5 mld zł",
+      "title_pl": "Gigantyczny rachunek dla spółek energetycznych. URE chce nawet 1,5 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDB2Z3hBVUpZa29acjQyWlh3eWIwNVJyRlJGRmVVNmFwWFREdHlXeHJzbUJJbjZIZ2FHYmdOeldOTGh4OXBlLUdtU1Fyb0s4ajRXUlo2OHJETHBpLVJuTE5ndVFPbC1uek5JRnpvaEhNZFRrbVZNS09EU1p5SzNqTGtEakdyUG1vUjlDWDZkTW10ZzdtT284QTNWZ3dZWFNLQTFFYXJHSHB1U2N6U1hfcVFjS3VDck55?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fe67b063a7f25303d6",
