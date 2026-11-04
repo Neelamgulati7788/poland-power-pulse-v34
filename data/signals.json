@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:41:20+00:00",
+  "updated": "2026-11-04T01:00:31+00:00",
   "signals": [
     {
       "id": "src-fea00fcbba1c036787",
@@ -784,6 +784,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a3b944155c1dff7bcf",
+      "date": "2026-11-03",
+      "title": "Enea wypracowała 542 mln zł zysku dla akcjonariuszy w III kwartale. To wynik poniżej konsensusu",
+      "title_pl": "Enea wypracowała 542 mln zł zysku dla akcjonariuszy w III kwartale. To wynik poniżej konsensusu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWNfd2xZTDhTaUdJdGh5T3BGZ0NTWDZpREx4THQ0U2R1c1pmREVJWXJjdWd1ZWREZFdhTGU4U0NiaTBzU0d5WDhTdW5ULTNLY3J4STBITWdGYXRZeTFZUUFnM2FjOUZIZS16RHdNekxrcldFdEdiak40ZjRmWGxmc2V1alBYV05zY3lEWE1QaHg5dUdxNUp5WDZWaXotb1RiN3VmYUVmTklHQlkyclk1eTVBMnpKbjl3NWZidQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9c57e650e8fe1be842",
@@ -4744,7 +4773,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1A0YXduWWZqU1R5bVNnM010YVY4aDluNEZBcGFHWktUZmtreTZMQ3lQcGNZMHl0OHVnbER0OGI3WE1EcHBhS0QxQjBqMklRTG9xOEVJbHpIemYxUzI5a1Q4TEdaeWRfeHptSWxmZGVfY0JoV2MwdUI5TkV6R2FUZ3ZiUEcyZ3BqX0ZkczlYWlBJR1lyUDd1SFdaLVYxdUhlX0oyWlg5ZG5FWldtZUhRT0Z3V2hNMHptQWUwMWRCNmtsbXZiNkxtWGZEYTdDdjc1aFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNKTS1IRG1BZzZuWHhkbENYV0hmM01FOW0xMV9Yb0tCNDFBSXJ0OGF5b3plM0x4OS1rM0ZxeXVVUl9hRXJaN0Ntbk1XYkRTSHZQRmtQblJRSkdVRXk3TndRRFE4V0szaDdZbmc4SU9xa2daejZucDZ2a1A2Tms2NTRnUGVGd3Q3RUJTdFM3cEI4REMwYWl6alVpMUt3WEZ0cWtyMzVvSndRZ3hfV0d0Z0ZSOHAzYXk5R0d1Y3o5MFJWeV9MQzNuc281dmFRZUYyWjJaVDFxXy1wRVlRYVE?oc=5",
           "type": "press"
         }
       ],
@@ -4752,7 +4781,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://fotowoltaika.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
