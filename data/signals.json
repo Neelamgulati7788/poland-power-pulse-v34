@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T13:03:31+00:00",
+  "updated": "2026-11-04T14:20:00+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -143,6 +143,35 @@
       "sourceIds": [
         "18",
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e5cc12362739fe3beb",
+      "date": "2026-11-04",
+      "title": "Zatrzymania ws. elektrowni Ostrołęka. O co chodzi w aferze, którą żyła cała Polska?",
+      "title_pl": "Zatrzymania ws. elektrowni Ostrołęka. O co chodzi w aferze, którą żyła cała Polska?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDIzeXVwMkhfSnpTMGNna1paRWdDUlRlb2hVUHhjZGRKTjJmWFh3SC1WVk1BYUZOQ3c3a0g5eHNJSE50eDAtQk5FU2JaekRGQnlzNGFQUW11YzlDV0hKVHJ0YktQTjloSTNKNk1mTDNyUWdMaVFOVVliVklvYnc2MUUyQWtEUzlyNlRPLVBoaFpFNzA3aXZXdktJNHpob1JERnJBbjFSWGhaRGIzVjk4Qll5bVhPOVplYXRGUmRlM3Q?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -451,6 +480,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEZRbzBtSmdKTlZLM3RuNkE3bWxDOWJ6TzFBQXFWTS1sOVAtQXhoOVI5dGI4dnJ0TklGYm5kNjdzWXd0M3lXVXo3X3hBcHp5emJmX0NKbmlWeGt6SElud2hhRm9TRXExLTJlNUIySGRZaGhDRFNuWEY1cXg5MWh1UEd3R2h4SnU3ZDlnUUdCX1BadnBpWjVqRDVNbjdXZm1JLThJY1QxVWVuS1NhNVhxdkYyREd6S2tuX2xSaTdKRV8tZDR3a3dSM3ZUZC1aa3F2ekpYZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c981086a8327e0acdb",
+      "date": "2026-11-04",
+      "title": "Octopus dodaje klimatyzację do pompy ciepła. Bez osobnego splita",
+      "title_pl": "Octopus dodaje klimatyzację do pompy ciepła. Bez osobnego splita",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlVjZGQzemlYY3d0MU16YlFzd25YM3hBWlpQRDJaWjJCUnE1VUM1N211VG8xUEJFMllCRVRScFBNV0JFM3ZCLVR6MURicG9fc0dUNGxMa2ZOOF8tMlhQQ2JpTEVnXzdLdnpaZXZQRTB1MEpBdTNzM090Vm02dGN1R3F5ME41R3VRRDJzY2VZY1RoZWxLSHUxbQ?oc=5",
           "type": "press"
         }
       ],
@@ -1194,6 +1252,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-76c237999210d3a25a",
+      "date": "2026-11-04",
+      "title": "W czwartek na stacjach taniej. Diesla zatankujemy poniżej 8 złotych",
+      "title_pl": "W czwartek na stacjach taniej. Diesla zatankujemy poniżej 8 złotych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 6,29 zł, benzyny 98 – 7,10 zł, a diesla - 7,97 zł – wynika z opublikowanego we wtorek obwieszczenia Ministra Energii. To ceny niższe od tych, które obowiązują w środę.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/W-czwartek-na-stacjach-taniej-Diesla-zatankujemy-ponizej-8-zlotych-9223520.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-7397658b425f15f168",
+      "date": "2026-11-04",
+      "title": "Litewskie ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
+      "title_pl": "Litewskie ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkZHdmJ6TzBVZy1hOWl3akR3V0FlWUhTTl83a2VKWXN2QVJNMHMzVXlRdGZJZlB2ZmZ2XzlyRS13ZnhZYkNhZzJTNUhSYjdCM3hSMHIzUzlnTzlGYkdNZUdTNjFSbFp3VXVFamJEMHdldlV3Z3Y0WjI2bml2NFVzTzc3X2N6bDlWbG1LMEQzRHhBejNya1Vkb2w4QlduMi12NDlzal9tbk1OYzIzc2FRY3VwY2k3U3Y5czB3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7269e6d12039b5a56b",
+      "date": "2026-11-04",
+      "title": "Polska i Czechy idą na zwarcie z Brukselą. Wspólny front w obronie przemysłu i blokada ETS2",
+      "title_pl": "Polska i Czechy idą na zwarcie z Brukselą. Wspólny front w obronie przemysłu i blokada ETS2",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Premierzy Polski i Czech Donald Tusk i Andrej Babisz zapewnili w środę, że oba kraje będą walczyć o wspólne interesy w UE - m.in. w kwestiach energetyki i systemu ETS, a także przy negocjacji nowych ram budżetowych UE. Zapowiedzieli też konsultacje międzyrządowe jeszcze przed końcem…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-i-Czechy-ida-na-zwarcie-z-Bruksela-Wspolny-front-w-obronie-przemyslu-i-blokada-ETS2-9223577.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-71427ae1eb9305c03e",
       "date": "2026-11-04",
       "title": "Towar, który zająłby 170 naczep. Rekordowe przejęcie nielegalnych hulajnóg",
@@ -1426,6 +1571,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5f60542b1ae178f146",
+      "date": "2026-11-04",
+      "title": "Litwa: Ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
+      "title_pl": "Litwa: Ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0tab3U2Q3ZUVGctSEhDcUc3alI3MWlqbzVzNFNqbXVwb3NyNFpNV3RZV0V6dkZrOUs4cmdQYk1GMVVLSzFSM3VuaEx0VlVod01NLXYwaWpOR0JuSEEwU2ptaDdzSVhiZlNuU24ySHFtb3dVSTJtYXVCdzZUZ0loZGZ2d1JYeXBtS2sxYVhNSjFhT3Z2anRQZE45dmhOd1dpMWtDMjJIdjYtcGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5e71a319cb2121259a",
       "date": "2026-11-04",
       "title": "Polska – Kotły grzewcze – “Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji nowego, fabrycznie wyprodukowanego kotła wodnego o mocy 3 MW, przeznaczonego do spalania mieszaniny węgla kamiennego z biomasą lub gazu, wraz z kompletnym osprzętem, systemem automatyki sterującej, układem oczyszczania spalin oraz niezbędną infrastrukturą towarzyszącą w Ciepłowni Miejskiej w Bartoszycach przy ul. Bema 34”",
@@ -1508,6 +1682,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-58a77b12ccaac77b84",
+      "date": "2026-11-04",
+      "title": "ORLEN completes expansion of Wierzchowice Underground Gas Storage Facility",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNE5sX3BjWXFqeDJEVHJQUjNxTXdIQkt4RHkyWFdxbXNwYmZDTkYzYXgtNlRWNTBjUGdfRjV1eDhKUTl1dXFpQlNac2UtUU1qaF92NThhR3dkeExlR1NOSFZBZjZ2dHBDam0xTkhlXzZFcjh2aXVmUV9fb01JbW9aUEx4NEl1S2pQbmduYW9lUjhGSEs0X0x0eUFfaDdNRzV2cTZOdTFZSFM3eUIzclJVQW1yZGcyeGlyTXJDZFpDM3Y4U1RHOWhzdlotaHVta1dNV0xsUTktcUk3VEFsQ2UtMHpUY05tMzNIcVFjcVl6c3hEaXU4a3NZ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2826,6 +3029,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b18118719fcf622474",
+      "date": "2026-11-03",
+      "title": "ENERGY SA (48/2026) Zawarcie umowy dzierżawy gruntu oraz złożenie wniosku o określenie warunków przyłączenia dla projektu magazynu energii | Biznes PAP",
+      "title_pl": "ENERGY SA (48/2026) Zawarcie umowy dzierżawy gruntu oraz złożenie wniosku o określenie warunków przyłączenia dla projektu magazynu energii | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEdjaktrc3dsVDl6STRBM2VfaEJHNTZhaloyaWJYdFVXaldONGprYkFCOWxKZW9OU3hkTTRTR2YwcFZYa2E3VFA1TEdwUW9VdzI0eXBYQXRxWW5odmQyVm5xOEktSVVldG56YzBKNXBncWFPQV9WQ21ZMHBQR1diZjFrSWhXVURnanlIcVNoYV9WNFJoQV9XakVUdjA4c2p4bG5KMWRCc251M2x6THI4UA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-afea8404580410384c",
       "date": "2026-11-03",
       "title": "Enea podaje szacunkowe wyniki za 9 miesięcy 2026 r. i III kwartał 2026 r.",
@@ -3707,7 +3939,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMUFxLVlESEI1c3Q0cDdzcUZvOGFib0l0VGpUWExEVlptUURpYkNQZzlZS0VYVDBxWWtZc2RpQWhOSkkwQ2N0c19meW85UUFMTHhkWXZvbkd1RWswX0FLdGhhQlF4cjRxYWRMSG53aU56bF9xVmJfczVjNElacVh6TFBQVURHZmhQN1d5QU5yMkl5bFpGLVJkMElnMEtGa1JyN2VDWkhMVU1qVUxfLVNTNFdsWkNsRFU2V3RuWk5RZHlvSmhKZHR2OEdfMFNNQVhpYnFqbFZXVkd2LURYX1FrNGQ1NlRwZFpWQWZBVVVKLWdBNFJqRTRkc29n?oc=5",
           "type": "press"
         }
@@ -3715,7 +3947,7 @@
       "cos": [
         "ORLEN"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
