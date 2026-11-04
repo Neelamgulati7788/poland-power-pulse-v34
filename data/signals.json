@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:26:40+00:00",
+  "updated": "2026-11-04T16:28:42+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fa864c4433e0578a2b",
+      "date": "2026-11-04",
+      "title": "Orlen czerwoną latarnią WIG20. Nie wziął udziału w odreagowaniu po wyborach w USA",
+      "title_pl": "Orlen czerwoną latarnią WIG20. Nie wziął udziału w odreagowaniu po wyborach w USA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Na GPW po trzech dniach spadków przyszło wyczekiwane odreagowanie. Inwestorzy nad Wisłą z entuzjazmem dołączyli do globalnego rajdu, wywołanego rozstrzygnięciem wyborów połówkowych w Stanach Zjednoczonych. Zwycięstwo Demokratów w obu izbach Kongresu usunęło z rynków nawis niepewności, osłabiło dolara i pchnęło w dół rentowności obligacji skarbowych.…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-czerwona-latarnia-WIG20-Nie-wzial-udzialu-w-odreagowaniu-po-wyborach-w-USA-9223715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f951e25eecc4308132",
@@ -235,6 +264,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e245543087dd973681",
+      "date": "2026-11-04",
+      "title": "Generalne wykonawstwo farm fotowoltaicznych – od projektu po przyłączenie i testy NCRfG",
+      "title_pl": "Generalne wykonawstwo farm fotowoltaicznych – od projektu po przyłączenie i testy NCRfG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSG4zc2lmZkUyQ01mSlRLXzl3TG4xSExwZEZ5LXVhNjBkc3E0eTRXLVAxYnJRZ0tKbHI3dnU0Qlo2R3QzRFdfdmJBOHBMeXJzTTI3MGxYVUwwcFBsNWlsR3MtOFcwb1h4OWx1Q01fUkFpNzZRalJmenVMcHFQd0RJYWh1NWNmbHNaTzhlRHpsc002THVCUlNZMm5ySWZtTHpzQmNPWXl1a0FFWGRobEI3cmthUEk1c3R5WGM0UTk4MnpkRDl5X2V5ck4yQzVJZkdkS0JKNVBKMURFQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-dd92f13f2cd04e343e",
       "date": "2026-11-04",
       "title": "ENERGOINSTAL S.A.: Wyniki finansowe QSr 3/2026",
@@ -259,6 +317,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-db648f3c51390745a3",
+      "date": "2026-11-04",
+      "title": "Spotkanie stażystów Kierunku ORLEN",
+      "title_pl": "Spotkanie stażystów Kierunku ORLEN",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkppRGtOVHJYa3FCWjAyMFdCTkVGd043SzZNM0dRNTRpa1ZQZVVCX0hSRU1yNWVIZ1JfSko0Q0prTlVQNEhyTFl0WWlFWm1ERDRKVm5jNDlKOXJkZlg3LWFkZlRnU1FpRGV0aWptVkV0YXpaTzhtb0YxRnNDM1R0dkpsUEozNFRWU1Nz?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-daca6a002aed126314",
+      "date": "2026-11-04",
+      "title": "Dołączamy farmy fotowoltaiczne od 500 kW do rynku bilansującego",
+      "title_pl": "Dołączamy farmy fotowoltaiczne od 500 kW do rynku bilansującego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15akp1MUlKc3ZVRng5UXVaSFROWFk1NWNuN25zT3lIbVpPLTNXOGxDLWFZbS01TnREbUJsdnB2aUxkN05KcThYY0NGTWxqOE9WM2M5a2lsbFU5WktIc3lxWWhnOEZQMW8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -961,6 +1077,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-99e84b39480410b6f8",
+      "date": "2026-11-04",
+      "title": "Projekt magazynu energii z budową pod klucz",
+      "title_pl": "Projekt magazynu energii z budową pod klucz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzFEWVlQZ0VmZUMxRG5MRlNvajRHUE5IODFGVVhEQnE4NmlsLUs1aklzMkpOYnhlQmVfTFNhaFRDMjhuZzZsVFJSRkxESmloR200S0R5Ui14bDZRem1fcWplM3VBTWJhbU9MaDJuM1RmRnVRRVpzeXViLUtseEdKbmdjWVFkWVh5U1QwMHM2SE1wVy1HdF9XTmdIMl9TN0lxcU1XYQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-98a80ffb070b5820ae",
       "date": "2026-11-04",
       "title": "Grupa Tauron przeprowadzi program dla startupów i firm technologicznych Tauron Tech Test",
@@ -1245,7 +1390,37 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-832e300db029523319",
+      "date": "2026-11-04",
+      "title": "Gokin Solar/JA Solar/Aiko/Astronery - największy dystrybutor w Polsce - zaprasza do współpracy - panele w najlepszych cenach - zawsze wysokie stany magazynowe",
+      "title_pl": "Gokin Solar/JA Solar/Aiko/Astronery - największy dystrybutor w Polsce - zaprasza do współpracy - panele w najlepszych cenach - zawsze wysokie stany magazynowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPOWUyVG1kNW9yTTlOSE4xZWwweVJpSWsxMV9iRXctY2ZUTHBtS21KTkNEaFU3UmZ4OFl6c2huY1M1SkFJeW5FYl83a2FXdnpkcEQ5c0dNY1pmcGwzUWpvd0dsa2hyaUNpM20wRWt6OUduclBhY3ZYbmczcFRZeVBRYVZYOVBaOEVuTTMtOF9XaTNhM2M0dVVQcTNQeGQ0VjlLNF9sbmVSdDBqNFA3OXVyMTNOdzdFQUhScGpFbUl6QXFYRlhkTlpIb0JuVmRYNlJIRG80Qi1qTFNwdkdzazJOM2wyelV0aDNiWTdTVEdXNjNTY3NIdmNFZGhlbkdGbG41TEoyako0Qzh2UV9SbTVmWmhMR0Zxb3RZdjhVX1g4d1V4bGc2WUJwWWdwYk5MaHVv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1333,6 +1508,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7bcc35f63a24e8ff8d",
+      "date": "2026-11-04",
+      "title": "Farma PV 2 MW + Własny Grunt ROI 8,76%",
+      "title_pl": "Farma PV 2 MW + Własny Grunt ROI 8,76%",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmpVWnVFSGs3M2w4dm1RWU91dFdOVktqeThFcU1OSU1JbzdpWGF5V1dkWjBsSlJ0R0ZYRTJ0cjZjSURrVEZvT3FJOXVEWnZsOTV5OEhqZnZ2U3dsLWpvNEdpNEVRcy10ckpPWmZyRVlET3VtdlRIQVNrOW94V3dFY2xMTXNnYUVONmZ6WDdyd29DcG5CZ2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1832,6 +2036,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4dff06d8b2c8790dc5",
+      "date": "2026-11-04",
+      "title": "Energia zawsze pod ręką - Papier czy online? Co jest wygodniejsze w codziennym korzystaniu z faktur?",
+      "title_pl": "Energia zawsze pod ręką - Papier czy online? Co jest wygodniejsze w codziennym korzystaniu z faktur?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFVKVk02SjVPMk82bkRwbmxvblVQNzBVSEdGTF9XRkpHbG43WGVNeUxpNkZTVzhscUo4WmUwQWJmODVQQ2NvUmRXX2RFbzF2VE5jbTVsMUFBU1NTbWR4ZERUTlFoT1BVZG85TEpHRnNEb014ZDdULW9Xd1U3aDEyTW5QZElNQVpfQ0lxRFRSaVNFb2UtUmZncXpNMUtOWEU?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4ae4bbdcb5c037153a",
       "date": "2026-11-04",
       "title": "Enea widzi większy wolumen sprzedaży węgla",
@@ -1856,6 +2089,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-48b2db6c196c7a4199",
+      "date": "2026-11-04",
+      "title": "Strona 2596 z 2596 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2596 z 2596 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zc18tSDJXNmVmMzNPNTFPSGZZWU1OQmVzbHVlWlUtZThkVFZvYVk1TnctUFRJWlpRY0tDVktVZ2o4UnROU0pBeW9sTFBoTzgzN2FPZzR4Z3NzSW5Dal9pMQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1972,6 +2234,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3a252a47c00aa4b070",
+      "date": "2026-11-04",
+      "title": "Panele PV – magazyn w Polsce, pełen wybór, ponad 20 MW od ręki – najlepsze ceny",
+      "title_pl": "Panele PV – magazyn w Polsce, pełen wybór, ponad 20 MW od ręki – najlepsze ceny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkF6elFsZk9kamJ1M19OcWhwSGNWQkdUX2ZSUlowbjgwYk1Rc3VicGlGWUEyVk5qVU9kR29rMVR3ZEJrNURlcFU4SXppM3V4TVFEdnFPaXFCNlJ1UE55TDhoZ1hkZlRzUG92dVNzQlRIdkVkY0pzOHpPY1hRVVozcUxWd1pRcVFlWUNfbXdTcWtReGFFTk1WVWtYQXBzSVZleG9rcWR0RmtfcHVhSV9Od3JvMXo1RVUxSmdqSjZIekNFUXptckMyaF9R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2181,6 +2472,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-222f6c78d0ebe449f0",
+      "date": "2026-11-04",
+      "title": "Nie wieje, nie świeci, a węglówki się psują. Prąd na giełdzie po blisko 1500 zł za MWh",
+      "title_pl": "Nie wieje, nie świeci, a węglówki się psują. Prąd na giełdzie po blisko 1500 zł za MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWZPR01SM3gtUlFIS3dYODdqMFZ6NzNDX2hJNFI4SU4wM1dlYnFmQWhKeXlFdy0tMzgxeVpxVlF6QlZGcXdKWWtlSzRBYjZtWmJJZDFtLWhwRlF1bkNvMGQyV3E2XzNxSm9RLWM0eXdubEo0VWdQV0tTVHRGVzM1b1pyWXEwdlkxZUF1Y3NnUGlqTFhMSDNMVENMbUNIZDJHVU5tUnd0LWN3dGdfcjdCUU9Tdk9zdEk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1c29b7238a7aaae323",
       "date": "2026-11-04",
       "title": "Energetyka – strona 741",
@@ -2205,6 +2525,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1483f5d6684f372bb8",
+      "date": "2026-11-04",
+      "title": "Farmy fotowoltaiczne PV – farma o mocy 1 MW – Łask",
+      "title_pl": "Farmy fotowoltaiczne PV – farma o mocy 1 MW – Łask",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXJ2a3JFLUZKTVVVMzJmWmM0MkRvS19JVVZpTksyajJuM0V5SjF1REhuNHZ5RWM2T1BHX1dtd1Q5SWxuWC1HZk5MODZyUkV6eDk5MjJiT19BY2dCX3B0dWNaVTM1S0FhNkZ5c1I1NWJGTlgxcnN3c1NiZlFQTjYwN20xM1NoYllNTzc1dlhxT1kzdXRNMVBiOTMyNU5veFZKS040Sng0dHE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -7614,6 +7963,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7b53b114d2c179ffe0",
+      "date": "2026-11-02",
+      "title": "Farma PV o mocy 1 MW – Bydgoszcz",
+      "title_pl": "Farma PV o mocy 1 MW – Bydgoszcz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODFVVm44NHZYcEZTYjNEdUtPNUl2dGF1OU5iNzJuMHAxdDhpdkliWU1MaVEtU0tkSE1IZlk2S19jT0Q2LURsTmQyT2R5ZW04STdQTTc1RkZwaWtSX2F5T0F0eXJZTThlT1FVYmowVHhJSi14aUR2SkotZUJFdHk5S0ZZejdFS3NWTEVoNnp0ZFZKZkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7a57cce9752862f144",
       "date": "2026-11-02",
       "title": "Rachunki za gaz w górę. Padła możliwa kwota - dużo drożej od 1 stycznia",
@@ -8076,6 +8454,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-646950c52ff25e76a3",
+      "date": "2026-11-02",
+      "title": "Projekt PV 1,3 MWp, Mazowieckie",
+      "title_pl": "Projekt PV 1,3 MWp, Mazowieckie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG1ub0F2Qm1VWUtjWHdjMHJ0aEZJaGNMM05HYUY3eWhaYUtjX3ZQUW5IYWxoWG8yZ2RMOVYzMXBLWlloR1JwYUh2WDBTaERtalFwcHJPNmM3dUVuMGZlQnhjR1RpUEFuc3U5UGh3RzVPRG9lUThxbkVvbF80Q1lVQ0VpcWtTMnlzdGIxdmxQWlI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-633a3b2a1aca40ed7b",
