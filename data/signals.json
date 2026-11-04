@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:36:21+00:00",
+  "updated": "2026-11-04T20:27:57+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -984,6 +984,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b10cf26032106a5dbd",
+      "date": "2026-11-04",
+      "title": "Jak orlen - Forum",
+      "title_pl": "Jak orlen - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RDR4T1V5NExYRUpYWldRdWlwcUZ2ZFVHaTUtdWJPTENtbjBmYWFjVzk3SFdZWW9nS2x5WnhhclBkdUR6RVltVXpaUm5pRkIxTVROa3ViWUxqbnpXV3VwX2VsUG13eDNGWmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2355,6 +2384,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-576d2d672e5b902959",
+      "date": "2026-11-04",
+      "title": "Miliardowa inwestycja Orlenu zagrożona. Litewscy eksperci biją na alarm",
+      "title_pl": "Miliardowa inwestycja Orlenu zagrożona. Litewscy eksperci biją na alarm",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzFFMXVmYXF4R2tNMDdTSktrMmY4VTNRUjJRUDhBa0tieHJoQWc4LXd5QmZNOEdZaUFYUjlrcTJJMzgxZXAwbURBcTNBb0lNcWRrYk1aMTlfa1lzVmdZeW5yTWhxZFNnUXZQX2FPY0h0dklHaUxQWGNYZjBJUEhfYkdHTVUyQ291WHdnLTV0cHN4X3JtUER6b2Jkb3ZQeE1DRDFQZFR2S0RhVUVtLW50UGRtOXJBempvQU04QXZn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-51fdbb0743cad43bb2",
       "date": "2026-11-04",
       "title": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
@@ -2523,6 +2581,7 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
+        "25",
         "27"
       ],
       "discoveryMethod": "google",
@@ -2903,6 +2962,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1aa222a7a9c24e2018",
+      "date": "2026-11-04",
+      "title": "Polish energy market regulator sets 2027 RES levy at PLN 6.40/MWh",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTc0U28wc045LWktSUNUWUloNXRUVG9CR0VmOHlMRHljbnpBcklySHdGRzl0Mk5FVVJoal9ndnBLTmkzOUprUEdFSWlmMm9OZmt3VWMyeGVhUVBubktDMFEwM2NVdTRCcEFIbjU4aThsdG1MWVZMc3lta1FSQjdGaTh2UTF5c2R0SFNheDdRcFFIY3RNd3VlU1h0RDM0SXNO?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3825,7 +3913,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
           "type": "official"
         }
       ],
