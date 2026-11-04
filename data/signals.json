@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-04T04:58:01+00:00",
+  "updated": "2026-11-04T05:58:52+00:00",
   "signals": [
+    {
+      "id": "src-c3f17e3fa3eaaac46e",
+      "date": "2026-11-04",
+      "title": "Jak nie przepłacać za ciepło? Zimne grzejniki to nie zawsze awaria",
+      "title_pl": "Jak nie przepłacać za ciepło? Zimne grzejniki to nie zawsze awaria",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmpMZW5kSWNTN09RR2JETHh0elVtTkhuTnNiNUo5QmZNWVlSUVlZRzBmOERGbmpEZXBYTGwtS2NJa0JPcjRFb1NETmJqTC1EM2JqZGFWNDdWbWxuSks4bUF4cTRGQ0w5NE9jNE52bUgySVJ6cjFIYXBNM1JheHhqUk5ucXF5aUhob3F6UDhUbVZhZDFxR2taWmFrby0xbS13aVktcHF1NVdsdXl1R05BbDNjMlpTZll4UGtZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-a71c4b35180204d161",
       "date": "2026-11-04",
@@ -26,6 +55,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8050c9f1ebdc117a57",
+      "date": "2026-11-04",
+      "title": "Dostawa artykułów elektrycznych",
+      "title_pl": "Dostawa artykułów elektrycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Opieki Zdrowotnej w Suchej Beskidzkiej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a33-b1ab-0fd3-e2d6-6b000120e2dc",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-691d2f641059eda3a3",
+      "date": "2026-11-04",
+      "title": "280 projektów biometanowych w Polsce. Ile z nich rzeczywiście powstanie?",
+      "title_pl": "280 projektów biometanowych w Polsce. Ile z nich rzeczywiście powstanie?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDVCN1VSay1LYWdvaGFnZEVtSFVTZDF1dkNiR05DdFlYSlhyck1XbWF3V3JXdzNCZVhRNVFBMzFOZVBMdVpaSm55bHFrSFlGNF9EY1BmREJwUnNWdmw4ZlR0VjNmU1pYT1NIUGkwNHQ1ZWNTeWtFZWtSY0Z4YWtJTkU5NDZaTVIyVmpNYmNOZXQ0TllYbE5rLWFpLWdUc0dfYjZQOWhGZnZOVDdKdFFhS3ZYZWJyNXR2RkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -87,6 +174,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-3222f6ce5384da851f",
+      "date": "2026-11-04",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0UzWU9ua3Nnd0RDLTBfcTdJdFluX2YyNEpzLU5QV0g4Q3FBY3VaY3ItdWE4cWhkRnA3eHNoRHpYVF9SQWhZbmZMVjV4OXFRNUZzT0dseVpwblJUOFdEWjVYV3huOTRNMS0zd2tVUTQ4eDJ3MmU3LXVDMFE1b3djMEdEYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-13a8e5a034798c7bd5",
+      "date": "2026-11-04",
+      "title": "Program „GAZ SYSTEM dla Bezpieczeństwa” rozstrzygnięty",
+      "title_pl": "Program „GAZ SYSTEM dla Bezpieczeństwa” rozstrzygnięty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObF8weE05R1AteTBTcF9odUZPdzBoOHV0aGdZZTZ5Z2MzWGdWWjc5cU5kSE9lQW56czZqVk9UQnV4TG1XYkFvRnVTZ0llWHlnZ0QxUUhWYlFzRmFDUVVKVWl1bUpEVmFHeUpBTDEzNWJrRW1xNGV5dl9TNktTaHhmRjREb1owc2RmeDUycVY3blJJb3REbXFFQ3lTdGlmUXc3clBtYWRReEJpdDN2aVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fea00fcbba1c036787",
@@ -1163,35 +1308,6 @@
       "evidenceLevel": "publisher_feed"
     },
     {
-      "id": "src-8155fed1122f4185c3",
-      "date": "2026-11-03",
-      "title": "Wiceprezes KGHM: Stabilna jest dziś niestabilność. Polska musi zmienić model rozwoju",
-      "title_pl": "Wiceprezes KGHM: Stabilna jest dziś niestabilność. Polska musi zmienić model rozwoju",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Polska gospodarka stoi przed koniecznością zmiany modelu wzrostu. Przewagi oparte na niskich kosztach pracy stopniowo się wyczerpują, a w kolejnych latach coraz większe znaczenie będą miały kompetencje, kapitał, technologia i zdolność do ekspansji międzynarodowej. Równocześnie przedsiębiorstwa muszą nauczyć się funkcjonować w świecie, w którym niepewność…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-KGHM-Stabilna-jest-dzis-niestabilnosc-Polska-musi-zmienic-model-rozwoju-9222593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
       "id": "src-7e234be4e2e325d313",
       "date": "2026-11-03",
       "title": "Gaz znów drożeje. Decyzja Trumpa podbiła ceny surowca",
@@ -1884,6 +2000,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-44374efbb7b46b0523",
+      "date": "2026-11-03",
+      "title": "Enea z zyskiem przekraczającym 2 mld złotych",
+      "title_pl": "Enea z zyskiem przekraczającym 2 mld złotych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3N2RGEzMEphM29BQnZoZDMtUTkyY0kwRkl4YUE5Qm9NLWl0WWRaYk1iTmRSN2ZPWmhyY1o3WEJSeFM0Y25GRjBSMG11dGlJVVRDcVlqNUtzQkw4SG8wT2d4Zm5FYTBFS19mYjJnWFdnV0dfQ0E1UEJlaDJDWDZTMWV2M1h1WGlkQTBpUw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
