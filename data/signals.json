@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:20:00+00:00",
+  "updated": "2026-11-04T15:26:40+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ec8b77ae52d33d8185",
+      "date": "2026-11-04",
+      "title": "Akcja CBA w Elektrowni Ostrołęka. Żurek: Wśród zatrzymanych posłowie i szefowie spółek",
+      "title_pl": "Akcja CBA w Elektrowni Ostrołęka. Żurek: Wśród zatrzymanych posłowie i szefowie spółek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWdyMlUwSXZWamgyNTdLbDczalVYYlA3dUR5UnVYQWU3SnB3bnp3S0lNWExRRnhCTjFRZDc3c0FkWGRVSG13T1lmMnlSYm9KNDZxMm02Z0dGR2taY3dmc0xndDZMNkpxRmJLdmNNZUpWTlFiTnhfMHZrTXpKRnZIVk5pakxRSTlZRTBvbWNkeUdsX2pQSDdwNXJJTlUzcE5TSnBGendlNEpRZHpKMy1MUTI5Nk1lQUxUTkNkOHRTZGE1UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -387,17 +416,16 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Na polecenie prokuratora Prokuratury Regionalnej w Białymstoku agenci Centralnego Biura Antykorupcyjnego zatrzymali 25 osób ws. Elektrowni Ostrołęka - poinformował w środę na X minister Tomasz Siemoniak. Śledztwo obejmujące lata 2018-2019 dotyczy działania na szkodę spółek Elektrownia Ostrołęka, Enea SA oraz Energa SA - dodał.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/CBA-zatrzymalo-25-osob-ws-Elektrowni-Ostroleka-9223309.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDBERU15end2b2tXNTc5Y1JHd3hId1ZzRmFpa1NvRmFEa3ZMSzVQUzBVZVhFeVM3Nnk1UFVhMDhrYURuTy1ibXhKRmVzSkNmTjFCcHZJdmswa3ZtTUhVSFB3dWt1Ymd1X0dJS1lJVkdQdFFSVTBOc1JraXhjNHNLcG1VN29vMzJDSV9pTTlDOXY2eUdKeFZ3?oc=5",
           "type": "press"
         }
       ],
       "cos": [
-        "ENEA",
-        "ENERGA"
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -406,8 +434,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-cde5c2f81d95e26411",
@@ -666,6 +694,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b80d98ea9b37ed8da7",
+      "date": "2026-11-04",
+      "title": "Nowe ceny węgla",
+      "title_pl": "Nowe ceny węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GTFg0eFZBOGU1cEZVT1ZXbG9kR2cxN1pvU2dKdEtkTGN6Y1pjUVJoa3BPQXcyZmw0cmVZX0NFYXhOS0hUekhoWnBKc000MHVGMWFvbVEyN1BkaWY4SnlRd1FKaVBERjJGUWZjRWNCaDNIUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1078,6 +1135,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-90b73d3da96270fa9e",
+      "date": "2026-11-04",
+      "title": "Blisko 1,5 mln zł dla 73 jednostek OSP. GAZ-SYSTEM podsumował program wsparcia strażaków",
+      "title_pl": "Blisko 1,5 mln zł dla 73 jednostek OSP. GAZ-SYSTEM podsumował program wsparcia strażaków",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUS1iTy1jdUdtVFVEYnZmd0dFb01wV0NzclpKUFZzS25zVjlrOXFoQ0V1WXJuYjhzeW9IWlBielRLN1VNb2dYa1BtdGo2WV9yRDNvYmF5dy01SU5zQ3FScWdnazRpU0ZIeWQ3dThBTU1jM25lUXFhdkpBQmJQY2ZKd0RRdlI4cnpzVkdXd1BxVzl5RlFDUFNjVS1uOXl5YnBNR2RyeFUya184S05qaTNHZkEtdUp1VlJjMlJydHUySl8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-903b488556d961d4ff",
       "date": "2026-11-04",
       "title": "Orlen rozważa wycofanie się z Możejek. Litewski minister: Nie mamy żadnych informacji",
@@ -1304,6 +1390,7 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
+        "25",
         "27"
       ],
       "discoveryMethod": "google",
@@ -1508,6 +1595,35 @@
       "reviewed": false,
       "sourceIds": [
         "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-673f04d18884fb13cb",
+      "date": "2026-11-04",
+      "title": "PGE Dystrybucja na podium lokalnych rankingów biznesowych",
+      "title_pl": "PGE Dystrybucja na podium lokalnych rankingów biznesowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PGE Dystrybucja — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHM0WFoxOUdCZEJJOGx1SjlDOHctTlVtdUpYU0kzdXhyU0ZtQnJrMXFYTGhXWWRmaUswYzNELTNHdm5TTUJJQTcxcW1saGxzU2lELUN5dTI0amFkZTJHTnM1eFFpWHItbThBNlFnNmNEV0NmWUh2UllWOWFSUk5yU0o5NHNsU2t3QkhFWUFkSTA5VmJDRFgtSUR5RzVETmFITHZCeVNPVQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PGE Dystrybucja",
+      "publisherUrl": "https://pgedystrybucja.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "16"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1774,6 +1890,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-41d92925e65875e92f",
+      "date": "2026-11-04",
+      "title": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
+      "title_pl": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0lpYzZVdDZTZ0s0czlEOGpkTURwWDh0OVB5dkdZMlRpNTBWcGtNQjM0Nk4yLWItVFNqNjhJaXN2aE5GZDM2YjI0WDBzUVV0M3FpWExHNHl5QlpGeFZpWmtjbXl4c0tST29qUEVKbjNBQ1g5N3IxV3VmSEVxUHpOM3d0RDNxeUl3TlBZcDlkVEJhQjg1R2xFT3dZdzhzb2to?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3c95cfb377587d29aa",
       "date": "2026-11-04",
       "title": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka",
@@ -1798,6 +1943,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3acffff3322015fae7",
+      "date": "2026-11-04",
+      "title": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "title_pl": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXdHMnU0R2wxUW9UX1NWYktwZThKR2l3VS1Zaks3d21oUFd0bnpUS2ZiT3hVSWNYVDJ1WnNxLXMzUzg0QTR4N0ViSllURnFXa0pGM2dVRlVwR1lSUTBpOVliVEcxUV9tM0kxS29zUGFwMWtoZW5SX0l2aDRhSUNGa2UwOFJYaDcx?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1917,6 +2091,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-270b96deabebc7f2e4",
+      "date": "2026-11-04",
+      "title": "Modernizacja instalacji elektrycznych w lokalach mieszkalnych przy ul. Żwirki i Wigury 1/37, 40, 43 oraz 64 w Pruszczu Gdańskim",
+      "title_pl": "Modernizacja instalacji elektrycznych w lokalach mieszkalnych przy ul. Żwirki i Wigury 1/37, 40, 43 oraz 64 w Pruszczu Gdańskim",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZAKŁAD NIERUCHOMOŚCI KOMUNALNYCH W PRUSZCZU GDAŃSKIM SAMORZĄDOWY ZAKŁAD BUDŻETOWY",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a87-a9d4-8d5f-e2d6-6b000120f107",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2420b3b17c435e4967",
