@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T18:27:19+00:00",
+  "updated": "2026-11-04T19:36:21+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -438,6 +438,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d62ac1623634764156",
+      "date": "2026-11-04",
+      "title": "URE ustalił stawkę opłaty OZE w 2027 r. na 6,40 zł/MWh",
+      "title_pl": "URE ustalił stawkę opłaty OZE w 2027 r. na 6,40 zł/MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWG9iSjg3U3huazdHVFdmR01tQzltWUdQTVJjTWxTQjQwaWp4eGRkV205NkFkVVgtZ3Etbl9WdGk2cmJVSFRKZlRGRHJ2bmM3ZDRRNEJCbG80WmlTVER5UExyVlJGTjdvRURyTkRGay1idDFPc2VIR1BhWnFNZ3NDS3JPQTNWTzVJV0VoUXlnSEloaThR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d4b68ec7bfa523440d",
       "date": "2026-11-04",
       "title": "Huawei i Kehua podnoszą ceny falowników i magazynów energii",
@@ -610,6 +639,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-cca93803f0c9ac3104",
+      "date": "2026-11-04",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWZjeUlHXzl3NFVmVlk5R2UweHVMNkphMU1aLWdveUZLd003aTZZNG1GTHYtZnBfSjc0NnZaWnlMSkFmdVNaNEx1UktYbmwzQkF0MERSWWFiZDZLTVltSUJzNUpLdlVrMmxLSTdrd25qTmNnaG5WQ3pBdl9UejNrX2F3a0V1OTN3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-cbaf3fa1127a4e03b1",
@@ -1164,6 +1222,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9bc55aa18f03f685e9",
+      "date": "2026-11-04",
+      "title": "Efektywność energetyczna to inwestycja, nie koszt.Podsumowanie konferencji KAPE „Biznes z Klimatem”.",
+      "title_pl": "Efektywność energetyczna to inwestycja, nie koszt.Podsumowanie konferencji KAPE „Biznes z Klimatem”.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jak stworzyć przyjazne otoczenie do prowadzenia biznesu w obliczu kryzysów oraz jak zaangażować biznes do inwestycji w poprawę efektywności energetycznej? Odpowiedzi szukano podczas konferencji „Biznes z Klimatem”, zorganizowanej przez Krajową Agencję Poszanowania Energii (KAPE) 27 października 2026 r. w Warszawie. Wydarzenie zgromadziło przedstawicieli biznesu, samorządów,…",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/efektywnosc-energetyczna-to-inwestycja-nie-koszt-podsumowanie-konferencji-kape-biznes-z-klimatem/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-99e84b39480410b6f8",
       "date": "2026-11-04",
       "title": "Projekt magazynu energii z budową pod klucz",
@@ -1682,6 +1769,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7dea40e353445209e9",
+      "date": "2026-11-04",
+      "title": "Ukraina: Wiceminister: przez rosyjskie ataki elektrownie jądrowe musiały ograniczyć produkcję",
+      "title_pl": "Ukraina: Wiceminister: przez rosyjskie ataki elektrownie jądrowe musiały ograniczyć produkcję",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGwwS3JyZG1qeUR2ajVzeGV3d3pGTzdvSzZXelhmVkk4TW1fU3o0VFNTeFU5dnhTVHQ1R3lrQkJwR2kyZTlRVElHRXdmRzhDZmw2cWVuUXhYcFNZY0lacnJNbFJlREt3WnBxMHdfTWRCOWw1blJla2Y0Yy15enVOLTNvS2xVeVFzb0hQZTNOVnpJRkF4R29ONE1QV2drTDMzRDBWTzhqYk5zeEtLSHB5UXJaTVNXbXZOeW1KSUtmd2s0M2RxWEJQSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2465,6 +2581,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "25",
         "27"
       ],
       "discoveryMethod": "google",
@@ -2569,7 +2686,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDdNdHMxSG9HOXhmS2Q5R2tRQVh4V1IxVjM3c2tSZTA4cFJYOC1Yc2IwYVcyQjJSNFBvWkFWZkV3czA3WHB5TUt4R0w2YklFN3ZNbVJNY0RlOU9ITEZHVXFHNWxRM2hkZWw4Wmtsd0pRcllGRWk1WE9Eby1hMktZTFVxNjJpR2ltbGlxbWQ2bDNnMl9jblhVbXdzQWxSZUFtZ0hFd2FHM1JiR0loeWFlR1otTjZhU01UcG9qZDB0TzB0UFRKX3Z6UA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHdlQkFLOXpVTG8zYVFYNy1QamI3dFJ2MnBfZVFTMEdSdzVQeGRkWHZSaWVYSi0xZkMwS0Z0dTZ5TG52UGI5YWd1dGxXUW1rUUxGaTFJbUdiRlRhNk1KdGJMckktV1NoOEVJa3R0NUR6dDV2VWhmNER1WXZQLXF4dkYtelF1ZHZ4cUhsMXpqS21URE1VWEE5ZkprX3BDRFdEUVFVRQ?oc=5",
           "type": "press"
         }
       ],
@@ -2577,7 +2694,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -2859,7 +2976,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXRQNEVlMFkzdEZ5eEhRV2ZLY2pkeFJhVVgyanVYSGxVSzhYYVo3NWZnRlo4dGtPR3Mydjlqbk9HcEpQQVFrYnJJVGZOWkZBRUVOYTdYdHVvalFjMUc4N2ZBTVBvWjltR25VR280OVBMY1ZydmJGREZha3NPLWcxblFUSklfV0NtQ2hBOGdSN1NYRjZQRWZ6X0ZMdldwdnlha0VfcVkxR1pjQTNJM2tJZHdydVRHYVdFNHRiSGdwUk1TVnMxSGNGbDRkT1RyLUxxNDRv?oc=5",
           "type": "press"
         }
@@ -2867,7 +2984,7 @@
       "cos": [
         "ORLEN"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -2889,7 +3006,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JjRXhnMndqQ1FXQU9NdHpGSkFsZEw0OXVNSmY5Rk5GZld4Sm5iWE5fZ2poODA3ZUVYTngzZ2NTZDRuRG91YmJyei0wU05Cck9kb3Fhb3p3TkwzVWdhX3NpMVdmc3VLOXJBUDVPYnRDTkNxSlZQUlFCY3p4czBscU5iNnQ4VXhVSUVUTmt0enpMYkE0YXlPYnA5aVdtc1ZINVVqd1V6cE5FY2xITXhV?oc=5",
           "type": "press"
         }
       ],
