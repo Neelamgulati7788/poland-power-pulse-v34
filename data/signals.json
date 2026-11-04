@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-04T10:43:13+00:00",
+  "updated": "2026-11-04T11:57:23+00:00",
   "signals": [
+    {
+      "id": "src-fab40e15fae5cc5d20",
+      "date": "2026-11-04",
+      "title": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "title_pl": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVB2d2ZfRURyYVBjSTBvQVBXR0xpekV2cmlRS2xIWnExclFJYWlDOFZiZW82ZlZMSDdqS0pmb2hvTnBZNTAwT0NiYmFvVDdVSXZqdVFrbDJoOGVuT294cHJRdmE5Um5mQVYzMTVNWXVjUVI5T3R1RTJBWVVxbGV6YUpWZ3pqdzdMU3cwYTluUHF1a3duVzJOOFAzNktHcDlpdFh1b2RMWHRtQVVfaTc1ZWNDSGk1aUh3UGdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-f951e25eecc4308132",
       "date": "2026-11-04",
@@ -113,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e5b2289f8521eb0fa7",
+      "date": "2026-11-04",
+      "title": "O co chodzi z aferą w sprawie elektrowni w Ostrołęce?",
+      "title_pl": "O co chodzi z aferą w sprawie elektrowni w Ostrołęce?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUhxMDBYWWVMckE5cVdGeExqakFJc3czeUljQ3lJQVMyMmtiM01FOHF3TlhHZGJJcDlSMEY0WWgwQjU3c3Y5dGhRWkJqdVFKYTdUNnJqcTNIU3FpajFQSVBsSzgxYkI3alRITTNYdDA5SXQtWURQa0J0QUl5d3BCR0xVVk11enFLVktyelFaVHUtQmNQcWN4ZDR4WTNGODZhazRPWHZVdlhiZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -409,6 +467,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c57b10346d690b2b41",
+      "date": "2026-11-04",
+      "title": "ORLEN zakończył rozbudowę Podziemnego Magazynu Gazu Wierzchowice",
+      "title_pl": "ORLEN zakończył rozbudowę Podziemnego Magazynu Gazu Wierzchowice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMHprTmRwNzBoNVpocXlXREh3RHViNFQ1SlhzMl92ajNHcWdETXVVU21GZ1JHbUcxWFIzWTBfOFRXeXZNbTFkVTd4Q1NyWlcyMmd6NkItVWQyekNsWHU2VnM2MGNzWV9zdG5pWE5CaXMzQWlyVFlYXzMyd1o3clRoSGQ0UWxYQUQ5WWFxaDFNbzF2cVZrMHQtRXJnUzhucmJPVWpEajdfS2dqR1VhdVN4TzdQY3FKYWJoQkJBclZ0M0FGVU8xT2pTXzFVT2pLaTNlRWlzVlk1anRSY0kwVlZVdGM3VQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c3f17e3fa3eaaac46e",
       "date": "2026-11-04",
       "title": "Jak nie przepłacać za ciepło? Zimne grzejniki to nie zawsze awaria",
@@ -433,6 +520,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b8a29fb66d38149071",
+      "date": "2026-11-04",
+      "title": "Ceny prądu i gazu wystrzeliły. Tak drogo nie było od lat. Co z rachunkami?",
+      "title_pl": "Ceny prądu i gazu wystrzeliły. Tak drogo nie było od lat. Co z rachunkami?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFhTVTJwZ2I1SVhoM25mSWlpNVZMM2NjSGt4TW9zdm9NNFBpY1hhR3dpZGNGd0NzdUxITmxRLXJLM1ZmUkJab3ByRnZMQWVqOTRBZXFmbWlweUFHZVgxQVBXaDllSVFtQ3FXYzFMUTdTVG8zbG9GMHdQQXB0d0tJMTBoNHFuLTdPMFUzQWp0dkI0VVlYLURpeUFUaThHS3owRzlIeFloanJjWFFlLU5SR0JkenZEU2RlMW5kenh4dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -525,6 +641,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a2e1a04b8af887cb17",
+      "date": "2026-11-04",
+      "title": "Orlen zakończył rozbudowę Podziemnego Magazynu Gazu Wierzchowice do 2,1 mld m3",
+      "title_pl": "Orlen zakończył rozbudowę Podziemnego Magazynu Gazu Wierzchowice do 2,1 mld m3",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEttc0RXdnpfSW5GZkh2Zm02WkZVcDRKVzVvTUsxWEFIQ0dKV2NJc0pLYXU2Z2YwQU9SUE1LUUJQSHRabENZYkl1NHpvUU82c2tER1djOHMwUjJKaG1EdFk3eWZwNU1fMFBWSmZfczBDTUZjQ055RE5fdUc2cUkyT3RHcDEyaVQzVEd6b0dwdW5MOV82SVZ1cDRaclpUZXpibWJtaHp6MjlPUk5lZk1VUWVka255QWxMdVZibA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-98a80ffb070b5820ae",
       "date": "2026-11-04",
       "title": "Grupa Tauron przeprowadzi program dla startupów i firm technologicznych Tauron Tech Test",
@@ -552,6 +697,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-97a8371229b2d2d25f",
+      "date": "2026-11-04",
+      "title": "Modernizacja instalacji elektrycznych i instalacji odgromowej w Zespole Szkół w Zielonce przy ul. Inżynierskiej 1",
+      "title_pl": "Modernizacja instalacji elektrycznych i instalacji odgromowej w Zespole Szkół w Zielonce przy ul. Inżynierskiej 1",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "POWIAT WOŁOMIŃSKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a6a-c020-ff4f-e2d6-6b000120ec30",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-95d29650052c739d32",
@@ -757,6 +931,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-6f9e47538e65023f1b",
+      "date": "2026-11-04",
+      "title": "Na co zwrócić uwagę przed zakupem przydomowego magazynu energii?",
+      "title_pl": "Na co zwrócić uwagę przed zakupem przydomowego magazynu energii?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnRGRVdDdDVaUmFLRFJfa1BmbUJXQzNsT0tock8tem4xbzNtaFRrN3QwVTdyeTY2UDk1X05IbzBoZ0ZCRHl2ZXliY0ZVUGpjNE1xc04xX2g5SUh2MUs5TjB4YUdlR1FJOHU3Q0cxNy15SWpoN2dibkJaODBFYzByYlBUOUtVOVN4SGJxUjRSNkx3Zk5idmJ6VGRSdzlmSjlBZjk0MzhfZnp1aC1LQXR5NGxNb2QwOGRraWRmUDRXOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-691d2f641059eda3a3",
       "date": "2026-11-04",
       "title": "280 projektów biometanowych w Polsce. Ile z nich rzeczywiście powstanie?",
@@ -842,6 +1045,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-5d4c7eb87730d80965",
+      "date": "2026-11-04",
+      "title": "Magazyn energii filarem efektywnego biznesu. Elmech o doświadczeniach z realizacji projektu",
+      "title_pl": "Magazyn energii filarem efektywnego biznesu. Elmech o doświadczeniach z realizacji projektu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeENIdHp5UFBiajdoTHdzekhMN0g5blIxSW5LcHFiUUdiUUNVbUFJX2hNZFN2Mm5QY0tCTFNvRjY4V3dnb053alhIY21OUi1kOC1GaXBLNTRwd2RYcjdPdjh5eGxMTGpaOVc3R2dKTDlWdUtKOWpXbC1xZXZ3em9mUjRhQW0wOFMxSktUYlM4aVA4Uy1uZXRXUmY4V1hvbTBDQnVSY2wtRXV4OTlsYnNOcWl5MHh6c0ZvdnlscWRSUzJGa1F3aURjRUpDdE1BSlFEX0UyWUZYSHQtbXR6MlZEWEthRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4ae4bbdcb5c037153a",
@@ -931,6 +1163,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-32b5379c886836102e",
+      "date": "2026-11-04",
+      "title": "ECO Kutno pozyskało finansowanie na budowę nowej ciepłowni",
+      "title_pl": "ECO Kutno pozyskało finansowanie na budowę nowej ciepłowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDdNdHMxSG9HOXhmS2Q5R2tRQVh4V1IxVjM3c2tSZTA4cFJYOC1Yc2IwYVcyQjJSNFBvWkFWZkV3czA3WHB5TUt4R0w2YklFN3ZNbVJNY0RlOU9ITEZHVXFHNWxRM2hkZWw4Wmtsd0pRcllGRWk1WE9Eby1hMktZTFVxNjJpR2ltbGlxbWQ2bDNnMl9jblhVbXdzQWxSZUFtZ0hFd2FHM1JiR0loeWFlR1otTjZhU01UcG9qZDB0TzB0UFRKX3Z6UA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3222f6ce5384da851f",
       "date": "2026-11-04",
       "title": "Notowania metali bazowych, węgla i paliw",
@@ -952,6 +1213,93 @@
       "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-289c8c303060cb709e",
+      "date": "2026-11-04",
+      "title": "Motyka: w ciągu dwóch tygodni zaprezentujemy rozwiązania dotyczące cen gazu",
+      "title_pl": "Motyka: w ciągu dwóch tygodni zaprezentujemy rozwiązania dotyczące cen gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNElmOGhBMHBTX0JmR19EX25nRkN2dUctLVJORnBpOEI5WGNBR2ViaXhWaWVGUXNlOXpKaU5RTG5tc1lMYkdxbHB0bk5XZDBOMlVrR09GLTJfbUxmZ3d1bVRiajRCVzRiMHM0SEYxVy03YmFoZ29JSl9wcVdzcnM5dlhGWU5vYnBMaEJuaEFLNFlIdG5WcWQ2ODBIOGY3YzFxbk9qWGYyNFRacnhSSDlUdjd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2420b3b17c435e4967",
+      "date": "2026-11-04",
+      "title": "5,5 mld zł EBITDA i 2,6 mld zł zysku netto Grupy Tauron po III kwartale",
+      "title_pl": "5,5 mld zł EBITDA i 2,6 mld zł zysku netto Grupy Tauron po III kwartale",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUxGc3VkRFhiZVVHQVcwaGlVQjViNzBRc1IyQjJpVV9tWjQxRHhQa19Eb0d3eGF5Qmtld0U3N3NtNjRiWVJZcWZtYnp6T2s3SnpDaWZqV21ncEhRM2EyNEJMTVlkdjd6cmZWeC1LMDlaV0sydFU0MWRUc29IeTdJQ1JPbk9DNW9JYTBXR054WF9QMXFCWVZIQzNFckRTMFVSZXVHaTVfVmhGd3BIbTZ2T0J3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-23cbb5057296a54f3c",
+      "date": "2026-11-04",
+      "title": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla",
+      "title_pl": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGpNTXgyYTFBRHg0NGg0U19ibzdhbUExSXdmcFVWTHpaU0s3bUpMRTh6YzFfWG01OGlZMHhjTkhLVGN2OTFtSjZWWFhzSnNpTWMweXRral82LVdnOU8yMG5UMDlRdUZGdllqcUd1SXFuQTk2ak5xTXRfVmlOc29CaGFSejFpcEhiOHNOLWswVlNMendyY2UzYXg3MW0xMExfbWhoVU1uQk4xSGZOc2o0eFJtWldpLUFjaVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "18"
@@ -1016,6 +1364,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0d9cf54188952a87a9",
+      "date": "2026-11-04",
+      "title": "Kolejny etap budowy Parku Zielonej Energii w Gliwicach (jesień 2026)",
+      "title_pl": "Kolejny etap budowy Parku Zielonej Energii w Gliwicach (jesień 2026)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0d72564e6d0a7d2cd9",
+      "date": "2026-11-04",
+      "title": "Wykonanie robót budowlanych dla zadania pt. „Przebudowa przegrody zewnętrznej wraz z wewnętrzną instalacją gazu oraz remont pokoi gościnnych w budynku mieszkalnym wielorodzinnym w Składnicy Lisowice",
+      "title_pl": "Wykonanie robót budowlanych dla zadania pt. „Przebudowa przegrody zewnętrznej wraz z wewnętrzną instalacją gazu oraz remont pokoi gościnnych w budynku mieszkalnym wielorodzinnym w Składnicy Lisowice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rządowa Agencja Rezerw Strategicznych",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a6a-aa96-ea8e-e2d6-6b000120ec2a",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-0b5d678e9ecd448ae9",
@@ -2979,7 +3385,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3N2RGEzMEphM29BQnZoZDMtUTkyY0kwRkl4YUE5Qm9NLWl0WWRaYk1iTmRSN2ZPWmhyY1o3WEJSeFM0Y25GRjBSMG11dGlJVVRDcVlqNUtzQkw4SG8wT2d4Zm5FYTBFS19mYjJnWFdnV0dfQ0E1UEJlaDJDWDZTMWV2M1h1WGlkQTBpUw?oc=5",
           "type": "press"
         }
@@ -2987,7 +3393,7 @@
       "cos": [
         "ENEA"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -3153,7 +3559,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmJIVEtHMXB1VlhpZERHWHltSGpiZ3dJVnNocHFPT3ZSNkYtdzZTOEw2a1ZEZV9Dc3JpVVcxS2hRZkFMazBlXzBXWkYzcnpjV25FUXVjR3RoaTZBaVp6dVRuLXVPRlY3bG1Zbzl1c1RTLVRuc2syREl4cnB2MThhMmd4UGlEaHBTcE82WkJPdFk5N2xwdVdGOWVUZTJWWlhRNVU2eDluaTVPWDFVQ0VuUmpMbENPX1BpOVhHUkNR?oc=5",
           "type": "press"
         }
@@ -3161,7 +3567,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -6056,7 +6462,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNKTS1IRG1BZzZuWHhkbENYV0hmM01FOW0xMV9Yb0tCNDFBSXJ0OGF5b3plM0x4OS1rM0ZxeXVVUl9hRXJaN0Ntbk1XYkRTSHZQRmtQblJRSkdVRXk3TndRRFE4V0szaDdZbmc4SU9xa2daejZucDZ2a1A2Tms2NTRnUGVGd3Q3RUJTdFM3cEI4REMwYWl6alVpMUt3WEZ0cWtyMzVvSndRZ3hfV0d0Z0ZSOHAzYXk5R0d1Y3o5MFJWeV9MQzNuc281dmFRZUYyWjJaVDFxXy1wRVlRYVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1A0YXduWWZqU1R5bVNnM010YVY4aDluNEZBcGFHWktUZmtreTZMQ3lQcGNZMHl0OHVnbER0OGI3WE1EcHBhS0QxQjBqMklRTG9xOEVJbHpIemYxUzI5a1Q4TEdaeWRfeHptSWxmZGVfY0JoV2MwdUI5TkV6R2FUZ3ZiUEcyZ3BqX0ZkczlYWlBJR1lyUDd1SFdaLVYxdUhlX0oyWlg5ZG5FWldtZUhRT0Z3V2hNMHptQWUwMWRCNmtsbXZiNkxtWGZEYTdDdjc1aFE?oc=5",
           "type": "press"
         }
       ],
@@ -6064,7 +6470,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://fotowoltaika.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
