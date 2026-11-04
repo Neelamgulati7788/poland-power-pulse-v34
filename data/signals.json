@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:23:50+00:00",
+  "updated": "2026-11-04T23:21:35+00:00",
   "signals": [
     {
       "id": "src-fe63ed625422dcfdfd",
@@ -989,6 +989,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c14dc39b5bef8f06c7",
+      "date": "2026-11-04",
+      "title": "Środki Funduszu Modernizacyjnego wesprą ciepłownię geotermalną dla Kutna - NFOŚiGW",
+      "title_pl": "Środki Funduszu Modernizacyjnego wesprą ciepłownię geotermalną dla Kutna - NFOŚiGW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeF9jYnJteFRPeUVzTno4ZjJPWVRVUFgxSzFNNXItWVA5MmxfbUxfYXZ2c3ZRb1daRklVM1dXd3VwUXp0M01LejhtUG5Cak52NWJUX1RmeFItU25uYXhfb1czYWlVeXJJQkJDVWJsRWtBb2RPb1hkZlVEeHJRRnliQmdnUUpjMGRLbWpDR2U2OGVvSnVTelJZWXpFY2paWDlLUkRaTHJENEpnZ2tSV3o2cmR6Q2JvZDA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bdb0e6896b904b3f07",
       "date": "2026-11-04",
       "title": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
@@ -1424,6 +1453,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9af4542daa78a23d84",
+      "date": "2026-11-04",
+      "title": "Platforma zakupowa Grupy ORLEN",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NdXQ4aVlrLXhOQ3NLdW1qQVh4UEgzcndGUk9PRkw1U29VMHBBVEdpRnVrWmFVZVFuVk51dlFEZ0dHUHZwRmFBWEFoRDZCS2ZtLUhRZTJiWUNBZjRoVWZRNEQtVXJsUl9UOUE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://connect.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-99e84b39480410b6f8",
@@ -4175,7 +4233,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
           "type": "official"
         }
       ],
@@ -7862,6 +7920,35 @@
         {
           "label": "Energetyka24.com — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0tzS2VYNnVLYXpWNW9mWjBxOHFYeWdtd0FWanJVMG9XMWxhSTZtYjFxWEJJRHEwR2QyaWFxSWQ4cWJmbVpjUVFTRVJPcWNZMWo0NDhTTWlZbEFQMFUzUlBJblRCVm5Ld3ZKLURndWNxNldOeEVjbFNLOTFjajhNOE5wWG1HamVSdFo3aE5ZMllpcTFIdFlnRE5xNEJFUWxKbGxtc2JCdTctYU1CZ1VfaEdwZmRDSEtzSWlSdl9ISmFrWlpJcWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b8bdddb3ac679dc7e9",
+      "date": "2026-11-02",
+      "title": "Energetyka – strona 740",
+      "title_pl": "Energetyka – strona 740",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rbHBtRnA3dFlHYk9LSUJFcUFjSVppa0lmdmNncl9lSFpzMWNlM1Q5ZXZhSGZuZ2piVGtWOTQxV2xmeUlxWW5ybl8ycFJORXc4WTY5dDhfYw?oc=5",
           "type": "press"
         }
       ],
