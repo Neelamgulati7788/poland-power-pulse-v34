@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T21:25:25+00:00",
+  "updated": "2026-11-04T22:23:50+00:00",
   "signals": [
     {
       "id": "src-fe63ed625422dcfdfd",
@@ -1274,6 +1274,7 @@
       "reviewed": false,
       "sourceIds": [
         "18",
+        "25",
         "27"
       ],
       "discoveryMethod": "google",
@@ -2995,6 +2996,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2dadffcd24432c194f",
+      "date": "2026-11-04",
+      "title": "GLOBAL HYDROGEN S.A.: Zawiadomienie o zmianie stanu posiadania",
+      "title_pl": "GLOBAL HYDROGEN S.A.: Zawiadomienie o zmianie stanu posiadania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGVFeWpoSmdtcTBXMXpTNmpsT3RzaHZhNmNhU0Yyd1EtWUJUU3BwT19OLXRlelh0b0gzcHlGM1RXbDUyQWs3M1RHTDVlTnI0YmtWQzVqcDBreldnb013VEstal9Cc3lNbWtmOGNPOTc2WmVqeVRDT01CT2NzNmVPdmhpT2t5UEQ5SjE1SnpKckRNTC1GSUd4Z1VzYlN1R1RoaEhRZE0zdEw1dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-289c8c303060cb709e",
       "date": "2026-11-04",
       "title": "Motyka: w ciągu dwóch tygodni zaprezentujemy rozwiązania dotyczące cen gazu",
@@ -3110,6 +3140,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-22f35e74170eafd069",
+      "date": "2026-11-04",
+      "title": "Zakup i dostawa fabrycznie nowego samochodu osobowego z napędem elektrycznym z dostawą fabrycznie nowej mobilnej (przenośnej) stacji ładowania pojazdów elektrycznych z systemem wymiennych adapterów",
+      "title_pl": "Zakup i dostawa fabrycznie nowego samochodu osobowego z napędem elektrycznym z dostawą fabrycznie nowej mobilnej (przenośnej) stacji ładowania pojazdów elektrycznych z systemem wymiennych adapterów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych SP ZOZ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3abe-e47a-4095-c1c5-d5000193be59",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-222f6c78d0ebe449f0",
