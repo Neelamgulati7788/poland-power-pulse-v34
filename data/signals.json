@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T11:57:23+00:00",
+  "updated": "2026-11-04T13:03:31+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -141,6 +141,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "18",
         "23"
       ],
       "discoveryMethod": "google",
@@ -229,6 +230,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d4b68ec7bfa523440d",
+      "date": "2026-11-04",
+      "title": "Huawei i Kehua podnoszą ceny falowników i magazynów energii",
+      "title_pl": "Huawei i Kehua podnoszą ceny falowników i magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1FnRTdocFBDb0xhR05RS2hQQ19wT19jOWFnSXlWLVVtSmYtRHg5aEFXZ3JDeDZDbHJkT2RKUnBQZnZjbi1YSmY1Z2RKZGZ1cTdLY2gwTVBfWlVxelRvdWZTa1E5UmVtaUtuMFZRVG1PNXV4RnNLWWFWc2h5QnZkakhJZ0dZQ3l5czk0UkgyRkttZWVTdlcteFc0QzA5N1BSb1NHQmhNeWU1RFFCY2c0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -525,6 +555,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c3124167525cf4b311",
+      "date": "2026-11-04",
+      "title": "Prezes Westinghouse zatrzymany przez CBA. Minister energii: negocjacje w sprawie atomu nie są zagrożone",
+      "title_pl": "Prezes Westinghouse zatrzymany przez CBA. Minister energii: negocjacje w sprawie atomu nie są zagrożone",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1ZjZUVZYmpCczRSb2ROS0dwVENNaVpPZUs3Tmh3TGZxTUhaT2J3NDNBS2xPU0RTSWE1VmlYb1FXd3czNGZqdUV2VWZpUU1yU000WkJxX0FMV21tOHp3YnVSRDRYczlrdTJNVldGNkphanJBa1p1QmZfV21EUldHRW5jeFVuMzlfUUllal9sb3pqRW1pQ2k1d2l2eEFicFZHRngyS2xBdi1obVlEbW1QU2JQUFNXOThSTnBwcUlSQzA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b8a29fb66d38149071",
       "date": "2026-11-04",
       "title": "Ceny prądu i gazu wystrzeliły. Tak drogo nie było od lat. Co z rachunkami?",
@@ -583,6 +642,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ab880533848bc8e155",
+      "date": "2026-11-04",
+      "title": "Tauron zlecił dostawę i serwis wysp turbinowych w Łagiszy za 94,5 mln euro i 49,9 mln euro",
+      "title_pl": "Tauron zlecił dostawę i serwis wysp turbinowych w Łagiszy za 94,5 mln euro i 49,9 mln euro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkU0Q0NSV0FOenExNFNYZEdpMlFSSm1qVjZnb0hMU2FYekt2QnIzRExfMDVaQkZ5NnJlbzV2YVliWGotOWk1dHJpcTNGUFcwZXQxT1FrVTQwRFI5Q0xHQ1lVMmZXSXBFQzVZNExNSWxwMmI4c21sSU1NRVhMeGJBLWUzNXpvMFM4NGo3WVVoNEdHaVlkRFBXbjhSZkUxUk15X1NIVjRqM0gydFRBcG9xemtKSF9ac3E1VEt3Vy16S1BTMl8xWFlUdER4NA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a9ad78b77f0b12b956",
+      "date": "2026-11-04",
+      "title": "Orlen rozbudował Podziemny Magazyn Gazu Wierzchowice",
+      "title_pl": "Orlen rozbudował Podziemny Magazyn Gazu Wierzchowice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGxORmV0U2ZoNWh5MWtmcmRITkQxZ0hIUktxcy1Gb3N0Q3E5WTZhSThydFVLbUhRV2hMVkRxaTExYm1TYU8wVzlicnQ3dFRHcnFDSnFQTDYyNXA5T1pqMU50MEFSYlZINHY4UjVXRGI4c1Q2Njh6YnVDS0Z6VS1qRURER2J1M3E5c28ydjhtUWlrVjR1VXFqZkRScTd6b0liNVQ0RFg4Mm9USGlTOXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a7b9739229ad5bcf26",
       "date": "2026-11-04",
       "title": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
@@ -606,7 +723,8 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
-        "18"
+        "18",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -665,6 +783,64 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9fcf680bff0e749caa",
+      "date": "2026-11-04",
+      "title": "Litwa: Minister gospodarki: nie mam informacji o planowanym wycofaniu się Orlenu z Litwy",
+      "title_pl": "Litwa: Minister gospodarki: nie mam informacji o planowanym wycofaniu się Orlenu z Litwy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1VMMjc1cW1kVVhpWUkxWk9LWkszZzdORFV0aVpJVFlCRFItLWc4czZPWWwzNFNmeHlkSEtWWkhQdkFjWW1WdjZTMndrTjBBWjJkMzRqMVVoVEtfQjl5T0Y1WWJsOXRpenB3czlJYjR2STNrTnlOSHVleHZCMGpRYVZNUVgwcmNXOWZjRDNwekJZSGdGOVFVbXIxUlVXWGNONmtBVk1JOW5oMFZFa1RZQjg5NWF0eGlIRlF4ZmpSVkF0UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9db84728307c97be13",
+      "date": "2026-11-04",
+      "title": "GEN-I rozszerza działalność w obszarze BESS i PPA w Polsce",
+      "title_pl": "GEN-I rozszerza działalność w obszarze BESS i PPA w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVpFZWhvLW8wdE9tTE1tY0VZaDdfYm5CTG9WQm12VVVxQnRNeVBrWElyblljZlg5QUwteXNyV3ctWHhmZWlSdGpZSUhUU0tUb0hrVG9IYnhqcWMxdkxlVlVxbS1zS0VNUUN0bUJWU1BEc3h2U1JTZGpkb202UXNGQ0xtMUpNRURkVV9TWF9FSkt1eUJGMDdVVjFWN01mejFCYW13c2hGVUJFbWtGV1NjbGhGdDgyUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -786,6 +962,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-91971b8c8d751b7722",
+      "date": "2026-11-04",
+      "title": "Litwa: Premier polecił przygotowanie propozycji podatku od nadzwyczajnych zysków koncernów energetycznych",
+      "title_pl": "Litwa: Premier polecił przygotowanie propozycji podatku od nadzwyczajnych zysków koncernów energetycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQV8zSGk5MzZCSTFEOFgtdXZGOTZnUUtfdFQ0Sy1Kek9SZzJLOHZweTdNTVMxTk9pQkFnWnpYbHdCeEZNRWlnOXZLOHcwLWs5dzAwZHlFYkc3enEtbjBfMWloT0NpZ1JNWUNZaUkxUnRhTTNKRmx3NThKcmNOUHpfYlB0eTRKNFJMYzFveE5xem9CSUx2NzViQlZYU25DS2d3YWNEYm14SkJLUjVXWVlMOTZjX1lQbnkxLVNNcndacC1aT0ZLM2R2WERHMkJzV21xQ0JYSkFnRHBfZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-919297245e602042d9",
       "date": "2026-11-04",
       "title": "Orlen completes investment to add 25% to Poland's gas storage capacity",
@@ -810,6 +1015,93 @@
       "reviewed": false,
       "sourceIds": [
         "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-903b488556d961d4ff",
+      "date": "2026-11-04",
+      "title": "Orlen rozważa wycofanie się z Możejek. Litewski minister: Nie mamy żadnych informacji",
+      "title_pl": "Orlen rozważa wycofanie się z Możejek. Litewski minister: Nie mamy żadnych informacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Nie mam absolutnie żadnych informacji o planowanym wycofaniu się spółki z Litwy – powiedział w środę mediom minister gospodarki i innowacji Edvinas Grikszas, komentując oświadczenie polskiej spółki Orlen o możliwości wycofania się z rafinerii w Możejkach.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-rozwaza-wycofanie-sie-z-Mozejek-Litewski-minister-Nie-mamy-zadnych-informacji-9223500.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-8eb6711a474d308d89",
+      "date": "2026-11-04",
+      "title": "Polish city picks contractor for EUR 88m waste-to-energy project",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnZMR0lSbjRKa0RvSmNxOERxTXdfMTNfRW4xUzlLc2hrODdoZ0gyR1Y4N3Z5UkV1ZHZhMHkyRVFOVGxhUC1PckVobWFwcTJRSk96WllOSW5RNGwwaTdha09ZbEpXR2d6VEI4bkZ2Q01IUFhhWkJTMTF1ZUtNUDlxYUFHYTFWb0kyVDk0SkR0LURuaGVhTWVvNjlLOHFobWUxVTZCcVNsWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-853f6b14d2f15778d7",
+      "date": "2026-11-04",
+      "title": "Zatrzymania ws. Elektrowni Ostrołęka nie wpływają na negocjacje z Amerykanami - Motyka",
+      "title_pl": "Zatrzymania ws. Elektrowni Ostrołęka nie wpływają na negocjacje z Amerykanami - Motyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOVl3Z2REc1lvajZ5eEppamxnOXNvZGpuYzdZZkdUOGlhcTZzNWUyOUlpQU1vSUpXenZzRTBKcFVSR0xSRlNFLUs0RDZURU9RN3dtaTdpNDRzSjBkakktdF9PVTFnVkJMRm1JZUYtaXUwbjctaUptQV82bGV2UmE5cW5tR2VpdUNNUlhYd093TGQ5b0d4bEF5eWxQak9BbHRXaWl6dDZxZGhNV3ZwZlJFV3NPZ2t1QWI2Tk1OcGxzUG9qVDlyUC1Xaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -931,6 +1223,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7012beffa5efd15637",
+      "date": "2026-11-04",
+      "title": "Orlen rozbudował PMG Wierzchowice. Kluczowa inwestycja dla rynku gazu",
+      "title_pl": "Orlen rozbudował PMG Wierzchowice. Kluczowa inwestycja dla rynku gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1p2c3QwOC1pM3hkQnd5M3NNa1NNaGFIb0ZFLTdDNmsxemgwclNBakJfVUZoZHQ1ZG5ESk1HLTBMakltc3AtWkVyaGJvUUlabzd4ZVB5NERHMU9pWDhPM0JPLWxJQ0M2N2hhRm9MbHI0N0o1UFNFaVdYZkc5N3FWY1Y1NmZPNnlkbTZsZXAxcFhRZ2tSMUtaczNJQUNGTHNoZm5ITF9YOVpCSDlnZWd0ZkFSNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6f9e47538e65023f1b",
       "date": "2026-11-04",
       "title": "Na co zwrócić uwagę przed zakupem przydomowego magazynu energii?",
@@ -955,6 +1276,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b3a8b7fc2914f5e07",
+      "date": "2026-11-04",
+      "title": "TAURON przyspiesza transformację ciepłownictwa. Kluczowy kontrakt dla nowego źródła w Łagiszy",
+      "title_pl": "TAURON przyspiesza transformację ciepłownictwa. Kluczowy kontrakt dla nowego źródła w Łagiszy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "TAURON — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0tpU3FWNTVZa19rcTFCd3hZSE9MSlB2SFJ6VG9uMjkwUUI5dUF4dlB1OHVlcUdhbzVvaU8tRHNVcFBPSlNpN3R3NTc3Z2N5ZFpZcVYxOHYwTGVUeTg1MXlRR3ZVQ3pBZGhGSm5ibTQwMVpwVVRZd204TnRNcTYxWHlZTm16Snl2VUtFTU11OHlZRzRwOEJSakRyYzVIVXZyNThGN1pYZkItR0Q1UlFCbHlSOVFXREl3X2lCS3VNVXhiYnp6?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "TAURON",
+      "publisherUrl": "https://media.tauron.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "54"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -989,6 +1339,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-67d3d4c024b677f9b8",
+      "date": "2026-11-04",
+      "title": "Operator obchodowy/ Operatorka obchodowa bloku gazowo-parowego",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlJzNFBKbEUwemREU1d0Q1dWay12dkRvaXJ1cnlfYl9XYVRxSzBlcUlENjNEWGZzWGswM29HR01RLUhNOXVRVm1PUkhsaUdscXBjaU9WU011UU1kVUdwZGNwSWVDNGJ1d2dUZWg4Q2Q5cTNiRzVocnlrbWFnZENOR1ZDWVVmLTV3bF9rWmRKZHlLWXlsSXFPbzZPTi1xZGNiUDA1SlNYaHpkQTA?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6720b70d6b893f8232",
       "date": "2026-11-04",
       "title": "Polska – Skanujące mikroskopy elektronowe – ZP/G/S/64/26 Modułowa platf. do oceny jakości stopów metali lekkich wytw. na bazie mat. z recyklingu, cz. 3 Skaningowy mikroskop elektron.(SEM) wraz z zintegrowanym syst. do precyzyjnych analiz mat. i morfolog./Modular platf. for quality assessm. of light metal alloys from recycled materials, lot 3: Scanning electron microscope(SEM) with an integrated syst. for precise mat. and morpholog. analysis",
@@ -1016,6 +1395,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-643b4e76fcf59f2292",
+      "date": "2026-11-04",
+      "title": "Komunikaty ESPI dla SOLARINOV[SIN]",
+      "title_pl": "Komunikaty ESPI dla SOLARINOV[SIN]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHp5SmFRNUk0Q3NXcWdWUE13V25OZWJoSDQ5eEd3dm41M3dWTEFicUVXcUR2b3R0YXpBdVM3eUNnZ0dnTFZNYkxjY2J5Yk9CZDV2T3ZzNjZfVUwtWk1jWG40cWJXWGZMUXFoUXM1dnRSSC04UE1DYUQ5UnZuS0RxS3JpUmF3U2hR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5e71a319cb2121259a",
@@ -1071,6 +1479,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5b410acbf5a201e7bf",
+      "date": "2026-11-04",
+      "title": "LW Bogdanka: Wartość umowy wieloletniej z Enea Wytwarzanie wzrasta o 8,6% za l. 2026-2036",
+      "title_pl": "LW Bogdanka: Wartość umowy wieloletniej z Enea Wytwarzanie wzrasta o 8,6% za l. 2026-2036",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHc4UG00ZTBlZXdWY0RKZ2FCazBJM1drUEtpLVJuNWRvdE9KZGtVODN2a2FPRUZjSmZUUUVJWU1mSEZKWGdDV2UyNWY3Q1VWdGM1QV9UVGR5cmdhdlU5LXFHbDFHQzlzWF9iWjc1N3ltLWk5UWYtUWpST1pqZmwwNDNNUklEVE5tVURCVFZxbkZsblFzVk1MNVpHM0ZOcGk1NWRjaW8xZkpCOGl1cHZuOXoyZ0RfMUNUOXB6SFR3ZHQwdU1NdEU4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1161,6 +1598,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-362ddcb1fe310c1d34",
+      "date": "2026-11-04",
+      "title": "„Termomodernizacja budynku Urzędu Gminy Kochanowice przy ul. Wolności 5, 42-700 Kochanowice zgodnie z wynikami i zaleceniami audytu energetycznego”.",
+      "title_pl": "„Termomodernizacja budynku Urzędu Gminy Kochanowice przy ul. Wolności 5, 42-700 Kochanowice zgodnie z wynikami i zaleceniami audytu energetycznego”.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kochanowice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a74-0049-88e2-e2d6-6b000120ee5e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-32b5379c886836102e",
@@ -1302,7 +1768,8 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
-        "18"
+        "18",
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1361,6 +1828,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1232c977eb6dc4fcc5",
+      "date": "2026-11-04",
+      "title": "Minister gospodarki Litwy: nie mam informacji o planowanym wycofaniu się Orlenu z Litwy",
+      "title_pl": "Minister gospodarki Litwy: nie mam informacji o planowanym wycofaniu się Orlenu z Litwy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXRQNEVlMFkzdEZ5eEhRV2ZLY2pkeFJhVVgyanVYSGxVSzhYYVo3NWZnRlo4dGtPR3Mydjlqbk9HcEpQQVFrYnJJVGZOWkZBRUVOYTdYdHVvalFjMUc4N2ZBTVBvWjltR25VR280OVBMY1ZydmJGREZha3NPLWcxblFUSklfV0NtQ2hBOGdSN1NYRjZQRWZ6X0ZMdldwdnlha0VfcVkxR1pjQTNJM2tJZHdydVRHYVdFNHRiSGdwUk1TVnMxSGNGbDRkT1RyLUxxNDRv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
