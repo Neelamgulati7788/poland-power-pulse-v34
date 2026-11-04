@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-04T01:00:31+00:00",
+  "updated": "2026-11-04T01:59:16+00:00",
   "signals": [
+    {
+      "id": "src-6720b70d6b893f8232",
+      "date": "2026-11-04",
+      "title": "Polska – Skanujące mikroskopy elektronowe – ZP/G/S/64/26 Modułowa platf. do oceny jakości stopów metali lekkich wytw. na bazie mat. z recyklingu, cz. 3 Skaningowy mikroskop elektron.(SEM) wraz z zintegrowanym syst. do precyzyjnych analiz mat. i morfolog./Modular platf. for quality assessm. of light metal alloys from recycled materials, lot 3: Scanning electron microscope(SEM) with an integrated syst. for precise mat. and morpholog. analysis",
+      "title_pl": "Polska – Skanujące mikroskopy elektronowe – ZP/G/S/64/26 Modułowa platf. do oceny jakości stopów metali lekkich wytw. na bazie mat. z recyklingu, cz. 3 Skaningowy mikroskop elektron.(SEM) wraz z zintegrowanym syst. do precyzyjnych analiz mat. i morfolog./Modular platf. for quality assessm. of light metal alloys from recycled materials, lot 3: Scanning electron microscope(SEM) with an integrated syst. for precise mat. and morpholog. analysis",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Sieć Badawcza Łukasiewicz - Instytut Metali Nieżelaznych",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a11-70a2-1e69-e2d6-6b000120e1b7",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fea00fcbba1c036787",
       "date": "2026-11-03",
@@ -1668,7 +1697,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnpNMmlSVUx3VzV1aWZLTmFYTFp4eXFmVkRiZlBhbi1iTkl4cHNfMkR0TW1jNEYwT1ZyYWJMVzdJbmI5MnJDN3FkNTE2dW5fNlBTUl9zLWdxMktmdVNweTBzZjhlVHVOTElIaUhsS1QzWjFCelFhWGZhU2lIaEVlNUtGNFVGT0RERy1SQWtLNloxd3RvZVVtLUdOUnk0QjFD?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVNHdEM2cXY3aURJWVB6ZDdBU1BrTFpCcks3eWdJdzhwZmt1MUN1UEpKd016UDR5eGwzeFpjOWllVWdLbTN2Z3owaENQQ3FUeW55VFlSWkhpZTVDcnpwekN5anlaS2NieTMzeUtwLWROb2ZSazYxYi1JV1BqN0FiTzJ5WEQyZmlMSnc5M2ZnU2FMRUYzZ3pQTnNhdC11R1ZqZ0FIXw?oc=5",
           "type": "press"
         }
       ],
@@ -7429,36 +7458,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-a9b5ac682176fdb6ce",
-      "date": "2026-11-01",
-      "title": "Nowe stawki opłaty mocowej dla biznesu i przemysłu",
-      "title_pl": "Nowe stawki opłaty mocowej dla biznesu i przemysłu",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Prezes URE nie zmienił stawki opłaty mocowej, jaką w 2027 roku będą płacić ryczałtem w rachunkach za prąd gospodarstwa domowe. Za to stawki dla biznesu i przemysłu będą zmienne w zależności od kwartału. Gospodarstwa domowe dalej będą płacić miesięcznie od 4,29 do 24,05 zł netto,…",
-      "links": [
-        {
-          "label": "WysokieNapięcie.pl — source",
-          "url": "https://wysokienapiecie.pl/122522-nowe-stawki-oplaty-mocowej-dla-biznesu-i-przemyslu/",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ORLEN",
-        "ZEPAK"
-      ],
-      "publisher": "WysokieNapięcie.pl",
-      "publisherUrl": "https://wysokienapiecie.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "19"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-a5d9de21166853972c",
