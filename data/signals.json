@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-04T01:59:16+00:00",
+  "updated": "2026-11-04T02:52:00+00:00",
   "signals": [
+    {
+      "id": "src-a71c4b35180204d161",
+      "date": "2026-11-04",
+      "title": "Polski Dom Infrastruktury Energetycznej - artykuły",
+      "title_pl": "Polski Dom Infrastruktury Energetycznej - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWh6c3JtNEo4dk45UGxOWHc1OHhfZzF4ZFBsUjZpek9kcF96YjRVdEFrR3lhb0h0SXNDQzdJTEZ3X3ZBcWEzQ3dpQjNxeWEtSXpuSGZJM1JIbXhsNkRkR2xHRnpYZFlHdm05aEd5N0R5ek8zU0Z0SmF0QTM5MWc4Tm1R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-6720b70d6b893f8232",
       "date": "2026-11-04",
@@ -14,6 +43,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a11-70a2-1e69-e2d6-6b000120e1b7",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-5e71a319cb2121259a",
+      "date": "2026-11-04",
+      "title": "Polska – Kotły grzewcze – “Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji nowego, fabrycznie wyprodukowanego kotła wodnego o mocy 3 MW, przeznaczonego do spalania mieszaniny węgla kamiennego z biomasą lub gazu, wraz z kompletnym osprzętem, systemem automatyki sterującej, układem oczyszczania spalin oraz niezbędną infrastrukturą towarzyszącą w Ciepłowni Miejskiej w Bartoszycach przy ul. Bema 34”",
+      "title_pl": "Polska – Kotły grzewcze – “Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji nowego, fabrycznie wyprodukowanego kotła wodnego o mocy 3 MW, przeznaczonego do spalania mieszaniny węgla kamiennego z biomasą lub gazu, wraz z kompletnym osprzętem, systemem automatyki sterującej, układem oczyszczania spalin oraz niezbędną infrastrukturą towarzyszącą w Ciepłowni Miejskiej w Bartoszycach przy ul. Bema 34”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wodociągowo-Ciepłownicza Spółka z o.o. \"COWIK\" w Bartoszycach",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a11-620e-128c-e2d6-6b000120e106",
           "type": "official"
         }
       ],
