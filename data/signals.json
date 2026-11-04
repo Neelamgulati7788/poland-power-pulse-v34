@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T09:33:07+00:00",
+  "updated": "2026-11-04T10:43:13+00:00",
   "signals": [
     {
       "id": "src-f951e25eecc4308132",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f4b18a5a679e07389d",
+      "date": "2026-11-04",
+      "title": "Węglowe fiasko w Ostrołęce za blisko miliard złotych. Prokuratura i CBA wkraczają do gry",
+      "title_pl": "Węglowe fiasko w Ostrołęce za blisko miliard złotych. Prokuratura i CBA wkraczają do gry",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUJvUmdqQlRTNDRiaEtFaE1SajhqbTdzaW56VnhMaTRhV0pHUG9ERDdUVXo3VWxjaXdtNlgtNDRwQnBmZElGOUdUQS15bEdXUGdremJOZXJnQWZ0cVFZNUh3QVI5QXZzZU5pVEQzemVwTmtTeEI0RjQzV19PLTZDVW1FbW9JRDdkZWFKMnhEUVJBQnJTbGJlam9DclJMbEMxbGZ5bUFseXI5Yzg3akd5eS1tX1hSM0k?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -438,6 +467,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a7b9739229ad5bcf26",
+      "date": "2026-11-04",
+      "title": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
+      "title_pl": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjkxZTNJS0kwem93emZRV2Q0UF9SOEk4M2NLUXhUdlhYMlB0b1AyYmNOeko4MWkwX1Q1bHl1ZW95NDlzdHNFNTgyWDBuREpTdTFnOTI2SnBXYzdxN29ZVkpYazB4Z2VHUjEzOWw2alRqWmJSbDd3Qk4waVdvNEpUbkV5WktLeWhhQmNhaUxTOElFUFByeWotV0JkSTZBYzcxdlFoWmRCLXQ0d1dRRGJwOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a71c4b35180204d161",
       "date": "2026-11-04",
       "title": "Polski Dom Infrastruktury Energetycznej - artykuły",
@@ -549,6 +607,64 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-919297245e602042d9",
+      "date": "2026-11-04",
+      "title": "Orlen completes investment to add 25% to Poland's gas storage capacity",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Reuters — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUlc5RWM1aTFLd3NhM1NSdUtRQmEzR0dmV2d1VXFyNjlxem1iSFRNclpLVW8yNE9DTzVjWGQ0UldwNGFwXzBFMmZCSXpXblBPMGN0dTU0N3MzcUk3T004S2VwXzUwQi1wbTFOSHl3SEo2aXBJQXNadFIwU2FZeFRpYzJxWUltemRFS3VDLXVxd0FTRlBXTVJHZUxsWnZYaWd2N1dib19DamVxcXR6YUU3aUVMeHA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Reuters",
+      "publisherUrl": "https://www.reuters.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-80ac72d2b83888054b",
+      "date": "2026-11-04",
+      "title": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka. Straty przekraczają 1 mld zł",
+      "title_pl": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka. Straty przekraczają 1 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnVKWi13Z0FqV2Z2TjMyQkVZa3ZtMmpiYk83Wlp5MENyWHhpQTFaWnFTTUdRY1B4WFRPV0lDTUZHV08yUWNtYldSS0ZkWjBpbmdjdWdWeGdQNlJmUENlVUdkRERvalRzcWpGa2JZTVRaZDh0LTM4RmQ5MlQ1SHdCT1Y5WUN5aGNHejBJdEtZaUdjN3ROU0c3eFZIVktwN283amUw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -728,6 +844,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-4ae4bbdcb5c037153a",
+      "date": "2026-11-04",
+      "title": "Enea widzi większy wolumen sprzedaży węgla",
+      "title_pl": "Enea widzi większy wolumen sprzedaży węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdW85UHBzMFpsZVZLTk1Ed0doSXlfTWR1NFpORWR1LWFpRTBydVhrVk5jbUU2SXplY2d1M1drNVF4YlppREZrWk5wN1NmYU9Za3lUcUZJc0lVbXo3N2s0RUQzRkwzaXJjQVc3ME05cHFSZEdmR2toRzVTWWdBNmJvUWF0bmhfdXpxNlZibGhDU1M4WURDZXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-46588d6cc20c1a93ab",
+      "date": "2026-11-04",
+      "title": "Poland launches 2026 renewables auction",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "The auctions for solar PV and onshore wind projects will take place on November 9–10, divided into two capacity categories: installations up to 1 MW and those above 1 MW. The post Poland launches 2026 renewables auction appeared first on pv magazine Global .",
+      "links": [
+        {
+          "label": "pv magazine — source",
+          "url": "https://www.pv-magazine.com/2026/11/04/poland-launches-2026-renewables-auction/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pv magazine",
+      "publisherUrl": "https://www.pv-magazine.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "39"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-3c95cfb377587d29aa",
       "date": "2026-11-04",
       "title": "CBA zatrzymało 25 osób ws. Elektrowni Ostrołęka",
@@ -781,6 +955,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1c29b7238a7aaae323",
+      "date": "2026-11-04",
+      "title": "Energetyka – strona 741",
+      "title_pl": "Energetyka – strona 741",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41dDlmakgyUGZDUlJsODJfdGszQ0Y0elBHazE1VlZXdmlBQXBpM2oyOHFwYUN5aVZ2LVpHaTdrV25FVmJKa1QxSDBsNWFET0dMRHJGZVh0RQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -868,6 +1071,69 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-05a0ad0a6bec55577e",
+      "date": "2026-11-04",
+      "title": "Niemcy wybudują liczoną w gigawatach konkurencję dla polskich elektrowni gazowych",
+      "title_pl": "Niemcy wybudują liczoną w gigawatach konkurencję dla polskich elektrowni gazowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Niemiecki rząd chce stabilnych mocy Mowa o tzw. mechanizmie StromVKG, wprowadzonym w lipcu za sprawą ustawy o zaopatrzeniu w energię elektryczną - po długich dyskusjach politycznych oraz uzgodnieniach z Komisją Europejską. Rozwiązanie to ma poprzedzać wprowadzenie w Niemczech docelowego modelu rynku mocy. Natomiast sam StromVKG…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122585-niemcy-wybuduja-liczona-w-gigawatach-konkurencje-dla-polskich-elektrowni-gazowych/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ENEA",
+        "ENERGA",
+        "ORLEN",
+        "TAURON",
+        "RWE"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-01d18037c6e24795a3",
+      "date": "2026-11-04",
+      "title": "HYDROENERGETYKA",
+      "title_pl": "HYDROENERGETYKA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQkI1azQyVjZKcU9vZGhybU94QjVwYU1NN081ZzVJT19EQm5CdkNqZFJQUGlRRTNKQU5JdFJPTW84UTNzY2M2bjJveTBucGpDYnZYaFA5cWhNaUxac2dBaHpmSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1408,7 +1674,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
           "type": "official"
         }
       ],
@@ -2872,6 +3138,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-20638102bb2f8a5631",
+      "date": "2026-11-03",
+      "title": "30 miesięcznych pensji za odejście z pracy. Jest oferta dla pracowników elektrowni",
+      "title_pl": "30 miesięcznych pensji za odejście z pracy. Jest oferta dla pracowników elektrowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmJIVEtHMXB1VlhpZERHWHltSGpiZ3dJVnNocHFPT3ZSNkYtdzZTOEw2a1ZEZV9Dc3JpVVcxS2hRZkFMazBlXzBXWkYzcnpjV25FUXVjR3RoaTZBaVp6dVRuLXVPRlY3bG1Zbzl1c1RTLVRuc2syREl4cnB2MThhMmd4UGlEaHBTcE82WkJPdFk5N2xwdVdGOWVUZTJWWlhRNVU2eDluaTVPWDFVQ0VuUmpMbENPX1BpOVhHUkNR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5761,7 +6056,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1A0YXduWWZqU1R5bVNnM010YVY4aDluNEZBcGFHWktUZmtreTZMQ3lQcGNZMHl0OHVnbER0OGI3WE1EcHBhS0QxQjBqMklRTG9xOEVJbHpIemYxUzI5a1Q4TEdaeWRfeHptSWxmZGVfY0JoV2MwdUI5TkV6R2FUZ3ZiUEcyZ3BqX0ZkczlYWlBJR1lyUDd1SFdaLVYxdUhlX0oyWlg5ZG5FWldtZUhRT0Z3V2hNMHptQWUwMWRCNmtsbXZiNkxtWGZEYTdDdjc1aFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNKTS1IRG1BZzZuWHhkbENYV0hmM01FOW0xMV9Yb0tCNDFBSXJ0OGF5b3plM0x4OS1rM0ZxeXVVUl9hRXJaN0Ntbk1XYkRTSHZQRmtQblJRSkdVRXk3TndRRFE4V0szaDdZbmc4SU9xa2daejZucDZ2a1A2Tms2NTRnUGVGd3Q3RUJTdFM3cEI4REMwYWl6alVpMUt3WEZ0cWtyMzVvSndRZ3hfV0d0Z0ZSOHAzYXk5R0d1Y3o5MFJWeV9MQzNuc281dmFRZUYyWjJaVDFxXy1wRVlRYVE?oc=5",
           "type": "press"
         }
       ],
@@ -5769,7 +6064,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://fotowoltaika.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
