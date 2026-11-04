@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T16:28:42+00:00",
+  "updated": "2026-11-04T17:27:50+00:00",
   "signals": [
     {
       "id": "src-fab40e15fae5cc5d20",
@@ -1232,7 +1232,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQV8zSGk5MzZCSTFEOFgtdXZGOTZnUUtfdFQ0Sy1Kek9SZzJLOHZweTdNTVMxTk9pQkFnWnpYbHdCeEZNRWlnOXZLOHcwLWs5dzAwZHlFYkc3enEtbjBfMWloT0NpZ1JNWUNZaUkxUnRhTTNKRmx3NThKcmNOUHpfYlB0eTRKNFJMYzFveE5xem9CSUx2NzViQlZYU25DS2d3YWNEYm14SkJLUjVXWVlMOTZjX1lQbnkxLVNNcndacC1aT0ZLM2R2WERHMkJzV21xQ0JYSkFnRHBfZw?oc=5",
           "type": "press"
         }
@@ -1240,7 +1240,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -1275,6 +1275,35 @@
       "reviewed": false,
       "sourceIds": [
         "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-913ed4913fd7040575",
+      "date": "2026-11-04",
+      "title": "Litewscy politycy reagują na plany Orlenu wobec Możejek. Na razie nie przywiązywałbym nadmiernej wagi",
+      "title_pl": "Litewscy politycy reagują na plany Orlenu wobec Możejek. Na razie nie przywiązywałbym nadmiernej wagi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYndsX1RmX2wyUlk0RVNXN1doWmthY05RYkVOT2I4NFd4NTMwVS1LY1hsNWJQVE5YTG9HQVZsbzNRSndJdWZaTGJSVjd4emRRQW9jajlHVUsyajdCZzhWQnFDTUNVU21RNnVmMngyX3ljYmVIUjZEdENCQXBOUWZrcjRaVVI3YkdobUVYdHVMbnE0UEdvVDBVVXpzNWNvQ3FkYjBCYkVZX1RQOTVLLWIwNEtqRmxFdkUxajIyQkYzQnhsMms5?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1365,6 +1394,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8899f3ca3d228cb6f9",
+      "date": "2026-11-04",
+      "title": "Odnawialne źródła energii w Gminie Kamieńsk - edycja III",
+      "title_pl": "Odnawialne źródła energii w Gminie Kamieńsk - edycja III",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kamieńsk",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3a94-b408-6234-e2d6-6b000120f175",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-853f6b14d2f15778d7",
@@ -1891,6 +1949,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-60d73a690b8228ffec",
+      "date": "2026-11-04",
+      "title": "Orlen rozważa zamknięcie rafinerii w Możejkach. Litewski rząd reaguje na słowa prezesa",
+      "title_pl": "Orlen rozważa zamknięcie rafinerii w Możejkach. Litewski rząd reaguje na słowa prezesa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmxuVlZoOGg1cktBX0lPeUVMYmsyNFAwYXZIdHh4eEdmeUEyWU9ETEdhX3U5X21QODRES042U2kyT0oxVTdTa2xxU0VFSlZrQjV4VldhaE1Kc2N3aWg3RWRLSEZiR2dlSDY3b0RMeWJCZFZ4ZDZyOVYxaXZaMnNWZFprYW8ybGtSUTU4b3lJT0RxUkVPVXFEMnYxTFJfTVljNm56VGo1R05kWi1rQmN3bHV6aEV6SndIUFpJZ3hpQUo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5f60542b1ae178f146",
       "date": "2026-11-04",
       "title": "Litwa: Ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
@@ -2031,6 +2118,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-51fdbb0743cad43bb2",
+      "date": "2026-11-04",
+      "title": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
+      "title_pl": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1ZYTVZpUHNnYUNSQUpVSkJCVlZzNkxCR0YtcVAtYUExQm5tM0RZSVlTdHBzajk0Q00taFJtcFVkWE1VejdrS09jUDhON3llV0RiTUl2LUNRWXZQRmxrOTdWbjBwMlcwUnVwR3pIRzVQT3pvWVJUQkh3VTQyLU1nNTNscmNnME9FQ0VoeFJwOWJyMDBsYzZENkU4eTAyczFIZmtPXy15T1AwZm5GMlFMbnJHZVBPZ1FiaGtwcm5n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2733,6 +2849,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0717dc012757ea358f",
+      "date": "2026-11-04",
+      "title": "Nowa gwiazda z branży energetycznej",
+      "title_pl": "Nowa gwiazda z branży energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVld1NmFsNWg4YVlpUWxVT1Noc3hjbmh6eGhpdlJDQlRrRzVfOHBGdG9FemRSOWZKNV81X0xIc0xYTl9oS04wWWtlUFhqYUFWU2dHcGFmeTUwMldvQzVOaUtuakJoNnBkWE9GbGpsc3JSX0dtRnJ0YTVsRFNNTXNtNUFFUkwxbzVDdWE2MQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-05a0ad0a6bec55577e",
       "date": "2026-11-04",
       "title": "Niemcy wybudują liczoną w gigawatach konkurencję dla polskich elektrowni gazowych",
@@ -2765,6 +2910,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-04af39e685dbb59a8b",
+      "date": "2026-11-04",
+      "title": "Największy magazyn gazu w Polsce pomieści prawie dwa razy więcej paliwa",
+      "title_pl": "Największy magazyn gazu w Polsce pomieści prawie dwa razy więcej paliwa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWlGZG1LZ2x3S1hyQnpNOHFBbEltTVRmSTM5WXdCSDY3bGczZTFnX0hxRGI0WDltNjBKVU9Lc0h6aFkxNVE1RmZOQkNhQnotVjRyTGFReXItLU1fXzNjVjNNbHo2T0phM3dvaTV3TVE1SEltS3JTVzY1ZVB4akRXdE9udk8xWWljRGhMMFlRY2lRT0FfRDBvSjZWZXpwWlhlZVFFdlJ0b0tiZnNDODZ6M2UwWExPZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-034a96713a7dc4b40c",
+      "date": "2026-11-04",
+      "title": "URE otrzymał wnioski taryfowe od spółek energetycznych",
+      "title_pl": "URE otrzymał wnioski taryfowe od spółek energetycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTlHczhSVWZBRHJTQmtFOXpVV2JBNU9BaFphT0U2Zk1xZG54Mk8wUkFBdlFVT0drQUlCZnV5dUZlZEVXQUdNZWVUSTkwNGhFQzNWaWdvM0YtUVVRdUcwd3h5dXUtdzRzTzJmdTRFOGhzOEI0ZWYtcldUXzRwYXdXZ3pNNUJsZFFfWE5KYWFQcVFoM2RFN1FyU210OHViRWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-01d18037c6e24795a3",
@@ -4839,7 +5042,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmJIVEtHMXB1VlhpZERHWHltSGpiZ3dJVnNocHFPT3ZSNkYtdzZTOEw2a1ZEZV9Dc3JpVVcxS2hRZkFMazBlXzBXWkYzcnpjV25FUXVjR3RoaTZBaVp6dVRuLXVPRlY3bG1Zbzl1c1RTLVRuc2syREl4cnB2MThhMmd4UGlEaHBTcE82WkJPdFk5N2xwdVdGOWVUZTJWWlhRNVU2eDluaTVPWDFVQ0VuUmpMbENPX1BpOVhHUkNR?oc=5",
           "type": "press"
         }
@@ -4847,7 +5050,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
