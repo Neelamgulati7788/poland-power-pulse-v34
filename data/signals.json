@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:51:26+00:00",
+  "updated": "2026-11-05T21:49:00+00:00",
   "signals": [
     {
       "id": "src-fad22dd1b941d2ab63",
@@ -408,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d94d389ad0ade86c6b",
+      "date": "2026-11-05",
+      "title": "Tu się zbiera energia",
+      "title_pl": "Tu się zbiera energia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWVlrRlV6b25ibVpHc2F1RkgxYm9qQkYzN2hzYmhyNnBSTFJDcnJNV0FjVlpISkx0c2NEUmtKZ1FabjlCaGpkcDBwVWlFMXdPZTV4eHpwMXYxZDY2VmJuMXNoNjVlUkMwYnlYekF0TTI0YUhSazVrZnVR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d8f77aa83aadc3f7e4",
       "date": "2026-11-05",
       "title": "Orlen powiększył kluczowy magazyn gazu. Ale to wciąż za mało dla bezpieczeństwa systemu",
@@ -495,6 +524,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-d6c828f0164cb7f2a5",
+      "date": "2026-11-05",
+      "title": "Rosja: Putin rozmawiał z wysłannikiem Teheranu o dostawach gazu do Iranu i budowie gazociągów łączących oba kraje",
+      "title_pl": "Rosja: Putin rozmawiał z wysłannikiem Teheranu o dostawach gazu do Iranu i budowie gazociągów łączących oba kraje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVA3dE5jdVdLcVNBS25YX1ZUOHYtVGRHaThYb05LTDRQSzE0eWlIUnlUZ2JXa3BaZGNmbl9tNlNqY2ZaRTM0X0dXX25xTmV4UGQ4bmdjSzN4ZDlZS2VPNzlzaUdkYm56RU5TdElvNWluMFJOTjh3RENVRVE0alJJZ0t6MVRrOHk4RGk5N0lNQS1aWVVuNnJJSGNRQzZUel9CUVpQYlhtZDZFTmlPYkllaGxtOHctLV9UMS11X2VfXzI2MC14U0dSbnBXNC1JOGc2aEpvSDVadGxGQ211cHlPbnNJQm4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d6704e43b23d22fde0",
       "date": "2026-11-05",
       "title": "GEN-I wprowadza na polski rynek rozwiązania BESS i PPA",
@@ -551,6 +609,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cd3703f80a13c82ada",
+      "date": "2026-11-05",
+      "title": "Wykonanie instalacji wodnej, kanalizacyjnej, centralnego ogrzewania oraz instalacji gazowej wraz z podłączeniem kotłów gazowych w budynku przy ul. Sambora 36 w Kartuzach",
+      "title_pl": "Wykonanie instalacji wodnej, kanalizacyjnej, centralnego ogrzewania oraz instalacji gazowej wraz z podłączeniem kotłów gazowych w budynku przy ul. Sambora 36 w Kartuzach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zakład Gospodarki Mieszkaniowej w Kartuzach",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b83-1087-fae7-c1c5-d5000193cf3a",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-cabba0c2f49eb5ccab",
@@ -925,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ada727ea4d5e2821f4",
+      "date": "2026-11-05",
+      "title": "Orlen liczy na porozumienie z partnerami przy SMR w w ciągu miesiąca - prezes",
+      "title_pl": "Orlen liczy na porozumienie z partnerami przy SMR w w ciągu miesiąca - prezes",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2Fpa2NySVd1WWdTb2tPc0ExNE9aaDAxcmtRUmhPRVFBem5VQWZvRERIYnVheGVMbXlCOGFqV1FSTm9ZUDVmMGVzRkU1dVo4SlBhYkZTdGxmT3ZOR3VBQ0VzUld6anpqenhtOWZhU0k3Z21yaFhzeEZPS21zcWF3dGg2YzNIblhGUjlHQ21HRmdEZ2FiSG9VSUtDY3NKYzktMjJsYk8yaFBYSEJUZXQtbWRVYks?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
