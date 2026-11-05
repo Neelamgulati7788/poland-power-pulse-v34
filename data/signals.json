@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:59:36+00:00",
+  "updated": "2026-11-05T13:09:18+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -263,6 +263,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-d6d5b2cb4e2eea09fb",
+      "date": "2026-11-05",
+      "title": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
+      "title_pl": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTFWZzdMUk1COWFLSmVSazZIOThNYnl2ZkVCM3JMbVloM0thUjJseWNCa0RQZ19TWjVPcTlibjFIMi0wdGwxWVVaeVU5YUxZbWxXN1hBb01qSjdIWTJkNEFKT3pXTmVOT21RUGFKVUFOQWJaM3diRzBxRVNaUE1OSjBLY25MRU1HU0E3aVI1NzNyUjVmeWZIcGZYM2ZPUkNtWE5jZEF0MEg1dUNwS2gtUmYxdTRrSnMtZE5J?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d6704e43b23d22fde0",
       "date": "2026-11-05",
       "title": "GEN-I wprowadza na polski rynek rozwiązania BESS i PPA",
@@ -319,6 +348,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c1955e6b9843e8d75e",
+      "date": "2026-11-05",
+      "title": "Pomnik niegospodarności w Ostrołęce. Służby zatrzymały 25 osób, w tle znane nazwiska",
+      "title_pl": "Pomnik niegospodarności w Ostrołęce. Służby zatrzymały 25 osób, w tle znane nazwiska",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prowadzone są czynności z osobami zatrzymanymi w związku ze śledztwem w sprawie niegospodarności przy niedoszłej budowie bloku węglowego Elektrowni Ostrołęka – poinformowała w czwartek Prokuratura Regionalna w Białymstoku. Nie podała szczegółów. Odesłała do planowanej na piątek konferencji prasowej.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Pomnik-niegospodarnosci-w-Ostrolece-Sluzby-zatrzymaly-25-osob-w-tle-znane-nazwiska-9224185.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-bc2ded5e753d278087",
@@ -464,6 +522,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9721fdda679043b8b1",
+      "date": "2026-11-05",
+      "title": "Szwajcarski bank bezlitośnie tnie etaty. Koniec taryfy ulgowej po awaryjnej fuzji",
+      "title_pl": "Szwajcarski bank bezlitośnie tnie etaty. Koniec taryfy ulgowej po awaryjnej fuzji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Największy bank w Szwajcarii drastycznie ogranicza wydatki, kończąc awaryjne przejęcie Credit Suisse. Zaciskając pasa, obciął wydatki o ponad 800 mln dolarów, które miały pójść na wypłaty dla zewnętrznych konsultantów i wykonawców. Tym samym zlikwidował ponad 5,5 tys. miejsc pracy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Najwiekszy-szwajcarski-bank-bezlitosnie-tnie-etaty-Koniec-taryfy-ulgowej-po-awaryjnej-fuzji-9224131.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-949c18d0ffef385e53",
@@ -872,6 +959,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-68215b3752e5e5fb3c",
+      "date": "2026-11-05",
+      "title": "Sprawozdanie Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa o rządowym projekcie ustawy o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz niektórych innych ustaw.",
+      "title_pl": "Sprawozdanie Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa o rządowym projekcie ustawy o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz niektórych innych ustaw.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3294",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-65fa136b0904d97e67",
       "date": "2026-11-05",
       "title": "Re: Nowe ceny węgla",
@@ -1075,6 +1191,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4a2b4322ebbc8564e5",
+      "date": "2026-11-05",
+      "title": "Co dalej z polskim atomem? Prezes PEJ zapowiada finał rozmów",
+      "title_pl": "Co dalej z polskim atomem? Prezes PEJ zapowiada finał rozmów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmFQNGYtMEVyd1VkTUM5bW5LMi1ELXRUVXhhOHJZX0w1V2VXUDI2SFp6QmN2Q1BxWDVZdnNuS1lBWC1EU21XeEdKR1JZY0pESElPa2RKV3VLbWNmWmhESmlCXzFCeThUUlNoQTJZcXd1VjlKTXZFeHVid1A1bVN3dUg5MEEzMHV6UmNWVy1VMmlrRGdFcjUwU21WLVlpdExkSmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4571c57dc800c9f3a5",
       "date": "2026-11-05",
       "title": "Dostawa energii cieplnej do budynku administrowanego przez Zakład Gospodarki Mieszkaniowej w Toruniu przy ul. Broniewskiego 41.",
@@ -1186,6 +1331,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-39f38894ae01a36b2e",
+      "date": "2026-11-05",
+      "title": "PGE ma 3,9 mld zł na blok w Rybniku. Podpisano ważną umowę",
+      "title_pl": "PGE ma 3,9 mld zł na blok w Rybniku. Podpisano ważną umowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFhoeWdWSzh1UkhTY25Id3pUZDd0LUJNTGpBdFd3cUtzMXozemI2TmlnUXpOQTBYcWZac1Q2QXZtOF9UX2dNWlRoaldrMEF0UHFBS3FkVjVLTXlQc2tjREc2cXkwWlhTWDVBVkVNeU13UDlrc0duSGNUUjBISGw5Y184R0RxdDg3UkJfcUZWbFZXX01aVHJ6WUxodWhhbTJEc2hCa2FyeUNQNDNiTFlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1452,6 +1626,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-17c2e6f106bc5aef8a",
+      "date": "2026-11-05",
+      "title": "Amerykański atom, ale na naszych warunkach. Miliardowy kontrakt na elektrownię w Choczewie",
+      "title_pl": "Amerykański atom, ale na naszych warunkach. Miliardowy kontrakt na elektrownię w Choczewie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Elektrownie Jądrowe oraz konsorcjum Westinghouse-Bechtel dążą do tego, żeby zamknąć negocjacje umowy EPC na budowę elektrowni jądrowej do końca tego roku, ale jej podpisanie nastąpi w przyszłym roku - poinformował PAP Biznes prezes PEJ Marek Woszczyk. Dodał, że zostało potwierdzone z Amerykanami, że zatrzymanie…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Amerykanski-atom-ale-na-naszych-warunkach-Miliardowy-kontrakt-na-elektrownie-w-Choczewie-9224205.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-16429cacb8304c29d1",
+      "date": "2026-11-05",
+      "title": "Bilion złotych na nową energetykę. Jak zbalansować finanse Spółek Skarbu Państwa?",
+      "title_pl": "Bilion złotych na nową energetykę. Jak zbalansować finanse Spółek Skarbu Państwa?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1RWVEJtakZZQ0FTTVZFQmZIRDBETkZVTUxBU1ViUjk4a1NwTmlpXzBXVEhWbDRvVjl0amQ4cGxhVlhCWnZDaFdyZzNRV2ticEtlYUNqbHNfc240Z0F6SDE3ZTNSd0Nna3c0Q1loU19mYnlXSW91M1dwR2EwbktTTlVqM1F3RXplNVZmUGdVSnN0dW1GZUhvM2JzR21aT1lVeTBESGZRMHFTQ1hCWFBsWnMtbjVhdmpjYjhndDROSFQtdUs3VHExTlUxSGM2ZjdaTkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-131218d198b7b83fb5",
       "date": "2026-11-05",
       "title": "Grunty pod Regionalny Park Energetyczno-Technologiczny",
@@ -1476,6 +1708,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0c08d9bca9bfbeed41",
+      "date": "2026-11-05",
+      "title": "Orllenik nam się nieco zorlenił",
+      "title_pl": "Orllenik nam się nieco zorlenił",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM01JVHhRU1FsQ2locW5sTUhQTzA3V3VGYTJJT3QxektuYzZrZ3pjUVhVXzZVODZYVkpkbE53TTBDbTJXM0VxUGRhQVpFdm43bGp3eExmUEpzTlBtUnpyZEpaVzN6RzZhdmRCTkx6M0VVZFk3cFNabHBER2NrdUo5cUwyekgyUlk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
