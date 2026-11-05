@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:06:05+00:00",
+  "updated": "2026-11-05T11:59:36+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -100,7 +100,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZy0zV0Z3QkZENndMa2FMTWFEdzlrVUU2YVpFMl9HTWFWSXlBb2VyeUNjTVNiYlhPbGVoR0o0ZnIzZE1MaGVhU0ppTGRySWZ3VjVGSEItQWo2QmYta0VQdkF3OFFHSm1fSkZtY09pN18wUjAyUEprM3N2WW1nWnFHa0lTaTJqUEZSMTZYN0ln?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3dkRl9ERWRoQnNDNktPMWVFZUZkSm9mdnc0ak5IY3VINlhxazVOM2JPcGc1c3JRd3pCNElXOHFYSzJLNHBDUXpzNkZfU2c1QXRYM25hYWxydkFVbmpzRmtSdkljZklsdHQzSFdoOVBjRGc1ZXdGZUowR3lGbl9zZHFRMUxoMGhubG5TeldB?oc=5",
           "type": "press"
         }
       ],
@@ -171,6 +171,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e152d81a781cef76f8",
+      "date": "2026-11-05",
+      "title": "„50/26 – Przebudowa Pracowni Elektrofizjologii i Elektroterapii Serca Szpitala Wojewódzkiego w Bielsku-Białej”",
+      "title_pl": "„50/26 – Przebudowa Pracowni Elektrofizjologii i Elektroterapii Serca Szpitala Wojewódzkiego w Bielsku-Białej”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Szpital Wojewódzki w Bielsku-Białej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b34-2c17-6289-c1c5-d5000193c908",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-db56e79d3cf331326a",
+      "date": "2026-11-05",
+      "title": "Gasiuk-Pihowicz: Nie wystarczy budować, trzeba bronić. Unijne miliardy na ochronę kabli i elektrowni",
+      "title_pl": "Gasiuk-Pihowicz: Nie wystarczy budować, trzeba bronić. Unijne miliardy na ochronę kabli i elektrowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWhvc3ItSlhfUFRoWGtQUEd4cURMWlVTdHoxZDNrdDFZS0ctM2JaRnJKVjc2cTRMYWpIRUk3WWRudTZsNndWaklhS2F0aTMtY0xscjExbmR4dHpQcGpPamNybXYtS3ZQeFZKclZuYWNPNXlKNGNMUk5vRVRIY2xHQ01sUVc4TERBb24yYkZfUnRBMTRsNGFKSnlJeDdYV25CMVJIaHNrT2d4b2lZTGtQdXZzZWRiU3VkY3g3ekc1QUtLUkpMcktwV3FRZnJyWDdFTHQtY2Ztdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -640,6 +698,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-874e48218464b3c6d1",
+      "date": "2026-11-05",
+      "title": "Westinghouse: Śledztwo nie wpłynie na kontrakt dot. pierwszej elektrowni jądrowej w Polsce",
+      "title_pl": "Westinghouse: Śledztwo nie wpłynie na kontrakt dot. pierwszej elektrowni jądrowej w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVFsQk1MX1dNSzY5MkNDR0o1WmE2aHBoU0xNUlNWR1hNMjdmZExzVndpM1dXd2JCemtzYmJTNk5pYVRrR21TYV9YaDE5eXUwMTVCNlJUNS1UWGwzWEd0Q0pIWjVEdU1SbFlPTXZEd2tlTUZ5UXVNdXpTdlJ0bW5FR2lOR2xPU1JBVkxmb09xREVxb09LSEIzNWxHTG9oRXB2VTBFQ2F1WWxhTEgzOFVsNTdMWGE3cDJ4ZTl1UXZwY2JzTmI5RGVkNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-85254ac5b4c650a02e",
       "date": "2026-11-05",
       "title": "️JSW PRODUKCJA WĘGLA I KOKSU W 3 KWARTALE BR.(...) - Forum",
@@ -925,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-51c67b5913472680f1",
+      "date": "2026-11-05",
+      "title": "PGE pozyskała blisko 3,9 mld zł na budowę bloku gazowo-parowego w Rybniku",
+      "title_pl": "PGE pozyskała blisko 3,9 mld zł na budowę bloku gazowo-parowego w Rybniku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWkZUak1YVkJFWnJLcUtQaWd3alFFanNMOTFZNVZOU2pVSXUyMjEwd2t0WDRlRENfQnB6QVB5QmVnRGZEY0lIMVFROTREbkNhdC1sUHJYb190MmRaV0dlRFlnSElueHIySVVCMDBZcjh5ZUp2U3M0Q0NQQWRjeXFTY3lpQURRa3RNbVlhc1g4RkR0dVN2VDQ3elNpRW52TWxxanF0Z1NULXBZZmlPRXdMQzRmT3h4VTFlX3RKTzZ3THNDSW9zd1p4RS00SXZJbHM5M003VGt5RzVvZXU4OUVKUw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1278,6 +1394,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1d8fc964fec27fd609",
+      "date": "2026-11-05",
+      "title": "PGE zaciągnęła wielomiliardowy kredyt. Wiemy, na co pójdzie",
+      "title_pl": "PGE zaciągnęła wielomiliardowy kredyt. Wiemy, na co pójdzie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSW5BcExHbmtMSjZTRmUxSFpLWnBvb2Q3VElVTWN3WFVNb2dGa2VVLWFhdGNNZzVSNzJWek9iYVdLZFZSdFNEMVBXOW1XTmN1MXhUZHdzVHVCNkN2T2EzYmdrQlJHTlIwQlZ3enA3ZVJNbXRuMlF0bmlOUGd2NENUcENrOXd2TTdmTVhZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-19d32268b5beecec67",
       "date": "2026-11-05",
       "title": "Ile kosztuje niezależność energetyczna i jak za nią zapłacić?",
@@ -1302,6 +1447,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-131218d198b7b83fb5",
+      "date": "2026-11-05",
+      "title": "Grunty pod Regionalny Park Energetyczno-Technologiczny",
+      "title_pl": "Grunty pod Regionalny Park Energetyczno-Technologiczny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2lESXUxR1NkZkhqcmVMVm1NRVgzenN2aDQ3SVZ3YlVDYk5PWTdPa3BCbFpUTTF0TzJIVm02aTczdmpnWWJNTnJzTlZWWHM4aWt3Y2FwSmg4MURGTEJnWmVvc1RaV3RZcHE3SnE0U2NsVUdhX1dhT2pXYnAwbW1IUlZrMGJpYnhwd1M0U2RXN0pMU0pxcHpvcTlFZE44TE1OeFhHcUVIZy1pbHRZMFlMbQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1376,7 +1550,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDBpOW1KaENNaDZPRXVHZkJGUWpGbWw0LU04UklhT2lHT2VqeTNhVjRZV0Fwb1VaQ1ZadjY5UHRrWWpiSmxoV1hDOUpqb3dBR2FhUTVUUHA1aXZVbkttdk5ONHIycGZtSHFsbTUyZndWcXEzRzQtZUsweUo1Q0NDem9LenI0NjdJenRWV2FhRmNVcVZLYldGUi05U1lmN0VIRXJxNFRpLUcxSU1EWDFIMll2QVh3cE9wQ1NfUnBpcGFhRFdFZnhxaDN3WE9iZHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWhWRHBRdHFNdmdiMUFNUUJmd0I5Y0w2MXJmWl9WT0lBbnZMN3pGQm9aNlNkeXA3cElWeXJXY011eXNlYVo1ZUxXQXNEeGZmWVVreEhYbmZVUHVOemxyNEtYdnRjRWo1YmhtVFlMdm55VXdMVUUzbFBzNDNvaTY1YzRqQWp3WldDRVhPWHZLazJqaHYwV294Mm52elBtVm9rblBUNk1lWVh5UWJ0RUJmRHZsYUFNelR0dWhreDlua1JzMzg?oc=5",
           "type": "press"
         }
       ],
@@ -1384,7 +1558,7 @@
         "TAURON"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
