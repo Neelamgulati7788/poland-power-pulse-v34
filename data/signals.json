@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-05T00:16:31+00:00",
+  "updated": "2026-11-05T01:48:16+00:00",
   "signals": [
+    {
+      "id": "src-ea69b8482a9c6fa1cd",
+      "date": "2026-11-05",
+      "title": "Polska – Wyłączniki – DOSTAWA WYŁĄCZNIKÓW 400 kV i 220 kV – etap VII",
+      "title_pl": "Polska – Wyłączniki – DOSTAWA WYŁĄCZNIKÓW 400 kV i 220 kV – etap VII",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Sieci Elektroenergetyczne Spółka Akcyjna",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ada-c07a-ef01-c1c5-d5000193c053",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fe63ed625422dcfdfd",
       "date": "2026-11-04",
@@ -1861,6 +1890,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8e97c7275ca29ba803",
+      "date": "2026-11-04",
+      "title": "Największy magazyn gazu w Polsce jest jeszcze większy. Orlen wydał 580 mln zł",
+      "title_pl": "Największy magazyn gazu w Polsce jest jeszcze większy. Orlen wydał 580 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajJoQi1pcktaSDFOZFNlUHExS0JMRWVLSDYxczhna2RIblc1ZWlfTkVZd3hCMlR3UHYzZjVXWlZkNmtqR1lqdFo0UnhENXE5WU1lak8zUkRjN1J5eEZ4MXI4R0lDMm5ZaGlydG0ta3V3bnMxN0RzR0Fya3pHWUdQaEgtTS1LNlNBU1NuQkVMT1dWdm16SmlOZV9NR0UyTEJUcW5JaWlTTm1nTmUzVmFhQl9WTndWcDQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8899f3ca3d228cb6f9",
       "date": "2026-11-04",
       "title": "Odnawialne źródła energii w Gminie Kamieńsk - edycja III",
@@ -3693,6 +3751,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-033b31295076f8acb1",
+      "date": "2026-11-04",
+      "title": "Inżynier/ka ds. SCADA, ORLEN S.A., Gdańsk",
+      "title_pl": "Inżynier/ka ds. SCADA, ORLEN S.A., Gdańsk",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFJsM2ZzWm1BT1NyWXd4aUdjbnlGMWNsVXJfRE53bEp5WFM4dXM4cnVLcTNwZUk3SVBGWkloOFVybTFScnR6ZUZjYkQ3UGZVQnkybnRJcmNQc1NmM09WY3B3Q1dxY2ZBTHh5b3RIMDNFQmt3ZG9LMUFfM1c0MUxYM3dyWlZiMm5i?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
