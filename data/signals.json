@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T03:56:03+00:00",
+  "updated": "2026-11-05T04:59:30+00:00",
   "signals": [
     {
       "id": "src-ea69b8482a9c6fa1cd",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-19d32268b5beecec67",
+      "date": "2026-11-05",
+      "title": "Ile kosztuje niezależność energetyczna i jak za nią zapłacić?",
+      "title_pl": "Ile kosztuje niezależność energetyczna i jak za nią zapłacić?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHZOcHJjbmhlT0wyRmZQeHhLanB4dWNFVkRKZEtDMHN5ZDE1QnI1a1luSEdHcG9WcVNsS2J2dm14cm9xcTByVllSRWdGaXlBdDl1MVExOHJrNk4zNlBnRXN4dFRpbnRrcVVucm95ZGZKNVVGU3BnX3FCME5OWkpKOEJNRWlpQ09FOXlpbzVoampaeDAwWFpQRjRpWU5BRWZPaUtKekhpUUZTUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-fe63ed625422dcfdfd",
       "date": "2026-11-04",
       "title": "Tauron's heating unit selects Siemens consortium to supply turbine islands",
@@ -84,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fd3c7632fe66638b1b",
+      "date": "2026-11-04",
+      "title": "CBA zatrzymało człowieka Amerykanów od atomu w Polsce. Poszło o zupełnie inną elektrownię",
+      "title_pl": "CBA zatrzymało człowieka Amerykanów od atomu w Polsce. Poszło o zupełnie inną elektrownię",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWc4Yk13UnJkYTRsZXVpVXhJQllTSnFfMUowcUFPNzNRMTJOWE5lS2w4UG5tdVpLSlY2dU15VVRhb0x3TUw0X0ZKRlRMREZzb0U2QmszUzIzTHRiVVo0WGFtRU5GX2hlNjFGalRJOXZKaXFySEw0eTZmN0N5X2VKWkhDdTNiWGNKcEo3YVphZlpubnh3dzczeWFwNjZRUF91VE1sN1BtemhYRDcwZnJSRnRGUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2239,6 +2297,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-762b66c0d2c746fed1",
+      "date": "2026-11-04",
+      "title": "POLENERGIA SA (32/2026) POWOŁANIE CZŁONKA RADY NADZORCZEJ",
+      "title_pl": "POLENERGIA SA (32/2026) POWOŁANIE CZŁONKA RADY NADZORCZEJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmRnU1FrSU92SllSRkhndTBDbUdIa3hrTGxPX0lTcGdBSmI2cUNSUXdCdC1fVmtlS2MzbUwxazBYbGd4eGJzOEQwZ1FEUmM3VHl0ZGpaekdtXzFEWXZudVJKZGlIS3ptSnZTdDVacG1mMGxmQ0d1SVg1SjhRXzUxZWZrc002d1AteGNRdzJveEFYQzVnOXhUZg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7397658b425f15f168",
       "date": "2026-11-04",
       "title": "Litewskie ministerstwo energetyki liczy na porozumienie w sprawie Możejek",
@@ -2960,6 +3047,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-47ae10f435c1388301",
+      "date": "2026-11-04",
+      "title": "GLOBAL HYDROGEN SA (7/2026) Zawiadomienie o zmianie stanu posiadania",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFlRSFdYaGwyTDkxSHo2WnZIU3Jlakg4MWFZWVcxTDdwV2dVejBTSWkyQko0WE14ZVV0WVF5TXRfWDlNV2pja3huX2NaRVNuUEs5bGFERUlYWFJNdGdnb3p6QlJ2TmNWSnJOOWlsQk5xMkVHdEt3LU41d1YwWjU2YnR2S3o1OHZaSjAtcWlYOFB1djhFZ0IzeE9zTlBScjFZRW1iX1Atdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4436,7 +4552,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
           "type": "official"
         }
       ],
