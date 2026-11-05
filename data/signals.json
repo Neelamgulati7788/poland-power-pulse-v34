@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T14:35:04+00:00",
+  "updated": "2026-11-05T15:32:10+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -84,6 +84,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ef57360f71e307f979",
+      "date": "2026-11-05",
+      "title": "PGE pozyskuje blisko 3,9 mld zł na budowę bloku gazowo-parowego w Rybniku",
+      "title_pl": "PGE pozyskuje blisko 3,9 mld zł na budowę bloku gazowo-parowego w Rybniku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0NRMmp5cG93UlpHR1IyZXFjSUZwcFN6R2x5Nm9veGxTTzFKRTFGcm4wLVpxMml6QmN3bE1VN3o0QV9DMWVveW1JY3lWQVVyRkE1U04yU2FoTmFVUnlVU2djMGdLREhuWWpOYzlhUjg1MHpOMzZ6aFVnd2MzZTA3WkZfR1hETU5hTXdzTVVWdXpucGx6ajViNVNFZFlsMThBZ0UyVXdhRG9XaXVUUEhJUlU0VzdtdEpNb0tydXFVQXVMa3dXZXFYNQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -299,11 +328,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Premier Litwy Mindaugas Sinkeviczius ogłosił w czwartek, że poinformował Orlen o planach wprowadzenia podatku od nadzwyczajnych zysków firm energetycznych. Orlen przekazał rządowi, że kolejne podatki wpłyną na plany inwestycji w należącą do koncernu rafinerię w litewskich Możejkach - dodał premier.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmREeF8zaDJONDYxYUY5enBHd1Y3U1BUeUJFLUlvbFRRVTBUNjIwNkxwOWFCVDZZbzhBOG9XOEJVMEJXeEtVdjBkb0hfemIzUmJwWmxsRjZGSEhMOElFQzAySU9oNktJVnFWNU5TQTh2STZrMzBXaW4zOUtRRzZwenRkdExScG03NU05ZUJsUzBZc0hFa2ZlYnBCcTRHVGptZkFPV1hqRGtSNk52VFZwS0JZZE5IV01D?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Litwa-chce-siegnac-po-zyski-Orlenu-Koncern-rozwaza-zamkniecie-rafinerii-9224257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -317,8 +346,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d6d5b2cb4e2eea09fb",
@@ -437,6 +466,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c806bc54284a10e8f1",
+      "date": "2026-11-05",
+      "title": "Ceny prądu na 2027 rok. Wiadomo, kiedy poznamy nowe taryfy",
+      "title_pl": "Ceny prądu na 2027 rok. Wiadomo, kiedy poznamy nowe taryfy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDZiMlNlUDdyeU9TTFdqcFJJRklXLUV6b1lnX0hNeU4yUzVRUFd5bk5zOThCUU9aczJLVnBRNzE2dVl6UGFfZGNKOTlsa1pVOC0zT0JRVFlmYzNNdVdtR2NrYnFpT1ZQRFRvV01aZE9sRUFXdG5WUnJEOFNiWWc3VHBGYVlUbUxYenBoZVRoSHVvZlhvdk4zc2stYU1nMEZlQmhRLQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c1955e6b9843e8d75e",
       "date": "2026-11-05",
       "title": "Pomnik niegospodarności w Ostrołęce. Służby zatrzymały 25 osób, w tle znane nazwiska",
@@ -464,6 +522,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-bfdb47d9ecd4ab0c85",
+      "date": "2026-11-05",
+      "title": "Krok ku drugiej elektrowni jądrowej. PGE podała ważny termin",
+      "title_pl": "Krok ku drugiej elektrowni jądrowej. PGE podała ważny termin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGtlcDUxclgwbzFtTWs2dFpubFljdzlPWElKME9ITVYxUXpyaGp2cl9ONElhME1IYUJsWU5kZGVfWW11ZVgwdFIwU2ZfY0VGamJBTDV0QUJkX0lSbmZHVXRaOTJVd1BsT1FOUlZBZU5RVWhxamtNUTFKMWRtTGIxQUJvazBiTTE0bjR6NFlEdjQyMHFUd2FLanRwRWR1Ylh6dmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bc2ded5e753d278087",
@@ -698,6 +785,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-93c308056bcb99f4f0",
+      "date": "2026-11-05",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjRQYW1CZ1JkUUpaWXI0OE9XVFJEZnh0MWNfc0QzUGpXb3JEWXA5SHFGVUlGaWpURXF6aTRhc1p3NnJPamtyX0JDdXpITUNTR2VKYXBjcUpyTFYzclhLeUt4OFlCZ1Eyb20zOHRnZmtoR3M0R2JmUHpnN1BZVHdDZ1VSU2ZOQzRu?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-91e6abb51c820c1142",
       "date": "2026-11-05",
       "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
@@ -722,6 +838,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8ec2f69babd9b9390f",
+      "date": "2026-11-05",
+      "title": "Energia jest najdroższa od ponad trzech lat. Ale rząd ma plan, już wiadomo jaki",
+      "title_pl": "Energia jest najdroższa od ponad trzech lat. Ale rząd ma plan, już wiadomo jaki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUVqY2MyOGp2R1EzT1Q5TjB4cDdUVXp5T1FPdVE2b3VKS0NnZDBwNENFN2ZxUWhSLWVkclN3dXc3d1JFMFIzX1ppMzlXUVNGdTVyYmlUb3lTZm5YTjJDcTZBTTVpUU1XZEVZWVVhLW1ZaU5wUE45T2dQdHZGQ2V1bzdZT1lEck16OEpHTDZYX1ZHMTdmdjMyeDRuRGVsWElmeE5GVzl3NmM3YkE2a1VJdUpDbTVWRGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1133,6 +1278,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6e4e2693e10989e14a",
+      "date": "2026-11-05",
+      "title": "Komunikaty ESPI dla DBENERGY[DBE]",
+      "title_pl": "Komunikaty ESPI dla DBENERGY[DBE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGlYQ2dxdklCbUc4YW52T2ltWl8yN2JLN0VVS0l2cGJTcXhaYVhVU2tvbE1IWnNfMVJ6QjVKb0E0clNfNEZON1ZuRFRtVVg5TXFtM3JNRmNsNm9NemVFTklqOXotLVZldGg2SEN2RlRrc2M5a0lwNzQtOHRsUVFSeGtiRkI1VE9X?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-68215b3752e5e5fb3c",
       "date": "2026-11-05",
       "title": "Sprawozdanie Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa o rządowym projekcie ustawy o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz niektórych innych ustaw.",
@@ -1186,6 +1360,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5c0983a4c7ffabad4f",
+      "date": "2026-11-05",
+      "title": "Prezes URE: nowe taryfy na prąd będą znane w II połowie grudnia",
+      "title_pl": "Prezes URE: nowe taryfy na prąd będą znane w II połowie grudnia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXVBclNrMTM1T1pNWEZuLWZFQk1fWmdRaGtHcDBkejZTTHFkQWZURmJ0YzhwUEZ6TjhqbWV5eFhjTVFGZ0VwSHJHbWp1UjNQMmRlOExLMzlPN1NGWmRjQ21zNDk3c0E5Y3FjZ0hlbHBobUtBOElNbGY3YnlZekRFOXh5bVN2eFFOVjRQN3NHT0VaZGNVR1V1d3NLRTBpemsxVU93R0JLOWZUc3dIUkd5TEFXbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1771,6 +1974,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1f3868a34be78a2f8f",
+      "date": "2026-11-05",
+      "title": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+      "title_pl": "Nowe taryfy na prąd będą znane w II połowie grudnia - prezes URE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2ZzR2FBdlNWUVFxQWdIN1g0YkdldXBvVTNJRXY2UnJ0NUZRQlNaekhVMkVpVW9HMG9oM2wtaE54SFJrcWNnWE9ZbTcyVHM4WVJ4eWNyYVpmeHRLTTZ4eG9RSDFxWlJvUHJoT0N3aGVVMkxYZDZ4QUctUnlxOFRkYndibFdIVEFiakJTSDVTYWN5c2ZOTHFwbkR1OVNfTFA5eDR3MDhfX0tOdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1d8fc964fec27fd609",
       "date": "2026-11-05",
       "title": "PGE zaciągnęła wielomiliardowy kredyt. Wiemy, na co pójdzie",
@@ -1882,6 +2114,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-16143f096eb2f4c939",
+      "date": "2026-11-05",
+      "title": "Bloki węglowe mogą jeszcze przez lata stabilizować polski system - szef MAP",
+      "title_pl": "Bloki węglowe mogą jeszcze przez lata stabilizować polski system - szef MAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnJoT2I4Rk5ZSmZjNjlKQ1pCbTEtM3lGbDRkUURVdm5JYTJ0eEkyWFJIQVFreEtFbDRJSEJCWS01ZmVySEVWUU1QRWhRdC1lcjYtdU04S2xmbmtVU04yU0dGTEJUR09BZkNTbDl0N3FlOGdNWVVPSVl4YkROcWJ4VnB6YVc5WXQyNkl5UDdBbXd1R3RTSmRtRDY5NEYyaFFzdVBpaGdLN1g1S0Jfd19kck1mUUw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2030,6 +2291,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-070f6ff95d416a1d11",
+      "date": "2026-11-05",
+      "title": "IHI to supply components for first Polish AP1000",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Japanese engineering firm IHI Corporation has received an order from Westinghouse covering engineering and procurement activities for long-lead items for one containment vessel and an associated large steel module for the first unit of Poland's first nuclear power plant.",
+      "links": [
+        {
+          "label": "World Nuclear News — source",
+          "url": "https://www.world-nuclear-news.org/articles/ihi-to-supply-components-for-first-polish-ap1000",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "World Nuclear News",
+      "publisherUrl": "https://www.world-nuclear-news.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "32"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ff7391c981c462d08c",
