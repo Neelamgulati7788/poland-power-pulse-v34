@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:54:57+00:00",
+  "updated": "2026-11-05T20:51:26+00:00",
   "signals": [
     {
       "id": "src-fad22dd1b941d2ab63",
@@ -1566,6 +1566,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8014b6c004df82a7cc",
+      "date": "2026-11-05",
+      "title": "„Wymiana źródeł ciepła w budynkach administrowanych przez Nadleśnictwo Przedbórz – II postępowanie”",
+      "title_pl": "„Wymiana źródeł ciepła w budynkach administrowanych przez Nadleśnictwo Przedbórz – II postępowanie”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Przedbórz",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b77-e98e-039c-c1c5-d5000193cf0f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-7ea5a25a4ce590a4fd",
@@ -3199,11 +3228,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Są duże szanse na uniknięcie podwyżek stóp procentowych w związku z lepszą sytuacją na rynku surowców i rosnącym prawdopodobieństwem przedłużenia CPN - ocenił analityk Piotr Bielski z banku Erste. Dodał, że w takim scenariuszu inflacja, mimo iż wzrośnie, to nieznacznie powyżej 4 proc. w I…",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjdsWVUxQmItQ1BXQ3RxRGs3SzVDUFJqMzhsSWVIcnRVZ0lyUllfZnh3eXVjTWc1Y3dCcTQtaXBCdTYtRElRSnVRNmF1dWpUelNQb25UQUI3LTBLdUY2eWRWdUMzQ05xR0VxM0RZa0dYZGE2eG90SXdwNDVtWGdMUlg1dGVZVGo0SGg2ZmdyYTJ1LXJaWXRQT2tyanBJWEVWNnU3eEU2VFZJQVVJMGhRdA?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/RPP-moze-uniknac-podwyzek-stop-Kluczowe-beda-ceny-energii-i-paliw-9224541.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -3217,8 +3246,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0c08d9bca9bfbeed41",
@@ -7216,7 +7245,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JjRXhnMndqQ1FXQU9NdHpGSkFsZEw0OXVNSmY5Rk5GZld4Sm5iWE5fZ2poODA3ZUVYTngzZ2NTZDRuRG91YmJyei0wU05Cck9kb3Fhb3p3TkwzVWdhX3NpMVdmc3VLOXJBUDVPYnRDTkNxSlZQUlFCY3p4czBscU5iNnQ4VXhVSUVUTmt0enpMYkE0YXlPYnA5aVdtc1ZINVVqd1V6cE5FY2xITXhV?oc=5",
           "type": "press"
         }
       ],
