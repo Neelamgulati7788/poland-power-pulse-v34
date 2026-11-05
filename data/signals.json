@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-05T06:01:33+00:00",
+  "updated": "2026-11-05T07:18:20+00:00",
   "signals": [
+    {
+      "id": "src-f402996f3664949e10",
+      "date": "2026-11-05",
+      "title": "Pełnienie funkcji inspektora branży drogowej, sanitarnej, elektrycznej, telekomunikacyjnej w ramach inwestycji pn. „Przebudowa ul. Żwirowej”",
+      "title_pl": "Pełnienie funkcji inspektora branży drogowej, sanitarnej, elektrycznej, telekomunikacyjnej w ramach inwestycji pn. „Przebudowa ul. Żwirowej”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Kwidzyn",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b0c-dc6d-1f7a-c1c5-d5000193c1ad",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ed12fc8b90121ce763",
+      "date": "2026-11-05",
+      "title": "Re: Niskie zapasy węgla.R/R.",
+      "title_pl": "Re: Niskie zapasy węgla.R/R.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRUlSdktTTnhldkQ3LWdVX0ZyWHQ1aGFSYXFEXzF5Q3BZZHpoWFpYV1l5RDZUbEZYeGJVck9LSVdtdzNHaUZFNXdrdENjVXpBRE9sNm14cW5hM19Rd3l4R0M1ZkE4cEhuRXp3R1JwRC1WczBBTHQwUWdZOXVmVjI4WA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-ea69b8482a9c6fa1cd",
       "date": "2026-11-05",
@@ -29,6 +87,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d8f77aa83aadc3f7e4",
+      "date": "2026-11-05",
+      "title": "Orlen powiększył kluczowy magazyn gazu. Ale to wciąż za mało dla bezpieczeństwa systemu",
+      "title_pl": "Orlen powiększył kluczowy magazyn gazu. Ale to wciąż za mało dla bezpieczeństwa systemu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W Wierzchowicach na Dolnym Śląsku mieści się największy w Polsce podziemny magazyn gazu. Wczoraj ogłoszono zakończenie inwestycji w zwiększenie jego pojemności - wzrosła o ponad 60 proc. – z 1,3 do 2,1 mld m3. Wykonano trzy nowe odwierty do zatłaczania i odbioru gazu, zmodernizowano instalację…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122632-orlen-powiekszyl-kluczowy-magazyn-gazu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-c93f37063778a53466",
@@ -176,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5aa86d49d1fbdf9651",
+      "date": "2026-11-05",
+      "title": "Woda morska w produkcji wodoru? Niemcy sprawdzili, czy to możliwe",
+      "title_pl": "Woda morska w produkcji wodoru? Niemcy sprawdzili, czy to możliwe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU8xWEVzRG9Ka1ItckhEVXpHdXpRWlhNeXJodDRYOG5FSThpTlg4NWdZRHotcnZCdzdYSk5BaTgxaTNDaFlmVThLMHF5SGp3UTFVMjZZcmNBUUxDcHRqNVpDRGVPQmhUYWZjUGZ5TDYwakhYUi1OZm5RbVhjTGQ0WEZGZDE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4b38ea60ddec197d6d",
       "date": "2026-11-05",
       "title": "Dodaj do mojego kalendarza (.ics) - PSE",
@@ -200,6 +316,64 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4571c57dc800c9f3a5",
+      "date": "2026-11-05",
+      "title": "Dostawa energii cieplnej do budynku administrowanego przez Zakład Gospodarki Mieszkaniowej w Toruniu przy ul. Broniewskiego 41.",
+      "title_pl": "Dostawa energii cieplnej do budynku administrowanego przez Zakład Gospodarki Mieszkaniowej w Toruniu przy ul. Broniewskiego 41.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zakład Gospodarki Mieszkaniowej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b0c-f3ec-82ab-c1c5-d5000193c1b0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-3dc061b6a0fd0922d1",
+      "date": "2026-11-05",
+      "title": "Koniec przestoju przez Dunaj. Elektrownia jądrowa w Rumunii wznawia pracę",
+      "title_pl": "Koniec przestoju przez Dunaj. Elektrownia jądrowa w Rumunii wznawia pracę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGU5YmN5dDBiV21pcGxaNEg3dFBoNzd4dFBrR3JtRzdmaFhjc3pyRmVEXzFyRnkyN3hkUDZQOXZXeXkzaHlQeFhaTHA1UURHYmREczFpSTI1Zk90cWxNTF9FaVpRMnZhRlJpcGlpSUNHb3J4OXRjb1hYWk9OM1hRR1NuSjNfRnd6Q1ZlaDk3elBLeFdJUGZYTld4STE5dVRpNjdyc0tDMHE3LTZEajJwaDVhOURNWFhwUXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -234,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2aa5f4ca03f1343d2e",
+      "date": "2026-11-05",
+      "title": "Europa chce chronić elektrownie i kable podmorskie. Jest propozycja Polski",
+      "title_pl": "Europa chce chronić elektrownie i kable podmorskie. Jest propozycja Polski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1BqMThaN3JnV2pCN21nM0piYWRBZ0pMLWhxU1RNUjg2UFF5d05CRE9PMlV5c1NDUzY1Q09iOUtpN2FDZGRzaE50SGtQWXFER2RmTEgyQlJPT2xpZjRHb1VPdjlQUWFMaS1XZnF6YXNBU2pDMzhRaFdyVUt0SXRRZUN3VFpic1I2bEk5XzRWTjBxUi1vTlNSdjNZdUQ1WHJqNzM2aDNWOHBaZzNsVEhRc1M1ZEtOWGphWDIw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-19d32268b5beecec67",
       "date": "2026-11-05",
       "title": "Ile kosztuje niezależność energetyczna i jak za nią zapłacić?",
@@ -258,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-08fec6f6704063cc42",
+      "date": "2026-11-05",
+      "title": "Instalator fotowoltaiki ukarany za fikcyjny nadzór nad montażami",
+      "title_pl": "Instalator fotowoltaiki ukarany za fikcyjny nadzór nad montażami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTZYaWRJR0U4SkFBM0NGV05OSktoQ01QV3phNll6SERTQ1JDa3V1SzVnVjNtWE1zZlFDLVZMamVaUHM1MzdlZFhvbXNoQ0VMOXNRYUM2Z1U4aHdSbXhqdVFBdDVkVk9LcGtIU3plVlNyMWF6aHRyNW1MdkYyUHRkMVVCNDNadHF4b1NtV2tvaE1zamFQeWtUeFdDbHo1ekNoN0lOcVpid24zVFhhRGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3722,6 +3954,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1f08e7e596237d6f3c",
+      "date": "2026-11-04",
+      "title": "Koniec przestoju przez Dunaj. Elektrownia jądrowa w Rumunii wznawia pracę",
+      "title_pl": "Koniec przestoju przez Dunaj. Elektrownia jądrowa w Rumunii wznawia pracę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Elektrownia atomowa w rumuńskiej Cernavodzie ponownie przyłączy w piątek do krajowej sieci elektroenergetycznej jeden ze swoich dwóch reaktorów, które zostały wyłączone latem z powodu rekordowo niskiego poziomu wody w Dunaju - poinformowała w środę firma Nuclearelectrica, właściciel siłowni.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Koniec-przestoju-przez-Dunaj-Elektrownia-jadrowa-w-Rumunii-wznawia-prace-9223846.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-1c29b7238a7aaae323",
       "date": "2026-11-04",
       "title": "Energetyka – strona 741",
@@ -4726,7 +4987,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
           "type": "official"
         }
       ],
