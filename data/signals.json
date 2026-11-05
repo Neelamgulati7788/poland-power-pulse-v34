@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:09:18+00:00",
+  "updated": "2026-11-05T14:35:04+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f2fd140949c590dcae",
+      "date": "2026-11-05",
+      "title": "Ostateczna klęska Gazpromu. TSUE zamyka batalię o Nord Stream 2",
+      "title_pl": "Ostateczna klęska Gazpromu. TSUE zamyka batalię o Nord Stream 2",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Trybunał Sprawiedliwości UE utrzymał w czwartek w mocy wyrok sądu niższej instancji, oddalając skargę Nord Stream 2 na unijną dyrektywę dotyczącą przesyłu gazu. Oznacza to, że gazociągi państw trzecich nie zostaną wyłączone spod unijnego prawa.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ostateczna-kleska-Gazpromu-TSUE-zamyka-batalie-o-Nord-Stream-2-9224250.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f1ac2eb34c25cad5ce",
@@ -263,10 +292,10 @@
       "evidenceLevel": "publisher_feed"
     },
     {
-      "id": "src-d6d5b2cb4e2eea09fb",
+      "id": "src-d858f80eae49ce069c",
       "date": "2026-11-05",
-      "title": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
-      "title_pl": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
+      "title": "Litwa chce sięgnąć po zyski Orlenu. Koncern rozważa zamknięcie rafinerii",
+      "title_pl": "Litwa chce sięgnąć po zyski Orlenu. Koncern rozważa zamknięcie rafinerii",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
@@ -274,7 +303,36 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTFWZzdMUk1COWFLSmVSazZIOThNYnl2ZkVCM3JMbVloM0thUjJseWNCa0RQZ19TWjVPcTlibjFIMi0wdGwxWVVaeVU5YUxZbWxXN1hBb01qSjdIWTJkNEFKT3pXTmVOT21RUGFKVUFOQWJaM3diRzBxRVNaUE1OSjBLY25MRU1HU0E3aVI1NzNyUjVmeWZIcGZYM2ZPUkNtWE5jZEF0MEg1dUNwS2gtUmYxdTRrSnMtZE5J?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmREeF8zaDJONDYxYUY5enBHd1Y3U1BUeUJFLUlvbFRRVTBUNjIwNkxwOWFCVDZZbzhBOG9XOEJVMEJXeEtVdjBkb0hfemIzUmJwWmxsRjZGSEhMOElFQzAySU9oNktJVnFWNU5TQTh2STZrMzBXaW4zOUtRRzZwenRkdExScG03NU05ZUJsUzBZc0hFa2ZlYnBCcTRHVGptZkFPV1hqRGtSNk52VFZwS0JZZE5IV01D?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d6d5b2cb4e2eea09fb",
+      "date": "2026-11-05",
+      "title": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
+      "title_pl": "Paliwa potanieją w piątek. Minister Energii publikuje nowe ceny maksymalne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W piątek litr benzyny 95 będzie kosztował nie więcej niż 6,20 zł, benzyny 98 – 6,93 zł, a diesla - 7,91 zł – wynika z opublikowanego w czwartek obwieszczenia Ministra Energii. To ceny niższe od tych, które obowiązują w czwartek.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Paliwa-potanieja-w-piatek-Minister-Energii-publikuje-nowe-ceny-maksymalne-9224182.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -288,8 +346,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d6704e43b23d22fde0",
@@ -319,6 +377,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d03d289fb94042d4ee",
+      "date": "2026-11-05",
+      "title": "UE: TSUE podtrzymał oddalenie skargi Nord Stream 2 na unijne przepisy o przesyle gazu",
+      "title_pl": "UE: TSUE podtrzymał oddalenie skargi Nord Stream 2 na unijne przepisy o przesyle gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGRoTUVIWkdZeV9UaDQ1U0J1cnNreWhfQ0w4ak4waDA0ZzhtSUpwcnVKOF8xeGZTdGVFdVAzdXFnTVVfYjViTnhrbzVTLVlMazlsNTlXOWNNNnVCTHprZ1ROYVBZYk81QmpWQkRsZ0ZlakFrZWVuUDRCSVd1U3kxa3JwTU4wc0UtclBja0NxWWx6T3FWRmNzOVFRaTlOWW1SMjlWRHh4elBzSWlaOHRVX3p3dWZoa1VGdUtYQmNCQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c93f37063778a53466",
@@ -495,6 +582,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-99cbc0acc40a1529a4",
+      "date": "2026-11-05",
+      "title": "DM BOŚ: Polenergia rozczarowuje wynikami. Rekomendacja brzmi \"sprzedaj\"",
+      "title_pl": "DM BOŚ: Polenergia rozczarowuje wynikami. Rekomendacja brzmi \"sprzedaj\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2s1d19FaGNCLXY2M1FSZng1Ukh0SF9oelN3S2laaWxQc2xRY1VSMndYMTBBeHFJaUg5cElnWkV0NlBpam91djhwQ016QTVZckFBcjhMbHo2OUxEUU5sWTdvdV9penhGNGNmTy14al9nQ0tKTXJEVDRIU2xieXFZeXdaTDg2eFVENzVxeXVPR05JV0xENVRtMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9749adfab0ac5a033b",
       "date": "2026-11-05",
       "title": "Litwa: MSZ: szkody polityczne mogą być większe od zysków z nałożenia podatku na Orlen Lietuva",
@@ -635,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8b9c65814c490cd734",
+      "date": "2026-11-05",
+      "title": "Poland’s largest gas storage facility has been expanded",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYzV0TmVNVEFVdzBka1FoUkRYYUdLVG5id3dpQlhMZ25fT1JHVlNkdWF5X2FSaU1yM25neGhlUnhFM2hwQlRsdmRfNU9mNy1OSWpicFNiTjg2SW0zRF8wOUd2QTc5X1NwQjR5b2RTNllCblBQYU0wSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -959,6 +1104,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-710caad2dae356d8c9",
+      "date": "2026-11-05",
+      "title": "Producent BESS zamknął rekordową pojemność w baterii na niewielkiej powierzchni",
+      "title_pl": "Producent BESS zamknął rekordową pojemność w baterii na niewielkiej powierzchni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSmJMZko4Mlg0enkyd2VjWkJWMk5kSGFqWXY5UkRmUC1idkhBSHVHR1dvWlh0dUtYQ1VocG8zU1lGYW05RlozblZkQ0FzTFh0SmVfVUxVS0FLRDcyLVBmdlhxM2loNi1pbWhRdFIyY3F4Qm1PU2NaNDlkb2otbFlzUlZ2ekpZaTNhcnRWbW96dXFITmd3LVc5VVdrbmtrdkRWdkVkS2dBS1ZBc1RRQi1Ea09jdk9MOFNCWFd3M1kxc1dhMFV6M1dVbllrRlFDZEtWaHVhWg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-68215b3752e5e5fb3c",
       "date": "2026-11-05",
       "title": "Sprawozdanie Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa o rządowym projekcie ustawy o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz niektórych innych ustaw.",
@@ -1212,6 +1386,35 @@
       "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-49b404031cfe96e1e1",
+      "date": "2026-11-05",
+      "title": "TSUE podtrzymał oddalenie skargi Nord Stream 2 na unijne przepisy gazowe",
+      "title_pl": "TSUE podtrzymał oddalenie skargi Nord Stream 2 na unijne przepisy gazowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRldEUzTE0xaFoxdzJDbHY0LTlKYW1yWDJZSTBSbHlSaUlENWtnMGdybDhPOG5XUjZEcWNYNTl1U3BqbWVXVnpYNkh4MlRwWkpXSlcyd3RPd2s2Ml9UdTd1TjV1MFV3QjZQT1pWeW5wUDE5bm1BU2RhSXlnTmpzNlo0M0tGT0ZwWWdtaVNTY1NUR3U5bmN6eGhVa0dYdUFGN0R2bU1SVktHVm5qbkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "20"
