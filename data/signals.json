@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T21:49:00+00:00",
+  "updated": "2026-11-05T22:50:23+00:00",
   "signals": [
     {
       "id": "src-fad22dd1b941d2ab63",
@@ -502,11 +502,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W piątek litr benzyny 95 będzie kosztował nie więcej niż 6,20 zł, benzyny 98 – 6,93 zł, a diesla - 7,91 zł – wynika z opublikowanego w czwartek obwieszczenia Ministra Energii. To ceny niższe od tych, które obowiązują w czwartek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Paliwa-potanieja-w-piatek-Minister-Energii-publikuje-nowe-ceny-maksymalne-9224182.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTFWZzdMUk1COWFLSmVSazZIOThNYnl2ZkVCM3JMbVloM0thUjJseWNCa0RQZ19TWjVPcTlibjFIMi0wdGwxWVVaeVU5YUxZbWxXN1hBb01qSjdIWTJkNEFKT3pXTmVOT21RUGFKVUFOQWJaM3diRzBxRVNaUE1OSjBLY25MRU1HU0E3aVI1NzNyUjVmeWZIcGZYM2ZPUkNtWE5jZEF0MEg1dUNwS2gtUmYxdTRrSnMtZE5J?oc=5",
           "type": "press"
         }
       ],
@@ -520,8 +520,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d6c828f0164cb7f2a5",
@@ -2496,6 +2496,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-483e94b903536168bb",
+      "date": "2026-11-05",
+      "title": "Orlen mocno zwiększył zysk netto, ale nie sprostał(...) - Forum",
+      "title_pl": "Orlen mocno zwiększył zysk netto, ale nie sprostał(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnhsUkc1c1VwSUtkdkNWX3YyZ2FFQmp6dUxXVVd5M1RDNWxsR2pYdS1DVnJndzJrYUxRWHNYUGhVNnptQ1NrUk1OblNBc2wtb1BqcmR5SjJNcXlXRHNFaWNRUHZ4bVBmX3FPcGNOYmJnczVScGZaNnFhVzduaDNEUEFFWHN3dGFOV0dOQVB6NE0tT1Y2Rl9KMUZvNURIWG5uTE0zUHhRb2l1cjFuRWNtSHg4emwzRzdvZ1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-46b4fff03f19ea32d2",
       "date": "2026-11-05",
       "title": "Prokuratura: prowadzone są czynności z zatrzymanymi w śledztwie w sprawie elektrowni w Ostrołęce",
@@ -3074,6 +3103,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-285f2120bf14644ff1",
+      "date": "2026-11-05",
+      "title": "POLENERGIA - Najnowsze wiadomości – strona 7",
+      "title_pl": "POLENERGIA - Najnowsze wiadomości – strona 7",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yZmw4N3ljUGE5bW9CNHJ4QWhNeklfcXVVTzVKS0dnbVVaeW5SVmx0RnB6WFlIWmJYTzBoWTFJdUZpV2RDUW5lNEdFTXNlU1A4S2xvN1VMa2xYZ2RYVVA3bkN3bE5Edw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-272278690e57b93570",
@@ -9253,7 +9311,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVFZV1VuMXp2RHprRnZ4dTVzaGNNeGlwTmxWN1NqX0s5NDJpandNdlpwZmZuc2xlUTQ0aFJ6RXpGMWpabEMwdkRDSlFrRkdTdGw2MlNHWldVNFdiaXFkMDNoREZvRzFoWkRQM2lSaHJBLUh0N3pJVVFaLUFUbTd5VmNMT3RPRGdDTGdRTTFnQTFIWEg1RVM1Z0NXcVJqTmliTWtnVjN0RUJ2cmZkRnBORnZhT1U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTk81OEVtVmdRUzZCTkUzTmRCZHZfUmpiUzBvcUZsTi1OQ3ZLUm5kYWpCTkpKYVF5ekVodng3N09PQVhwX1o2VlBBeExnTlZ4WURieVl5SGwyV0dGN0VXU3VjazlCQjNSc0F5d3FRQl9aaThZVUhEQnFHOHBjWG9TdVg4TGU5UENDTzgzTG5hcWtiVlJVY1Bpa3Z3ZWVLazV6WUdNVE40cFlXcTdVeTgxZHZrRVNIWFh1OFhfOUZvZ0VYUDhhb1E?oc=5",
           "type": "press"
         }
       ],
