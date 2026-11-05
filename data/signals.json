@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:32:10+00:00",
+  "updated": "2026-11-05T16:39:40+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -234,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e827940868a29c2128",
+      "date": "2026-11-05",
+      "title": "Grupa Orlen: po trzech kwartałach br. zysk netto wyniósł ponad 21,4 mld zł i był wyższy o ponad 13,6 mld zł niż rok temu. (PAP)",
+      "title_pl": "Grupa Orlen: po trzech kwartałach br. zysk netto wyniósł ponad 21,4 mld zł i był wyższy o ponad 13,6 mld zł niż rok temu. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZmlkM3JOOXk2V19WTE1YX3hLSzVNMHNtY2E5MkU5QjhPaXpwWTlnYWFpUEx1dTVPQVlfZ1pvLWRZR0Y4SUhpYnFJUXpzTi1GSGttbVYyUjdIV2tXdldpdUZJY3NnNU5kdHhmRF84WUE1UlI2S25xaDRjNHpwR0RqcEpPdlJJVUIyXzcwOXN1NXVTVklXTzUtcndTRFhYTUhYcEJYbWw3eTBJQ0xXQjdHRDlnUW81dDlRRFpkWFN1SXpXd1F2VUVKTzZicGU1SW05ZTVOWHZMOGl1TmxQXzRkOER6RlN1T2hPSTU3ZTBDMjBNQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e152d81a781cef76f8",
       "date": "2026-11-05",
       "title": "„50/26 – Przebudowa Pracowni Elektrofizjologii i Elektroterapii Serca Szpitala Wojewódzkiego w Bielsku-Białej”",
@@ -261,6 +290,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e0efd7d1aab4e1afb9",
+      "date": "2026-11-05",
+      "title": "Orlen zwiększył zysk netto o 158 proc. Konsensus pozostał poza zasięgiem",
+      "title_pl": "Orlen zwiększył zysk netto o 158 proc. Konsensus pozostał poza zasięgiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Grupa Orlen wypracowała w trzecim kwartale 2026 roku wynik EBITDA LIFO na poziomie 14,78 mld zł wobec 8,9 mld zł przed rokiem - poinformowała spółka w komunikacie. Analitycy oczekiwali EBITDA LIFO w wysokości 15,32 mld zł.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/EBITDA-LIFO-Orlen-w-III-kw-14-78-mld-zl-wynik-pod-wplywem-zmiennosci-cen-surowcow-i-geopolityki-9224444.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-db56e79d3cf331326a",
@@ -437,6 +495,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c95788aa231ebac406",
+      "date": "2026-11-05",
+      "title": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł",
+      "title_pl": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVduZjVHUzVfZUlrX19VTDNscWVFR2JGYTFxQ1hZYzRaNUlNUFpscmFib0FRZ3F2Y2l6eDBrcWFRcDV2bHFBTXA5cVR5NlU5YTBGUVRlaHNMX2FtNjJkdmUxVm9FdTRfNzN0SkV0cEZmOHpscFBwY2tJR2Y2M1JmdGN3QkZSZHdqY3RQWFZZX0RqY2tNdGstTGdQOHdjZDA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c93f37063778a53466",
       "date": "2026-11-05",
       "title": "WBS Power gets CVI debt to build 29 MWp of Polish solar-BESS parks",
@@ -473,11 +560,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Nowe taryfy na energię elektryczną będą znane w II połowie grudnia, sam proces zatwierdzania taryf jest procesem utajnionym - poinformowała PAP Biznes prezes Urzędu Regulacji Energetyki Renata Mroczek.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDZiMlNlUDdyeU9TTFdqcFJJRklXLUV6b1lnX0hNeU4yUzVRUFd5bk5zOThCUU9aczJLVnBRNzE2dVl6UGFfZGNKOTlsa1pVOC0zT0JRVFlmYzNNdVdtR2NrYnFpT1ZQRFRvV01aZE9sRUFXdG5WUnJEOFNiWWc3VHBGYVlUbUxYenBoZVRoSHVvZlhvdk4zc2stYU1nMEZlQmhRLQ?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-2027-rok-Wiadomo-kiedy-poznamy-nowe-taryfy-9224323.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -491,8 +578,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-c1955e6b9843e8d75e",
@@ -635,6 +722,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-adc12480a62fcacd22",
+      "date": "2026-11-05",
+      "title": "W Brukseli rozpoczyna pracę biuro stowarzyszenia Polish Energy Infrastructure House",
+      "title_pl": "W Brukseli rozpoczyna pracę biuro stowarzyszenia Polish Energy Infrastructure House",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelBQNkpoNDA3RzFGWFBNZmMtVk4tTGN3bTZJTEx5eDlHMlRlMks2S0FwSFN5cXRJN3Z4S2JBb1hwYU11dnNqbktuX21hTTU0eGxsR3ZCU1JkcmJ5M2wzaVFpMzV2c0JJNzF6RzlwTkNlVFdES2E4SkJtSmxFS2MtRnRDazBLc0U2TFMtSUR1dUZZUTRhWXRnaVhlX21kOEZXdkhQeXpmcGx3WkgyVFMwMHZibzNWczlyNktCNEhiaVpoQ0poNWlWQWhTd0t0NHdpako2bXhFT05UaXFyYXdjM2xMYzVaa01TZVdCTEp2V3BtM28?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1220,6 +1336,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-79673177b0f9dc7168",
+      "date": "2026-11-05",
+      "title": "Orlen mocno zwiększył zysk netto, ale nie sprostał rynkowym oczekiwaniom",
+      "title_pl": "Orlen mocno zwiększył zysk netto, ale nie sprostał rynkowym oczekiwaniom",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUdjV01MVzZJNVMyQTRHYmRUb0tvMXZRUXBnR0NaMVlDX25RcVFveDVIbDBDQVpvYl82dlRRcmJCTFFzdXdxN0ZzTG4xdHVtcUs0T25DaVc0N3BSYm5Ic0JGcGo4OWlUTFFxdFBKeDc0SnZKTUVsU3JqMFFYTUs1ZGJRaE9ZVmFpdkdvYm1KaWZmMnhjaERiVWhvWWF6Zw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-76a03eed0d3aa95565",
       "date": "2026-11-05",
       "title": "PSEW’s Piotr Czopek: “To deliver the Baltic targets, we need strong cooperation across the region”",
@@ -1302,6 +1447,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6c1ec2d7fa62325af9",
+      "date": "2026-11-05",
+      "title": "Cyberbezpieczeństwo w energetyce. Podpisano list intencyjny w sprawie liczników",
+      "title_pl": "Cyberbezpieczeństwo w energetyce. Podpisano list intencyjny w sprawie liczników",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3pvcldNM1F3WTJLZko3N2I2QkU4TTd6bjZWTmZjUW1FVzNiblBIQTFLTVpyTVZ0VlROclN6RjJoME03c0x2Z0hVcVVDVmJ6UHBEQmVQNnI1aGtCUlpUWHRDMVhvY1NMY2ZYTGFzS2kweFNJNnlNNVhXdFNFUWVOamxqM01NcUNDdER3czFOcEh3cm1KWlRXQld1MmViNlVDQ2QyX1o4UzgzMG1vWXlFcEU1OGNwcXBUa2h4NS1VbnUwUmxHOEJlTC1nRl8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-689741a5d36b264231",
+      "date": "2026-11-05",
+      "title": "ORLEN’s new North Sea gas reserves are double the initial estimates",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxRmZMQlR0Y0hBczhfVHZvbUdyU2twWTZrSzhFQkhnTFFCQzZBckZ2bjFmMVZMUXFvOTl4RDlWd29fOVVDLU94ZG53aHlSdTVDR2lUTEJadmtxNjR3dHM1Q091cWUyLVB3TF9fTEl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1626,6 +1829,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4638748d6ccbb4a35b",
+      "date": "2026-11-05",
+      "title": "OPRACOWANIE DOKUMENTACJI PROJEKTOWYCH W ZAKRESIE POPRAWY EFEKTYWNOŚCI ENERGETYCZNEJ BUDYNKÓW UŻYTECZNOŚCI PUBLICZNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ NA TERENIE WOJEWÓDZTWA WARMIŃSKO-MAZURSKIEGO",
+      "title_pl": "OPRACOWANIE DOKUMENTACJI PROJEKTOWYCH W ZAKRESIE POPRAWY EFEKTYWNOŚCI ENERGETYCZNEJ BUDYNKÓW UŻYTECZNOŚCI PUBLICZNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ NA TERENIE WOJEWÓDZTWA WARMIŃSKO-MAZURSKIEGO",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Komenda Wojewódzka Państwowej Straży Pożarnej w Olsztynie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b5a-f74c-f3cd-c1c5-d5000193ce6b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-4571c57dc800c9f3a5",
       "date": "2026-11-05",
       "title": "Dostawa energii cieplnej do budynku administrowanego przez Zakład Gospodarki Mieszkaniowej w Toruniu przy ul. Broniewskiego 41.",
@@ -1682,6 +1914,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-3eace5b1843c95c7da",
+      "date": "2026-11-05",
+      "title": "Personel Techniczny w projekcie B+R związanym z rozwojem pompo ciepła",
+      "title_pl": "Personel Techniczny w projekcie B+R związanym z rozwojem pompo ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm5jOGxINlo5Y3B5R1hRTzlOdnlMS0JtZkk0dERMd1VVTW1LNWxUaU5WMzRFZDA3ZUtuVktyWE4xV2hFeHpMb3JSOHVmVFFveTFscTVTdEl0eUppTTFrM1ZwdnZmaXVnSzZNSU9PaG41RllJZ1JoRkRvd1dKX0JGSTZlN2VLQ25OY09uS3JQb1lFcVRDVGpWdjAyQlJKSFJ1NmxzN2FDRlhTbUVSZ3Nkd1ZFZmstRUxyNHV4TVJBeDhQWnM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3dc061b6a0fd0922d1",
@@ -1800,6 +2061,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-3220c3c27e7d808db4",
+      "date": "2026-11-05",
+      "title": "Skonsolidowane wyniki finansowe Grupy ORLEN III kwartał 2026",
+      "title_pl": "Skonsolidowane wyniki finansowe Grupy ORLEN III kwartał 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObi1MY1BLM2VBMG1fTllHWVhGLVhuZjhrbGxidnhQXzIyajZkQ2o4T3c3VHN1MW9CQ3ZtbEtxcHdQN0N2Z001VGhrR21UbUt2VTZKbjFWMVVSZHRadWhkM3JGVjJmX0dxM25GZDZtUXpSVXg4LTdidThYSEc2RW8zbFBBbnlUWGJjSlNHbGplX1NWWmR5VkJOQVV2WmZaRVdWVDFFcldBYnYwM2JuZE5YY0ZBWVVURndOVmhISmFVQ1BkQ2JheXlycHNYUklkV2JOSnFNeA?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-30e4c0682d7d7c59ce",
       "date": "2026-11-05",
       "title": "️✏️JSW: PRODUKCJA WĘGLA I KOKSU W III KWARTALE(...) - Forum",
@@ -1824,6 +2114,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-30e007052c52983ac5",
+      "date": "2026-11-05",
+      "title": "Sejm za poprawkami Senatu do ustawy o wsparciu przedsiębiorstw energochłonnych",
+      "title_pl": "Sejm za poprawkami Senatu do ustawy o wsparciu przedsiębiorstw energochłonnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkRSNElGZzlUdV85SW1hQkY1ZXB4cVM0NC1KNmh6eTJmU0RxZW4zSW5LYnF0NGR5V2N5bTQwSWVwWkwyS0NtWUFNSmhaRldsS0xGNUhpUmhnMVQ0SWlwQWhHTmlzUzZDYTR1MzkyWWE4OUJ1T1Y5YVJiczRGQ3doWXRyUXBZczUzRTRrZUFhVkxlMlF4MTZPaTBVbE1MWWQyWXhPd2x3R3JQNkFOMlBaODhaa1YwclE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2d98c4131b03296b15",
+      "date": "2026-11-05",
+      "title": "No clear-cut spillover of energy prices to other prices seen in Poland yet - c. bank governor",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUlKR2l4R1lHeThiVm4xaDE4VENhNzJDN0tTck9maXBmMEJRaVI4dUhvdnFlQWN4cjRHTEw5dndHcldmZDNvcU5yU2Y3a2FRTHh5dEVNSHJtenR1T3RXT0RpNEhMbzBGUzRNRkNUR2R6Q3Q1NDFnUTM0aXRBSUl1cVBhanpzczVMX3A3ZlNEcnFLeTJfcjRmVUlQWmNzMlRlaE1IaFNNRUM3S2pMM0t0dXlZY0F0ZEU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2288,6 +2636,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07a24ba4379d11c9c0",
+      "date": "2026-11-05",
+      "title": "Wyniki Orlenu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "title_pl": "Wyniki Orlenu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkZUN3hpbHpyUVpoUmM1V093bUNnZWJpQzhvTzNIdk1ZbnFsOGpkYmtrYi12YjhoY1hxTkM2Nm45RGVIbkpGWVM3MnVqWlk0eWRKako2TUNfa3NuSFg4a3BiamhWbWFqcVJqZTdQUGhPWFp5QzE4MS1tQUx6NDJfZFpFMTZyNjloUEZrQV9DcFdCZVJFLU9IMF85clphQk1qNjZxdg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
