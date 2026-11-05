@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T07:18:20+00:00",
+  "updated": "2026-11-05T08:38:40+00:00",
   "signals": [
     {
       "id": "src-f402996f3664949e10",
@@ -89,6 +89,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-e996e2609708fae9cf",
+      "date": "2026-11-05",
+      "title": "Obowiązkowy audyt energetyczny po nowemu. Co przewiduje nowy projekt ustawy?",
+      "title_pl": "Obowiązkowy audyt energetyczny po nowemu. Co przewiduje nowy projekt ustawy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUtJTmg4d3drWVE2X0hQTkxJbjlUZWJxUm9lU1Y1WTRkMWdKYXVxMzJreFF3Y29rdkZsZkExZXpjaUt6d3Z4MnZvTUFjZkJneGZ6WFAtblc5V01pcmNTaGNPejdqcERHS2lnLXlNX18ydjFtR0ZORFRVTzNHVHhNbjZOYnBuWkY3LURJcFFLdW1wOFRvNEFwQjlFWGhPdm5LelN4bmlpVm9YdzhtSWZITVRORHU4RUtRNzUzaUg1ZlZiOHVua1ZUOWo5RQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d8f77aa83aadc3f7e4",
       "date": "2026-11-05",
       "title": "Orlen powiększył kluczowy magazyn gazu. Ale to wciąż za mało dla bezpieczeństwa systemu",
@@ -106,6 +135,35 @@
       ],
       "cos": [
         "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d6704e43b23d22fde0",
+      "date": "2026-11-05",
+      "title": "GEN-I wprowadza na polski rynek rozwiązania BESS i PPA",
+      "title_pl": "GEN-I wprowadza na polski rynek rozwiązania BESS i PPA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Nie ma dwóch identycznych projektów OZE ani magazynów energii. Każdy projekt charakteryzuje się odmienną strukturą finansowania, profilem produkcji, parametrami technicznymi, warunkami przyłączenia do sieci oraz oczekiwaniami inwestorów dotyczącymi przychodów i ryzyka. Dlatego kluczowe znaczenie ma nie tylko dostęp do rynku energii, ale przede wszystkim wybór…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122614-gen-i-wprowadza-na-polski-rynek-bess-i-ppa/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
       ],
       "publisher": "WysokieNapięcie.pl",
       "publisherUrl": "https://wysokienapiecie.pl",
@@ -147,6 +205,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ae2406244055f93b3d",
+      "date": "2026-11-05",
+      "title": "USŁUGI ELEKTRYCZNE MARCIN TROCIEWICZ, NIP 4960259650. monitorfirm.pb.pl",
+      "title_pl": "USŁUGI ELEKTRYCZNE MARCIN TROCIEWICZ, NIP 4960259650. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yejB0c2Z6cnBFVFlTLXJsTjlPZ192S0tlNWg4SXE2REtaNjRtaVQ1UTloSFpoNzJWTUFoOUF1VnA0TlN4VjgyWDh3bDJoOFBwQ0RRT0FMYkcyQV9mNUItanlxV21VTHBJTjlCOWJQZ3pWYS1VeHZvbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ae194cec034de2e610",
+      "date": "2026-11-05",
+      "title": "Zapasy węgla najmniejsze od 5 lat. Surowca wystarczy im tylko na 6 dni",
+      "title_pl": "Zapasy węgla najmniejsze od 5 lat. Surowca wystarczy im tylko na 6 dni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSzd0YUhESUswc3FjakR2UHltU3JuTlhwTXNPUEN5Sm1DVWFBQUxIVE1MdUVubVV3aUNNYWRZMEF2XzdETzdZRS1idXlxdmNnekt3V2NIWW5TLUh6a2MyRU1lSm9LcmNvUTdsSTRlNy1yUlZEU1VVcFBXbkFtTnZrbEM0TjdPRmdaYTBIRDd0R0RlTG50NkNPZTRmV2xob2VFcEhYbHFkYXdhYTRPOXMzOHFVaWJaWEd2RXRpT21pWE9kaEY1TWF4SGsxQ3JQV1pxRDVwbHBRQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-949c18d0ffef385e53",
+      "date": "2026-11-05",
+      "title": "Od przerobionych węglówek po elektrownie na wodór. Niemcy rozstrzygnęły pierwszą aukcję mocy",
+      "title_pl": "Od przerobionych węglówek po elektrownie na wodór. Niemcy rozstrzygnęły pierwszą aukcję mocy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX0tybTZGNVZmbWo4UGZZLTJxMER3S0hVYlZuenJQYUdFNktfb253WkszVkZWX1NFWlQ3NlJTb1FzZEtBenBGSktPNnZWeGtQaGhZdVV0a1BrSGZLdVdYdkstaUdKOGE1cHc3Smo1MzJWdGtLQUdBX3Z6X1RMaWNfaFpiTzZjUmdzT3FhbnhrRW9ZcTVESEg5X20wWl94QVRPaEFKUzF6VS0xRW53S3Q4THBkLVNkMWJwQ05XY2JybU5lelZHVm5TXzBDNXFzM1lD?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-91e6abb51c820c1142",
       "date": "2026-11-05",
       "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
@@ -176,6 +321,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8ae53ffdc1d33f85a5",
+      "date": "2026-11-05",
+      "title": "Bezpieczeństwo i kompetencje. Podziemny Magazyn Gazu w Wierzchowicach rozbudowany",
+      "title_pl": "Bezpieczeństwo i kompetencje. Podziemny Magazyn Gazu w Wierzchowicach rozbudowany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFpIYmxmcU93Z2R6VjdtYXM5MjZJWkg2ZkFab21sWmtPMnhWa0FQanlqbUtVREVRN3ExaHNITENUOGNCUkhaRWUwV3JtSTJ4RWtnbzNYaV9uQ2UzN3BFN2pFcE15VHdiSVBJZVBHOG1EX0V1MlJlTTVXVlFXeUR5UG51anM3c0FWaXFWWnJlUDN0Y1dHeG1NajBVRFU1V2ZsbjVrTHVlbHhGUDJFU0ZoeVAtNUd1VFFJM3I3YnE2SDlwSkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8aba879d6f3467609c",
+      "date": "2026-11-05",
+      "title": "✅ INDIE POTRZEBUJĄ OGROMNYCH ILOŚĆ WĘGLA KOKSOWEGO ✅",
+      "title_pl": "✅ INDIE POTRZEBUJĄ OGROMNYCH ILOŚĆ WĘGLA KOKSOWEGO ✅",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTNaY0FPWXduN2NKa25rLWc3T1RyM3B3YmFrdFNxWEYyQWhSQU1POHRjMldTQTNGSVg4cjZhNkdtT3p1bDhWRUo1OFN2Q0tMay1xS2hEVVg0Q3U0NXBrRUZZbFR2dDZFNU9wQ2gzME5Mald1Vl8zbUNRd254YTI3cENoMkdCNXNrTkotMXR2OUxqaGpkX3V4Tk1KSXdLdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8a28c60f84a6cc55aa",
       "date": "2026-11-05",
       "title": "Cyberataki zagrożeniem dla elektromobilności. Nie chodzi tylko o samochody",
@@ -200,6 +403,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-85254ac5b4c650a02e",
+      "date": "2026-11-05",
+      "title": "️JSW PRODUKCJA WĘGLA I KOKSU W 3 KWARTALE BR.(...) - Forum",
+      "title_pl": "️JSW PRODUKCJA WĘGLA I KOKSU W 3 KWARTALE BR.(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUNCNEk1SE0wb3djTnZUd05zNzRVYzg5bnlWSVBvZ2thX1h3NkNmUHlkQWx3NVM5c21NNWNrSFlKR1VFM05ZdXExWklSeXg2RmFRemZEZVBLYTRJejVTVmJwMHVXRUZwdjU2UjNkaEM2dEs5MXB2V1JyVzU0cUQ0amxlUldHdndLdUc0aTR1VHRFa2VCNWV2cGlJZ1BaSTVmZTMtZ1lHTS1Gb09Qay1Fek0tTjF1T2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-84a7aa54f9dc411788",
+      "date": "2026-11-05",
+      "title": "Energa-Operator rozszerza dostęp do usługi Interwencyjnej Dostawy Mocy Czynnej",
+      "title_pl": "Energa-Operator rozszerza dostęp do usługi Interwencyjnej Dostawy Mocy Czynnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2dGSDRFbGFfZ2xqRk8zemEwNFViOXlnRkZraEhZTjAzWFh0TVZCa1MzeGpRR3E2RF9NZkE5SVNVV1BHbEQwd2NhQ09WUDYyMVJhcEl1blRWWmpMOS04NGN6QnRuTjQtY0RVZVRUTW51ME5selJGOUo5M21hTzdiMnZrc0tQOG40eldPa2NnazZhdVlENUZVNG9ReEp1VnJJMW9NNFI0c3M1TzkxMFNKVEp0bFJqWWFfZ3FZb3RsUlJJbGtsLXV4SnRMOWhCN1FL?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -263,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5bf70279583c32942e",
+      "date": "2026-11-05",
+      "title": "Porsche Cayenne S Electric – Diabeł wraca do Zuffenhausen",
+      "title_pl": "Porsche Cayenne S Electric – Diabeł wraca do Zuffenhausen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Porsche po raz kolejny postanowiło złamać zasady. I po raz kolejny wywołało tym niemałe zamieszanie. Bo jeśli kilkanaście lat temu widok SUV-a z herbem Stuttgartu na masce doprowadzał motoryzacyjnych purystów do rozpaczy, to co mają powiedzieć dzisiaj, kiedy ten sam SUV pozbawiono silnika spalinowego? Tymczasem…",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/porsche-cayenne-s-electric-diabel-wraca-do-zuffenhausen/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-5aa86d49d1fbdf9651",
       "date": "2026-11-05",
       "title": "Woda morska w produkcji wodoru? Niemcy sprawdzili, czy to możliwe",
@@ -287,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-58552dedd8d75b9daf",
+      "date": "2026-11-05",
+      "title": "✅ CHINY POTRZEBUJĄ WĘGLA KOKSOWEGO ✅",
+      "title_pl": "✅ CHINY POTRZEBUJĄ WĘGLA KOKSOWEGO ✅",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlzem0yU1F2OUxVeVJVMHhXNUdESWs1ZzlFbnJoYVEzTEh2VGpHV3lEQ1AyWUxzX1VGamJZdS1QRDgxV2hTSG8zZmZFQldqWGFkc0d3VU5CUW0zaHg0NldOY0dkVXRIUXFCMkFOazNiSGxlZllObUwyU2JQdnljc01taG1GNGR5?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -415,11 +734,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Europosłanka KO Kamila Gasiuk-Pihowicz proponuje rozszerzenie zakresu unijnego funduszu CEF o możliwość finansowania ochrony infrastruktury krytycznej, w tym sieci energetycznych, elektrowni i kabli podmorskich. Jak argumentuje, w obliczu rosnącego zagrożenia sabotażem Europa musi nie tylko rozwijać infrastrukturę, ale również zadbać o jej bezpieczeństwo.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1BqMThaN3JnV2pCN21nM0piYWRBZ0pMLWhxU1RNUjg2UFF5d05CRE9PMlV5c1NDUzY1Q09iOUtpN2FDZGRzaE50SGtQWXFER2RmTEgyQlJPT2xpZjRHb1VPdjlQUWFMaS1XZnF6YXNBU2pDMzhRaFdyVUt0SXRRZUN3VFpic1I2bEk5XzRWTjBxUi1vTlNSdjNZdUQ1WHJqNzM2aDNWOHBaZzNsVEhRc1M1ZEtOWGphWDIw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Europa-chce-chronic-elektrownie-i-kable-podmorskie-Jest-propozycja-Polski-9223894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -433,8 +752,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-19d32268b5beecec67",
@@ -490,6 +809,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-08cc3047917ea53654",
+      "date": "2026-11-05",
+      "title": "NOWA WYŻSZA CENA WĘGLA ENERGETYCZNEGO DLA ENEI",
+      "title_pl": "NOWA WYŻSZA CENA WĘGLA ENERGETYCZNEGO DLA ENEI",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0NIbmIyUzdzeENMYVFHMzYxMjRNRTQtSVJ1M0VVUkkxeEtVZFBibGt0RDJJQUNEVUFueDRQQ0Vkby00dDN0dnFQVUZza04wTi1pQTVyOUVlR2FFbTdoVk9WRFdVZGFWWURSWjlVYXdRZ2ZCZzg5MEhaTDMzSGFhNTBxekxrNHBtaE9oZ2dJRjlYbGQzeTg1WUZUbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3961,11 +4309,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Elektrownia atomowa w rumuńskiej Cernavodzie ponownie przyłączy w piątek do krajowej sieci elektroenergetycznej jeden ze swoich dwóch reaktorów, które zostały wyłączone latem z powodu rekordowo niskiego poziomu wody w Dunaju - poinformowała w środę firma Nuclearelectrica, właściciel siłowni.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Koniec-przestoju-przez-Dunaj-Elektrownia-jadrowa-w-Rumunii-wznawia-prace-9223846.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGU5YmN5dDBiV21pcGxaNEg3dFBoNzd4dFBrR3JtRzdmaFhjc3pyRmVEXzFyRnkyN3hkUDZQOXZXeXkzaHlQeFhaTHA1UURHYmREczFpSTI1Zk90cWxNTF9FaVpRMnZhRlJpcGlpSUNHb3J4OXRjb1hYWk9OM1hRR1NuSjNfRnd6Q1ZlaDk3elBLeFdJUGZYTld4STE5dVRpNjdyc0tDMHE3LTZEajJwaDVhOURNWFhwUXc?oc=5",
           "type": "press"
         }
       ],
@@ -3979,8 +4327,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1c29b7238a7aaae323",
@@ -4987,7 +5335,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdFNuSmdaMHpQamtjdnZkenhLUmlWV3NXc1NMSjFwZDlZNERJbFFqeHRFbGY1N3psNmttUi03RUlVYVN2aldCZVE0anFCc1F2cnhpdDFXM2NsbzdrNzA5T3lWdW1RckhhQkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdl9TMWpHakNNYzdLTVdDNVNDMGtpRWJYcjdlakR2OFJ1bTJ3T1hQUVJ6UUY2TGZnWEFnMl9DUDV6a3ZxQjFoWXpOZ1J4Y19KZVRxRWlRNDR2TTFVTGlPZzdET1djQ3Nxb3c?oc=5",
           "type": "official"
         }
       ],
