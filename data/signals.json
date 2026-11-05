@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T04:59:30+00:00",
+  "updated": "2026-11-05T06:01:33+00:00",
   "signals": [
     {
       "id": "src-ea69b8482a9c6fa1cd",
@@ -31,6 +31,151 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-c93f37063778a53466",
+      "date": "2026-11-05",
+      "title": "WBS Power gets CVI debt to build 29 MWp of Polish solar-BESS parks",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUdGRTVzREU5RkZjMFlSZWEwVHhBdHBoQnNTckx3Vk5McnotN0ZmVXktaEtuVk10UWtDYllvcDAta2VaTkZOZHV3ZEs2eXlXalhTa3cxRlVJZW1qSi1QQWthem9GbnZSYVc0dUxRdFVCbjUyc19HVG4xbFZXbDg1T2FGSHJnTzRLSW90WU0xUC1kZ21UOENjaF9UMW9fNFZMaWlIV1dBcVByUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-91e6abb51c820c1142",
+      "date": "2026-11-05",
+      "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
+      "title_pl": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRllGYzJjMUZNMG1ZNld5N0ktNDBfTHhMRS1qX2wzQS1IR3Y4V1FZYzAyUTVhTG5HandRSnkxZldTdGZ0bFZnUHBxSElLaU1Lb1p5VFM0bFBGQ2t1M0k3dk5jeTFZbWRkc3l2ajFvS0JXTnBHS0otOFRDT2JLdjNBTmlSWlBBaGZjc05INUN6N2N3OFNUalhhSjNyQ1FVSDdHVkh5Rm94RzhTb1RhRlQ3YnhtNFlTWUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8a28c60f84a6cc55aa",
+      "date": "2026-11-05",
+      "title": "Cyberataki zagrożeniem dla elektromobilności. Nie chodzi tylko o samochody",
+      "title_pl": "Cyberataki zagrożeniem dla elektromobilności. Nie chodzi tylko o samochody",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEJpd1dYSlVpWGFoOXVDWFFGdzd2SWxETmNZZFlKRnRsdXprUEFZYWxiRXdEM3BWdGx1cE81c3ppVU0ySDdwMTd3M3dhVTk4eGpvdWlyU2FnQ3cxOVhHWEtZU0E1SDFvaDFmYUExZktjQXJzQjU4WXJJTUp3MUNna3hWdFk1aWREdndJX3BwWHV6MXlOZU5nTGVrZjJ6M016QThiTXQwa2tvWmxka2h6SWhaMmRIRFcweFNiU2pFb2RoajN3RlE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7ea5a25a4ce590a4fd",
+      "date": "2026-11-05",
+      "title": "Dostawa zestawów ogrodzenia elektrycznego do zabezpieczenia przed szkodami powodowanymi przez wilki na terenie województwa warmińsko-mazurskiego",
+      "title_pl": "Dostawa zestawów ogrodzenia elektrycznego do zabezpieczenia przed szkodami powodowanymi przez wilki na terenie województwa warmińsko-mazurskiego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "REGIONALNA DYREKCJA OCHRONY ŚRODOWISKA W OLSZTYNIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3b00-4206-cd50-c1c5-d5000193c0d7",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-65fa136b0904d97e67",
+      "date": "2026-11-05",
+      "title": "Re: Nowe ceny węgla",
+      "title_pl": "Re: Nowe ceny węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1NEtaYWFlZW5Va0VKbXAzWmktYWZFTTdzdmQ2WnMzd3pXbFNvdlBPRjZjQUozM1JENzJiVm1WUlp3OFlMVEp1YW5ZUWNzY0FVd2dlQmVzdjNadWNHMndPbXk5NjF1WElISTZ3bFVvb3VFVmF4Wmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4b38ea60ddec197d6d",
       "date": "2026-11-05",
       "title": "Dodaj do mojego kalendarza (.ics) - PSE",
@@ -55,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3b021ef8fd96e109a5",
+      "date": "2026-11-05",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFVlQjdfZVFaTnVBbzdEMEVkaEp4M0RsWTh1aGwzclEza1hHa0dnb2RMSmxfX1FILVo1Nk1fOVR3YWhrSTBRZVM4LVhFRWQ2ZEdmWi1zb3AwMFM0ZEhTaU5VOE9aa2M1d1M5Qmt6aHJmdkF5NzFWSDhYTURjQ2tCUi1zTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
