@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:55:22+00:00",
+  "updated": "2026-11-05T19:54:57+00:00",
   "signals": [
     {
       "id": "src-fad22dd1b941d2ab63",
@@ -58,6 +58,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f368cfc3eead955acb",
+      "date": "2026-11-05",
+      "title": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł (opis)",
+      "title_pl": "Polenergia szacuje wynik EBITDA po trzech kw. na 332,5 mln zł (opis)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1BaMDNITDJkQTBHLWgxdjRtYXdVSk83T1dFellKLXNRSC1CZlFDU3lDLWNwWWNXQkwwWS1wUTVyLTZYZE0tSTMzU1JtU1JPVWpzeEU0bUtsU0xqMi1WNjZBZXdpRF9heTRnclU5Zm92UDNlcGVtckoyZVZjSFp1ZFlFUVBldXlOQXhkbnhmMmVBYmo4RE80bjZhNXZlZFZ2UjhGcGl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f2fd140949c590dcae",
@@ -1249,6 +1278,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8b62be97051b9d106e",
+      "date": "2026-11-05",
+      "title": "Sprzedaż gazu w grupie Orlen w czwartym kwartale może wzrosnąć - prezes",
+      "title_pl": "Sprzedaż gazu w grupie Orlen w czwartym kwartale może wzrosnąć - prezes",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWd4RHJPYlRRVDdMOU5lT2s1ZWoybVRuMGRrOTJsX2xYMlozRXhES0pLaGlmNFdfVi1mMUIzcndYSzNWVnBveTRFTUg2X3V5cU45TXozT3d3SlBxTG15VjE1NC1tSGgycWE1dFZ3eXpCZnBUSkl0ckxwcXpIajlIODFVUUN4bzhYU0luZ0RRR2lHQlZoNGtmZmhyUjJGVHp6WkZFRVBEM0QzSUg1?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8ae53ffdc1d33f85a5",
       "date": "2026-11-05",
       "title": "Bezpieczeństwo i kompetencje. Podziemny Magazyn Gazu w Wierzchowicach rozbudowany",
@@ -1916,6 +1974,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-628819b25f05b2d121",
+      "date": "2026-11-05",
+      "title": "Esesmani muszą ograniczyć wydajność elektrowni jądrowych",
+      "title_pl": "Esesmani muszą ograniczyć wydajność elektrowni jądrowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWZ2UEJ4WXNQdkpWemNBWDExVGpoNk1CTmRKQnVIYVMxYVdxSUZ5MmY5bmJYamFZUndmbWROUWhHMnlOWUdhQWdSb3N4enh1V0VKLS1PdTgweDg4ZXNhZ3VYNGhCRUlENENjazVCaW1pajBwUHhNcDFvRXlXaVh5dEhRTC1SYnVJNURhdldzVlhuTG1nNHRDNjhBdzlPdXhjUUwwYnIxSlk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5c0983a4c7ffabad4f",
       "date": "2026-11-05",
       "title": "Prezes URE: nowe taryfy na prąd będą znane w II połowie grudnia",
@@ -2525,6 +2612,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-358409f9b095a67b96",
+      "date": "2026-11-05",
+      "title": "ORLEN Group Consolidated Financial Results for Q3 2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFlNV2dsTVJaRjBMdmc5dzRTSWNjSFg5WUdrNkhRTGhQY0gtRFZFMG9xTktlLWZmLUh6bVZ0eDhDRHV1ZTBWZDNTVUxpOG50cVJOQVhBOVRjdkF2eGh6bGpXUTRiNnFMeVpZQ3Vnb3RkWDlFWlg0Tk82WVdDYXQwTlA2a0FEOFVtZXVydkJGeVMwY1J1b2VsMlJfblhLb2tDeG05Q2lWMExkSGE4anVQS0tHRzRNYVJFN0tERlpmbXFrYWNBVEUyOVVJZ1UtTThYaWFrSm5kVlp4VXBMcHc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-331cd9c262313cf735",
       "date": "2026-11-05",
       "title": "Poprawa efektywności energetycznej Domu Ludowego w miejscowości Jedlicze - Męcinka",
@@ -3042,6 +3158,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0f08df82c76915a581",
+      "date": "2026-11-05",
+      "title": "Czy w Szczecinku powstanie elektrociepłownia kogeneracyjna?",
+      "title_pl": "Czy w Szczecinku powstanie elektrociepłownia kogeneracyjna?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcU5BVTNERHJPXzFKb2doRDBEOEtBYWxoQXM2cGpSXzlpeDQwUF9aM1hLa2ZNR09xYVNhRjdGXzdHT0ZXWVg2SHQ5aWVXRS1zRDZxbFJXUkd1RWtlckpiN2huaENPeUQydlRmUndjZldselFKWk5KZGhLd2FGYmIxODB3YklnTk5oN3hsSnozM3ZpVUFpZzVjVVpVMkI4TllSWGxTMVAwZlV1YThRZmdUNXBiLWp0QUcxNWlSWjR5Q3FGWElqaHdjUnduLVZHdXhk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.energetyka-wiatrowa.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0debe98eb0319a32a1",
+      "date": "2026-11-05",
+      "title": "RPP może uniknąć podwyżek stóp. Kluczowe będą ceny energii i paliw",
+      "title_pl": "RPP może uniknąć podwyżek stóp. Kluczowe będą ceny energii i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjdsWVUxQmItQ1BXQ3RxRGs3SzVDUFJqMzhsSWVIcnRVZ0lyUllfZnh3eXVjTWc1Y3dCcTQtaXBCdTYtRElRSnVRNmF1dWpUelNQb25UQUI3LTBLdUY2eWRWdUMzQ05xR0VxM0RZa0dYZGE2eG90SXdwNDVtWGdMUlg1dGVZVGo0SGg2ZmdyYTJ1LXJaWXRQT2tyanBJWEVWNnU3eEU2VFZJQVVJMGhRdA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -7042,7 +7216,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JjRXhnMndqQ1FXQU9NdHpGSkFsZEw0OXVNSmY5Rk5GZld4Sm5iWE5fZ2poODA3ZUVYTngzZ2NTZDRuRG91YmJyei0wU05Cck9kb3Fhb3p3TkwzVWdhX3NpMVdmc3VLOXJBUDVPYnRDTkNxSlZQUlFCY3p4czBscU5iNnQ4VXhVSUVUTmt0enpMYkE0YXlPYnA5aVdtc1ZINVVqd1V6cE5FY2xITXhV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
           "type": "press"
         }
       ],
@@ -9458,6 +9632,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlhCVl9xMXlUTGl6YU1HeEItWDI2N0ZZVHBpWTF3QkZYdmRiUEVXdlBLMW90enlSbVcxTTBpN015dk5peHJSUGFFbzB0NlVXS2FTSzI5emNyLVQxLURqMlZZX3VwSXdyb1FHcTZOTlp0QW1pMzd4LVphWWpSeVVweWNUbm9VZUZ0LWh0T3QwajBibjd1U2s5dm5mM3VrRWhLWVFkc0VxeWJteFRUeUNDLTBJQlVrNS0wRTUzTUticngtOTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-269b0d88b5e436b9fb",
+      "date": "2026-11-03",
+      "title": "Strona 2595 z 2595 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2595 z 2595 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44aHp2QkdlLWkxd3RKUkhQRVhucUJ6UlR4ZTFSQmtPdUR5d3JneGlQejh2dW96ak4tN3RJVmZZRHBZWVBCX3Q1RjZMTWRNTFA5VmRkRThlMVBWRXFhV3pJSw?oc=5",
           "type": "press"
         }
       ],
