@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:27:10+00:00",
+  "updated": "2026-11-06T17:26:26+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -350,6 +350,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-e62f133717c7641a12",
+      "date": "2026-11-06",
+      "title": "Rząd chce zamrozić ceny gazu na 2027 rok",
+      "title_pl": "Rząd chce zamrozić ceny gazu na 2027 rok",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0tMY095cHplY3lVLW5tUlNNRnBhUEpUUnhWNWo4ZEVmanhjelhxc0ZGVnRXd3JuRnY0ZkFwRFU1MHVPcnZPTnRvYVhFRlZ2NWJNY2x0WTduMnJVUE44aTYwSDhLcl9xLVk0Z2J4SDNkX3JnbWRTTk1hVk9tY0QyRkJacUQ4WWlnOTNJLXhkaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e610b023085b58f23e",
       "date": "2026-11-06",
       "title": "Energa miała 566 mln zł zysku netto, 1208 mln zł zysku EBITDA w III kw. 2026 r.",
@@ -640,6 +669,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cc2668109bc1ea6b33",
+      "date": "2026-11-06",
+      "title": "Re: Energetyka nikt nie tyka",
+      "title_pl": "Re: Energetyka nikt nie tyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkdpSnFvNXZZbjNGTV9RYXE2Y3lGWjVxUXFjQVUyOExCbGFUYUd5YnBjMXdHRkhMMDRia0htcE9XN295NEQ5RnU2cm0xLXZPYmFXcURXX041R1hEcVd2c2dIT1JsWTdzWFpJUVFrZnVBRTA0bVhRbDIyQXp0MEpsTFBR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c82b56b289b61467bf",
       "date": "2026-11-06",
       "title": "NCBR zaprasza firmy do konsultacji dotyczących Mapy Drogowej Transformacji Energetycznej",
@@ -763,11 +821,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,12 zł, benzyny 98 – 6,80 zł, a oleju napędowego - 7,83 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż w piątek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Paliwa-tanieja-od-soboty-Ministerstwo-Energii-podalo-nowy-cennik-9224877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkViZ2pxU0NMdzVzbHgxRm1xaW16VVZUWlo2ZXlGdjBWaHNRWUNUdVRZbzhpNlZ0cC0wZ3B3THlHNThxMHBPd0NWVGwtRHE4VGtSbUxQb2RnUnJOOXJpZDk2ckplRzJUV2UzVGhDOGNsZW1HV0pvcjl2Vk11cW9EekRTQU1nN0FXWkZlTmpsbnZNTDliNndjNWxjUnRiNTA5SDVsNHpacVlpUmVuOG1B?oc=5",
           "type": "press"
         }
       ],
@@ -781,8 +839,37 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bdbeb1a4881506ae4e",
+      "date": "2026-11-06",
+      "title": "Ministerstwo Energii chce wprowadzić w 2027 r. cenę maksymalną gazu dla odbiorców chronionych",
+      "title_pl": "Ministerstwo Energii chce wprowadzić w 2027 r. cenę maksymalną gazu dla odbiorców chronionych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaC11YTFieS01Q1Z4Xy1EaFg4aFduQUVfRlRUUlk2bUxwa2pBRG8yT2ZILWhkSDlxQ2VMdFZOSFlLZDhjRXBpUGw0SGJqbHhHay00cDB1ek9mWE1wZjFPMW1pVU9LelBOcjZRMnBqNE0ybF9IQkpUMUlJZFc1eS0zZUlEclhwYUEwbC1VbzhHenZTM2RqcnNjNmVDeWs0Z3NNYXVEWWJkOXdmelVjTDhXOTl3eDdITDl5WW9aRHZUaE1seC1lME14UUV3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bc49395b026e8386cb",
@@ -941,7 +1028,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
           "type": "press"
         }
       ],
@@ -986,6 +1073,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-aeaa008f17e3c2d5ab",
+      "date": "2026-11-06",
+      "title": "Przemysł dotacje oze magazyny energii prawo podsumowanie",
+      "title_pl": "Przemysł dotacje oze magazyny energii prawo podsumowanie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONURBWWJBME1PdFp3Q0hlZ050M1JDNlNLQVpJUTVKaWtRMXl5N01nWjhBd21Dc0NsWDhkVlN4UERpb0FBWlVGRDRWNXpwSWFBc2hhY0o3QkxTNUs3N1ZzcHZJakZJcUx5SFlhMlZsTFhtZVM2NHZHMTlBS3VBWnFRVjVrMndwM19idzZZQzE3RnFxcjZQbXdPUjVSdTBBc3RPS2JRY3RfUURKc2ZrakZ3TDB4R2NvMWpDV20weldTaXNXOTFW?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ae2d58d195941cf1cf",
+      "date": "2026-11-06",
+      "title": "Zamieszki na budowie centrum danych Microsoftu. Policja użyła gazu",
+      "title_pl": "Zamieszki na budowie centrum danych Microsoftu. Policja użyła gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Kilkudziesięciu propalestyńskich aktywistów sforsowało w piątek ogrodzenie terenu, na którym powstaje centrum danych Microsoftu w amsterdamskiej dzielnicy Sloterdijk. Doszło do starć z policją, która użyła gazu pieprzowego, funkcjonariusze dokonali kilku zatrzymań – poinformowała amsterdamska telewizja AT5.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Zamieszki-na-budowie-centrum-danych-Microsoftu-Policja-uzyla-gazu-9225197.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ac1aee27013bdd57a7",
@@ -1041,6 +1186,64 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a7dd061b077099a9ac",
+      "date": "2026-11-06",
+      "title": "Norwegia: Gwałtowny spadek wartości norweskiego funduszu gazowego",
+      "title_pl": "Norwegia: Gwałtowny spadek wartości norweskiego funduszu gazowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWNqSnJyTDlnQTUxYmR0clRycTkwQTBQUnV4cDl3NlpXd0ZUWmt5QnBpblYzV0NnQWVad25DRTA0MnJySzhtMVVNZWpleTBYX1RaaEhBcWpLNnVMdV8xZ0JwLU8yVUNMbmFteS1HZXozWkozY1BXU3hEZG1SVVNoN0xzRUtrSDE1aC1qZHdDbERvaFpKWTRuOUpOWEZzZDY3bFIyMQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a4e9c5e37767cd50da",
+      "date": "2026-11-06",
+      "title": "Ministerstwo Energii proponuje wprowadzenie w 2027 r. maksymalnej ceny gazu dla odbiorców chronionych, w tym gospodarstw domowych. (PAP)",
+      "title_pl": "Ministerstwo Energii proponuje wprowadzenie w 2027 r. maksymalnej ceny gazu dla odbiorców chronionych, w tym gospodarstw domowych. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVR4c251UjVDbUlqd254clJDYU5Rd3c3c1dUYTFBNnB6OEgzRWZJVWJYcXpaelFPRVM4UGU3RmNweHpxS2liclRxWTFQNTVDWWFPbW8zYlBEbk1WVVdjLXE1Q1VOZW1nWEczVDZRSkIzd05KdlVSYzllNFo0TEJ6QW03bVhhY1BPMGtBUGFpb0I3cmJWTFBWZnh4dzJsSUVkTzB6VnBBeS1oVm1KejF2ajJjblFxckJyNGFMQk4xYk93Yjdzb1dXcGdvN2hVU0lyUUNxQjctcFE2Ymh2MFRFdFZqaGxLM09zMnlsRTZkWWp3UUo3QXYyS09B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2003,6 +2206,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5f74f754e354095322",
+      "date": "2026-11-06",
+      "title": "Wynikowy piątek na GPW: tąpnięcia Orlenu, Dino i Grupy Azoty. Zielono na Modivo, XTB i Asbisie",
+      "title_pl": "Wynikowy piątek na GPW: tąpnięcia Orlenu, Dino i Grupy Azoty. Zielono na Modivo, XTB i Asbisie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Kluczowe indeksy na GPW zanurkowały rano pod wpływem fatalnego sentymentu na rynkach bazowych i pod ciężarem publikacji raportów finansowych największych spółek. Chociaż po południu na Wall Street obserwowana była próba odbicia, to jej skala w stosunku do czwartkowego tąpnięcia nie przekonywała, a zdeterminowanie kupujących było…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Wynikowy-piatek-na-GPW-tapniecia-Orlenu-Dino-i-Grupy-Azoty-Zielono-na-Modivo-XTB-i-Asbisie-9225228.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-5e8aed67bf8867fabd",
       "date": "2026-11-06",
       "title": "Dostawa, kompensowanie i odkup nadwyżki energii elektrycznej dla potrzeb Państwowej Akademii Nauk Stosowanych im. ks. B. Markiewicza w Jarosławiu",
@@ -2146,6 +2378,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-53042c525b612a8ee9",
+      "date": "2026-11-06",
+      "title": "Sejm za zmianami w przepisach o zużytym sprzęcie elektrycznym i elektronicznym",
+      "title_pl": "Sejm za zmianami w przepisach o zużytym sprzęcie elektrycznym i elektronicznym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2J6SE1VZzZVSlEzbUREY1ZxRk1iYUJwNnFZUHVKMjE0MEJ4ek1OSzRoWHN5bkctdEdUV01pejhTUUZDODNtbHIwcDZPNTlybEdVLTJrUmdBWVRoT1dYQ1ZCcnpGSTE3UC1XNjNFVWtLSWgteXFWU2hYV1k4RzdwZm9QbENHQW1XeWpkR2ZBVDBGQ0RzT2lhN1pjUHVDeDZXSV9nWXVCanZ6WVZfZjlWd2VhUXZGdmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-52a494fb9b8bfe494f",
+      "date": "2026-11-06",
+      "title": "Norweski gigant stracił ponad 160 mld dolarów. Największy spadek od lat",
+      "title_pl": "Norweski gigant stracił ponad 160 mld dolarów. Największy spadek od lat",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Norweski fundusz gazowy stracił na wartości ponad 160 mld dolarów w ciągu ostatnich czterech miesięcy – poinformowały w piątek władze tej instytucji. To największa od lat utrata wartości funduszu, na który trafiają dochody z wydobycia ropy naftowej i gazu ziemnego.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Norweski-gigant-stracil-ponad-160-mld-dolarow-Najwiekszy-spadek-od-lat-9225250.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-50991fc54cb8beeba3",
@@ -2900,6 +3190,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0ce6b93ff1dfef86e4",
+      "date": "2026-11-06",
+      "title": "Tesla ograniczy produkcję Cybertrucka na rzecz autonomicznych taksówek",
+      "title_pl": "Tesla ograniczy produkcję Cybertrucka na rzecz autonomicznych taksówek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Tesla ograniczy w przyszłym roku produkcję Cybertrucka, futurystycznego elektrycznego pick-upa, aby zrobić miejsce dla produkcji autonomicznych elektrycznych taksówek – poinformował w piątek szef koncernu Elon Musk.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Tesla-ograniczy-produkcje-Cybertrucka-na-rzecz-autonomicznych-taksowek-9225227.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0a9876c8538f2fb4da",
@@ -4160,7 +4479,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYnlYSjUycVlkbGRab1hLNFFjR1E2ZzVTMFZOX0JCMUJDb0l5VTZoaWlOZUpHdWpNa3YwOTlIaHhDWDg4VUNIM3JnRXdMT2lmT2I4QlIyQ3l1bkJNeWVkMXU5TmtHX25ZLU02MnZJVXNOb2ZrX1BYb09ERi0zeDhDNG05V1d4cWN1Rm5Ga1oxVEVDelo0ZkUxcTBHYy02MWtBVDFJWGM3VldJWUl6alhFNGlwWVZrVVBtMjlKZm1wQV9NRVVHZVltUHNKaWhsYXVNbnpsNDhCcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelBQNkpoNDA3RzFGWFBNZmMtVk4tTGN3bTZJTEx5eDlHMlRlMks2S0FwSFN5cXRJN3Z4S2JBb1hwYU11dnNqbktuX21hTTU0eGxsR3ZCU1JkcmJ5M2wzaVFpMzV2c0JJNzF6RzlwTkNlVFdES2E4SkJtSmxFS2MtRnRDazBLc0U2TFMtSUR1dUZZUTRhWXRnaVhlX21kOEZXdkhQeXpmcGx3WkgyVFMwMHZibzNWczlyNktCNEhiaVpoQ0poNWlWQWhTd0t0NHdpako2bXhFT05UaXFyYXdjM2xMYzVaa01TZVdCTEp2V3BtM28?oc=5",
           "type": "press"
         }
       ],
@@ -4168,7 +4487,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -6220,7 +6539,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObi1MY1BLM2VBMG1fTllHWVhGLVhuZjhrbGxidnhQXzIyajZkQ2o4T3c3VHN1MW9CQ3ZtbEtxcHdQN0N2Z001VGhrR21UbUt2VTZKbjFWMVVSZHRadWhkM3JGVjJmX0dxM25GZDZtUXpSVXg4LTdidThYSEc2RW8zbFBBbnlUWGJjSlNHbGplX1NWWmR5VkJOQVV2WmZaRVdWVDFFcldBYnYwM2JuZE5YY0ZBWVVURndOVmhISmFVQ1BkQ2JheXlycHNYUklkV2JOSnFNeA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU1B5WUFqVHNFOXFiaG9DVGRvYnVfYmtwZ1BGUWxUU2NSSk5wc3RsVTBoNWUzUFVHaFJiS3VnYWhTUUUwQzQyVnF1UDNWMzJPeXh2T2dwQS15dmYxYzBWU2FiWFZWTkVvbklRbm45ZElocFNublFKZ0xqSk05YjAyYVRFWlJma2pzV2R4Qmo1azlJR2ZIa0RCU0JuTnBwSnQwbEZSbDR5ZG04V09McHhIYkE4WjlPRGU3S04tcjJ2cXAxY2tBWEQ3X0RzbGxKZnVfT3ZnSUxFMUpDS05OMUp3d2xxU2RGRjdzdjRj?oc=5",
           "type": "official"
         }
       ],
@@ -8662,7 +8981,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVpFZWhvLW8wdE9tTE1tY0VZaDdfYm5CTG9WQm12VVVxQnRNeVBrWElyblljZlg5QUwteXNyV3ctWHhmZWlSdGpZSUhUU0tUb0hrVG9IYnhqcWMxdkxlVlVxbS1zS0VNUUN0bUJWU1BEc3h2U1JTZGpkb202UXNGQ0xtMUpNRURkVV9TWF9FSkt1eUJGMDdVVjFWN01mejFCYW13c2hGVUJFbWtGV1NjbGhGdDgyUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlFLcnQxTThwbnpJbW82NFd0eTBwUHBjUEFhM0FycVVjWXFtdndwUG1aWFNtbnpPV2tMMDhjbU5oa1JnTXpHbXNHRi04MEdjRTlJem9GY0ZHUjZIeGZpVVA2VlFILUxnbjkxMEFRcE5OTEVRUW8temNzRWp0dUhrN1duN2V0alVVRG1LdGhmbkZUNjlXV0pNVmNSYVZudG9YVC1NLQ?oc=5",
           "type": "press"
         }
       ],
@@ -10173,6 +10492,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zc18tSDJXNmVmMzNPNTFPSGZZWU1OQmVzbHVlWlUtZThkVFZvYVk1TnctUFRJWlpRY0tDVktVZ2o4UnROU0pBeW9sTFBoTzgzN2FPZzR4Z3NzSW5Dal9pMQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-485331155f9e7ad104",
+      "date": "2026-11-04",
+      "title": "Archiwa ceny energii - Strona 32 z 32",
+      "title_pl": "Archiwa ceny energii - Strona 32 z 32",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LNUk5bUVYRVNHSWp6aHBFQUVZMmQ3SkU3S0o0RS1TYXVDTlVSOTF0QnNQbmdIT3l5WVJTVTdHTDAyVTY5a2l6NVdhUFQxaWkzNTlLcEdNaG9jYlFoWDIyaXNYZFc?oc=5",
           "type": "press"
         }
       ],
