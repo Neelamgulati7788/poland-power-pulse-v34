@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:17:44+00:00",
+  "updated": "2026-11-06T15:20:11+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -232,6 +232,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e9ab927ff8411c16d0",
+      "date": "2026-11-06",
+      "title": "ASBIS WCZORAJ Asbis dzisiaj vs orlen dzisiaj",
+      "title_pl": "ASBIS WCZORAJ Asbis dzisiaj vs orlen dzisiaj",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbThFOHUyN2piWF9Ra213c21QLTRuZW9ibUd2M1dmSWtZcmJoY3JPTVNKRTlDd1k5TUpHTlZNbDhkNUxWYXpfWWFjUmdWM0hMZ2xBeGFEelJLNUpTRk1VckNNczRHRGgzcHY3b0VpWHFzSk8xbHlpN3RROGZRR0lhWk5QZGxaU1FDU2pVM2NrQW5SVzFfY1ZxMw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e7f95713e15989474d",
@@ -676,11 +705,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,12 zł, benzyny 98 – 6,80 zł, a oleju napędowego - 7,83 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż w piątek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Paliwa-tanieja-od-soboty-Ministerstwo-Energii-podalo-nowy-cennik-9224877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkViZ2pxU0NMdzVzbHgxRm1xaW16VVZUWlo2ZXlGdjBWaHNRWUNUdVRZbzhpNlZ0cC0wZ3B3THlHNThxMHBPd0NWVGwtRHE4VGtSbUxQb2RnUnJOOXJpZDk2ckplRzJUV2UzVGhDOGNsZW1HV0pvcjl2Vk11cW9EekRTQU1nN0FXWkZlTmpsbnZNTDliNndjNWxjUnRiNTA5SDVsNHpacVlpUmVuOG1B?oc=5",
           "type": "press"
         }
       ],
@@ -694,8 +723,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bc49395b026e8386cb",
@@ -825,7 +854,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LXU4UXppUEhHazFmLTJIZWtEN2kzSHFZV0h5UnR5N2toX05TNXhjN2RXa2drNlBRUXNNNWNkQWJfaFdDVzFfVEJfYUo3VXVSeFEyd2ROSWRhSElBRi1xbGEyQ3pGdzlZTER2Sw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
           "type": "press"
         }
       ],
@@ -983,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9f04af3dd3f4459408",
+      "date": "2026-11-06",
+      "title": "PGE Energia Odnawialna podpisała umowy na budowę czterech nowych magazynów energii",
+      "title_pl": "PGE Energia Odnawialna podpisała umowy na budowę czterech nowych magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONG4tVzZDcHRjRzNhNUFpeWRMZWtmQ3JNZWxBSDBPZGk4Qi0waGw2M2RFWkJVOTIwaGY5cldZNWpLQ2NXaEl4SnBMT3Vxbm52dl9LRlNEWkdIV3JEMUdNNFp2czUtbXNFMmdyZnFzSHZRVDVHaElRaDFaelFVM0ZZZTRUU3MyUUw5aE9zOXRZUUpoWUk2RE5lOGJIRFprMFg5dHBhRDhWQ3ZKUG1ZNDlPUkV4LTVRRkVTaGc4UmxFenF0em84VkVQbTU5Uy1zNVM1Mnp0V1dB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1218,6 +1276,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9122ccae283f811638",
+      "date": "2026-11-06",
+      "title": "Ważą się losy rafinerii Orlenu. Wszystko może zależeć od tej jednej decyzji",
+      "title_pl": "Ważą się losy rafinerii Orlenu. Wszystko może zależeć od tej jednej decyzji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUVDd1kyY29ZcjBBX2RmQUR5S18yMnVUakxraVVYeGQ4dGRHQjlNRmpNVHdQYVhzbUs4cDVhWXFyZTlBdVdLUXo1b2dyU2E5bVNYRDd5d0NIbmE5VG5paVNuQ1p6YnhKbS1qdk5veE5wMzhqalJVd3pHdDJXOGpsYnYySFV3VmJKSWxlaUNQMzRRNXdEQlJNaHdya1RkaTkzS1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8f9b254af6e752b6df",
+      "date": "2026-11-06",
+      "title": "Zełenski uderza w Kliczkę. „Najtrudniejsza sytuacja jest w Kijowie”",
+      "title_pl": "Zełenski uderza w Kliczkę. „Najtrudniejsza sytuacja jest w Kijowie”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prezydent Ukrainy Wołodymyr Zełenski, podsumowując naradę na temat dostaw energii w regionach, oświadczył w piątek, że najtrudniejsza sytuacja panuje w Kijowie. Jako przyczynę wskazał niewykonanie przez władze miasta decyzji dotyczących przygotowań do zimy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Zelenski-uderza-w-Kliczke-Najtrudniejsza-sytuacja-jest-w-Kijowie-9225132.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-8db442267b16e21d8c",
@@ -1534,6 +1650,35 @@
       "reviewed": false,
       "sourceIds": [
         "54"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6fd89b17760c556e81",
+      "date": "2026-11-06",
+      "title": "CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Energy — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcDB3MGE4ZDRpd2Q5MXBsQ0R4anp5VjN2Wm1xVVo3MU9KeDVFeUJSSE5idnJGMDk3QXZEOUFRTVFVLTlZb3ZneXRoT3pvQTh3VG1hVUR4R1dFOG5CNDVtd2JxVlhlZHhrTGs0Ym1UbThOZDlhRXE0ejNsZENmSG5ObGdkbENLczFid3Zxak15STdZNDljRzhHeDg3aEFKRWhXYTRzdlkxRDRYam52MmJ4RUlLM0pFeHdUZldNR3ZGWHpoQU9LT1FFYmM1QmdBY250WjRQMWdiWktkMEtHSGVVcmVFX0hiQVVjVmtTYXJTUk8?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energy",
+      "publisherUrl": "https://energy.ec.europa.eu",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "11"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2003,6 +2148,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-343e7de877079aaa9a",
+      "date": "2026-11-06",
+      "title": "Orlen zjazd do 100 ? - Forum",
+      "title_pl": "Orlen zjazd do 100 ? - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZDE3RDFpdnlaSHVRSkFtblZMd2t4MzNVdlctNWc3WWJjLW8xOTk4QVd4N3huMW9odDdnRWlxNmNwaXcycTlIRFZXcEVQSXJ1bjdFX2ZHak55YmoyTXJ4ZnFaNExFa1ZScVlpcmFubW5oN1JYdXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-33b90f93c381f25819",
       "date": "2026-11-06",
       "title": "Prokuratura: 25 osób z zarzutami w śledztwie dotyczącym elektrowni w Ostrołęce",
@@ -2148,6 +2322,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-27419f37ffc8b136e1",
+      "date": "2026-11-06",
+      "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+      "title_pl": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzY1UE94dmJmaTJnYk9MaWNLUlVsX1NONHNiZ0M1b2U0OWlpaVBRSEh6U3R0YWM0eV9xaU02WWN4T3Fsa19kWGRtMUd2YXNzVjczOXIzQ0JjNHhKblNwWFdlQVp2RlpnWmVMOUlTdXJGcEtoT1VrRGdXTXBNTElXQjlXS0FUNk9KQzBkck51elo3MGZLZC11ZDZpc2F2b0FyMEtDaXUtdzhFWkFNaGlLRFVR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-267a59ed84bd90bcf4",
       "date": "2026-11-06",
       "title": "Notowania metali bazowych, węgla i paliw",
@@ -2259,6 +2462,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-215813f3a8a350aa80",
+      "date": "2026-11-06",
+      "title": "Formularz zgody na korespondencje elektroniczną w tym eFakturę",
+      "title_pl": "Formularz zgody na korespondencje elektroniczną w tym eFakturę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2tTUHRtdzN2SmhUaG5ubFQ0VVRJVTE1MXU5dm9UeFJQNExFWkV4LThkRER0R1RUR0JNMHU3NFBxNVE3N080VFBZd1FkakNRUllfZFBjLWFCeHdGa29tal92WnBzZ0hDcmwtZEpncWJtOTloc0ZSR29mRzVySGxSVmhLaFBUZjI4azlXY2dfSEdTUW1HVDFHM1ZZaWJwMUZjNVFxQm9VSVc5YXBrTHRDRlB5dGhiX3p5TVB6a1lJZE1HZ28?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3112,11 +3344,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Premier Litwy Mindaugas Sinkeviczius ogłosił w czwartek, że poinformował Orlen o planach wprowadzenia podatku od nadzwyczajnych zysków firm energetycznych. Orlen przekazał rządowi, że kolejne podatki wpłyną na plany inwestycji w należącą do koncernu rafinerię w litewskich Możejkach - dodał premier.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Litwa-chce-siegnac-po-zyski-Orlenu-Koncern-rozwaza-zamkniecie-rafinerii-9224257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmREeF8zaDJONDYxYUY5enBHd1Y3U1BUeUJFLUlvbFRRVTBUNjIwNkxwOWFCVDZZbzhBOG9XOEJVMEJXeEtVdjBkb0hfemIzUmJwWmxsRjZGSEhMOElFQzAySU9oNktJVnFWNU5TQTh2STZrMzBXaW4zOUtRRzZwenRkdExScG03NU05ZUJsUzBZc0hFa2ZlYnBCcTRHVGptZkFPV1hqRGtSNk52VFZwS0JZZE5IV01D?oc=5",
           "type": "press"
         }
       ],
@@ -3130,8 +3362,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d6d5b2cb4e2eea09fb",
