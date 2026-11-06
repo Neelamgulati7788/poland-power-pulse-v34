@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-06T01:05:35+00:00",
+  "updated": "2026-11-06T02:16:48+00:00",
   "signals": [
+    {
+      "id": "src-2a93297031098076ed",
+      "date": "2026-11-06",
+      "title": "Polska – Usługi w zakresie napraw i konserwacji kotłów grzewczych – Prace serwisowe bieżącego utrzymania ruchu, konserwacyjno-remontowe, usuwanie usterek i awarii urządzeń kotłowni oraz systemów dodatkowych w PGE Energia Ciepła S.A. Oddział w Gorzowie Wielkopolskim w latach 2027-2030",
+      "title_pl": "Polska – Usługi w zakresie napraw i konserwacji kotłów grzewczych – Prace serwisowe bieżącego utrzymania ruchu, konserwacyjno-remontowe, usuwanie usterek i awarii urządzeń kotłowni oraz systemów dodatkowych w PGE Energia Ciepła S.A. Oddział w Gorzowie Wielkopolskim w latach 2027-2030",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE Energia Ciepła S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ba3-ce25-68ab-c1c5-d5000193cfdf",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fad22dd1b941d2ab63",
       "date": "2026-11-05",
@@ -535,7 +564,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVA3dE5jdVdLcVNBS25YX1ZUOHYtVGRHaThYb05LTDRQSzE0eWlIUnlUZ2JXa3BaZGNmbl9tNlNqY2ZaRTM0X0dXX25xTmV4UGQ4bmdjSzN4ZDlZS2VPNzlzaUdkYm56RU5TdElvNWluMFJOTjh3RENVRVE0alJJZ0t6MVRrOHk4RGk5N0lNQS1aWVVuNnJJSGNRQzZUel9CUVpQYlhtZDZFTmlPYkllaGxtOHctLV9UMS11X2VfXzI2MC14U0dSbnBXNC1JOGc2aEpvSDVadGxGQ211cHlPbnNJQm4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnFZQXVWN0gyN2FTVmQxa09jRTNNTDZqN2lNS1d2RHk2MzVFeXV2SVlycHktWWpQOFA1eUw1V2V6cTJscURxNERtcDNYckF2MkwyOWl6RDg5Q0pxbE1rZ2ZUOFJvcHJMUnpCUEtkV0FNcklKWUFVTWxEY2puUVo4djBZUENtTENRVEFsMXVGNERDeDQ0NzRBbWZldmNHeDVYTDJJbGI2M1lDblJuYnNlSnJyTlNYQQ?oc=5",
           "type": "press"
         }
       ],
@@ -7506,7 +7535,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JjRXhnMndqQ1FXQU9NdHpGSkFsZEw0OXVNSmY5Rk5GZld4Sm5iWE5fZ2poODA3ZUVYTngzZ2NTZDRuRG91YmJyei0wU05Cck9kb3Fhb3p3TkwzVWdhX3NpMVdmc3VLOXJBUDVPYnRDTkNxSlZQUlFCY3p4czBscU5iNnQ4VXhVSUVUTmt0enpMYkE0YXlPYnA5aVdtc1ZINVVqd1V6cE5FY2xITXhV?oc=5",
           "type": "press"
         }
       ],
