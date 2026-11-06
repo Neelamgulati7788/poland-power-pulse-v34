@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:02:00+00:00",
+  "updated": "2026-11-06T14:17:44+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -26,6 +26,64 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fdb29e0f3c3ac74968",
+      "date": "2026-11-06",
+      "title": "Tyle dopłacimy za energię odnawialną w rachunkach za prąd w 2027",
+      "title_pl": "Tyle dopłacimy za energię odnawialną w rachunkach za prąd w 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1gxQ0t3OWZpN1ZiQzFMSFYxYVdLc2VONVZhaWx2M3NscjMxSVpMbTI4QnFGWXcxSVpGeHJsdjlUUVY0YzBla2VaRlFTVDFveDZOQm5lNEhUd0EtblRfTlJmNkVWOHRUTzQyd0U0TURTM0Z6VmE5d0taY0thT2N4STZBYUpuZTdjaVItbk1zSnNVeGx3UWVZWjRmQUVaZmJkZElaMkJzWDlTVmY0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fb8d83fa7decec5c47",
+      "date": "2026-11-06",
+      "title": "Oszuści podszywają się pod księgowość PSE",
+      "title_pl": "Oszuści podszywają się pod księgowość PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ1Sk9DT0doNS12bXdlajF4Uk1taVJFVXlJbVRBN29LQ052Qk1FeEhlY0YyVUROMXdjdGt1a1AyZllWSDlFM0VRUDE2b1d6cjBNOWs2bnZEY2FjWkZVSGxDSzhxOUY2SHBwVXZXNnFha2dNTE9Qa1A4V2tTcVQ0Zlh5Ty1KaHFRNVBERGFhazBtNDBfcVBKU3Y2dkZNSHpfVDMwLTZYV0dJbUlmYTAycmZnYVdRUHlhb0xNaE1sT2wwYURWTGptaFRJM2VxUkVhQnRlcUxUVTdZbHpwWDBF?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -147,6 +205,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-eae4854c5c079253a3",
+      "date": "2026-11-06",
+      "title": "Rachunek za węglowy pomnik absurdu. 25 osób z zarzutami za miliardowe straty w Ostrołęce",
+      "title_pl": "Rachunek za węglowy pomnik absurdu. 25 osób z zarzutami za miliardowe straty w Ostrołęce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "25 osobom prokuratura postawiła zarzuty w śledztwie dotyczącym niegospodarności przy niedoszłej budowie bloku węglowego Elektrowni Ostrołęka. Nie było wniosków o areszt, nikt z podejrzanych nie przyznaje się do winy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rachunek-za-weglowy-pomnik-absurdu-25-osob-z-zarzutami-za-miliardowe-straty-w-Ostrolece-9224899.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-e7f95713e15989474d",
       "date": "2026-11-06",
       "title": "Tu rośnie energia",
@@ -229,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e57eac3a18d0b2c6af",
+      "date": "2026-11-06",
+      "title": "Ceny gazu rosną, ale rząd przygotowuje rozwiązania",
+      "title_pl": "Ceny gazu rosną, ale rząd przygotowuje rozwiązania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnlPckZkZFlPY2ZiUTd4RG9seks5ZGw1SjVzV1kxSXNJWUJ3VHBzcm02RFNmdFp3T2dTY3VqNjgxUXB6XzE2TTNkOGRQRVV3Nllma3QtWGN5Qi1VTk9ZVVlMQUNLUnJPWlFWTks4cG05UTVuQlNnRXRDQ2ExM0xjMXN3V00xdTBjTU1pWXNxdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -640,6 +756,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b3ce7f94089d2ccf2b",
+      "date": "2026-11-06",
+      "title": "PGE Energia Ciepła za ok. 15 mln zł rozbuduje sieć ciepłowniczą w Gorzowie Wlkp.",
+      "title_pl": "PGE Energia Ciepła za ok. 15 mln zł rozbuduje sieć ciepłowniczą w Gorzowie Wlkp.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDRCNG9yZXFMUHhxRVkyT3E0Zm0wTmFLMllBU3Q0OTVoMGJtSkVZTjZhODJXMXB5S19pd2JELVVXNVcyRzI2clQyR0lzZ1VSYmJ0OFV4QzlDMkxvdFVJRE5CaEl0c2FncW41TWdLWlBNSTlXeEdQT1ZpQUdkclkwM0hEeEtPaS1COVRwV1VQTjQzb2FkQzJNT1dJcmlhQVp4TUVnbHExWjdSQzFFMFhRVHBrRk1SUnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b2baa55fcabcab9a12",
       "date": "2026-11-06",
       "title": "3 biliony złotych na transformację energetyczną. Państwo szuka pieniędzy w PPK",
@@ -680,7 +825,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LXU4UXppUEhHazFmLTJIZWtEN2kzSHFZV0h5UnR5N2toX05TNXhjN2RXa2drNlBRUXNNNWNkQWJfaFdDVzFfVEJfYUo3VXVSeFEyd2ROSWRhSElBRi1xbGEyQ3pGdzlZTER2Sw?oc=5",
           "type": "press"
         }
       ],
@@ -928,6 +1073,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-992a2d17278fed1ddf",
+      "date": "2026-11-06",
+      "title": "Orlen wkracza na terytorium bessy. Korekta na kursie robi się niebezpiecznie głęboka",
+      "title_pl": "Orlen wkracza na terytorium bessy. Korekta na kursie robi się niebezpiecznie głęboka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Akcje Orlenu gwałtownie zanurkowały podczas piątkowej sesji na warszawskim parkiecie w reakcji na raport wynikowy. Wyprzedaż sięgająca 6,6 proc. sprowadziła notowania paliwowego koncernu w rejon 131,50 zł, co oznacza cofnięcie od wrześniowego rekordu o niemal 20 proc. Inwestorzy bezlitośnie rozliczyli spółkę z niespełnienia rynkowego konsensusu,…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-wkracza-na-terytorium-bessy-Korekta-na-kursie-robi-sie-niebezpiecznie-gleboka-9225063.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-98ba6300364845fb99",
@@ -1307,6 +1481,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7cc3645790859b3c25",
+      "date": "2026-11-06",
+      "title": "Poland files construction permit for early nuclear works",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tRGdfMTZiYzBKenNlaGxVbzdyOW5fMHZhaURXRzZXZ1dFem1jSGVqOGFmVXhWWnp4T0lDLXNES3lVVS1YeGJTZ1lpTFpMd3BHMTFvLTB0dDYzRFVTY2RYYkl1VmVzUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7448e3c7f3db67d1ff",
       "date": "2026-11-06",
       "title": "TAURON zasili Teatr Narodowy do 2029 roku",
@@ -1363,6 +1566,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-69b9cd28e91be4980a",
+      "date": "2026-11-06",
+      "title": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego.",
+      "title_pl": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3324",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-685b66e2d8613ebcd7",
@@ -1476,6 +1708,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60bda4fd1841a568d5",
+      "date": "2026-11-06",
+      "title": "Orlenem i pkn- em mocno zjadą na wig-u 20",
+      "title_pl": "Orlenem i pkn- em mocno zjadą na wig-u 20",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQi1ucnpoRUhodk5YSl9DS08tVWJZTVgtaVZ0U2V4UnFHSHNybVQ0Y2NsYjFKSkhEamJKTkVWX1dJaktHM3dwWm9SZmhwVHFLU3hnNkZ5VG1TUnBoNmZJLUoweU4tRE91WXVhb3VHQ1VVR2M5Zkx3Wk5LMFZ1WnJTNlBuVFVOVFE0VWJZNmZ5WnF6a3M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1713,6 +1974,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-351357a92c71516173",
+      "date": "2026-11-06",
+      "title": "Morskie farmy wiatrowe Bałtyk 2 i 3 z gotową bazą w Łebie",
+      "title_pl": "Morskie farmy wiatrowe Bałtyk 2 i 3 z gotową bazą w Łebie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDkyY255YkZyLVB6cDBvXzJZM0NnbW5HQjF6SlR5YlE0U1NtRUluc1U2WlQyM0VxZ0E0Z0FoWjVxQnowWlAwcU1rQlVaMWtwQzBnMmVwcEtCaERuZWNPU2V0bDFySDFKM2J0QzdadXJHX0tsbTVHX0NzdEpjVmNMUURZRXdwRzhSMzBHM3dDMm9tSUVNTUFqb0dUT1FMUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-33b90f93c381f25819",
       "date": "2026-11-06",
       "title": "Prokuratura: 25 osób z zarzutami w śledztwie dotyczącym elektrowni w Ostrołęce",
@@ -1763,6 +2053,35 @@
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-29c0fdf119a994f5bd",
+      "date": "2026-11-06",
+      "title": "Wykonanie robót budowlanych związanych z kompleksową modernizacją energetyczną wielorodzinnych budynków mieszkalnych położonych przy ul. 11 Listopada 6 i ul. 11 Listopada 8",
+      "title_pl": "Wykonanie robót budowlanych związanych z kompleksową modernizacją energetyczną wielorodzinnych budynków mieszkalnych położonych przy ul. 11 Listopada 6 i ul. 11 Listopada 8",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Katowickie Inwestycje S.A. działające w imieniu i na rzecz Miasta Katowice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3c10-9c28-3050-c1c5-d5000193de7c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "45"
@@ -1894,11 +2213,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W ciągu 10 dni rząd przedstawi rozwiązania w związku z sytuacją na rynku gazu – poinformował w TVN24 minister finansów i gospodarki Andrzej Domański.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-tarcze-na-rynku-gazu-Domanski-zapowiada-rozwiazania-w-ciagu-10-dni-9224699.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVdwbTBRSW5OVTlXRWFCNDZmRDA1N1cydE9Kejg4TVNWbmRidVB2eU1TVmt5RjdpUG9JZGZ5TE9pMWNnZFl4TmU4RTJTcUxaZ1dScjZCWlFTR1RzSURkaGZtaUY2ZGJTSm40VXd6M0VFUUxjbGlwV1hFQ1NwQm1GVWNGbUhFTF9fWk5EdU05NjVrOElhT1JfbW5YWHNqQnh6dllhR3pndndER0EzT2h1Ml9udGtuenkxZ0hGblBiV0lQZms?oc=5",
           "type": "press"
         }
       ],
@@ -1912,8 +2231,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2422d613e9ebec6eb6",
@@ -1940,6 +2259,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1cd22f664bf6dfa4fa",
+      "date": "2026-11-06",
+      "title": "Budimex-led consortium submits best bid for waste-to-energy plant in Lodz",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzdxaS1jMkIxaGhNQjR2UklraHVZbmpUQVF1Rm15b0lnb1hyRUdCaTRYZXRoVTV6VjQ3NzVwM3J3N1hnWHd0RzVyT1A4SV9Hd3U2RkN0LWNkQkxINFZWaU5FbnduUU5TMXROVEZNQUhpelJNQmFSOTJwSVFqMjZmYWg3RC1uclZoOE0xSjRETHZaRzZ2a0JuenJjODQzMUgzdDFhaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2003,6 +2351,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-16da271e7f20eec546",
+      "date": "2026-11-06",
+      "title": "Nowa Elektro sp. z o.o. z siedzibą w Sadach",
+      "title_pl": "Nowa Elektro sp. z o.o. z siedzibą w Sadach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "UOKiK — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCY1otMy1zdHVLdmVRYzVvVVo0d0RicHA5cDZoWUVBclE5VjU0YTJTQ1ZRb3pXQV9UakxRVVNlR3BGUjRLT1Jqa3Y3bV9EOTdRZ3JXdTBHXzJROHZHRGt2TGVsU2NIV0M1WmRMSkNRakxubWs?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "UOKiK",
+      "publisherUrl": "https://uokik.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "10"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-16d43c338babaf38b4",
       "date": "2026-11-06",
       "title": "ENEA PRZYGOTOWUJE SIĘ DO WEZWANIA NA FF BOGDANKI",
@@ -2030,6 +2407,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1124f09cd205ed0e3c",
+      "date": "2026-11-06",
+      "title": "PGE EO zleciła Elektrotimowi wykonanie 4 magazynów energii za 331,7 mln zł netto",
+      "title_pl": "PGE EO zleciła Elektrotimowi wykonanie 4 magazynów energii za 331,7 mln zł netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjY0dm90STZWdzhkX0g3enNOa1FFejAtaENseGgyZkdUbTRzQkJ1T0poclhvOGNWUFlMSkJ6SUdsR1VDdWRJT0FYMFRKaUtjb0xoTG42SHhYdnhhZVlWak9ESVFQb0Ftd1ZSVU9LQmFlMUJxWTVkc0kxbGRaMVMyWk50dURlTnQ2U2FfWjRXbGlteUlUdVV1M21OOWNUNVFtVi1jWXBGUm9KQ08wUTdEZVhPbnU3V2F2em1IMXUtb2Y?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0dc4cd22301912ed9e",
+      "date": "2026-11-06",
+      "title": "Oszczędności z PPK mogą szerzej wspierać rozwój gospodarki. PFR ma propozycje",
+      "title_pl": "Oszczędności z PPK mogą szerzej wspierać rozwój gospodarki. PFR ma propozycje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Przeprowadzenie transformacji energetycznej w Polsce do 2040 roku ma pochłonąć astronomiczne 3 biliony złotych – średnio 200 miliardów złotych rocznie. Ponieważ skala ta wykracza poza ramy budżetu państwa oraz dostępnych dotacji unijnych, państwo poszukuje nowych źródeł kapitału. Do Ministerstwa Finansów trafiła formalna rekomendacja Polskiego Funduszu…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/3-biliony-zlotych-na-transformacje-energetyczna-Panstwo-szuka-pieniedzy-w-PPK-9224812.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0dc245f19840d1ec53",
@@ -2554,6 +2989,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-db7a84394756a541a9",
+      "date": "2026-11-05",
+      "title": "Projekt PV gotowy do budowy o mocy 1,6 MW, woj. podkarpackie",
+      "title_pl": "Projekt PV gotowy do budowy o mocy 1,6 MW, woj. podkarpackie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONkprbDlseW51Y3lJeVB4Wk5yTEdOR2xYNmsxaXF3UjdST0twVTV5ZW1VbFlwT1JBVWhLQ3ZOVDl5UDUyeEkxWlZ5Y2p3NkI0Y0FjazZXRmRQeXB0LVNxRFh6TV9CVGNhVXN5RnVkYmhKYi1zamQ0S3dIUWhKVVhZX24yS0lnaXpabnhkc19oV3Z1M0hSb1djbHRuMExHQVl6ajNIaDdMNjBvSHNfUDhUVlV5dms?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-db56e79d3cf331326a",
       "date": "2026-11-05",
       "title": "Gasiuk-Pihowicz: Nie wystarczy budować, trzeba bronić. Unijne miliardy na ochronę kabli i elektrowni",
@@ -2984,6 +3448,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c5b3a8e08add20b450",
+      "date": "2026-11-05",
+      "title": "Zlecę budowę farm PV za granicą",
+      "title_pl": "Zlecę budowę farm PV za granicą",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzVOTU4zc3JVeDAtTUM2cWdXRVZEVGJCX0dCdUttZ0dkT1htOFNCZGRFeS1QX0pJTXZRbmN5VFlxYnJROFotS3QyTUZXU3FXWmxBT3pEbGJtYnZ5azZWS1pTY05hX0NMYnJ3ajU3Mnk5eE95LUZ6N3luVFBmbUJqQjJmN2ZyNUU4LWVCY0RB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
