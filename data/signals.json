@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T07:53:47+00:00",
+  "updated": "2026-11-06T08:58:26+00:00",
   "signals": [
     {
       "id": "src-f8885c7575affdf7c9",
@@ -67,11 +67,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "O dostawach rosyjskiego gazu ziemnego do Iranu i budowie gazociągów łączących oba kraje rozmawiali w czwartek w Moskwie przywódca Rosji Władimir Putin i szef irańskich służb bezpieczeństwa Mohsen Rezaei – poinformował Reuters, powołując się na rosyjską agencję prasową Interfax i źródła irańskie.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlhYTkNIejUyYkx2NE1vQnRrN2hzd0EwOGp4YVBsNjJMRHNOLS1WVHo3WWM4V1ZfRDFUTjBwSVhCTlUzQkc2d0dtVF9VQUY2UUtTNzZlaGc0SHhZZDQ0X2Fob1diek5pLWNSRFRCSWw3WU11cDVUQnh6TUNZSmJmSjNCbVdFTk9STHc4OEdjSFpTaHpDR3RyeElLdjRkdmJ2MndEeV9jd2lkRWQxd0FFMUZn?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Moskwa-i-Teheran-planuja-gazowa-wspolprace-Chodzi-o-nowe-gazociagi-9224586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -85,8 +85,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-e7f95713e15989474d",
@@ -118,6 +118,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e610b023085b58f23e",
+      "date": "2026-11-06",
+      "title": "Energa miała 566 mln zł zysku netto, 1208 mln zł zysku EBITDA w III kw. 2026 r.",
+      "title_pl": "Energa miała 566 mln zł zysku netto, 1208 mln zł zysku EBITDA w III kw. 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajdMMHREQ0UwcEpOVThrbFktekNuTXNPY0o1YXB3d3FPeXdhVEVuUmFiTjNmZkVEYlItTTR6eFRaYVB3MVlsU0dpNWhDeFp4azl2UWNFVUdiaU9vN3ZyVzB1YVV6Mlc3REJMTUxLOTdXVWdva1N1SlRKRlVCUlF4YkpkT2tNQ01mRGhRRlBkWFZ6MWw0VEp2UjNfQk96bURteWh5WmI1R1cya0RTZW93ckdtTTB3am1BNkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-df799103f1186dff36",
       "date": "2026-11-06",
       "title": "Raport nt. stosowania operatywnej korekty PPS JGM1 elektrowni szczytowo-pompowych",
@@ -142,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d76f22c09c7dc84f59",
+      "date": "2026-11-06",
+      "title": "Polski magazyn energii na kołach. Ile kosztuje?",
+      "title_pl": "Polski magazyn energii na kołach. Ile kosztuje?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1ltTm5DMm9CUElTVUYxUnE5ZDBmN1FPZXpNdFdTMnZfNXowWW04eUpDcTNWc2hfTEVKYzE4SXkyR21GS1FGRVdIVlZsUEs3QzhuOXhjTE5tVzFDUmFJQzVRNjhLYUpQV3JEcDlobzhuV0pYU2FaX2tCYURWUXJUWDBsV082YXE5RHdTUlJFdmpZeFdhTXd4d2JwSG40SFFaOUY1MG54YTZjVDk3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -205,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c1c8f41c83c5dc41fc",
+      "date": "2026-11-06",
+      "title": "Grupa Azoty odczuwa wysokie ceny gazu. W III kwartale znów poniosła straty",
+      "title_pl": "Grupa Azoty odczuwa wysokie ceny gazu. W III kwartale znów poniosła straty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2RFOWFYbDU1Yk1LNktjY3RrRTNlRnhIaGw3QmpJY210Rk5WTUdrcW9Xd1BMdDUwNjdVeHB0Z094V1FNcVM5TFFrTldrUzRZYlM1SWI3SHQ1VENyUnNoWTVEUHNtaDdkMUFGMUhaZi1BRE1ZT2FfUXFscUtNTFpLd2dXY1Z6RjhIOERXX0FKc3FEQVkwdU5NZGQxRjRqb2txNXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b0a7443cc0539e4f10",
       "date": "2026-11-06",
       "title": "Energetyka24",
@@ -216,7 +303,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LXU4UXppUEhHazFmLTJIZWtEN2kzSHFZV0h5UnR5N2toX05TNXhjN2RXa2drNlBRUXNNNWNkQWJfaFdDVzFfVEJfYUo3VXVSeFEyd2ROSWRhSElBRi1xbGEyQ3pGdzlZTER2Sw?oc=5",
           "type": "press"
         }
       ],
@@ -246,6 +333,64 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1dEaDZWWkVCRXZzV3pXRm9hcWtFb0l0bVYyODFaSEMyNEJCbDhDWUlkOVZrbEdZQXc1QVduVlNkWDQxcWxOcXhVQ2MyVUNENnlwS0tEWFcyb1lsRS1kZGZhLW5pbTJ0eDNZbzA4V2ZzRmUtSW1FQUdKc1VvV3pPMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a460b14c33fa3c769e",
+      "date": "2026-11-06",
+      "title": "Polenergia miała wstępnie 341,8 mln zł skorygowanego zysku EBITDA w I-III kw. 2026 r.",
+      "title_pl": "Polenergia miała wstępnie 341,8 mln zł skorygowanego zysku EBITDA w I-III kw. 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEZsUm95MjhLZzdxY1VnX2doM2IxM0U4VXQ4TS10TUxwc3JTenVMWnJuWS1NRXlFS2tPc3BSNnpaZW0zdXN0a3dPWFYyZUc5MVo0ODh1YXNVTGRqaUw3bEIwQnJOZkFnc3ZMS3pOeHR2MF9icEJsZEh3eEZiaDJHbkZmMW9ZZl9CV3AzSGtaSmRiV2tCSkpNRTNfcWJrUWd2UWExS1JLVTE5Z0xDMmJ5MVU3aEkzRkd2eVNKTzltX3U5Y0dv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-95366d478a2fcb2250",
+      "date": "2026-11-06",
+      "title": "Panele fotowoltaiczne wyprodukowały za mało energii. Inwestor pozwał producenta",
+      "title_pl": "Panele fotowoltaiczne wyprodukowały za mało energii. Inwestor pozwał producenta",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVhNMkpiMHVxc0dUa2N1Z0ZES3BCc2xnSElfSTkyT0t2dnFQNURnbTNBTmlId2lCejdVTEh6R0RtR2JFWGFMTmNRVURXX1FoNWlvSTlHc2VSeVhEZk9pQk5mOHgtamQxR082ekdycEJkRkpWWGhkR3Z2NzJCN0VlTXpMVFlvc3M1dHQ1V0t1UHU2YndjMmVwY3lJNTFLZG1lQk9vSGxVY0Rmbm05V1czN3lsV3ZLQQ?oc=5",
           "type": "press"
         }
       ],
@@ -319,6 +464,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7ddc907c9d6d4ea87f",
+      "date": "2026-11-06",
+      "title": "Pompa ciepła. Jakich błędów uniknąć, by nie żałować inwestycji?",
+      "title_pl": "Pompa ciepła. Jakich błędów uniknąć, by nie żałować inwestycji?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtRWHhhU05NaUFCUnhRWHcxMU9oRjNnRGtRYndibWVPV1lEbE0yWkRlZm01S0txWUpMSFp4UkV3aDBYUTA5OXZOUDMxbzlqUWpLZkI3T3Z5LWFGYjJ6MFBTX3RXUnRkTFExZU9pLTNkeVpyOWNfWW1Ya1dxdnRPNXc4RVhQUHBrMG1pLXJWZktRUmNZTWtKalg5LXY4d3BsZ1g3ZVV5TGNQLVppV2JxZA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6eee8475bfe509b056",
@@ -408,6 +582,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5e8aed67bf8867fabd",
+      "date": "2026-11-06",
+      "title": "Dostawa, kompensowanie i odkup nadwyżki energii elektrycznej dla potrzeb Państwowej Akademii Nauk Stosowanych im. ks. B. Markiewicza w Jarosławiu",
+      "title_pl": "Dostawa, kompensowanie i odkup nadwyżki energii elektrycznej dla potrzeb Państwowej Akademii Nauk Stosowanych im. ks. B. Markiewicza w Jarosławiu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PAŃSTWOWA AKADEMIA NAUK STOSOWANYCH IM. KS. BRONISŁAWA MARKIEWICZA W JAROSŁAWIU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3be4-0a81-0b23-c1c5-d5000193d58b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5c23e10546a200dc79",
       "date": "2026-11-06",
       "title": "Fotowoltaiczny dach wielkości dwóch boisk piłkarskich przykryje oczyszczalnię ścieków",
@@ -493,6 +696,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-4f96315feeb6ad17b9",
+      "date": "2026-11-06",
+      "title": "W Wałbrzychu ruszyła produkcja inteligentnych liczników energii",
+      "title_pl": "W Wałbrzychu ruszyła produkcja inteligentnych liczników energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2U0NTRsRzhpYnhLWTRpWEtEenZPUTNZcWVPenZqQUJrdlRYaGJ2SnhKT1ljWWx6VmdCTHVqVk5jOEs0RTdVOVhtQ2tvRUkxUVotWVYwRS1UNHM5Y1RFcjVQckJ3Nld6QjZEdkVrcWE2N3BFQjhURGQzem44dy1sLU5uSzl4NWNFY0JxbS1QTFhrTm5OalNzalZLQUtpVldUbnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4b5370091ded51d1d3",
@@ -693,6 +925,64 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0759e1b1a5d35ae9b9",
+      "date": "2026-11-06",
+      "title": ",,JEST ANEKS Z ENEĄ W KWESTII CENY WĘGLA,,,GÓRNICY WYGRALI",
+      "title_pl": ",,JEST ANEKS Z ENEĄ W KWESTII CENY WĘGLA,,,GÓRNICY WYGRALI",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemJON2FJZjNnV0JuMXJfckg4T041ZjUyQjdNbzc2OUVJaFoybExIYlJIODJyeV8xYUo0SVMxYmp4cjZvR3FKbGppSlczSlo5SGY4clF0UWZkNXEySmxzTlNFNGc1cDNLcG9IWElsZm16SkF4b0JTRFdpNzhVRkhVMmdGbUN4M0tuNWJmLXJ4dTYyY2R3RHJUSHBUWTc2Uk51Nk1RcUhB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0130577764464c0fb1",
+      "date": "2026-11-06",
+      "title": "JUŻ NIE BĘDZIE TANIEGO WĘGLA DLA POZNANIAKÓW PO 310 ZŁ",
+      "title_pl": "JUŻ NIE BĘDZIE TANIEGO WĘGLA DLA POZNANIAKÓW PO 310 ZŁ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzNKOUZkS0Jjd0pNVWhLcTJPRFI4cFhleHUzeGt0SWhiRnRSS3NMaWYxRDl5X2c5b3hIN0RnLXNSMDBfbzdWUGJZdFB6cXpkTml5cXROQmhHaUFtQ255TjNqOXlkVVBhQ3FzNGhYVGZ4RHNFcDBLUTZ0OXp3LUZtTTBSMUdlaUZsckdyaS14dHlQdmJpYmhOQlVXUkVfUVlWbzVYc2t3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3796,6 +4086,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-30a0183eb0ef69cb46",
+      "date": "2026-11-05",
+      "title": "Energetyka24",
+      "title_pl": "Energetyka24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10X0o3a19aTV9YMjRTZ2pRSldBaWJtcmlyWjZiRGpaOWZJQmR6X0ZVUjhXaUcwd0tFWDNQX005ZFdiRl9VeGNRR1dQazFDMzc2aTdpNlBjRVhaS0lzMHlONS1rUzNqNldWR0lyNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
