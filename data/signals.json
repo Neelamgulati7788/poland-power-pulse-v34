@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-06T04:32:38+00:00",
+  "updated": "2026-11-06T05:33:48+00:00",
   "signals": [
+    {
+      "id": "src-f8885c7575affdf7c9",
+      "date": "2026-11-06",
+      "title": "Opracowanie przez nauczycieli kształcenia zawodowego i partnerów społecznych (...): Technik pomp ciepła, urządzeń chłodniczych i klimatyzacyjnych; Monter instalacji pomp ciepła, chłodniczych i klimaty",
+      "title_pl": "Opracowanie przez nauczycieli kształcenia zawodowego i partnerów społecznych (...): Technik pomp ciepła, urządzeń chłodniczych i klimatyzacyjnych; Monter instalacji pomp ciepła, chłodniczych i klimaty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ośrodek Rozwoju Edukacji",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3bc4-30ef-8b18-c1c5-d5000193d209",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e7f95713e15989474d",
+      "date": "2026-11-06",
+      "title": "Tu rośnie energia",
+      "title_pl": "Tu rośnie energia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVk5PMjdwVXdfNVRYREVTcnVzVm5LY3prUWpLVFlzTjVUOHkwV3BPaHBCQ3hUMmtVM3B5TTFyanZ6aWpGUFZQUkFTMTZhcUM3bGRxdDJ1MVI1RUhwQ0p4SjMwYlBuNFZ1aDBsQjVBUVBudy01?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-c41ebfd16d4a8de6ca",
       "date": "2026-11-06",
@@ -42,7 +100,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iSVpzdkZocGNBRGNUdFdrcVpGajBidVNaUnlIR3IwZHVrcUpSOEdUektFcHZoY09ic0RkYmxScGxuUDdhcFJxZ2tDVmpMU0VpSUlvNEp4MjBzLXU4OHpqMndMNWkwQ1l5clgxeg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
           "type": "press"
         }
       ],
@@ -55,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a48241a2459968b5cc",
+      "date": "2026-11-06",
+      "title": "Kutno stawia na geotermię. Prawie połowa ciepła z OZE",
+      "title_pl": "Kutno stawia na geotermię. Prawie połowa ciepła z OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1dEaDZWWkVCRXZzV3pXRm9hcWtFb0l0bVYyODFaSEMyNEJCbDhDWUlkOVZrbEdZQXc1QVduVlNkWDQxcWxOcXhVQ2MyVUNENnlwS0tEWFcyb1lsRS1kZGZhLW5pbTJ0eDNZbzA4V2ZzRmUtSW1FQUdKc1VvV3pPMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -87,6 +174,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-6eee8475bfe509b056",
+      "date": "2026-11-06",
+      "title": "ORLEN completes expansion of Wierzchowice Underground Gas Storage Facility",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNE5sX3BjWXFqeDJEVHJQUjNxTXdIQkt4RHkyWFdxbXNwYmZDTkYzYXgtNlRWNTBjUGdfRjV1eDhKUTl1dXFpQlNac2UtUU1qaF92NThhR3dkeExlR1NOSFZBZjZ2dHBDam0xTkhlXzZFcjh2aXVmUV9fb01JbW9aUEx4NEl1S2pQbmduYW9lUjhGSEs0X0x0eUFfaDdNRzV2cTZOdTFZSFM3eUIzclJVQW1yZGcyeGlyTXJDZFpDM3Y4U1RHOWhzdlotaHVta1dNV0xsUTktcUk3VEFsQ2UtMHpUY05tMzNIcVFjcVl6c3hEaXU4a3NZ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-541f41d994862d3768",
+      "date": "2026-11-06",
+      "title": "Bon ciepłowniczy: kto dostanie dopłatę i czy wciąż można się o nią ubiegać?",
+      "title_pl": "Bon ciepłowniczy: kto dostanie dopłatę i czy wciąż można się o nią ubiegać?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Trwa sezon grzewczy, Polacy z niepokojem myślą o rosnących kosztach ogrzewania. Aby ulżyć naszym portfelom, rząd stworzył nowe świadczenie – bon ciepłowniczy. Ma on wspomóc domowe budżety w pokryciu coraz wyższych rachunków za ciepło. Ile wyniesie taka dopłata i czy w tym roku można się…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Bon-cieplowniczy-kto-dostanie-doplate-do-rachunku-za-ogrzewanie-i-czy-wciaz-mozna-sie-o-nia-ubiegac-9224331.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-2a93297031098076ed",
