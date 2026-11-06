@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-06T02:16:48+00:00",
+  "updated": "2026-11-06T03:25:57+00:00",
   "signals": [
+    {
+      "id": "src-b0a7443cc0539e4f10",
+      "date": "2026-11-06",
+      "title": "Energetyka24",
+      "title_pl": "Energetyka24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iSVpzdkZocGNBRGNUdFdrcVpGajBidVNaUnlIR3IwZHVrcUpSOEdUektFcHZoY09ic0RkYmxScGxuUDdhcFJxZ2tDVmpMU0VpSUlvNEp4MjBzLXU4OHpqMndMNWkwQ1l5clgxeg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-84b846fdad97a08b9e",
+      "date": "2026-11-06",
+      "title": "Polska – Elektryczność – ZAKUP ENERGII ELEKTRYCZNEJ DO OBIEKTÓW ZAMAWIAJĄCYCH UCZESTNICZĄCYCH W GRUPIE ZAKUPOWEJ OBIEKTÓW POSIADAJĄCYCH INSTALACJE FOTOWOLTAICZNE",
+      "title_pl": "Polska – Elektryczność – ZAKUP ENERGII ELEKTRYCZNEJ DO OBIEKTÓW ZAMAWIAJĄCYCH UCZESTNICZĄCYCH W GRUPIE ZAKUPOWEJ OBIEKTÓW POSIADAJĄCYCH INSTALACJE FOTOWOLTAICZNE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "BASENY WISŁA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ba3-e78e-3e29-c1c5-d5000193d135",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-2a93297031098076ed",
       "date": "2026-11-06",
@@ -792,11 +850,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Nowe taryfy na energię elektryczną będą znane w II połowie grudnia, sam proces zatwierdzania taryf jest procesem utajnionym - poinformowała PAP Biznes prezes Urzędu Regulacji Energetyki Renata Mroczek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-2027-rok-Wiadomo-kiedy-poznamy-nowe-taryfy-9224323.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDZiMlNlUDdyeU9TTFdqcFJJRklXLUV6b1lnX0hNeU4yUzVRUFd5bk5zOThCUU9aczJLVnBRNzE2dVl6UGFfZGNKOTlsa1pVOC0zT0JRVFlmYzNNdVdtR2NrYnFpT1ZQRFRvV01aZE9sRUFXdG5WUnJEOFNiWWc3VHBGYVlUbUxYenBoZVRoSHVvZlhvdk4zc2stYU1nMEZlQmhRLQ?oc=5",
           "type": "press"
         }
       ],
@@ -810,8 +868,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c1955e6b9843e8d75e",
@@ -1289,7 +1347,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjRQYW1CZ1JkUUpaWXI0OE9XVFJEZnh0MWNfc0QzUGpXb3JEWXA5SHFGVUlGaWpURXF6aTRhc1p3NnJPamtyX0JDdXpITUNTR2VKYXBjcUpyTFYzclhLeUt4OFlCZ1Eyb20zOHRnZmtoR3M0R2JmUHpnN1BZVHdDZ1VSU2ZOQzRu?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGVvbTEzcmRuMmdpWl9mMnJfZWtKYjVfTkhtRDBlbTJzZXFWOWYtdEFuUlJaVzVTYjJGdFhEaTZYUXhJV0RGUnFXSUh3dlVsZGlXcHlqRHkwRjdrVkpBTUl0d3dVQ3VwVTVOb0tHZFVUeHNhNkh1cmU1anhOT25kRzc0UXp6VEw1?oc=5",
           "type": "press"
         }
       ],
