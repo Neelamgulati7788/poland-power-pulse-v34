@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:31:42+00:00",
+  "updated": "2026-11-06T20:22:53+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -1145,7 +1145,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -2584,6 +2584,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5608e409c8a4889424",
+      "date": "2026-11-06",
+      "title": "Ceny gazu w kuchenkach i nie tylko zostaną ograniczone. Jest projekt",
+      "title_pl": "Ceny gazu w kuchenkach i nie tylko zostaną ograniczone. Jest projekt",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVJtdmV2V2VUdFBISWNBVldIZExkX3Y4eFE3LWJ1ODR6NnFUMGdaamFkWU11amtaR3duT1pXZVNxRUNfcmVOMmVlVThYNVF6aHBXVmFUSGJQOEY3TG9nNlRhbkJlcnZlR2RNVU9qWlJFeU51YnJsdlhFU21QYXZwNjU2cTQ4MVAweEt2MGFCQldNMGYxWGpEMVI3MDZaU01HbExFR09JSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-541f41d994862d3768",
       "date": "2026-11-06",
       "title": "Bon ciepłowniczy: kto dostanie dopłatę i czy wciąż można się o nią ubiegać?",
@@ -3362,6 +3391,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-12a303b4aeb70618eb",
+      "date": "2026-11-06",
+      "title": "Ukraina: Zełenski: Rosja szykuje kolejny atak na infrastrukturę energetyczną i mosty na Dnieprze",
+      "title_pl": "Ukraina: Zełenski: Rosja szykuje kolejny atak na infrastrukturę energetyczną i mosty na Dnieprze",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDZwTldYbjA5VllNZVY2ZERUYzVHRWtXdDFPLWwzbm40MGdrNU5yS1dqb0F6a0NvbEFJemMtbk54X2RlYjN3WEp3ZXFfMHFEdEE4QnpnMjVvQ0VSczc5bmRoWjkxNTlFM3ZrVUN2LVVMamF4eDBVSUU3YUIxZy00QmxORVdCQkxZdEs0YXpYWTRfSHVDRmxIVkFjWV9FRmNQSHBNZjQ4REJLRTlQZ2Q3ZmhaV2l2VXk3NUVwbTExT1BjbzdrS1JLOG9xYk4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4828,7 +4886,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelBQNkpoNDA3RzFGWFBNZmMtVk4tTGN3bTZJTEx5eDlHMlRlMks2S0FwSFN5cXRJN3Z4S2JBb1hwYU11dnNqbktuX21hTTU0eGxsR3ZCU1JkcmJ5M2wzaVFpMzV2c0JJNzF6RzlwTkNlVFdES2E4SkJtSmxFS2MtRnRDazBLc0U2TFMtSUR1dUZZUTRhWXRnaVhlX21kOEZXdkhQeXpmcGx3WkgyVFMwMHZibzNWczlyNktCNEhiaVpoQ0poNWlWQWhTd0t0NHdpako2bXhFT05UaXFyYXdjM2xMYzVaa01TZVdCTEp2V3BtM28?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYnlYSjUycVlkbGRab1hLNFFjR1E2ZzVTMFZOX0JCMUJDb0l5VTZoaWlOZUpHdWpNa3YwOTlIaHhDWDg4VUNIM3JnRXdMT2lmT2I4QlIyQ3l1bkJNeWVkMXU5TmtHX25ZLU02MnZJVXNOb2ZrX1BYb09ERi0zeDhDNG05V1d4cWN1Rm5Ga1oxVEVDelo0ZkUxcTBHYy02MWtBVDFJWGM3VldJWUl6alhFNGlwWVZrVVBtMjlKZm1wQV9NRVVHZVltUHNKaWhsYXVNbnpsNDhCcw?oc=5",
           "type": "press"
         }
       ],
@@ -4836,7 +4894,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
