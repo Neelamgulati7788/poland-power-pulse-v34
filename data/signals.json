@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T08:58:26+00:00",
+  "updated": "2026-11-06T10:03:13+00:00",
   "signals": [
     {
       "id": "src-f8885c7575affdf7c9",
@@ -147,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e04f541200b69d50be",
+      "date": "2026-11-06",
+      "title": "Początki krachu a marzyciele myślą że PGE będzie(...) - Forum",
+      "title_pl": "Początki krachu a marzyciele myślą że PGE będzie(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWNaeHFEWUhjS0MtZDVVWlY4RUdUa0FxenRzNGhPcjBKN0tuM093bWlpZkY1ODREQ29UTE81LVRKUjRTYXVOZGVqbjJiQmNKRVRpcjlPMnprN3doQzAzVG9MR3FQVmozdmswQU1ScDhFU0xELTNiY1p6YVhIVUhBVGczbkNzbGRtckMzZkxESEV4Y25COVBSU1ZEMEZzbks5enJJLXdmZEtFTVkzZmt0ME9NTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-df799103f1186dff36",
       "date": "2026-11-06",
       "title": "Raport nt. stosowania operatywnej korekty PPS JGM1 elektrowni szczytowo-pompowych",
@@ -171,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d9e19287852ebb8231",
+      "date": "2026-11-06",
+      "title": "Ważą się losy rafinerii Orlenu. Przyszłość zakładu zależy od tej jednej decyzji",
+      "title_pl": "Ważą się losy rafinerii Orlenu. Przyszłość zakładu zależy od tej jednej decyzji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUVDd1kyY29ZcjBBX2RmQUR5S18yMnVUakxraVVYeGQ4dGRHQjlNRmpNVHdQYVhzbUs4cDVhWXFyZTlBdVdLUXo1b2dyU2E5bVNYRDd5d0NIbmE5VG5paVNuQ1p6YnhKbS1qdk5veE5wMzhqalJVd3pHdDJXOGpsYnYySFV3VmJKSWxlaUNQMzRRNXdEQlJNaHdya1RkaTkzS1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -292,6 +350,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bc49395b026e8386cb",
+      "date": "2026-11-06",
+      "title": "Droga energia będzie dalej napędzać inflację. NBP pokazał najnowszą projekcję",
+      "title_pl": "Droga energia będzie dalej napędzać inflację. NBP pokazał najnowszą projekcję",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTk1OZlNqTU5XbGdzelRhcGRsbUpfWHQ4SkRoQnQ0NWxzSXJQTnFJd0R4bS1kZlRBTk9Qb1F4bVBpUHRUeldXYmZLVVAwRTlWUGhBYTNZVnozZnBCTkdYc1E5MlF4SHc3QnRvUGhOY2Z2RTlvQTZ5a1pKZlJhcWxVZ3ROQWtsa3FNU1VVMzFVR3hoSlJpV000OGVaUExmRGNSSGRWQWI2T3ltbjNTN2dFekwyZ0w?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b0a7443cc0539e4f10",
       "date": "2026-11-06",
       "title": "Energetyka24",
@@ -303,7 +390,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LXU4UXppUEhHazFmLTJIZWtEN2kzSHFZV0h5UnR5N2toX05TNXhjN2RXa2drNlBRUXNNNWNkQWJfaFdDVzFfVEJfYUo3VXVSeFEyd2ROSWRhSElBRi1xbGEyQ3pGdzlZTER2Sw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -379,6 +466,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-98ba6300364845fb99",
+      "date": "2026-11-06",
+      "title": "Opracowanie dokumentacji technicznej i energetycznej związanej z poprawą efektywności energetycznej oraz rozwojem odnawialnych źródeł energii realizowanej w ramach II etapu Klastra Energii",
+      "title_pl": "Opracowanie dokumentacji technicznej i energetycznej związanej z poprawą efektywności energetycznej oraz rozwojem odnawialnych źródeł energii realizowanej w ramach II etapu Klastra Energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA GOLUB-DOBRZYŃ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3bed-1e7c-1960-c1c5-d5000193d77b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-95366d478a2fcb2250",
       "date": "2026-11-06",
       "title": "Panele fotowoltaiczne wyprodukowały za mało energii. Inwestor pozwał producenta",
@@ -408,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-919414b86dbe6b30cb",
+      "date": "2026-11-06",
+      "title": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+      "title_pl": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlhMQUU3a1VocU9BMzhmcy02Smd1QWpMQjRsWDVyN3pkMXBpdm1pb3RpcGliTm1jVnIzUGxXQ19jbjJBRjJrX0pYNjh6cG81OFdyVkQ5VDRQZEw2cFc0R2NYd3VWVUJRNHJ0MlJrTkdvUGgtREt4aFlOMzY4eEU2SF9IekZjRjVKa1dSRk82anF6S1hNVnFUV1llUWFMTzdhS3hXeExSVmI4SEh2ODRHOHJXbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b9dd87b987c54f4a5",
       "date": "2026-11-06",
       "title": "Grupa Azoty odczuwa wysokie ceny gazu. W III kwartale znów podniosła straty",
@@ -432,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-89e30db0c92fc85f99",
+      "date": "2026-11-06",
+      "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
+      "title_pl": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTM5SEZNRkU2T0I5bnVuWFdFMThIUjBKWUxTeWJOVDl4YTRNLXRROTU0ZkxOR3hyZXRJeWpDTzNEanNhY2tvenpBZ2RGcW5URFVoS0tqbGNuSUt0WDNRQmxzZ29FRnlCM05EVWx4Q0FURlZmUFFMZ3BTWjREdUNMM0l2dE51YkV0QXVwQlpTZ1M1ZHVtRUpWQWgxOWxWRTlwaUdjMVlpVFYzOEZKbVNZTmw4X2g?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -925,6 +1099,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0dc245f19840d1ec53",
+      "date": "2026-11-06",
+      "title": "Wiatr z lądu napędza wyniki Polenergii. 82 mln zysku netto po trzecim kwartale 2026",
+      "title_pl": "Wiatr z lądu napędza wyniki Polenergii. 82 mln zysku netto po trzecim kwartale 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE1LblRRZDVHa1M1VDB3SlpBTmViSnQzZlVhYlp0V2pwanJ1dnM2NFFWUWx1WUtnQzY1bEd1czNpV1RGOS13dnI5djdIa1V6RXU1Z0VLQXpCRmloSFFiX1JkVUplV2Y4SzV5N3hIdFBqLTZ2cTVueUZlakEtWjQ4aEF5ZXR6WVoxM3VEcm9yc21nb1M4ZzlNZld4STRVanB4Z2VzbXJUWUJqMm5YeDFFVEZsdmNmR3F5dnFneFRRUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2322,6 +2525,36 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-922a29dd29d696452e",
+      "date": "2026-11-05",
+      "title": "Rozporządzenie Ministra Cyfryzacji z dnia 21 października 2026 r. w sprawie warunków technicznych zasilania energią elektryczną obiektów budowlanych telekomunikacji lub pomieszczeń telekomunikacyjnych",
+      "title_pl": "Rozporządzenie Ministra Cyfryzacji z dnia 21 października 2026 r. w sprawie warunków technicznych zasilania energią elektryczną obiektów budowlanych telekomunikacji lub pomieszczeń telekomunikacyjnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ISAP — Polish law database — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1461/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ISAP — Polish law database",
+      "publisherUrl": "https://isap.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-91e6abb51c820c1142",
       "date": "2026-11-05",
       "title": "Polacy oczekują bardziej stabilnych lub niższych cen energii w związku z transformacją - ankieta EBI",
@@ -3216,6 +3449,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60b5aba072b71970d3",
+      "date": "2026-11-05",
+      "title": "Strona 2585 z 2596 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2585 z 2596 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqY21nd3lwajBfdHZFWW9weTQtTUdSTWhTNzViQVloeUVUaFQwaEx1elhhams1RG1SWTJRS2xFR09GV0FNRXY5cXg3U3NTMmJT?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
