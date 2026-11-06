@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:20:11+00:00",
+  "updated": "2026-11-06T16:27:10+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fe4fe97872538e2bed",
+      "date": "2026-11-06",
+      "title": "Pilnie: ekipa PV do Niemiec od 09.11 – Mannheim / Wormacja / Speyer",
+      "title_pl": "Pilnie: ekipa PV do Niemiec od 09.11 – Mannheim / Wormacja / Speyer",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0VHUkJiZjcyQmdEZTZwcHQ5Q2hyYUpvc2FwcjdZWG9jS3l1ZGVLLUFyQU5iRVlINWJrWC1aMWgzemJodmcybHVUcERTbmFsOC14Y1NUbWtibWVhc3NIOHY2RnBMaTU0X1ViZzFzU3NZZDUxbUg1a01rU0NpbHB6OUtBUnV0a09RaS00cEhCa1VBMVNCd2ZhdC0wbHJMU1JMclpCcEI4aVpBR2w5d216NkJOaEFneXp3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -611,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c82b56b289b61467bf",
+      "date": "2026-11-06",
+      "title": "NCBR zaprasza firmy do konsultacji dotyczących Mapy Drogowej Transformacji Energetycznej",
+      "title_pl": "NCBR zaprasza firmy do konsultacji dotyczących Mapy Drogowej Transformacji Energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc1E5OE96RWxNX1ZTbXBvUFZHUm5LT2tRZ2tSbUtSVmxWVkZkVUVJSHVvU1RNOE52Ny0wZ3hTX2FGYzRKY2lMYzBzc0hIaE1kb2ZBTERhMGJ2R05ESWhhY3BRcFlRN0FHR2hiU090MUlqODJTNFM2RWJmUzJ1Z01hT1dQTnZKWW9KUXpwWnJpSkIwbnZEdlkxa1U3M0J0MTFmSlBUOXVmc0hLb0l4U1NTWWQ1N19HVDdHTldpVUpwYWIwa0ZfbzVyNG1hRFk3N2R0QXFxVFI5b3VCc0RwUWNfZ0VIWExWQVU1b0g5aERSblVoSHgyelFFMDZR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c41ebfd16d4a8de6ca",
       "date": "2026-11-06",
       "title": "Tauron Zielona Energia - strona 3 - wiadomości i popularne artykuły na wnp.pl",
@@ -705,11 +763,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,12 zł, benzyny 98 – 6,80 zł, a oleju napędowego - 7,83 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż w piątek.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkViZ2pxU0NMdzVzbHgxRm1xaW16VVZUWlo2ZXlGdjBWaHNRWUNUdVRZbzhpNlZ0cC0wZ3B3THlHNThxMHBPd0NWVGwtRHE4VGtSbUxQb2RnUnJOOXJpZDk2ckplRzJUV2UzVGhDOGNsZW1HV0pvcjl2Vk11cW9EekRTQU1nN0FXWkZlTmpsbnZNTDliNndjNWxjUnRiNTA5SDVsNHpacVlpUmVuOG1B?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Paliwa-tanieja-od-soboty-Ministerstwo-Energii-podalo-nowy-cennik-9224877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -723,8 +781,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-bc49395b026e8386cb",
@@ -739,6 +797,35 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTk1OZlNqTU5XbGdzelRhcGRsbUpfWHQ4SkRoQnQ0NWxzSXJQTnFJd0R4bS1kZlRBTk9Qb1F4bVBpUHRUeldXYmZLVVAwRTlWUGhBYTNZVnozZnBCTkdYc1E5MlF4SHc3QnRvUGhOY2Z2RTlvQTZ5a1pKZlJhcWxVZ3ROQWtsa3FNU1VVMzFVR3hoSlJpV000OGVaUExmRGNSSGRWQWI2T3ltbjNTN2dFekwyZ0w?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bb83fa7002a90e130e",
+      "date": "2026-11-06",
+      "title": "Komunikaty ESPI dla ELEKTROTI[ELT]",
+      "title_pl": "Komunikaty ESPI dla ELEKTROTI[ELT]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGZIdVJJUGp5TjV5WEVsZHFJNVJjZE1PMEVWY2J6cFNfU1R4NGdLTmFZZXp3dUttal9VOExkM3BzQzhTWkhHdFVrMXVDTDFKZGNaNWlfeGFVOHFiVURvUjFUN2gySXZldWtUMUtPZlAxU3gyci1OcVV2WHdhSENjS0U5Zmo5RVFH?oc=5",
           "type": "press"
         }
       ],
@@ -854,7 +941,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -1012,6 +1099,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a44e64c5bb9feebfcd",
+      "date": "2026-11-06",
+      "title": "Projekt RTB PV+BESS, województwo opolskie",
+      "title_pl": "Projekt RTB PV+BESS, województwo opolskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JTGsyZFk2eFBIUGItM1UyWjJnQXM5M2ZsejRmbXBxSVJQSDE3U0hWVEMtX1hkV3ZSM2RtNmlpTUlWd0MtZFlVeU5QYzlzNjlPQzdELV9EZnY4QWZaSDJBVjliQVp2QUk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1666,7 +1782,7 @@
       "links": [
         {
           "label": "Energy — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcDB3MGE4ZDRpd2Q5MXBsQ0R4anp5VjN2Wm1xVVo3MU9KeDVFeUJSSE5idnJGMDk3QXZEOUFRTVFVLTlZb3ZneXRoT3pvQTh3VG1hVUR4R1dFOG5CNDVtd2JxVlhlZHhrTGs0Ym1UbThOZDlhRXE0ejNsZENmSG5ObGdkbENLczFid3Zxak15STdZNDljRzhHeDg3aEFKRWhXYTRzdlkxRDRYam52MmJ4RUlLM0pFeHdUZldNR3ZGWHpoQU9LT1FFYmM1QmdBY250WjRQMWdiWktkMEtHSGVVcmVFX0hiQVVjVmtTYXJTUk8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXN6dEktQzFpRUgxdWJldm54Y2tYR1NnNWE3SHhTSVB6aDhEQnkzWjFyUFcxX2hENUtVZXIxNW5BSkxuMENZT01BamNkQi10MFRvS3g2NkhTb2VzSEFIUFUtMXVDbXE5RkhkNGtsbGlWblBEdmZBWkIzMm9RZXUzZ2RXWlRQamtKU3ltaFhSTGoybkN2MmZPNVl5MG0tbmloR1FoTDFqOHl0VFVuQk5IckZQX3VuR0JHVVl4Z1pwOWE0ZjdoaEtaTG8zNWpUSnI0Q2hiUi1Td3d1aU92MHJFcA?oc=5",
           "type": "official"
         }
       ],
@@ -2119,6 +2235,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4577ce22b96144e54f",
+      "date": "2026-11-06",
+      "title": "dostawa magazynu gazu ziemnego CNG - 1500 kg gazu netto.",
+      "title_pl": "dostawa magazynu gazu ziemnego CNG - 1500 kg gazu netto.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Instytut Energetyki - Państwowy Instytut Badawczy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3c21-341e-e781-c1c5-d5000193df38",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-351357a92c71516173",
       "date": "2026-11-06",
       "title": "Morskie farmy wiatrowe Bałtyk 2 i 3 z gotową bazą w Łebie",
@@ -2467,6 +2612,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-21de6af6c244b9124d",
+      "date": "2026-11-06",
+      "title": "Projekty farm PV – elektrownia o mocy 1 MW – Kluczbork",
+      "title_pl": "Projekty farm PV – elektrownia o mocy 1 MW – Kluczbork",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0teGRJNm5XWTlFd3hIVjBWaTM5aEpHazVkaG41U0g1c01yVVMwVThLOFBJM1lROTc3V09VcjNTczYyZ1RxNTU4eE5jQ2JFSGk2cFlBdVVRTkhsSDBKenRGSkJ6OXRmMk0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-215813f3a8a350aa80",
       "date": "2026-11-06",
       "title": "Formularz zgody na korespondencje elektroniczną w tym eFakturę",
@@ -2810,6 +2984,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fcb900bc713e24437e",
+      "date": "2026-11-05",
+      "title": "Instalacja PV 2MW przystapi do spółdzielni energetycznej",
+      "title_pl": "Instalacja PV 2MW przystapi do spółdzielni energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFo2LU4tYVlPSlM1ZmYwMEIwV0l0M1k1ZzR6VGE1UlBxZFRDaDQxZC1IY2IxTmUtdDRiVXVwcnBfWG92YVFsbU9tTVA4MnJuU0c1VmxUYWxRNDV5eC1CX053WVpxVTFRV216dEhveGE0bnNmUnVyaUs4WEJOX1ItOXlETDV1MzBMYlVSY2wxRm9lVXBTaEFDX2FiaEU1YjY0UGtwU1RtbkxnM1pJLXRhenBDYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3857,6 +4060,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b1216871986125c7b5",
+      "date": "2026-11-05",
+      "title": "Usługi środowiskowe dla farm PV, wiatru i BESS",
+      "title_pl": "Usługi środowiskowe dla farm PV, wiatru i BESS",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzJsX3g1T2k2ZC1mNVJZeG5QekxDaWVNU2NpMHRTU0c3MTRaWURjTDZTTzkxazBQS1NRUDFVWVBhQWVTUTNnV01Hckpta2FRVEJrX2UxUnhEdWxmTS1pNS1NUll2UjJZVjltb3BxaU1ZOWc3RDFOWThSZERwWVg1WEpWNDAwM1hVY2xXUFVGSFZmNVJBSmg1OGVFTVBHX09wNGQyYg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ae2406244055f93b3d",
@@ -6759,6 +6991,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-0415e0bebde4b87d5c",
+      "date": "2026-11-05",
+      "title": "RTB – BESS + PV",
+      "title_pl": "RTB – BESS + PV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lbGhLcXZGUWZqdGlyVVQzNVV0YlFJVGdrNUhub0JXRzNHc1RfSUhCeEpaeU9GclRSU2FNUnVWWUp2b29fbEd3WWp4UlJGZVBHV01EZzBPYjUxanFmclNqb2RLd2E3MXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-006aaf1db59f37b0f4",
