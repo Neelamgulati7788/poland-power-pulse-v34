@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:16:50+00:00",
+  "updated": "2026-11-06T23:15:43+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -232,6 +232,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-eb608c555033c8c033",
+      "date": "2026-11-06",
+      "title": "Przemysł dostanie nawet 100 proc. dotacji na OZE. To był gorący tydzień w energetyce",
+      "title_pl": "Przemysł dostanie nawet 100 proc. dotacji na OZE. To był gorący tydzień w energetyce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONURBWWJBME1PdFp3Q0hlZ050M1JDNlNLQVpJUTVKaWtRMXl5N01nWjhBd21Dc0NsWDhkVlN4UERpb0FBWlVGRDRWNXpwSWFBc2hhY0o3QkxTNUs3N1ZzcHZJakZJcUx5SFlhMlZsTFhtZVM2NHZHMTlBS3VBWnFRVjVrMndwM19idzZZQzE3RnFxcjZQbXdPUjVSdTBBc3RPS2JRY3RfUURKc2ZrakZ3TDB4R2NvMWpDV20weldTaXNXOTFW?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-eae4854c5c079253a3",
@@ -1203,7 +1232,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LXU4UXppUEhHazFmLTJIZWtEN2kzSHFZV0h5UnR5N2toX05TNXhjN2RXa2drNlBRUXNNNWNkQWJfaFdDVzFfVEJfYUo3VXVSeFEyd2ROSWRhSElBRi1xbGEyQ3pGdzlZTER2Sw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uakQ2RzRyR0VaaUJ6MTA4dFpSZmRyVjAtR1NsZ1kzYlVrY002UkVWb3lzSnZvNG1MREZiTTBlb2lDcGtxLXVOSGhHdGNsTDVYNnkydEN2eWJDX2lMWTA0NkRodkwzbjQ3OWZVZQ?oc=5",
           "type": "press"
         }
       ],
@@ -1551,7 +1580,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONG4tVzZDcHRjRzNhNUFpeWRMZWtmQ3JNZWxBSDBPZGk4Qi0waGw2M2RFWkJVOTIwaGY5cldZNWpLQ2NXaEl4SnBMT3Vxbm52dl9LRlNEWkdIV3JEMUdNNFp2czUtbXNFMmdyZnFzSHZRVDVHaElRaDFaelFVM0ZZZTRUU3MyUUw5aE9zOXRZUUpoWUk2RE5lOGJIRFprMFg5dHBhRDhWQ3ZKUG1ZNDlPUkV4LTVRRkVTaGc4UmxFenF0em84VkVQbTU5Uy1zNVM1Mnp0V1dB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbndrVExGLVROdW5XSXdjM0Y5TTQ1Sk1XUmtoYVMzVGsyRzE2X3c5d2xoRWxoSkhrSjBIM2d1ckcyWUhzR0RnTjJJMkdrQUJMdUpHRnpGZy1jbzJRbk1fWjBhbVN4S0F1VFQzSkVWckdsbTRPTGpHdHhwa3RlQUptVXlIOHc5dms2Z1k4bmVjMXJ4VTd1ZEF0OGlrc04xb0NlSUR1VVRZUHpLREV0SG9RVEdyMGxPMXBEbU8zZHlmY01XeEhI?oc=5",
           "type": "press"
         }
       ],
@@ -2289,6 +2318,35 @@
       "reviewed": false,
       "sourceIds": [
         "54"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-726773a3f131dfc03f",
+      "date": "2026-11-06",
+      "title": "Nowa energia dla Pruszkowa",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN Termika — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ETFRRSnJpQ2M0c1dGT2d1REdiU2cwNFlsbXdaaTdXUEhiZk1WYkRHaUdRMmZGNTJPcnN6RVJZZjJEdUVvZGFZTWQ2MU80N2VwT3lWUUdVaHJPbG1CbnZJaWtR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ORLEN Termika",
+      "publisherUrl": "https://termika.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3043,6 +3101,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2d97dd9f6b79a63c00",
+      "date": "2026-11-06",
+      "title": "W czerwcu 2027 Gdańsk będzie gospodarzem wydarzenia Schneider Electric Tech World Europe 2027",
+      "title_pl": "W czerwcu 2027 Gdańsk będzie gospodarzem wydarzenia Schneider Electric Tech World Europe 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbFN1RHhiWExYUlBWenp1V3JJLVVna0p3dDYtRnZMekdRb2dKZlhTVDNwX3kxMU41am45LXcxdGlRb0hKbnJvZG9zcTNMeWlFNC1hTHIxc19LMnhMc013TFptZFNJSmYwU19rSXBFYmNFbC1KMWhmLS1GWnpCc1FlY0M5eDZZNjNRYnFENklsb3RQVEd3aHpSZjlJNVY4ZzBIb3Uxa1hmLXRfY0JnTGZmc0M2djJnNGFUUFBUbVNZMmllWG1Kb3ZmUVBmS3lySDBlVXBQN1RyYjN4Q3ltWjNRZTNsUHV0TlZMVjRHSkVaTHRKUXp2Vm13X3lxcjR0VlUyb3ZkQ25HRWtKUmM4ODBOMG1sNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
