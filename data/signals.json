@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T14:43:11+00:00",
+  "updated": "2026-11-07T15:39:32+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -246,6 +246,64 @@
         {
           "label": "Energetyka24.com — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFhINVJfUkxOUlZZdGZzbjlBNkx1OW9xSHZPaGRRU3htcGNNdk1hWm0waDFmME9KSEhJRXE4VWlpSmRlU0hyeGY1TmV5ZEw1R3ctemJQdEJmbkE3VGU0dEdQblJxMlczdm9uT2dFekJHRmRfbERHNUp5MENIdTRic0pQY2EwTXNUQnE3YVhGOUhDaWZLMUtfeGZSMjlNS2oyb2xDYk92aERfMVZxTFVwVkt2Tkpqay1mSk14d3d6am1Mb0k1RFY0ZUdrUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d6813d6169346429dd",
+      "date": "2026-11-07",
+      "title": "Problemy w chińskich kopalniach zwiększyły import węgla. W miksie jego udział spada",
+      "title_pl": "Problemy w chińskich kopalniach zwiększyły import węgla. W miksie jego udział spada",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVNkRFpYcGlEV2ZkQmQ5eW4tYmx1Sm15alNsZVp4TzlCV3BYMlVPZHFQVGVnTC05YWFVTEJZM1BCR1VRUTJlVVhjcE44UnJOanFxcE0tdHJ1OHl0RVB2YXdEdUM5R0hDdUExc29MUlNKZ3RiOWNCRWUzZ1A4dGV0V3doSFZkbFY0cEFxczBMbDB5OGhEc3EtRXB4UWVUcFNaYkRIVWNVWFd1N1A1MURiT2d0R3E4V0trWVduVkZCcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d656488bf2580f3380",
+      "date": "2026-11-07",
+      "title": "Dlaczego wojsko opiniuje inwestycje energetyczne? Bezpieczeństwo ponad planowaniem",
+      "title_pl": "Dlaczego wojsko opiniuje inwestycje energetyczne? Bezpieczeństwo ponad planowaniem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWhHckQ1SS1EWUNESmU5VFN3T3VkZEJSNVdZOWE3aV9xSUtWSHhqUU1udl9xMHpVd3ZOLWJYMkEzaHo4a2xYeVl0M0dNMlp0cnF4Z0pwMmZ1YlZUN1BEQm50aEY5S0lkbnh6Vkh1MWk2Z3ExVkNSVUZUT0hkVXE4WUpqWFhpcmJVWXd2cUFHaER3T1l2R0w2cFZkMnc5VzBoVGs2NGlXSnoxcW1oS1NZdS0zYkRLTzdVYkpZZjln?oc=5",
           "type": "press"
         }
       ],
@@ -582,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2e31258e3d8fb7cb2d",
+      "date": "2026-11-07",
+      "title": "Kompleksowa dostawa paliwa gazowego wraz z usługą dystrybucji na okres 01.01.2027-31.12.2027.",
+      "title_pl": "Kompleksowa dostawa paliwa gazowego wraz z usługą dystrybucji na okres 01.01.2027-31.12.2027.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SZKOŁA PODSTAWOWA IM. UNICEF W GRABOWIE NAD PROSNĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ce2-5f26-3b71-c1c5-d5000193e00c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-07241bf25a1e3bc847",
       "date": "2026-11-07",
       "title": "Magazyny energii. Kto napędza technologiczną transformację u największych dystrybutorów prądu?",
@@ -709,7 +796,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ1Sk9DT0doNS12bXdlajF4Uk1taVJFVXlJbVRBN29LQ052Qk1FeEhlY0YyVUROMXdjdGt1a1AyZllWSDlFM0VRUDE2b1d6cjBNOWs2bnZEY2FjWkZVSGxDSzhxOUY2SHBwVXZXNnFha2dNTE9Qa1A4V2tTcVQ0Zlh5Ty1KaHFRNVBERGFhazBtNDBfcVBKU3Y2dkZNSHpfVDMwLTZYV0dJbUlmYTAycmZnYVdRUHlhb0xNaE1sT2wwYURWTGptaFRJM2VxUkVhQnRlcUxUVTdZbHpwWDBF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2J0bi1ySGFEU2xSODAyZ2lMQ0NLSy1KQUxvX3NCSXdSdG9qcHdtNjNWNGNJaDJhdURwZVR4Z2dORElBeTE3Ri1GSFU5TGxPWmFSZHZMZW5zVHdBN21hZTJEelYyN21samZsVEt5UzhOSEZfQUtWSnd0Y01TaHR2QjZTLUlTS1hpd1owSkd3VHh2RlFPM19Semc5clVyOVEtS1RUR0FHbzdEQVVTX1g4TFRB?oc=5",
           "type": "official"
         }
       ],
@@ -1434,7 +1521,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWdlRGJHR3QwZXdibk1JNEFDXzBTS0N2UFpra0daM3dWQTNidERTNEdoQVBBNXNIbGYwWW5wcVZka1hpYW5ENUUtYm11bnNsRDcwbWlJME55VkFqTGNBRk80Qk9ERXM2N1hpaWJQTllLbDVBQ0k5MFV0TkNmZW5OdlZqc3Vuc2sxMlctb0pDeXBZTURrLTRlRlZIOV9pck1aTUYxZGZzTTlOV0VfTmM3Q25jUDloOVg1SnBYSUhnRVlwcXJIS2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcmxyS0RhQ0ZMT2M3OWM2eG9mSldFRFlwXzV3R0lkcUVmVlNUdnJfR1BYTDVBU3hfXzB6SHByQjdIRTlTQUhNa1ZFd1NJeXhXT2VxMjNnOW8yYm81eHdrUXBlOXpzLTFKZkY1ejRaM3drZmtqT01laHg0bTRBYjB0aTc2dVZkdkpob3Y1S2pDM3MxOTRPTm03b2FrYTNRNUNOTmJnNDFFMFFyR1VZS3VUY1Z5SWEtMDl4ZVJoM3JqY05Ibnd1bE5vbTFUWkY4UThYU3A4X0xEQQ?oc=5",
           "type": "press"
         }
       ],
@@ -1899,7 +1986,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -6685,7 +6772,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2dGSDRFbGFfZ2xqRk8zemEwNFViOXlnRkZraEhZTjAzWFh0TVZCa1MzeGpRR3E2RF9NZkE5SVNVV1BHbEQwd2NhQ09WUDYyMVJhcEl1blRWWmpMOS04NGN6QnRuTjQtY0RVZVRUTW51ME5selJGOUo5M21hTzdiMnZrc0tQOG40eldPa2NnazZhdVlENUZVNG9ReEp1VnJJMW9NNFI0c3M1TzkxMFNKVEp0bFJqWWFfZ3FZb3RsUlJJbGtsLXV4SnRMOWhCN1FL?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUURia3FDYmJCYkx1bHRUTkFEOHU2V0xuTWN2bnZoLUFJdUpmWHo0ejJqWW9mUm1CUnVkeXB0cy1YSzA1Nl92c1JvVWNyeVhXVjI4THJQU2x5RjZoaHg2VVVOazdjY2xxbkI4dDVyczJSNG1sWEZqUjcxLS1yUmpxSVVzMUNmYTVIdy1DX001QmdXRURyVzlkNWJWbnhRT0FSZkVxWHJUd2FFejV2R0FadV9kV3d3M1BHUGhielY3QQ?oc=5",
           "type": "press"
         }
       ],
