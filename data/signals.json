@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:51:43+00:00",
+  "updated": "2026-11-07T14:43:11+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -290,6 +290,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ccceab97c6d7d7c0cc",
+      "date": "2026-11-07",
+      "title": "Orlen zarobił 5,6 mld zł w III kwartale i podtrzymuje tempo inwestycji",
+      "title_pl": "Orlen zarobił 5,6 mld zł w III kwartale i podtrzymuje tempo inwestycji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polski koncern wiąże program CPN z najniższymi cenami paliw w UE i zapewnia, że jest przygotowany na zimę.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/orlen-zarobil-56-mld-zl-w-iii-kwartale-i-podtrzymuje-tempo-inwestycji/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-c1b692332bc0126238",
@@ -680,7 +709,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2J0bi1ySGFEU2xSODAyZ2lMQ0NLSy1KQUxvX3NCSXdSdG9qcHdtNjNWNGNJaDJhdURwZVR4Z2dORElBeTE3Ri1GSFU5TGxPWmFSZHZMZW5zVHdBN21hZTJEelYyN21samZsVEt5UzhOSEZfQUtWSnd0Y01TaHR2QjZTLUlTS1hpd1owSkd3VHh2RlFPM19Semc5clVyOVEtS1RUR0FHbzdEQVVTX1g4TFRB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ1Sk9DT0doNS12bXdlajF4Uk1taVJFVXlJbVRBN29LQ052Qk1FeEhlY0YyVUROMXdjdGt1a1AyZllWSDlFM0VRUDE2b1d6cjBNOWs2bnZEY2FjWkZVSGxDSzhxOUY2SHBwVXZXNnFha2dNTE9Qa1A4V2tTcVQ0Zlh5Ty1KaHFRNVBERGFhazBtNDBfcVBKU3Y2dkZNSHpfVDMwLTZYV0dJbUlmYTAycmZnYVdRUHlhb0xNaE1sT2wwYURWTGptaFRJM2VxUkVhQnRlcUxUVTdZbHpwWDBF?oc=5",
           "type": "official"
         }
       ],
@@ -4324,6 +4353,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1525b65a812a8d4e5f",
+      "date": "2026-11-06",
+      "title": "ME planuje zagwarantowanie w '27 maksymalnej ceny gazu m.in. dla gospodarstw domowych",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEN1bTFGU200ZjFjLWlmeVF3MlhaOVVUdXR4ZWlZbzcxb0hQT1dNN3JybTVkT0tPREMyMFlUYlMzSFpfLWcyZnVPT0psYkVjMEpzT0RuSi1KQWxjYzFNdzlScl9JSW5YZ2VvX3IzVTMza2hBNXBVOXZHTmRfQ1czb2hzOGl1b1Y4UUFEVXZKeGdadENPX2pSclNIUTI5VzFnQkdkTDlkRGZtM05CM2h5MVcyd1RsZUY5V200VDl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-12a303b4aeb70618eb",
       "date": "2026-11-06",
       "title": "Ukraina: Zełenski: Rosja szykuje kolejny atak na infrastrukturę energetyczną i mosty na Dnieprze",
@@ -6627,7 +6685,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUURia3FDYmJCYkx1bHRUTkFEOHU2V0xuTWN2bnZoLUFJdUpmWHo0ejJqWW9mUm1CUnVkeXB0cy1YSzA1Nl92c1JvVWNyeVhXVjI4THJQU2x5RjZoaHg2VVVOazdjY2xxbkI4dDVyczJSNG1sWEZqUjcxLS1yUmpxSVVzMUNmYTVIdy1DX001QmdXRURyVzlkNWJWbnhRT0FSZkVxWHJUd2FFejV2R0FadV9kV3d3M1BHUGhielY3QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2dGSDRFbGFfZ2xqRk8zemEwNFViOXlnRkZraEhZTjAzWFh0TVZCa1MzeGpRR3E2RF9NZkE5SVNVV1BHbEQwd2NhQ09WUDYyMVJhcEl1blRWWmpMOS04NGN6QnRuTjQtY0RVZVRUTW51ME5selJGOUo5M21hTzdiMnZrc0tQOG40eldPa2NnazZhdVlENUZVNG9ReEp1VnJJMW9NNFI0c3M1TzkxMFNKVEp0bFJqWWFfZ3FZb3RsUlJJbGtsLXV4SnRMOWhCN1FL?oc=5",
           "type": "press"
         }
       ],
