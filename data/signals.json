@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:41:49+00:00",
+  "updated": "2026-11-07T17:37:38+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -229,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d8398950768b475e1f",
+      "date": "2026-11-07",
+      "title": "PGE",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBodldlcWlWNU5wSWp1SWZDeVpKd1J6MWVsOGx0QVBoWFI3T3EzeG9XQ3hjdjdBU08xN3hMRzFrc1N3RzlhZVVvZkxoRkJoaUtsTS1WQVNvY2JFdU1nYnlxTw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -621,7 +650,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkl0YjRxVUxxMklpSC1HTEpZR2pyLU9SVXIxXzVrSGhGY2xwSjMyR19TMFlIZXhwRmVfaEJjRzBLcjQwc2ZTejR4S3JRVVVtcFVXM3N2RWNMa0haME9VQVE2ZWI4RlVjX1B2LWs2Z1R3bjV3VU5ydWhoSDg1YVRJN0s4bGh5X1ZXWjBWVmZmY3pwTGRaUWUwelFxOU1lQVNEazJVTWNrQ3p0cGRWcFFUU19TWXcxZw?oc=5",
           "type": "press"
         }
@@ -629,7 +658,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -667,6 +696,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-277d9783ac5e0e0b51",
+      "date": "2026-11-07",
+      "title": "OZE biją rekord w Wielkiej Brytanii. Ponad połowa prądu z czystej energii",
+      "title_pl": "OZE biją rekord w Wielkiej Brytanii. Ponad połowa prądu z czystej energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXZObURneWZmblR5YXlFWC1FcDRLZTlGdlNkSjlJSHpyeVhjUHkyNmJVUThBVUxTQkotcXI1N0F5UjJfY3E5SUZfVm52MFNPQ3dFdVhmZXhhT0k0d1NjSU5fZkNDT0FFRXduT1lHa0pQVThaMWV0MVpobzQ2cElfYmJVYjdzejJaYnJSQ2k1TVktZTQ1WjNxNDljSlMxUjJrWmFDbjdid25KWE5neWV1aThn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-07241bf25a1e3bc847",
@@ -796,7 +854,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ1Sk9DT0doNS12bXdlajF4Uk1taVJFVXlJbVRBN29LQ052Qk1FeEhlY0YyVUROMXdjdGt1a1AyZllWSDlFM0VRUDE2b1d6cjBNOWs2bnZEY2FjWkZVSGxDSzhxOUY2SHBwVXZXNnFha2dNTE9Qa1A4V2tTcVQ0Zlh5Ty1KaHFRNVBERGFhazBtNDBfcVBKU3Y2dkZNSHpfVDMwLTZYV0dJbUlmYTAycmZnYVdRUHlhb0xNaE1sT2wwYURWTGptaFRJM2VxUkVhQnRlcUxUVTdZbHpwWDBF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2J0bi1ySGFEU2xSODAyZ2lMQ0NLSy1KQUxvX3NCSXdSdG9qcHdtNjNWNGNJaDJhdURwZVR4Z2dORElBeTE3Ri1GSFU5TGxPWmFSZHZMZW5zVHdBN21hZTJEelYyN21samZsVEt5UzhOSEZfQUtWSnd0Y01TaHR2QjZTLUlTS1hpd1owSkd3VHh2RlFPM19Semc5clVyOVEtS1RUR0FHbzdEQVVTX1g4TFRB?oc=5",
           "type": "official"
         }
       ],
@@ -1986,7 +2044,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -5581,7 +5639,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVpXdWY1TVFhWVE5UkVyVVRYSWhidlFjckxJSE4wVDNkQ3g1eFFXUHNRVWx5cGJ1Q1k2V0tKM3FiMjVwTkRFNTdLTzN0VlNHOHVmRkloc2NfQ1N0T0wtSDREaHBRZXZDYUxNQWt5QXR1aENSVlUwRGFRUzNJOWVhSmczbzdzZ1NDTHhid1NiMlZoSm9LSDZtR0M0eVNWeDlMcWdfNjFSMTJrM2dZ?oc=5",
           "type": "press"
         }
@@ -5589,7 +5647,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -8889,7 +8947,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDBpOW1KaENNaDZPRXVHZkJGUWpGbWw0LU04UklhT2lHT2VqeTNhVjRZV0Fwb1VaQ1ZadjY5UHRrWWpiSmxoV1hDOUpqb3dBR2FhUTVUUHA1aXZVbkttdk5ONHIycGZtSHFsbTUyZndWcXEzRzQtZUsweUo1Q0NDem9LenI0NjdJenRWV2FhRmNVcVZLYldGUi05U1lmN0VIRXJxNFRpLUcxSU1EWDFIMll2QVh3cE9wQ1NfUnBpcGFhRFdFZnhxaDN3WE9iZHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWhWRHBRdHFNdmdiMUFNUUJmd0I5Y0w2MXJmWl9WT0lBbnZMN3pGQm9aNlNkeXA3cElWeXJXY011eXNlYVo1ZUxXQXNEeGZmWVVreEhYbmZVUHVOemxyNEtYdnRjRWo1YmhtVFlMdm55VXdMVUUzbFBzNDNvaTY1YzRqQWp3WldDRVhPWHZLazJqaHYwV294Mm52elBtVm9rblBUNk1lWVh5UWJ0RUJmRHZsYUFNelR0dWhreDlua1JzMzg?oc=5",
           "type": "press"
         }
       ],
@@ -8897,7 +8955,7 @@
         "TAURON"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
