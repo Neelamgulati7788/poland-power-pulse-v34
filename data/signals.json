@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-07T09:47:31+00:00",
+  "updated": "2026-11-07T10:43:32+00:00",
   "signals": [
+    {
+      "id": "src-fe709de1cbaee7b639",
+      "date": "2026-11-07",
+      "title": "Pomocniczka/ Pomocnik elektromontera linii napowietrznych",
+      "title_pl": "Pomocniczka/ Pomocnik elektromontera linii napowietrznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PGE Dystrybucja — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDNmRHJwamU1YlZPeEhhMlFHZF9nR3YtNU5GZXFfZkRfTndBUDhwd0YySWFxRlI1RzhTVzdmZDlaTURwbDVYTHFDcnlodDJsclNKaWduOWo0UWc4VC1qVXFzYWI5c0oyY2xxWlFONG1IbTU3ckR1U3dId0llS3lnNFo0elQtUzF1ZXg4UmZONU45Ry1XM0tsbnp3dG1FTjdPb3c0S0gwX3lURi1zbzBMUnpR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PGE Dystrybucja",
+      "publisherUrl": "https://pgedystrybucja.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "16"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fd053475fbdcc509e8",
+      "date": "2026-11-07",
+      "title": "ZAOPATRZENIE POWIATU NYSKIEGO W ENERGIĘ ELEKTRYCZNĄ NA ROK 2027",
+      "title_pl": "ZAOPATRZENIE POWIATU NYSKIEGO W ENERGIĘ ELEKTRYCZNĄ NA ROK 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powiat Nyski",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3cb9-67a5-091f-c1c5-d5000193dfec",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fcd1fe5a9c7ba23010",
       "date": "2026-11-07",
@@ -80,6 +138,35 @@
       ],
       "publisher": "CIRE.pl",
       "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-baac4ac7a27acd0d20",
+      "date": "2026-11-07",
+      "title": "PGE Energia Odnawialna podpisała umowy na budowę czterech nowych magazynów energii",
+      "title_pl": "PGE Energia Odnawialna podpisała umowy na budowę czterech nowych magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmYwTERETENWVXVkaTUtM0Y1SUFVM2xMRndzZWR1RW1MTHkyV1dhMUNVdFVzYzBJWlg0U2tiV0d2RjJWX3hBU1F4YlJJLUNGclpoLVVwZ3ZwSzJYVnAzVWZfSFdYMFNaOXZtRVBmbGdmSXZ1cmJfaTRLOE1LVlFoZkllNVVDTkR2V21rZzhxcjZ4NmpVYWlQemp6S1h6N0YydXE3V054eUFYbHhaMGgzVXM0YjNHRjZNNGYxLTdjS3FxMDd3UGxpbjRrcDgxYkdpajNpTlNORXFZaHFqcHZxaHM0LVgtT3duVFVxVVdGVkRQNEUyM3FiNkJXLUhiN1pZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://inwestycje-i-innowacje-w-energetyce.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -1522,7 +1609,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
           "type": "press"
         }
       ],
