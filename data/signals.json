@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:52:52+00:00",
+  "updated": "2026-11-07T05:48:59+00:00",
   "signals": [
     {
       "id": "src-b04d6531c56dc47a4e",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-59b1e16487fa77cad0",
+      "date": "2026-11-07",
+      "title": "Afera w Ostrołęce, przyszłość atomu i fala wyników spółek. Czym żyła energetyka w tym tygodniu?",
+      "title_pl": "Afera w Ostrołęce, przyszłość atomu i fala wyników spółek. Czym żyła energetyka w tym tygodniu?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRTdXMlgzZUZKbFZfdjUwWkFyQVdJU2dDYmMzQ3pkYjhIblZuS0R0WmdSOWdPSU9qdXh5Q3dDdTZxUE9Bb0FzNW5jTkxzbmlvYjRRYTFqaXZPRTJ6a3pBM2YwbWtmWHUtQTlvNXRQS2JlYzF1UGFweTdQRVRUVXB0X3hqTkZtZ2NhR1BFSXkzUHlFdnhWWVBQWTg1TER4WlNwa1pSMlBqcEZsYmNfeWREXzY1WkhMNVJoLXo2Y1dmZGR2N3dDcXNYVC1CdnFYNGJpajlQeTg5d0xSaW5KWW4w?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4ccd897e77596dbe5a",
+      "date": "2026-11-07",
+      "title": "Panika i zaskoczenie na rynkach, a świat wraca do podwyżek stóp",
+      "title_pl": "Panika i zaskoczenie na rynkach, a świat wraca do podwyżek stóp",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W tym tygodniu rynki dostały kilka mocnych sygnałów ostrzegawczych. Polityczne trzęsienie ziemi w USA wywołało panikę wśród inwestorów, inflacja ponownie przyspiesza, a banki centralne na świecie coraz śmielej sięgają po podwyżki stóp procentowych. Podczas gdy RPP pozostaje niewzruszona, Polska gospodarka wysyła mieszane sygnały: płace rosną,…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Panika-i-zaskoczenie-na-rynkach-a-swiat-wraca-do-podwyzek-stop-9223540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -270,11 +328,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "O dostawach rosyjskiego gazu ziemnego do Iranu i budowie gazociągów łączących oba kraje rozmawiali w czwartek w Moskwie przywódca Rosji Władimir Putin i szef irańskich służb bezpieczeństwa Mohsen Rezaei – poinformował Reuters, powołując się na rosyjską agencję prasową Interfax i źródła irańskie.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Moskwa-i-Teheran-planuja-gazowa-wspolprace-Chodzi-o-nowe-gazociagi-9224586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlhYTkNIejUyYkx2NE1vQnRrN2hzd0EwOGp4YVBsNjJMRHNOLS1WVHo3WWM4V1ZfRDFUTjBwSVhCTlUzQkc2d0dtVF9VQUY2UUtTNzZlaGc0SHhZZDQ0X2Fob1diek5pLWNSRFRCSWw3WU11cDVUQnh6TUNZSmJmSjNCbVdFTk9STHc4OEdjSFpTaHpDR3RyeElLdjRkdmJ2MndEeV9jd2lkRWQxd0FFMUZn?oc=5",
           "type": "press"
         }
       ],
@@ -288,8 +346,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-eb608c555033c8c033",
@@ -1319,7 +1377,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
           "type": "press"
         }
       ],
