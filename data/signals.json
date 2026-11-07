@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:43:19+00:00",
+  "updated": "2026-11-07T20:39:03+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -809,6 +809,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1943376ad6e128d28e",
+      "date": "2026-11-07",
+      "title": "Re: PKN Dlaczego Aramco chce opuścić Orlen",
+      "title_pl": "Re: PKN Dlaczego Aramco chce opuścić Orlen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnA3bEVQU01UbGJzVTlGSDltLUt4cDhaZ0hsa0N0RHNMYXd1eUlLSUJuZVMtcklSMDFrdEFSbXNDZ2xWeXpFcUhLbjFxcGM1alNEOFZ5TDFmbU9YcnhHVU54VVlJQmRjU2d0N3JLY2l2dVhqZkJGS2ZMTTc5OU5KSXV3M01kYTQ4ck5TQWN1a0xad3ZP?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
