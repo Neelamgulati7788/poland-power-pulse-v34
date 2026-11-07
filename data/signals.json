@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T02:50:40+00:00",
+  "updated": "2026-11-07T03:50:17+00:00",
   "signals": [
     {
       "id": "src-b04d6531c56dc47a4e",
@@ -5799,6 +5799,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8a992ce3d60e2ead10",
+      "date": "2026-11-05",
+      "title": "Polskie Sieci Elektroenergetyczne S.A.",
+      "title_pl": "Polskie Sieci Elektroenergetyczne S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQlRUX05FZllYVFA0bm9MOTk1RnRwNXJ1UlpPZ3dCVEpCV09kM2c1Qko0T21tLUZ4NXZKUnhnSmdwY2FsZUc0Qnc0aVBMb1BsNkU0ZlAwM29SWVhaTWlRRm56QnJadl9JbmdKWGtqQWlwbk5UVzIzdldqaDdobkpOSHNKS1d3TWk4X2VzRDByUlhTaUQ5UmQtaURDTmF6MVdpTDBtRXExN1FObXd5LVBma1JZM2VldTZDNGpjejFQVE5ka2NJcDZ3SUdrWE1hUG04N1RzVHNVOWkwQ1pDa2ZZcFdicFVZOWRCZ0RQRU9VMkcydkwwRGhiUWJsTzZGN0xQRHpKcXpDWkVwRDBXUXhzWTJaeGdKcDNEVFlBTE9OV2hpWmVSRVplWHRIdWVIWDVDNjBRN0lLQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
