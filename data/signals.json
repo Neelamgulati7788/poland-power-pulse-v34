@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:50:31+00:00",
+  "updated": "2026-11-07T13:51:43+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -89,6 +89,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f9a8eca6b831f7a4b3",
+      "date": "2026-11-07",
+      "title": "Inflacja w OECD przyspiesza. Energia podnosi koszty",
+      "title_pl": "Inflacja w OECD przyspiesza. Energia podnosi koszty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Roczna dynamika cen wzrosła we wrześniu do 4,5 proc. Stabilna inflacja bazowa wskazuje jednak, że presja nie obejmuje na razie w równym stopniu całej gospodarki.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/inflacja-w-oecd-przyspiesza-energia-podnosi-koszty/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-ef31b19b34df4206ef",
+      "date": "2026-11-07",
+      "title": "Boom na AI ma swoją cenę. Amerykanie buntują się przeciwko centrom danych",
+      "title_pl": "Boom na AI ma swoją cenę. Amerykanie buntują się przeciwko centrom danych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Spór o centra danych, kluczowe dla rewolucji AI, stał się ważnym tematem kampanii przed wyborami środka kadencji i wyborami lokalnymi w USA. Dyskusje o nich trwają zarówno w małych miejscowościach, jak i w metropoliach. Przeciwnicy budowy centrów argumentują, że inwestycje te podnoszą ceny energii, niszczą…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Boom-na-AI-ma-swoja-cene-Amerykanie-buntuja-sie-przeciwko-centrom-danych-9222065.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-ee17db35f3ec05b6f9",
       "date": "2026-11-07",
       "title": "Pierwsze komentarze po prezentacji aktualizacji strategii PGE",
@@ -113,6 +171,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e1c8bbb16f65be9104",
+      "date": "2026-11-07",
+      "title": "Chiny reagują na nowe opłaty UE. Tanie paczki będą droższe",
+      "title_pl": "Chiny reagują na nowe opłaty UE. Tanie paczki będą droższe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Chińskie ministerstwo handlu wyraziło w czwartek zaniepokojenie nowymi unijnymi opłatami od przesyłek o niskiej wartości. Resort zaapelował do Unii Europejskiej o „rozważną” ocenę wpływu tych regulacji, aby nie szkodzić globalnej współpracy w sektorze handlu elektronicznego.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-nowe-oplaty-UE-Tanie-paczki-beda-drozsze-9224068.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-df36e17ae4f9a05ee0",
+      "date": "2026-11-07",
+      "title": "️CHINY, DZIŚ 70% KOPALNI MA STANAĆ WĘGLA KOKSOWEGO.(...) - Forum",
+      "title_pl": "️CHINY, DZIŚ 70% KOPALNI MA STANAĆ WĘGLA KOKSOWEGO.(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTgtckgtRTFlTk1Qd0t1a2xZd29xVWUxd0RqcXByMnZlQVBYd3o0alB1dWk3SE4tWDlMRTN0dnNOM21TMEcwSEJxRlN1MWFzVDBQWUhyQ0J6RGVrY25MT05aRDhaMDFjOTVTNEtvUHRFQjhWZ00yMloyMFFYNk9UQXh4VmZhNEd4RWpGMjhmejV4Z0QwY1Nob0JZbjIwcF9ZdDBsbnpKNjNLSExwMmFF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -6511,7 +6627,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2dGSDRFbGFfZ2xqRk8zemEwNFViOXlnRkZraEhZTjAzWFh0TVZCa1MzeGpRR3E2RF9NZkE5SVNVV1BHbEQwd2NhQ09WUDYyMVJhcEl1blRWWmpMOS04NGN6QnRuTjQtY0RVZVRUTW51ME5selJGOUo5M21hTzdiMnZrc0tQOG40eldPa2NnazZhdVlENUZVNG9ReEp1VnJJMW9NNFI0c3M1TzkxMFNKVEp0bFJqWWFfZ3FZb3RsUlJJbGtsLXV4SnRMOWhCN1FL?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUURia3FDYmJCYkx1bHRUTkFEOHU2V0xuTWN2bnZoLUFJdUpmWHo0ejJqWW9mUm1CUnVkeXB0cy1YSzA1Nl92c1JvVWNyeVhXVjI4THJQU2x5RjZoaHg2VVVOazdjY2xxbkI4dDVyczJSNG1sWEZqUjcxLS1yUmpxSVVzMUNmYTVIdy1DX001QmdXRURyVzlkNWJWbnhRT0FSZkVxWHJUd2FFejV2R0FadV9kV3d3M1BHUGhielY3QQ?oc=5",
           "type": "press"
         }
       ],
@@ -7903,7 +8019,7 @@
       "links": [
         {
           "label": "ORLEN — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU1B5WUFqVHNFOXFiaG9DVGRvYnVfYmtwZ1BGUWxUU2NSSk5wc3RsVTBoNWUzUFVHaFJiS3VnYWhTUUUwQzQyVnF1UDNWMzJPeXh2T2dwQS15dmYxYzBWU2FiWFZWTkVvbklRbm45ZElocFNublFKZ0xqSk05YjAyYVRFWlJma2pzV2R4Qmo1azlJR2ZIa0RCU0JuTnBwSnQwbEZSbDR5ZG04V09McHhIYkE4WjlPRGU3S04tcjJ2cXAxY2tBWEQ3X0RzbGxKZnVfT3ZnSUxFMUpDS05OMUp3d2xxU2RGRjdzdjRj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObi1MY1BLM2VBMG1fTllHWVhGLVhuZjhrbGxidnhQXzIyajZkQ2o4T3c3VHN1MW9CQ3ZtbEtxcHdQN0N2Z001VGhrR21UbUt2VTZKbjFWMVVSZHRadWhkM3JGVjJmX0dxM25GZDZtUXpSVXg4LTdidThYSEc2RW8zbFBBbnlUWGJjSlNHbGplX1NWWmR5VkJOQVV2WmZaRVdWVDFFcldBYnYwM2JuZE5YY0ZBWVVURndOVmhISmFVQ1BkQ2JheXlycHNYUklkV2JOSnFNeA?oc=5",
           "type": "official"
         }
       ],
