@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:43:32+00:00",
+  "updated": "2026-11-07T11:40:46+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d7351c8a2c2e7991db",
+      "date": "2026-11-07",
+      "title": "Baterie, które magazynują ciepło. Nowa technologia szansą dla przemysłu i centrów danych",
+      "title_pl": "Baterie, które magazynują ciepło. Nowa technologia szansą dla przemysłu i centrów danych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFhINVJfUkxOUlZZdGZzbjlBNkx1OW9xSHZPaGRRU3htcGNNdk1hWm0waDFmME9KSEhJRXE4VWlpSmRlU0hyeGY1TmV5ZEw1R3ctemJQdEJmbkE3VGU0dEdQblJxMlczdm9uT2dFekJHRmRfbERHNUp5MENIdTRic0pQY2EwTXNUQnE3YVhGOUhDaWZLMUtfeGZSMjlNS2oyb2xDYk92aERfMVZxTFVwVkt2Tkpqay1mSk14d3d6am1Mb0k1RFY0ZUdrUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1609,7 +1638,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
