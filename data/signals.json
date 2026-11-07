@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:15:43+00:00",
+  "updated": "2026-11-07T00:10:55+00:00",
   "signals": [
     {
       "id": "src-fef5dd4e531247e2b6",
@@ -200,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-eccdb9dc6b92f1ffa2",
+      "date": "2026-11-06",
+      "title": "Pomocniczka/ Pomocnik elektromontera linii napowietrznych",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9sY1dEZTMxVC0xR1RnODRWN1R1RXdLVFR2UmlfNjNfNW1famNWYUhYMHdVQnB2ZmRkMUdLLWhJakRvMk5xbUhlYW5BNG0xSmJ5Nzl0NzFocVN5VmRHRTVhS0xsbnJVMEFxVUpaTnJzR1VCcnU5ZkwtUy02U3FTeC1LcFo4dDltNk5NbzZpUGJyeU5PcGc4WWZLNi02bHN6MlpRUQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1361,6 +1390,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-aaeae9a18d6e3088fe",
+      "date": "2026-11-06",
+      "title": "1 WYKAZ PODMIOTÓW ZLECAJACYCH ORLEN Paliwa Sp. z o.o. USŁUGI MAGAZYNOWANIA, PRZEŁADUNKU PALIW CIEKŁYCH, PRZESYŁANIA LUB DY",
+      "title_pl": "1 WYKAZ PODMIOTÓW ZLECAJACYCH ORLEN Paliwa Sp. z o.o. USŁUGI MAGAZYNOWANIA, PRZEŁADUNKU PALIW CIEKŁYCH, PRZESYŁANIA LUB DY",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN Paliwa — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPX2c0UU95Y1JmT0gxV3lNakxPWTY3QWhKMXltNzQ5Q09YdGdfX3RyWmRkaHFka3l1dXhramh2N1lvT3k2Y2w5T1RZWHlEckR0eFBScEZjUF9NUTAzNzdoZGxXdkZDWF9tMFA5djZETGJzbGxaZzZqMC1UbHA1MHNJdkcwSXY2eEc1VnRXUEhPT2YxUnJJSGtXRHotT09iV3BPai1ULV81bmpNUFg4M1otdHVLalU0ejhKZVZvcXo0MUxwazFoMFJGVzR5V3oxZGxNcVFGaElzZGQxdXVRSGN4eExBZ0RFZ3ZVMFNFU1VzdktkNE1qWGs3MUpmeE9PNXI0LUg4cQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN Paliwa",
+      "publisherUrl": "https://paliwa.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2988,6 +3046,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-3dfd275b7bf1e67829",
+      "date": "2026-11-06",
+      "title": "Kafarowanie konstrukcji PV",
+      "title_pl": "Kafarowanie konstrukcji PV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNUNSWUNsSVpKbHM2LUp4QWxEeHh2V1NXSDExbGV5UFBMaENpbVk5d3pRVk9ibzFuWF9fN2xSMTBEVDR0UnkydjF0a09KMWdTem5FSS1HWnJiYlVwQXBKMkxKdkl6Qjg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3cc0279aeb6a38c203",
@@ -4931,6 +5018,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b9defd017d3fe0d67d",
+      "date": "2026-11-05",
+      "title": "Opiniowanie wytycznych projektowych dla doboru ograniczników przepięć instalowanych do ochrony izolacji powłok kabli elektroenergetycznych",
+      "title_pl": "Opiniowanie wytycznych projektowych dla doboru ograniczników przepięć instalowanych do ochrony izolacji powłok kabli elektroenergetycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbjVDellkMV9abkJPRVRYVVRFdU5UdWMyYVRfQnp3ZmM1WlhETWxBQUtCTFM2WHk0aGtMM004VlFGaHJhRUk4ejlDWEZlU3U1ZU16aGlOdmYzQkIxQ24zZHpzWTZzc01mVEg5VnBaVWE4MWZOdEFQdGJ1bGg5SFgyZzNPV1hFdFhwbVM3c0w4c0Q2WmducnlDdzNMTHBBbDVtRUhPZzdrTUItaGJ6dm1pWVptZkRpTnNhMVhuSkdOS1lLZU5QZDJMelhfdmFMM2xjUGl6VkVGQ3Y3UE56SjFEZkI5TEl5cGt2SmtxU3pVa2Nlckg3MmlVQlJwS1VqRS1ZNTlHRkkyS1ZHQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b7e4fc7c380f8d49aa",
@@ -7858,6 +7974,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-083f67d9d0bdfd0482",
+      "date": "2026-11-05",
+      "title": "Energetyka24 - lista artykułów – strona 2885",
+      "title_pl": "Energetyka24 - lista artykułów – strona 2885",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MOWdFQW54Y2t0LVFOd1hsYjBQSGtTTGZULWRBRmo0ZEZGakt5WXdaYW5oMFFaNVlGLVBhMUh4QWxOeHZJU2piZFF5R1Bid2xFbFQtU1d4RS1VWTVtdzZiWk1PeGpyNG5JU0lkOHd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -11858,7 +12003,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JjRXhnMndqQ1FXQU9NdHpGSkFsZEw0OXVNSmY5Rk5GZld4Sm5iWE5fZ2poODA3ZUVYTngzZ2NTZDRuRG91YmJyei0wU05Cck9kb3Fhb3p3TkwzVWdhX3NpMVdmc3VLOXJBUDVPYnRDTkNxSlZQUlFCY3p4czBscU5iNnQ4VXhVSUVUTmt0enpMYkE0YXlPYnA5aVdtc1ZINVVqd1V6cE5FY2xITXhV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUVMNXI5cWdPWC1SenZENXpLbENBNV9fRmxlNlkxTVRkNng3My1TRUlLaHMydEtIWUdadk9ET2tIUmNHZ3hlb0lHRjNfaEtKZ0dyNUpuSGh0TFFUZWVoSUsxTTZyelFlVTR3M2ZXXzA2OGxJWDF2RDBZYlJTVjBZNm1nbGsxSUtBZXFCbkRhcUh6VTIzaXVqQl9wbnNlbm9sWGpSMktQQnNMNUk1VzFwWFhqcFByRFJ0RU1ibmlQcjI?oc=5",
           "type": "press"
         }
       ],
