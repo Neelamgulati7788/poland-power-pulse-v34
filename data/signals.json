@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T18:44:29+00:00",
+  "updated": "2026-11-07T19:43:19+00:00",
   "signals": [
     {
       "id": "src-fe709de1cbaee7b639",
@@ -941,7 +941,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ1Sk9DT0doNS12bXdlajF4Uk1taVJFVXlJbVRBN29LQ052Qk1FeEhlY0YyVUROMXdjdGt1a1AyZllWSDlFM0VRUDE2b1d6cjBNOWs2bnZEY2FjWkZVSGxDSzhxOUY2SHBwVXZXNnFha2dNTE9Qa1A4V2tTcVQ0Zlh5Ty1KaHFRNVBERGFhazBtNDBfcVBKU3Y2dkZNSHpfVDMwLTZYV0dJbUlmYTAycmZnYVdRUHlhb0xNaE1sT2wwYURWTGptaFRJM2VxUkVhQnRlcUxUVTdZbHpwWDBF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2J0bi1ySGFEU2xSODAyZ2lMQ0NLSy1KQUxvX3NCSXdSdG9qcHdtNjNWNGNJaDJhdURwZVR4Z2dORElBeTE3Ri1GSFU5TGxPWmFSZHZMZW5zVHdBN21hZTJEelYyN21samZsVEt5UzhOSEZfQUtWSnd0Y01TaHR2QjZTLUlTS1hpd1owSkd3VHh2RlFPM19Semc5clVyOVEtS1RUR0FHbzdEQVVTX1g4TFRB?oc=5",
           "type": "official"
         }
       ],
@@ -986,6 +986,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f5f8da2e26a35705ad",
+      "date": "2026-11-06",
+      "title": "Tauron podpisuje kluczowy kontrakt dotyczący nowego źródła w Łagiszy",
+      "title_pl": "Tauron podpisuje kluczowy kontrakt dotyczący nowego źródła w Łagiszy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUG9rbnpWTUd3Z0lXUXNwbnQycUNxT1V3YXZEQ3NPZnNwQ0xqRmFCcVFUTXVYMWNYNEJvSEppb2gzdGJoTG5ETnY4bE9Jc3UwS3BMNGZFTkxLM2hWZE52bmNYRDRuVDZMeXVQc0VZN1k1MUdtQXNTallOaDZLdEZyQmxfRDdBUDZLNlJTdDk1SV9nbzlmWnlZNzZtYzZZaERtNmRpZXFxNC1JemdGVlpqQ3pGZk9SbDZiZEZ0cHBsXzNXSkFqY3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://wodor.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-efb1d7d44c93de0b74",
