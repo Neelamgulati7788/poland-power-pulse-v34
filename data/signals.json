@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T05:48:59+00:00",
+  "updated": "2026-11-07T06:55:51+00:00",
   "signals": [
     {
       "id": "src-b04d6531c56dc47a4e",
@@ -3925,11 +3925,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins - podała Grupa Azoty w komunikacie prasowym. Wskazano, że decyzja przybliża grupę do rozwiązania kwestii inwestycji Polimery Police, a także otwiera drogę do finalizacji transakcji sprzedaży GA Polyolefins na rzecz Orlenu.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUZuLVlGNDdDSWNnRmtiTW5ZOU5GdER6Zmo0a3I0YXU5SU5xU1Q1N0hobERRaVJfclRCNHBoLUNpRk9BMGZzSGxjMkpUcTFtSUxrWUp0Q0FUQ2UzQlpoVFNQUWVBbVpLWVpfQlZ4MndYWkJDYWN4YzJGekJSZHVWMnZ5UG5XZm95bWtDcTFYR3VWVmJsQlgwRkxPVEN4MTNYc1hlUnZuRFRMdUdnUGZScHRrMFU1eTk2?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-Grupy-Azoty-Polyolefins-9225306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -3943,8 +3943,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-0ce6b93ff1dfef86e4",
