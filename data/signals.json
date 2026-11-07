@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T03:50:17+00:00",
+  "updated": "2026-11-07T04:52:52+00:00",
   "signals": [
     {
       "id": "src-b04d6531c56dc47a4e",
@@ -5163,6 +5163,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b1e50b17975683ec32",
+      "date": "2026-11-05",
+      "title": "Wolnostojące magazyny energii 800V",
+      "title_pl": "Wolnostojące magazyny energii 800V",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93aVhjZDgybWY1NFRUZDZiWEZCMXVOTXVPR1JPVVp1WVVmVFZzN0ZnbWtXdDdiRVhHU2pvY2FzS2pRQmpPWTc3cmxNSWpMb1Q3bFZzSVprQ3l6Y0JTbmJfd2dSZFBCXzQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b1216871986125c7b5",
