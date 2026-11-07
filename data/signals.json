@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:52:29+00:00",
+  "updated": "2026-11-07T09:47:31+00:00",
   "signals": [
     {
       "id": "src-fcd1fe5a9c7ba23010",
@@ -200,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-07241bf25a1e3bc847",
+      "date": "2026-11-07",
+      "title": "Magazyny energii. Kto napędza technologiczną transformację u największych dystrybutorów prądu?",
+      "title_pl": "Magazyny energii. Kto napędza technologiczną transformację u największych dystrybutorów prądu?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Artykuł sponsorowany Infrastruktura elektroenergetyczna i wyzwania systemowe Zastanawiasz się, jak to możliwe, że prąd w gniazdku ma zawsze właściwe parametry? Odpowiadają za to operatorzy systemu dystrybucyjnego (OSD), którzy zarządzają ruchem i pilnują fizycznych właściwości przesyłu. Ich zadaniem jest dbanie o to, by prądu nigdy nie…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122696-magazyny-energii-kto-napedza-technologiczna-transformacje-u-najwiekszych-dystrybutorow-pradu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
@@ -1493,7 +1522,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -2521,6 +2550,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7cf02e5c8fdaf08e65",
+      "date": "2026-11-06",
+      "title": "Energa po III kwartałach 2026, ponad 60 proc. mocy zainstalowanej pochodzi z OZE",
+      "title_pl": "Energa po III kwartałach 2026, ponad 60 proc. mocy zainstalowanej pochodzi z OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnlKUklkT1dsQTlJT3ZVTWVka3hveWM2Tl9qTnhBNnhTdEJaSlNsSngyUmdGQjRNa3NGMzRBLUhSQzQxMjZiN3VkQk5mSXJYZTJhdHJ6Vm9nc2lwNlZpaWtRTExuMEJPSlpQSjJVcVFhd1U4aF9xbFJOVGhvWWh2NFV6V2RSbXprLWNiWWxHaTFEVkR4SFdnVmdoNnFsR2xwWTJuX2NXSEdPUTJlSWpYN1B0Y1pCNHVjN1U4MVlGOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4041,11 +4099,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins - podała Grupa Azoty w komunikacie prasowym. Wskazano, że decyzja przybliża grupę do rozwiązania kwestii inwestycji Polimery Police, a także otwiera drogę do finalizacji transakcji sprzedaży GA Polyolefins na rzecz Orlenu.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-Grupy-Azoty-Polyolefins-9225306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUZuLVlGNDdDSWNnRmtiTW5ZOU5GdER6Zmo0a3I0YXU5SU5xU1Q1N0hobERRaVJfclRCNHBoLUNpRk9BMGZzSGxjMkpUcTFtSUxrWUp0Q0FUQ2UzQlpoVFNQUWVBbVpLWVpfQlZ4MndYWkJDYWN4YzJGekJSZHVWMnZ5UG5XZm95bWtDcTFYR3VWVmJsQlgwRkxPVEN4MTNYc1hlUnZuRFRMdUdnUGZScHRrMFU1eTk2?oc=5",
           "type": "press"
         }
       ],
@@ -4059,8 +4117,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0d374a93c93ee2169d",
