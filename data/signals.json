@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T08:01:41+00:00",
+  "updated": "2026-11-08T08:52:42+00:00",
   "signals": [
     {
       "id": "src-e5f673d50d502d5739",
@@ -2392,7 +2392,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
           "type": "press"
         }
       ],
@@ -3394,6 +3394,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-83fddb5773fa550ea7",
+      "date": "2026-11-06",
+      "title": "Obroni nas dziś tarcza gazowa",
+      "title_pl": "Obroni nas dziś tarcza gazowa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5ZDVYcEUxZDZPeE5wNTAtWmpOeFpiZ2hkZTBHbW1oUkVLNXNOSnZjNlpETVZwSjVXOU1EU1NuQ2ZFM3BrdlVOTWdNVjdmYVJheUc1aWhBeHBYaGxqdHE1dnNCdGtENEZWQ3RuaVJ1TTVjT0UxdmxB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-80ad84f2e06952b46d",
