@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T11:40:30+00:00",
+  "updated": "2026-11-08T12:50:46+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-daaadb54fe205a355e",
+      "date": "2026-11-08",
+      "title": "PKN Orlen Prezes odwołał marsz N .który miał być(...) - Forum",
+      "title_pl": "PKN Orlen Prezes odwołał marsz N .który miał być(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1FFLWdvRU1QTG1aX3UwTU4ydmhjZlktYVNmSUdfcUx1UURIXzVQT2xEbElldV9sTkg4dDlLaW9MZkNUQnl6aEpiQ19XWDJ0c3BQTzZJcWVyWVMyd3lSQmFEY291dEE0ZlBtR0hiLVhsUWV1aU5Lc1h2Y0ZjZ01JY2UycUtDOFhCV3pmNnlXYk9JX3U5UnpiUnAzT1ZQVlQ4M3VSTW1UTktxWkFFRkktck9R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
