@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-08T04:54:51+00:00",
+  "updated": "2026-11-08T05:51:44+00:00",
   "signals": [
+    {
+      "id": "src-9e370e7dedbfb91f54",
+      "date": "2026-11-08",
+      "title": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "title_pl": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelpwbU41ZXFFM0ZVbFlyWjlfUDFoVDNIZENZNU81d3NYS1YwYXZrWlhPX054bWFoS2pLVDJMajk1Q3R6Rjk0b1FIcFdJVjJfUGh4aE4zMnVGYk43OW9KekMyTU5pQUl0V1FLaVJwOHEwUklwMGNsbTFEbldhQzg1Q3JsZ09oWUk2N0JwR0JFcWg1M2NOX05Bc0x1VHRzS1BJaUszMU1BemljcVBwM3JmNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fe709de1cbaee7b639",
       "date": "2026-11-07",
@@ -783,35 +812,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-4ccd897e77596dbe5a",
-      "date": "2026-11-07",
-      "title": "Panika i zaskoczenie na rynkach, a świat wraca do podwyżek stóp",
-      "title_pl": "Panika i zaskoczenie na rynkach, a świat wraca do podwyżek stóp",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "W tym tygodniu rynki dostały kilka mocnych sygnałów ostrzegawczych. Polityczne trzęsienie ziemi w USA wywołało panikę wśród inwestorów, inflacja ponownie przyspiesza, a banki centralne na świecie coraz śmielej sięgają po podwyżki stóp procentowych. Podczas gdy RPP pozostaje niewzruszona, Polska gospodarka wysyła mieszane sygnały: płace rosną,…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Panika-i-zaskoczenie-na-rynkach-a-swiat-wraca-do-podwyzek-stop-9223540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ORLEN"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-332c3dabcc14566706",
