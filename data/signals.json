@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:45:02+00:00",
+  "updated": "2026-11-08T20:39:30+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f53f584a63ae0abd86",
+      "date": "2026-11-08",
+      "title": "Orlen confirms major increase in Afrodite gas resources",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnJjMGVsWWdOeTV4VERESWN6ZjhxRmNPRVFoZ2k5ZmVMbWhSRks0TWN3WHNkbDFoWktVUU82OE5HVFd3ZEJfR29sWDRhdTRDMXRiM21ocjRLT3ZreWdDQS1MOGhzUzlRWE9ieFZYYzIzRGFraHRCOWtwN2F5OVpSUl90aFJPMHhqSVVyeGttQk96SDA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -479,7 +508,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxOVDJwVXlkOENxRGRFVHVwLUpaRFhBek5ZTmU1b0dvcVVoWTYycEJjQTFyX0FPUVAwZEhmM2x6QUl0dmRrdmVhYUhFWTRKT3dFYmxTR1NtSV9YNTFETEpNQ2E2ekFZMzBnbkNSUHFvc3VCSjIyVjltTkJSZGl5aUdydlRRdjBtakdRMGlBZWNtQ0owZnZVVy1XMlYzaThWS1NRbmo2Q1RtZWFNNGhNdTJ6c0lKMUpWclN5RTZwWjNwZFJIQ3FzWDBDcXA0WWd6VWZ3WUhBQjVsb1NpSHhtdXZTY01vckFnWXdBbEM5YmNQN3hkOU1hUGYtdUVtNkF1bTN2VEN6NHdKazZqQ0xSR3YwTG1nNjRKcVJ2eEhoZ0EyNTlESjltMTdZT28wc0pINFRpWTV5OVF3WmV3azNOR1dRcURlQVJpQUI5NW1YaDdTNm5IaFh3c0pmRjBWN2FCNEdYdTBWcS1ydDliU0k5ZHNRc0VuWVlwbkFSSWxpWkNQWFN3bGxvdV9sWVNqNURsQ1RTTHZ3cHJmZnJMekRBdzV4STRWZWk5U2dYWDJWc2xFT3hIVHNyS2hMOU5PYlhoWnQ2ckdRazlxMGlLeDlhS3hxeHZwZGd3c1VnR0FoVnVBSG5FM2xjbFdBVlEtVWZYdm42blpPaDFwTENzc2wwVFphbnF6WVk2eGFaZjVfNHNaV2UtOHF6ZGRtbW1kakVmb2xCU2Vxc1dyRzEzbFpVaFhFTkhpMkxkWjNfRzMwaGdvaUlNeTNYWXFnLVRuTkxEeDRucEJrenVwc3VWZGxQYU9vYUNuRFNZTHZfUEUtdG1ydnNXa0VZSjhybGlqVzAzUHM2bTJoY1pZOEJNdFp6RTd4dEdyZ3BSUjc4Q1BsVEtnaVNVblEyYlFlcjVpVWFuQUlES2VSZEkyMVp3aVh5cGZwamVZQWZOZW9vampPVnhIYWJPMW5hb2U5UngwN1I2NUJDaFZPcHZ2eThfTGY3cG4yTGtFSGJyS1l6Q1V1TzVMNnNJbVNOMkEwdU5MUkU4VVh0dW1tUnByMXBLSXRWSDFEaWlYbDdPdnFzQW4yRHVNZ0NEbWJpdzhxbC04am1SQXlXU1VKaEhYVllnWTZHOGpXNnY4bTU0OWNvNjB5SjdXc194WVRwNkl6VG5ydTBaTXpXRE9oeDlURXRueWdiVUZEZHRNM3ltckZmeTdrTDc3TGQxWWhOZG40WW1nMUlKZmN4aURGNVp6Ml8tb2xTT0xfbVVFOXpjWTNMTzFjdVBWd2tjN3h1VHJjd082bGZaTHNCMmR4R2E5Ul9ZUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2gdBVV95cUxQZlNYRVJtZHIzVWUycmJsZFZVTXNQa21nZFVJWGZmOEtLSnZqUnZEQ0NtZmRXcDJHNW5KaENuaEp0VEZCaS10Um9pVUxPUTV6ZzdBOFdHc1JaaC1ZSU1EU25PbE5PRG9fZUNReXNrQnA0SHhtWEpOaHdpd0ZHZnUtM1hKMlItbzRjeWVJMUJvd3NNYUFSaTJZTDVRVjhWWHZJaEtLM1dPaTdjNGZXbFpQRk9JX0ZqMjBaSlRzczFYVnNlZkdzSGdGMmZraG8wVjdycTNWNUtaVXpKeGxmMnZzQmViMmQ2dWhBQjlmdkdET09HV0RvSVhyNDFpeXNBenhTUE42NlFacDVnMk5lc2xYS2VwbEFMbGJ0eVBuenJZby1Rd1BkQnY0cVNDVEd6OHF4SUsxWVVuMU80T0x4ZlNKRkk0eVRURjAzTkVPSEI5ZENicGhiX1dBU2xDQWFfek9SNlF2YndOc3JEQjlGWlNtYlV5MXlxbWd4bkpTQ2FyV1pZY3djYlZGRE15S1AyeDlma2pRRzMwR2RsLWJhQV9uS1o2djVFOHVjYWNld0pxYmxMUVBRNTRMaE5zdGZXamFzQ3hKbVctdmpRc0ZuSHJXaktXRE5McTVPTVQzay1PTm9wRHlNc1loNk1qY0dvcUtHMWktVGpjeHlwbXB6T24zWXpYLXA5WnVNbTd6TVlHNVBZdGNlSmNhOEVPUVQwVjFaQ2JiRzRmOF83S2JyUUdtWjUxRGVKd3ZuZWFCS3ZJSkgyc2oyNGg1MDdZSVQwdzdieWpaNDBzb2k1VTZ6V3RYalEwaUljbTZ2dGJYQndwRElwQy03UkxIdFFZUnpEZU1mbEJFMmxxNmtGWGtTUVJMX2lDTzBJemhfZVdJR0M3MjdIZ2lnRXdxMWJOaWxXbFJ0bXhaR29KUzNQMFh1ZE9nTWNuT1pXWmlBZVQ2R2kxcllEa3hCVXRzd1RwUFJvekZVSUk2by04Y2JITzlqbE1WU1c2WTZreVVBczNoc2NSRHdqNUt2WXVNc1BqWlVpSnBKdmMwOU1CNnVwMjJJWFVyS25aUFVQMU9WbFF3VTFSTHdrSXQtdk5oUmpiazRnUXhwbWNEVHdLQ0I0Z1BNSmVNSkVqVEZKTHVWVmN1LXEyRUNxcElHZm85bDdkaENRTVJnOFdxQ0UwbWVkWGxaNDhtUG1wdUNfRWR0d1N3TlJYaDlRNzhLNGw2ZlRhdmhHWW5ST1FJcDllYndWc1lwQ21vUk5UMTJKYUZlbHJJd2M4cDZZaURCNEZ0b3p1bWJTVmo2WEJiUTBqVEU2UQ?oc=5",
           "type": "official"
         }
       ],
