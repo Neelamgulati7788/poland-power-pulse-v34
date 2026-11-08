@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-08T10:44:42+00:00",
+  "updated": "2026-11-08T11:40:30+00:00",
   "signals": [
+    {
+      "id": "src-f7d4276ffaf6b997ae",
+      "date": "2026-11-08",
+      "title": "PGE a dywidenda",
+      "title_pl": "PGE a dywidenda",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40N3dpdFB5RXhxbXNOZU5MSEplbkRSRXRHRmJkYmVSei01cVg4YmUyOFhrUFplNEJYZGllQnpBNkNxV0NlaHFhRWZlWnlZWnYxNXpUQXhaOWhfakZITzhQdElrTDRITnc5Q3lNdGdpVDR3Zw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-e5f673d50d502d5739",
       "date": "2026-11-08",
@@ -147,6 +176,37 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6d4e42bcbd4a4d6bd4",
+      "date": "2026-11-08",
+      "title": "Rząd szykuje na 2027 rok zamrożenie cen gazu",
+      "title_pl": "Rząd szykuje na 2027 rok zamrożenie cen gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ministerstwo Energii planuje w 2027 roku zamrożenie na poziomie 197,27 zł za MWh cen gazu dla odbiorców uprawnionych do korzystania z taryf. Resort opublikował założenia odpowiedniej ustawy. Prawo do korzystania z taryfy na gaz, zatwierdzonej przez Prezesa URE, mają gospodarstwa domowe i wskazani odbiorcy wrażliwi.…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122704-rzad-szykuje-na-2027-rok-zamrozenie-cen-gazu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ORLEN",
+        "PEJ"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-48bc7df976cbdcd973",
       "date": "2026-11-08",
       "title": "Nowy kontrakt Taurona. Trzy lata zasilania Teatru Narodowego",
@@ -171,6 +231,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-005b6f882c22919b86",
+      "date": "2026-11-08",
+      "title": "PGE GiEK zawarła porozumienie ze związkami zawodowymi Elektrowni Rybnik",
+      "title_pl": "PGE GiEK zawarła porozumienie ze związkami zawodowymi Elektrowni Rybnik",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlJtS3Zua0dja0hYWFNBWXdwTENXU3RkeHBQQ1NKYVlkMEh3dGZPU20zR0cwVXVvT256M3JFUnVOT0RUMVAzS2tWcWI2bXh5NnphV3k1dUxBU1k1aWZ6TU5sZWxRaVVCRTEyN1JYRHZxSUkyTVNnSFhHZlFLNno1MDdnalJrQmRxcktjRUFCLW1ValE0WWFXWGxraEMxeldvZFdpSDdlWWwzR0tUbkJyd1hJLXVSRGs3ZUhNX2Y4eGVpdWJDbndUaVRR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
