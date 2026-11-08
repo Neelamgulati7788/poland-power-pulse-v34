@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:38:24+00:00",
+  "updated": "2026-11-08T22:39:58+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f2c63e1edc7119d475",
+      "date": "2026-11-08",
+      "title": "Ocena potencjału energetycznego i surowcowego wód termalnych w miastach powyżej 50 tys. mieszkańców, posiadających sieć ciepłowniczą, zlokalizowanych na Niżu Polskim wraz z analizą geośrodowiskowych oraz ekonomicznych uwarunkowań ich zago",
+      "title_pl": "Ocena potencjału energetycznego i surowcowego wód termalnych w miastach powyżej 50 tys. mieszkańców, posiadających sieć ciepłowniczą, zlokalizowanych na Niżu Polskim wraz z analizą geośrodowiskowych oraz ekonomicznych uwarunkowań ich zago",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "redakcja.www.gov.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQeUl4QUxUcHZLeWQtZXFURzd5VVZLMFhlcUhxSnNDaXRQbjJrLVNZbDdJMzFCZVd6Qkp5OEdJdDgzTkpiWjRwX0Z4LWN3bkw2NzBlZVhXdV9xOVBkd0VoS1pja1hLVTlvdXZ2Tl81ZFowMFNPd2ZPOUE1SnpiVlJKeDNGNFZzbVg1MVdlamNLYnpRNDlpaWNmTGNYWXdCYktpNGlFWEpzTFRUbGpHa0c1d050cUtTVl82ZmpGemdES0t3Sk1NZlh2Yy1EWUU0WjVOODMwTDRXV0FKaGVkZUZTMmdYMHFzOHhRY0RjM09OamJxQ21RNHdidFRxWWszQmJtVWlVQnNfOGRqbWItdGN0QzNsWXQ1cFFFWmk2Y09PUzRMeWoyX1l6Z1JyNUR3TEVDWlRoa3QwZGd3aVlkaVFNRnZTa3h1NkpwRHdxeVAtVkJGTVVWMndCcWlNanVGal9GN1puNnd2SGtNVlBEQ3c3MEdpY3d0UGt3empCWHpDSHRzMjlQWG93TjNwSm0xa2xsQ2tkQ01zbkVodw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "redakcja.www.gov.pl",
+      "publisherUrl": "https://redakcja.www.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "3"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -348,6 +377,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-83c9a860b1c6d1ce69",
+      "date": "2026-11-08",
+      "title": "Rozbudowa istniejącego budynku Przychodni w zakresie windy zewnętrznej (część 1 zamówienia) i wiatrołapu (część 2 zamówienia).",
+      "title_pl": "Rozbudowa istniejącego budynku Przychodni w zakresie windy zewnętrznej (część 1 zamówienia) i wiatrołapu (część 2 zamówienia).",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miejsko-Gminny Zespół Zakładów Opieki Podstawowej w Ścinawie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3de2-64b2-bf6e-c1c5-d5000193e130",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-77f746a4a9371e9c73",
