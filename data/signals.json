@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:41:28+00:00",
+  "updated": "2026-11-08T15:38:34+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -176,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-77f746a4a9371e9c73",
+      "date": "2026-11-08",
+      "title": "PGE Energia Ciepła rozbuduje sieć ciepłowniczą w Gorzowie Wielkopolskim",
+      "title_pl": "PGE Energia Ciepła rozbuduje sieć ciepłowniczą w Gorzowie Wielkopolskim",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzhwRWFZUUpteUxCakUxOHdTWjBIX3Y0bDZleWNqalFkSjVKY1k3RjVlbjhmdFZ0Z0hUUGRSSGxpYlE2WDJTQjBBeFkwQ0dTSGxEcU4xQmhhdlVPU2FWOTU5Ty12cHFsRWk5NGFidmpiR01iNkEtYkVyblJaZGNOU0pKU2tZT3JaWnpZQzdWSU9yMXFuUUlSZEFMWTc3bk9FeTA2R01kT19qMGV3a2Etd1BCR3lDTUI4VWxBa1huNWNKbXd6Nmx6UHVYaUlvRHFfWTQ0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6d7c6a4121dfb2a90c",
       "date": "2026-11-08",
       "title": "Samochód elektryczny do 100 tys. zł? Sprawdzamy, co można kupić w tej cenie",
@@ -260,6 +289,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1aa909a0ff9c6d7df1",
+      "date": "2026-11-08",
+      "title": "Płynie już prąd z polskich farm wiatrowych na Bałtyku! - Ministerstwo Klimatu i Środowiska - Portal Gov.pl",
+      "title_pl": "Płynie już prąd z polskich farm wiatrowych na Bałtyku! - Ministerstwo Klimatu i Środowiska - Portal Gov.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "redakcja.www.gov.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc25oekJPYXRIMElaVmVaRmxJMG9MZ3EtNVd0VWxlbkVrQm42SnllNEdKQXRzTllGbHh0SFczTTdWTEwzeExSZE9adzFFb2lBMndEa21CQllqYVFlZmdtbEMwTDhWYWlwajV0WVFFSVJSWExNSVRkWmM2MS02cmc1d2NBdTNEdm1obGIxMjNxNV93VmhlSGJB?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "redakcja.www.gov.pl",
+      "publisherUrl": "https://redakcja.www.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "3"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
