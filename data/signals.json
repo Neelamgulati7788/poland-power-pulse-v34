@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:51:44+00:00",
+  "updated": "2026-11-08T06:57:45+00:00",
   "signals": [
     {
       "id": "src-9e370e7dedbfb91f54",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-48bc7df976cbdcd973",
+      "date": "2026-11-08",
+      "title": "Nowy kontrakt Taurona. Trzy lata zasilania Teatru Narodowego",
+      "title_pl": "Nowy kontrakt Taurona. Trzy lata zasilania Teatru Narodowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjBad2NRalo5R2ZaTFJocGZsbF96OEtYYUtfZFFPUWE5T1VKSmNvYWcyWVJjelBHUnp5T2E3NE5ndG5JalBUSXljNjVrX3c1MmVPb1VwSDdpbXNKcXp0REdvM2s4bE55Nkw0MTdSNUQxR3dxUUs1d0k5N1hMQ2xscFFVMGVMbHRnYkM5endpdmFSUjlhTnZTNjNqV1RTdTdpdGFxZHZTbEFuQmYwbE5udDgxUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2305,7 +2334,7 @@
       "links": [
         {
           "label": "Energetyka24.com — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZTZBWnNIV1JLbmpPQmZiTEZuaEp5SlRLMVBPMGNaTWFSeE1aMGlhWFE4djV4SUtJN3dwRi1LS0hwOXVxSmxaRUhFOElCMU1WdV9KYlhFREVwYlVtZzhSbEZ2Y2lNWm5RWjBrQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TFZDcC0tXzQwaDV6R3o3NGRZSVA5Sk9jUzIyeEw1RE9LU1plQXZfbDFJYU10NjVXYVZzYlRpMkxSU1BsV2JnSXc2b3F0bnBDV0o5VFJ3SWkxOUdBWW42aENaWHZhS2N6RHdXUQ?oc=5",
           "type": "press"
         }
       ],
@@ -5175,7 +5204,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFc2NXdodlVoNW9lVGIxUTBnLS1oV2FZWHQ4VDZQeHkwczB1NkQ1Vng4Nmw1Uk5lWUZZVlE5aXd2YzdwM0xOMzU1M0RLQnlMN3BqVlp5QmlSSmlFeGhOWmJjU0ltUEQwRE1wdG9DZTRiYmJFZ2s3cERGTTI4Z2JPbng1WTFWSXRySU9GNVdCcm8yWmJiSWFsSlNGN2ZPMjk2d3hRSXdDWGUwbHd3YUVNNXFodmV6amFmUHV3S21zTW1yVjltal9BTVBPTFhaSlZMNXc?oc=5",
           "type": "press"
         }
@@ -5183,7 +5212,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
