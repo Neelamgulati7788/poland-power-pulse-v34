@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T15:38:34+00:00",
+  "updated": "2026-11-08T16:40:12+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -23,6 +23,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ef69cb6c4e76c2e109",
+      "date": "2026-11-08",
+      "title": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "title_pl": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkNoNTVOZHJVeUlFUHduSkpRd2hVSHR6V3VsYUd1UHFTTTlzeXZMOVJ6bzJDTkJYZ3E3eXpfUTlLMzY4UFM4UF9WOGNPT1NPQlZzU1JTWHdtbm9yWEIxa285NFl4SGZJbVdhb0dwQjZpRVQzQXRzQjBrTXkwR2tpQXBubkZ2Q3R4bWVOV2pB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -321,6 +350,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0bdc973b494aa77cc3",
+      "date": "2026-11-08",
+      "title": "Dostawa pomocy dydaktycznych oraz wyposażenia dydaktycznego pracowni komputerowej i pracowni zawodu technik elektryk w ramach projektu pn.: „Zawodowcy z Kamieńska”",
+      "title_pl": "Dostawa pomocy dydaktycznych oraz wyposażenia dydaktycznego pracowni komputerowej i pracowni zawodu technik elektryk w ramach projektu pn.: „Zawodowcy z Kamieńska”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kamieńsk",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3db5-629c-157a-c1c5-d5000193e0aa",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-005b6f882c22919b86",
