@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T16:40:12+00:00",
+  "updated": "2026-11-08T17:37:53+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -145,6 +145,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a24e8a417ad2bbdcf7",
+      "date": "2026-11-08",
+      "title": "Atak rakietowy Huti na Saudi Aramco. Odłamki uderzyły w wieżowiec naftowego giganta",
+      "title_pl": "Atak rakietowy Huti na Saudi Aramco. Odłamki uderzyły w wieżowiec naftowego giganta",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Budynek państwowego koncernu naftowego Saudi Aramco w Rijadzie został w niedzielę uszkodzony przez odłamki pocisków po ataku rakietowym – poinformowało ministerstwo energii Arabii Saudyjskiej. Obrona przeciwlotnicza przechwyciła rakiety wystrzelone przez jemeńskich rebeliantów Huti.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Atak-rakietowy-Huti-na-Saudi-Aramco-Odlamki-uderzyly-w-wiezowiec-naftowego-giganta-9225694.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-9e370e7dedbfb91f54",
@@ -294,6 +323,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-51d8e7ce6f5c0355db",
+      "date": "2026-11-08",
+      "title": "Dostawa eksperymentalnego klastra opartego o dyski SMR",
+      "title_pl": "Dostawa eksperymentalnego klastra opartego o dyski SMR",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Akademickie Centrum Komputerowe Cyfronet Akademii Górniczo - Hutniczej im. Stanisława Staszica w Krakowie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dbd-d9b7-4c92-c1c5-d5000193e0be",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-48bc7df976cbdcd973",
       "date": "2026-11-08",
       "title": "Nowy kontrakt Taurona. Trzy lata zasilania Teatru Narodowego",
@@ -318,6 +376,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-228fc364ccbec14d66",
+      "date": "2026-11-08",
+      "title": "Archiwa Energia wiatrowa - Strona 303 z 303",
+      "title_pl": "Archiwa Energia wiatrowa - Strona 303 z 303",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybExiQk4zV0RDaC1ocG42TGJIS3l1cDhpNElMTFFHdnJOeC1qUXFJZkJIN0JzNGVIQ2xTckh4NTQ1WWlVbTJkQ2dub3gyQzJkODd3c01jV1lLbTNmb2tzZFByY0xUQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
