@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T09:47:56+00:00",
+  "updated": "2026-11-08T10:44:42+00:00",
   "signals": [
     {
       "id": "src-e5f673d50d502d5739",
@@ -31,6 +31,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c495b6a6ad2b759974",
+      "date": "2026-11-08",
+      "title": "Elektromechaniczny system zamykania obiektów zabytkowych i budynków administracyjnych w Muzeum Wsi Radomskiej w Radomiu",
+      "title_pl": "Elektromechaniczny system zamykania obiektów zabytkowych i budynków administracyjnych w Muzeum Wsi Radomskiej w Radomiu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MUZEUM WSI RADOMSKIEJ W RADOMIU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3d80-a64e-52da-c1c5-d5000193e06d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-9e370e7dedbfb91f54",
       "date": "2026-11-08",
       "title": "Westinghouse inwestuje w nową fabryką paliwa jądrowego",
@@ -52,6 +81,35 @@
       "publisher": "CIRE.pl",
       "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9cce3097defa49eefa",
+      "date": "2026-11-08",
+      "title": "TAURON będzie zasilał energią Teatr Narodowy w Warszawie",
+      "title_pl": "TAURON będzie zasilał energią Teatr Narodowy w Warszawie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHNqTE1hWTd3WC1BZ3ZFZ1ViLWZUTlh6WmZ5UjUtUzZUcUh4UHNna2FLZVZNVEpDbkJORWdkWFZsTkwySEdWVGFka2pnREZ3VDlOTmZ4Mm94N0s4Sk9Sb1BmWVFzRFd0bktzMTl1VFR2d1ZlemxOdmRPVWxfSnNjVV9pT3RPVnRkOUVQd25CZ2V0bENWc1R6aU5OR183VHMwRWM0RmtOT2hJRTNMRGRoVGFDWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "23"
