@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:39:58+00:00",
+  "updated": "2026-11-08T23:38:32+00:00",
   "signals": [
     {
       "id": "src-f7d4276ffaf6b997ae",
@@ -258,6 +258,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b6db3154068a06fbb2",
+      "date": "2026-11-08",
+      "title": "Jak przygotować firmę i jej otoczenie do bezpiecznej transformacji energetycznej",
+      "title_pl": "Jak przygotować firmę i jej otoczenie do bezpiecznej transformacji energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0lOUTVtYWxyZDV0bEczdjhOd0FRcUdOSjhYTWNBZVltamRObHdQZlVTRDMyb0p2cFl0Qzc3Wnd6NnVBVC1ERmR2OWhWSWZQZ3pWa1cwWUdsVk5nYS1NZmpuZW53eVlubTdwYWxJaU1nT01yc1VhTXI5NWJNb0wyRkhRSVh4LUtUMGhUSmdYck55bXk4UjE5VG1pcTlyenZtb3MzYW1xdnhxUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -956,6 +985,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-de5ac57f160a95e165",
+      "date": "2026-11-07",
+      "title": "Tauron opublikował wyniki testów na utratę wartości aktywów",
+      "title_pl": "Tauron opublikował wyniki testów na utratę wartości aktywów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbm1yeC1lbEkzNncwQzh0Y3VHdzJCTDJrcko5eThqLUFyUXNrQ2lnWjdzWlVpTWpvUi1jeTF6d1gzSEM5S0hnSHFGQnk3dS1WcVBIM1ZZcHctZDBVNi1OaHJoZ0xDelZXSnYtbTMyRXU1aklZcS1mNEZveE9PcnJnUERSdkdrZVlmN09mNGs5QnFlSWRfbEljblotWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
