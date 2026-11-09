@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:48:48+00:00",
+  "updated": "2026-11-09T10:01:49+00:00",
   "signals": [
     {
       "id": "src-ee989d599103a9a597",
@@ -270,11 +270,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Polska gospodarka stoi przed kolejnym etapem rozwoju. Po latach nadrabiania dystansu do najbardziej rozwiniętych państw coraz ważniejsze staje się nie tylko tempo wzrostu, lecz także zdolność do budowania trwałych przewag konkurencyjnych, rozwijania innowacji i tworzenia firm, które będą skutecznie rywalizować na międzynarodowych rynkach. Co może…",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjRhM0d1ZDlfZzZsbzduak5sdmJfTGkwMGZIQTA0UkI5WmtnQWtRY1UwN3lxUnU4cmVYdGNfMmN2LU44c19iVTRvQ1VlNWxxcjJKTjFVdlFXZkRJbXlsTmw1LUJ2bXA2UDJ5Wk5IOWlGdExLVzhZSnZwVTQtQk9LaUNFdE96SlNtSG85b21OSEZNM3FrcWtvbjZsTGNrWWwwUEx4OWVHa3AyVmpsalJLSUFlbVUwUXJi?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-2030-Skad-wezmiemy-kapital-na-globalna-ekspansje-firm-9218207.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -288,8 +288,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-8f8277f67df356c5bd",
@@ -580,6 +580,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4c4ca079dbc239ca1f",
+      "date": "2026-11-09",
+      "title": "Chiny przedłużają rozejm handlowy z USA. Zawieszenie dodatkowych ceł",
+      "title_pl": "Chiny przedłużają rozejm handlowy z USA. Zawieszenie dodatkowych ceł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rada Państwa i resort transportu w Pekinie poinformowały w poniedziałek o przedłużeniu o dwa miesiące zawieszenia dodatkowych 24-proc. ceł na import z USA oraz specjalnych opłat portowych. W mocy pozostanie 10-proc. stawka celna. W ubiegłym tygodniu przedłużenie ulg taryfowych ogłosiła administracja Donalda Trumpa.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Chiny-przedluzaja-rozejm-handlowy-z-USA-Zawieszenie-dodatkowych-cel-9225952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-3b1e135d1b6b73d433",
@@ -1015,6 +1044,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-c460e56102f7361b9b",
+      "date": "2026-11-08",
+      "title": "POLSKA ELEKTROWNIA JĄDROWA",
+      "title_pl": "POLSKA ELEKTROWNIA JĄDROWA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VT0xQaDBZeEZlTzRCNGtaSXhzYV91SHZTNlhrX3F3M2R6MmtSRGVPbXIzVWc3UVZic3BpQ3Nudm9wRlRkM0tjQlBoQjFKWHh0OXpHOE83a0xER19oVUhXb1JaRG1PVUprZHUzSEJHNXJTTjJ4Ql9ZSklIMzg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c3d76f8a14cf22043e",
@@ -1478,6 +1536,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5b21f5b12644efd9de",
+      "date": "2026-11-08",
+      "title": "Energetyczny Przegląd. Polski offshore, schyłek górnictwa i nowa strategia KGHM",
+      "title_pl": "Energetyczny Przegląd. Polski offshore, schyłek górnictwa i nowa strategia KGHM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1NaV2oxNlBHcVIyWWdzTm4zR2RuNzY5WGRUYlpmcHE1LVlWT19yMmhhWE9EVEpWNHpmMGk2TkNCWFdZdUI2c0h6cHF3Wm1abjVSUG9CaGFqYUVaQVk2N29wa3JkUFJwR2gzUlJWNWpLLTJiamxMTU9aX0IwVzdtOVFOUkF0RzV1RDRudFJtbmNpay1wTjdYN0pLWlQ1Zks4Z1VDWGVEb05tSzY3YVRrUTlYemRSRE01Nmg5N2QxTmxyemtqY2wxMmdOcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
