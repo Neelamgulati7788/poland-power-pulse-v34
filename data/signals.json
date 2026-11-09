@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T18:56:21+00:00",
+  "updated": "2026-11-09T19:57:04+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -436,6 +436,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-cd09eeafaa4c456bef",
+      "date": "2026-11-09",
+      "title": "Energy Wujaszek z Ameryki znów zaczyna zarabiać na giełdzie",
+      "title_pl": "Energy Wujaszek z Ameryki znów zaczyna zarabiać na giełdzie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2ZTc0x3R3FDZHhVVFJ1N0Z6QTNJRm54TE1xb1RjRGxkTHEzV0I0bFJjSEhaXzZSb09EV0tqMmh1U1d1N2kwOENvSXNEeUx1RFVnRXAxc3ZnMHhWOVhYT1BEN0lHb1JXaVZ0YmNLRnBiNW56N1dpelg0c0lfRVRzaWtJQWlCMzZfaktqdU0wbjloZTRJOTh4ZHBQbFp0OFhkUlg4a1p5alVzcUZH?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ccff1da9ebc0a7a29d",
@@ -1332,6 +1361,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7da094fb42f6479e27",
+      "date": "2026-11-09",
+      "title": "Kebab za 1 euro wywołał zamieszki w Niemczech. Interweniowała policja",
+      "title_pl": "Kebab za 1 euro wywołał zamieszki w Niemczech. Interweniowała policja",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Promocja kebaba za zaledwie 1 euro przyciągnęła setki osób do jednego z lokali w niemieckim Dortmundzie. Otwarcie restauracji szybko wymknęło się spod kontroli. Na miejsce wezwano policję, a w stronę funkcjonariuszy poleciały kamienie, butelki, materiały pirotechniczne, a nawet hulajnogi elektryczne.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Kebab-za-1-euro-wywolal-zamieszki-w-Niemczech-Interweniowala-policja-9226409.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-783a489ebe8c94bdcd",
+      "date": "2026-11-09",
+      "title": "WMO: z powodu El Niño koniec tego roku i początek przyszłego będą wyjątkowo ciepłe",
+      "title_pl": "WMO: z powodu El Niño koniec tego roku i początek przyszłego będą wyjątkowo ciepłe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUVOMUZrVjZQOU54Z0dhRm1wQkhJQTgwRTlwLWNNWDhxUE1wZ0NhNDIwTEJtSWVIVjJQWVVyM0ZMMHdqcGk2dXpFeUZJQXBzN1djRjI1VncxRUVpdFhqVDNWNGtxNGFRTkN5VUx1bGNMNnNmNFg3QzdYTkR3MlhLU2ZmMTZJVUVKWC03b2NkREtRMnAwOVhQZVF6YU9vY0VYOVcyaUFWbF9uQWs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2898,6 +2985,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a4f09eab8ebad2b699",
+      "date": "2026-11-08",
+      "title": "Srebrny medal dla Gaz-System za konsekwentną realizację działań ESG",
+      "title_pl": "Srebrny medal dla Gaz-System za konsekwentną realizację działań ESG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUE4YlRSOF85S0tXdi11WldlNnlPeGN2cklmTVdhN3BBZGhsRy00VVE3bUlWQmhaLXBuR01HYUZLemlELVhZajRlY25pN0FoemJqejFsNWJzUzFhekw4c1NBQ1NONTVicjAwNThMWGNVWXBzTnpMemNPalBFQWVWcjI2QXhtZU5KM0wxbkkyOXM0dUltUFhBR1FNMW4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
