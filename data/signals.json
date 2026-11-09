@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T14:33:44+00:00",
+  "updated": "2026-11-09T15:32:00+00:00",
   "signals": [
     {
       "id": "src-fbd0a34a4d0e90083c",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f54f5a584749df96bb",
+      "date": "2026-11-09",
+      "title": "Moldova switches on power link to Romania, curbing Russian energy grip",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Polskie Radio — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2dnOURlT3l6V0h1QkxXN0lVWDJhYUltMDJKZ1hlRmU2ZmlPNVptdjh4RjkxNTVkUERrQTdFYWlhYUZXZnBhVzdtVlUtN3Z4YWl2SjhBbzluTE8tMGg0UHNrbjRrakpJMG5pVnlUQ2pqbTFFcUR1aDNZMk5Zdi1DcGRRN0NDRl9CTFZhQWVnNVl5RlFvMVo4TVVaR29IRm9odWRnQV9BX0hhNHpkMDlHb3E1WnFxSXdKa3dIX09ZNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Radio",
+      "publisherUrl": "https://www.polskieradio.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "29"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -142,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-da74f8524d4823136d",
+      "date": "2026-11-09",
+      "title": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "title_pl": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3cyWHhwSXFabkR0OWJGT25vY1Q1a2RVTEhYLUl0ZTN0azBRR29tWGtCZG45M2ZCVUtiTWZWaWcwdFFpaDBWRm1Zc3RZNHNra28tZzh1Rk9nU0VyUG1TODlzT21xTjB3eDZqcXNXZk9JMWZZcDRMMEk5UE5rWFR3aHN4UmlKMGhP?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -290,6 +348,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-ccff1da9ebc0a7a29d",
+      "date": "2026-11-09",
+      "title": "Drony zabiły pracownika Zaporoskiej Elektrowni Atomowej. Szef MAEA ostrzega",
+      "title_pl": "Drony zabiły pracownika Zaporoskiej Elektrowni Atomowej. Szef MAEA ostrzega",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUcwU2tYbVg1REl2M2c5ZGdrQ21qU3E0dllVUjJ1VWE2OEI2WExNX243V3V6WmJ3RGdUMEJpX2pRcVVtOGM4VlBjTlhaNzZ4X21VSjdDQXVhSmFvR3Jiek1PYWl6SmVmOEQwMFdUNWJRYy05dzJVMEJybWc0WWFGYm5Wa3hwX1MycVBVLXF6ZUhtMXFhNDV1OTl0cnlfWU9rdkhwT25lTUJ5OGZaVXhFLXRnQ3c3UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c947ba1b2ded3b70b4",
+      "date": "2026-11-09",
+      "title": "Enea staje się holdingiem. Jest zgoda rządu na zmiany",
+      "title_pl": "Enea staje się holdingiem. Jest zgoda rządu na zmiany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3JVSW5YUEpJOEIzTTF2elh5S3hfOU5PZG9hSGNZQTlVZjRzeVdILUZLb1JoazFSSlJfVzJyenFMUEU3ZXNLa3JxQ0pkeVJ5Vm1kWmxpenEyYWxIa2xYUC1rVzRLMlZ3RTEwZ2U2U1B5b3RVSFJKaC11aHhzMFhaWnFlVlVRc0VPYi1XMkxNMTlHTHJKM2V4R3VIOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-c68caf426c8b341060",
@@ -582,6 +698,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ba6701af7df19a0313",
+      "date": "2026-11-09",
+      "title": "ETS przynosi Polsce miliardy. Komisja Europejska podała nowe dane",
+      "title_pl": "ETS przynosi Polsce miliardy. Komisja Europejska podała nowe dane",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Dochody Polski z ogólnych aukcji uprawnień do emisji CO2 w ramach unijnego systemu EU ETS w 2025 r. wyniosły blisko 3.852 mln euro, a przychody ze sprzedaży uprawnień z Funduszu Modernizacyjnego w 2025 r. wyniosły blisko 1.639 mln euro - wynika z raportu KE dotyczącego…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/ETS-przynosi-Polsce-miliardy-Komisja-Europejska-podala-nowe-dane-9226215.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-b7ef6b9821a8a6df45",
       "date": "2026-11-09",
       "title": "Bessa w Orlenie",
@@ -606,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b483360e1e8455d4b2",
+      "date": "2026-11-09",
+      "title": "Coal Energy w zaktualizowanej strategii stawia m.in. na ekspansję usług górniczych w Azji",
+      "title_pl": "Coal Energy w zaktualizowanej strategii stawia m.in. na ekspansję usług górniczych w Azji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVlRakVka0RzMEFRV1l5QWZXd29lYy1wYVZuOUJMcU5sNWt5M3lKejhKdzh0N0d6VnB3ZFZjM3cwZVE1ejdEMk1YWEk5UEpFNHdPa1RmMlU3QVd3ZUJIOTBfTXJIa3ZzamhiZFNiVGd4M1pRMUVNZG9KYUV3WmItQ1QtZ3Y4aE9nTC1QVUtIN2g2SzZhMkJVX1RRNExJSm9NTlhPemNwZlA0djUtWXY1bW5Eel9ySXdISGl4RWlHbXkyQ0lKWUt4WjV5Yw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -725,6 +899,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9144ffcb8b3f17161b",
+      "date": "2026-11-09",
+      "title": "Solar Innovation SA: Podpisanie przez emitenta z firmą audytorską umowy o badanie ...",
+      "title_pl": "Solar Innovation SA: Podpisanie przez emitenta z firmą audytorską umowy o badanie ...",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbVhheWRDR2pvTXZXcEtCakt4YW5WXzhIMXBEcXJybWN1d2lLWlV0QmdIUDhteExEd2VpeU93bEhSQWtJVS1jSGNXOGJsYms0YWdIc3J0aS1jNnhaQUwzMTcxSjZEWk84cXBKeHBfeW5EdmpGVER3elFpOG90Z1Nma190WkpqZVVuSUhWcHgwUExGS1pNM0NJLUF2N1VHZXpMb3FlNmppV0Z4VGZuQ05xWW5NeXRGUE44a0FaNW9YUzE2dDNqVEE5R2tPLTQ5OXB6czIyeDNQRWswNVVocUNiUUY3ZS1yV3g0eGVLa1lfVnoyOUpFWEtOSVpDVXJ4TDVUZDVhZ0hVcG53OWhJdEx1Y3VBSGRiMlVK?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8f8277f67df356c5bd",
@@ -1568,6 +1771,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1b53062e08494d6e16",
+      "date": "2026-11-09",
+      "title": "Projekt ustawy ws. elektronicznych świadectw zgodności pojazdów - skierowany do rządu",
+      "title_pl": "Projekt ustawy ws. elektronicznych świadectw zgodności pojazdów - skierowany do rządu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE5xRVlETDZmOUVnOUNGbjNhWEpDX2dWWU1PZE9jdUlCVmtSdE5INjFCeWJfSUZ1ZGIyRHBvblBXZW90X29KRzYyTWxXOTA1SWlNYms4NkhmSXZlRzBZMGQyWm1XalMzekpTNXgwaTZibEk4aVFtZHhEbmJOZUlSbHJGZlRjcnBqUWhEdks0ZnlUMk5JWUpMSFMyVkttUEp6LWhDb0IzYVB4cC02VF9zNWZBMWI4UnhnUDZQdA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0f3cb1b3201d967f0e",
       "date": "2026-11-09",
       "title": "Zawieszona spółka z GPW publikuje przełomowe orzeczenie TSUE. Rosyjski oligarcha, zamrożone rachunki i prąd dla Możejek",
@@ -1621,6 +1853,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0990b68ee51d816f60",
+      "date": "2026-11-09",
+      "title": "Niższe ceny gazu w Chinach szansą na większą ilość surowca dla Europy?",
+      "title_pl": "Niższe ceny gazu w Chinach szansą na większą ilość surowca dla Europy?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUdMWW1iX1NWajJVWmtZUnhDQ3M1OTlEbnJ6cXRBZ3lzNmZhRWNDUFJhajZJemFvWTk0eHE5RGtqTzJTWUNCQ25SMGpwX3g0VHJGVlJzQnlLQUU3OVFFY0tDZGl0QlhyS25ZaE1jTHowTDk3NDNOY3JOUlB2d2YtZjU2VmY4UWhXZkFTaHBURmh0NUVkanlhVk0zRWJ6a1J1bFhxc3NvYS1tZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2554,6 +2815,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-5023bd772a861325d5",
+      "date": "2026-11-08",
+      "title": "PEJ - Najnowsze wiadomości – strona 12",
+      "title_pl": "PEJ - Najnowsze wiadomości – strona 12",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VSjY5ZHM1WGVMQnZJaWhKdmNvVGQyZlZjWlZKaWh1VWQwS2p0N1h3T3E5UUlTdUJqRnJWTTMwVDByaEVLd2RBVmFMb1lWOGplUFBtX2RodGFyc29QeXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-48bc7df976cbdcd973",
