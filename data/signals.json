@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:57:48+00:00",
+  "updated": "2026-11-09T18:56:21+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -1627,6 +1627,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5be20576aa1688f3bd",
+      "date": "2026-11-09",
+      "title": "Krajowa Izba Gospodarcza zwraca się do rządu. 10 postulatów dla polskiej elektryfikacji",
+      "title_pl": "Krajowa Izba Gospodarcza zwraca się do rządu. 10 postulatów dla polskiej elektryfikacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaTZhRElzSmtlNmRpcU16VmhlVGZfUmxZVmhmOTZsck0xZ0NFU0NCT0VSYk4wR2hmdEVWZkdHUGQ2NTluSUx3d3NjZVdPNEt1LXB6bEh5a0Z1S3d5VmJkVUlGN19fRnc4VWxkZUUyYVgwd0trNkd1QjlUd2E0emozYVN1YVFzREg3bXlpTEI5VUNXQjhyQUJZY3VObGZpdnQ4SF8tTVpKaENYUHd2RzVpbkNLQkhSa25QZ05lY0Z0cHl0VjBuaU1DbDlBd1ZJRzNWc0VuN3pfaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5bd06fa7a1055a802c",
       "date": "2026-11-09",
       "title": "Rekordowa produkcja z PV i drogi gaz w Niemczech. Hurtowe ceny energii ostro w górę",
@@ -1651,6 +1680,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5aa93aeaf1fc2b922c",
+      "date": "2026-11-09",
+      "title": "Jastrzębska Spółka Węglowa dostała pożyczkę z Agencji Rozwoju Przemysłu",
+      "title_pl": "Jastrzębska Spółka Węglowa dostała pożyczkę z Agencji Rozwoju Przemysłu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkRQei1UY3Y5dVNWUmNBX041ZFR2bWFsTVRXY3J4WVZTTzJpcHpDNm0wOVNMX2Y2Z1dfSzBfM184dW1tLVRZb0x4MVNZdW9MbXpkVFlGTVdxeWxiSmpxNWp5cnpPb3ltUk5FLUhwQXhXenNkN2V0X2RHWVAzYnk4bzlSR0gtZ0hEanB4LUQ2eXRxMUl0Z2NRRFpHSjIxMjZKa3dveXhTQ2JKUEtOdzZfNWVQMS1SbEROZnp3M3lvSnlOOFRxMVl5eXdOdkpPV1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://gornictwo.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2173,6 +2231,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1aff50df0075f6caef",
+      "date": "2026-11-09",
+      "title": "Uwaga na firmy podszywające się pod PSE",
+      "title_pl": "Uwaga na firmy podszywające się pod PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbThVUjBGdHp3bmlhVmRHZExxcU4tNEE0OUlMUXJTYjhVcHRZZXk5WGJSSFlrRFAyclpqLUpFNUVKR3diMGRYaWUyWjlPcDBDLW1VbUcxYnY0RUp3eUthaGN0dDFvbXNBQjFvTERxS0dQVWNPOV81Mi1rV21ZOHM2Z2xHT1A5NThuWlJqNDlJOEprM2dwdUlkZjhWSVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
