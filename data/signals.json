@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:54:15+00:00",
+  "updated": "2026-11-09T21:50:34+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -2207,6 +2207,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-34b72c7aa03dca6543",
+      "date": "2026-11-09",
+      "title": "Dostawa energii elektrycznej dla Gminy Kożuchów na rok 2027",
+      "title_pl": "Dostawa energii elektrycznej dla Gminy Kożuchów na rok 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kożuchów",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ea5-7952-1abd-c1c5-d5000193f1c0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-3485530dd23c80e32e",
       "date": "2026-11-09",
       "title": "Polska – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu dla Zakładów JSW S.A. w tym: Remont i legalizacja metanomierzy indywidualnych i przenośnych, Remont i legalizacja urządzeń typu: Xam-2800, Xam-5000, Xam-5600,X-dock",
@@ -2410,6 +2439,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1720092ccb3d32d034",
+      "date": "2026-11-09",
+      "title": "HIPOWER ENERGY SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+      "title_pl": "HIPOWER ENERGY SA (17/2026) Zmiana harmonogramu publikacji raportów okresowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObkFjbkFaVlU4OXBHMllRaGFHdmhIZXBSbmtpNWZnZnBHazNyMTNlMUJLcGVxZE1ranZaRW93MGNQUGl5dVU3Q2ptV0V5a0UzZ2ZCNUpYZ0dqT0YzNXBoeHJTWnhvTVFqdy1BMGljb096SkdRTGFaODJ0bm83dDFGcTdHcXZiMXBzMm5ObEdncnhLUjY3Rnd1SXhveEd3U0licm9MVWhxTnZOQTdaRGlPWjA0V2E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0f3cb1b3201d967f0e",
       "date": "2026-11-09",
       "title": "Zawieszona spółka z GPW publikuje przełomowe orzeczenie TSUE. Rosyjski oligarcha, zamrożone rachunki i prąd dla Możejek",
@@ -2437,6 +2495,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-0d18e289bea7189e15",
+      "date": "2026-11-09",
+      "title": "Energia i gaz w czasach zmienności. Co tak naprawdę kształtuje ceny?",
+      "title_pl": "Energia i gaz w czasach zmienności. Co tak naprawdę kształtuje ceny?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUJRaVNrSGZLYUpyMlpMcjRKR1gxR3B1VWpQNjhDeDRfSGk4VzVCQmtCczAtQVFVcWd5UHhqcUhJT3dXSXVpNDFmVk5OVl9fQ3lYQ3g4NXRXdk5IWmdFT3R2Mkk1SmxjejlrMWxXMXl2QmZiVHRZbVNiZjMzQ0JKdWxEdEFPRmZjRTgyZWdPRUZfMUY0NHN1VVFNZkVlWkxZcDNQUGdzR1NhYlJJVE5SWWhGYkF1T1lC?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0c1ddec363ba922f8d",
