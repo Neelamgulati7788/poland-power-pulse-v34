@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:47:41+00:00",
+  "updated": "2026-11-09T23:42:08+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -486,6 +486,35 @@
         "ALL"
       ],
       "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cc0cf494df7e987153",
+      "date": "2026-11-09",
+      "title": "GAZ - Najnowsze wiadomości – strona 66",
+      "title_pl": "GAZ - Najnowsze wiadomości – strona 66",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12N1p4YWpKTFd6VGt0UXJYOUpkUnRQV0NmN3hZaUJTNVBLSEM4akRQd2ZtNUtEWUtoMV9QelBZa3Q3WkdRT1ctQWxRWDJLMnZ0UjRKdlBuT040NU84VEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -1564,6 +1593,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-71933e4be80daa0e87",
+      "date": "2026-11-09",
+      "title": "Jastrzębska Spółka Węglowa dostała pożyczkę z Agencji Rozwoju Przemysłu - SERWIS INFORMACYJNY CIRE 24",
+      "title_pl": "Jastrzębska Spółka Węglowa dostała pożyczkę z Agencji Rozwoju Przemysłu - SERWIS INFORMACYJNY CIRE 24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkRQei1UY3Y5dVNWUmNBX041ZFR2bWFsTVRXY3J4WVZTTzJpcHpDNm0wOVNMX2Y2Z1dfSzBfM184dW1tLVRZb0x4MVNZdW9MbXpkVFlGTVdxeWxiSmpxNWp5cnpPb3ltUk5FLUhwQXhXenNkN2V0X2RHWVAzYnk4bzlSR0gtZ0hEanB4LUQ2eXRxMUl0Z2NRRFpHSjIxMjZKa3dveXhTQ2JKUEtOdzZfNWVQMS1SbEROZnp3M3lvSnlOOFRxMVl5eXdOdkpPV1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://gornictwo.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3378,7 +3436,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzhwRWFZUUpteUxCakUxOHdTWjBIX3Y0bDZleWNqalFkSjVKY1k3RjVlbjhmdFZ0Z0hUUGRSSGxpYlE2WDJTQjBBeFkwQ0dTSGxEcU4xQmhhdlVPU2FWOTU5Ty12cHFsRWk5NGFidmpiR01iNkEtYkVyblJaZGNOU0pKU2tZT3JaWnpZQzdWSU9yMXFuUUlSZEFMWTc3bk9FeTA2R01kT19qMGV3a2Etd1BCR3lDTUI4VWxBa1huNWNKbXd6Nmx6UHVYaUlvRHFfWTQ0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGNNV2tqb2Zocmo5QkhEeWdWcm9KaEIwd3d3dVJQQ0RVbmxOSDh5X2ZSVjZaVWx6NS1idk5hcm9JZUM1ZlpBSTVJa1JjQ3NLR1h4ODM0S2ZhMUZoWG9XcEE1MFBtRmg5aHN6YUhVWTJ3R3p5d1k1RDkyX21WRGo2RDgtb0hUeUZvSXpoQjJrcmpLbEFPSVpwNDV1d0hucW9iRDBkYlhCLVZvQWpsVUhpMDNrb0dReHFEa3pjSnh1NXNUWnc5cmE0?oc=5",
           "type": "press"
         }
       ],
@@ -3386,7 +3444,7 @@
         "PGE"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
