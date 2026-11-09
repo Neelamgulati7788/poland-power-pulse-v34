@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T11:57:41+00:00",
+  "updated": "2026-11-09T13:12:43+00:00",
   "signals": [
     {
       "id": "src-fbd0a34a4d0e90083c",
@@ -176,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d19ee712b8109c022b",
+      "date": "2026-11-09",
+      "title": "Miała być zielona rewolucja, a jest spalanie diesla i awaria. Miasto zapomniało o... ładowarce",
+      "title_pl": "Miała być zielona rewolucja, a jest spalanie diesla i awaria. Miasto zapomniało o... ładowarce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miał być dumą Nowego Jorku i symbolem zielonej transformacji miejskiego transportu. Skończyło się wizerunkową wpadką i spalaniem drogiego oleju napędowego. Nowojorski hybrydowo-elektryczny prom, warty 33 miliony dolarów, nie ma skąd czerpać prądu, ponieważ miasto wciąż nie postawiło dla niego stacji ładowania - donosi dziennik „The…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Miala-byc-zielona-rewolucja-a-jest-spalanie-diesla-i-awaria-Miasto-zapomnialo-o-ladowarce-9226043.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-c68caf426c8b341060",
       "date": "2026-11-09",
       "title": "To po ile dzisiaj płaci Enea Bogdance za tonę węgla ?",
@@ -263,6 +292,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-c3fc274a4d9de1e50a",
+      "date": "2026-11-09",
+      "title": "We wtorek maksymalne ceny paliw niższe niż w poniedziałek",
+      "title_pl": "We wtorek maksymalne ceny paliw niższe niż w poniedziałek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "We wtorek litr benzyny 95 ma kosztować nie więcej niż 6,04 zł, benzyny 98 - 6,67 zł, a oleju napędowego - 7,74 zł - wynika z poniedziałkowego obwieszczenia Ministra Energii. Oznacza to, że ceny maksymalne benzyny i oleju napędowego będą niższe niż w poniedziałek.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/We-wtorek-maksymalne-ceny-paliw-nizsze-niz-w-poniedzialek-9226107.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-c2bea2eebca889e798",
+      "date": "2026-11-09",
+      "title": "Niemiecki rząd zapłaci za produkcję wodoru w Danii",
+      "title_pl": "Niemiecki rząd zapłaci za produkcję wodoru w Danii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTNENHhQRWs1eTNLOURIX2FtQ2ZMQkFjV3o2YWJzSkpTR2VNa0xSN0hUb1kya1puSkhNbUFRZlZ1M2NlZ0NVZHdEVndJWm0ycnRFcFVYUzFvNDk2TEdhRUthU0tvX1VKSmV5NTlCOUVBX09lT2hpcGMxVVJHTU55WXhiS0J1YTh6ZjlzajFRa0xHWFlRd0MtYnEzSQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c0ce45f14d1ac7a944",
       "date": "2026-11-09",
       "title": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Kompleksowa dostawa energii elektrycznej obejmująca jej sprzedaż i dystrybucję na potrzeby Szpitala Pomnik Chrztu Polski w Gnieźnie",
@@ -304,6 +391,35 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXRzYUJMMmhiTzVvWHlQcEV4MHhZR0ZPZC11M1h5ZnB4N2tWSW1YQTZxeHlBTVh6RzJZS0RXdGJ5ZHFPTzBQM3l1WlVJNWM0M3BjNDVHc1d2enNzSUVRN1pIWF9Sdkg0WDBjZEpYYzdFNmthN1U1TzRvZVRZa3k2aUZMVmZCNksybVNSc2VBUkFJM2tyYmVPSUJlcmNoTmlDNFNN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-baaff85391b7a4b034",
+      "date": "2026-11-09",
+      "title": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 6,04 zł, benzyny 98 – 6,67 zł, a diesla - 7,74 zł. (PAP)",
+      "title_pl": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 6,04 zł, benzyny 98 – 6,67 zł, a diesla - 7,74 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOME5GR3kyOXNTTWJwQzNSR041YzM0eW5hVUg0MVNxZEtQVkhVeHUyM05FV24zMjBjS004UW8tY1hmdE0wV0pPTGVaaTlJZTNGN3QwTHVXdHhkdjNHUHo4dVdPVl8ydWF3c2RzNjhzeGxqSkRZSWlfSEFxYmJVSEtwV1FXdk56MGhLZDFGZUloUmpxQ0l3YnRwajBHZmFSVlk0d2hMQ0ZTVVg4b1JlQXZUdzdORkZPcUpyQXpKSXB3NzBwS0hzM1ZxMVV3V3VwNWVxQjNDRURtUURJOHR2ckZZZjh2dUdvbE5jbVdFSA?oc=5",
           "type": "press"
         }
       ],
@@ -582,6 +698,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-703fe649892ee46006",
+      "date": "2026-11-09",
+      "title": "Zachodniopomorskie: ruszyły pomiary wiatru na obszarze przyszłej morskiej farmy wiatrowej Baltic West",
+      "title_pl": "Zachodniopomorskie: ruszyły pomiary wiatru na obszarze przyszłej morskiej farmy wiatrowej Baltic West",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUNaNUtaM2c5MUpnc2JOU2c3VlpNV2c0TUNQYlNKVERKRk0yX2c0ckxjeGpRY1JXOGJjSkdrS3BZMGprUGhDY0h0emIxbmFXRWlYaGV3X2FZRUpueXZYNVBnbGlVampOU1dVVkg3b2ZfRjdKdG1yLUdiWHAtU0s2SnNTdUhHUC1RS3ZESk92aC03TnN4d1lGYzVfYjlFUWJVbWo1c0JqeWRDdmRCLTgtLTJRaWxlVXlkVkl1MnFWUEI0Wk1SM1hOWTB4b3pGQzNOSUZvb1paVXpKRk9kWjB1Z29hZkdqZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-680dc6839ca96ebb6c",
       "date": "2026-11-09",
       "title": "Ważący 120 ton kocioł trafił na Śląsk. Będzie sercem Parku Zielonej Energii",
@@ -727,6 +872,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-565c8b5bf0e835b6f1",
+      "date": "2026-11-09",
+      "title": "Wykonanie robót budowlanych – elektrycznych – paczka nr 3",
+      "title_pl": "Wykonanie robót budowlanych – elektrycznych – paczka nr 3",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zakład Komunalny \"PGM\"",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3e63-1124-b240-c1c5-d5000193ee5d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-52a0fedddb36b2311d",
       "date": "2026-11-09",
       "title": "PGE’s CCGT project in Rybnik secures major financing",
@@ -843,6 +1017,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-45fc794c2ae081a3f7",
+      "date": "2026-11-09",
+      "title": "Uczniowie zbadają energię i zaprogramują roboty. Rusza OZEdukacja 2.0",
+      "title_pl": "Uczniowie zbadają energię i zaprogramują roboty. Rusza OZEdukacja 2.0",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOci1oRG1aazMzYVV4MTVKWkRhMW5jWG1Wa3RwNnRTNEtReEozZFljb0VwQzViS2t3Zy1tcjZoMkNSTEZQei1kd3Z1YzQ3NmFPNEZCcHJpd21OV19oTVVadkNDM2lZenJpNnpxR2VUZDI0aVFxWUVYTS1ZSG0yTU1iMzBDbE1nekxzUHZOajlEcDZLS0tnT0cxYkFIVlRlV080N2c?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-45352e19858ea30ed8",
       "date": "2026-11-09",
       "title": "Rafineria w Możejkach może zostać zamknięta. Co zrobi Orlen, a co rząd Litwy?",
@@ -899,6 +1102,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-35889ca8fcfe670cf5",
+      "date": "2026-11-09",
+      "title": "Kompleksowa dostawa energii elektrycznej obejmująca sprzedaż energii elektrycznej oraz świadczenie usług dystrybucji energii elektrycznej do Zespołu Szkół Centrum Kształcenia Rolniczego w Karolewie.",
+      "title_pl": "Kompleksowa dostawa energii elektrycznej obejmująca sprzedaż energii elektrycznej oraz świadczenie usług dystrybucji energii elektrycznej do Zespołu Szkół Centrum Kształcenia Rolniczego w Karolewie.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Szkół Centrum Kształcenia Rolniczego w Karolewie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3e63-058f-d81b-c1c5-d5000193ee59",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-3485530dd23c80e32e",
