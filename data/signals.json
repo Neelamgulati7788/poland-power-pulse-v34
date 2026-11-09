@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-09T01:05:39+00:00",
+  "updated": "2026-11-09T02:14:04+00:00",
   "signals": [
+    {
+      "id": "src-c0ce45f14d1ac7a944",
+      "date": "2026-11-09",
+      "title": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Kompleksowa dostawa energii elektrycznej obejmująca jej sprzedaż i dystrybucję na potrzeby Szpitala Pomnik Chrztu Polski w Gnieźnie",
+      "title_pl": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Kompleksowa dostawa energii elektrycznej obejmująca jej sprzedaż i dystrybucję na potrzeby Szpitala Pomnik Chrztu Polski w Gnieźnie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SZPITAL POMNIK CHRZTU POLSKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-56c2-9f2f-c1c5-d5000193e248",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-3485530dd23c80e32e",
+      "date": "2026-11-09",
+      "title": "Polska – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu dla Zakładów JSW S.A. w tym: Remont i legalizacja metanomierzy indywidualnych i przenośnych, Remont i legalizacja urządzeń typu: Xam-2800, Xam-5000, Xam-5600,X-dock",
+      "title_pl": "Polska – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu – Usługi w zakresie napraw i konserwacji urządzeń do wykrywania gazu dla Zakładów JSW S.A. w tym: Remont i legalizacja metanomierzy indywidualnych i przenośnych, Remont i legalizacja urządzeń typu: Xam-2800, Xam-5000, Xam-5600,X-dock",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jastrzębska Spółka Węglowa S.A. z siedzibą w Jastrzębiu Zdroju, Zakład Wsparcia Produkcji",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-56ab-44b1-c1c5-d5000193e246",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-f7d4276ffaf6b997ae",
       "date": "2026-11-08",
@@ -292,6 +350,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ba54e68abc2d05db93",
+      "date": "2026-11-08",
+      "title": "Enea staje się holdingiem. Jest zgoda rządu na zmiany",
+      "title_pl": "Enea staje się holdingiem. Jest zgoda rządu na zmiany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3JVSW5YUEpJOEIzTTF2elh5S3hfOU5PZG9hSGNZQTlVZjRzeVdILUZLb1JoazFSSlJfVzJyenFMUEU3ZXNLa3JxQ0pkeVJ5Vm1kWmxpenEyYWxIa2xYUC1rVzRLMlZ3RTEwZ2U2U1B5b3RVSFJKaC11aHhzMFhaWnFlVlVRc0VPYi1XMkxNMTlHTHJKM2V4R3VIOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b6db3154068a06fbb2",
       "date": "2026-11-08",
       "title": "Jak przygotować firmę i jej otoczenie do bezpiecznej transformacji energetycznej",
@@ -464,6 +551,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7e859fecce09201b3f",
+      "date": "2026-11-08",
+      "title": "Bankructwa hut wodorowych (uzależnionych od dotacji).",
+      "title_pl": "Bankructwa hut wodorowych (uzależnionych od dotacji).",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeExtS0lsTkF4ZUlrU2pUdnp5Tm10alNPUVBKRkFKeERRR3dWY2hKX182UWppbGNUOU0yQkpVLTNpNmRONEk2NjA5ZXpTcl9YazhsUGNfaWFRZVBiWGJRckRsRVc3TWNta0s3SWdoV2YwZjVJc2pfZnNlUXlhaEhyQlcxeG5OSUdQVHllYmt1em5oYUJNQ0R2RVNQSzdOSTFh?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-77f746a4a9371e9c73",
