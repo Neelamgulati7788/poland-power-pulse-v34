@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:57:04+00:00",
+  "updated": "2026-11-09T20:54:15+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -1018,6 +1018,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-aa880c7137677510d7",
+      "date": "2026-11-09",
+      "title": "Orlen powiększa największy magazyn gazu w Polsce o ponad 60 proc.",
+      "title_pl": "Orlen powiększa największy magazyn gazu w Polsce o ponad 60 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen zakończył rozbudowę podziemnego magazynu gazu w Wierzchowicach na Dolnym Śląsku. Zwiększa to krajowe zdolności magazynowania surowca o około jedną czwartą, do około 4,1 mld m sześciennych.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/orlen-powieksza-najwiekszy-magazyn-gazu-w-polsce-o-ponad-60-proc/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-a99b984948278a13bb",
       "date": "2026-11-09",
       "title": "Spółka zależna Onde ma Umowę z PSE za 23,6 mln zł netto",
@@ -1042,6 +1071,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a65e5d88a4cad351de",
+      "date": "2026-11-09",
+      "title": "OIRE prowadzi bezpłatne szkolenia dla profesjonalnych uczestników rynku energii ... - PSE",
+      "title_pl": "OIRE prowadzi bezpłatne szkolenia dla profesjonalnych uczestników rynku energii ... - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxOTFZLNTB5QnRzLXJPM2FnU2R1aU1XZEhKd3ZiWXU4ZXVkQXBLVkN2QUZVMTNWQVJFSlBPdnBiTGpGUlRyTXRUelRqNTF2d2pYelN6S2YwOWFYTXJuUGNNQjIzaVA0UG1udnBIWnhLc1lEQWZWM0JWRWlhM056Ulh0Z0dKZXE4dWFFVDdtelhsUzdHY2NyeFZpOXBwRXhLMnY3SEg1TkJmeWVid0RaQkNCZnJCVzJRdjFfRWlTLXd1MVAyTV9BU0FoanRQR3NBQnFWSG5aVzdLUnVKal9hV3daT0JjaWRfQzBYQUxwZGhFTzV1MU9LT2pzZGZ6cDhmSW1UanAwMzVTRUJjc201ZXlLckZsVEp5ejNRV1N1cWp5VGRRVS1tTWw2Ui1EQzVqdnhscS10UWZrbmxEbUxJenliUzRsZjEzeVdETUxielo0aXBGWVFwNVBvMldIaXMyS1AwZEEyOVRtQ0dKWTlYelNiWFZVNnBzbjdjOHRLT09leEJPUlVvYkR4Sll6SXIxQWVmVXBLMUpNLV9uRjYzUWJKdFZCTDB4ZnF5WjdnMldYYVphME1fSHhtQVdmdnh3RTlOOWJTanZVQ3c4T0V3YVJWdjkyaWRLZzZ4WnlmQUFJOXk5WjdqWFBBdmVaN3N5RUozNnJpWk00a1RmR3dpOUF4MmFhb3doZW84NVF2VlRvZUo2YVR3TlF2dlhBUGhQVTBSaWRlcnFQcEZjS3R0OUJDZG45N0NibEJOdXYxRXBvbWtjbnp6dnI5enhVODlzLTJtazVMRGNEZkpDc0ZObVVGc0cyVWVfSVViVTM4MTR3d0t1MFEwTDVsS1VoSncydlQ4X1F5Qk9PSGJzMldHOWR3U3o1RDZJS1lMVkxWTUpWTkhMazZyX3gzTkVRQXdPWkp2TC03MHdUWDE0VHloZmxwZXNlZUdrVUZLbTN5WXhWR1V2MTRRQWlKektyYmdabnN6cnlSNVUzRW54UEJrbXVyQm02Y1JkOWZzTzkwTzdUZlBGUFU0VGI5cTcyS19GNmxhMlkyLURxdEZIazdfVnNNd082c25IWFVVUGVUVzVvRVZhNlpndnZtcWpaQXI3T1FmTThHYk5vLU5PV24xa0xyRThGWmF1TEozZEJlVjVlRVM4RV9ldjZaSWVhVXlNNk1CM3h4S1Q3aHlrODdvLXdKUXE4R3h5SVAwbjg4UzFGdnFxczBpaUFxbTFvR3ZQN0tVUlhwNVQ5TF94YXlZaUREd3Z2bG1aQzFNSXBCaVVZZEdSb2Z3aG1FSU9nSTJjSlFqRzNGSnhWWWVuVktxeDNYWlYxbkVUMHB2cmNLVXJjYUJJSWYzV0E?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
