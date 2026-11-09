@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T03:25:35+00:00",
+  "updated": "2026-11-09T04:38:58+00:00",
   "signals": [
     {
       "id": "src-c0ce45f14d1ac7a944",
@@ -58,6 +58,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-937a454e87fdfc84e8",
+      "date": "2026-11-09",
+      "title": "Energetyka, AI i obronność. Te sektory mogą napędzać polską gospodarkę",
+      "title_pl": "Energetyka, AI i obronność. Te sektory mogą napędzać polską gospodarkę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjRhM0d1ZDlfZzZsbzduak5sdmJfTGkwMGZIQTA0UkI5WmtnQWtRY1UwN3lxUnU4cmVYdGNfMmN2LU44c19iVTRvQ1VlNWxxcjJKTjFVdlFXZkRJbXlsTmw1LUJ2bXA2UDJ5Wk5IOWlGdExLVzhZSnZwVTQtQk9LaUNFdE96SlNtSG85b21OSEZNM3FrcWtvbjZsTGNrWWwwUEx4OWVHa3AyVmpsalJLSUFlbVUwUXJi?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-76d3fb5ab3fb427024",
@@ -145,6 +174,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ffa68050b30fbb3989",
+      "date": "2026-11-08",
+      "title": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "title_pl": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmt6TUExN0xYMk4tVlM3eDRXcmRxS1d2RUF0UWRlbWhyRWhhaGUteDhBNUVkZzNTNUFCUVItZlZ4bFFVQVFuRTJsaER4WDgxWEFyV3gyNGttTUUxeXNPS3JMTno4Mkk2X19yYTJuMXpHTXRUVjB6SFNfWWlGTTBiNzdkLTFJUG5vcmY5VnhCc2JlQmxsdjRYVkZqTG5veVFYMUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f7d4276ffaf6b997ae",
