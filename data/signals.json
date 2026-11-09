@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T07:30:50+00:00",
+  "updated": "2026-11-09T08:48:48+00:00",
   "signals": [
     {
       "id": "src-ee989d599103a9a597",
@@ -84,6 +84,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d4cfd409844a93dfe7",
+      "date": "2026-11-09",
+      "title": "PGE podpisała umowy na budowę czterech magazynów energii. To część większego planu",
+      "title_pl": "PGE podpisała umowy na budowę czterech magazynów energii. To część większego planu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXFjaUZuV3BzaGJKQzFIS3hodjBHWnBuNy1SV0plX3drUnNQT0J6OEFnU19uazVoOGtremtwT2F4RktCYTdodEt5cWFqRGtKZnFsSHBUTGpGOWlZb09peERFcmpVc1o0Z3pMRzdzTTlROWl6UXpBQXVGeVRyczNiX0NOMmxHNVpvZkNHc1Mzb3RzNThlVnp3VUxsOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c4e9f9bffad6a2a95b",
+      "date": "2026-11-09",
+      "title": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom) | Biznes PAP",
+      "title_pl": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom) | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbF9vUGpxTzhjUUJ6cGdHVF9YOURFTVF6VjFlMnVyX2hlZkpDOXA4RzN2M20xekFWRk5jTGVpVFVrUU80bVJDZkI0LW8tM29iSlR0LWMzakZlV0V0dzBzQnh3WHA1OG1JNUJVVFkyVHhqT3puclVLQXNJUlFaaUhLRVZRYWtXd0FoV0dxcWJtVTIxdGxCa2xyQmFoa0lLWWVPZDhNbVV4TDg1V0oyUEdEWjhkTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -176,6 +234,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-9adc0f3cc0beb43a74",
+      "date": "2026-11-09",
+      "title": "PGG S.A. Oddział Zakład Elektrociepłownie",
+      "title_pl": "PGG S.A. Oddział Zakład Elektrociepłownie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WWDlGa19Wb21UVy0wQjVuR1pVbnRHOW1BbVpQU0lTMzJWc1NVV2NwejF5ZVYzZklrNUFPQkQ4V0JlQkVqN2x1b3hqM0ZfVWdqUkNpZXcyVGI4NFJJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-937a454e87fdfc84e8",
       "date": "2026-11-09",
       "title": "Energetyka, AI i obronność. Te sektory mogą napędzać polską gospodarkę",
@@ -200,6 +287,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8f8277f67df356c5bd",
+      "date": "2026-11-09",
+      "title": "Polska ma już 1,6 mln prosumentów. Teraz czas na magazyny energii",
+      "title_pl": "Polska ma już 1,6 mln prosumentów. Teraz czas na magazyny energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQU4wSW05ZmVzVW53NktDTmI4U054Y05PN2lzMUVSbFZ2V19JaXBmRV9HOWZsR2JmWEoxemI2TVo4Sy1DeEZZYTNCdDNPRTBWRUkydG0xOXJOZndlRWRtVkI1Z3ZkYWJka1BELS02SjhpYXY2RElsVF8tbkFMTkEyN2hmSEJqaU9ma09NaFJVQ0xDNDFrU05nSFktZzMtWlV3RnhjWFZUUUxWOFVGcWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7e1f0555a1b71d089c",
+      "date": "2026-11-09",
+      "title": "Tauron z prestiżowym kontraktem na sprzedaż energii w Warszawie",
+      "title_pl": "Tauron z prestiżowym kontraktem na sprzedaż energii w Warszawie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0NHaTc0NUFvcEdEalRwSEdnM2kyOEo1VmpuWWVPVlJIcExQVjN2T3FSUVNLNFFIaUI3UlpXVXFmU1ZmYlFZM09hSGpDdnNDNXFDWURNbndhTEpDQkZxbnc3TDQ1VjIxb3NkRDZJUnFkNnpwV09vTFk4S0g4eldaVVBFVDlVSFhyQWlVSTNwWkwyYnRFZlEyUUFqSGI3RzZNUm9JeFVB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -432,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3b1e135d1b6b73d433",
+      "date": "2026-11-09",
+      "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
+      "title_pl": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWt4Sm5IZ0tFUDlhNlRTZFRsWl85SVRrNlU4aU5IY0NiUERzenYxXzA4eUlsMUdGZFFpNFg3cGttRjNmdlpCSGwzSzU1ZVZ5aHc4b195MmlRSGp6LVBjTzRmLTMzclVoYUhLMlhIQmViTmRzZ2hCYU9CSHFRWC1RdTNNTzI5VVFkWjRRdGI0Zk14cmI4NFRDMGE2UUVOUjNJWWJSUjA2b21OVExTalE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
