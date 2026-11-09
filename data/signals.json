@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-09T15:32:00+00:00",
+  "updated": "2026-11-09T16:40:15+00:00",
   "signals": [
+    {
+      "id": "src-fd6fea1280ce01e9e2",
+      "date": "2026-11-09",
+      "title": "DZIEŃ NA GPW: Na GPW uspokojenie po burzliwym tygodniu; Modivo zyskuje 7 proc., spada Orlen",
+      "title_pl": "DZIEŃ NA GPW: Na GPW uspokojenie po burzliwym tygodniu; Modivo zyskuje 7 proc., spada Orlen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHFadVFuRGowWGFqOGEzZWw5SmNwYnZUemFNRG1IeGdnSDAyNU9JZ2kxVGtLd1dEQ1hmWk9FZ0RpUnl5ejRRbHFMZUdvdk1ZTnRZd0NuajQ0dmxEWXhybHNuZmVibHpPTzVCTFZYVFFzSV9VYUttZnQxMm1FaWxiUFBnZ2UzdXdNdHNISW9mVXJBY0d5NGlmdURPNDRWUl9xSUl3aWNlSi0yN29vLUo3dUJ0WHljQ0lWWlRWNQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fbd0a34a4d0e90083c",
       "date": "2026-11-09",
@@ -171,6 +200,36 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dead073bcd870bae03",
+      "date": "2026-11-09",
+      "title": "Hipower Energy SA: Zmiana harmonogramu publikacji raportów okresowych",
+      "title_pl": "Hipower Energy SA: Zmiana harmonogramu publikacji raportów okresowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1czTTVOWHJXV09uZmdUdnFySDBCYy1kcmFfNHA4NkFoWmswLUhObkpBUENVU2xKYzFYSVVfcFBab2ZpbTVFblMxeWR5bG50MWliOWc4d2JZb1ZfeHNtdHctNkpvUWhiWG1PX3Vyb1dYckRuUnY0Z2oxWC1teGdZS1hOUG9hYmNpXzdiLUNzSkpCYTEwRWhMS1lVbnRXTVh6QjlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -350,6 +409,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-d1605b835399e8ae5a",
+      "date": "2026-11-09",
+      "title": "Giełdowa wycena Orlenu spadła już o 44 mld zł. Na zaciągniętym hamulcu ręcznym indeksy poszły w górę",
+      "title_pl": "Giełdowa wycena Orlenu spadła już o 44 mld zł. Na zaciągniętym hamulcu ręcznym indeksy poszły w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Początek nowego tygodnia na GPW przyniósł odrabiania piątkowej przeceny. Na warszawskim parkiecie motorem napędowym poniedziałkowych zwyżek były przede wszystkim rozpędzony sektor bankowy, dynamiczne odbicie miedziowego giganta KGHM oraz rajd akcji Modivo. Przed większymi wzrostami indeks WIG20 powstrzymała jednak głęboka przecena walorów Orlenu, który okazał się…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Gieldowa-wycena-Orlenu-spadla-juz-o-44-mld-zl-Na-zaciagnietym-hamulcu-recznym-indeksy-poszly-w-gore-9226314.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-ccff1da9ebc0a7a29d",
       "date": "2026-11-09",
       "title": "Drony zabiły pracownika Zaporoskiej Elektrowni Atomowej. Szef MAEA ostrzega",
@@ -403,6 +491,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c6934954d6b231537a",
+      "date": "2026-11-09",
+      "title": "Wydzierżawię 2,96 ha pod farmę PV / magazyn energii - gm. Żabno, pow. tarnowski (małopolskie)",
+      "title_pl": "Wydzierżawię 2,96 ha pod farmę PV / magazyn energii - gm. Żabno, pow. tarnowski (małopolskie)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFpqNnMyNEIzRWFWRDFzVmJWVEJBR1BfZ0ROamlra2dXTUVpMi01a29IYkNSZkhmQTRuTWtvX2pyODVFRzhwT25RLWtFVkNST0R0MGRZRTZtckkyZVJoVl9LYkQ5WXF1Q1FuVDFWamg5WFl4NnJwSnJSNFBLS2NPWVRISlNZLU52Q2dtekgta1lJX3N3cFFEa3lEbXMzbk9xZkZZMkRHVzJYejZSVEczYzVETVZlT1oyMTBJLWZnVWJ3TUtPM1J1bFc5M2tmTFRkNjk4SFln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -814,6 +931,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-a99b984948278a13bb",
+      "date": "2026-11-09",
+      "title": "Spółka zależna Onde ma Umowę z PSE za 23,6 mln zł netto",
+      "title_pl": "Spółka zależna Onde ma Umowę z PSE za 23,6 mln zł netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzRFNVpMRzdqTURsUjA0VTZaTzdXZzZPakREc0RLOWtnRklIWXRpTVpDMEJUa0FtWE9ya2UxV3I0NE5ja0xmTVFhWTl3V1VSNjJ6Mk85QlAyRVF1cEJjNnpvczNQaHczd2pwTmpRb3VyNTVCUGVoRHFWZXJHMU9MWFVzVzZLUXlPRWZ6X29EeEI0SkJtM3lOeg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9adc0f3cc0beb43a74",
       "date": "2026-11-09",
       "title": "PGG S.A. Oddział Zakład Elektrociepłownie",
@@ -951,6 +1097,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8a8cdf0a65cb966f32",
+      "date": "2026-11-09",
+      "title": "Sprzedam działkę przemysłową pod magazyny energii i inne",
+      "title_pl": "Sprzedam działkę przemysłową pod magazyny energii i inne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlFqZ0c1cWc5SjdGdmNBaktlbkV2OEQtMmRLM3g3RTRtRlEtOXkydk9OdXY5dW0yZmowTXpTcmhkeGhNVUhOM1dqMUhMWkZGWUJVRUVSampXeVI4M21WNzF4T2tRUjJiby0zNHZUZUFsMW40MVppcy0zbHhOZ1BxeU50Ym11N1dXVllCYU9JYzVIdlFiZHJmS3BmQmF1aHZsSjVNUE1ZZzJ6WldWVVdocnVfMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -1157,6 +1332,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-682da08f0690b891d0",
+      "date": "2026-11-09",
+      "title": "Ocena rentowności magazynów energii",
+      "title_pl": "Ocena rentowności magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEJoa0Z2RkhIMGdKbWJKSW5HcGdNNUdaWUtseGJQX2N4MHdFcXlzU0w0U3VUSlo0bnlKQm1QU3ltdXh6OWsweXp6NnIxeWt5NnRsR0lJY3ZRckRoV3Q0MUViNmc1NEVlT3Y2SW1pQ0VSV1V4VzZ6OE1sSVJ6bGxQYXRhODhPMVdLa1VMS0xsX1lmRVlWSUJ3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1737,6 +1941,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2233d7f0d9cd1212c1",
+      "date": "2026-11-09",
+      "title": "Budimex, Keppel Segherts to build waste-to-energy plant in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDg2OFhFZ01HSG54SFNHb0ZvSmxzZkVib2hFOVVSeWJqdk9BMzZVXzNHX1hFR2NTSmZuNldHZXltWHBBTXNLMEJoOUVISjFYRERGbEZzR3YwVy1wTm5OWHVOOXM4bzM5cFdqcm9yVmN4QkIxem1hNlhKSEVTb1RzOTAtYkJaXzJQbU0zeWItUy1ZV3BZTzBIZzVyeXlqcHJ4dm5oX3lQaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
