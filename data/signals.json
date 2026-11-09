@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:14:04+00:00",
+  "updated": "2026-11-09T03:25:35+00:00",
   "signals": [
     {
       "id": "src-c0ce45f14d1ac7a944",
@@ -14,6 +14,93 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-56c2-9f2f-c1c5-d5000193e248",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ad4927dfba4fc9f56e",
+      "date": "2026-11-09",
+      "title": "Polska – Różne usługi inżynieryjne – Różne usługi inżynieryjne w Zakładach JSW S.A. w tym: Modernizacja kombajnów ścianowych, Modernizacja ciągników manewrowych akumulatorowych, modernizacja kolejek podwieszonych spalinowych, modernizacja lokomotyw, obsługa i konserwacja kolejek podwieszonych, lokomotyw torowych i urządzeń transportowych wraz z zabudową tras kolejek podwieszonych i utrzymaniem funkcjonalności dróg przewozowych",
+      "title_pl": "Polska – Różne usługi inżynieryjne – Różne usługi inżynieryjne w Zakładach JSW S.A. w tym: Modernizacja kombajnów ścianowych, Modernizacja ciągników manewrowych akumulatorowych, modernizacja kolejek podwieszonych spalinowych, modernizacja lokomotyw, obsługa i konserwacja kolejek podwieszonych, lokomotyw torowych i urządzeń transportowych wraz z zabudową tras kolejek podwieszonych i utrzymaniem funkcjonalności dróg przewozowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jastrzębska Spółka Węglowa S.A. z siedzibą w Jastrzębiu Zdroju, Zakład Wsparcia Produkcji",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-3dd3-84e8-c1c5-d5000193e152",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-76d3fb5ab3fb427024",
+      "date": "2026-11-09",
+      "title": "Polska – Aparatura do analizowania – Dostawa analizatora parametrów krytycznych, skanera naczyń krwionośnych, aparatu do kriochirurgii wraz z sondą kriochirurgiczną do aparatu i elektrodą bierną",
+      "title_pl": "Polska – Aparatura do analizowania – Dostawa analizatora parametrów krytycznych, skanera naczyń krwionośnych, aparatu do kriochirurgii wraz z sondą kriochirurgiczną do aparatu i elektrodą bierną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Uniwersytecki Szpital Ortopedyczno-Rehabilitacyjny w Zakopanem",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-3d5f-f991-c1c5-d5000193e14a",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-67653a4173ea453595",
+      "date": "2026-11-09",
+      "title": "Polska – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie dla Zakładów JSW S.A. w tym: Zakup lamp nahełmnych",
+      "title_pl": "Polska – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie dla Zakładów JSW S.A. w tym: Zakup lamp nahełmnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jastrzębska Spółka Węglowa S.A. z siedzibą w Jastrzębiu Zdroju, Zakład Wsparcia Produkcji",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3dff-3d86-ec3a-c1c5-d5000193e14c",
           "type": "official"
         }
       ],
