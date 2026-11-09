@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:12:43+00:00",
+  "updated": "2026-11-09T14:33:44+00:00",
   "signals": [
     {
       "id": "src-fbd0a34a4d0e90083c",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f454862393d61acee9",
+      "date": "2026-11-09",
+      "title": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom)",
+      "title_pl": "Enea: bloki gazowo-parowe w Kozienicach będą gotowe w 2029 r., 75 proc. prac przypadnie polskim firmom (MediaRoom)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbF9vUGpxTzhjUUJ6cGdHVF9YOURFTVF6VjFlMnVyX2hlZkpDOXA4RzN2M20xekFWRk5jTGVpVFVrUU80bVJDZkI0LW8tM29iSlR0LWMzakZlV0V0dzBzQnh3WHA1OG1JNUJVVFkyVHhqT3puclVLQXNJUlFaaUhLRVZRYWtXd0FoV0dxcWJtVTIxdGxCa2xyQmFoa0lLWWVPZDhNbVV4TDg1V0oyUEdEWjhkTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -84,6 +113,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e616ebf990d1c96024",
+      "date": "2026-11-09",
+      "title": "Norwegia wstrzymuje rezerwację przyłączania nowych centrów danych do sieci energetycznej",
+      "title_pl": "Norwegia wstrzymuje rezerwację przyłączania nowych centrów danych do sieci energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWZ2SmRUZXFNdk95WmFNNUJOTGI2NVJxcVpCVTdpTmFKMmlqNTRjaGMtamRXV0R4Zk83NEdpbmhReGF2R2NOWDlTR2tFcVJJRTNiRkItRjVaR1Zza3ZhakhSTGxGVWM2bkhORHRnTnROQWotbVk4ZFljSnNzbVBlTVF5QnYxX3lVTHlMdnZWQnVfQ0d3YjNrX3ByT0JCUmpuVFc3UU5vcjJFbVhYc0NyQ1Q0RzY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d8bfa9a2ed91adaa2a",
+      "date": "2026-11-09",
+      "title": "Poland's Industrial Development Agency to grant JSW coal up to PLN 1.06 bln loan",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTFrOHVWSHlUQ3hYUVkwLS1wdTNUV3RLWW5Pdm9PX3hod1oxX0FFZ3dMUVRzc0FOakV6aGQzWXY5dmMyLS10ZGJUUTE2aEVsMzU0ZUpkMi03aHFVWjU2TDJUV09pcC1iOFp6WmhkYjFIWnloQW9sMTRqUWpGeUwxRFM1MnVaVlBuc2c0MEgyTnhMenI5d0lRXzRsRVhpSWQyOWZFMl9MNnpoWkp4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -292,6 +379,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-c479584ede49a5f306",
+      "date": "2026-11-09",
+      "title": "Equinor handed over O&M base for Baltyk wind projects off Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT052WEpfQW56OHpmVnRUaEtPNEFTZ3FqR1JiQ2UwNk4tbmRaM2hEVklvNjZIUnpNNnhfQUFNaGRKUGhLM01ueE5TYjdRb0xDNVQ3Y1RQbFRVS3VkUTdQR0MwSjJ0TG45bzJrLUVBS1NyYXU2Z2FGQ1F1bGVDSUhoNldteDNjcVZMcUFxemFKR3FyTkl3ZG5MLW16QkVnRlgyd2lkYXN3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "EQUINOR"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c3fc274a4d9de1e50a",
       "date": "2026-11-09",
       "title": "We wtorek maksymalne ceny paliw niższe niż w poniedziałek",
@@ -408,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bc81bdf68ed9c8c2e3",
+      "date": "2026-11-09",
+      "title": "Podpisanie porozumienia z WiN Poland i potencjał Mostostalu Siedlce w energetyce jądrowej",
+      "title_pl": "Podpisanie porozumienia z WiN Poland i potencjał Mostostalu Siedlce w energetyce jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT29EbTRyY2czbjZkSDlBS3pCUHFveWw0WWZXNEMwZU5ydmhLdEFVYVY1RmxCR1kySGNVTEx0X09QUkdPY3ZfcVVsNTNZdFR5TGVKbWNpenQtblo3dTc2b01JdThscGZGY21aYS14ZG8yc3JvY0hyQ0d3MmRtbm9SdlBVYTMzZVlOenpjYkV4aXFuOE84Q0x6ei1zWm1ETDFScmYtcjVOQlJfZk1MWlQ4czBSQTY5dUI1Qzk3bWxhRWQyek9QQTM5Z2ZleXQ5eUdBTmhBLWF5YzhLQjZKd3VF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-baaff85391b7a4b034",
       "date": "2026-11-09",
       "title": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 6,04 zł, benzyny 98 – 6,67 zł, a diesla - 7,74 zł. (PAP)",
@@ -432,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b7ef6b9821a8a6df45",
+      "date": "2026-11-09",
+      "title": "Bessa w Orlenie",
+      "title_pl": "Bessa w Orlenie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XUVBjR0MzejZxek94dk1rQlNLTU1Wcjg0eUFZOXlvM1NxM0tXU2txZGczQ0xfM3ZGTVN6SUY3Q1djR0JtdGlFS0lGaFZ0MW9mVnJuUXR3VzhyS2dXRzdEZ3VraC1JMERwbDh4cFpLRnhodw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -478,6 +652,35 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WWDlGa19Wb21UVy0wQjVuR1pVbnRHOW1BbVpQU0lTMzJWc1NVV2NwejF5ZVYzZklrNUFPQkQ4V0JlQkVqN2x1b3hqM0ZfVWdqUkNpZXcyVGI4NFJJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-940ac9ae4123ce3977",
+      "date": "2026-11-09",
+      "title": "MAEA: pracownik Zaporoskiej Elektrowni Atomowej i pracownik elektrowni cieplnej zginęli w atakach dronów",
+      "title_pl": "MAEA: pracownik Zaporoskiej Elektrowni Atomowej i pracownik elektrowni cieplnej zginęli w atakach dronów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDN0dGpSOF9XMnJOT2VKT2JwRy04ZWRXMzBVTllGY1U0NTFxWmczdUhyRXVMTVBxLUJ1TXhmTEJHQ19ERGhXbDVzcGhUbW92aDFzVTBaSG9MVkNlQjYtNFBOTTR5SjdYc0VDOUhJMFRaWEJKcWFZelF0Q3Y0TG5tc0c0Q0FIRktGS0Z2d1dvRkNvOEFKcVhjcHZ0ZDR3R1lNVzdMbGphN251Wklud2dySHpfM3c0QlZiSjhfQl9FeXZpaGFVVGJLVjdFYWNEcl9RMlRWSGp0SmQ?oc=5",
           "type": "press"
         }
       ],
@@ -727,6 +930,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6b571a778bbf34af14",
+      "date": "2026-11-09",
+      "title": "Gra o kontrakt na 25 lat. Ruszyły pomiary wiatru dla Baltic West",
+      "title_pl": "Gra o kontrakt na 25 lat. Ruszyły pomiary wiatru dla Baltic West",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSng0NVBVOWs2V080dk1GcExvS0tDdXo4dXRaQk5DRFRKQ0lxNlBxQkxTUjJOSWJ5VVRXd0xOeUpTeWtjNjB3eGNXeWQ0N3dDOHdheVNnRWhyWHFJLUVOTkZJSFJPTzNuczg5bDNqRkxKdDc2am1saHZjbE1NdUlpRUk1U1ZTZ2FRa1FKQmpuc25UOHFiNzQzaTN1eEQ2OFUzLUgtbEZn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-680dc6839ca96ebb6c",
       "date": "2026-11-09",
       "title": "Ważący 120 ton kocioł trafił na Śląsk. Będzie sercem Parku Zielonej Energii",
@@ -783,6 +1015,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-5fac8456f25ab7009b",
+      "date": "2026-11-09",
+      "title": "Każda pompa ciepła i magazyn energii mają trafić do rejestru. Brytyjczycy szykują zmiany",
+      "title_pl": "Każda pompa ciepła i magazyn energii mają trafić do rejestru. Brytyjczycy szykują zmiany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWlRKOHNNRGtnUjlPd3VWZTktaGo0MEJrcVRHem9OWUNxQTVqTUgtdmtmVDU1OXBoWUstT0o5M2pOX0ZwYi1icFFnbVhuWGstMmFYd2tjQi00S08wNVA1SGtkX0NXUUd0blRaZkFJUVgyemo3UGdZRDBWX2tjVS1ERjhnSlc5ay1FQ1JiQTRzamFvQjlkZ1JUTC13VklJOGhRNUVOWU8zdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5ef2a71c5a92def264",
@@ -959,6 +1220,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4f1d5b8261ed619024",
+      "date": "2026-11-09",
+      "title": "JSW pożyczy ponad miliard złotych od ARP. Pieniądze na ratowanie spółki",
+      "title_pl": "JSW pożyczy ponad miliard złotych od ARP. Pieniądze na ratowanie spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jastrzębska Spółka Węglowa ma umowę pożyczki w wysokości do 1.066 mln zł z Agencją Rozwoju Przemysłu m.in. na rozliczenie zaliczki 400 mln zł z tytułu przedwstępnej umowy sprzedaży udziałów i akcji oraz na finansowanie działalności JSW prowadzonej w okresie realizacji programu naprawczego Grupy - podała…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Agencja-Rozwoju-Przemyslu-udzieli-JSW-do-1-066-mln-zl-pozyczki-9226190.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-4cd2cf6a7fcf3114ed",
       "date": "2026-11-09",
       "title": "NaszEauto na finiszu. Blisko 1,2 mld zł wypłacone na auta elektryczne",
@@ -1075,6 +1365,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-43ae44ac0ab2995b5e",
+      "date": "2026-11-09",
+      "title": "PGE contracts Electrotim to build 372 MWh of battery storage in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0JISTRTcXZaNkNvVE1yUW9TRnhpQ0NuNzlJTmt3OEhQM0Y4am5NcTBQN2t4S0NhUmpSWDgtT19ueWFadWlnTGpZaDlOVTVYNHVTVGhpUE9IT19pUWVlRW9rTFBBU2dsMnVkZVV5ZS1KMGN1V1ZNVkJlTnhfc0FRWTVaX0RhY2o3Q2JuS1hha3JKUDU4U0ZZUERTZVlXSWpZVjlwTFA0eVB3eFhrMGlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3b1e135d1b6b73d433",
       "date": "2026-11-09",
       "title": "Zapasy gazu w magazynach UE poniżej 73 proc., w Polsce mniej niż 98 proc.",
@@ -1186,6 +1505,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2b1001106c237e6d58",
+      "date": "2026-11-09",
+      "title": "Wiatr napędza wyniki Polenergii. Grupa zarobiła 43,2 mln zł netto",
+      "title_pl": "Wiatr napędza wyniki Polenergii. Grupa zarobiła 43,2 mln zł netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWNJUlpyR1RoN213UWdUOW9MLVM2NmFLRHVGM3lUZHZOeHlKUHB0d0JoV1o4c0N2UU0yMUJnNnl3ek12ZjN3dFlrbmVoQjRvX0JBaU82djFXbHp4QngyZDBOUzFBU2RpWTlLSUhwd2QzT1FiUk9DWVN3eWZsSmI5WVlBLWtpRWhpTTZpbzdCVEpTaUxMZ1dOR1RnTlRneU9JZlhfeWxoZjA1UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1c627e85756d3ecfc1",
+      "date": "2026-11-09",
+      "title": "Kampania pomiarów wietrzności na obszarze przyszłej morskiej farmy wiatrowej Baltic West rozpoczęta",
+      "title_pl": "Kampania pomiarów wietrzności na obszarze przyszłej morskiej farmy wiatrowej Baltic West rozpoczęta",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSVhhYkdRaEZoaWJGSHF5UVFYMWZqdW9YZjlBaU9YeTdDUXRSdkp6Q2s1TkwydVB5c1pjcDdlaW01eVNkTjBqc1l4cDVkV1phX2Z6Q2pPcEVhcV9zcG1KLWNOU0ZhXzE4VVZ2OGwwLXotekJETV9EU2RuUENaSU5RVGZTY2lNM3ZKS0ZEM2hPT3BPbllCSy1JUFRocjhJSloyNlFDNk8tNFluT2JsRktkWERBYlVFeHg2RjZScWZBQzFaUDZEZ25nN1JDa3NZcmZQaVlHTXBZbzVMLXJxTkNMVG5PNFNoSGFfbmc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://neptun.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
