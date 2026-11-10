@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:54:27+00:00",
+  "updated": "2026-11-10T20:47:38+00:00",
   "signals": [
     {
       "id": "src-ff663da0ee78ee7028",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f70cd30e5b08c26518",
+      "date": "2026-11-10",
+      "title": "Tytuł raportu: Rezygnacja Członka Rady Nadzorczej Enea S.A.",
+      "title_pl": "Tytuł raportu: Rezygnacja Członka Rady Nadzorczej Enea S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCNl9Tbm94UWpDUTFyRHc3dnFkOHpHbUN0RW9aWXJqVGtFekdCZlRnVnVGalpUTHJEUGpFRWhBbDJmNGNlRmtHV3RfcURWVDZ6eW5NM2t3NzM3WVJuWUw2bHRScW5QVEN0ZC13MkhWUHRkQjRVb1BCczFCUks?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://ir.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -348,6 +377,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e1210e2ac83f6e75f3",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiada kontrakt na katarski gaz. Wartość kontraktu szacowana na 570 mln euro",
+      "title_pl": "Orlen wypowiada kontrakt na katarski gaz. Wartość kontraktu szacowana na 570 mln euro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z Qatar Liquefied Gas Company Limited (obecnie QatarEnergy LNG) z uwagi na utrzymującą się siłę wyższą skutkującą brakiem dostaw - poinformowała spółka w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-dfb58031496d8edcf4",
@@ -1423,6 +1481,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7888a9674541f4a861",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy | Biznes PAP",
+      "title_pl": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2I3bjByZ1ZSYUhNTU5IUFNxajk5VGk1eFF4d3pLRDF4UVhGMDE3VklJMTBmQnNWU2J1NmRWSWVPem1STzBQSzFZTGo3MGY0djdkeWk3LTdKWlg3cF93c2lRc2ZCNjZ1amdYYy1LVkpoTDBhcURsaGtmbXQ1MTNPeG5TUmdSdFdFUjg2dDBtUjhyZ2h2d1hVTnpLZ2V6dVlBendiWTViSzJKOVFhRzVCTTg2LVNMcVhMWUpJZ1p3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7660f9c08e0be67196",
       "date": "2026-11-10",
       "title": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Operator automatyzuje proces",
@@ -1746,6 +1833,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5c9d5d96bcf2ee43f8",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiedział jedną z umów na dostawy LNG z Kataru. Kontrakt był wart 2,5 mld zł rocznie",
+      "title_pl": "Orlen wypowiedział jedną z umów na dostawy LNG z Kataru. Kontrakt był wart 2,5 mld zł rocznie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVV5a09VSUJIa19acjlSVTNHUWFzdlFGNjU1ZW9YRWExSkZWNEtFVzY1a0ZsLURjYXA0Z0pSZzdybmljUlo3Rm5ienV0bU5KTTNFX0VVQlhDRWlxQ2M2djNJWE5VQUdhUXJfNlJfSVR3RXc4WWlLOEJoQks1ZnhURVFrcERmakFscnQ5N0k2dUE4dTdMS3NkTXdKSGkxMGQtNHR3LUlaV2tTdk9VMUFra0tpNHdqZzRH?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5b72462ddd9e2e2cad",
       "date": "2026-11-10",
       "title": "Projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w XI - Motyka",
@@ -1828,6 +1944,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-53cc746a2b79536df4",
+      "date": "2026-11-10",
+      "title": "Koszenie i serwis farm fotowoltaicznych",
+      "title_pl": "Koszenie i serwis farm fotowoltaicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUpLd0FLNlZOYVFQU2FUY2pxdzUzdVNnLTh2NnUwWWo1Q1VpcFU2RklNQUZPMTE1U3VCd19qNHVOU3J2T1lnNENKd3V6clFHRVVES3pvcEtCVTV2Z2Y5UWFMYzFvc2ZHajF4SlROUGtvTDFwcF9NYkoyYXNfXzlqY2lPWHhramdoM2JTX2xwdk1BeWhhOFRCQ1FQamo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2221,7 +2366,7 @@
       "links": [
         {
           "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f62-6237-ae12-c1c5-d500019403aa",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f6a-dfa5-4015-c1c5-d500019403d4",
           "type": "official"
         }
       ],
@@ -2500,6 +2645,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0ea697e30777fff41f",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiedział jedną z dwóch umów z QatarEnergy na dostawy LNG - podał we wtorek koncern w giełdowym raporcie bieżącym.(PAP)",
+      "title_pl": "Orlen wypowiedział jedną z dwóch umów z QatarEnergy na dostawy LNG - podał we wtorek koncern w giełdowym raporcie bieżącym.(PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakxTTzIwYzhTeTJLSm1uUHJyaF95WlFOMGJIdnVzbFJ4dFNUWG9xandOV3RqMTZpZXY5RDEwSDdpa0c1cGFHYUNuZU9EdzRKTVpoM1NJSGY0M1Y1Q2UzSnNhdlJnalNCRHZuM1hZYVJvTC1yaVNXMTQ1TkUySF9PTFdCQlp6S2x3REV3Tjl4czNIdnRiMzRWMnhSdlVtd1hZZjloZDN5MUd4VWtRdGs5cnJYd3BCM0NyamtDcDlOSkJraDdGSTI3X25Ya1FLUzY0VWRaay1MN0tCWW1zU2pHZ1pqYmw1cGt4bkRKOUE0RDgwZ3lv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0dc90b3edc53979cf7",
       "date": "2026-11-10",
       "title": "Dostawa sorbentu ultradrobnego do PGE GiEK S.A. Oddział Elektrownia Turów w latach 2023-2024",
@@ -2553,6 +2727,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0a4cd9ea886ece26aa",
+      "date": "2026-11-10",
+      "title": "Strona 2600 z 2600 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2600 z 2600 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZzZTdnZUUDF0RHo5WDFIM2RWMDBLUnN3c3BGb3VnS05iaVRnYzFiNTJ3cXNsYVRKVkJpUGJkNy1FYy1BdV9qWFFXUkJfcDVJaktOYlJaQXRDQllIeFlJeA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
