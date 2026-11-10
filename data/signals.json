@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:05:06+00:00",
+  "updated": "2026-11-10T02:53:50+00:00",
   "signals": [
     {
       "id": "src-fd6fea1280ce01e9e2",
@@ -3828,6 +3828,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-338be8ecf0b5e83c1d",
+      "date": "2026-11-08",
+      "title": "Tauron opublikował wyniki testów na utratę wartości aktywów",
+      "title_pl": "Tauron opublikował wyniki testów na utratę wartości aktywów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbm1yeC1lbEkzNncwQzh0Y3VHdzJCTDJrcko5eThqLUFyUXNrQ2lnWjdzWlVpTWpvUi1jeTF6d1gzSEM5S0hnSHFGQnk3dS1WcVBIM1ZZcHctZDBVNi1OaHJoZ0xDelZXSnYtbTMyRXU1aklZcS1mNEZveE9PcnJnUERSdkdrZVlmN09mNGs5QnFlSWRfbEljblotWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
