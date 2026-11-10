@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:42:41+00:00",
+  "updated": "2026-11-10T22:44:31+00:00",
   "signals": [
     {
       "id": "src-ff663da0ee78ee7028",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f7ef74df717dc65c5e",
+      "date": "2026-11-10",
+      "title": "ORLEN S.A.: Wypowiedzenie umowy z QatarEnergy na dostawy LNG",
+      "title_pl": "ORLEN S.A.: Wypowiedzenie umowy z QatarEnergy na dostawy LNG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXJ1bUNiZkx1c0ZYTXJobjgwdHFTMjRUcnZLYmM4WmxLNms1cm5HQjB0TGM4RXk1eHZWZ2x4cHVibDBsZDlMa0NYc3l1S2RLS3QzbzlEZUVIQ2xjN1NtTFBNRWdXaTlwc3Vrc0UwVTlnOTlOQ2p6eEE3NjJfWWI5cS1FY1hESXZnWUZKenYwb1J1MTlDSXY1YVRURGsxQUN5U0NPU0tsdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -727,6 +756,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cd090a2d1a29505949",
+      "date": "2026-11-10",
+      "title": "„Dostawa energii elektrycznej do obiektów Zamku Królewskiego na Wawelu – Państwowych Zbiorów Sztuki na 2027 rok.”",
+      "title_pl": "„Dostawa energii elektrycznej do obiektów Zamku Królewskiego na Wawelu – Państwowych Zbiorów Sztuki na 2027 rok.”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZAMEK KRÓLEWSKI NA WAWELU - PAŃSTWOWE ZBIORY SZTUKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f78-8179-a976-c1c5-d500019403f2",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-cc38a8b650298fc099",
       "date": "2026-11-10",
       "title": "Rząd przyjął projekt przepisów ws. elektronicznych świadectw zgodności pojazdów",
@@ -954,6 +1012,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b9e5040083b8c50744",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiada umowę z QatarEnergy na dostawy LNG.",
+      "title_pl": "Orlen wypowiada umowę z QatarEnergy na dostawy LNG.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXZ5Vkw2ZXJMYjVhUlB5cW1tLWFWRFRsdW1lMEhDbGZqdGxEVkVfb2NiekxhSUtpYWRZVkVqY08yaWZYemdmelY1bzkzTHZSNmhpZWJPd1J0dWlBRnFQTS1UZk5KWE1SRTR5VUhYSlpLMUxROEZqT2VRQm1HNmFGS2hTdk40by1HZHotU1V5THJ3bGVtTFZsWkRZVHFVSnJm?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1804,6 +1891,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6201c4b1452dd29b8f",
+      "date": "2026-11-10",
+      "title": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Reuters — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWNsbHZIOFpSN0NER012RTNDdE9jRzFkWXRJZVY1X2hkVTlnUHhDcFNrVDU0Ul9yVXlvcHpfblFEYkYyNW9jRXA2OHNldXhuaEhQQTZYX3V0R1R5dFdVNkRNZFNrVWtWdHI3N0FrYVFFNEx1MlhBYkFJY1c0MEQ3Ym1RRzF0YWY2OWZWZmR0RlFYeU5YOWhlR0UycW9jODJDMjZob2VIR0JNcHd5dkFKSzZYYUpSYUJkcEtwMlRXZ3pPcHN2dWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Reuters",
+      "publisherUrl": "https://www.reuters.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5d835b4056f8bdf9a3",
       "date": "2026-11-10",
       "title": "Minister Energii: w środę i w czwartek litr benzyny 95 ma kosztować nie więcej niż 6,10 zł, benzyny 98 – 6,70 zł, a diesla - 7,66 zł. (PAP)",
@@ -2350,6 +2466,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-274c79bfcafcb8a614",
+      "date": "2026-11-10",
+      "title": "Enea Operator wdraża nowe wymagania techniczne w procesie inwestycyjnym",
+      "title_pl": "Enea Operator wdraża nowe wymagania techniczne w procesie inwestycyjnym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2JTN3BrMFd4RjJBSG4tWk96MDljSWxfQm5STlduVGJLVHNBeVM3X0R6ME5rNXlYTlN6UFRGSlRlNzNLV05BWDV0NHQ2THI3OUdLcmMxQXVLeG1RSDNxTldfYmI4YkRSTzM4RHdnNTJoTzQtS0NnXzlYMm1oQ2hNak4zODBEMHBQeTY2SkNiTVNqXzhUN2FhdmpJaGRzOVNIQVk4MUhHR2tieFk4N2xidzNrTGVhYWk1Z2RDOEVvRnlsRVZSaVNZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2930,6 +3075,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0349097342d5d2de3a",
+      "date": "2026-11-10",
+      "title": "Brak dostaw gazu z QatarEnergy. Orlen rozwiązał umowę na dostawy LNG",
+      "title_pl": "Brak dostaw gazu z QatarEnergy. Orlen rozwiązał umowę na dostawy LNG",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjZPTUxDOS1JcWV5QVp3Z015Y0lQTzdySk5PYks3RGFKck9qNzZBejBNSUhxejZ3cHRyUHA2UWdVVGxJTzdYc3AxVlV4b3F1cVRVbWt0UnEtOWw1Zy02ZmNNM0ZBLU5CN1R4aHoxd1BQbTdHVUFmNGs4bG10bjVFQmQzWG00RGVleklGNDFmUnJNb3VzeWFkckpSRG1Xa1VEdnl5YWNSV2VCUFVEWWJVMkpJeDNFRjduM2RVeVNR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
