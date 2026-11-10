@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:28:08+00:00",
+  "updated": "2026-11-10T10:30:08+00:00",
   "signals": [
     {
       "id": "src-fbc835291524e94812",
@@ -55,6 +55,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-edde1a99c892531ee6",
+      "date": "2026-11-10",
+      "title": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Niemiecki operator automatyzuje proces",
+      "title_pl": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Niemiecki operator automatyzuje proces",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEZGS3k2dTBSYlN2MUdIX2dsOVhldXZaTWRaTG9rQWg5a0ZkOFR0bHprNDFERC1ZZ1BQb3AyY0JWR3JMd2FXV2V3R1JCMGI0WWNtSk4yRUhQbHlfODd0bng0dDNZS2VqaDhjaDEwaGJRVHRDaGQ4Q2NQdzJSQUJycXRqYnk4ZUFiOGpkM21HLU9hSHFoTXpHdWlUT0JxUVB6ejlZUWJ1RGJCU1B4UzZIZ1JpSDFUVmtyeTF5aWNpNzhtSWs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dd77f80d412c8b4fc8",
+      "date": "2026-11-10",
+      "title": "Maksymalne ceny paliw na 10 listopada 2026 r. Minister Energii ogłosił nowe limity",
+      "title_pl": "Maksymalne ceny paliw na 10 listopada 2026 r. Minister Energii ogłosił nowe limity",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFAxdTRxbWhQbElOMkxLWVlVQzlVQklha1N6bGY2WG9tT3ZlV0JtSEdHTFNKUDJZR2VTY09yMEcyVE8yVFJuRmJrNnAwLWRPN0VObFRqR0JDU2dEYURhYWt2djl5QkV4UkIzN1JhUUkwU2IyT0ZmQ09kVk9ZWjBVa1Q1WDZOQ0cyZ3FiTzQ1VGh5RF9TU0xUWWpNQ214LThtbnVERmRZRjlYR1E3cEFQSDlfVDN6N1VqMFVF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -258,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bc1fa32336321e870c",
+      "date": "2026-11-10",
+      "title": "Pomorskie: PEJ podpisały z gminą Choczewo umowę na nową drogę ze Słajszewa na plażę",
+      "title_pl": "Pomorskie: PEJ podpisały z gminą Choczewo umowę na nową drogę ze Słajszewa na plażę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1NKazR4cXI2WU82dDJja0t1NnFoWkMxc25GdzEwcVVON050dlBZREQ0a3hlMXBtYXdsUUNYZm1KaElWNEE5ZXo3Q1lQYkZtNTBicmF6NHRBMHRjT29vUnpVUVo5XzhoT3ZQbHFjY1Q1ZkJOMzFhQ2txV0NrZmxZUDVPRm14YzNoYkdZYVozTVFXYUhCNTdBcUxaQXBRblVKbXQ5M09CYi1GeURqUGFyQ0RIZHFVR1VKT3o4Zg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -582,6 +669,68 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-62ecae96210fe64d2c",
+      "date": "2026-11-10",
+      "title": "Sprawa Elektrowni Ostrołęka to symbol chorych układów w państwowych firmach",
+      "title_pl": "Sprawa Elektrowni Ostrołęka to symbol chorych układów w państwowych firmach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Dwa lata potrzebowała prokuratura do postawienia 6 listopada 2026 r. zarzutów 25 osobom odpowiedzialnym za nieszczęsną budowę elektrowni węglowej w Ostrołęce. Przypomnijmy garść faktów. Pojawia się i znika Historia Ostrołęki C rozpoczęła się jeszcze za rządów pierwszej koalicji PO-PSL. Energa planowała budowę nowego bloku węglowego…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122723-sprawa-elektrowni-ostroleka-to-symbol-chorych-ukladow-w-panstwowych-firmach/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ENEA",
+        "ENERGA",
+        "ORLEN",
+        "TAURON"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-5b72462ddd9e2e2cad",
+      "date": "2026-11-10",
+      "title": "Projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w XI - Motyka",
+      "title_pl": "Projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w XI - Motyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3cxT05WdU84VWUwaEVHTzRjTkF0NVZJMU5iaE1nbFJtTzU4Z0g2Mm43Q3UtTWxpTGZUV2hrLTBjVlRuajdZVEJ5WW4tc19uVWFlaUpVVGg1YnRQV3FQMWdzZ0J6SUp6eE1CeDY0SDhIUkNLQkZHcmoyek43MV9FQXFETG5aYjM3SDZpSldUMDRYYzA2TXBCNUFIYlBEQ2FheXFUU2N3N3pRcTBWLWpiQXdCQWMzdHZX?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3e570dd82c367b1c89",
       "date": "2026-11-10",
       "title": "„Poprawa efektywności energetycznej budynków użyteczności publicznej w Gminach Lyski, Czerwionka-Leszczyny, Gaszowice i Jejkowice” - budynek OSP Dębieńsko Stare",
@@ -667,6 +816,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2645bcf38f51fadda5",
+      "date": "2026-11-10",
+      "title": "Motyka: projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w listopadzie",
+      "title_pl": "Motyka: projekt ustawy o maksymalnej cenie gazu może trafić do parlamentu jeszcze w listopadzie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTVnNjB5RGlSLWlQVkF1ZWZrVHBBVDJxSTU3WnlpZUlwZWRTVU41MGdyR01wZDFvam4wc1hvcHdqcmdra1QzbzhXYktMellIMnZCdFQ4aWNYT1ZiOGxadXlhWXVhX0lxN293cjlYWksxVHlJRXN3cUxDdDU2YjFzUnhvZWR5R0U2cWhhYjJNSm91Y1dkYTBoQ3BIeE1nV0h0WWtZYzBlaHI4eUN2R1VhX1B2QnQ3S3l4b0hnWlhCWEo2WlF4eUlJUDF3WEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2454c00dc6d007c05e",
@@ -1029,7 +1207,7 @@
       "links": [
         {
           "label": "wnp.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3cyWHhwSXFabkR0OWJGT25vY1Q1a2RVTEhYLUl0ZTN0azBRR29tWGtCZG45M2ZCVUtiTWZWaWcwdFFpaDBWRm1Zc3RZNHNra28tZzh1Rk9nU0VyUG1TODlzT21xTjB3eDZqcXNXZk9JMWZZcDRMMEk5UE5rWFR3aHN4UmlKMGhP?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZW9ndU93dHdsaWJmMGV6XzgzbmRabzlPNFk3cGltMlZhdllMR0dGR2xYdjVQZHJoYlBaTVhha0JydGZzbFZfTjhJN1ZjUFoxeHE3V2pXWnVPeFBaSUZ3SEhnTVo1OWtrV0NtdWE2UkxMZGZNay1nR0gtbXlTa291RGhja2huNUx0?oc=5",
           "type": "press"
         }
       ],
