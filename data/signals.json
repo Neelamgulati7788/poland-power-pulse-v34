@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-10T03:51:55+00:00",
+  "updated": "2026-11-10T04:54:44+00:00",
   "signals": [
+    {
+      "id": "src-fb662d8513d1abd236",
+      "date": "2026-11-10",
+      "title": "17-19 listopada w Lublinie odbędą się kolejne Targi Energetyczne ENERGETICS",
+      "title_pl": "17-19 listopada w Lublinie odbędą się kolejne Targi Energetyczne ENERGETICS",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGhCak1wUFlGeDVZNnJ4bEtZWDV5U2FwMnZZTHg1eFZDNXZZb3czWXA1bjRSeXFNNlJ3cjl6VVc3RGp5MFFLd3ZCU0pWa2JkRXhjMmJGRmF5ME5ScHBfVWU4ZjhoRWIyRW00NkJrYlR4ODg3NUJHcWRtaW84QmVoOVplSUZKTzF5RDBSVml3WkVLZHBHQ0JZVmg4ME1CM1BLMzZtY0dqNm5OeWNpWUxQdU8yZUYybzFzaTFzT3pDS01aSF9XUEZYMWFHclVpdnhpcGkyaUplcmM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-d5de40d865630f4daa",
       "date": "2026-11-10",
@@ -14,6 +43,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ec8-a8c0-ffc6-c1c5-d5000193f41d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-9a41f7e2904322f7ae",
+      "date": "2026-11-10",
+      "title": "Polska – Gaz ziemny – Kompleksowa dostawa paliwa gazowego w modelu zakupu transzowego opartego o notowania TGE.",
+      "title_pl": "Polska – Gaz ziemny – Kompleksowa dostawa paliwa gazowego w modelu zakupu transzowego opartego o notowania TGE.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zagłębiowski Park Sportowy sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ec8-6c7a-b4e5-c1c5-d5000193f23c",
           "type": "official"
         }
       ],
@@ -293,6 +351,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-db95ab6f8fa9d02a8d",
+      "date": "2026-11-09",
+      "title": "Sfinansujemy rozwój projektów Data Center od 50 MW – od gruntu do RTB",
+      "title_pl": "Sfinansujemy rozwój projektów Data Center od 50 MW – od gruntu do RTB",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekVudlM0UzFfSlRXYTRlQTV0TndBWnE5UWFtbUtwVWdBM2ZyQnE0RGlWRmNDSE5JWVU2YVdvRldkRjFyQ3VYR1Z4enI1ZkFyS2FJTHdxZ3lHX1U3dlBXbWFhd2hua1paMjlnMXVhLVRNeXJEbHIxV0VaRnYzOFZieldJbGtEb1YtRGlnUDAwTHdhVnFYOTNLRlhxY2d0NFA3Y1ZjQUtCZElnS3hYbDU1TDQ1d24zeTFZUHR5NHl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-da74f8524d4823136d",
       "date": "2026-11-09",
       "title": "Komunikaty ESPI dla ENERGOINS[ENI]",
@@ -474,11 +561,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Początek nowego tygodnia na GPW przyniósł odrabiania piątkowej przeceny. Na warszawskim parkiecie motorem napędowym poniedziałkowych zwyżek były przede wszystkim rozpędzony sektor bankowy, dynamiczne odbicie miedziowego giganta KGHM oraz rajd akcji Modivo. Przed większymi wzrostami indeks WIG20 powstrzymała jednak głęboka przecena walorów Orlenu, który okazał się…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Gieldowa-wycena-Orlenu-spadla-juz-o-44-mld-zl-Na-zaciagnietym-hamulcu-recznym-indeksy-poszly-w-gore-9226314.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdzh1SjBWaU5WWFBfMk1MRnRDMWZvZ0ZaMjNpY1BsRms5TXh5VWY4NDNjRERwbjNSRDBaTHJfNWdUR3VnendXWTl3emJEYzZYeWppb2RvR0xTVWJhWU9jeFE4dmpnQ0xMaFFHbDd4VDlWYUlEX0ZsVlFPVmhDcnh0bVhfQmZJbDRQUzFUNkdtQktnZ29ic1JxcG9CU24zRmZmTzV6eG1sMElacExzQWFzcnBab0l5N3pydUdORVBBMzhwd3Bnc01aSkdZNjJaODhhd2hRbzRZUGxyMVRqR2c?oc=5",
           "type": "press"
         }
       ],
@@ -492,8 +579,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-cd09eeafaa4c456bef",
@@ -926,6 +1013,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bb3736adf4e6f95754",
+      "date": "2026-11-09",
+      "title": "Inwestujemy w czystą energię na torach - ponad 36 mln zł na polski pociąg wodorowy nowej generacji",
+      "title_pl": "Inwestujemy w czystą energię na torach - ponad 36 mln zł na polski pociąg wodorowy nowej generacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "redakcja.www.gov.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtPMWFNQ0lQdm9nVTl2VWF0YkRGQzZnODhOOE1wUHVJMG96a0g4cExjQ1B4elltbEh0X2JvR3AzM2FzWlNjTGZqRTB3SHF4bVhaTHBraVRXakZKbkhBa0xPd2U5a0NJbkVSUUlNaHd6aTB3Vkl4NVliN0FuY1h4dmhseVU3NDRqUDhObVdIVVBxclNHWkFHck42NU9kNFVlRGhCSm1VYTBtZndxQUhJdVZFZldERUxVM3ZHT1hLdDdUQTFtVGNvdUdlZjlRS2tibnB3?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "redakcja.www.gov.pl",
+      "publisherUrl": "https://redakcja.www.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "3"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
