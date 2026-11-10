@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-10T16:53:52+00:00",
+  "updated": "2026-11-10T17:50:12+00:00",
   "signals": [
+    {
+      "id": "src-ff663da0ee78ee7028",
+      "date": "2026-11-10",
+      "title": "Dostawy sorbentów wapiennych do jednostek wytwórczych GK PGE w latach 2022-2023",
+      "title_pl": "Dostawy sorbentów wapiennych do jednostek wytwórczych GK PGE w latach 2022-2023",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE POLSKA GRUPA ENERGETYCZNA SPÓŁKA AKCYJNA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f52-ab36-2783-c1c5-d50001940356",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fbc835291524e94812",
       "date": "2026-11-10",
@@ -147,6 +176,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-ef5e00de7fefbfc9bc",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął nowelę o homologacji pojazdów. Elektroniczne świadectwa zgodności zastąpią papier",
+      "title_pl": "Rząd przyjął nowelę o homologacji pojazdów. Elektroniczne świadectwa zgodności zastąpią papier",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVENzd2ZTRXc2ZzhheWJPeEJWVWpPdnc1VGhxTW82bW5kUEJCOXFDb0lZSnBDWXhfSVZnVEE5MlI2aXUzSlZVNTBQZ2VtTklteVJuVEd5eVg4TlRzM3FTdHBZTGlENks2XzdxTWQycVpkUkhmTWV3YXZGWGNxN1V0UDAyWFBpNjhrWUF4bHMwbEtCZ3Fza0JXSkNVOFpMR2xmUzNrNU1MYnFUNW1ZdzBfV2lnTFZMMkZoM3FsWXNHemVJXzZabnI1cTlzU2U3LVNPSEJJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://m.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-edde1a99c892531ee6",
       "date": "2026-11-10",
       "title": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Niemiecki operator automatyzuje proces",
@@ -205,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e4a6f9948e42f70b53",
+      "date": "2026-11-10",
+      "title": "Potrzebna ekipa do skręcania konstrukcji oraz montażu paneli plus DC PV 6 MW",
+      "title_pl": "Potrzebna ekipa do skręcania konstrukcji oraz montażu paneli plus DC PV 6 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmo2VTBBd2trOTdwN1RnVTJCVlRpMGZNOTdKTUVhclZ5MldTenlOQTVia1BPV2d0a1BNb25CRTR3ZGR4dEU1NU4wYWFYMEtMUXk4aUhSX0tlY01IY0I5R05pZm1sN2dMZlFLUlhhM2N0cDJjY1U4ZWhyaDRRTjVRYlp0Vm4yLThITDBFMEsyaFdVcHFkbElmSEJzTWpJZ0pjVEFCS1hWdC0xeElDYmIzdWJkRHpibUcyWEZlUjF5UC00Tm5IaGVKcmtR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-dd77f80d412c8b4fc8",
       "date": "2026-11-10",
       "title": "Maksymalne ceny paliw na 10 listopada 2026 r. Minister Energii ogłosił nowe limity",
@@ -232,6 +319,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-db2ab4805e044613ae",
+      "date": "2026-11-10",
+      "title": "Budowa infrastruktury technicznej związanej z pracami na lk nr 38 na odcinku Ełk – Giżycko w ramach projektu pn.: „Prace na lk nr 38 na odcinku Ełk – Giżycko wraz z elektryfikacją faza II”",
+      "title_pl": "Budowa infrastruktury technicznej związanej z pracami na lk nr 38 na odcinku Ełk – Giżycko w ramach projektu pn.: „Prace na lk nr 38 na odcinku Ełk – Giżycko wraz z elektryfikacją faza II”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PKP POLSKIE LINIE KOLEJOWE SPÓŁKA AKCYJNA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f52-c3de-7a66-c1c5-d50001940358",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-dab913f95009251ade",
@@ -1688,6 +1804,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3459c3e7cda49715a6",
+      "date": "2026-11-10",
+      "title": "Orlen leży i kwiczy",
+      "title_pl": "Orlen leży i kwiczy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuYmFmLUpGNVJQeU9QYVJsVWpySENWNlZFOG9qQ2dGYTFxRF8yUTI3SnBqN0pEdURPR0VjZmFUNzFnLW56NEpkSzU3TXlycl9LNVBZMGtCNkctVS04RElRSnlheW1HYlY5U2U2RUJsTDUtR2xtU0VR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2fdd70511a4daa16bd",
       "date": "2026-11-10",
       "title": "Komunikaty ESPI dla PGE[PGE]",
@@ -1770,6 +1915,35 @@
       "reviewed": false,
       "sourceIds": [
         "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2c0417f48e85f89034",
+      "date": "2026-11-10",
+      "title": "Energy SA: Korekta raportu okresowego",
+      "title_pl": "Energy SA: Korekta raportu okresowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2ZzdnhEa2RGdG1RTmk5djVBRUlDeEpjM21NZkx5VUphd1pkaThWaEU3dXJLRkNBbmlpc19xT2pRb0kwMk81TDlJMEpZdnhua1R1MnJLUndJSDYyVl9Ra014aEhLQmJfRzllLS1kS2IxNmNaUTJsSDZIbTZEVkozdXJ2WUkzRDd2NVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1944,6 +2118,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1443b40691755ed481",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej",
+      "title_pl": "Rząd przyjął projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOelpncHlEaGdBVjdtNkRZOTVyZEhod3ZiTVdydzVZbnJCd2xfTUNWMlpuekUxalk2U1VvaE12SV9OVy1XQkpLeXVnT3NBaEZmS2hvdzE4bFFhLTdfNWk1NllyRVJfa1N1dWkyZkdmTTdWZDhtQWw5XzhlTW1kbFJmdF80UktaOV9HRmV5XzE2bHZfZEtjVm1TRU5YN2Q0SnRjZ09ZRnc4ckZCLTRLeTJnTGk4d1BDdXVmWmZ3X2pVbXdEVlpsN0RLTW5rQlBQOGxyOF9kaC1aOEc2bElVNDZuQi1ZSFFYb0U1blBIN3BxUzBqamVsWEVmaVNjbWdMLW1mRkpEZ1d0TnBLczh2NW94MjdOa0s0bkdYZTRLWUNBdGpCMWVsMlZrMU9rZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
