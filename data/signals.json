@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:52:38+00:00",
+  "updated": "2026-11-10T19:54:27+00:00",
   "signals": [
     {
       "id": "src-ff663da0ee78ee7028",
@@ -154,11 +154,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Rząd przyjął projekt ustawy usprawniającej przygotowanie budowy pierwszej elektrowni jądrowej - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-ustawe-usprawniajaca-budowe-pierwszej-elektrowni-jadrowej-9226854.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUk4xQXZISE5iQmxoU0l2WWNTQnBxRDVRYlFpWFVVWU5FalpfcFlRNkRRSE5WeG5vdkhjWGt6c3BsNWU0M0s1UnphTmRQTnU4REhBMHNxSWRWZUdjWkFUUlMxVnNWVXBSNW9hWnFCUHE1TDJBUnlPdjhZRGpyYmNkandvOTFmTXRtdmR3b2xwNFFDOHVqMWNuYUlzb3RfWmRMdGdjeGt1WkdvRUd1ZzVZbjI0cTVqTGM?oc=5",
           "type": "press"
         }
       ],
@@ -172,8 +172,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ef5e00de7fefbfc9bc",
@@ -234,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ec5ed2e7fa9675f31e",
+      "date": "2026-11-10",
+      "title": "Wszystko co warto wiedzieć o projekcie ustawy o zmianie niektórych ustaw w celu wsparcia transformacji ciepłownictwa systemowego",
+      "title_pl": "Wszystko co warto wiedzieć o projekcie ustawy o zmianie niektórych ustaw w celu wsparcia transformacji ciepłownictwa systemowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQekpab3U3S1hPVmlXcDhZSVBmS1htSGN5bEppZVVLNWFCNkJfb1cycjVnc09fQmtZSlBKYkVvQmVhaVdaRl9MS00xWDNlVUVYdW5ZR0NZbTJ5RlFyblZoUjdmbHM0SXl2V3NXOUdXSE1mU1FPS3R1Q3Y5ZG9UTzlOZHZsWXJSYUo2UWtMRnVCeG0xUDVTYnpfWVFoUDJNWUE2bU9rRG5GMndGOWR1YVBHVjNGWHlhMkRSdVVYSjNJaHJ6Mk9aQWNYd1FNVUU5cnJTSDZWNk9Ec0t3aUlWNDVxeFI5TGhqS2tvbWpJMURYeDRRZDZTTzZkNGZ6TzZvQloydXYyTldtN0hQOFI5U1dibGtwV3F0ZmoyUmdqSGduak4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e5ffd607329ed095f9",
       "date": "2026-11-10",
       "title": "Sprzedam projekty PV na etapie WZ powyżej 5 MW o łącznej mocy 2072 MW",
@@ -287,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e17484169ed3a935a9",
+      "date": "2026-11-10",
+      "title": "Firmówka PGE Dystrybucja S.A. - OSK",
+      "title_pl": "Firmówka PGE Dystrybucja S.A. - OSK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PGE Dystrybucja — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdGZqQnYzTzBaYVN2QWpoYUg2ZmdRU2FfNUxScE9KNHpPcmQ3SzJ1ZXFQNkszSmJaYlpIYjlFcEVPc0pKTkdldUJnVzFpbVFlOTdEQ1EzT1VYN2VzeUE2cnEzSXZrTnZkLVc1UjZ4bjZjYUU1dUxnYmdVWGd2R1hoY0twbzlhZ0FYVnJXY2h0MzViZ2lCekxYWTBiWVNKQm1taVdCczNvTThXWHk3THdNQjJqY1dXanczbGFSYlI1WjJ1NFhZVS1FelN3UnlGVnhvcUxDcFotVmdjd3hjbDcxYUlnRm1vRFFreUJpUmI5NndUNW5EeVkzQ1VLemFoNmxKOHp2ZG1HeTZ1WUZ6SGp2YzBJUmV3bVk2SWc5Rg?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PGE Dystrybucja",
+      "publisherUrl": "https://pgedystrybucja.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "16"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1423,6 +1481,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-72a84d6c2fabc411da",
+      "date": "2026-11-10",
+      "title": "Wypowiedzenie umowy z QatarEnergy na dostawy LNG",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUkzaHZmQXh4OE52R3JuU3lIS3JnTThWM1dPUEhLMmhMYjJmbDQtRWp1R0VKbWRNTTlzVXpqdUltLTNXYlZqMTY2VmVVTDNManhsQWtPV0hHUHItMXZPYWdWa0wzZHdvU0x0R2V2alhwZ1NnVjBkYmFBaVdERjgtTGJvQmZxLTlTdHk0ckJsY2lGSE1icmxaNFJFTFBMN1hBMmRoRzZ0R3NIemd6V2RoWFF1ek9WZw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-70a0b3731d7a9788fb",
       "date": "2026-11-10",
       "title": "Battery trader The Mobility House restructures around V2G and Eastern European storage markets",
@@ -1741,6 +1828,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-50b4f11f78f7600a9e",
+      "date": "2026-11-10",
+      "title": "Polska stoi na progu ofensywy biometanowej",
+      "title_pl": "Polska stoi na progu ofensywy biometanowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tVmc0UmVhZzcxbUhYb18tc25KUUljV090YXBWcE5ZSG9qdFNUbGN6U2dsSzNXQTlZR0J0RmJpTlAwNUlRajB6UVI2dzE3Yk1rQndtSmZMX3VMdUQydXNkSjdrczMyaDFRQUFvWDdzU3A2WGszQkw0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2094,6 +2210,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-25e88c50b40a4bd617",
+      "date": "2026-11-10",
+      "title": "Dostawy sorbentów wapiennych do jednostek wytwórczych PGE EC S.A., ZEW KOGENERACJA S.A., EC „Zielona Góra” S.A. i PGE Toruń S.A. w latach 2024-2025",
+      "title_pl": "Dostawy sorbentów wapiennych do jednostek wytwórczych PGE EC S.A., ZEW KOGENERACJA S.A., EC „Zielona Góra” S.A. i PGE Toruń S.A. w latach 2024-2025",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE POLSKA GRUPA ENERGETYCZNA SPÓŁKA AKCYJNA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f62-6237-ae12-c1c5-d500019403aa",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-2454c00dc6d007c05e",
       "date": "2026-11-10",
       "title": "Wymiana wału w turbinie wiatrowej to duży koszt. Polska firma ma rozwiązanie",
@@ -2250,7 +2395,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOelpncHlEaGdBVjdtNkRZOTVyZEhod3ZiTVdydzVZbnJCd2xfTUNWMlpuekUxalk2U1VvaE12SV9OVy1XQkpLeXVnT3NBaEZmS2hvdzE4bFFhLTdfNWk1NllyRVJfa1N1dWkyZkdmTTdWZDhtQWw5XzhlTW1kbFJmdF80UktaOV9HRmV5XzE2bHZfZEtjVm1TRU5YN2Q0SnRjZ09ZRnc4ckZCLTRLeTJnTGk4d1BDdXVmWmZ3X2pVbXdEVlpsN0RLTW5rQlBQOGxyOF9kaC1aOEc2bElVNDZuQi1ZSFFYb0U1blBIN3BxUzBqamVsWEVmaVNjbWdMLW1mRkpEZ1d0TnBLczh2NW94MjdOa0s0bkdYZTRLWUNBdGpCMWVsMlZrMU9rZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVHB2RFFwWUpNN29tcFRaaWprbmpieWhwcDZtY2hydlB2WlFMMFdBdkJYWkhHck00OWpvUEo1a1phYjZTRzRTMUVNdnVINy1rX29fRWxINWdQRVFEcktTUnc0NEhuUV9yVWhraWRmMnY3czlTTWQtYWtTR1JscVI0Z0VmNkpKX1RySWxiM1NwemgyU09lYkJtdVQyV2dydkUwcU13amlwcHlMa21jNEhhdnp2a2pJSUhJMGZvd2hHSUtPbTh5X0JZRnZyVWZ0Sm1tWTllNGs3bkNDLW80R0hRcDFqR192MGFXbFVlZmdIZlVTUzhjWEVldnA5VEhEdXJuWjZDRWtqTHYydllUOGlZ?oc=5",
           "type": "press"
         }
       ],
@@ -2258,7 +2403,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -2437,6 +2582,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07abdc0e5b109bc69b",
+      "date": "2026-11-10",
+      "title": "Rząd zmienia specustawę jądrową. W najbliższych dwóch latach „oszczędzi” na atomie",
+      "title_pl": "Rząd zmienia specustawę jądrową. W najbliższych dwóch latach „oszczędzi” na atomie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM052RGYwQ0xwakVaa1FjZzdjd2ZHNDlKWDIyNHRNaFZqTzFIc3pkVDl1cXVvSnBKRVZIYy1zVlFVUGVPZ0hPNjBobW9fR0xmQ1Vscm5FTGs0OVdkdFFZUWtqaUdOaTlfeUJOWjUyYlowVEJ0aFoyNzRKTHpkZ3Q3QmVrN05tNW5XUzh1UVdMVHVzdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
