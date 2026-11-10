@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T04:54:44+00:00",
+  "updated": "2026-11-10T05:55:30+00:00",
   "signals": [
     {
       "id": "src-fb662d8513d1abd236",
@@ -113,6 +113,64 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-839d0c5f934a78accc",
+      "date": "2026-11-10",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWg1UnQzMElmcWRsOS16a1lsbEJtU3ZvOUI4TE1aR2k3Y1VTMGZ5aXZiLXZoUk1BUTlKMUxRSGdEY3ZwTElSTWh3aGZMdXU0T2huSXFVOWVKSHRWZzVIX1VaclBnUGZSY3FGYmdPS1BON0hyYkFUMmR3NEg5VnByYXhtOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-660745eb9c102ffd43",
+      "date": "2026-11-10",
+      "title": "Firmowe parkingi są, ale ładowarek wciąż brakuje. Jak firmy wspierają elektromobilność?",
+      "title_pl": "Firmowe parkingi są, ale ładowarek wciąż brakuje. Jak firmy wspierają elektromobilność?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeklJMm1RM01GNTYtbE5Va0gwZ2VTcU9GM0tsQ2xtM0F5YmJvZWpIZHhIbG5BV0dRSUVQRHpxcmUyVnA1QUlKMmxvVE5TMnRCVkxEREZfZ2otMWVEMUlHMEpoX1NWOW94ZHlaREFCeGZ0bjdZSU5JNFRCeVp6eG1OamJseVZtdG96Tk9GaXZZbjFQUTY3RVE1VXhtWmpMWnp6bVd2MEhsVjY4a1dJM2dqQnBqbTd3RUxKYWpNcGhqOXBScng1UzNTYUdaVHdoN2tGVG1NXw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1074,35 +1132,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-ba6701af7df19a0313",
-      "date": "2026-11-09",
-      "title": "ETS przynosi Polsce miliardy. Komisja Europejska podała nowe dane",
-      "title_pl": "ETS przynosi Polsce miliardy. Komisja Europejska podała nowe dane",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Dochody Polski z ogólnych aukcji uprawnień do emisji CO2 w ramach unijnego systemu EU ETS w 2025 r. wyniosły blisko 3.852 mln euro, a przychody ze sprzedaży uprawnień z Funduszu Modernizacyjnego w 2025 r. wyniosły blisko 1.639 mln euro - wynika z raportu KE dotyczącego…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/ETS-przynosi-Polsce-miliardy-Komisja-Europejska-podala-nowe-dane-9226215.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-b7ef6b9821a8a6df45",
