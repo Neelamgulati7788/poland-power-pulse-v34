@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-10T02:53:50+00:00",
+  "updated": "2026-11-10T03:51:55+00:00",
   "signals": [
+    {
+      "id": "src-d5de40d865630f4daa",
+      "date": "2026-11-10",
+      "title": "Polska – Instalowanie urządzeń grzewczych, wentylacyjnych i klimatyzacyjnych – Budowa podziemnej części klimatyzacji centralnej w zakresie obiegu wtórnego w JSW S.A. KWK „Borynia-Zofiówka” Ruch „Borynia”",
+      "title_pl": "Polska – Instalowanie urządzeń grzewczych, wentylacyjnych i klimatyzacyjnych – Budowa podziemnej części klimatyzacji centralnej w zakresie obiegu wtórnego w JSW S.A. KWK „Borynia-Zofiówka” Ruch „Borynia”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jastrzębska Spółka Węglowa S.A. z siedzibą w Jastrzębiu Zdroju, Zakład Wsparcia Produkcji",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3ec8-a8c0-ffc6-c1c5-d5000193f41d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-968e20faa230352680",
+      "date": "2026-11-10",
+      "title": "Enea i Politechnika Poznańska rozwijają partnerstwo dla transformacji energetycznej",
+      "title_pl": "Enea i Politechnika Poznańska rozwijają partnerstwo dla transformacji energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3dsNlUtMnAwazFwYnpIa2M5WWxpcWNMS3l0UElWbmh5ekRxUWRVcGxudEE3emJFNWdfYmppRm9iLVJmNFYtMG1OTms3WFJfbnpjellSd19XWUtzaDZPMmNpbnppMXptQmJyMzY2akEwNTBlYVZjNkFfTlYxRDY5T2Z2VG9IQVVpSUd0YTZITUVwZGJ4MWVPVV9ocEFXMjI2SUF0UXIxX0JHWk5aTFU4NzNyaEFNQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fd6fea1280ce01e9e2",
       "date": "2026-11-09",
