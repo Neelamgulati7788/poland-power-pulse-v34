@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:47:38+00:00",
+  "updated": "2026-11-10T21:42:41+00:00",
   "signals": [
     {
       "id": "src-ff663da0ee78ee7028",
@@ -2036,6 +2036,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-4511b4954b03f1e1ac",
+      "date": "2026-11-10",
+      "title": "Dostawa wapna palonego do PGE EC S.A. Oddział Elektrociepłownia w Bydgoszczy w latach 2023-2024",
+      "title_pl": "Dostawa wapna palonego do PGE EC S.A. Oddział Elektrociepłownia w Bydgoszczy w latach 2023-2024",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE POLSKA GRUPA ENERGETYCZNA SPÓŁKA AKCYJNA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f6f-4524-7f87-c1c5-d500019403e9",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-3ef12bd3607c5f972e",
       "date": "2026-11-10",
       "title": "Gas Storage Poland sp. z o.o. operatorem systemu magazynowania paliw gazowych do 31 maja 2032 r.",
@@ -2366,7 +2395,7 @@
       "links": [
         {
           "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f6a-dfa5-4015-c1c5-d500019403d4",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f6d-6152-9733-c1c5-d500019403e0",
           "type": "official"
         }
       ],
@@ -2498,6 +2527,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1e8af0ec2ad097120f",
+      "date": "2026-11-10",
+      "title": "Rośnie eksport LNG, ale do normalności wciąż daleko",
+      "title_pl": "Rośnie eksport LNG, ale do normalności wciąż daleko",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Październik przyniósł największy ruch gazowców od wybuchu wojny z Iranem. Odbudowa dostaw z Zatoki Perskiej pozostaje jednak nierówna, a ataki na statki podważają trwałość ożywienia.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/rosnie-eksport-lng-ale-do-normalnosci-wciaz-daleko/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1a4a4f97915784f072",
