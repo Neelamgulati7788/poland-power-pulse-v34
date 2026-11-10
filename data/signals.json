@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:57:07+00:00",
+  "updated": "2026-11-10T15:50:53+00:00",
   "signals": [
     {
       "id": "src-fbc835291524e94812",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-fb22df249ea42a358f",
+      "date": "2026-11-10",
+      "title": "Estonia o krok bliżej do SMR-ów. Wskazano trzy możliwe lokalizacje",
+      "title_pl": "Estonia o krok bliżej do SMR-ów. Wskazano trzy możliwe lokalizacje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDJySlkxMW83TTBMNGxjWGZHRkRRMG4tVkxYblpUclFxbUQyODJhUEw0ZVA5ZGFtV0QyYndhNEJaWThCY0N6TmFqcFMwVXJyTjJyZVg2OTkteE5sWElpS1ZrOUM3TnNNWFhzUUs4SDk0UzNkSmI5SXRESW5NTk5TblI5cmdrQnRCMUhkRzkzVjZXang5UldacWF2N1FtNG1ub2xqUHhVTGFQUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f85c4ffc6038e9b154",
       "date": "2026-11-10",
       "title": "Mołdawia uniezależnia się od Rosji. Nowa linia energetyczna to kamień milowy",
@@ -96,11 +125,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Rząd przyjął projekt ustawy usprawniającej przygotowanie budowy pierwszej elektrowni jądrowej - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUk4xQXZISE5iQmxoU0l2WWNTQnBxRDVRYlFpWFVVWU5FalpfcFlRNkRRSE5WeG5vdkhjWGt6c3BsNWU0M0s1UnphTmRQTnU4REhBMHNxSWRWZUdjWkFUUlMxVnNWVXBSNW9hWnFCUHE1TDJBUnlPdjhZRGpyYmNkandvOTFmTXRtdmR3b2xwNFFDOHVqMWNuYUlzb3RfWmRMdGdjeGt1WkdvRUd1ZzVZbjI0cTVqTGM?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-ustawe-usprawniajaca-budowe-pierwszej-elektrowni-jadrowej-9226854.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -114,8 +143,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-edde1a99c892531ee6",
@@ -756,6 +785,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-91ce7cd21cde0337da",
+      "date": "2026-11-10",
+      "title": "Przyszłość polskiej energetyki: bez akceptacji społecznej nie będzie transformacji",
+      "title_pl": "Przyszłość polskiej energetyki: bez akceptacji społecznej nie będzie transformacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEdUTmVMS294ZlB1UlVNMHV6YkdnQnFXZGNPNkFHRXVEMmpTV0hKZ1NkVzVsVUZ1ZXZrT1poQ1lmT1dtc0NpQmFQb0ZMTzhRNEQydlV3Mlk5aG9kNHVpNVRWclF6WnRTTXlhOWJVQ3Z5dDZiV0hSRVVDa1dzam9ZS09OSE00REphd2JEWEFXUWhOWU5SXzVXLXUzVURRVzNhemVyTHRWQXBsYTgwdzdsLXlpTEZUR24ydVgxR3ZUVE13OWpnTy1KVTJpSXRlcWlX?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b682a473c1355c94f",
       "date": "2026-11-10",
       "title": "Obiekt Orlenu ewenementem w Europie. Ostatnia taka budowla na północ od Alp",
@@ -1075,6 +1133,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-6d2a839f32b1046ac4",
+      "date": "2026-11-10",
+      "title": "Olmex z Grupy Onde ma umowę z PSE na modernizację stacji elektroener. za 23,6 mln zł netto",
+      "title_pl": "Olmex z Grupy Onde ma umowę z PSE na modernizację stacji elektroener. za 23,6 mln zł netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM1E0UkE3SEU3eWdIVlFwQ3VkRUNqeC1KSm9ybHlnUzVNaUZ4Z3R3NnNNRy1pSTJzSnZEUDJRQk8ycDNNTXI2U2pOQ0xUZFRlVlpJdDZfQlVFalZIN3Fha1h4SHR1OS14dS1BbVdyTk9iNDFVT3k2Z1dOamNtZ3h4MFotVFNaNkZHYThXT2tGSEk3Q18wbFpOaVV5S1hETGxvVTRnUTQ0bGlqZGxvcWpHakhMWWJLSGhuT0hmU2d4V1lnbXFtLWlrejl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-685d8b00c8152aea88",
       "date": "2026-11-10",
       "title": "CENNIK usług dodatkowych / serwisowych Obowiązujący od dnia 30.10.2026r. , stanowiący uzupełnienie oferty „Fotowoltaika z",
@@ -1311,6 +1398,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-581a5b4fea9d899cfb",
+      "date": "2026-11-10",
+      "title": "Rząd zamrozi ceny gazu. Rachunek wystawi głównie Orlenowi",
+      "title_pl": "Rząd zamrozi ceny gazu. Rachunek wystawi głównie Orlenowi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQk1VOGRvMUdQUTQwdWlqZ05FUUZ4MERZRmxwcjM2Ylk1REdRVEs5Y3NlWFNlMkV6VFpNamNuek1sdEZteWg4TDdKZTd4NXZQTS0xOGZUZVRueE1waHhaTWE4VDM1NVAySmVOenRCeFNHZnZHVS10MGg5V0pjeFZlU3d4V2NLdG01RFJmVVpjb2JoOTZOeDdlcFRjZXRSN3N5cktDMnFYclp2cjEtMFhz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3ef12bd3607c5f972e",
       "date": "2026-11-10",
       "title": "Gas Storage Poland sp. z o.o. operatorem systemu magazynowania paliw gazowych do 31 maja 2032 r.",
@@ -1543,6 +1659,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-24447cbe71ffd254e3",
+      "date": "2026-11-10",
+      "title": "Dostawa mączki kamienia wapiennego do PGE GiEK S.A. Oddział Elektrownia Rybnik w latach 2023-2024",
+      "title_pl": "Dostawa mączki kamienia wapiennego do PGE GiEK S.A. Oddział Elektrownia Rybnik w latach 2023-2024",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE POLSKA GRUPA ENERGETYCZNA SPÓŁKA AKCYJNA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f42-460a-3943-c1c5-d500019402d6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-1f6cb17a0935b63cc5",
       "date": "2026-11-10",
       "title": "„Kompleksowa obsługa wydarzenia pn. Barbórka dla wszystkich – tradycja, która łączy w Zabrzu, Rybniku i Bytomiu” z podziałem na 3 części.",
@@ -1570,6 +1715,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1ea5c02752d251586d",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął projekt nowelizacji tzw. specustawy jądrowej",
+      "title_pl": "Rząd przyjął projekt nowelizacji tzw. specustawy jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHpobGpmYmJ3dkNuNVNhQXNwc2p4Wi1PSW1vSHhEVnZCWWJMRW15Q3FET2RNTWhGRU4zVGpjdWIxRVNUak1MVXJZTEhIQkJZZE1TWTI3M0s0Q19sckFvUGJGbXp2MlFDSWE2d1hDUWhqOVJGSDQ4QThfSHZJU001ZHc0Vy1BOVZJaGFJTHhVQmVkblJoTzZrbzJ6QllzU1U?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1a4a4f97915784f072",
@@ -1670,7 +1844,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQamtjcGpRdVNmMU1xSXFNR1lILXRyamNDSHpuVWVxV1FDdVdlNmJXYTF6UHJFMThPZVpQTUgxVmgyUmU5UmZmUllEV195dGRuTGdOcEVZZE13eEVCNUI3Q0loYUNBMmZvRXBSXzV4VmJBeWdJQnBfWDRSN3FpWDZRSVdoTktfOVVTQVRpT1p2NGVCeGtzc20zQVhCSmNzVHNtLXJBdFB6U3dmZE5uNmRCYUhuSE94VXMzcGtMUHVScjc2WXgtcjNYNG1rUkdFdlZwUWxJX3lXc1lDa1JVNG9jcjdZSlF1bXNuSkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRE1yck1xRXRTdDBBSVd3dTJxRXg3b2VLdjlQTnA2TEF1S1dzNFI2S3d4NjFocXpEanJ2clpiZFFGdFZ6SFY1Y2g3cDhVLVJ4ajZFTnZpQzVNUnMtcU1JV1E3dEJjeURJRHJERElmaW9JSGdRQXJCdDVjU1ZQa2VFbjlJenRsZE9KR0E4dlFUVFlSLWRZRklSbVd1d2tNQ1NyNkROZFZmNDJqUFB4U01aV2lsaU1qZkQwOGlIczg5aDRXNzZV?oc=5",
           "type": "press"
         }
       ],
@@ -1678,7 +1852,7 @@
         "PEJ"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -1712,6 +1886,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-09b1ca3e5054b0db08",
+      "date": "2026-11-10",
+      "title": "Archiwa Magazynowanie energii - Strona 156 z 157",
+      "title_pl": "Archiwa Magazynowanie energii - Strona 156 z 157",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WUVc3WmExRW5maTNzYk5HYkIwNVE2dVg0bjFuMEZ0dlA2M1R0Vzl2UG1pd19CVkwyS0tHSzVCZ3VnYlZKOURpTnE1WllQc3lPcG5VUGJuTWZ0MzR5NHBPMi1hVXBycEhxUHpnZQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
