@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:26:40+00:00",
+  "updated": "2026-11-10T13:43:21+00:00",
   "signals": [
     {
       "id": "src-fbc835291524e94812",
@@ -84,6 +84,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f030bf757fad0e4ec8",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął ustawę usprawniającą budowę pierwszej elektrowni jądrowej",
+      "title_pl": "Rząd przyjął ustawę usprawniającą budowę pierwszej elektrowni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUk4xQXZISE5iQmxoU0l2WWNTQnBxRDVRYlFpWFVVWU5FalpfcFlRNkRRSE5WeG5vdkhjWGt6c3BsNWU0M0s1UnphTmRQTnU4REhBMHNxSWRWZUdjWkFUUlMxVnNWVXBSNW9hWnFCUHE1TDJBUnlPdjhZRGpyYmNkandvOTFmTXRtdmR3b2xwNFFDOHVqMWNuYUlzb3RfWmRMdGdjeGt1WkdvRUd1ZzVZbjI0cTVqTGM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -274,7 +303,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxNTkJQakw2cmxoa1luTkFPNHUwbkhNeDhPUnl6MHVNZ0dsOGMtdVdPNmExNE9BWWsxdnRodjVrbGlDelhJM3VhbDhWUG1qWndCamdfR1k4Q1F1RUlGbk92dlpoY2FJT1d3dFV1X19SUFpUbVFsVHR0d2FpZVZ2LVN0Q20xWUREZXgyOFRNSnpVV3ZwX2VRLWRJMzNDTHk4OThfZ01YeGhrTGR2RlBuZmk0c3hxaURpVTdjVWl6U1pqZGxELXdxYm9hSC03c25BMmFreWgza1pab2R3eDJ0RXdSaDNIWmdLMFd5djRaM2ptcEFQeGFNa0U3aEpVYjJRSW80MVVBNHVqZzExeDRUWEtCYnlRWUhMWFNSRUZPOVBYSDlHWmthTW00TEZUTXlrVkdrS3BTM3lkeXJFRzAwVVVlby1MSkNIUTF1Q2lYWm5ELTBTZnRJLVNIRHpqeE9DU2RQYjdMdlZGdmpnMS1wZ29IMW4xYlgyOXdLa1pmNzhScnQyUmZhX0hZSld5aklnOW90T0VyVHVEVngyUkpHZkFLX0hpcU50WXlwN2U0WjNENGl0UHVoV000em5pWjNvNmx3WUNhdWxZZXNxUzZuSGJlSDdiaE11Ym05a294N2VSN1hLY1VCV0JoRmp2aFRTcFhRLTVHZEMtZGFjMjFzdWFFeEZyT2EtTHo5RXZNOENnazlidjRsRjRZZzhmaTdxRlBXVzRGN1BzTzNoRE1LdmtXd1hHc2p2Y1JMbWdsT19teDVoTHNfYVZqMHRvekpTdG9HQXhMbDV0Y2lWX2J1Z2Q0b0JVcnF6b2RHa2dBMmtaenREalhyZVFqVmlKSF9VaElfX1hUOHFqNng3bVRPdVhDbklaQmpwZG9iQnhJRFlOZUdkYWd3c3JrdmFROU1DMnVuY0NzbG5yenIxQ1hhb3poWXBkSU9jQm5IdnhYT0FyWjJzaF8xaWx5bENFR3NvZUs2Z1k2MGpvY3RvTWFBZlg1TmhwdWVza1BZN2JsVENRNmhTZjJySl93ZlBBOUVILVpYelNZOGpJeERtYXkwNnFFbUNvcHRuMzFRRTQxTm5TSU9pZXhQTzlhM3NlOERrb3NWUzYxbXF3V3Q0MHJnRUZsNkNHVnZxYjF1LUdSRVB1U0FrTUJRTHo4WFBmRHg3U2NmNzRubmJvazBob3dyR1pGenh5ZktjZ1hka3lHMWlTWm1Rci1hajhmaDFLQ1RScmpqS282aGZ1MUlxYUJJR0tFQWRtUUktY3JfdmhJRGE3SWstR3h1WW15Mm9mempkT0xkMnJGVXVTNDh6U2c0RWk0Umw0WWZKWUhxN0ZBUjU4VWE4OXhsV2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxPVkNVSUJjeXdqSE1uY0tMdnZXemtPR18tcExxdEVjN1gwdnZEeHY3d1BRcE9oOGJ4YmdFZUI4YjR2enlweVNJT2pKWGJqdkMyS1kyb1Qtb2dCWW9lT01rRTQ3OVZ3RGI3UGxGWHJsVGVVcEpZVVMyZmN5cGpaZ1A1VUFhakNMeGFnZTk4YkN0T2ZRcmtjTUhRUEhSSlZJR2ZCcEtac3hLU2Jpal9ZZUR5Q1JHVVNWX3FWWXZudGpMSWZYVWdvT0pDSFgxQ21CcUZMbFNKbzcydEhXeVRkSklWTzVCb0c3QXI0amc3UWFBUGxvX0NfdDViRnZMblNaQW5jTUpVLTVLWGNuSXc2QXZkWS1HTDYydzF5QnJidUszUjBGQTFYczNwLUszYko2S3BGQTBhNEZSMW9mWFdhdm44dExKU0pGeXFsTWRyOVVNajNLQVJtYlRUWHFBamJnVy01WFh5ZWhzYXhydndUd3NlT2VHcWZLTGY4MHl6Mzd2Q005WnlsY1Y2MHd4RnoxOW41N0ZuT2JXWkNwck5yWmlUZG84VzV3dF9QbjZCbFQ0cm1PVTB4OGdXeXRodC1rY05UNDB5VEdwR2dqanFKcndYdXdtNjRUSzlqRzVrTDBXeVQzdVFFYlFRdHNPNG5UWlV0MUZiSVVPc3M2WDBhalFPUnZQQ3BqdWxhT1VnWEhUOF93RlYtTXRDeFRxT0hQUFFxTGRwOTFDNFBpa1lneG5pSy05UHdxNXhJaFBrSDhudHp6UEpJVXN2TGRQb0pxMWZMU0lwS2N4QTdmMnF4cGdGWjIwcmNDY2xSQUZabVMxcXRyamFoVHlwQjVHWkU0c25RVU1RMWxZUVVlYmxlVDRycTlXdUJQTzFjRHBFaWpsRS1FN0lDWmxuRHlzU0RuT2Nock8wUTF2MEJ0MTBKUEtOd2tGT0hrVGNZUkNuUkJGamVWZW5WODdWeG9yWlNUNWxjM1VWMzd5aWV4bl9Hb1p6MlRYY2lBdmxsSmVPbWVGRUl1UjVyZkMyZWVUSDNfRnFUMmFtaHVEOGp2LWt6VGdxM001NlBWeVJsclYtMzFER2loa190Q0lrSko1cGRBbXRWSTR1c3JWVi1PWHBLbGU4WVFCbVBjQ21VVy1ONERGZFY5N09lZW83bGJZOFhvTTVhejdEWndKd2JyRFY2WnRDZ25aWWd0S1JrYTNLNVVfQzFac1lPcEZsTjZJTzN1ekNxWkZGWENQUjB2dFhaMkcyTTRPR1BtYnoxRHl4M1dHN1hCMXA1SmsyRk1OU0ZEZ1hiSnZOc0F0M1F1SjNwTHJtU1RXbi03VUpFUjB0Nzg5c094dEc2RUE?oc=5",
           "type": "official"
         }
       ],
@@ -553,6 +582,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-98e61ebdb70012b3ab",
+      "date": "2026-11-10",
+      "title": "Tauron picks contractor for 55-MW solar park on Polish landfill",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVR3VGJfLXo2ZW1aYnZYSGpXNVUtNmRXX2NWYjFQYkgzWUtCdXZxZ3BaSjJ5ZGZrbU1GQWhJNldsbUpCOEtWVHNHejVaWkFueXZBSkcwelZUbFltcFVzNmtnR1RBMngxMjU0WnpZR29DS053dlFFNDVPSU5tUVU0WFdDWWVOUHd5Q3pNWGN5SDUwREZlZGpPY1pFeXoyZENpVERQVjV3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-968e20faa230352680",
       "date": "2026-11-10",
       "title": "Enea i Politechnika Poznańska rozwijają partnerstwo dla transformacji energetycznej",
@@ -780,6 +838,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-78cb3485240126b73f",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej - rzecznik",
+      "title_pl": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej - rzecznik",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU8xMUo4b3AycTB3cmIxTG9PSUVvSEtfeGZhTFFTaEN0cjJOQmdnSFp0WlI1TFdIVTNMY1B0U0tBaWs0cnl6dHZBZ3o4OGJaZWJQVl9ua0xBOTl1b3RFSEJQTm1FRXZtSXFzSENRWVUyNjh2TVhwcXlQbzZhc09lRXNNdndaNHVVUGdtV2g2SlVKMkhrRlBlSTlyVFk3T2J3TFpXRGZBUTFROC12SzI4Zlg0dmFmVUxEWWptSw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1108,6 +1195,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2fdd70511a4daa16bd",
+      "date": "2026-11-10",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHBiUXJndlpOOURURXFDQmJGaEZ3ejY2YTdzeXJwdndUTW9jTVBLU2xDUTJmZWhZSVFoZlFHTGpWVlhMY0NxTHZmQ0tVcG5fWGJuTWhfTXpvdm1CYWp1RHQxN2UyNWhBZlhRU1VaYVluQkV5dlZVZ2ZmNWtwVk9PakloZ1ppcnpI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2f21b74d5daee9eeb7",
       "date": "2026-11-10",
       "title": "„Przemysł energochłonny – OZE”. Szansa na finansowanie inwestycji w zieloną energię dla przedsiębiorstw",
@@ -1195,6 +1311,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1f6cb17a0935b63cc5",
+      "date": "2026-11-10",
+      "title": "„Kompleksowa obsługa wydarzenia pn. Barbórka dla wszystkich – tradycja, która łączy w Zabrzu, Rybniku i Bytomiu” z podziałem na 3 części.",
+      "title_pl": "„Kompleksowa obsługa wydarzenia pn. Barbórka dla wszystkich – tradycja, która łączy w Zabrzu, Rybniku i Bytomiu” z podziałem na 3 części.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MUZEUM GÓRNICTWA WĘGLOWEGO W ZABRZU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f30-7973-8424-c1c5-d50001940108",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1a4a4f97915784f072",
+      "date": "2026-11-10",
+      "title": "LV czy HV? Jaki magazyn energii wybrać? Sprawdź, dlaczego zestaw niskonapięciowy może być tańszy!",
+      "title_pl": "LV czy HV? Jaki magazyn energii wybrać? Sprawdź, dlaczego zestaw niskonapięciowy może być tańszy!",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUxqRTEyZDZveEhRZFJ6TXR2Vlkyd2J0Q3ZlN2U3UFZkX3VDRmFVMk9WbDlTZHpPM2xOcjZ5cEtKY0RacWJ6Wk90eERDM0V6aU5SVkZQclNzemgxbkJoMURSaFRGMllGOFRXaEd4MFgxNmJsSVdZZjZlZEdINWZwdk9lanlMUlJ1Mk9PX29MS1FwdUtDc0diUHFvMDZmd2hxZDZVRkNDdlpLa2Y5UDNNTWozM2R2dGFBWTlpLTQtejc2NDl5aHkwLXpETHBQekJXczdUV0lHMTRndDgySzVfNzBLNGRoT00?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-13c1e31505545db861",
       "date": "2026-11-10",
       "title": "Litwa zbuduje 10 nowych elektrowni. Chodzi o odporność energetyczną na sabotaż",
@@ -1219,6 +1393,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-11c08b6f278eab2812",
+      "date": "2026-11-10",
+      "title": "Archiwa Magazynowanie energii - Strona 157 z 157",
+      "title_pl": "Archiwa Magazynowanie energii - Strona 157 z 157",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oMjdQdVY3WTlyTHBTMTlzQXdfTWZSa3BsZnN3Mi1lUzZQOWRrYzgwY2w4ZGc3aGRwQmQzckxGeTUzUVJnSHJHUENpWW5LWXg3cW9QbGFQUFo0WFprZzlxQ2hNODZxYVBOOEhhWA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1306,6 +1509,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-00965b266a03256bb1",
+      "date": "2026-11-10",
+      "title": "Poland adopts bill to streamline preparations for construction of first nuclear power plant",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDBiVVE2SzBQTjFRN1JlaGhkeFZucWpBeWVGWm8xLW5qSWRic2hHN1VTZFhzVkhHMmJCUjI2LWp4NkxDM1I3U0ZiWWtXOEV4NUtYVGlnMHhFNzMxSTcwTGt3aWxXMW5SX1ByZHZxZ29GV0tDX0M3b01na2hxcTVqZ2RaVE16bjBzdnhYNUFkQ19RTHZJaDNQTlZzUkZfdUdNVlpwWF8tWU5VTUh6NnNzWmM2QU9QemZaRzhB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
