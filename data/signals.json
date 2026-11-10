@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:43:21+00:00",
+  "updated": "2026-11-10T14:57:07+00:00",
   "signals": [
     {
       "id": "src-fbc835291524e94812",
@@ -176,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-dab913f95009251ade",
+      "date": "2026-11-10",
+      "title": "\"Dostawa (sprzedaż oraz świadczenie usługi dystrybucji) gazu ziemnego wysokometanowego grupy E do celów grzewczych dla Sądu Rejonowego w Sandomierzu w roku 2027\"",
+      "title_pl": "\"Dostawa (sprzedaż oraz świadczenie usługi dystrybucji) gazu ziemnego wysokometanowego grupy E do celów grzewczych dla Sądu Rejonowego w Sandomierzu w roku 2027\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Sąd Rejonowy w Sandomierzu",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f3a-8838-3d40-c1c5-d50001940280",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-d9ba9bc563d30856a6",
       "date": "2026-11-10",
       "title": "Ceny energii od prosumentów wystrzeliły. Takich stawek jeszcze nie było",
@@ -350,6 +379,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-c9ddcf9286cf09fdc7",
+      "date": "2026-11-10",
+      "title": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+      "title_pl": "SKRM zajmie się projektem dot. maksymalnej ceny gazu w poniedziałek 16 XI",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW9qSWs0Z2hvR0ZreEUxQ2JXVjJMQlNmRTJaZThtcEhtLXo0ckRvTlg3MWNoaktURXZfaDBpOFliM0ZlbXdkQnI0UWhWMVJad0s5anl2aWNwX1RueHk0QnRnQXktNHRyWktsUXgzSmxxOFdqcWU5TGNCeTNERzZmY2FmS25ieGF5YnU2czlWc0poN29RaG5sVkJwd3hNTVZqYWZkMjRrLVVaYVFudFlNMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c8bdccbeb4bd289db5",
       "date": "2026-11-10",
       "title": "W Niemczech może zabraknąć gazu. Operatorzy magazynów ostrzegają",
@@ -466,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bab76332cde44ace5c",
+      "date": "2026-11-10",
+      "title": "Architektura zaczyna się na prasie: jak ekstruzja aluminium kształtuje design i ślad węglowy rozwiązań",
+      "title_pl": "Architektura zaczyna się na prasie: jak ekstruzja aluminium kształtuje design i ślad węglowy rozwiązań",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjNsZFlqdEMweU9vTE9fekhHZTN1cS1VMldFa1RTU2pSbXl2Ti0tbjNmeU1EbW9JUml1dXdiQ2N3WUp5aENhdXgtZ0FNOWtmc1NIVmhLcTRFN09CeDFMVVdoUEFwb3YtVmZaQ0hoeFdsQVNXZXRpOEZRMEpVUUM0cFNVTTNaVDkyRENOckdTMC1nNW9GMUdHbHRFby1Yamd1NS1vVzVqT3FJY2RFNTlrS2hHVnBCME5WTzVIX2xPc01lNThLd3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b470d69e7b2a87613a",
       "date": "2026-11-10",
       "title": "Realizacja świadczeń promocyjno marketingowych dla wydarzenia pod nazwą 72. Orlen Memoriał Janusza Kusocińskiego.",
@@ -493,6 +580,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b3f5188a765c354d98",
+      "date": "2026-11-10",
+      "title": "Łukasiewicz – Instytut Mikroelektroniki i Fotoniki - artykuły",
+      "title_pl": "Łukasiewicz – Instytut Mikroelektroniki i Fotoniki - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXpRc2dRU0g2WmFoN09seWpoanpuTmZsNHd0S3NvaHotakVNU0VjRV9ZM1Fpbm1iZV9nci1vZG9jOEZTOVRLX0N5LS1lMThOZ1hCQno1X3pLc0R6N1g5YlFHODZBazhKSXUwR1ZpenFLU19jV2lFQUdSS0xjaWNQUDEyTkZ2MDN2SlVpTkpR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a66890f8141cf842d8",
@@ -872,6 +988,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7660f9c08e0be67196",
+      "date": "2026-11-10",
+      "title": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Operator automatyzuje proces",
+      "title_pl": "Zgoda na przyłączenie fotowoltaiki w kilka minut. Operator automatyzuje proces",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEZGS3k2dTBSYlN2MUdIX2dsOVhldXZaTWRaTG9rQWg5a0ZkOFR0bHprNDFERC1ZZ1BQb3AyY0JWR3JMd2FXV2V3R1JCMGI0WWNtSk4yRUhQbHlfODd0bng0dDNZS2VqaDhjaDEwaGJRVHRDaGQ4Q2NQdzJSQUJycXRqYnk4ZUFiOGpkM21HLU9hSHFoTXpHdWlUT0JxUVB6ejlZUWJ1RGJCU1B4UzZIZ1JpSDFUVmtyeTF5aWNpNzhtSWs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-72f25bf2aec16174d4",
       "date": "2026-11-10",
       "title": "Blokowana przez Trumpa morska farma wiatrowa ruszyła, ale straciła na wartości",
@@ -959,6 +1104,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6701f3ad12ab73fc75",
+      "date": "2026-11-10",
+      "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej (opis)",
+      "title_pl": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej (opis)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHlwMWphSXBqTnplNXlfdW1JYzdNaHZlTHJTTzhtZG41bjFDZ2s5SkxoeWVDZGdHM0NfemxqX3FYZk9qREJkc2tHcHc5ZFkxVThCSk4wSVNRRE1DaFNrV1IxZ25Hdi1GMzB5aEhIbXh0Z25EYWE3VHFKU000cVQ5OEV1WklFNWFsYm1ZU25lVWZjU2FWX0FJelVUbkM5bWdKVlYyVzQ1dVpGamtEYld6dA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-660745eb9c102ffd43",
       "date": "2026-11-10",
       "title": "Firmowe parkingi są, ale ładowarek wciąż brakuje. Jak firmy wspierają elektromobilność?",
@@ -1019,6 +1193,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-62a2b7b6cda2db48c4",
+      "date": "2026-11-10",
+      "title": "PEJ podpisały z gminą Choczewo umowę na nową drogę ze Słajszewa na plażę",
+      "title_pl": "PEJ podpisały z gminą Choczewo umowę na nową drogę ze Słajszewa na plażę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1BWMFJNMHJPeGVNNEd0bXk4QUpaSFBuSTBDc0VjQlE5eFJ1anRtRFNETERoY2NjUld6djh2ZUhrbEw4M3V3bWZnSkFrN2Z6NXpsR2pscWdhNE1tME80MzAtbW5WOUFpVnJzeWFWbGFCLVU0cHZkUzYtaFdSZlFiOGNRS0RmQVBtbDdXVXJrOXVSWGxLOFUyTTZRYTZUWXN6d2w3TThsV00taE9DMTZj?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5d835b4056f8bdf9a3",
@@ -1164,6 +1367,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-38e186f4093a594b1a",
+      "date": "2026-11-10",
+      "title": "Turcja chce globalnej elektryfikacji. Krytycy: Brakuje zobowiązań dot. niskoemisyjności",
+      "title_pl": "Turcja chce globalnej elektryfikacji. Krytycy: Brakuje zobowiązań dot. niskoemisyjności",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVExMQ1otaWlZWWp1WFdwSmtFTWZxQTVmUlN0ZU1GazRKWEhfRHBVYXB1dkRrQi13WnlKZW1OejFGcmFUUWJuZmFxdW9zU3VMNWF1Nm42RHMzTnNKbzVYemVWSnFQdnJpN09tenB4NlBzU08tdDM1a2h2SmR1N1dBTGlkTTJSTldPVEpLby10VjJlOVdXNTl3SFVhX2tVdGlBOFVIY1VpZUlPd0dJMWJDUmtnQWNPX2N1SENOdG54VnZQNlhQUG1vUFpSUlV4SzU1eTZXSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3672f6c0543dee1185",
@@ -1509,6 +1741,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-019573a15cb92df144",
+      "date": "2026-11-10",
+      "title": "ENEA SA (50/2026) Rezygnacja Członka Rady Nadzorczej Enea S.A.",
+      "title_pl": "ENEA SA (50/2026) Rezygnacja Członka Rady Nadzorczej Enea S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG0wekF6SVVNXzl1QVNiSVhYZTZhbFlnUUplY1NFTXdCSXo3UWZINlNuY0Y5TUJEazhkZlZPMkh1WThHNW1xTFhIdEItN19SMk5fb0RIWmxVQU5NbkVpOHJWXzlENERpVVU4NFFrMDMtQmgyNFhydFdHZ0pfMUxoVXBqZlMyYVN3dmJnSnQyUnRISjVTakRFVUJWVDk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
