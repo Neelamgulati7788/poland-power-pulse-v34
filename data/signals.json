@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:34:19+00:00",
+  "updated": "2026-11-11T11:31:34+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-dec46e423cafbc519c",
+      "date": "2026-11-11",
+      "title": "Płonące elektryki i panele na dachach. NIK sprawdził, czy polscy strażacy są na takie pożary gotowi",
+      "title_pl": "Płonące elektryki i panele na dachach. NIK sprawdził, czy polscy strażacy są na takie pożary gotowi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Najwyższa Izba Kontroli pozytywnie oceniła przygotowanie Państwowej Straży Pożarnej do akcji ratowniczo-gaśniczych dotyczących zdarzeń z udziałem pojazdów elektrycznych i instalacji fotowoltaicznych - poinformowała Izba.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Plonace-elektryki-i-panele-na-dachach-NIK-sprawdzil-czy-polscy-strazacy-sa-na-takie-pozary-gotowi-9223411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-dd57751651c28eeaea",
@@ -234,18 +263,47 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-a3b74883542751e98e",
+      "id": "src-9d4faf3732d61ec46b",
       "date": "2026-11-11",
-      "title": "Atak na banki może uderzyć w całą gospodarkę. NBP wskazuje słaby punkt",
-      "title_pl": "Atak na banki może uderzyć w całą gospodarkę. NBP wskazuje słaby punkt",
+      "title": "Dziś myślimy o Polsce. Niezależność energetyczna ważnym czynnikiem bezpieczeństwa",
+      "title_pl": "Dziś myślimy o Polsce. Niezależność energetyczna ważnym czynnikiem bezpieczeństwa",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polski system finansowy jest dobrze przygotowany na ataki, ale długotrwałe i powtarzające się działania mogą prowadzić do zakłóceń - ocenia Paweł Szałamacha, członek zarządu Narodowego Banku Polskiego. Jego zdaniem kluczowe są sprawne procedury awaryjne i przygotowanie ludzi. Wskazuje też na potrzebę bliższej współpracy instytucji finansowych…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Atak-na-banki-moze-uderzyc-w-cala-gospodarke-NBP-wskazuje-slaby-punkt-9223249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVdQYlJ2YUFfS0tueGRKWkpTWnEwMGt0b2dobnVfaFhpWEd0N3lmR2dQTVpYVnBDWHpSMVpaaWE3V1J0enlaXzBZQzktQnF5dkpBQ3hSM2hya0dOS2lrMTltd2tSLWhyN0J6ZElDZmlLUS1FY2pHVjA0dlJVdGtxd2pkTTBGQ1EyeVc5OV94bU9uYjBKMV9RcUhTdnNaQkpiNU1ESThxRG9CLXpuMHhtZzlZdVdFNjVjUUk0Ng?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-975154980f1828b434",
+      "date": "2026-11-11",
+      "title": "Sytuacja na rynku węgla Październikowe wzrosty notowań",
+      "title_pl": "Sytuacja na rynku węgla Październikowe wzrosty notowań",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSWNmaXRIUUFlUVRSOGVRMG56dXdjMENRSi1RMmFwX2V6bmkxNlBXcV9rTjVrMFkzTGRUYVZIRFZoNzU0Y2dVUi1FS2F1RUljOVFVS1E5RVYtLThhVUphT2NlY09JR19MMThqQnZkZVB0TXk0RnZQbG45SHRnV3UyeDZmRnFiUThWalRMWXhwSEhvUEhMdzdjUWFMaFVDWjhWNGdyb0Jn?oc=5",
           "type": "press"
         }
       ],
@@ -254,13 +312,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-962ca539d23e7cc6de",
@@ -548,6 +606,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f85b9c36cb12b91f67",
+      "date": "2026-11-10",
+      "title": "Niemcy wprowadzają domowy magazyn energii z baterią sodowo-jonową. Ile kosztuje?",
+      "title_pl": "Niemcy wprowadzają domowy magazyn energii z baterią sodowo-jonową. Ile kosztuje?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1lOSjgxeXBjdk56czREMWhGM3FPeGRGR3hLUDBBMUdjMzZUcU9NbGFLcUEtR2dpRnlMMFBBY2xvRGloRTBoM3lMSnJJNjJBRzMxZlFzWGc2ZE9hYnVoMExtRkIzT2U4UjVQc2tIdDYtaGxZNlpfaGVGWGU5bWM2YkRNd0NGRDBtQmRickw5aEJiWlB6dDQwYzFJN0I5azN0S0FIYnQyOFUySlg4OU5V?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
