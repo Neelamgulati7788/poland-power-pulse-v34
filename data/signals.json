@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:31:34+00:00",
+  "updated": "2026-11-11T12:31:57+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ecdd049657d95df469",
+      "date": "2026-11-11",
+      "title": "Orlen cancels long term Qatari LNG contract over delivery failure",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWFFLWNYRGxUbGE3VTZSTUpYbU9BdFBXbjE2aERRTFFXekJvZGN4aG5DcVJOUkVmUldqMVJvTl9aclJBWTJzWGFZUFZjeXJaZktmbjAtZllRU2xKMENfcF9OVEZPc01nWFFVeV9xeklid3FyakxLUjBqdXAyLV9Fd0UtMVRpaTMyZ0g5MDU0d0dQalFHRWlRb29RM281cnU5?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dec46e423cafbc519c",
@@ -350,6 +379,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-44d7e447f84b45da9c",
+      "date": "2026-11-11",
+      "title": "Paris leads EU capitals for rooftop solar generation potential",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Research from Greece on rooftop PV potential across the EU's 27 capital cities identifies Paris, Budapest and Warsaw as having the highest annual generation potential, while highlighting cloud cover as the largest source of solar energy losses. The post Paris leads EU capitals for rooftop…",
+      "links": [
+        {
+          "label": "pv magazine — source",
+          "url": "https://www.pv-magazine.com/2026/11/11/paris-leads-eu-capitals-for-rooftop-solar-generation-potential/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pv magazine",
+      "publisherUrl": "https://www.pv-magazine.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "39"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-43f074e56c243e6d06",
       "date": "2026-11-11",
       "title": "Ceny gazu w Europie w górę",
@@ -374,6 +432,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-28cb1f055ae4929495",
+      "date": "2026-11-11",
+      "title": "Ceny energii",
+      "title_pl": "Ceny energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12eG9yYWtkaHVldWdTZVVwYzRhd2VKTE16Wk9qZGNTLTdGeXdINFRteTZQcUlxY3NMdHdCSGxtX2IwTkFkOGhUbEd6eDBZdE1SUklYYTFUWUZ1OTFNcXNfUE1SMGNqdWNoUnNFUDd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -408,6 +495,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1f013ce98735c20b47",
+      "date": "2026-11-11",
+      "title": "QatarEnergy kontrakt czym zastapiony?",
+      "title_pl": "QatarEnergy kontrakt czym zastapiony?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFdneEJkUi0xUXJiUGxWR1dKSWRIa3dWa2VWOU1POXJPVUd5MEttWTJ5VGprcGxwOHlid1pzTmdFV2ZJbVlST3Nwekk5dExyc2xJbklHUlRRVjg2Qi1XSDU4b1RablFSUDBtb0FhaHVscnhQYVk1VjAxX0dvdC1GZFhjV0xKSXBSTVBabV9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-121f21e4c1f8b79cb0",
       "date": "2026-11-11",
       "title": "Polska – Energia słoneczna – „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Nowe Skalmierzyce i Ostrów Wielkopolski - dostawa i montaż instalacji fotowoltaicznych oraz magazynów energii”",
@@ -429,6 +545,35 @@
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-05513cce96532873a4",
+      "date": "2026-11-11",
+      "title": "Usługa sprzątania pomieszczeń wewnątrz budynku Instytutu Energetyki- Państwowego Instytutu Badawczego Oddział Gdańsk",
+      "title_pl": "Usługa sprzątania pomieszczeń wewnątrz budynku Instytutu Energetyki- Państwowego Instytutu Badawczego Oddział Gdańsk",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "INSTYTUT ENERGETYKI PAŃSTWOWY INSTYTUT BADAWCZY ODDZIAŁ GDAŃSK",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3fec-c417-4fb4-c1c5-d50001940565",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "45"
