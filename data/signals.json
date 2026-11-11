@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:55:57+00:00",
+  "updated": "2026-11-11T04:59:51+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -408,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ef92cdac930908aeea",
+      "date": "2026-11-10",
+      "title": "Ciepłownictwo coraz mocniej łączy się z elektroenergetyką, nowy raport Forum Energii",
+      "title_pl": "Ciepłownictwo coraz mocniej łączy się z elektroenergetyką, nowy raport Forum Energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRmhROWd2TnVISEtNbTJDTnFLVlBkVm1GMFhHLUN3ejVCMEJyZjRFMzlZLTNmUmZZQjItMTdZYTF3NkdWbzNmaU9hR0NQbFpBNVF6T243cldtWXFQbUtDbTgtR1lkTi1KSDJLbHJtMHZEX1BNTTRfOGVmY3d3bnNLUmpUcUVDU3JWbUQ1cjk1LXZYaE16NzUyWk1oZW1fN1ptVFk2NGpmZHdDLXZMOUJ3dEVubDNDWnhhVmtZYUxOWl91U1JtcWxmeURxQ01lRXl0WFJHYkx4bUlkV0YybUxjMmdzMFF4bFk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.rynek-gazu.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ef5e00de7fefbfc9bc",
       "date": "2026-11-10",
       "title": "Rząd przyjął nowelę o homologacji pojazdów. Elektroniczne świadectwa zgodności zastąpią papier",
@@ -589,11 +618,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z Qatar Liquefied Gas Company Limited (obecnie QatarEnergy LNG) z uwagi na utrzymującą się siłę wyższą skutkującą brakiem dostaw - poinformowała spółka w komunikacie.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcmxhNTJQSDBjcDluSndVTjZDOXcySFA5SG85akdfRHo1aTE5ZURlQUhIRmFFTmpPTzBWZVIyWEFpRlJWWUQ0TkMzUFo1WlJ6YUpyT1Iyd0l2bjZjODdrWmRhRVZDUXpacEZUZ21oSXJTdnNhXzBJWkRjTl9yRFBmRU1scFNMSjJWUWs2WFptdFFlOHA2cmdLNWQ2MDNNM0lGcUVCYU10NzNpaUFZN0tTeVljQkRsdVVZV0gxSkc3WFpsMFZxWDAxTWVuMjUzTVgwdkRVYldKaWFxWUk4SWR6TDhMMk1FTzJCLS1hVGk0akdkMTQ?oc=5",
           "type": "press"
         }
       ],
@@ -607,8 +636,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dfb58031496d8edcf4",
