@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:57:21+00:00",
+  "updated": "2026-11-11T20:00:04+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -580,6 +580,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-57b21c57d7d41fe4b9",
+      "date": "2026-11-11",
+      "title": "Na Ukrainie znowu zamieszanie wokół państwowego Energoatomu",
+      "title_pl": "Na Ukrainie znowu zamieszanie wokół państwowego Energoatomu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0N5c2lNVVN4allSeFFSaUVEOTNwMmt2bWVSWlpVWjY2TnJBTW1zejhVR3FDY2pHejFZUzY4V0JReEtVWEFGU2ttQjJCNFFwRHpwci1ZNFNaWjBxbVVwQTRZSi1tUXljTEJsR05kTklEMElISmJpOFVPejVRMGpLWnZocnZBQWxvbkhjUlM5b1kzUnZKblZXOHpxWkhHeVZ3SVJNbmwzaVMxOUFIRi00dU9jU1dqX2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-44d7e447f84b45da9c",
@@ -1289,7 +1318,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQekpab3U3S1hPVmlXcDhZSVBmS1htSGN5bEppZVVLNWFCNkJfb1cycjVnc09fQmtZSlBKYkVvQmVhaVdaRl9MS00xWDNlVUVYdW5ZR0NZbTJ5RlFyblZoUjdmbHM0SXl2V3NXOUdXSE1mU1FPS3R1Q3Y5ZG9UTzlOZHZsWXJSYUo2UWtMRnVCeG0xUDVTYnpfWVFoUDJNWUE2bU9rRG5GMndGOWR1YVBHVjNGWHlhMkRSdVVYSjNJaHJ6Mk9aQWNYd1FNVUU5cnJTSDZWNk9Ec0t3aUlWNDVxeFI5TGhqS2tvbWpJMURYeDRRZDZTTzZkNGZ6TzZvQloydXYyTldtN0hQOFI5U1dibGtwV3F0ZmoyUmdqSGduak4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZ2J6VlJoT0VuUThLRl8tWGN4NVprdFozZXphUC1VU3J0eWJVV1VMdkN4d0JrTDRtUWw0ZWIxMnF0MkVQVmE5ckFBeEJjc05oWS1IZFliTDFZM1dmREgtalJkT0s4SUpWd1hJaEdvSjNvTDQ5Q1pZT2dHdmhXejNHdWRTYkZjeVBEMEhZYWY0WVUzVXBRdnZNUEpXMWVHbk1jbHZaTVVicFlfXzhMX2pPNS1nSXUtVHJ3S1dTYVZBcUdoZDRiLV9JaUdOcGhDODc3emo4eWRjRXpiTVl3aWtiZWJaVi1ucWlEQzBWOGhtZjk3a2VmMlVRaC1sbmtIRmoxaHpEWVA1RUw4Y2hfbjNPa3piUWw?oc=5",
           "type": "press"
         }
       ],
@@ -1297,7 +1326,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -2119,6 +2148,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a92dfbdae4599a5daf",
+      "date": "2026-11-10",
+      "title": "Pięć kopalń węgla energetycznego rozpocznie wydobycie",
+      "title_pl": "Pięć kopalń węgla energetycznego rozpocznie wydobycie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHVIMG1ramUtUGI4X2lIQm50cGl3b2RmMDhEVGc0d2k1dUJtanNrbm5aU0s1WjFMVUpONzRUa0VzaUFORjBBY3hRNFVyMjJFYkw3VjhNM1laWmk5Yk1IcUFpU1pRVmwxdko4TEZ2Ynh4WHZhV1JTTkZqTi1JZWd4UVkxNTRMbWEtTjRHN0FYdmd6dnl6cVhoaA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a66890f8141cf842d8",
       "date": "2026-11-10",
       "title": "Magazyn energii pod lupą ubezpieczyciela. Co sprawdza, zanim obejmie go ochroną",
@@ -2810,6 +2868,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6ce1ec486e65101c09",
+      "date": "2026-11-10",
+      "title": "Re: ceny gazu galopują",
+      "title_pl": "Re: ceny gazu galopują",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96cnR0eERjaTVsU2ZMcDJNV1BNazhZd3ZFQ2YtX1JNNXhLU25PVi1tUFd2dkx2QWdqdC1rakdnZkw3Q3Z3YnBQZ2liaWREd1BldF9IQnFFS2wtRm9hZExLa2pCM25IZnlZSHVCcU9VRF9mU05Ua1dTLTBB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
