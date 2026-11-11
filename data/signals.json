@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-11T02:54:03+00:00",
+  "updated": "2026-11-11T03:55:57+00:00",
   "signals": [
+    {
+      "id": "src-f8dd92c4bf6a9dc970",
+      "date": "2026-11-11",
+      "title": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej wraz z magazynem energii na terenie Gospodarstwa Nasienno-Szkółkarskiego w Sukowie",
+      "title_pl": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej wraz z magazynem energii na terenie Gospodarstwa Nasienno-Szkółkarskiego w Sukowie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGL LP Nadleśnictwo Daleszyce",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f91-68d9-a6df-c1c5-d5000194050b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d4fec13771c5823399",
+      "date": "2026-11-11",
+      "title": "Wykaz z kontroli Inspekcji Handlowej – pilarki łańcuchowe: spalinowe i elektryczne, UOKiK 2026",
+      "title_pl": "Wykaz z kontroli Inspekcji Handlowej – pilarki łańcuchowe: spalinowe i elektryczne, UOKiK 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "UOKiK — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KYThWMUtKVUVrM2NtVGJPZ2pydW1DLVltZk1XOVhTdkFlcU5yblBqOEhDUDJnNlRVdXBnNTI0YXYxVE5QVWdqQVVB?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "UOKiK",
+      "publisherUrl": "https://uokik.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "10"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-c955b73a1fe283e438",
       "date": "2026-11-11",
@@ -72,6 +130,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f91-644c-daca-c1c5-d500019404e3",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-121f21e4c1f8b79cb0",
+      "date": "2026-11-11",
+      "title": "Polska – Energia słoneczna – „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Nowe Skalmierzyce i Ostrów Wielkopolski - dostawa i montaż instalacji fotowoltaicznych oraz magazynów energii”",
+      "title_pl": "Polska – Energia słoneczna – „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Nowe Skalmierzyce i Ostrów Wielkopolski - dostawa i montaż instalacji fotowoltaicznych oraz magazynów energii”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Ostrów Wielkopolski",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f91-68e3-e0dc-c1c5-d5000194050c",
           "type": "official"
         }
       ],
