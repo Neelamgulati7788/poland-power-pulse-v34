@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:57:30+00:00",
+  "updated": "2026-11-11T17:56:32+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -118,6 +118,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-db3f0cdc44bfdce3ce",
+      "date": "2026-11-11",
+      "title": "Polacy rzucili się na dopłaty do elektryków. Rząd rozdał ponad miliard złotych",
+      "title_pl": "Polacy rzucili się na dopłaty do elektryków. Rząd rozdał ponad miliard złotych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W ramach programu dopłat do samochodów elektrycznych NaszEauto wypłacono już blisko 1,2 mld zł z przewidzianych 1,25 mld zł - poinformował NFOŚiGW. Fundusz prosi osoby, które nadal czekają na podpisanie umowy lub wypłatę środków, o śledzenie korespondencji mailowej oraz statusu wniosków.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polacy-rzucili-sie-na-doplaty-do-elektrykow-Rzad-rozdal-ponad-miliard-zlotych-9225048.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d8df348347f0f13c54",
+      "date": "2026-11-11",
+      "title": "Remor Solar Polska SA: Zmiana harmonogramu publikacji raportów okresowych",
+      "title_pl": "Remor Solar Polska SA: Zmiana harmonogramu publikacji raportów okresowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWF8wVnVCa09XNUFGcDZQMjlubzVVMks3M1JVamhWZ1k2eDQ4VE5UVTVCR3F6SjNKaU40RExoTVR0eUFzNmN6WUZBRGh4bGxkMmE3UTVWTjJNMkJqemhqQld4al9DWExPWE1peXZOZWVBNHZmX2JvRWNybEdGeEFUV3o5UXRmcVhyZXJpUU5nSHc0MHRPTWEzRlM5UXZNUlJaZkRmcGJoUENqMUtBVjJYdm5wLVhSZFQ0S2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d71f52ada2c481ea27",
       "date": "2026-11-11",
       "title": "Niemcy: Rząd chce utworzyć krajową rezerwę gazu na wypadek sabotażu i sytuacji kryzysowych",
@@ -205,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d0485ee03ed9010de0",
+      "date": "2026-11-11",
+      "title": "Mroźna zima i strach przed sabotażem. Niemcy w trybie pilnym tworzą rezerwę gazu",
+      "title_pl": "Mroźna zima i strach przed sabotażem. Niemcy w trybie pilnym tworzą rezerwę gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Niemiecki rząd przyjął projekt ustawy o utworzeniu krajowej rezerwy gazu, która ma zabezpieczyć dostawy w przypadku sabotażu i sytuacji kryzysowych - poinformowała w środę agencja dpa.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Mrozna-zima-i-strach-przed-sabotazem-Niemcy-w-trybie-pilnym-tworza-rezerwe-gazu-9227365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-c955b73a1fe283e438",
       "date": "2026-11-11",
       "title": "Najwięksi konsumenci węgla na świecie. Chiny mają(...) - Forum",
@@ -261,6 +348,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ba5d37f3d3986a521c",
+      "date": "2026-11-11",
+      "title": "Słynna komenda z „Pitbulla” przejdzie metamorfozę. Policja wyda 100 milionów zł",
+      "title_pl": "Słynna komenda z „Pitbulla” przejdzie metamorfozę. Policja wyda 100 milionów zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zabytkowy Pałac Mostowskich - siedziba stołecznej policji - za blisko 100 mln zł przejdzie kompleksową modernizację energetyczną i technologiczną. Stanie się obiektem wysoce samowystarczalnym energetycznie - poinformował w środę rzecznik komendy stołecznej policji kom. Jacek Wiśniewski.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Slynna-komenda-z-Pitbulla-przejdzie-metamorfoze-Policja-wyda-100-milionow-zl-9223515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-b73e4c4dbd0cba58a8",
