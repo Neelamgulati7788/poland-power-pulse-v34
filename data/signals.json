@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:56:32+00:00",
+  "updated": "2026-11-11T18:57:21+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -67,11 +67,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Najwyższa Izba Kontroli pozytywnie oceniła przygotowanie Państwowej Straży Pożarnej do akcji ratowniczo-gaśniczych dotyczących zdarzeń z udziałem pojazdów elektrycznych i instalacji fotowoltaicznych - poinformowała Izba.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Plonace-elektryki-i-panele-na-dachach-NIK-sprawdzil-czy-polscy-strazacy-sa-na-takie-pozary-gotowi-9223411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTU5kZHp4RVVzQUExQ2NueWh2dTdKdTNCeXcxM0ZCMEh1VzdVRWhqX2IxVzI3dWhXaWs0dGpOUGpuamduWklQU2theGtNRG1oVzZtTVpkX1ZlSFotLWhvVEc0dS1vLS11R2JrUHY5ZTZnSHE0RElZOFJOdlAtd1NBZzFpWVRyZTFtbHhJUk01X0puRVdXS1hmV0NpTmJGVldBSGVjQTZuR1RxUmR4N2IyVnpKS012eF81ektxRDJJSk5RaFNkYWxNMXR4dDM5V1lueTlrRUJza3lKT28?oc=5",
           "type": "press"
         }
       ],
@@ -85,8 +85,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dd57751651c28eeaea",
@@ -693,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-283f6e3592314f9b2d",
+      "date": "2026-11-11",
+      "title": "Ukraina proponuje Rosji własną wersję energetycznego rozejmu",
+      "title_pl": "Ukraina proponuje Rosji własną wersję energetycznego rozejmu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTi1YeUFFbG1PSTFzR2xwQnBiMG9VU2FubTJOaG9PbFR3RWU3d2VXQ2stUHpYUE55aDZTZFRNSkNJRTJjdklENDFVbTY5TmtsN1J6S0VObmVqMEJrUG1BalpwMk04a0sxaXNVZHB5ZU5tMWtKT0kxZlJkS0s3WS16YkFWUWR1SmV0Nlh2ZUYyalVFVk1qS2FVOFJRbzhCNEZ0OTVURQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
