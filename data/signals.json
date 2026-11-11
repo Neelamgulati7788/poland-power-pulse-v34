@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:31:57+00:00",
+  "updated": "2026-11-11T13:49:28+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d71f52ada2c481ea27",
+      "date": "2026-11-11",
+      "title": "Niemcy: Rząd chce utworzyć krajową rezerwę gazu na wypadek sabotażu i sytuacji kryzysowych",
+      "title_pl": "Niemcy: Rząd chce utworzyć krajową rezerwę gazu na wypadek sabotażu i sytuacji kryzysowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGVVUF9aQTVyWGNzcUNlTjJONkthZlJZVlhlUmUwWVlsMTVpNUN5WEh4T1dKUndSaXlFUG9tZjlidHZyWjBHT0RSVkpYLVdLZFBRNjRwT0FHNER5ak1maHE3R2x2c3hKTHgtZlJQRmNSSWowYjBKWndoRURfTk5PUFNNVkdTelJYMVY5eTBWX3pPdHgtQkY4WlIxTklWd212S0huU0dzZlVrVzBRcnNUdk5BTWRJNWJNU0RlbDhTVmdJcVNwY1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -377,6 +406,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-924f40d61336bc4b40",
+      "date": "2026-11-11",
+      "title": "Orlen zrywa kontrakt z QatarEnergy na LNG. Siła wyższa",
+      "title_pl": "Orlen zrywa kontrakt z QatarEnergy na LNG. Siła wyższa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rozwiązanie naftowo indeksowanego kontraktu z 2009 r. pokazuje, jak zakłócenia eksportu z Zatoki Perskiej zmieniają relacje między dostawcami gazu a europejskimi odbiorcami. Polski koncern zapewnia, że jego bilans dostaw pozostaje zabezpieczony.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/orlen-zrywa-kontrakt-z-qatarenergy-na-lng-sila-wyzsza/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-44d7e447f84b45da9c",
@@ -3510,6 +3568,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-19ffc1a827e2d2afc2",
+      "date": "2026-11-10",
+      "title": "Termination of the LNG supply agreement with QatarEnergy",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0pYVzZONlVwLWtpbkEyS3AzZ2FaLTlBSmRDdnpQR05xd3BPQ085YV9CN2tOVi1TOXkwbkVKT2JhSUE2ZUJ0RUlNT050WEJfVllwdER3dnlqZWxXRTBPRGp2RTVyeDNqaDJYWnpXbF91U2RXdzJuYjlreVRzRFlKWnJWbVRfSDBTcWJKODd0eGI1TXhNUTh3dS15TmRQcVo0V0hmbVdfOEZmS3h6ZnZ6TUgtajNaUG9GVnRHd0t2RzRrb0pFR1JHT2NVSkNHTTRu?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
