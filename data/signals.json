@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:49:28+00:00",
+  "updated": "2026-11-11T14:55:42+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -316,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9e5b529364f2373c44",
+      "date": "2026-11-11",
+      "title": "Inwestycje w OZE i poprawę efektywności energetycznej gospodarstw - złożono ok. 3,55 tys. wniosków",
+      "title_pl": "Inwestycje w OZE i poprawę efektywności energetycznej gospodarstw - złożono ok. 3,55 tys. wniosków",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlZKaFFuU2dBZ0o4UUhnXy1takExRnFFaWtsVlNEalRlVVNiYUpRVXNtUUQ3MXRMLTNzNXIzREI3V1RzOGVYa3NncTdtb0FkS0VoRVJPcmxEY2RlY09UZ2FJUG5DbTRiNHdjZ0VYZ2RWWHF3Q1p2OG5kVWcwSFdtR0RLV0Q3WnFNRmVqTE1zR2xJMklFY0hkalFHUThSTDRIdE1lczctLXlKYm5wRHgtcGhIeUhwNzZPTDR2bXh2SnBnSnktMnItdGxQaHZWeGtqX3E2UnVB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3058,11 +3087,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Podczas gdy Wall Street uginała się pod ciężarem jastrzębich obaw o politykę Rezerwy Federalnej, na GPW i pozostałych rynkach Europy dominowały wzrosty, co tłumaczono gwałtownym spadkiem cen surowców energetycznych. Na krajowym parkiecie znów brylowała branża odzieżowa, wspomagana przez banki i CD Projekt, ale wartym odnotowania…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Przecena-Orlenu-zatrzymana-Uderzenie-popytu-w-ostatnich-minutach-sesji-9227046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU25TSDJtaElxazJpWmhiU2NfeGVxOGw1bHBqOGZsY3dneGZsMk5DVkxzR2RWcXpFYThHZDRDQnpUNGJVU1p0YkpvRzBYbWlyTDV5TTNYQnlwMmxhdV8xWVNwWGp0ZlRnaFAxMmMwbXBETDFFZTZiRHBwdG5BSEhQZkxFdl9GQk1VdGhUZTVqdGViSlRlWGNHeUQ0VERoSWg1M1BjVmUxVGJjSmJfaHJsM2FOS0VEYzg?oc=5",
           "type": "press"
         }
       ],
@@ -3076,8 +3105,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-38e186f4093a594b1a",
@@ -3455,6 +3484,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-224ea3b96b970afd45",
+      "date": "2026-11-10",
+      "title": "Barroso, ministrowie i liderzy biznesu na PGE Narodowym. Zbliża się VI Kongres Polska Moc Biznesu (MediaRoom)",
+      "title_pl": "Barroso, ministrowie i liderzy biznesu na PGE Narodowym. Zbliża się VI Kongres Polska Moc Biznesu (MediaRoom)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVlDaUxKMUtXOHFYRHJacWF4Y2lxMlA5eUtLOUdDV1p4N19FaHVhdmhBMlYwZnZFMk9wYUp4ekVEd1g5c19XelRWUDQ4c2V5NXRYSTY4Y2JMM3dyTUNoNW5uQVZZQV9paWFGNTl4ZE9rcVRYM2ozSVpVcVF3TGl5bkROV2l1QldFQ0ZWbDJXaWctR09fQUNRVVlsRXZJN1FtcG1ncF9mMlNZRkdzeF9fdUFOcHlnZXJP?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1f6cb17a0935b63cc5",
