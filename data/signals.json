@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:53:25+00:00",
+  "updated": "2026-11-11T16:57:30+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -623,6 +623,35 @@
         {
           "label": "Bankier.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFdneEJkUi0xUXJiUGxWR1dKSWRIa3dWa2VWOU1POXJPVUd5MEttWTJ5VGprcGxwOHlid1pzTmdFV2ZJbVlST3Nwekk5dExyc2xJbklHUlRRVjg2Qi1XSDU4b1RablFSUDBtb0FhaHVscnhQYVk1VjAxX0dvdC1GZFhjV0xKSXBSTVBabV9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1d2897290663147e97",
+      "date": "2026-11-11",
+      "title": "tylko dzieki elektrowniom cieplnym w Polsce jest prąd",
+      "title_pl": "tylko dzieki elektrowniom cieplnym w Polsce jest prąd",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmxpcWtxTWxKLUJ3RkJYdjVzcm1renpMYi1FRW5LdWpjbGhiRHdhYnV0RHNueE1NVmhfMkZJSW8tNU0zLWJnc1ZzTEtqUkNaWkVpZ2xySTNQOXMzaWotS2V5bi13V3hYa0Q3TFhfdnJPTUtPZkZhcHRkdms3Nmc2dW9Rd2JnWUZ1MF9JMGhQLWl3Y0ZkZ1JPZXBRTEUtTHVCZHpydg?oc=5",
           "type": "press"
         }
       ],
