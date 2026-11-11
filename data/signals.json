@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T05:59:51+00:00",
+  "updated": "2026-11-11T07:14:04+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b73e4c4dbd0cba58a8",
+      "date": "2026-11-11",
+      "title": "Pompa ciepła czy kocioł na pellet? Różnica w kosztach ogrzewania przekracza 5 tys. zł rocznie",
+      "title_pl": "Pompa ciepła czy kocioł na pellet? Różnica w kosztach ogrzewania przekracza 5 tys. zł rocznie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblBDLVFNTnMxc3ptVzJSYkdLSm5iY1FpZ2o3ZVN0d3ktUGV3SEt2LUVjbmxQb0JWd1pZdDlHY0FvWVYyTEs4QW1wM01CTkZlcWsyRHNwMnZkWk1WQ3A4MDNVRU1zX3R2U2VQRFhqVlMtcklDQnpqSHJTaElDcWM0QjFRaWxOZWJvbzVESVJfLXp1UDZSZUU5b0JqeDVmUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3449,6 +3478,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0606fef05978654b4e",
+      "date": "2026-11-10",
+      "title": "Co ze strategią energetyczną Polski do 2050? Ministerstwo odpowiada",
+      "title_pl": "Co ze strategią energetyczną Polski do 2050? Ministerstwo odpowiada",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVY0VDVqeUQtU1p0cHJBcERZX3NRSTdLX3oxamkwd1VLSVN6WEVBQXI2dzh5akRia1BKOVhZLTZhQjRSZTBEWXl5UFAtdE1HUDA1ckQtbmNKRjByNkZRRlo4UThaZi12Mm1Lc1VPWlBPTEF4NkNhRktZSkxDZkNxWjREaHoxTEt2Q0JfVzFCa3E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "22"
