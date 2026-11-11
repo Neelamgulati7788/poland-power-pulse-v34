@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-11T22:35:24+00:00",
+  "updated": "2026-11-11T23:29:06+00:00",
   "signals": [
+    {
+      "id": "src-fca408df459c83e461",
+      "date": "2026-11-11",
+      "title": "PKN Orlen marsz niepodległości tyłu jeszcze nie(...) - Forum",
+      "title_pl": "PKN Orlen marsz niepodległości tyłu jeszcze nie(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmY3dGxHcW9Ea2VtdHRVX182OVFUVzhWNG1TYUYzSktsZ1k4aUFkWXhWVW92T3ZsTW10VlJWMW96c3NtN3dNUmtvNF9FWnh5ZlUwYlNqTkFnOGJSS24zcURKOEVKR0xOMnI3SGdfTnd2R0lFMGZvem1nU1ByWnE2bzhXaVpuaDl4ZDVHdnZZNVdZUUF0QWdrS21aVXFRS0RfWkJQdENOM3lRQUl6bE5xb2VEWkJoUWoxbjl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-f8dd92c4bf6a9dc970",
       "date": "2026-11-11",
@@ -84,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e52d2f0319b2e46783",
+      "date": "2026-11-11",
+      "title": "Transformacja sieci energetycznych: nie marnujmy potencjału, który już mamy",
+      "title_pl": "Transformacja sieci energetycznych: nie marnujmy potencjału, który już mamy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGdIa2VyOHhfTUlDcDB6ZVU5RjJSaHZwZGNkVl93VnJDWDd2dW9LeHhZdGNUU1RFajJ0VWdhM05ObS0xUWFMXzBCV2hkeHdlYzZGRmZUb3pCQlE3ejUtNWVicXlJamN6eGVpeUhCOEVzS1FTcDhfWFFETHRZdXdaY28yZmowZlRGdUJZTWVOY1JWYXlHVUFtU3h1bzRMZjNoOFNrdHFnUDBHQU1OU2prWktYZks4X205TGpF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -667,6 +725,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-6fd5a5bfcc91151499",
+      "date": "2026-11-11",
+      "title": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
+      "title_pl": "⭐ CENA WĘGLA KOKSUJĄCEGO W AZJI ⭐",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDdvdDJ1R3g4emFpcjRrSXVwUmtLOEJBU0s0clpkZHR3S0x5ellnUkpSaWJZV0tvamFYUWIzUkp0ZVF2UG5rODQzQ0FqN3RfSXJ4eXhtck1SMlF2cEZFeU9xMHI2UktzMHJTdEtwRnVDOFR3ZEwydTlMZ1ZPUjhEckNrbmI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-57b21c57d7d41fe4b9",
