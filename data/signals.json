@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:37:07+00:00",
+  "updated": "2026-11-11T22:35:24+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f0786dac618adfc7b7",
+      "date": "2026-11-11",
+      "title": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "title_pl": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVB2d2ZfRURyYVBjSTBvQVBXR0xpekV2cmlRS2xIWnExclFJYWlDOFZiZW82ZlZMSDdqS0pmb2hvTnBZNTAwT0NiYmFvVDdVSXZqdVFrbDJoOGVuT294cHJRdmE5Um5mQVYzMTVNWXVjUVI5T3R1RTJBWVVxbGV6YUpWZ3pqdzdMU3cwYTluUHF1a3duVzJOOFAzNktHcDlpdFh1b2RMWHRtQVVfaTc1ZWNDSGk1aUh3UGdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ecdd049657d95df469",
@@ -408,6 +437,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b49f87c7d9518d2b92",
+      "date": "2026-11-11",
+      "title": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "title_pl": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUG5YUkNwX01oWEQ0U1hmSzJDME9jOWVOZnZlUTBCZW4tMDdNZG1zWjNHS2dxelZoWmt2TzZ0MEVqUVpfSVhJSTdEeUVUSWJiOTRrSTd4eGJrVk8xYzFDMUVOTWhkTERkUzhNM05DT2drUmlseEVyRkNnbWMyeHBTbW9QaGhLSVB2TkxBN1JNN3JQSmQ3U3ZhbnFGUnRIMjUzbzJJZ3kxZ3VOdll3MkstQUpob2YzdlU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b2526a78f5be9b65c4",
       "date": "2026-11-11",
       "title": "Szczecin kupi energię z odpadów. Zasili m.in. oświetlenie ulic i biletomaty",
@@ -580,6 +638,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-917577717b393cd0af",
+      "date": "2026-11-11",
+      "title": "Montaż dwóch zewnętrznych platformy dla OzN, jednej wewnętrznej platform dla OzN oraz wewnętrznej windy osobowej wraz z instalacją elektryczną w Urzędzie Gminy w Orłach",
+      "title_pl": "Montaż dwóch zewnętrznych platformy dla OzN, jednej wewnętrznej platform dla OzN oraz wewnętrznej windy osobowej wraz z instalacją elektryczną w Urzędzie Gminy w Orłach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA ORŁY",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4040-31c8-4333-c1c5-d5000194064c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-57b21c57d7d41fe4b9",
@@ -1067,6 +1154,35 @@
       "publisher": "Energetyka24",
       "publisherUrl": "https://energetyka24.com",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8b7bcc1bb6d0b3ba5",
+      "date": "2026-11-10",
+      "title": "Schrony, energetyka i transport. Tak biznes może wzmocnić bezpieczeństwo Polski",
+      "title_pl": "Schrony, energetyka i transport. Tak biznes może wzmocnić bezpieczeństwo Polski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcm9pYWpVRGEwQ2VJb0dhcFBCb1hjVGNzQWhVWi1JTFZESzItZWtWbjhMZ3FHNTZpbEk1MU5nRW9iQXlyVEYzTFNNbzJjcEFHVjdiS21rZk8zWWtJdm9hRUtoZVNoTldXU3llaWpyQVdwYlM4RWxOZlJTSmNURUo4WFMwM2RLamh1alpkSGxYNkVFYUZJZXZncHhwRXhST1VYS2h2M0RVLXR2UW9oNVBQRzRWZVJjVjhzdFBzNk82cw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "20"
@@ -2346,6 +2462,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-956d16c102081ded1e",
+      "date": "2026-11-10",
+      "title": "ENERGY SA (9/2026) Korekta raportu okresowego",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0dFOVJPNU50SkhfUDNQQUl2ZzB4Mi1BS3JnSlZmby1UZ2JTRFZNdTlydVJSNjdOeWd4RXZvZ1AtanRPXzBQQ1ZIdFphY1NlWHZqMjFFQnRJM2R0UERLTE1qZ1JkUE9vc2lzYmNjekxFMGxVTmxXVHUxQklqR2NSWGg2dkFNSjdl?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
