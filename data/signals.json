@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:59:51+00:00",
+  "updated": "2026-11-11T05:59:51+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d5523e2a6e3d698086",
+      "date": "2026-11-11",
+      "title": "Orlen zrywa kontrakt na LNG z Kataru. „Nasze zapotrzebowanie jest pokryte”",
+      "title_pl": "Orlen zrywa kontrakt na LNG z Kataru. „Nasze zapotrzebowanie jest pokryte”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFBYa3ljSU5IRXdrTmQ0SHR4ODZFM0tDQS1UUVl1dkpoZl9mTHVvaTBCT3JWZ2lOQVR3dmZ4RFRiR0NWUW85SlZ5TmhmbkhGODNRSmZrSnk1aEZKblhpcWN2aG14V1JzRHd3SUhTTDltWWxPRDBqQ3oyWE9EVlF0bjRqNFhMaEM4dWkxVHlBNWZfU1M5VFV5Q0x3a1loZDZIY0Zoa1FmMEdJWFhieTYxZjVwdEc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d4fec13771c5823399",
@@ -118,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b2526a78f5be9b65c4",
+      "date": "2026-11-11",
+      "title": "Szczecin kupi energię z odpadów. Zasili m.in. oświetlenie ulic i biletomaty",
+      "title_pl": "Szczecin kupi energię z odpadów. Zasili m.in. oświetlenie ulic i biletomaty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdE1yMmZxajRHZ3RyT0xuUk5VcHBoZHdHZUthUmhQY3dwRVBNWEI5MTBzcTBnXzVvS1FpYTM0UFhIV01sYnd5c2IwMk1KMTNDSmUwTEVUN3diVDJOWjYtdjJsaURYcUFjWVJPVFlzR3ZoZ1Z0Ri1oM3Z1WGpJTDlBaUhGamV3ZUg2UjBmaHZKQ1NOWTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-962ca539d23e7cc6de",
       "date": "2026-11-11",
       "title": "Polska – Pompy – Dostawa pomp elektrycznie napędzanych odwadniających wraz z wyposażeniem.",
@@ -145,6 +203,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-25c9e63acfcfd3c263",
+      "date": "2026-11-11",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOXIzVXQtUDU5MDZiZDZ5MzhONGxmbGJnb0lESWNyeHlyUXFPWlUyaTNlTUwzTWIyRHBIb3NEcjZPSTQwM0p4eWJSMHFEMXNFNjFIUVZ6MlM4RndFWXlGTnhUUkxnM1hyT1NWWHpsU0VZeHlkQTFTd3FNOWVHTnBid2FLTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-121f21e4c1f8b79cb0",
@@ -1104,6 +1191,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c617d1cc9e6edc848a",
+      "date": "2026-11-10",
+      "title": "Unia Europejska mocno obniżyła zużycie gazu. Jak do tego doszło?",
+      "title_pl": "Unia Europejska mocno obniżyła zużycie gazu. Jak do tego doszło?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVdRZUxBc1paM1BZQzlKS1puUGlOeUFJQWtsRTlUOTVFWVkxWnZNQ3RpWGIzbWd0OXk5TE1pWkd5NEdiVmQwS2o0aVlnOE1qWHo5bXoxcHhWUmNJendLaDAtbGNsQUtRQXZFM0dlMkNWYmZzLTNaWW9TZ1k1UG0zeGl6aFo3OTNKQnluUw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bd82076f60c8f1ae5b",
       "date": "2026-11-10",
       "title": "W Niemczech może zabraknąć gazu tej zimy",
@@ -1476,6 +1592,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-93d6f596a810b8acea",
+      "date": "2026-11-10",
+      "title": "Orlen rezygnuje z katarskiego gazu. Wartość umowy to ok. 2,5 mld zł",
+      "title_pl": "Orlen rezygnuje z katarskiego gazu. Wartość umowy to ok. 2,5 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnQxQWJvRkFPYjVOWjdhOFVZRWZNbmsyTHByRTk2U2N1cTVTbGNpT0h5VjQ0b1hUZjU3NnR3Y0ctTjZ1VVdfXzk2X0FRWkJqbHJFeFlCaDJWUEdQdXpOTWtNcjZIUll2dmI0U2hYWmdLWS1sRVA0NUxCazF6NHpPc2VGbkZFU3hITzBqSzFJdjJ0VG1JT19RdmpjaXl3RHVjY0V3aTdrNFhOdm82aDF1Q09fOWJtb0lwSWFZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5251,6 +5396,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-654045d71ff0ff2ec1",
+      "date": "2026-11-09",
+      "title": "Koszenie trawy roślinności farm fotowoltaicznych farm PV",
+      "title_pl": "Koszenie trawy roślinności farm fotowoltaicznych farm PV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb29pcnE3alhBTHlQcGdESl81XzA0WEh1Z2JmekFjTDc1WnZpWjdNSGpsWUZaZTl5T0dtNWszbkY5cU1VTG1qdGxhWnM3R295MmJpc19XeWFIUVBwR2FsWktTM2dDZXJrREdDVG5MWkJSWjdZU3NKUEcxMW0tTUZ1OTZHN1hMbXR5NGI3dGJOT3RwTEtDdEY0VUhrc01jYzJUck9PNWhEcHl2YVBSRDZIbU1JTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
