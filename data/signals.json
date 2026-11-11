@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:33:59+00:00",
+  "updated": "2026-11-11T09:32:06+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -377,6 +377,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-04eabc279ca41db99d",
+      "date": "2026-11-11",
+      "title": "LĄDOWA ENERGETYKA WIATROWA",
+      "title_pl": "LĄDOWA ENERGETYKA WIATROWA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3RU5GNllGaEgwN0VkYnh1bldqT3dvaWtJUkNQNnAxU1NPTnBubTFRcl9QNzAxbzQ5aUJYRGNUUVFPMkZQQXJxR0pNZWdlc2liTW4waElfSGZLS3JzVHlTY25wOUJFUmpMTV9oZEk3RXF2UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ff663da0ee78ee7028",
@@ -4903,6 +4932,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a51fdb579133d4b6cb",
+      "date": "2026-11-09",
+      "title": "Grupa Azoty poprawia wyniki. Ceny gazu wciąż wyzwaniem",
+      "title_pl": "Grupa Azoty poprawia wyniki. Ceny gazu wciąż wyzwaniem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHVSaXRMdHJYX0ZqckZZY0tBWTVNeFY4ZWRNRXIwQU5NT3h3QmRpZFk3ZXVSWmtNSTdFY2QtVkotSWU4MktIdlVwRG51N0NKczlqSWp0YUlHTk1sNGZHZy1PZ084QVBKWW54TVZrbHYtUjFiZVRobER4N1BaNVUxLThSYUh0T0RTRW1fTFg4TGV0MXpFTnVhSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
