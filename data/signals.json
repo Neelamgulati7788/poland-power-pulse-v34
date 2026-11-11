@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T23:38:51+00:00",
+  "updated": "2026-11-11T01:02:44+00:00",
   "signals": [
     {
       "id": "src-ff663da0ee78ee7028",
@@ -2350,6 +2350,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3055e45583c341937c",
+      "date": "2026-11-10",
+      "title": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy",
+      "title_pl": "Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z QatarEnergy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2I3bjByZ1ZSYUhNTU5IUFNxajk5VGk1eFF4d3pLRDF4UVhGMDE3VklJMTBmQnNWU2J1NmRWSWVPem1STzBQSzFZTGo3MGY0djdkeWk3LTdKWlg3cF93c2lRc2ZCNjZ1amdYYy1LVkpoTDBhcURsaGtmbXQ1MTNPeG5TUmdSdFdFUjg2dDBtUjhyZ2h2d1hVTnpLZ2V6dVlBendiWTViSzJKOVFhRzVCTTg2LVNMcVhMWUpJZ1p3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
