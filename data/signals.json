@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:04:00+00:00",
+  "updated": "2026-11-11T02:54:03+00:00",
   "signals": [
     {
       "id": "src-c955b73a1fe283e438",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bc949cf95634496e92",
+      "date": "2026-11-11",
+      "title": "Re: Najwięksi konsumenci węgla na świecie. Chiny(...) - Forum",
+      "title_pl": "Re: Najwięksi konsumenci węgla na świecie. Chiny(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0s3d3JkWGo2S0MzVEktR2c5M24wZEo1ZzVWSW9oQmtzYXk5dGRMdFZacDZzTGZLUXU4MC1NbFBIS3VOVEJqX1Z5a0JMaThrT3FudHdHUzNmRTBlMG1QOXJ4c012R3dnTXlucVJuUF9FYXF5cmhRdEtyWktqTzVPNGppc0JVNkhxZDdySk8xUlBxekIwX194LVJnUjhwTjNzNVFxYzlRSno0RGZodVFLSnh0ZVpfWk9LYUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-962ca539d23e7cc6de",
+      "date": "2026-11-11",
+      "title": "Polska – Pompy – Dostawa pomp elektrycznie napędzanych odwadniających wraz z wyposażeniem.",
+      "title_pl": "Polska – Pompy – Dostawa pomp elektrycznie napędzanych odwadniających wraz z wyposażeniem.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3f91-644c-daca-c1c5-d500019404e3",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ff663da0ee78ee7028",
