@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T07:14:04+00:00",
+  "updated": "2026-11-11T08:33:59+00:00",
   "signals": [
     {
       "id": "src-f8dd92c4bf6a9dc970",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-dd57751651c28eeaea",
+      "date": "2026-11-11",
+      "title": "Polish Energy Infrastructure House",
+      "title_pl": "Polish Energy Infrastructure House",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFEzVzJrbHFPMjRCTGgzV3hZdVZnWEMtV0Q1c18tY1RnaTZyTk1LUUZsR3RudVRNaEdKZTl5RDV4WkpHMjRjU0E3cUY0OVA1NEZqSS1IN3JBMThMR0JVMFpGc2ljSXVOTC1UdjAtdEQ0MVJxbDM2bEZNRXpnYnNTYW94Zzg1cGM1Ym1v?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d5523e2a6e3d698086",
@@ -205,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a3b74883542751e98e",
+      "date": "2026-11-11",
+      "title": "Atak na banki może uderzyć w całą gospodarkę. NBP wskazuje słaby punkt",
+      "title_pl": "Atak na banki może uderzyć w całą gospodarkę. NBP wskazuje słaby punkt",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polski system finansowy jest dobrze przygotowany na ataki, ale długotrwałe i powtarzające się działania mogą prowadzić do zakłóceń - ocenia Paweł Szałamacha, członek zarządu Narodowego Banku Polskiego. Jego zdaniem kluczowe są sprawne procedury awaryjne i przygotowanie ludzi. Wskazuje też na potrzebę bliższej współpracy instytucji finansowych…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Atak-na-banki-moze-uderzyc-w-cala-gospodarke-NBP-wskazuje-slaby-punkt-9223249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-962ca539d23e7cc6de",
       "date": "2026-11-11",
       "title": "Polska – Pompy – Dostawa pomp elektrycznie napędzanych odwadniających wraz z wyposażeniem.",
@@ -232,6 +290,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-43f074e56c243e6d06",
+      "date": "2026-11-11",
+      "title": "Ceny gazu w Europie w górę",
+      "title_pl": "Ceny gazu w Europie w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqS0pFNjdCM2p0emZaUkJrMjQ2NnF6ajBXeldFUVdBMEVDUXlDOHBUVGlZM2EwSHFCVnpqTVduVzJrOUxpcjFBYXg4cHZ5Qy1TTUtOeHlOcENEZGRLdXJYcXRZaGtnSUtFZFhlczZvQnJtYTNGNnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-25c9e63acfcfd3c263",
@@ -1882,6 +1969,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-835a32367066a30cbc",
+      "date": "2026-11-10",
+      "title": "PGE zmienia faktury i numery kont. Nowy system trafi do 500 tys. klientów",
+      "title_pl": "PGE zmienia faktury i numery kont. Nowy system trafi do 500 tys. klientów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fVTloNkh6aXFmUnJndVZ6bkNPWmlheFZSZm5oTlVmN3NqSV8zMW0wM0dkaEt0ZUoyMGxKNTR5bGJieWcydDZ2Ui1kZjlYZVJ6cEI2N0JiYWtmUFNldzczeC1jNFdoeWNQcjgyX0Z2N0xnclg4dTlZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
