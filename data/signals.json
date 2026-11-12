@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-12T12:00:06+00:00",
+  "updated": "2026-11-12T13:12:12+00:00",
   "signals": [
+    {
+      "id": "src-fd361cfc34d69dde38",
+      "date": "2026-11-12",
+      "title": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E do obiektów Miejskiego Ośrodka Sportu i Rekreacji w Brzegu Dolnym w 2027 roku",
+      "title_pl": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E do obiektów Miejskiego Ośrodka Sportu i Rekreacji w Brzegu Dolnym w 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MIEJSKI OŚRODEK SPORTU I REKREACJI W BRZEGU DOLNYM",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40be-8439-17b6-c1c5-d500019411e6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-f89a3502bbc2ae2e96",
       "date": "2026-11-12",
@@ -87,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ecd43285ab0809b0ec",
+      "date": "2026-11-12",
+      "title": "Budowa przyłącza gazu i wewnętrznej instalacji gazowej w budynku mieszkalnym przy ul. Ligonia 17 w Sosnowcu dla Spółki Restrukturyzacji Kopalń S.A. Oddział Administracja Zasobów Mieszkaniowych",
+      "title_pl": "Budowa przyłącza gazu i wewnętrznej instalacji gazowej w budynku mieszkalnym przy ul. Ligonia 17 w Sosnowcu dla Spółki Restrukturyzacji Kopalń S.A. Oddział Administracja Zasobów Mieszkaniowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Spółka Restrukturyzacji Kopalń S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40be-7821-5c36-c1c5-d500019411e3",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-e837165c5be2d5b117",
@@ -350,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c2e81555b6eed47b67",
+      "date": "2026-11-12",
+      "title": "Gore Street turns to Spain and Romania for next deals, EU battery portfolio reaches 550 MWh",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Gore Street’s EU fund is advancing opportunities in Spain and Romania after committing €147 million to Irish and Polish battery projects. Spain has also joined the fund as an sovereign investor. The post Gore Street turns to Spain and Romania for next deals, EU battery…",
+      "links": [
+        {
+          "label": "ESS News — source",
+          "url": "https://www.ess-news.com/2026/11/12/gore-street-turns-to-spain-and-romania-for-next-deals-eu-battery-portfolio-reaches-550-mwh/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ESS News",
+      "publisherUrl": "https://www.ess-news.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "37"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-b80ab620d67d69a9c6",
       "date": "2026-11-12",
       "title": "Miesięczna cena energii od prosumentów idzie w górę",
@@ -406,6 +493,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-aee3d108086a9c90b9",
+      "date": "2026-11-12",
+      "title": "„Budowa strefy sportowej przy MOSiR w Brzegu Dolnym: 1) Budowa pełnowymiarowego boiska piłkarskiego z systemem monitoringu wizyjnego; 2) Budowa boiska do gry w padla z montażem ławek solarnych.”",
+      "title_pl": "„Budowa strefy sportowej przy MOSiR w Brzegu Dolnym: 1) Budowa pełnowymiarowego boiska piłkarskiego z systemem monitoringu wizyjnego; 2) Budowa boiska do gry w padla z montażem ławek solarnych.”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Brzeg Dolny",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40be-5d41-ca07-c1c5-d500019411de",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a6ad4651fa8df6e3ea",
+      "date": "2026-11-12",
+      "title": "Enea Operator instaluje 80 tysięcy inteligentnych liczników miesięcznie",
+      "title_pl": "Enea Operator instaluje 80 tysięcy inteligentnych liczników miesięcznie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0s1am1kT2FDQWNhdk91THNMNzJnaGM1VzQyR2k0QTBkU2pGR2dGc3VRMjJuakhOcG5ZRURjaDh3cS05cEFVSUF5VENZdmFDVzVKVWFZZ1Y2V1dDRTV1Slg1NDNMM2lGQ2pNU3FTS2RCcElkbmxFY09xR3Jyd01jUm0zaF9OQld1SGFONGROSnh3QURnZFpTZnI3b0ZmVDNxLWZ2MTV3?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9d12c4f959a4209ab3",
@@ -844,6 +989,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5105f58a29acfa9172",
+      "date": "2026-11-12",
+      "title": "Construction advances at Poland’s 303-MWp Brzezinka solar project",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2RGUi1Heko2Sl9NSmplOVhLRFR4c1RIQ1loT1UxV21BbHNKb1Rrd25YMXcyMlQ3RkR3cEozeWpsZmxxWWJSdXR6bG96MzNEUWRGZDkweFh6UDI2RDJTSXJuN2hiNVZUVUZpY3VEV0czajFhbllVR2lLbzdmdm84ZnF2SkZVYlNXeEl0Y2twcTZtMXp0ZGd3aVFNbzR4ZjdZOUo2aG93Zw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-489e3e94e0a651b170",
       "date": "2026-11-12",
       "title": "Orlen jednak zawarł umowę !!!",
@@ -868,6 +1042,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-41a344b370ea1c4602",
+      "date": "2026-11-12",
+      "title": "Elon Musk nie odpuszcza fotowoltaice. Rusza z budową ogromnej fabryki",
+      "title_pl": "Elon Musk nie odpuszcza fotowoltaice. Rusza z budową ogromnej fabryki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjBrdy00QmcwRHBvY2VzOGZDSEZkclhBc0k1cG05N0M1M1hOMklURWw0dkQ1X18yQ1FROTFoSmhzbk9RMzYzQ2JSOXBGdUZJTmtSbmVmUWxMRjI3RzZTRVVTWXZtbW9Cb2cxZ3hIOXM2OF9tOWM5UEFxOVcyTUJkaE9qZUhldE92Uktxa1QzVHJCd1NETlA2UWU3cHZ5TzdjYzNyWA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
