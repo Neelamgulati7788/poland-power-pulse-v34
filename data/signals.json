@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T17:54:42+00:00",
+  "updated": "2026-11-12T18:55:48+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -229,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e36f7c0ebd98df22d7",
+      "date": "2026-11-12",
+      "title": "PSG realizuje przyłączenie Elektrociepłowni Pomorzany do sieci gazowej",
+      "title_pl": "PSG realizuje przyłączenie Elektrociepłowni Pomorzany do sieci gazowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQXJiQkNQV0pMT0ZWWkhaZXl6SGM3b1JaV1E2RVNMdHBMYjRFVmNhVmVQb1JpRmZCOC10Z2w4cUFOSXVlQ0Rha180R2tfOUpKOGxTZGFNUVJNc3d4V1gtNHVxTzFlR3IzMmY4RGFFa1BYbElrZGZ6MkF3OUhCOGZlSmdiSTRFUmdJazBiQ0ZPazRFOEVYNmVEU3E5X2lvdzNqSFRVaTI1UkY2VHNVamlOUmsyeGxxX3c3ZXM0bk9meWNjSzJLdGhSN05fbDNOSVgzVGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1768,6 +1797,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-27c5c475fa8615eadc",
+      "date": "2026-11-12",
+      "title": "ENEA: Informacja dotycząca zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "title_pl": "ENEA: Informacja dotycząca zamiaru zgłoszenia kandydatury do składu Rady Nadzorczej Spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMXJzMnc2aFFiN1ZDV0daZmg2akRqNlRaLVMxa3NNWlQyMl9lQzdWUXF0djEtdEV5NzZMY0lhMFJhTWVRSlJXcnNENDhPOExsT0RYUkdzbTNDNEFyZ01LdExPaWdFUFpiNzZNbTZFZ3JlSHJYSmtHU3d0cHJFWU01WXBmZzFPZVMzMDh4NlpHYzRVUHk4c2EwakRKdGJrek96Q1Z3WDdFem5XZk9QVk5hVnU0V0lDOVUxZG9GRGFhVjNXSEgzODNwTUc0eG95TTgx?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
