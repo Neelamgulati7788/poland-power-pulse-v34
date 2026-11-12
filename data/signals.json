@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:56:02+00:00",
+  "updated": "2026-11-12T20:51:27+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -843,6 +843,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-b48acae675cf4d76ea",
+      "date": "2026-11-12",
+      "title": "️✏️JSW: PRODUKCJA WĘGLA I KOKSU W 3Q BR.(...) - Forum",
+      "title_pl": "️✏️JSW: PRODUKCJA WĘGLA I KOKSU W 3Q BR.(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2lTWGhnMDBsYUM3aWJHOHlQQVZSOXdsZmt5a2lTUGwzS2h5Q1VuUlFFX3RZSUhUMHBzVmZhd0IzbEV4ektXQ29jdlVqaFk2ME1oQ3FYa2NVVk1xR3ZfdXN1aUNYWkZ6SHl1VzV3aEFDLWpFdEtTNTRNdEJoOTJ3VzlFUjZzeWhiS3RvUFZuSVJ6cWRyc0twYkxOY2hmdVBEQ3V2ZDVLeGx2Wm1T?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-aee3d108086a9c90b9",
       "date": "2026-11-12",
       "title": "„Budowa strefy sportowej przy MOSiR w Brzegu Dolnym: 1) Budowa pełnowymiarowego boiska piłkarskiego z systemem monitoringu wizyjnego; 2) Budowa boiska do gry w padla z montażem ławek solarnych.”",
@@ -1134,6 +1163,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-822d9ef43f7ad5d31b",
+      "date": "2026-11-12",
+      "title": "Usługi konserwacji i eksploatacji systemów gazów technicznych laboratoryjnych, medycznych, obsługi sprężarkowni, próżni, rozprężni, pomp ssących i źródeł gazu w tym gazu ziemnego w obiektach PUM",
+      "title_pl": "Usługi konserwacji i eksploatacji systemów gazów technicznych laboratoryjnych, medycznych, obsługi sprężarkowni, próżni, rozprężni, pomp ssących i źródeł gazu w tym gazu ziemnego w obiektach PUM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Pomorski Uniwersytet Medyczny w Szczecinie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40f9-1039-457f-c1c5-d50001941539",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-7f40020fbd5c21a0d2",
       "date": "2026-11-12",
       "title": "Orlen Neptun begins wind measurement at 4-GW Baltic West off Poland",
@@ -1364,6 +1422,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-730c8de1fca11cdded",
+      "date": "2026-11-12",
+      "title": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "title_pl": "✏️✏️ JSW ZWIĘKSZA PRODUKCJĘ WĘGLA I KOKSU ✏️✏️",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHR1UTVOc095Q2NkVWptRlU2cVljNlllakpNaXNTUTJKYzdPYW04TUtmSHpSSjE0aDAzZkNia1VrWG55alpubEQ1WXBEWGdydzh3Q2N1MDBiWHRkc3RFSl9UZENjRlVEemFPM09NLVktNjQ5bFl3d0ZKd3JaNkIyUFd0blNYaEItS0R0UVp3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6f29a0ff8704eea6f9",
