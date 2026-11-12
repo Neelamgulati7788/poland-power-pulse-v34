@@ -1,6 +1,93 @@
 {
-  "updated": "2026-11-12T01:53:18+00:00",
+  "updated": "2026-11-12T02:53:56+00:00",
   "signals": [
+    {
+      "id": "src-f89a3502bbc2ae2e96",
+      "date": "2026-11-12",
+      "title": "Polska – Elektryczność – Zakup energii elektrycznej na lata 2027 i 2028.",
+      "title_pl": "Polska – Elektryczność – Zakup energii elektrycznej na lata 2027 i 2028.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd Miasta i Gminy Piaseczno",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df405a-904e-de11-c1c5-d50001940689",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d4d0586f56bc058155",
+      "date": "2026-11-12",
+      "title": "Polska – Bezpieczniki – Dostawa wkładek bezpiecznikowych niskiego i średniego napięcia na potrzeby TAURON Dystrybucja S.A.",
+      "title_pl": "Polska – Bezpieczniki – Dostawa wkładek bezpiecznikowych niskiego i średniego napięcia na potrzeby TAURON Dystrybucja S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "TAURON Dystrybucja S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df405a-9011-fcbc-c1c5-d50001940683",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7f22268d0bda2cbaee",
+      "date": "2026-11-12",
+      "title": "Polska – Przesył energii elektrycznej i podobne usługi – ​Usługa ARNE w okresie od 1 stycznia 2027 r. do 31 grudnia 2027 r. od Enea Elektrownia Połaniec Sp. z o.o.",
+      "title_pl": "Polska – Przesył energii elektrycznej i podobne usługi – ​Usługa ARNE w okresie od 1 stycznia 2027 r. do 31 grudnia 2027 r. od Enea Elektrownia Połaniec Sp. z o.o.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Sieci Elektroenergetyczne SA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df405a-901c-2c4d-c1c5-d50001940684",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fca408df459c83e461",
       "date": "2026-11-11",
@@ -781,6 +868,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-537bb9716eb7c1b6d6",
+      "date": "2026-11-11",
+      "title": "️✏️JSW: PRODUKCJA WĘGLA I KOKSU W 3Q BR.(...) - Forum",
+      "title_pl": "️✏️JSW: PRODUKCJA WĘGLA I KOKSU W 3Q BR.(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3hESVd6V2NDbmFTbjNTSEcwcGtRX195T0l2Z0l2R3dWNlhvOUJpQTJRR2JVUzJadjBMa2tBUzF1ZHN5NWV1MDhIaTNtMkhkZkpxcWF3UW5lX04wNFo5YXpiZ0RaTGpiWEc3VHZNUlp3N04xTTNnd29mMkczeXBNRzNjRTlOVlFEYl9zam9EdVFjZ1k4T3Fhck1WMEVFRHF1bXBneWxtcHdqVC1P?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
