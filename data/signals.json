@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:12:12+00:00",
+  "updated": "2026-11-12T14:33:22+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -171,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d9866e804dee65b1d3",
+      "date": "2026-11-12",
+      "title": "Strona 2601 z 2601 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2601 z 2601 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdHJvd2ZHOXQ4NGJEUnNybG8wV2VuY0NHajYxSVZiX1dyMldkcHJDel9DUklhekdDUTNNMXdDdXVhRkNpR1FPMno0R1pIV25sc0tBOGR4YlpkMVUxOXhQOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -437,6 +466,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-b87056eea7dd55fa57",
+      "date": "2026-11-12",
+      "title": "PGE stawia na local content: do 2035 r. jego udział ma sięgnąć co najmniej 65 proc. (MediaRoom)",
+      "title_pl": "PGE stawia na local content: do 2035 r. jego udział ma sięgnąć co najmniej 65 proc. (MediaRoom)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmpuemlNd2xsMzd2Z210NmRkU1g4Q1h1N3ZLVS1ibWJVVHhoQTB1MUthWGczaXNLNXFpQnlrN0xuSTNCcWxTRzhwQ3A5UTFySUIwVE41X0NuRkFZRFFFSWlmbEhkVW9rZ2ZLQ1BsNHBNRk1oZkNmYXZLTXhqV3dMLXZuWTdpTmQtbWhjZzFnQzkwOHAtdFYwa0FVNzV3dzFySnV6R1lTOWtDeGdRM1dRc2d5Wm1EeGpZVjdyRFJB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b80ab620d67d69a9c6",
       "date": "2026-11-12",
       "title": "Miesięczna cena energii od prosumentów idzie w górę",
@@ -547,6 +605,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "23",
         "51"
       ],
       "discoveryMethod": "google",
@@ -756,6 +815,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7f40020fbd5c21a0d2",
+      "date": "2026-11-12",
+      "title": "Orlen Neptun begins wind measurement at 4-GW Baltic West off Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWpOTTFsRWFVU2ZqazJQb3BFSHMyR1dpV25OY3JFX1N1dk13RHlOOUJkb2F6bGpXVTFoRUFLYlF6TDNhSGNVbnR3aVpkd3FjTDB6dlJlMTl2VXowYnA0NmxhcVJhR0NEOVdvQ05YX0VyaWYtUElWVTdlb2VJSlJLTUxYYXk1UFRqYUdHSUE0RG1OTDJlVDkwTVV0dWNHVXExRWNCLS1YMkktX28?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7f22268d0bda2cbaee",
       "date": "2026-11-12",
       "title": "Polska – Przesył energii elektrycznej i podobne usługi – ​Usługa ARNE w okresie od 1 stycznia 2027 r. do 31 grudnia 2027 r. od Enea Elektrownia Połaniec Sp. z o.o.",
@@ -783,6 +871,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7eeb93630a7f36529c",
+      "date": "2026-11-12",
+      "title": "Wsparcie biometanu coraz bliżej? Polskie aukcje na brukselskim stole",
+      "title_pl": "Wsparcie biometanu coraz bliżej? Polskie aukcje na brukselskim stole",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2JaS0xzbFNwaE9Kb2c5U0QxN2stRDhraFJlNVVoVXp5ckJtSE15RUFYeEtZSGV5ZUpzN0piX1RkRzJnRktqMC1iNDhfTEhia2hSdmJfN0FIZndkaFVLbkRIUHJGal9JeWh3Z0tSVGlVZUpkQUJ3UVBlMEFmaExkM1pqQkU5VERISFpiVzdFMjJickwteXNxRXpjSFkwTTUxY0s4U1hxX3FNS0U?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-7ec8eb8d2f1b3dcf84",
@@ -923,6 +1040,64 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-660fe84e06064170a3",
+      "date": "2026-11-12",
+      "title": "Lithuania estimates that windfall tax will apply to 10 companies, including Orlen Lietuva",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejUtMThxd3B5ZEpzTXB2YzhGbmViN1VzZ1BXdjBRWTFySGsyU3dZeFZUZDR5OUw5RDZITHc3Y1ZrYzU1cGxnbFdvLUI3aVF1OG9sZGotc3NOc001bHd1dzF2aWdKWElxTU5FX1J4UEJaTXNFLVFVS3kza1lCWnNPY2pVb3JVdmh0R0lvRVpWd2ZGUkxPNmoxVFB6VGV5NlpPVVNvLW5mQlJvUzFVQ1RsOEVjTDI1Uk52dGxj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5e24e73e01f5bdaf10",
+      "date": "2026-11-12",
+      "title": "Litwa chce sięgnąć po zyski Orlenu. Na liście nawet 10 spółek",
+      "title_pl": "Litwa chce sięgnąć po zyski Orlenu. Na liście nawet 10 spółek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Uzgodniony przez litewską koalicję rządową tymczasowy podatek od nadmiarowych zysków, tzw. windfall tax, może dotyczyć około dziesięciu litewskich spółek, choć głównym - a być może jedynym - jego płatnikiem będzie Orlen Lietuva - poinformował premier Mindaugas Sinkevicius.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -1076,6 +1251,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-40386f430f83c1b48d",
+      "date": "2026-11-12",
+      "title": "Awaria na warszawskim Mokotowie. Ponad 70 budynków bez ciepła",
+      "title_pl": "Awaria na warszawskim Mokotowie. Ponad 70 budynków bez ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTh4OGhiVmJHbFE3ZTZJNnZnLXJjS29GbHVXN1VzblNPR1dfZExkQnl5dGl2bG9NUFU0WTdpa3AwVjVzN2lVYkcweDIwc2xmLUJaR0RJdUtEbi0tQi0xSHpPZDJmSWU2enlzLXFyeGZEVjNCLWtJcFBwWXBZaHl2UkFkR2V6UjlrV0t6VzhnNjBPYXJIR0w4eTgtamtZaXpoWmc3UFRhT21Ka1hQdGxRLWNISlI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2fb4348dda094934b2",
       "date": "2026-11-12",
       "title": "Jeden wybuch jądrowy może sparaliżować satelity na niskiej orbicie",
@@ -1103,6 +1307,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2bd02987972e2677f2",
+      "date": "2026-11-12",
+      "title": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+      "title_pl": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTk5UWjBYYkJ5cjRsa0ZPTjNkUWtDNXpmVGVpQjQ1dFZuMnZVVU9ZaVM0VVU3QXpqNUhjYm1udzhfQUdmMmNsVmZ2ODRIcFIyUFFzanc4MVNXTzFoVkNNNGNYdVg5aGpaQUVwQUZEYlRMRXFxNmVpWVFtN3AyX2pXTHBmRWZhaDZuUHRfT1gyeDFsZTlYMVRmMG9qUms4LTBKRHhqcjEwbUtpc2tZTXN0ZmdVMzU4ZmlMS1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-21b1a38f3f9a2ee5f7",
