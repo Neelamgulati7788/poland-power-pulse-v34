@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:00:44+00:00",
+  "updated": "2026-11-12T06:03:49+00:00",
   "signals": [
     {
       "id": "src-f89a3502bbc2ae2e96",
@@ -60,6 +60,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b6937742e279229141",
+      "date": "2026-11-12",
+      "title": "Wysokie rachunki za prąd? Ratunkiem dopłata - ponad 300 zł z ZUS. Dochód się nie liczy",
+      "title_pl": "Wysokie rachunki za prąd? Ratunkiem dopłata - ponad 300 zł z ZUS. Dochód się nie liczy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Temperatury spadają, a rachunki za energię rosną. Niektóre grupy seniorów mogą dostać specjalne dofinansowanie, które można przeznaczyć na opłacenie kosztów energii, czyli np. prądu lub gazu. Ta dopłata to tzw. ryczałt energetyczny. Zakład Ubezpieczeń Społecznych wypłaca ją co miesiąc. Kto ma szansę na to wsparcie…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Coraz-wyzsze-rachunki-za-prad-Ratunkiem-comiesieczna-doplata-ponad-300-zl-z-ZUS-Dochod-sie-nie-liczy-9226871.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-7f22268d0bda2cbaee",
       "date": "2026-11-12",
       "title": "Polska – Przesył energii elektrycznej i podobne usługi – ​Usługa ARNE w okresie od 1 stycznia 2027 r. do 31 grudnia 2027 r. od Enea Elektrownia Połaniec Sp. z o.o.",
@@ -87,6 +116,151 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-79b86126a4a6229ac6",
+      "date": "2026-11-12",
+      "title": "Dostawa dostawczego pojazdu elektrycznego",
+      "title_pl": "Dostawa dostawczego pojazdu elektrycznego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "KOMUNALNE PRZEDSIĘBIORSTWO UŻYTECZNOŚCI PUBLICZNEJ \"EKOCIECH\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4081-d306-5ee7-c1c5-d500019407e3",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-6d15d7f287900bedec",
+      "date": "2026-11-12",
+      "title": "Notowania metali bazowych, węgla i paliw",
+      "title_pl": "Notowania metali bazowych, węgla i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3BONUxFckFjQzBPemI2TGVCTUd3eTAtUnE5SUxBckUwMjI3MVRSbF92WnFpanZnRDh6aGV2YWJhZUFYQ09NVEJsWlRkREJjS0o0eXV0ZXJhal9LSU5Nb2YyZHFSSkVMb0dFMHhrRjZnOHFfX1NlUEJaeE16NWxhcGtyRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-519d2863e339835fea",
+      "date": "2026-11-12",
+      "title": "ENERGETYKA WIATROWA - Najnowsze wiadomości – strona 18",
+      "title_pl": "ENERGETYKA WIATROWA - Najnowsze wiadomości – strona 18",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSR1paa191X2hheEc3ZmtfYUxVbEtsLTVDM0NlbURmcUFrT3lBX0RDTHJUcTFFNHF3Wll3M3lSd21EdktZa3NFR19RdWRidUM0UUw4bjVEc2laT285eXFtZXAwVVREcTJkR1V3b3JjZTNYM1k?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-489e3e94e0a651b170",
+      "date": "2026-11-12",
+      "title": "Orlen jednak zawarł umowę !!!",
+      "title_pl": "Orlen jednak zawarł umowę !!!",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcTUtOGp4SW9KcEY1bm1mQU03Xy1fWXBuMVY4XzgtUDRRblRpcC1lNlgwcXlfeHAzb19WckNReFBuRl96TGxCNkpqSWRBVEJmVV9wS2tLbkxZQVlRSEhRS09CYTRnaTdUZWdJYVBtejc1aFM2NlBHdEJiTUZObGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1c1b8f9404c33172b3",
+      "date": "2026-11-12",
+      "title": "Gdańsk przygotowuje magazyny energii dla 16 budynków publicznych",
+      "title_pl": "Gdańsk przygotowuje magazyny energii dla 16 budynków publicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkhZQ1h6WENFeUZSOUVRSVlVU25NQnA0bXpHbGs4N1RHWEI5STZYT1BZWXRfMS1ETVRBS2JJdDFONkR4WVkteEloWTlZT3FfS2FvZkg5bDVsS2JTM2owRTl6ejl6Y2l3QUFyMGlFVnVpemxDSzF0b3RyX05IaGNveUxzSTVzRnMtTjViMEk1bnpvSnhIMnV6R2JzbEJMb0YxNzRlenVrTlMwa3VkaEMyal80NXZpOFlBdzRYdG1kZmM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fca408df459c83e461",
