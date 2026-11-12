@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:39:07+00:00",
+  "updated": "2026-11-12T10:02:03+00:00",
   "signals": [
     {
       "id": "src-f89a3502bbc2ae2e96",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-f1e91bcf51ce0eb476",
+      "date": "2026-11-12",
+      "title": "Producent aspiryny wykorzysta OZE i magazyn ciepła w ramach umowy HPA",
+      "title_pl": "Producent aspiryny wykorzysta OZE i magazyn ciepła w ramach umowy HPA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYk1UYUp5aS1jOGpXYkMzUkpCU1U4ZVMxT0NuQUJaRWQxTjJ5WVduVDFyaDF4NGluSFVlejVWT0FmSDFoZ21JSGJTblREM1g2cTQzem9GREIxZjlFZ0tzMzQyLXNpeE1oWGl6ODlPaWlGWTVNUU1lN20ySFlHb25NUVo4R0dmbjRTV0tyYjQ4S3lHX2JNTUNIUXdyRndRUHM1clZaTUlfZ0F2MmZ1c3V0VWNpS1BaVGZJT2E2VnNVZ1J3bndzaVZJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f1aa010f0bda3092b5",
@@ -229,6 +258,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9b4518089e888aeff3",
+      "date": "2026-11-12",
+      "title": "Re: 2027 - surowce +23% w górę, energetyczne +32%",
+      "title_pl": "Re: 2027 - surowce +23% w górę, energetyczne +32%",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjEyODBfa3UyX2RWNzkxT1dOaWo4bl9OS01ERTJvYWp4TkNBa0Zjb1dSM2JQc1FNTTdnamZnUEVySWx6aEJwSm9GaTlxWFJWeVZXOHpGQ2tEWmVfaE81YUxNT1ZEck1iVEpaSzBVdjFwSm9oX01ucjQ5ejhfWlk0dlJQTzhMbm5aU1ktTy1GTkRaVGNf?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-920bded542fe4a7b80",
+      "date": "2026-11-12",
+      "title": "Enea begins main construction on 1.3 gigawatt Kozienice gas plant",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZncxUm9vT2dxSHRiUi1xSlpoakhKLXVmeDRaTmlDN243WHRocV9vZmlSalhBNkNDYUVSNFB5bkVCb1c2TDlBLVJhZ3lDQUtzeG1vQ2tIZ2pSUGpETXJ2ZURUN09nYlNJWjFxaEtFMF9FMU51emNZY0N3YUtWQ3pBWjBHNmNJay1Zc0U1RmxVTmVTd044aXgtd2g5eklJSkNB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -549,6 +636,93 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0f0196b01bdb2643d6",
+      "date": "2026-11-12",
+      "title": "2027 - surowce +23% w górę, energetyczne +32%",
+      "title_pl": "2027 - surowce +23% w górę, energetyczne +32%",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZy1OY1VpR1dSZDAwQWNoRDVRYnVnWS1mb1o2SHJuSzZhTGpvQTdBdGZndVFtTTJnbjAzZzU4Z0I4SWJKaUFJT2hyQ1NyX2UtTDA4UENHekE3VHpxd0xCbWUteEFrbXl5dWMtUEVqQzFwVHYzckNoblZjcktHbTZLRFBBSVRQTjRyejJPbWVDTXE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0c0a4ff4c96d047b4b",
+      "date": "2026-11-12",
+      "title": "GPW ma szanse na dalsze wzrosty; silne mogą być m. in. spółki surowcowe i energetyczne – TFI PZU (wywiad)",
+      "title_pl": "GPW ma szanse na dalsze wzrosty; silne mogą być m. in. spółki surowcowe i energetyczne – TFI PZU (wywiad)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWNyRURXM1dfcVdhVWZRUG1NNVgzNUtGNWxfT3F1SmdPWHVpRmRHb3B2QS1fQUV2TEFCV0xwWDllTWpRaXZDLVJ2a1VTZFhOQVNDbW1nTjJaMHJZRWFnaGdUMTNENzZMLWphY3M2b0NEWl9FQUd1eVBSY3ZWa3BDSy1YVGNIQm1iYXUxU1hoVVRiTGlUSnJ0U3hSTlZMc1ZkUEd2My1SRllxMFNGMS15ZFp0YldmbGVBTG1N?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07ae6ebecca7db3b70",
+      "date": "2026-11-12",
+      "title": "Niemcy: „Der Spiegel”: UE kupiła w 2026 r. rosyjski gaz LNG za 8,7 mld euro",
+      "title_pl": "Niemcy: „Der Spiegel”: UE kupiła w 2026 r. rosyjski gaz LNG za 8,7 mld euro",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUN3c1A3WHRXaUw5LTdaWmFlSHJjUlR4NjhQTFJfUjBVT0VKRHZfc0YxSWtmYldIMGRZYUZiZl9NVjJ5LW9xeENXSGtqVXUyaDF2a3M3TnBQaFN0TU05UUNfVG52bGN6c3Y2UVA4MG4yTllYSDFObHVuSHFVOWpJb0l3SS12VkRnYm40NXlvRGVZRUs3V3ZTVDdzVDJRcUlDWko3SVltMzIwZVZo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3832,6 +4006,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-652f40f5f088f6ccf7",
+      "date": "2026-11-10",
+      "title": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "title_pl": "Analizy techniczne PV / wiatr / BESS — PVsyst, testy PAC i FAC, analizy produkcji, dashboardy (B2B, zdalnie)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUlNhTmZKTXdicUNVNjRsRm5Cb29IVXBuWkFUM1k5OVZLMzQ5YXdEX0x0dTN2dlQwOU5UZVRzc3ozd2NBMS1TM21VUkd6bXJWbTk0Y3I5NEp6OEFIMDdqdHBvQm9vRWFzbTdPdlBLd3lvWGxaZDNNSDRWUnlGU0luTUU2Qy1VeWN6R1NRLVdWSVRINF8ta0FBU09nbE15emZBMWJKS3BFdjhPaFhQR19QeDR4TlR4UlNXenUzTXktVXR0QkhzTkxzYzlNdUFydldtNHRXQ1NpcjdreFRwMHVjbzc0a1h4cmZjRTZj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-62ecae96210fe64d2c",
       "date": "2026-11-10",
       "title": "Sprawa Elektrowni Ostrołęka to symbol chorych układów w państwowych firmach",
@@ -4862,7 +5065,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVHB2RFFwWUpNN29tcFRaaWprbmpieWhwcDZtY2hydlB2WlFMMFdBdkJYWkhHck00OWpvUEo1a1phYjZTRzRTMUVNdnVINy1rX29fRWxINWdQRVFEcktTUnc0NEhuUV9yVWhraWRmMnY3czlTTWQtYWtTR1JscVI0Z0VmNkpKX1RySWxiM1NwemgyU09lYkJtdVQyV2dydkUwcU13amlwcHlMa21jNEhhdnp2a2pJSUhJMGZvd2hHSUtPbTh5X0JZRnZyVWZ0Sm1tWTllNGs3bkNDLW80R0hRcDFqR192MGFXbFVlZmdIZlVTUzhjWEVldnA5VEhEdXJuWjZDRWtqTHYydllUOGlZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOelpncHlEaGdBVjdtNkRZOTVyZEhod3ZiTVdydzVZbnJCd2xfTUNWMlpuekUxalk2U1VvaE12SV9OVy1XQkpLeXVnT3NBaEZmS2hvdzE4bFFhLTdfNWk1NllyRVJfa1N1dWkyZkdmTTdWZDhtQWw5XzhlTW1kbFJmdF80UktaOV9HRmV5XzE2bHZfZEtjVm1TRU5YN2Q0SnRjZ09ZRnc4ckZCLTRLeTJnTGk4d1BDdXVmWmZ3X2pVbXdEVlpsN0RLTW5rQlBQOGxyOF9kaC1aOEc2bElVNDZuQi1ZSFFYb0U1blBIN3BxUzBqamVsWEVmaVNjbWdMLW1mRkpEZ1d0TnBLczh2NW94MjdOa0s0bkdYZTRLWUNBdGpCMWVsMlZrMU9rZw?oc=5",
           "type": "press"
         }
       ],
@@ -4870,7 +5073,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
