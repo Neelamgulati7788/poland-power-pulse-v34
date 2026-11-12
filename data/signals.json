@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:48:21+00:00",
+  "updated": "2026-11-12T23:44:26+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -2092,6 +2092,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-18a409c22694f6e1d4",
+      "date": "2026-11-12",
+      "title": "Elastyczność, czyli jak kupować gaz i na tym zyskać",
+      "title_pl": "Elastyczność, czyli jak kupować gaz i na tym zyskać",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTdMa3pYTjBhSVVxcGVfWW5pMWUzRXZ5WVdWdDdpMnRvaFgzNlJXRlJldi1IdU9melIxQkg2NXYyN0NLQWlFTFliLVp0UjFKSVVoOF9ON0ktQldIOHh0VEZZWWIwXy1KR2F4Ujhpakd6YlNmZUliYUdHTkhVQks2SlhrcHJnQzdKNFJrN0NaTDViNTdaU2p0SzZPaU5lQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-12fa30c1d59007b523",
       "date": "2026-11-12",
       "title": "Orlen dlaczego Aramco odchodzi nikt nie reaguje",
@@ -2174,6 +2203,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0b27943332905c769b",
+      "date": "2026-11-12",
+      "title": "PGE szykuje grunt pod inwestycje z udziałem polskich firm",
+      "title_pl": "PGE szykuje grunt pod inwestycje z udziałem polskich firm",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVRIODFzMW9mVHUwcjhOZUZIUUNlZmlZSm9Md2VuLW1VcUUtbklFeTdUUUNxSHBhT1Z4aTE5VGpXeU8yNzl3b0RRV1czTDlMRFdULXNmTloyZzF4SlRwY1VCTkxzdERpWEh6UEJWeVN5Zm5ZNGhGdk9fSXBpd3N2MWM2dTFmRURCeXpNRTFJMjhWQ2lTVlVOSENxWEtlenVPUjhMSFlrOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3190,6 +3248,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-28885fcabb5687de20",
+      "date": "2026-11-11",
+      "title": "Wszystko co warto wiedzieć o projekcie ustawy o zmianie niektórych ustaw w celu wsparcia transformacji ciepłownictwa systemowego",
+      "title_pl": "Wszystko co warto wiedzieć o projekcie ustawy o zmianie niektórych ustaw w celu wsparcia transformacji ciepłownictwa systemowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd29mcWxYU1M4X19sTEtKc0hyVHhwMzJYMXlyTW5vV0xsWGZRcEotTFl6UjFubWQ0Vi1obUxYWkJtMkwzdlZsSGlaQlVrMUZ5cGE3WHI4X3NQcl9uamJTSUpDM085djY1bXlUOTlIZTBDNmFUUF9oSEpyTWloanRHNWZYbXQ0ckhvY2R4enJfVGpKOWw2TVhfdk45N1ZaNFg1b0ZVNG9MTnF3c2s5V1NoMFZrSWhyd3NCS0F5d0h6RXNPWDB0NndGSk1VSmZxWENPcE5pTFUwX21FdHl0WW5oNzVyQ2Q0dkhVUlhpZkxRdFdPRmMtUU1TNjlEWTRKUW90VnJJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
