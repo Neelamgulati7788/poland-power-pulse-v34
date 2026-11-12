@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T06:03:49+00:00",
+  "updated": "2026-11-12T07:20:10+00:00",
   "signals": [
     {
       "id": "src-f89a3502bbc2ae2e96",
@@ -232,6 +232,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-21b1a38f3f9a2ee5f7",
+      "date": "2026-11-12",
+      "title": "Jest kolejny wniosek o uchylenie immunitetu Grzegorza Brauna. Chodzi o negowanie zbrodni w Auschwitz",
+      "title_pl": "Jest kolejny wniosek o uchylenie immunitetu Grzegorza Brauna. Chodzi o negowanie zbrodni w Auschwitz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Do Parlamentu Europejskiego trafił wniosek o uchylenie immunitetu europosłowi Grzegorzowi Braunowi - poinformowała w środę przewodnicząca PE Roberta Metsola. Wniosek skierował do izby prokurator generalny Waldemar Żurek w związku z negowaniem przez Brauna mordowania ludzi w komorach gazowych w obozie zagłady Auschwitz-Birkenau.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Jest-kolejny-wniosek-o-uchylenie-immunitetu-Grzegorza-Brauna-Chodzi-o-negowanie-zbrodni-w-Auschwitz-9227485.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1c1b8f9404c33172b3",
@@ -2932,6 +2961,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8d545878d681e3462a",
+      "date": "2026-11-10",
+      "title": "Elon Musk nie odpuszcza fotowoltaice. Rusza z budową ogromnej fabryki",
+      "title_pl": "Elon Musk nie odpuszcza fotowoltaice. Rusza z budową ogromnej fabryki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjBrdy00QmcwRHBvY2VzOGZDSEZkclhBc0k1cG05N0M1M1hOMklURWw0dkQ1X18yQ1FROTFoSmhzbk9RMzYzQ2JSOXBGdUZJTmtSbmVmUWxMRjI3RzZTRVVTWXZtbW9Cb2cxZ3hIOXM2OF9tOWM5UEFxOVcyTUJkaE9qZUhldE92Uktxa1QzVHJCd1NETlA2UWU3cHZ5TzdjYzNyWA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b682a473c1355c94f",
       "date": "2026-11-10",
       "title": "Obiekt Orlenu ewenementem w Europie. Ostatnia taka budowla na północ od Alp",
@@ -4900,6 +4958,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0537bd9baceaffac6b",
+      "date": "2026-11-10",
+      "title": "RWE i Kawasaki uruchomiły największą w Europie turbinę zasilaną wodorem",
+      "title_pl": "RWE i Kawasaki uruchomiły największą w Europie turbinę zasilaną wodorem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0QwNnhla0dQdlNxTE41NjdpQ1FOcVg0eHVmTWdkd2NkWXJKLU9NWENWWnYtXzhFUjZrLWlUQlZ1c0RBLUJBdVc3Mk84Ym5xdnNhZVlucVY3RVFuYTJhMkpob3lPN2ZlYWNyQS1jclM2ZGdkWVVvdng2RUhtX0RfNE93Nm9nTUFTaHk4V0ZEemE3bTdtUFRfeElmYVQ4R1ROVHFsLWRkcHpqbVdZTVoxS1pqQmQ0UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "RWE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
