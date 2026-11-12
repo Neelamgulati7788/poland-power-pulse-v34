@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:32:12+00:00",
+  "updated": "2026-11-12T16:37:29+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-fb4981a561fd8d4254",
+      "date": "2026-11-12",
+      "title": "ENERGY S.A.: Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
+      "title_pl": "ENERGY S.A.: Otrzymanie zlecenia na wykonanie instalacji fotowoltaicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjc3OW5JTE9FOHpvMjUtM2d4bk84OFExcUhROXhvdGJESWdxcWVQY2wxLWlkMEZSSndfTDBMNEJpR0ZiMU1semJTek1xRm1UY2VReFBkVXFBcWRiUVFJcXlKRlpRUjAwOFk3S0pfbHJRV09qSDhTc05KR1dfVE9SaklELWRHWldvSGF0MWNUWFJKbGdWVlVkVG5kTW80dG1aNUg3WG44RlVid2pfVzM1YjI5WU12MUlZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f89a3502bbc2ae2e96",
@@ -113,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f06943d58948a67c4a",
+      "date": "2026-11-12",
+      "title": "Orlen wykorzystał okazję i wypowiedział ważną umowę z Katarem. Ma tańszą alternatywę",
+      "title_pl": "Orlen wykorzystał okazję i wypowiedział ważną umowę z Katarem. Ma tańszą alternatywę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1VsbzhTX1FSai11V1dCRGdtdVktZUhUZGM3MDdPV0N4dTBIUWxoaEhfRXdzWWRBQnZ5MEp0aWoyU0dBS2h1QXJKWThlWi1fTVV5WmlYcEljOUEyZDQ3NnZtSWVucmJKWTY4R0FPZUtTSlh1UkdmQnpwUV81WTlvQkNldmkxSk1ocU5vS1BFZ21fdkxwbzdwUTlPbEc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -234,6 +292,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d629421c7bf392e692",
+      "date": "2026-11-12",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVhrZDFrNnI3bDVJajViUTV1dDhMUWZWSXNycW41RFEzN1Nlc2p1cmJhellLTDAzODd6NHlESHZqdTN1dTVNenpPd1lscFZtMThPLXJEdzhLNFJsYnRZYjRHOGJRenBIb20waEtWOUhLR3U2VnJTY3ExYm9SaTdTMDBIdVZKRnFG?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d4d0586f56bc058155",
       "date": "2026-11-12",
       "title": "Polska – Bezpieczniki – Dostawa wkładek bezpiecznikowych niskiego i średniego napięcia na potrzeby TAURON Dystrybucja S.A.",
@@ -274,7 +361,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZTR2MWdvb09TMTZGd2c0ODBnTm4tQkdISzd2TFJ1ZjcwaHFSQm5hYmwzNHFZd2h5NjVONTVBdUJ2cmdHQnkzOTM2Rl96VjFrSGUyVWNONWhMbW9mdlhIMF9WY0RDME85ZzdaRHg3VElEVDl6dHBOOWpCYk42LU9fX3BWZlE5dHpUOTFZWllTNHllMHpYUFN4eVdmTUoxbkl5eW9zVEFVMVVBclVxNXFZSG83NEdqX1lpTXRLai1yS0wtMkJBTXZSVXUtZVN1SDg4Skp3ck9tVkZHTFpLZkVXRWZzdGZPZVJCcUdUQTBLTmpKalBLb1lRb3ZUYTJaUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVG5HUXZhQ3pkT2xJeTdGU0tXdGU3NnpXclVKUUNpejhFR25pMWNkcm5RV1BzT1NCQ29xaWtMSUxVbnFWV2xVTkJPUTNfdThfSkh1bFUxQ01zN2lUNkZqZE4ydDY5bmU5UVMyVGE5ajV1TFFheVdGTTdmWWlRa25GMDZGYm15NlRoZVhVMHBnd0NzZHgxRkxFVWtxQi14UUg0bHFHdzRUSXJqa0RUOUtPNWMtdVluSUtCR21fc2lLUmlqSFkzLW5lVjBiaEJLczVJUm1EVzFBQmEwMWFsUHdmNlVZNHVrM1JLcTNfXw?oc=5",
           "type": "press"
         }
       ],
@@ -348,6 +435,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cf42913351dcbd8d2a",
+      "date": "2026-11-12",
+      "title": "„Budowa garażu dla Ochotniczej Straży Pożarnej w Węglewie” poprzez rozbudowę budynku świetlicy wiejskiej wraz z pomieszczeniem garażu o garaż na sprzęt strażacki na działkach nr 68/21 i 68/22",
+      "title_pl": "„Budowa garażu dla Ochotniczej Straży Pożarnej w Węglewie” poprzez rozbudowę budynku świetlicy wiejskiej wraz z pomieszczeniem garażu o garaż na sprzęt strażacki na działkach nr 68/21 i 68/22",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA POBIEDZISKA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40d9-1ded-c24b-c1c5-d50001941486",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ce086c0860855fffba",
@@ -844,35 +960,6 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-838b6e299024c5faaf",
-      "date": "2026-11-12",
-      "title": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać",
-      "title_pl": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Mimo bardzo wysokich wzrostów w tym roku warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-inwestorow-na-GPW-Ekspert-zdradza-ktore-branze-moga-teraz-najmocniej-zyskac-9227697.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
-    },
-    {
       "id": "src-7f40020fbd5c21a0d2",
       "date": "2026-11-12",
       "title": "Orlen Neptun begins wind measurement at 4-GW Baltic West off Poland",
@@ -1045,6 +1132,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-76a915e3a2d9d09481",
+      "date": "2026-11-12",
+      "title": "Tu samochody elektryczne nie podrożeją od nowego roku. Jeden kraj zamraża podatek rejestracyjny",
+      "title_pl": "Tu samochody elektryczne nie podrożeją od nowego roku. Jeden kraj zamraża podatek rejestracyjny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Duńscy kierowcy planujący zakup samochodu elektrycznego mogą odetchnąć z ulgą. Planowane na początek nowego roku stopniowe podnoszenie podatku rejestracyjnego dla pojazdów zeroemisyjnych zostanie odroczone o kolejny rok – wynika z nieoficjalnych informacji dziennika „Børsen”. Decyzja ta jest bezpośrednim skutkiem skomplikowanych negocjacji budżetowo-podatkowych rządu.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Samochody-elektryczne-nie-podrozeja-od-nowego-roku-Dania-zamraza-podatek-rejestracyjny-9227687.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-6e3562415d7e6bead8",
@@ -1394,6 +1510,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2ef86b122f575a9c42",
+      "date": "2026-11-12",
+      "title": "Szczyt V4 w Bratysławie. Wspólna deklaracja w sprawie EU ETS i cen energii",
+      "title_pl": "Szczyt V4 w Bratysławie. Wspólna deklaracja w sprawie EU ETS i cen energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVQwRjhzWmRzZ2o5eG1BaHNUa2F5d3U2bDVIR1BJUWhlRUM5cWlpZGR4Y1JRNzgwRm8zTWtoamtZRWxScEtScDlVaU0wTG1XY3RSeHdvZjMwTElPeEE2Z0hLeFkxLUp5eE1rTFg1aTNRdmM4YTUxNjl4cGstazFGUTV0U3JwZDNsUVdxWkZva2VPWWs0TTNncnczNnloNnZ6Y2hiaWk4VkUtX3lxbmhENDZhYmJtVU0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2bd02987972e2677f2",
