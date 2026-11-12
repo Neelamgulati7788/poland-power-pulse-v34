@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:55:48+00:00",
+  "updated": "2026-11-12T19:56:02+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -188,6 +188,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40be-7821-5c36-c1c5-d500019411e3",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-eb97a3b91ddc8707d5",
+      "date": "2026-11-12",
+      "title": "Dostawa energii elektrycznej na potrzeby Przedsiębiorstwa Komunalnego w Kruszwicy sp. z o. o.",
+      "title_pl": "Dostawa energii elektrycznej na potrzeby Przedsiębiorstwa Komunalnego w Kruszwicy sp. z o. o.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Przedsiębiorstwo Komunalne w Kruszwicy Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40f5-0d7f-d4db-c1c5-d5000194151f",
           "type": "official"
         }
       ],
@@ -1715,6 +1744,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3628f74bc6932aad86",
+      "date": "2026-11-12",
+      "title": "USA promują SMR'y na Kaukazie i w Azji Centralnej",
+      "title_pl": "USA promują SMR'y na Kaukazie i w Azji Centralnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEhJM1VaMVN6azFHeEpGR0VMOXl0UjlLNzA3RTJiOFVkY1NfYmhLNTNiSVR1UkV5ZmJiMVJEcDFONkJDVWF6VFhjQUR6MEJQRzNBNk1BOFNwWS0xcTBPM25ITmlPOU5JRHhBRVA5WHhhWEI2WFpzR1llTVBoWlNnRmIzakJjaHFwQ1RjQVRka3JYLWU5ekl3RnN0ejlZU3lLLXlCSlp2bFFkRnViOURCOVJKSW02NkROeUEwNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2fb4348dda094934b2",
       "date": "2026-11-12",
       "title": "Jeden wybuch jądrowy może sparaliżować satelity na niskiej orbicie",
@@ -1831,6 +1889,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-26bb637c0897cf8951",
+      "date": "2026-11-12",
+      "title": "Solar Innovation SA: Raport kwartalny za III kwartał",
+      "title_pl": "Solar Innovation SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckN2enE4czdkZ09sMUIySkM3WVFNSFozeEZWQWVpbDVNU0s2elA1Yk9VSGdCSHNDR2Z5cGRqT2xRYU15bkFsUHV5ODQtWG93OUQxdE1RZWcyVDF3TjF6d2wtdU9xWkJfUDQyTTh5cUJCbm1HNGRZYWNSQ2J5d3NpZm1IdVc0blc0TDBmMTVMWXhhOHp5R1RwYk9xb3ZuQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-21b1a38f3f9a2ee5f7",
       "date": "2026-11-12",
       "title": "Jest kolejny wniosek o uchylenie immunitetu Grzegorza Brauna. Chodzi o negowanie zbrodni w Auschwitz",
@@ -1884,6 +1971,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-12fa30c1d59007b523",
+      "date": "2026-11-12",
+      "title": "Orlen dlaczego Aramco odchodzi nikt nie reaguje",
+      "title_pl": "Orlen dlaczego Aramco odchodzi nikt nie reaguje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1h0YjF2bVkzTHZ5ckNRNGhBR3NMWmJadnIybGRNcnRFZHdwdEROM3oxQ205SWtDTVZsTUYtdDZsdGtRS1lFczBQUkZPRGNPTVFSUU55OE5Vd2tTSU55NlRGQjZqVndfbFRrSU1YeG5yb3Y5RjROQXFraDBnYTV0aXZ5SUppbDUwUGFmYmd4MzVsVExrUVZYb0VNbkk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
