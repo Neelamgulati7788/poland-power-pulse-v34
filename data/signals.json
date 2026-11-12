@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:37:29+00:00",
+  "updated": "2026-11-12T17:54:42+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -246,6 +246,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40d0-2b16-e513-c1c5-d5000194142e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e2d6c139c8f4f2f055",
+      "date": "2026-11-12",
+      "title": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY GMINY BUDZISZEWICE",
+      "title_pl": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY GMINY BUDZISZEWICE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Budziszewice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40e2-7056-c0ab-c1c5-d500019414c0",
           "type": "official"
         }
       ],
@@ -611,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c79f4138dc70a2fd58",
+      "date": "2026-11-12",
+      "title": "Korzystając z siły wyższej Orlen pozbył się drogiej umowy. Tańszego gazu jest pod dostatkiem",
+      "title_pl": "Korzystając z siły wyższej Orlen pozbył się drogiej umowy. Tańszego gazu jest pod dostatkiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzdFaEVaYkNzX3Vkd2lxdjdPSTlqSk5MWjBMd0FNR0dKOXIyVUd3clduVVRDVXlBaEZyVVhjR1FwOHRkZUpZcFlWdHR3SVdLSXdWYTB0elJNVkU2UlpvWGRUeTFsbTRMdkstWVpSZlNSUTJLSXdhVDdqeDZzU0l4RTlrbTFuU25lU1NlRTdqMzFyNWtISzFEUHNvZkE5SUJRMExsX09pcWE5SVZiTVJreFBmRGhJb3lS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c2e81555b6eed47b67",
       "date": "2026-11-12",
       "title": "Gore Street turns to Spain and Romania for next deals, EU battery portfolio reaches 550 MWh",
@@ -786,6 +844,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9fb3681735ae341078",
+      "date": "2026-11-12",
+      "title": "Rosyjska branża naftowa pod presją. Wielka Brytania rozszerza sankcje",
+      "title_pl": "Rosyjska branża naftowa pod presją. Wielka Brytania rozszerza sankcje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wielka Brytania przyjęła w czwartek nowe sankcje przeciwko rosyjskiej branży energetycznej, w tym przeciw firmie naftowej Sławnieft oraz dużemu projektowi Rosnieftu w Arktyce – poinformował premier Andy Burnham.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rosyjska-branza-naftowa-pod-presja-Wielka-Brytania-rozszerza-sankcje-9227960.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-9d12c4f959a4209ab3",
       "date": "2026-11-12",
       "title": "Ochrona środowiska i przyszłość energetyki. Międzynarodowa konferencja EPAE 2026 na Politechnice Śląskiej w Gliwicach",
@@ -826,7 +913,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1lwR0pnVTNjWGcyN0g5cFptWTU5bzg3VlB0ME11T0dySU5xNElCdmZRQUxTUFFIQUtSanMweHFjT2tzdFcxdnVDVGttMWdEZlk2UVFoc0trY1o4N0ZDeWUwN3ktZUY3eWZ4YV9Zd1hpUG9CYnlsenJiTlBRQS1rczNuYUtwM1k1b3Q1NlpILUhSb1ZI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXhvVFVPNFRHM0paeWFpbGZBSlYtbmhKVU91M3cxWExrR180Q3k1Z1J3VEQ4aDQwbTlGZVQtX1JDaWFja3AtalNHTEVQcmd0Mkp6QlltRlpwX2p3ZDZCbUVkNWZEOXJHTDBxNXdKVXk5Z0RhcUhQRlRCdlAzRFpDT3FWV3Nfbmt5YWN2S1poTTlHZ0ln?oc=5",
           "type": "press"
         }
       ],
@@ -926,6 +1013,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8981c0fc34bfb9528b",
+      "date": "2026-11-12",
+      "title": "Wielka Brytania przyjęła nowe sankcje przeciw branży energetycznej Rosji",
+      "title_pl": "Wielka Brytania przyjęła nowe sankcje przeciw branży energetycznej Rosji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTU5jcVVnc3BXZEhtX0p4WW1NVkFDTGM3UUgxOUxPTFZicVBhMndWZEJPVENiZGhPZW9kNUtJNVV3S2lNeTU1d0VIQkl0SWUtTmFRd1dpVmFSUXVOUE9JZzVQcTZmaHZZTXZfQTUwMzlWUmZFaFEydkd5SVFvZ19nUHJ6XzVLMy1xSVl5S2diM3hrSzJiSDliOXZYNjR3a0JXSk8zMUpEZlZpUmQzbGhSajVhWnA4V185b2Nxa2I1QW0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1076,6 +1192,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7b56922e9435c75545",
+      "date": "2026-11-12",
+      "title": "Kanadyjski SMR poza terminem i budżetem. Ten sam reaktor ma powstać w Polsce",
+      "title_pl": "Kanadyjski SMR poza terminem i budżetem. Ten sam reaktor ma powstać w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3FkejB0ck1seVYtT0hwMldsNWRseEVCenRMZjJoM1FiamxVcFlnTzNNX0Iyc0xtOTJtbXpoaTMwU2FSWFJOaGpCM252WHluNmRrZlh3Q01Dcl96Q28tOWNWYmZxNnJKdFhEOTU5QmFBY3F0Z1NiZVNYRTRVdlBBMmlUc05Wemh1V2xQbExEbEtfaUtSLXdYVGtpT1d6YVpWRUcxRjIxYlV0dGtVZHJVcGtpYkdEZkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-79b86126a4a6229ac6",
       "date": "2026-11-12",
       "title": "Dostawa dostawczego pojazdu elektrycznego",
@@ -1163,6 +1308,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-6f29a0ff8704eea6f9",
+      "date": "2026-11-12",
+      "title": "Deweloper pływających farm wiatrowych zagrożony likwidacją",
+      "title_pl": "Deweloper pływających farm wiatrowych zagrożony likwidacją",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHNhZzJrV1N0RGNqSl8zNEhUaHprYTYzYkQ3RXdVSWk5czBlYVNyX3E5TFZvbmV6eVFPWHNXRGNPc3RCNEFua0xsTXRRamkzMTJ1RU5mcEg4WkFnYUNGSDBnWEszUHQyUFNrTEJ6MGg0eDNYZEVkSHdPTGtJVkZkWlcyNE1ZSTVKTUZVeXFiMS1PSGlMQ3NhdG9ONFpSZTYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6e3562415d7e6bead8",
       "date": "2026-11-12",
       "title": "Energy SA: Raport kwartalny za III kwartał",
@@ -1243,6 +1417,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-6c1dfe5a5d53f9681f",
+      "date": "2026-11-12",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
+      "title_pl": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -1698,6 +1901,35 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUN3c1A3WHRXaUw5LTdaWmFlSHJjUlR4NjhQTFJfUjBVT0VKRHZfc0YxSWtmYldIMGRZYUZiZl9NVjJ5LW9xeENXSGtqVXUyaDF2a3M3TnBQaFN0TU05UUNfVG52bGN6c3Y2UVA4MG4yTllYSDFObHVuSHFVOWpJb0l3SS12VkRnYm40NXlvRGVZRUs3V3ZTVDdzVDJRcUlDWko3SVltMzIwZVZo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-074817a39527b90f73",
+      "date": "2026-11-12",
+      "title": "Gaz napędza, AI optymalizuje, czyli duże zmiany na oceanach. Mają już pierwszego giganta, a to dopiero początek",
+      "title_pl": "Gaz napędza, AI optymalizuje, czyli duże zmiany na oceanach. Mają już pierwszego giganta, a to dopiero początek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1dFY3c5cEdmRHV3Mm1GUzlKcEJ3WDVNSXJHeE9EVXlCV0YwMG5JQlp6bkFaTlAtRW1OLUZDVmZZYkNWNFNrRkNuZEl4WTlYSVVnUDZsakN4aTlpb2ZkZEJFRm0zcU5LS2JLc2hwQ1BsWUxELVNSaUhfbk9UZWN3V204VTRWUFplbzlCWG5wN2hadjhrdWdXMFBseDFUcFdiNDZoc05aTjFHeTVZRWdjT0c0QlBWaFVacFFmR2hhYVZGMTM5d29qM0JMa0RBQQ?oc=5",
           "type": "press"
         }
       ],
