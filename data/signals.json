@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:33:22+00:00",
+  "updated": "2026-11-12T15:32:12+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -100,7 +100,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ0dQVm5jaGFUVGhxZGhKbExGelg3UUM4NTNaNHZlMldESXlTMThXdklkdGNYQVdxdXhqQmRsYlpvVTdqcjl1UGFfOWlLZm1jblJ5OGNGNVZoWGtXcHJRVlE4dDJvVmN5UFJZeVFHTEhaUkZJcVFHTjR1TkZKYWc5VXd1TDM1MmFMN0lIMWNKR19qbWpDUnNZVzdxS183X0VOeHNHQVZjZDRLNzJBT3VHYXUwbkd6YlNjSGx6cS14eXgzN3ZYYVlzMlN4RlY5am41RGpneGViSHpwTlhJa2NQRUhadkF3TUlJMHh5bXFjNUhVcGx3YlVlMEZnQ1VXaVJSbkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzNUc1RtNUZzN25DSXp3MkhyN2MtR0dkcGtWdndabUJnUm44bFY3ZEZyUzRvX3BCU19ESXRYaVZfNWxaMjVidHIyWDVfZFVHdXFlblNmVWJlbVNYeW1CMURDT25ZZWJ5djl2aFI3UWVlb1FYQ2I4ZEJvcnozd1VrbkxiNHV1bGpsTFFuZ2ZubjNpbllmZUotLUlZNjZHODBVNkJ0WHhNYjBGN3NGQVVVWFZ5aFZEWWpjR0I2Z3BjNU5FRnJDX2VfR0hNLVo2S3VzWjFIQk1RWGRUQnQtaS1IRWpnQ2ZaOTk4Umpsd19RMEs?oc=5",
           "type": "press"
         }
       ],
@@ -174,6 +174,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e340ee9d5b98a4c65a",
+      "date": "2026-11-12",
+      "title": "Zakup energii elektrycznej na 2027 r.",
+      "title_pl": "Zakup energii elektrycznej na 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Miasto Oleśnica",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40d0-2b16-e513-c1c5-d5000194142e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-d9866e804dee65b1d3",
@@ -377,6 +406,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cd86a60f76b0956d0b",
+      "date": "2026-11-12",
+      "title": "Poprawa efektywności energetycznej poprzez termomodernizację budynku sali gimnastycznej wraz z łącznikiem w Zespole Szkolno-Przedszkolnym w Szczerbicach wraz z montażem inst. fotowolt. i pompy ciepła",
+      "title_pl": "Poprawa efektywności energetycznej poprzez termomodernizację budynku sali gimnastycznej wraz z łącznikiem w Zespole Szkolno-Przedszkolnym w Szczerbicach wraz z montażem inst. fotowolt. i pompy ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Gaszowice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40d1-e10c-f222-c1c5-d50001941446",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-cabcc1b6eac52bdf6b",
@@ -958,6 +1016,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-799627a4eda1785dc1",
+      "date": "2026-11-12",
+      "title": "940 mld USD na transformację energetyczną w Chinach. Pekin zmienia priorytety",
+      "title_pl": "940 mld USD na transformację energetyczną w Chinach. Pekin zmienia priorytety",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlBRdWlBSVZxcDFXM3NKTEpqeHlXbmphLUdpUW55OExDaFkxVWRvdE5CUFpYTkxtYzUyck1qX2hIdWNUdllQMmpjRlBmQVlMUHp5bmNpbHFXWEFlbWpTZlhHeGNoMUJ5cGdmMXJsX2xjc3IzcmVDV1hBVkF5MmZQcHhzQkVTaVY2d25OekdDdnJHMUlpRnZwUXlNVFlYX0JudjlSbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6e3562415d7e6bead8",
