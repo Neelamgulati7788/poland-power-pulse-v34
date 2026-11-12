@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:02:03+00:00",
+  "updated": "2026-11-12T11:04:24+00:00",
   "signals": [
     {
       "id": "src-f89a3502bbc2ae2e96",
@@ -147,6 +147,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-d105abfbd49775356f",
+      "date": "2026-11-12",
+      "title": "Niemcy wracają do węgla? Przygotowania na kryzys gazowy trwają",
+      "title_pl": "Niemcy wracają do węgla? Przygotowania na kryzys gazowy trwają",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVV4cWZYdXU3TUNaVjc0emxZZUpvbUUtZjJkRVZzaFQ3YmhCRURydlFhSHRfMzBTQmoxamI3ZDFTOTBkNW53THZFZWpJX0RXdS1YcS1wMDFVblNNV2ZNQU5LbUdxX05CcVg5ZlVDQkNjQTNEM0VvWnJ2Z1VKckFRZnVrSERKdHN2Nm1WWmRNbjl2dTI3SHZuNE9uOHRHbHBrRUNn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ce086c0860855fffba",
       "date": "2026-11-12",
       "title": "Re: ⭐NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
@@ -200,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c8933efbeeaf496373",
+      "date": "2026-11-12",
+      "title": "kurs azjatyckich spółek pod presją drogiej energii(...) - Forum",
+      "title_pl": "kurs azjatyckich spółek pod presją drogiej energii(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODBLLTk0aDdRU1BHWmh2czVEYmxLNUNteGY1S0tNdV84dWppcDhnc3M5RzhvWnRPMy1hdFBoenZ0dWpxc3piN3VDSTBkb0RCLTN1bzNScWppVHJYdER2eWVmVEJMYkJWenJFSmt4aFFHVnZSV0VqamRaZzR4T3JuTUw4cFJUYi1tR1I0MkYwdG83TGJTbk8zLUhtQklPMnllX1R5SkQwS3l1NTJoRVdxMWR1S1FKZVdPVFpzRw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -408,6 +466,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-838b6e299024c5faaf",
+      "date": "2026-11-12",
+      "title": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać",
+      "title_pl": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Mimo bardzo wysokich wzrostów w tym roku warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-inwestorow-na-GPW-Ekspert-zdradza-ktore-branze-moga-teraz-najmocniej-zyskac-9227697.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-7f22268d0bda2cbaee",
       "date": "2026-11-12",
       "title": "Polska – Przesył energii elektrycznej i podobne usługi – ​Usługa ARNE w okresie od 1 stycznia 2027 r. do 31 grudnia 2027 r. od Enea Elektrownia Połaniec Sp. z o.o.",
@@ -435,6 +522,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-7ec8eb8d2f1b3dcf84",
+      "date": "2026-11-12",
+      "title": "Miliardy euro płyną z Zachodu na wojnę Putina. Europa wciąż kupuje rosyjski gaz",
+      "title_pl": "Miliardy euro płyną z Zachodu na wojnę Putina. Europa wciąż kupuje rosyjski gaz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Koncerny energetyczne z krajów UE kupiły w tym roku od Rosji skroplony gaz za 8,7 mld euro – podał niemiecki tygodnik „Der Spiegel”. Gaz pochodzi z projektu Jamał w Arktyce, a pieniądze z tego surowca zasilają rosyjski budżet na wojnę przeciwko Ukrainie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-plyna-z-Zachodu-na-wojne-Putina-Europa-wciaz-kupuje-rosyjski-gaz-9227692.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-79b86126a4a6229ac6",
@@ -525,6 +641,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5b840330bc27c41801",
+      "date": "2026-11-12",
+      "title": "72/PM/2026 Wykonanie dok. proj.-koszt. na przebudowę i rozbudowę wew. instalacji gazowej dla gminnych lokali mieszkalnych zarządzanych przez „ADM” Sp. z o.o. w Bydgoszczy",
+      "title_pl": "72/PM/2026 Wykonanie dok. proj.-koszt. na przebudowę i rozbudowę wew. instalacji gazowej dla gminnych lokali mieszkalnych zarządzanych przez „ADM” Sp. z o.o. w Bydgoszczy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Bydgoszcz",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df40ac-a8c9-ccd3-c1c5-d50001940e25",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-519d2863e339835fea",
       "date": "2026-11-12",
       "title": "ENERGETYKA WIATROWA - Najnowsze wiadomości – strona 18",
@@ -581,6 +726,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2fb4348dda094934b2",
+      "date": "2026-11-12",
+      "title": "Jeden wybuch jądrowy może sparaliżować satelity na niskiej orbicie",
+      "title_pl": "Jeden wybuch jądrowy może sparaliżować satelity na niskiej orbicie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Symulacja naukowców z UW–Madison i Princeton wskazuje na podatność infrastruktury kosmicznej. Największym zagrożeniem nie byłaby sama eksplozja, lecz długotrwałe promieniowanie.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/jeden-wybuch-jadrowy-moze-sparalizowac-satelity-na-niskiej-orbicie/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-21b1a38f3f9a2ee5f7",
@@ -1263,6 +1437,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdE1yMmZxajRHZ3RyT0xuUk5VcHBoZHdHZUthUmhQY3dwRVBNWEI5MTBzcTBnXzVvS1FpYTM0UFhIV01sYnd5c2IwMk1KMTNDSmUwTEVUN3diVDJOWjYtdjJsaURYcUFjWVJPVFlzR3ZoZ1Z0Ri1oM3Z1WGpJTDlBaUhGamV3ZUg2UjBmaHZKQ1NOWTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a3fe2377ae9abba7db",
+      "date": "2026-11-11",
+      "title": "Niemcy wprowadzają domowy magazyn energii z baterią sodowo-jonową. Ile kosztuje?",
+      "title_pl": "Niemcy wprowadzają domowy magazyn energii z baterią sodowo-jonową. Ile kosztuje?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1lOSjgxeXBjdk56czREMWhGM3FPeGRGR3hLUDBBMUdjMzZUcU9NbGFLcUEtR2dpRnlMMFBBY2xvRGloRTBoM3lMSnJJNjJBRzMxZlFzWGc2ZE9hYnVoMExtRkIzT2U4UjVQc2tIdDYtaGxZNlpfaGVGWGU5bWM2YkRNd0NGRDBtQmRickw5aEJiWlB6dDQwYzFJN0I5azN0S0FIYnQyOFUySlg4OU5V?oc=5",
           "type": "press"
         }
       ],
@@ -3090,6 +3293,35 @@
         {
           "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXpRc2dRU0g2WmFoN09seWpoanpuTmZsNHd0S3NvaHotakVNU0VjRV9ZM1Fpbm1iZV9nci1vZG9jOEZTOVRLX0N5LS1lMThOZ1hCQno1X3pLc0R6N1g5YlFHODZBazhKSXUwR1ZpenFLU19jV2lFQUdSS0xjaWNQUDEyTkZ2MDN2SlVpTkpR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-af15aa258dd405a996",
+      "date": "2026-11-10",
+      "title": "Komunikaty ESPI dla COALENERG[CLE]",
+      "title_pl": "Komunikaty ESPI dla COALENERG[CLE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEw1WGVqcnpIM2JxUms5d01JbWo0UV9ycmg4bDRTeGE5bEx2NVl3eGhFVV96QlFVNUxYOVpWX05vWXJ4WFJob09ZNzFpY0FBSkkxbmVBel9iWVp2OF9FWkRUckVTai1zOTNqM1dudWVuTFFLYjZGRl9SQTZ6ZmRhN0dfMkhRbEhJ?oc=5",
           "type": "press"
         }
       ],
@@ -5065,7 +5297,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOelpncHlEaGdBVjdtNkRZOTVyZEhod3ZiTVdydzVZbnJCd2xfTUNWMlpuekUxalk2U1VvaE12SV9OVy1XQkpLeXVnT3NBaEZmS2hvdzE4bFFhLTdfNWk1NllyRVJfa1N1dWkyZkdmTTdWZDhtQWw5XzhlTW1kbFJmdF80UktaOV9HRmV5XzE2bHZfZEtjVm1TRU5YN2Q0SnRjZ09ZRnc4ckZCLTRLeTJnTGk4d1BDdXVmWmZ3X2pVbXdEVlpsN0RLTW5rQlBQOGxyOF9kaC1aOEc2bElVNDZuQi1ZSFFYb0U1blBIN3BxUzBqamVsWEVmaVNjbWdMLW1mRkpEZ1d0TnBLczh2NW94MjdOa0s0bkdYZTRLWUNBdGpCMWVsMlZrMU9rZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVHB2RFFwWUpNN29tcFRaaWprbmpieWhwcDZtY2hydlB2WlFMMFdBdkJYWkhHck00OWpvUEo1a1phYjZTRzRTMUVNdnVINy1rX29fRWxINWdQRVFEcktTUnc0NEhuUV9yVWhraWRmMnY3czlTTWQtYWtTR1JscVI0Z0VmNkpKX1RySWxiM1NwemgyU09lYkJtdVQyV2dydkUwcU13amlwcHlMa21jNEhhdnp2a2pJSUhJMGZvd2hHSUtPbTh5X0JZRnZyVWZ0Sm1tWTllNGs3bkNDLW80R0hRcDFqR192MGFXbFVlZmdIZlVTUzhjWEVldnA5VEhEdXJuWjZDRWtqTHYydllUOGlZ?oc=5",
           "type": "press"
         }
       ],
@@ -5073,7 +5305,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
