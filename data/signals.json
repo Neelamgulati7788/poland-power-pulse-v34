@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:48:32+00:00",
+  "updated": "2026-11-12T22:48:21+00:00",
   "signals": [
     {
       "id": "src-fd361cfc34d69dde38",
@@ -1842,7 +1842,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEhJM1VaMVN6azFHeEpGR0VMOXl0UjlLNzA3RTJiOFVkY1NfYmhLNTNiSVR1UkV5ZmJiMVJEcDFONkJDVWF6VFhjQUR6MEJQRzNBNk1BOFNwWS0xcTBPM25ITmlPOU5JRHhBRVA5WHhhWEI2WFpzR1llTVBoWlNnRmIzakJjaHFwQ1RjQVRka3JYLWU5ekl3RnN0ejlZU3lLLXlCSlp2bFFkRnViOURCOVJKSW02NkROeUEwNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejQ2bzJtR2NMUE9pVXpuWXVYd1BUMWRHRldJSl9KcEhMcFhrNTBtUnczbHhxRmVxU3FwTlZHMEF4SlJaZkV2WHhjakliSS1yQklYdlRfemlaeVN6eFpjbWZ2YjR0MFFaM1ZWNlI0OU9YRHdJQnpjVVRGYTJpTURqY0JKcFRRRVFxX2R4T2p1N3RNY1JwUklJ?oc=5",
           "type": "press"
         }
       ],
@@ -1850,7 +1850,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -1997,6 +1997,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-21da3b91f277650497",
+      "date": "2026-11-12",
+      "title": "PKN Orlen Batory może dziś stworzyć największą(...) - Forum",
+      "title_pl": "PKN Orlen Batory może dziś stworzyć największą(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEVYRmVWUWZ4WG5HVmVVLW5KeUFzWDd4RXEtTk5JZWpTNkVpMkRzTlh2UUtrQTlrb0NDZnZJOE5BOW9iYUFmbGFVX2VrSGlrQWQ1aE1IMnhJMnJyRGZxd2tDc1hxWkhDNWxjQ1FuU0VVTE9YcjFDZGM0alFnbnU0YUlxYUIyX3VYTHpVQ2JaRlR3eE5ia2VOVVBIVE5UTUxLSTAyMTNSSVc5Rng1ZURZdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
