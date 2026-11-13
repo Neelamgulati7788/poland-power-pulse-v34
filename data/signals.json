@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T09:31:49+00:00",
+  "updated": "2026-11-13T10:34:10+00:00",
   "signals": [
     {
       "id": "src-f02ceb521054d75d10",
@@ -23,6 +23,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-db44940236eb269a1f",
+      "date": "2026-11-13",
+      "title": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
+      "title_pl": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0NISFpDZkI2QlZOSUdJQTZEcnVQaUNFZ1dqWThyTU93MGRuZjc4bWhGODM1bTE5ckNNeVh1SUNMeXljM3Z6ZmF0cGVWSG9wdlEzTy0waDU4eGRKZ0hncjk4XzlYQW12MkptQkpiaWlDdVRZandzV3hONUdFd01qRkNQbmdMTEJDTjlkR1pXT0pYeWJBTjBub0x0Qk9sU1NydkxoNlphZDNsSV9kQkZnTzk4UUNvQVl0X2hMMFFR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -176,6 +205,36 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b28fa50d15bb64eff0",
+      "date": "2026-11-13",
+      "title": "Tauron ZE zawarł list intencyjny z Onde w sprawie wspólnego JV",
+      "title_pl": "Tauron ZE zawarł list intencyjny z Onde w sprawie wspólnego JV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzlvLWg0U0ZNdXc5MXJwaGc4Q2tTYmxSbi1RNzVIUm1hcUJEUnY5ZGl0S3cxckZyRlVTRFhSVUNSeXpFM21fc1pmQVRzQXN1dUUxaUFPNEZSaW1YSnpBbWVibGFReU5SV1Z1anZNcGNfZ2FtUVFpS1FxTnZfb0FDN3h0ODFEeEl0RTY4Nk5nZGRXOGk4RFQtZnpiVkQ0VkNMd1NxN0RmTnR5UWlL?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-af3304912c230a8c93",
       "date": "2026-11-13",
       "title": "Ochrona mienia i obiektów znajdujących się na terenie Ogrodu Zoobotanicznego w Toruniu wraz z całodobowym monitoringiem elektronicznym obiektów Ogrodu oraz zapewnieniem wsparcia grupy interwencyjnej.",
@@ -203,6 +262,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a8956df44f1e995db8",
+      "date": "2026-11-13",
+      "title": "Stopy w grudniu bez zmian? Janczyk, RPP: Kluczowe będą decyzje rządu ws. cen energii i paliw",
+      "title_pl": "Stopy w grudniu bez zmian? Janczyk, RPP: Kluczowe będą decyzje rządu ws. cen energii i paliw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W grudniu możliwe jest utrzymanie przez RPP stóp procentowych na obecnym poziomie pomimo rosnącej presji inflacyjnej, ale późniejsze decyzje Rady będą zależeć od rządowych decyzji w zakresie cen administrowanych ciepła, gazu i paliw - poinfomował PAP Biznes członek RPP Wiesław Janczyk.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Stopy-w-grudniu-bez-zmian-Janczyk-RPP-Kluczowe-beda-decyzje-rzadu-ws-cen-energii-i-paliw-9228334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-a52687ba627747230c",
@@ -698,6 +786,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-26baaf041ccbe7beb2",
+      "date": "2026-11-13",
+      "title": "Dostawa energii elektrycznej z sieci elektroenergetycznej do obiektów Teatru Wielkiego im. Stanisława Moniuszki w Poznaniu.",
+      "title_pl": "Dostawa energii elektrycznej z sieci elektroenergetycznej do obiektów Teatru Wielkiego im. Stanisława Moniuszki w Poznaniu.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "TEATR WIELKI IM.STANISŁAWA MONIUSZKI W POZNANIU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4171-82d6-b7b2-c1c5-d50001941cd4",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-21b69d90dd6e8aa2d6",
+      "date": "2026-11-13",
+      "title": "COAL +12% w pozasesyjnym",
+      "title_pl": "COAL +12% w pozasesyjnym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54cVpncVhhbUFvVGtTWUJoWjdic3d5SndHdmRaclNqR0FneTBEbDVlTEhvWDhYMzFZdFFObHVIdm5CaW1zOTJ3bi1TazIzWlFjWUdWaGh3QkpONUVLZU01eHd0LVhTbHZtcWUwT1RiSmU3aTBOcEhXZUFCWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-21aac20714a5832995",
+      "date": "2026-11-13",
+      "title": "To keep rapid GDP growth, Poland needs cheaper energy, AI, competitive exports - c.bank governor",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnZtaU91R1cyZFhER0lwX1Bwb3lMc3M3THhqRndLOF9pakRISGVoN2dBdmpCdlZFNUg4dC1sSkZXeHFlbFFkOGZuY05pQXppcFFYYWV3bDZmQXI2dXFxRE9WTzdqRmpaaUFzM3o1UldPam1fSDh0b19PSzhFTlRXWHVhSGhCT1ZrallQNkY1WHBCU3hhYzA5MWVma2RVS3B5Ny1xcmpLU0tpTFpmVDVuNlVjZ056NWs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1e1ba13d67b21ccd79",
       "date": "2026-11-13",
       "title": "Polska – Maszyny i aparatura badawcza i pomiarowa – DOSTAWA APARATURY DO WYDAJNEGO WYTWARZANIA NANOFOTONICZNYCH STRUKTUR PÓŁPRZEWODNIKOWYCH O DUŻYCH POWIERZCHNIACH METODĄ ELEKTRONOLITOGRAFII",
@@ -1073,6 +1248,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-eaa15dfeaa7705d0b6",
+      "date": "2026-11-12",
+      "title": "OIRE prowadzi bezpłatne szkolenia dla profesjonalnych uczestników rynku energii ... - PSE",
+      "title_pl": "OIRE prowadzi bezpłatne szkolenia dla profesjonalnych uczestników rynku energii ... - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxQUXQwWENRY2N1eGxLd0Fobm1TUmUtUjgtS2dVYlBNd3lVYXpuMEhGUlpFQWhZaHJfR1Fkb05kcmdncHpBbjYyVkZiRVIwN2VzcHEwaWJsd3dDODlOVDBmSVJ2eVpPbkJPZDVQZVFkT2FqYm5ZZDhvdWVYaDVidi1PZzdFdllaTlUteGMtajM1QVlqMEg2Yko3M09Ua29mU2xVWGNjdWJpUFY3b2p5eWZEdXVZWGE3UHFCTThwSnRkcFBxODg5OUdWcVVXTXBuUzZmNG5UOGlkS2psMTQxUlNiWmpLbVdGZHRBekl0MVpyZ2EyTlVPb3FoVk94X1RqQXFJZkZXdjRhYnVVMmRNQk40emNYVDVRS01hQ29TdkJkY2VkeUFMbnRYTUpKZEpkaXNNdWpxZVgtRGRJbEZBNHBWMFlOSXA1MXoyU1pIVzVSbXBJOGFDYUsybzZvekJSa3RBZGFPcGJXX2ZfZ2o5LXliMTJzQ2ZIRmlEMlBWbEhVQWg4MjI4VTIzZHp0ak1QeEF3TGJmY1RJaVVRTFhnMDMwWks3WFBUUUZiU0c4Z2NXNXk5UndPaFk1ZkdQbHdGR0VOc0QxR0NSNXZTM05NWnBsc3hqV0xsTTFpMFZTSGhxTDh6SDVxVlpMZ0lidTVYN0VGVzFyZGtmTG1oaVlKRlZVbDhzWGpNdXRGUzZhcjJBd3hldHp6b3NFQy13RE9VQ0x3NVRSUGJMN3ZheFBxaHFkOWQ0emJSTUNPd1RqVkVvcEVZbnpBcUdFc0VPWmp4TXptNHNuTEU2QmpqZnl2aHIyMVBkTUVQclFtYUY2TmdkRGJjODFUMmpGREQ4TkNOcV9XQkNoZ1RBc0FVNlJUcHdoSUlxYmFpU3ZhU29jOHJOWVlIcUdZQmY2U3RYdTFDSXdIZU1kaUJ1OEs3azZnSjJFVUJYb29yS1NVYnEwanRvMEZpYjE3R0Fld21IZmRSUzVOTnRjSFU4WWNDQjU0T2FLZ3d0Sk8yby03OFBYMjVyQXNNdHZUbU9rSWp1djJPRmFtMUdmZUpQcUwwSDg0bG9HQmVqYnQtWkQydTd2UHc4ZC1vUGw3OXpTMzNGN3ZRczNVR0lrRnhHdHRLM3NJSWlwbnp3bFVmOUIwTkVhSlFEU3BtaWZVOUUzRlE1R3l2VXR3eVpkY1JOelcxNXhhY3BKekV5OWpJRmJDUTZCZDNaemFqREE2Y1JQdHVjNG5ORlNuelpudTUtay1Hd2RlalNremM0Ri1mRkxrYkVWSTZSSnFXOFhpLWwyTm1uRVhVaVRHWXRHTjdCS2lQU0JiUHMyREFjTG1rMWEwZEVMcXNoSnRGQ2ZfN1E?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e837165c5be2d5b117",
