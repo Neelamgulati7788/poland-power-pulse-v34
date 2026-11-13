@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:52:23+00:00",
+  "updated": "2026-11-13T18:54:26+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -522,6 +522,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-c5742b3dc0e4b711d2",
+      "date": "2026-11-13",
+      "title": "Awaria sieci ciepłowniczej w Pruszkowie",
+      "title_pl": "Awaria sieci ciepłowniczej w Pruszkowie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN Termika — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0IwTFNhR1ozQ01oYlY1M0NSS1FFb0NFTHJGTUVTVnVOYi1PMzNyd0NVZXlkZUR4WG1WZEhIeVNzMjhxYmRaNzkxa0Z6RXZQMUo4T1A0TTE2eThkRGktZDVOdmE3dlRwUEcxcEkzT2d2TDMyejhkR0dNNXViOFlPM1BaYURwNk1EWmhN?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ORLEN Termika",
+      "publisherUrl": "https://termika.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bf7af1dee4dda89a6a",
@@ -1158,6 +1187,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-847a1ee9bb845a89a0",
+      "date": "2026-11-13",
+      "title": "PHOTON ENERGY NV (32/2026) Monthly Report for October 2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2JLaVpMUjhERDNtLWgyazg2SUMzcW5zSERmUVh5dXNGRlpYZHBQeHJibzEtUEV2Ym9RVlZUMm9HR0FmUG11R1M3TEVreE1TUHlIRGoyZnpRNWN4TlYzWC1RU3VyMnh6TktzaVo2Qm91ZzMtRTJTMG42Y0tPem5EeGdYV1hKS3lvcUpSbl8xRlh2Uy04VFpB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2004,6 +2062,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2703ce3df772dfce84",
+      "date": "2026-11-13",
+      "title": "PGE szacuje zysk netto j.d. w III kw. '26 na 3 mld zł, powyżej oczekiwań (opis)",
+      "title_pl": "PGE szacuje zysk netto j.d. w III kw. '26 na 3 mld zł, powyżej oczekiwań (opis)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajdjSWNDZV85Mm43YUk5cDgzTk5KWU9YVzNWZTJWWEFNelBSS19nZFBzVi1XX2xhVjNaR1QxXy01MkZhZXdWdUVxY3FNNUlBLVNEYWlMLXIxaGRCYW1VWWFrcEFjZVVmOXZoUThhMW93MU9MSVhaYkN3OXRxQXR4dE9FM0xtNlptNmJpOEhWdXpRWnkwajBCV3NuM1lsdDFSRUtmd2J5NVdjNEJlMXhuTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-26baaf041ccbe7beb2",
       "date": "2026-11-13",
       "title": "Dostawa energii elektrycznej z sieci elektroenergetycznej do obiektów Teatru Wielkiego im. Stanisława Moniuszki w Poznaniu.",
@@ -2334,7 +2421,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnB0UTFrcTFYaHVxNDk4Y0NVY2pkcUNOSzFjZTBzX3NVUlBiVUtFc1MwR1hrRk0zTHhVVnBfRlcwYjZhNWxSeGgtRFYyOWdFdGFVelk5MEpVcDBlZmkxQ0E0aE9ZU2lxc042V2VHR3lyVXBmcV84cmdYbG43OF9kd2JsT1RiSk9JaXhxOHhiZmVUbDlQejlScHdURnZtUm15YVBCMU42VjhyTUtqMHdKNmFnbExrWGw2?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnhoZW9MZy1fOTJFUk1VZDlYejlNNXVRUmRmNnhOXzZFLVNHSlBLYjRlU1Y5MDNyUklBY0ZIT3p2NWZuV3pQZU5MNmJDSjhlZEZsandWY2V4clRNbGQyX1BPaTY0bUQzQXN1MWpZT2x5elktbVlDTEtqSWloeXlzMDdnZlJUcGZQOElwUFVsejVMNG5xOGJjczBjaE8ta1VKLVRrc2NoRmUyR25LSUpzdTUwU0FtYUNq?oc=5",
           "type": "press"
         }
       ],
