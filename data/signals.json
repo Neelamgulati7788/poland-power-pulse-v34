@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:48:34+00:00",
+  "updated": "2026-11-13T14:54:18+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8d6af0094ba78250f",
+      "date": "2026-11-13",
+      "title": "Przełomowy wyrok w Norwegii: plany wydobycia ropy i gazu bezprawne. Co ze złożami Orlenu?",
+      "title_pl": "Przełomowy wyrok w Norwegii: plany wydobycia ropy i gazu bezprawne. Co ze złożami Orlenu?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWgzR0dkczk2RmxDLXVQdTRIQ2lydlVHYnppSjl3aC1ueEZUUmFSTFRpRGJaOVpwTkxwenp0VjY3X19nTnE2N1RUS2xWbnA5cktpMXRqSEJqcDQ2X3JoRGhIdTBiVWY5MGxXTHhGemg2VFBoUVNwWWtUM05VcWJhOVA1WGpPM09PY25SOVZ6WHlPTG91Z3BFWjdZQ3lFOHBkdGJ6bDhnNjJHWUhWcVdLTjJUOHlpOGZhZ0NzTWQyOUZOUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -87,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-efe0daa80e4a24e9d3",
+      "date": "2026-11-13",
+      "title": "Norweski Sąd Najwyższy uznał pozwolenia na wydobycie ropy i gazu za niezgodne z prawem",
+      "title_pl": "Norweski Sąd Najwyższy uznał pozwolenia na wydobycie ropy i gazu za niezgodne z prawem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Norweski Sąd Najwyższy orzekł w piątek, że plany zagospodarowania i wydobycia ropy i gazu na części norweskiego szelfu zostały zatwierdzone niezgodnie z prawem. Państwo norweskie miało nie dochować wymaganych warunków w ocenach skutków wydobycia. Na objętych wyrokiem polach koncesje posiada polski Orlen.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-Norwegii-orzekl-iz-podstawy-prawne-eksploatacji-na-czesci-norweskiego-szelfu-sa-niewazne-9228518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-edb81470e2bedb5b6e",
@@ -960,6 +1018,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-6e1cbf6c4cb59a63b9",
+      "date": "2026-11-13",
+      "title": "Tauron i Onde mają list intencyjny ws. rozwoju projektów OZE w formule joint venture",
+      "title_pl": "Tauron i Onde mają list intencyjny ws. rozwoju projektów OZE w formule joint venture",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWk5xdnN6amUzYlJMRXdsbUN4TGJDb3J2eVQ2M0dUcVVzeGIyRmZLMV9mSFpFR1c5T0ZGY3dpR29HVWVNTzEwUjVpN19VYnJ4WXY1M2FKV3AtQjBabzFBZGlPNk9wQXdBNnF0QjRVMVZRc0J1QzRoZHFDSDlqYXMwV05SazJaMjZOTl91aWJpY2RtMV9samJUbXBYYlltbVZNZ21kb092STFvRjluNXBvNmlOdzhKSm93Mmd4N204UW4zMGM2?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6ca044174033955ef4",
+      "date": "2026-11-13",
+      "title": "Orlen zmienia ceny paliw. Pierwsza taka sytuacja od miesięcy",
+      "title_pl": "Orlen zmienia ceny paliw. Pierwsza taka sytuacja od miesięcy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE1hRktKVFRCMU9XY0lQS19PT1hHM2tMQUdITUltMXBoUkZ1bmM2NkxheEJmVVhOM2pBVjR3YzBhS05WR0tHT0hhRWFWcmNScmtjSzUxdW1xQndfLUxlMkZrR2tmUVhuS1BBSTNTXzA3cEYzaHhraS1aYjlQWndpa3IzbWFNOThkY0N2Rm9DR19MS3BBTmdHQ1o0blY1Q3FOZGV6ZElxT0FjZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6c95d061b9fd93155d",
       "date": "2026-11-13",
       "title": "CHINT Green Energy Europe wykonawcą największej farmy fotowoltaicznej w Europie",
@@ -1395,6 +1511,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-371786edaf1f9938c6",
+      "date": "2026-11-13",
+      "title": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "title_pl": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFV0MkdkWHpJSEhGVFA1V1U1Y1FJeDV5a3NfUU0wWlhXbmpGWGpVRnFfSEtfN3RUY2FRRWhTWlZJSVA3dVdiWmJoNHl5dE1wUkp5ZTNjTV9Xbi1zQlJONk9fUG03Y3p4NXJ6ZTd6LUNtQjJtSkkybE5uUmc3SFhDNXNMd2otajIw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-327b6e2f06c9b348c7",
+      "date": "2026-11-13",
+      "title": "Onde ma umowę na farmę wiatrową na Litwie za 17,8 mln euro netto",
+      "title_pl": "Onde ma umowę na farmę wiatrową na Litwie za 17,8 mln euro netto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzh6NHM3UlJPczE1TTJOclhxSUlOc3dBOHN3OV8wazlXTmF5cDBOTl9jTFgza1ZSMS05aEh0Mmk0WEZxa1lPbTdPNDcwYUFSX1prSUZDMklfSFRPQVJLMXJJRE1SSWZFQ3M0Sl9IaUo0a1lpclFaNk14LTB3NDNCR3hmRGNNT21YQmhvQ0xzQzRLRmpaUHc3WTJLSktENGZITUdFQzZPZ2g?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-317ceed30b6c36117a",
       "date": "2026-11-13",
       "title": "Tauron Zielona Energia chce współpracować z Onde ws. inwestycji OZE",
@@ -1464,7 +1638,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXQzWXd1WnZjR2hvenc1OU5VYmU2QzM1V2xVNEhSbXh0S2VCOTZKdnVrT1MzTVphb0V2S1Q0Y3FiamxXRGctcmQwX09lcVdDWFpQYy02WWlPYk41c2J1VWNzSHFkUFFYbi1TNW5YVmlsSU52QjVfU3BsNk51cDFKWHJQd09QSHVyREVNenl0NG00UkJC?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2tOZzAtTTQwekFySEpVREJJd29JZDlxaW1rZTRVVjZ2emNvak9WcENtR2NrUEJhUzFyU3c2dmtKdnBLd254alY0TUtpbnAxeDVjT0cwM1UySE5zdnoxb1gzclNzSnRFWFFJa2xWSUMtN1JWeV8tUlpJTEM5eHZNYkg0X2hDODFuTHhKSW1iTFVaTFlC?oc=5",
           "type": "press"
         }
       ],
