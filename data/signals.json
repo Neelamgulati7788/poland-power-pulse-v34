@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-12T23:44:26+00:00",
+  "updated": "2026-11-13T01:07:52+00:00",
   "signals": [
+    {
+      "id": "src-ce04a7526020a895cc",
+      "date": "2026-11-13",
+      "title": "USA promują SMR'y na Kaukazie i w Azji Centralnej",
+      "title_pl": "USA promują SMR'y na Kaukazie i w Azji Centralnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc084enFORUxNQWJTclplbUZZOGMzLXJYOWNEMnhYcjlLR2NhcUN5dlVBY1QxWVdXM1VTa2RfaTZvNm14Qm82NW9FWkZaY2pYTHVveVg3dG92Qjh0b2JTc0hTX0NUaTZpTjB1aTVlSWhjVm1QVnJXTklvNGtDbkNGUGpXYWRyMXpWOEkwc0UwZjNxZVFPUDh6M1RPYXJoSUZRWXRLbjFJZ04?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fd361cfc34d69dde38",
       "date": "2026-11-12",
@@ -1453,6 +1482,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6ff2307d9a423cfc06",
+      "date": "2026-11-12",
+      "title": "Strona 2585 z 2601 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2585 z 2601 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqY21nd3lwajBfdHZFWW9weTQtTUdSTWhTNzViQVloeUVUaFQwaEx1elhhams1RG1SWTJRS2xFR09GV0FNRXY5cXg3U3NTMmJT?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6f29a0ff8704eea6f9",
       "date": "2026-11-12",
       "title": "Deweloper pływających farm wiatrowych zagrożony likwidacją",
@@ -1577,11 +1635,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOczA2QUtnc3ZHaDhPc1pUN2p2U0dLaGt1NFlPN2t0VkhzZG8zMEVLMU5hdlU0OUxSekJUSFJTd2RhRTNsZlJLaERpaU5YVjFtdGJoUXAzQTdIc1BiN1NxckpjbEVuQXF4NVFjQVVNaENrZTVxNU1tUWVDNEh0ZEFyZWF4UlVpVkJ3SU5vQW0tdUR1RVVBVTNvV0V4cFR1ZU9ZWHJTX0FORlFXZFZaQjBkZzJQLWRGR2NjQndaRzh3?oc=5",
           "type": "press"
         }
       ],
@@ -1595,8 +1653,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-660fe84e06064170a3",
@@ -4917,7 +4975,7 @@
       "links": [
         {
           "label": "Renewables Now — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVR3VGJfLXo2ZW1aYnZYSGpXNVUtNmRXX2NWYjFQYkgzWUtCdXZxZ3BaSjJ5ZGZrbU1GQWhJNldsbUpCOEtWVHNHejVaWkFueXZBSkcwelZUbFltcFVzNmtnR1RBMngxMjU0WnpZR29DS053dlFFNDVPSU5tUVU0WFdDWWVOUHd5Q3pNWGN5SDUwREZlZGpPY1pFeXoyZENpVERQVjV3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3NvN0lwc3Vjd0RXNFNvejFYUGdaTm9qTGNKQV9UOTNZZEctVjZRXzJHeGd5cnpNMDZLM2dONF92ZFRoVTFBUEpYeEFFN2RLcVJ0NlN2TDNReHNFTHFKZXEyWmFBLUZRWnhaNW40Z0Q4U3hPeE55OWtEZ3dDWjRlRXpqaUM4bl9CT2E2WEJQV3QxTTB3a2x2T01zNVpEMHA5cnVJbkd5R2N0Rkdhck5RaXhEWHVxOGhZcFh0cl92VjFPbHpyYVJfWExUY1dDZFJUTEJQUDJGRkdaMlk3N19xam9sZVdQWnF2eHVzSGx0NA?oc=5",
           "type": "press"
         }
       ],
