@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T16:56:26+00:00",
+  "updated": "2026-11-13T17:52:23+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -55,6 +55,64 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8671dc59c1d0c6776",
+      "date": "2026-11-13",
+      "title": "Projekt resortu energii: w 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie tyle ile w tym roku. (PAP)",
+      "title_pl": "Projekt resortu energii: w 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie tyle ile w tym roku. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3FvcUwtQUlmS2V4ZVFvTTBRQ2NHYi1VTFA3Wl9CNUkxLTlyR0pCNXkwbDhyNG9LV0VHNkp5RmRoMDJQajdrSEJ2LVVRYmZRTzlUUXprUXh5SFNxYnNrTWpXR2RLZ2lvWkxhdnA4YzVmYkdjLTZuTUczb0lQSi04YUFRc0hLOXRaVjBMSnowbzR5bU00WFZaOWFWU0h0ZWJKT2w0TEVzUXpYYnJmU19FUkR5bllSejA1ZjJMdzI4WGJMeDRob0hqMExFckVpbHhRWUpBWS1NWmxncG1qcjJvWm1LNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f40d7cd5eda4782414",
+      "date": "2026-11-13",
+      "title": "Projekt: w 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie tyle ile w tym roku",
+      "title_pl": "Projekt: w 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie tyle ile w tym roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTFxRURxSEx4dlYtOGdnVE10MlhKYmwwMnNWem1vM3VYZXZMR0FRMDZRaEo3RkIybkZwcGk1b0haUWhTT0hycGN2a3VqS19GMjI4aDRoYzRaUGw2LWVMSTVfSkN2YXQ2dDMyNzJ4Nk1ESXVYeVU0M19zcUFlV0I0MFkxWlFJZ0psUHZWTzVkMzkzR3dpRE9QZUE5MHlFcWlTaEJGSlZjaUprZEVUdWVUTnpUSjFoR0Jnd2lGbGc5eGF5eWhBM2VUbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -490,6 +548,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bd6f7951ecc060085e",
+      "date": "2026-11-13",
+      "title": "Dropping Qatar LNG deal seen saving Poland's Orlen up to $2 billion",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Reuters — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1VDUEhWSkFqTWNNdGpGWE53QkxKMVJkUF9EcXlTZlE1TVN5cEo5djllWXNPMEU4UUMwdmdGdWUwY2lRLXhNN2pRTFlib3lDRmJIZDJrazlHTlA4bUVIY1N5LWZrcUhSMXZVcURBUEFHNHZxeXR2OHlqcXAwZ1FEa2ZsdUE2NTE1YzVjOTVaYTRzeEEyMnk0a295ek1OaVlnX3RZNFY4dHBFdWMzbE9KZ3JLVWM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Reuters",
+      "publisherUrl": "https://www.reuters.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "31"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2118,6 +2205,35 @@
       ],
       "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-12b9d841d9cf3ec00a",
+      "date": "2026-11-13",
+      "title": "Foto Volt Eko Energia SA: Raport kwartalny za III kwartał",
+      "title_pl": "Foto Volt Eko Energia SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUdRdXA0U3M1SjJ4QWhmZVlWMnpadnhQV2lKanJBVlFJMVo3YmhqbFI3Q0tvOWo0blJDM0RmRmRvWEV5U25MX1hpUktwX3pwTjdVRGhNMHE3emJ0d2thcTc4T3ctQWZQYnVwbnZtNW5wZXplYUlZRDgwZ3VlS3UwUGR3d19mMHdtaXVWSzYxU2FNenM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1127baa209ae41d64b",
