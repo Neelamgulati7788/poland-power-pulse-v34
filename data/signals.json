@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:30:26+00:00",
+  "updated": "2026-11-13T12:32:39+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f0c7c127ba431da928",
+      "date": "2026-11-13",
+      "title": "Kupię lub wydzierżawię ziemię pod farmy PV – mamy wydane warunki przyłączenia",
+      "title_pl": "Kupię lub wydzierżawię ziemię pod farmy PV – mamy wydane warunki przyłączenia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS08tV1dqYTItM3ZSRGZnZHJuZ1hPWnJrZHZZVFg4SXlYVWZSUlNFX0JiaTdFZkZmTFpOczU5ZTRpWFNOemhWNmRnVllmMzVGOTBnaUMtbFlmQmVFNW96aXliTTU2U2ZSLVFwczd4amFXSWJoVjVoUGlMSDhwNzdoWE1XXzRvVWRGZVhpNWF6X0F0VE5YMlBYTnQxMjUteHBFS3lnWVRBc3hkV3ZUbERqekJobDlXX3NfMjAydm9YU0tianNpaWU5eQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -60,10 +89,39 @@
       "evidenceLevel": "indexed_headline"
     },
     {
-      "id": "src-db44940236eb269a1f",
+      "id": "src-edb81470e2bedb5b6e",
       "date": "2026-11-13",
-      "title": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
-      "title_pl": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
+      "title": "DŚ+WZ PV60 MW+120 szt. ME+ Wodór 30 MW",
+      "title_pl": "DŚ+WZ PV60 MW+120 szt. ME+ Wodór 30 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa21tOUp6bkFIekJtaVN0cUp1U09HY2NXTFFpQS1uXzJnT1R1OXlocUM2OW5qaGhrVlltSVRUT29admwtOTNfRzRqNlNvcnhJS3AxRTdVdWU4c3dLcC00Q3R4NE9MSGYxZHVYdkRXTFNEbUN1cG1GNXU2cGlUSlJCRHhRaVZiLVNWcVpIUnVQTEhVckJ5VVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e6a6aa939346dbf1fc",
+      "date": "2026-11-13",
+      "title": "Orlen nie przejmie jednak?",
+      "title_pl": "Orlen nie przejmie jednak?",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
@@ -71,7 +129,36 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0NISFpDZkI2QlZOSUdJQTZEcnVQaUNFZ1dqWThyTU93MGRuZjc4bWhGODM1bTE5ckNNeVh1SUNMeXljM3Z6ZmF0cGVWSG9wdlEzTy0waDU4eGRKZ0hncjk4XzlYQW12MkptQkpiaWlDdVRZandzV3hONUdFd01qRkNQbmdMTEJDTjlkR1pXT0pYeWJBTjBub0x0Qk9sU1NydkxoNlphZDNsSV9kQkZnTzk4UUNvQVl0X2hMMFFR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fcjF0Q2FZQXhWRXdnUEhKZ1IzdUJMdWd2ZEVzVmdxcm9LRE5rT0RpaVNpNTZQaDVLTkEwNVVWWGFoSmhvSmZnTC1ORmNaa0o0VG82SWxRRFBWVnpqZmdoZ19tUW5zQmVfS29ucjhTT0RRbGxpbDhyLWFVaDdSUEU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-db44940236eb269a1f",
+      "date": "2026-11-13",
+      "title": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
+      "title_pl": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Irański Korpus Strażników Rewolucji Islamskiej powiadomił w piątek, że gazowiec wpłynął na minę w cieśninie Ormuz - przekazały irańskie państwowe media.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Gazowiec-wplynal-na-mine-w-ciesninie-Ormuz-Iran-rozgrywa-wojne-informacyjna-9228312.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -85,8 +172,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-db04c0723375968813",
@@ -234,6 +321,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bb47ae8275cf88e2d4",
+      "date": "2026-11-13",
+      "title": "Sprzedam farmę fotowoltaiczną 2 MW| Własny grunt | Zysk netto 8,89%",
+      "title_pl": "Sprzedam farmę fotowoltaiczną 2 MW| Własny grunt | Zysk netto 8,89%",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0pfYlMtM21CV014ZkhBbjdLamlwclpOUmstZWFfNEVyUk5HSGJRYzNYUUk2MHlhYWNoNnJKWmJUTVNNUjY0Qm9LdzZOaGd5amE4Slc3Z3ZlQWhOSjBIX0o0dmxIMVpvNjhBRG5nbG9Pd1QyMkpKM0JsUEpSbVhyOFdBT08yYzRTS1ZkX2lVaW1hTHlvbjE2RUhBbUpTdUFRQkY4VElWRkJHWHRsZ3RJb1Zsb1liWTUwa1lR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bb06cd34facd0b2381",
       "date": "2026-11-13",
       "title": "MODERNIZACJA KOTŁOWNI GAZOWEJ ORAZ PRZEBUDOWA INSTALACJI CENTRALNEGO OGRZEWANIA W BUDYNKU OŚRODKA ZDROWIA W SĘKOWEJ",
@@ -320,6 +436,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-aeb334c1233ec3c27d",
+      "date": "2026-11-13",
+      "title": "Projekt BESS 2-10 MW z budową dla inwestora",
+      "title_pl": "Projekt BESS 2-10 MW z budową dla inwestora",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzhHQ2R4TktmV1l2aklHcmlSZFp2ZzEzTlhFVE14NEUwNlA2eFN6MGRZZU9taXFTVEg3aG9MOXpDM1kzSWNEUVgwdzEtMkZTRmZpS05yODNlRVNNcGhmRmhwN05QNzFfUDN5SHV3ejFWTDZvU0UzclpVS2pHVXBpSmZkZVRsb0Y4MWtQZm9rMXBoMWpzYjFDb3Q3aVNZSng5S1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ade299f38fd6e9a0b9",
@@ -467,6 +612,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-9a122b3ef7812a3487",
+      "date": "2026-11-13",
+      "title": "Wydzierżawimy działki pod BESS",
+      "title_pl": "Wydzierżawimy działki pod BESS",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzVKZFpPbm9CNmtYbmVpSDh5andmRnFzV3NQYzR6X0xXWTh5ZjdvdUw0ZWFQQWY5cHp2dW9jODZ0aXZwa250S3ZUZ05CTlZNYXhFREl2SzIxY21BWjlhSEx5VTlqZ1MxZnJHZVZQYTRWX2FjTHJrTWlyVW5CUlN2amxuRFpRTzlUQmJnSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-97b67d40a15e2edea6",
       "date": "2026-11-13",
       "title": "Koszt transportu tony węgla z Australii/Indonezji(...) - Forum",
@@ -552,6 +726,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-88cc5053bcaec0520f",
+      "date": "2026-11-13",
+      "title": "Prace nad największą farmą PV w Polsce nabierają tempa. Jak długo utrzyma swój tytuł?",
+      "title_pl": "Prace nad największą farmą PV w Polsce nabierają tempa. Jak długo utrzyma swój tytuł?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk5lYTdlYXJkRnZPSUpGMGtTR2RqYV93WHNhekhCV0RFdDdOM1BYMFRkQ1g4djI1bDlobzBUT19pY1d4bERNeWtIaFVWcjA2Vkx0WjJWdHFmVmxvODFLcjNkS0k4RzVhRllmV1FxTVBNM1NwZnNBZld1SUU1aDVaSVg2QThIRkstbDNqV1NlSklPZTRDb3lWVlk4bzB4S0RNVTBsdnNBMVU3azNET2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8619ef943fd78cc1dc",
@@ -699,6 +902,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6644375641c453ecd1",
+      "date": "2026-11-13",
+      "title": "Litwa chce wprowadzić windfall tax. „Orlen Lietuva ma nadzwyczajne straty, a nie zyski”",
+      "title_pl": "Litwa chce wprowadzić windfall tax. „Orlen Lietuva ma nadzwyczajne straty, a nie zyski”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1lQT3JuakhHQmUtNTY0Zk4wOHRlMFZPYkNkbVZtZjY2SG8xdGZ5QjdvMkZYN1FYNlJjamNNS2N0ZENIRmh3SnRITUUzR05kYm1pYlBZeDRLMzJUSG4xMGtkMEVTSzY2ellyUVNiekFwMTNQTEM3QUhwdTNUTkF4aXpacTFWOHNPWF9ScnVrSk5zT1hhUjdRSHRXd0ZSUW9NRjlMZlpsTlBTUlo3UFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-617c5bbb215e901ddd",
+      "date": "2026-11-13",
+      "title": "Sprzedam spółkę z o.o. z Warunkami Przyłączeniowymi Magazynu Energii 50 MW- PGE",
+      "title_pl": "Sprzedam spółkę z o.o. z Warunkami Przyłączeniowymi Magazynu Energii 50 MW- PGE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWxEVUdfblFHNkhjZUF2ZXdYb0tEMklYbTNIcE1PQ0VBOVMwM0hCakxja1BraUdGcmxOZkZ3Y1I1RDRBTnlmaHlMbXZNNWdYZWExNlJUaTJ6RW52SDlwNjlJUUNTRy1TWVFrbkNob1k3S3JRcFlCOWlMNTBKMkUxRkdZOTU2WmJyei1OQUxwTktjTUw5MlIzRk4tS2dGeEx5T0VzMC1JMzVzalVRS2lOSXk4SGxpZ3hXQXozVXBhbDVqemJaNndVajRHdEotMlU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5a013d5a695e207144",
       "date": "2026-11-13",
       "title": "Mina rozrywa gazowiec, Iran uderza w radar USA, a ropa... tanieje",
@@ -720,6 +981,93 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-4e3ccf094df440a707",
+      "date": "2026-11-13",
+      "title": "Transformacja, cyberbezpieczeństwo i nowe inwestycje. 44. Konferencja Energetyczna EuroPOWER & OZE POWER już za nami",
+      "title_pl": "Transformacja, cyberbezpieczeństwo i nowe inwestycje. 44. Konferencja Energetyczna EuroPOWER & OZE POWER już za nami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Skąd pozyskać środki na rozwój sektora, jak zapewnić bezpieczeństwo infrastruktury krytycznej oraz jaka przyszłość czeka polski miks energetyczny? Odpowiedzi na te pytania szukali przedstawiciele administracji rządowej, regulatorzy i liderzy branży podczas 44. edycji konferencji EuroPOWER & OZE POWER w Warszawie – najważniejszego wydarzenia polskiej energetyki.…",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/transformacja-cyberbezpieczenstwo-i-nowe-inwestycje-44-konferencja-energetyczna-europower-oze-power-juz-za-nami/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-46bc66682df86d91c7",
+      "date": "2026-11-13",
+      "title": "T Proenergy SA: Raport kwartalny za III kwartał",
+      "title_pl": "T Proenergy SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalJwMTVYeDBVYjFicHRhR2RJSXNuSWZjT2tVVTNCQVFtQlV2a0RuRXh4eWFQVTVMRnBQS1ZhbkxwMEd5WVBFaTBJU0hqMkdONkk4eW9UVlA5X2NLakxnREFMZ0EycVRaUTdsYndPX3FhaklrTS1mT2RDVmF0WnZtTTRobnpTdjZ5OGhXZ3M0YzhWTEFscGNR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-40083fea9cf6496381",
+      "date": "2026-11-13",
+      "title": "Minister energii: Orlen Litwa ma nadzwyczajne straty, a nie nadzwyczajne zyski",
+      "title_pl": "Minister energii: Orlen Litwa ma nadzwyczajne straty, a nie nadzwyczajne zyski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen Litwa ma w obecnej sytuacji nadzwyczajne straty, a nie nadzwyczajne zyski - ocenił minister energii Miłosz Motyka, odnosząc się do zamiarów rządu litewskiego dotyczących nałożenia podatku windfall tax na firmy paliwowe, w tym na Orlen.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -842,6 +1190,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-317ceed30b6c36117a",
+      "date": "2026-11-13",
+      "title": "Tauron Zielona Energia chce współpracować z Onde ws. inwestycji OZE",
+      "title_pl": "Tauron Zielona Energia chce współpracować z Onde ws. inwestycji OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkVQdy1UWDVBV3pvTVpYVGhUUzV6d3ExTGNVSFpzWmRJZWNVbncxRFYtd2NpVlpXenlyNmxpUGhVeGdXYmR6c3BWYmFxd0R1ay0yTG9Sa1M2VFdNRkJ1U2hOcHc5VlJfcEJPc1gzUVptNVFhMXlwcmNuTndBLWJ2dVVIS2Yzb09wMWFkM0hqM3V0djRIaVppZDJfNE11elZIdzJOV0NvYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2b7e687110da3f3c5b",
@@ -1158,6 +1535,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0602526a38e66ec9bf",
+      "date": "2026-11-13",
+      "title": "Sprzedam umowę pod wiatrak",
+      "title_pl": "Sprzedam umowę pod wiatrak",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjNEUWNYM3gtMm1kY1hKNEF2OExPTW10c0hwZzVMenZVRl9FZUtwbjZDTFl1WXdWeHFDdHVELURpNDFuelZoSTljbElfRld0dmtsdjVsd1RYN01sWXVQWTFLZ1Z0dmFDS0MtcUtaSWVxUG1sM09VeDFOaE44RUZtamFybHk0ZHFoSllJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
