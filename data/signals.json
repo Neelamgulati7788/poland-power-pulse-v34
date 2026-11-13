@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:32:39+00:00",
+  "updated": "2026-11-13T13:48:34+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ed4f048c84bfdacc15",
+      "date": "2026-11-13",
+      "title": "Orlen Lietuva suffers extraordinary losses, not profits - energy min. on Lithuanian windfall tax",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTJRamx4WF82aG9lQzNxczVnYk9sbXZ1c2ljWGN3eHNOaVlPbUsyZjRuT0hwa3VOamNMLWp1OVFIT0dCaFg4c1MtUnpuSnJSQUtNeDNZUWJzY2dZTkJDTnNvLUxoYnItNjFJZ25QNS1nNHpubDJrY3l2empiMjRuRUZhd2tVNmdmSU1MdWh5cGNBa2NHNmxFTUlLcFZSbU82RHBFeVd6QUtGMEpKWW1oLThYQ3ZPZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -255,6 +284,35 @@
       "publisher": "Energetyka24.com",
       "publisherUrl": "https://energetyka24.com",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d1c061687ff30e3d38",
+      "date": "2026-11-13",
+      "title": "Spór o podatek od zysków Orlen Lietuva. Minister Motyka: spółka ma nadzwyczajne straty",
+      "title_pl": "Spór o podatek od zysków Orlen Lietuva. Minister Motyka: spółka ma nadzwyczajne straty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmx3NzZzdmZyTDRmVnFKSFdlLVZUX3pSRUY0aXI3NkZrZnozMjc3Vm1MS1VOXzNBN19KTHJQR0U1MWgxZFkydUptYUhCYV8tU3gwT3NWazNyX3NhdThKcUQxU2M4ZUx0X0ctOW9KckxmT1c4ZnJMNDJUdkVuMUkwLWoyU290TFpzZFRKTk5oT1VtNlF0QmNXbjdHZ3JIcGNsUGo2djdKajFHdjdDSGpKcVp2RmdlUTBJNVdVY0V1dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "20"
@@ -641,6 +699,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-98228857e846f0f00d",
+      "date": "2026-11-13",
+      "title": "Montaż paneli konstrukcji na farmach fotowoltaicznych",
+      "title_pl": "Montaż paneli konstrukcji na farmach fotowoltaicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjJoYXk1bHdsZlVpLVJoQ0hFZmVybUV2VlNKWDFDLVdTd1Z1ZkNCclZBaFVOQjEzLVc0b3FfQUk0Q1NsVjR1d2hLbUJ6eUNtNHNjZkY2STBTalAxVzVTbDFKTXZpakJOUFdjYkt2cHRMMnlSaUpSSzhMdWVDOUN5ZlBzcEtoc2VhcUl2Q0NxNV9QTTY3dE9DaHRXeUwwbGlSblJ5alJ1Z2VvOXhfeFR3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-97b67d40a15e2edea6",
       "date": "2026-11-13",
       "title": "Koszt transportu tony węgla z Australii/Indonezji(...) - Forum",
@@ -668,6 +755,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9514becd12a35a94b9",
+      "date": "2026-11-13",
+      "title": "Kompleksowa dostawa energii elektrycznej (dostawa i usługa dystrybucji) dla Gminy Rejowiec",
+      "title_pl": "Kompleksowa dostawa energii elektrycznej (dostawa i usługa dystrybucji) dla Gminy Rejowiec",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA REJOWIEC",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df418c-7ec6-d2e4-c1c5-d5000194225b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-9442576f89c1d55036",
@@ -960,6 +1076,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5c10c05b2700c8105b",
+      "date": "2026-11-13",
+      "title": "Na globalnych rynkach po raz pierwszy od wybuchu wojny w Iranie pojawi się nadwyżka ropy",
+      "title_pl": "Na globalnych rynkach po raz pierwszy od wybuchu wojny w Iranie pojawi się nadwyżka ropy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Międzynarodowa Agencja Energetyczna (MAE) poinformowała, że na globalnych rynkach po raz pierwszy od wybuchu wojny w Iranie pojawi się nadwyżka podaży ropy naftowej. Eksport z regionu Zatoki Perskiej odbudowuje się, mimo trwającego konfliktu - przekazała w piątek agencja Bloomberg.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Na-globalnych-rynkach-po-raz-pierwszy-od-wybuchu-wojny-w-Iranie-pojawi-sie-nadwyzka-ropy-9228453.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-5a013d5a695e207144",
       "date": "2026-11-13",
       "title": "Mina rozrywa gazowiec, Iran uderza w radar USA, a ropa... tanieje",
@@ -987,6 +1132,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-53a76033c690304560",
+      "date": "2026-11-13",
+      "title": "Naukowcy znaleźli sposób na jedną z kluczowych strat w fotowoltaice",
+      "title_pl": "Naukowcy znaleźli sposób na jedną z kluczowych strat w fotowoltaice",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWm1LYTJ1eXZ4U3M4cXZ3eEE2WnBRdnhLOFY1eURHREpTQXV2eWZkSThmLWFTQVVBOGRlMGpTWHFKNElkSXFlZ1duUWMxYWh4LTcwaHoxa05kcE5CeTljRndqNmRqb1d1b2k4X1ctejZsNjhkaE9VbGppc3BOdXZwaVZmYkFNblVtQ3BN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-52e786d6916eca16f2",
+      "date": "2026-11-13",
+      "title": "DMEGC Solar wprowadza moduły fotowoltaiczne ze stalową ramą. Nowa konstrukcja ma zwiększyć uzysk energii",
+      "title_pl": "DMEGC Solar wprowadza moduły fotowoltaiczne ze stalową ramą. Nowa konstrukcja ma zwiększyć uzysk energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTG1tVTJlUThDWjVxVFRlbTFlWFRfbkNES2FTVmxVcEhnRUc1X3dMbGpZYnJRUFUxeTNtaTlKclI2d0dobVFrTjNqMnZXVHE1M0ttM0ZSb1c2RTNnWmE3TXQ0MS1tTE9MMlRxZlAtZXp4eWF3T1UxcUdsdXZSek5QclJxU3FUajJRMjFzZ3QzS3gxZWNiMVNXVWEyUGx6d2xlNTBXQ1BCQmx4N1J1RWgxWElqQVNtOW5nMU1GVDdOMS1tbnp2Z3V6WmpvLVNySldRdmkyS3k4dktjczRNTjVLX21DQUpZSDExVzdCZlhGWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4e3ccf094df440a707",
