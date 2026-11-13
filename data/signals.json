@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:22:10+00:00",
+  "updated": "2026-11-13T09:31:49+00:00",
   "signals": [
     {
       "id": "src-f02ceb521054d75d10",
@@ -23,6 +23,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-db04c0723375968813",
+      "date": "2026-11-13",
+      "title": "Elektrociepłownia Radlin produkuje i przeszła testy.",
+      "title_pl": "Elektrociepłownia Radlin produkuje i przeszła testy.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0pZQllQYzIxZW1ZOHJOOEU0SEpiX3RyLWhoNkJkdDd2Rk5WOVJucmxiN2cweUpCMzhVblhtVTBGajdfa2RqSmNibnI0dUE0TnhWN09mTWQ0cE10VEtScHVNSkNYRnhsaTdBRjhOLVlEVWhkWXZoOXpKUU5KNy1LLTAtZHNCMG1oejA4Rzd0X2l1dWxSRDUyZ3hhQ0NfZFBwaGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -89,6 +118,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bf7af1dee4dda89a6a",
+      "date": "2026-11-13",
+      "title": "gaz najdroższy w historii, dziękujcie tuskowi za(...) - Forum",
+      "title_pl": "gaz najdroższy w historii, dziękujcie tuskowi za(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTJhbG04Vk5BeXlQZmNEYThDYmJlVU1DOWVmOXJDX2diVnF1dXNlbTFIbkp3WHhqa3A1dE1rUFl4VGhLbXQ4aFg3bTh6aVJjTUlDaDJldzNydHI4MWw4LVVBUXk3V0RscHNHazloRVJnSFhzSjNHWXZMd1o4VDN2S2RBR0dJb20zNkp1YnpDT2FONHFfR0U1U2EwWk5LZURXSnl3TmpfU2t5U0FJdXZzQVZ0QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bb06cd34facd0b2381",
       "date": "2026-11-13",
       "title": "MODERNIZACJA KOTŁOWNI GAZOWEJ ORAZ PRZEBUDOWA INSTALACJI CENTRALNEGO OGRZEWANIA W BUDYNKU OŚRODKA ZDROWIA W SĘKOWEJ",
@@ -101,6 +159,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df415e-dce7-fafe-c1c5-d5000194196c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-af3304912c230a8c93",
+      "date": "2026-11-13",
+      "title": "Ochrona mienia i obiektów znajdujących się na terenie Ogrodu Zoobotanicznego w Toruniu wraz z całodobowym monitoringiem elektronicznym obiektów Ogrodu oraz zapewnieniem wsparcia grupy interwencyjnej.",
+      "title_pl": "Ochrona mienia i obiektów znajdujących się na terenie Ogrodu Zoobotanicznego w Toruniu wraz z całodobowym monitoringiem elektronicznym obiektów Ogrodu oraz zapewnieniem wsparcia grupy interwencyjnej.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ogród Zoobotaniczny w Toruniu",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4168-d915-8373-c1c5-d50001941b40",
           "type": "official"
         }
       ],
@@ -171,6 +258,93 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9c634564002055d9cd",
+      "date": "2026-11-13",
+      "title": "Paliwa w dół, ale węgiel i żywność drożeją. Inflacja za październik potwierdzona przez GUS",
+      "title_pl": "Paliwa w dół, ale węgiel i żywność drożeją. Inflacja za październik potwierdzona przez GUS",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Główny Urząd Statystyczny potwierdził wstępny szacunek październikowej inflacji w Polsce na poziomie 3,5% w ujęciu rocznym. Odczyt oznacza wyraźne wyhamowanie względem wrześniowych 4,1%. Za spadek wskaźnika o 0,4% w skali miesiąca odpowiada przede wszystkim rządowy program CPN i tańsze paliwa, jednak w koszyku konsumenta mocno…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-dol-dzieki-paliwom-ale-wegiel-drozeje-Ostateczne-dane-GUS-za-pazdziernik-9228292.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-97b67d40a15e2edea6",
+      "date": "2026-11-13",
+      "title": "Koszt transportu tony węgla z Australii/Indonezji(...) - Forum",
+      "title_pl": "Koszt transportu tony węgla z Australii/Indonezji(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUgxSmo5NmllU3ZvR3lsZWlTbHduZWU4akZJVG1sa0xlSHRjTXFhSXM1ckg0MndHNTdNNHM1elRzS1Z6REVmVDQtbHNFTEZLX25idUM2WjVZOUR4Sk5rMWhiX3FzVUVHdVpqLWo1YWhVcXBRRWNobmpPdXFDdEhqaWtmeXFIRllFRTJ4dTcwbXc1Y0l3TWhISk5zWWt2TGNmeDZmTjNUVnktRkxVa05KRWh3Yzc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9442576f89c1d55036",
+      "date": "2026-11-13",
+      "title": "Orlen Lietuva na celowniku Wilna. W grze 70 mln euro i przyszłość rafinerii w Możejkach",
+      "title_pl": "Orlen Lietuva na celowniku Wilna. W grze 70 mln euro i przyszłość rafinerii w Możejkach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFVoR1dfQUZoV2hhbElSWDktdUlrWDVBSUNGeWRFcm91c3BsQkE1Q3VNd2JicUc4NU5hTjhuQTYtcnllVnE4c1ZCNnZ5QUhTM01Xa2dFd1F5RktYRjQ1ZVJvNmxBREd1N18zalNsX0NfLWJ2TnQteHlaRi1BSDFLRzlSQnJCU3d4T2htVlZWN2tOWUpyN2d2MEdxRmZSYXFtdHJnWVM0WnYzVXozU1NESDJicl9CcHJKaDM2NC1SZlk5Zw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -263,6 +437,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-6c95d061b9fd93155d",
+      "date": "2026-11-13",
+      "title": "CHINT Green Energy Europe wykonawcą największej farmy fotowoltaicznej w Europie",
+      "title_pl": "CHINT Green Energy Europe wykonawcą największej farmy fotowoltaicznej w Europie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUtuVDlEZ0V3YzYzRG1seUh2dndwY0FUd1FsV1RCVE1fY2dxeU1Wb0R1RE5ST1Z6QTZlN1VrLUUxc0pQb0RXU09aLWdIWWtidU9sUWktMTNCMGFLQ1Vxak5SZnh3UnNueW4zT3ZTaVl1RWxJaFlVemU2TC1oa2puXzh6aFNUSHNHVTNUMEhDZ3V0ODJlN0RFZldGbWp1UzN3M1dMMWl2WWhSSmYwWVlqTGR1dFRKSGdJc2FjRHRuS1MwbkNDcVNpZ3E0XzB3TEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-669348ff048d56c49a",
       "date": "2026-11-13",
       "title": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
@@ -290,6 +493,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5a013d5a695e207144",
+      "date": "2026-11-13",
+      "title": "Mina rozrywa gazowiec, Iran uderza w radar USA, a ropa... tanieje",
+      "title_pl": "Mina rozrywa gazowiec, Iran uderza w radar USA, a ropa... tanieje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny ropy w USA zniżkują. Inwestorzy oceniają możliwość wznowienia działań wojennych między Izraelem i USA a Iranem.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Mina-rozrywa-gazowiec-Iran-uderza-w-radar-USA-a-ropa-tanieje-9228267.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-3dc3979d77943c84b5",
@@ -350,6 +582,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3bbfb868b99dc6352e",
+      "date": "2026-11-13",
+      "title": "Iran: Korpus Strażników: gazowiec wpłynął na minę w cieśninie Ormuz",
+      "title_pl": "Iran: Korpus Strażników: gazowiec wpłynął na minę w cieśninie Ormuz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3RNeEsxTDFXR1VMZHBydERKWTFfOERGMS00ZzRZblVfUDhVT3hKRnV0cUNESG03amZoSFplVEc1Z2hnbXk0QUYxVGViRHNzOWRIUEY3YnR3bnVqVnA0YVNsX3IyZG9KSHl1Q2NKaDJ3UERnVUp0Y3p5MFN1cEdKVE5xa0lrUExBa3J4SVUwcVlkaEdmZmh0R2RfX3Rvay1NU0o1dzdB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-37c5f7e2e7713489cd",
+      "date": "2026-11-13",
+      "title": "Polska musi zmierzyć się z pięcioma wyzwaniami. Glapiński wskazuje kierunek",
+      "title_pl": "Polska musi zmierzyć się z pięcioma wyzwaniami. Glapiński wskazuje kierunek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju i wdrażania sztucznej inteligencji, czy wsparcia konkurencyjności polskiego eksportu przy realokacji zasobów w kierunku gospodarki opartej na wiedzy - ocenił prezes NBP Adam Glapiński w wystąpieniu w trakcie wspólnej konferencji banków centralnych Polski i Węgier…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-musi-zmierzyc-sie-z-piecioma-wyzwaniami-Glapinski-wskazuje-kierunek-9228325.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2b7e687110da3f3c5b",
+      "date": "2026-11-13",
+      "title": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
+      "title_pl": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG9hUGJ1aVFOMUIwb3FZNFROd2RnWUhrdV9UWkJIZUx3UklCX0tpSXV0MWt2X1VjNHZFSTdFbzBaSGVBcTI2aVNwUmJvMnV5NFdSbWFvc2l6SEFlUkZ2TjdSak9vZzJlZXRUejJTV1U0MFI1NlJveVc4eEtuMGo1UWZRS1FneDRwN0F6SVdiSjg5QWxTXzBDd0VxdUYzdElyTm03dXJOazMwbEZncll0aUwwUF9nbXV3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-28fa24a23443fed088",
       "date": "2026-11-13",
       "title": "Re: 2027 - surowce +23% w górę, energetyczne +32%",
@@ -361,7 +680,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWhiRkNsTzRrZktya1hobzhzcnhsZ2hQWElvV0w1S0loTkpidEU3RWZjMjl3UHVYMTdIT0VfZUtXWFRvQy1sNEIyREg0aEJMOEU1Mkp2MG9PMElqa1daMmZyVlZJNXM3VE5sd0lNNnFSZS1KRzdCMUFwQkY3OE1rZUZhRnVocWxqeWNVT2JuTHpUSHdH?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXQzWXd1WnZjR2hvenc1OU5VYmU2QzM1V2xVNEhSbXh0S2VCOTZKdnVrT1MzTVphb0V2S1Q0Y3FiamxXRGctcmQwX09lcVdDWFpQYy02WWlPYk41c2J1VWNzSHFkUFFYbi1TNW5YVmlsSU52QjVfU3BsNk51cDFKWHJQd09QSHVyREVNenl0NG00UkJC?oc=5",
           "type": "press"
         }
       ],
@@ -408,6 +727,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-1aa83c7ae225811082",
+      "date": "2026-11-13",
+      "title": "Rządowy projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.",
+      "title_pl": "Rządowy projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3355",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-099a2621c85ec8721d",
       "date": "2026-11-13",
       "title": "Takiego magazynu energii w Europie jeszcze nie było. Niemcy przecierają szlaki",
@@ -432,6 +780,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-092b3e83b321652583",
+      "date": "2026-11-13",
+      "title": "Australia zakazuje nowych kopalni węgla.",
+      "title_pl": "Australia zakazuje nowych kopalni węgla.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3N2Rzc2NVgxUC13eVlTZ1AzelRmZ2ZSSlloaHFyMXFVWVBPbzVfX05vOXZjYTlxMERldTk4Z3VxQ05XaTkxZ1A2TEU0NldRMklSN3B5d1lHQllrNVR6clJMUHZjdlNsQm82VU1KNEd6all2N2U1ZjRLR2F0YjNXdXg2di00Nndsd0JGVVk4MGtTZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1509,6 +1886,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9038881366f737cbaf",
+      "date": "2026-11-12",
+      "title": "Rządowy projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw",
+      "title_pl": "Rządowy projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3355",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "processes",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-8cec510ea7d17cf2bb",
