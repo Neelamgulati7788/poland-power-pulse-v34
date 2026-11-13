@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:49:02+00:00",
+  "updated": "2026-11-13T22:45:19+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -473,11 +473,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "61 proc. Polaków uważa, że dla zwiększenia bezpieczeństwa Europy więcej państw kontynentu powinno rozwijać broń jądrową. To najwyższy wynik wśród 14 państw uwzględnionych w dorocznym raporcie GLOBSEC, przedstawionym w piątek w Pradze. Najmniejsze poparcie, wynoszące 29 proc., odnotowano na Węgrzech.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVBNMUpJMGlYVWIwYjJ3dTB0ZXVWeEpBYk9SWl9oXzdlLW9IVFpvU1U3cDJibkRLeEYwb0ZUWS1vMjdGQXRySUtxOURwemtrSmE3VkNXOTBNMzd6a3BXaEFzMUNhNU9ZVTlQLWpKcjhLcjQtVlhpMFFSRXJpRmhPb3B4WHlkc3JyMVYxWUo1SzVCT3diUDh6M0kxc1ZHaF9YLXo1ZVhBT0xqb3Z3bGxhQlNGdng4QQ?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/61-proc-Polakow-za-rozwojem-broni-jadrowej-przez-wiecej-panstw-Europy-9228771.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -491,8 +491,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d1c061687ff30e3d38",
@@ -522,6 +522,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d1853df4797356a42c",
+      "date": "2026-11-13",
+      "title": "Dostawa komputerów przemysłowych na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+      "title_pl": "Dostawa komputerów przemysłowych na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Politechnika Gdańska",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41d5-7495-59ea-c1c5-d500019423e5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-d080c99c3ed6eaeaf0",
@@ -1888,6 +1917,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-458ac9a04d4c4b6553",
+      "date": "2026-11-13",
+      "title": "Strona 2602 z 2602 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2602 z 2602 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yWFpIclh0eWZGbGtSTXlhQ0lScl9YRFpaY1RsUmxvNnN6SmpkQnQ3SG52UTg0dGhrbERpNmFqemJfWF9nNzJSb2k2eGJVbjVGdl9ZZWIwZ2FwVTBLWU9kMw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-40083fea9cf6496381",
       "date": "2026-11-13",
       "title": "Minister energii: Orlen Litwa ma nadzwyczajne straty, a nie nadzwyczajne zyski",
@@ -2524,6 +2582,35 @@
       ],
       "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-172197a88196b0271a",
+      "date": "2026-11-13",
+      "title": "MKiŚ: podpisano porozumienie o współpracy z gubernatorem Kalifornii m.in. ws. czystej energii",
+      "title_pl": "MKiŚ: podpisano porozumienie o współpracy z gubernatorem Kalifornii m.in. ws. czystej energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0hQazR0VDN5d1lIRE1PVzItY2VnQ3FpSmJuM1VDNldIclh0S01iUGR5X2RFUzUzc2FFSUhLeGNXc3VSRXhlV3BIXzEyczhDd21RZ216UlVhUjkzVVplMGhyeGZhOWR3Tk5sbWpRbTR5MzVVeVp4UGU0MVA1dUhwamVPS01aODQtNVMxSFB5Rm5jWVZLT3BkVUxkbWNNbjlPWnFWY29IMjU2eklwOGNCZFNUQzVVTEc0aFVFMTFGajRjbmtQelBj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-12b9d841d9cf3ec00a",
