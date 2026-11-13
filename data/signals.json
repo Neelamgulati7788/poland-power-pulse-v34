@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:07:52+00:00",
+  "updated": "2026-11-13T02:25:38+00:00",
   "signals": [
     {
       "id": "src-ce04a7526020a895cc",
@@ -29,6 +29,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8b90e27662cba3a71b",
+      "date": "2026-11-13",
+      "title": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Kompleksowa dostawa energii cieplnej obejmująca sprzedaż energii cieplnej wraz z dystrybucją do nieruchomości (obiektów) zlokalizowanych w Warszawie, stanowiących własność Miasta Stołecznego Warszawa oraz będących w zarządzie i administrowaniu Zarządu Mienia m. st. Warszawy.",
+      "title_pl": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – Kompleksowa dostawa energii cieplnej obejmująca sprzedaż energii cieplnej wraz z dystrybucją do nieruchomości (obiektów) zlokalizowanych w Warszawie, stanowiących własność Miasta Stołecznego Warszawa oraz będących w zarządzie i administrowaniu Zarządu Mienia m. st. Warszawy.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Stołeczne Warszawa - Zarząd Mienia m. st. Warszawy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4123-edfd-ebc7-c1c5-d500019416af",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1e1ba13d67b21ccd79",
+      "date": "2026-11-13",
+      "title": "Polska – Maszyny i aparatura badawcza i pomiarowa – DOSTAWA APARATURY DO WYDAJNEGO WYTWARZANIA NANOFOTONICZNYCH STRUKTUR PÓŁPRZEWODNIKOWYCH O DUŻYCH POWIERZCHNIACH METODĄ ELEKTRONOLITOGRAFII",
+      "title_pl": "Polska – Maszyny i aparatura badawcza i pomiarowa – DOSTAWA APARATURY DO WYDAJNEGO WYTWARZANIA NANOFOTONICZNYCH STRUKTUR PÓŁPRZEWODNIKOWYCH O DUŻYCH POWIERZCHNIACH METODĄ ELEKTRONOLITOGRAFII",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4123-edf1-8402-c1c5-d500019416ae",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-fd361cfc34d69dde38",
