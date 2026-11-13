@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:54:26+00:00",
+  "updated": "2026-11-13T19:55:50+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-faf6c1b8c06b569633",
+      "date": "2026-11-13",
+      "title": "PGE szacuje wynik EBITDA w III kw. '26 na 4,61 mld zł, zysk netto j.d. na 3 mld zł",
+      "title_pl": "PGE szacuje wynik EBITDA w III kw. '26 na 4,61 mld zł, zysk netto j.d. na 3 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3luMG5sVVdlam9rS1BYbm1uVGtqRy1yYzFmcFlfRVVXTDVOOFEwbnJFNmYzeDg4dEwxVEhEenNNdTNfX3NfZWJiVWxKTlZPZmt4bVJ6d0lFb0Vzd0QyMVh3V1cwaF8tdzA4bzE2djRZdGZsczA4Y25oZENod1hFVDJDYTlfMGwwYnN1Nkc1aDFGc2xDazY3N1ZldE45WHQzRF83UjJadElUeXJvMmJaNlZMSzVqQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -379,6 +408,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-d614b45ed34b954ee8",
+      "date": "2026-11-13",
+      "title": "Niemcy wracają do węgla. Stare elektrownie zastąpią gaz",
+      "title_pl": "Niemcy wracają do węgla. Stare elektrownie zastąpią gaz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblRFUlpKVEMyblR6MDBtbmxDS2dobVhYeUVLOXlpR2JsNkU1RTMtZGQ3VVVHMHVSNWdyQ1hqNjFTR3ZHaVU5VV9iMndDdFVVd0VEZHZkWGt2ekNTX1EyOWJwMU5LSHdfWXJOeWs4NVlFcmZBUy1oSFkxTDZBR3Y5d2Vqb0txc1gwQUtNRnNFN25Ca2NOeGQwVlA0MGdMV3FvUWM2QWhB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d4dbff95b7f56ad52e",
       "date": "2026-11-13",
       "title": "Tańsza energia i rozwój AI pomogą utrzymać szybki wzrost PKB? Tak uważa Glapiński",
@@ -403,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d3da1ec7b0fc8b8d00",
+      "date": "2026-11-13",
+      "title": "61 proc. Polaków za rozwojem broni jądrowej przez więcej państw Europy",
+      "title_pl": "61 proc. Polaków za rozwojem broni jądrowej przez więcej państw Europy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVBNMUpJMGlYVWIwYjJ3dTB0ZXVWeEpBYk9SWl9oXzdlLW9IVFpvU1U3cDJibkRLeEYwb0ZUWS1vMjdGQXRySUtxOURwemtrSmE3VkNXOTBNMzd6a3BXaEFzMUNhNU9ZVTlQLWpKcjhLcjQtVlhpMFFSRXJpRmhPb3B4WHlkc3JyMVYxWUo1SzVCT3diUDh6M0kxc1ZHaF9YLXo1ZVhBT0xqb3Z3bGxhQlNGdng4QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -728,6 +815,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-afb3dd58be9f018d0d",
+      "date": "2026-11-13",
+      "title": "Rząd zamrozi ceny gazu na 2027 rok. Maksymalna stawka wyniesie 197,29 zł/MWh",
+      "title_pl": "Rząd zamrozi ceny gazu na 2027 rok. Maksymalna stawka wyniesie 197,29 zł/MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Od 1 stycznia do 31 grudnia 2027 r. maksymalna cena gazu m.in. dla gospodarstw domowych ma wynieść 197,29 zł/MWh, czyli tyle ile w tym roku - wynika z projektu ustawy w tej sprawie. Według resortu energii bez tych rozwiązań gospodarstwa domowe zapłaciłby za gaz od…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-zamrozi-ceny-gazu-na-2027-rok-Maksymalna-stawka-wyniesie-197-29-zl-MWh-9228764.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-af3304912c230a8c93",
       "date": "2026-11-13",
       "title": "Ochrona mienia i obiektów znajdujących się na terenie Ogrodu Zoobotanicznego w Toruniu wraz z całodobowym monitoringiem elektronicznym obiektów Ogrodu oraz zapewnieniem wsparcia grupy interwencyjnej.",
@@ -900,35 +1016,6 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
-    },
-    {
-      "id": "src-9c634564002055d9cd",
-      "date": "2026-11-13",
-      "title": "Paliwa w dół, ale węgiel i żywność drożeją. Inflacja za październik potwierdzona przez GUS",
-      "title_pl": "Paliwa w dół, ale węgiel i żywność drożeją. Inflacja za październik potwierdzona przez GUS",
-      "lang": "pl",
-      "translated": false,
-      "translationStatus": "original_polish",
-      "summary": "Główny Urząd Statystyczny potwierdził wstępny szacunek październikowej inflacji w Polsce na poziomie 3,5% w ujęciu rocznym. Odczyt oznacza wyraźne wyhamowanie względem wrześniowych 4,1%. Za spadek wskaźnika o 0,4% w skali miesiąca odpowiada przede wszystkim rządowy program CPN i tańsze paliwa, jednak w koszyku konsumenta mocno…",
-      "links": [
-        {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-dol-dzieki-paliwom-ale-wegiel-drozeje-Ostateczne-dane-GUS-za-pazdziernik-9228292.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-          "type": "press"
-        }
-      ],
-      "cos": [
-        "ALL"
-      ],
-      "publisher": "Bankier.pl",
-      "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
-      "reviewed": false,
-      "sourceIds": [
-        "27"
-      ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-9bc7bd83aa18a84b9b",
@@ -1511,6 +1598,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6028cce0ffb786339e",
+      "date": "2026-11-13",
+      "title": "Zaopatrzenie obiektów Gminy Kłomnice i jej jednostek organizacyjnych w paliwo gazowe na rok 2027",
+      "title_pl": "Zaopatrzenie obiektów Gminy Kłomnice i jej jednostek organizacyjnych w paliwo gazowe na rok 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kłomnice",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41bf-0afb-5220-c1c5-d500019423c4",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5fc870c08d877ababc",
       "date": "2026-11-13",
       "title": "Komunikat OSP w sprawie rozpoczęcia procesu jednostronnego przetargu miesięcznego na grudzień 2026 r. na zdolności przesyłowe połączenia promieniowego, będącego połączeniem międzysystemowym PSE S.A. i NEK UKRENERGO - Komunikaty OSP",
@@ -2060,6 +2176,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2797b61bba3fd2e9c6",
+      "date": "2026-11-13",
+      "title": "Racjonalizacja zużycia energii w budynku Przedszkola w Masłowicach",
+      "title_pl": "Racjonalizacja zużycia energii w budynku Przedszkola w Masłowicach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA MASŁOWICE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41be-3e07-9af4-c1c5-d500019423c1",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2703ce3df772dfce84",
