@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T14:54:18+00:00",
+  "updated": "2026-11-13T15:51:43+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -1018,6 +1018,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-778af8318d7b29d959",
+      "date": "2026-11-13",
+      "title": "Onde, Tauron plan Polish renewables JV targeting up to 400 MW",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzBWQ0g1aTBydnZ3emdXckdhVUpmZHd5Wk5DR2dtTnllSVJqUGJRTmNLTURmSnF0R1NtMklxTmNYMkltb1ZPZjdXc0s4aWdEYVhoSVJoUXYyQ1VTRENVTU9ENzVpRUVibHFDQUdsbjhtMHo5OGJoMW9vWEUtQmhnWmVpbENja1VQU1lKRHl1OHRybjBvcXZ2NUZZd0pISF9HeUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6e1cbf6c4cb59a63b9",
       "date": "2026-11-13",
       "title": "Tauron i Onde mają list intencyjny ws. rozwoju projektów OZE w formule joint venture",
@@ -1187,6 +1216,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5fc870c08d877ababc",
+      "date": "2026-11-13",
+      "title": "Komunikat OSP w sprawie rozpoczęcia procesu jednostronnego przetargu miesięcznego na grudzień 2026 r. na zdolności przesyłowe połączenia promieniowego, będącego połączeniem międzysystemowym PSE S.A. i NEK UKRENERGO - Komunikaty OSP",
+      "title_pl": "Komunikat OSP w sprawie rozpoczęcia procesu jednostronnego przetargu miesięcznego na grudzień 2026 r. na zdolności przesyłowe połączenia promieniowego, będącego połączeniem międzysystemowym PSE S.A. i NEK UKRENERGO - Komunikaty OSP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNUmlmNldjdkw4VXUxNFFrajFHNmxCQU9jUElXYXVjdDlCRF9URjZSel8ydDViSXBOMXFOSFUzYjVMbEhSeE1aMzAwR0NRaU9taXVlWV9tcUFKT3RwS0FKZWRvX3lfNFkxNWY4R0ZCVEFqV0xfVl9FMGJKeDBNZmZobkw5eGs2aWZfOWxSWjl4SEZBX2pkaE9UdEdGbklTNXZZSk9OWXpsVGZkMGcxLXlneXRhaTEzbU14X0N4ZnpzMjZySG16bnBtNzAwLXZGUzh2dlFrQnEzZHlPT0lCdXVLNHNvZmFuSUp0NGhLTE9KcjV6ZDM5QWFZVkJQZDN5aXZXaktHdFZ3RnNoRTViMGlrcUdCQ0lBRkZ6eFV6YTZ6bDJkdTI4VUh2TmdtLUVid216SmFLblg3ZS1wR3VXbS02Ymtfa3hQQzhySXlYdkJROEpaT0JoOEFBVjQ3d2pTc0wwcDJrc0txUTFOckV5bkVQOA?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1683,6 +1741,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-2231206e137ff33e2c",
+      "date": "2026-11-13",
+      "title": "Poland's Orlen terminates QatarEnergy LNG contract covering 1 Mt/year",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Enerdata — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaEJ3NHJELVRHYVBIRE5EZzBvaDZVUkZUaVRZOG9EVl9nNWFnWWZaVUtxaTBPSjRwNTR1U3NLRDNsbE55TlhKU0lOS2ExNi1NTGZJdi1DWGd5UVJkZU9jM1VoclRxY1hqb0MtbDdSTG16Qm9DWHhiWm9IeGdrTEtxcTlUcF9pYWE0ZzVDQVI4WTRXNExnbUh0Y21JeFdqSklKZkZnMXIzU1M0RkFsR1p3ejJpLUwtcTNGQi1GVGJ4OWx2OThGb0l3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Enerdata",
+      "publisherUrl": "https://www.enerdata.net",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "34"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-21b69d90dd6e8aa2d6",
@@ -3695,11 +3782,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Uzgodniony przez litewską koalicję rządową tymczasowy podatek od nadmiarowych zysków, tzw. windfall tax, może dotyczyć około dziesięciu litewskich spółek, choć głównym - a być może jedynym - jego płatnikiem będzie Orlen Lietuva - poinformował premier Mindaugas Sinkevicius.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3JmVGdETllUVHNtRXJkbG14cDExNGVXT012Qnl2YVNhVUx5eWc3eUJNOEpULVh2TkVZTGhLTEowblgyaWZZd1FySUR5dDN3c0hNZ3FYaGRES20tTG1mX1Q5RXh2Y2dnYWZxcDViYUhTSm9Tb0hZZ3EzU3dETEZJaFBES2kzVGVuNGxZRF9Ebkd3T3BkVDhFN1hSS3V2TVNvMEE0Zm9lWTVuOXl6Y3U1ekFLREktQ3pPWHlLM3RvaWliZ1E?oc=5",
           "type": "press"
         }
       ],
@@ -3713,8 +3800,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-5b840330bc27c41801",
@@ -4293,6 +4380,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-08d2519f2b99c35b45",
+      "date": "2026-11-12",
+      "title": "„Nasza rewolucja” na wielkim ekranie. ORLEN wspiera promocję filmu",
+      "title_pl": "„Nasza rewolucja” na wielkim ekranie. ORLEN wspiera promocję filmu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzkzT05Ta3FDZHBMRUEzdXhGcUVPZkJfY004NXdQSzNDdHhEUlpTMmtpNzRycHM3THRVVTRmdTcyYUxCT0hYY1d5bXdwakNTdnd4SkRqbVhFTkhrVHI1QzdnSlVZMExJQlgzemVUTUdRVkpPOVZKV3JGUERlSFNhQ0pReHJ3UjFYOEdJdEpCNDlKTWVnUmxKYUF4ZkZKeElGM3RaTW5hZVpHZWlmSkM0cl9KeThhVVRpT0pLQ2ZvdmNOQ1lJbWxoZkRpc3luRW8?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
