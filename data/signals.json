@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-13T04:34:03+00:00",
+  "updated": "2026-11-13T05:36:08+00:00",
   "signals": [
+    {
+      "id": "src-d6dd99f649e59b4f8b",
+      "date": "2026-11-13",
+      "title": "Remont pracowni elektrycznej i transportu kolejowego oraz wykonanie platformy przyschodowej dla osób ze szczególnymi potrzebami na potrzeby projektu Profesjonalne pracownie 4 w Jastrzębiu-Zdroju",
+      "title_pl": "Remont pracowni elektrycznej i transportu kolejowego oraz wykonanie platformy przyschodowej dla osób ze szczególnymi potrzebami na potrzeby projektu Profesjonalne pracownie 4 w Jastrzębiu-Zdroju",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Jastrzębie-Zdrój",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4146-d75f-207d-c1c5-d50001941769",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ce04a7526020a895cc",
       "date": "2026-11-13",
@@ -26,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a52687ba627747230c",
+      "date": "2026-11-13",
+      "title": "Magazyn energii zasili jeden z największych stadionów w Europie",
+      "title_pl": "Magazyn energii zasili jeden z największych stadionów w Europie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmJIN29ESHpIX1lCOGRaVjl4LWlWVlBJRHFSZThBZUttdmE2WG9CTERYTjlRVEVrRjJ5YlpsWng4bW4zdDk1c2lPSjV4UDBUdXpSVUhSX196NXhiWmtJREl1UHBKSzhpVkpSV05vNzZ0S014eHB0dDlxRWhfRF9idExpY1JXWWNlcFVmWUtmLXBFUUUwdlNySDJfaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2115,6 +2173,7 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
+        "26",
         "27"
       ],
       "discoveryMethod": "google",
