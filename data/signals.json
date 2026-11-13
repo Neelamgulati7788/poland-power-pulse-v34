@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-13T06:37:49+00:00",
+  "updated": "2026-11-13T08:22:10+00:00",
   "signals": [
+    {
+      "id": "src-f02ceb521054d75d10",
+      "date": "2026-11-13",
+      "title": "Skąd Enea weźmie węgiel jeśli górnicy z Bogdanki(...) - Forum",
+      "title_pl": "Skąd Enea weźmie węgiel jeśli górnicy z Bogdanki(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1kyUlVINzNMM0RfWEE3cVNNTmphTUwtek9NVmk2WWhDcF92UjNYU2F2WHJMNUNQYkZFX2w5bXd5MXF1dEpKV3JzNTBiOFFOc2gxV1czRG1wLUxHMDhRN1hxZm1HaHZSNS1XeEJJb1cydnBkeV9wMzRXLTRwS3FIc3U0RjJBaVA1VFFUSWh5d3JyNVJYZUdvMlNIOGpCREYwR2tud0lIQ1VMWW5GZHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-d6dd99f649e59b4f8b",
       "date": "2026-11-13",
@@ -60,6 +89,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-bb06cd34facd0b2381",
+      "date": "2026-11-13",
+      "title": "MODERNIZACJA KOTŁOWNI GAZOWEJ ORAZ PRZEBUDOWA INSTALACJI CENTRALNEGO OGRZEWANIA W BUDYNKU OŚRODKA ZDROWIA W SĘKOWEJ",
+      "title_pl": "MODERNIZACJA KOTŁOWNI GAZOWEJ ORAZ PRZEBUDOWA INSTALACJI CENTRALNEGO OGRZEWANIA W BUDYNKU OŚRODKA ZDROWIA W SĘKOWEJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA SĘKOWA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df415e-dce7-fafe-c1c5-d5000194196c",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-a52687ba627747230c",
       "date": "2026-11-13",
       "title": "Magazyn energii zasili jeden z największych stadionów w Europie",
@@ -84,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9f264cb1bd48aaa9e4",
+      "date": "2026-11-13",
+      "title": "ENERGETYKA SFINANSUJE MROZENIE CEN PRADU",
+      "title_pl": "ENERGETYKA SFINANSUJE MROZENIE CEN PRADU",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVnBLR2dDRmgxaG1Xa1BVeUtzRDZPRjItLTNHSEdrZDk3RVIwMEpSUTRoc3pNb01VVjNQLWstOHFEVzNMM0loQThSeGZwMktVbUVDcXVZZURCSzd1NnVpaFVHd1J0RFV4SFZjeU9wSWk0RUs5Z1ltZld3SUdZTTBhSTN3a1FqSkJJTS1FLUU5Q0FSQjA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -116,6 +203,93 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-8619ef943fd78cc1dc",
+      "date": "2026-11-13",
+      "title": "Kryzys energetyczny potrwa długo, nawet po otwarciu(...) - Forum",
+      "title_pl": "Kryzys energetyczny potrwa długo, nawet po otwarciu(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0FJYk5QVlZ3ZUhia0gwZUtLVUQ2MXg1TGRNLVE3V1VZTUZBYzkzVllxWWFoZGVOWE9uS2pyRFh1QmFtM2tsVlhLQUhJRTZRdnRib3c4SEVPeUVtZXJsR2pNcFktZGlFbWtNUXNoWVF3NTZESTFOY0Zzd214ZjBPeC13Q3hEWDBGb0ZINFVkLXhPT2kxN2lNWnFwekl1cnlUZXItMWJ5ZUoxR3RBbi1pQWNtUjk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7f1349086566a65234",
+      "date": "2026-11-13",
+      "title": "Orlen zerwał pierwszy kontrakt z Katarem. Gaz i tak nie płynął, ale istniał też drugi powód",
+      "title_pl": "Orlen zerwał pierwszy kontrakt z Katarem. Gaz i tak nie płynął, ale istniał też drugi powód",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Na siłę wyższą nie ma rady 10 listopada Orlen poinformował o wypowiedzeniu jednej z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego (LNG) z QatarEnergy. Kontrakt obejmował milion ton LNG rocznie, czyli około 15,3 TWh gazu, i miał obowiązywać do 2034 roku. Szacowana wartość umowy…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122752-orlen-zerwal-kontrakt-z-katarem-istnial-tez-drugi-powod/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-669348ff048d56c49a",
+      "date": "2026-11-13",
+      "title": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "title_pl": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnRseTlBZ0txYTdncUdJc0dqT2Q5STRvdXpLVndLV0J4UWZoaHc1OUhvQU5reEpGS1h1SXZZRmpyRzg5bmxOcUdDWWstNExZOWdwRUs4dTZhWFQ5UGk1QmN4RlpEWFNJRmxPbFpISW9sS2Rud19XWW5feEo5Mm8tbUQ2ajdzeUdsQXo4ODhmTkpRSzRBTi1hNG5vWVNXaWFveXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3dc3979d77943c84b5",
@@ -232,6 +406,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-099a2621c85ec8721d",
+      "date": "2026-11-13",
+      "title": "Takiego magazynu energii w Europie jeszcze nie było. Niemcy przecierają szlaki",
+      "title_pl": "Takiego magazynu energii w Europie jeszcze nie było. Niemcy przecierają szlaki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3RuRUxDS0ttaHZMbnFmcGdoTG5hUEF2QnVGR01zRXZUQTZCeXc5MHhTRksxSjJFYkpzYURFcVg5bmttNkxKeW01XzRQSmYwLS04U0d2Mm9lX0JUOHJxODZ3eG4xc1NiZ0hEWDNvUDNPOWF5d2lJWHljZHBjSHBETk9qNTczMXRDeGJHbWtHNVNKNDFZRjNfSFJn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0853ab1872f67752d4",
+      "date": "2026-11-13",
+      "title": "Chiny przez katastrofę zwiększyły import węgla(...) - Forum",
+      "title_pl": "Chiny przez katastrofę zwiększyły import węgla(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnN1Qi1sU0JUSTQtRE5kTTlQajNxNHB2dzRka2NXN1g1WUwwT3A0UDl5OWpUWTJ2T1p5WnBzNlh2NzRpMldmWWlTZS01UUdza2ZQdkVkM09mdjQyRENJUzdSb2tKTVdTVjVPMTA1VzFGNnI1MVRyZ3doVEVsS28yMU9vaXNSb0VDS3piYTN6ejhiNHN4TmozbnNzNDNFVVdERDlzdmJxZmtucGRkRUthdkhhS1V1LUtO?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fd361cfc34d69dde38",
