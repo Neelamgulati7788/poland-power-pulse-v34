@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:55:07+00:00",
+  "updated": "2026-11-13T21:49:02+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -212,26 +212,26 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Norweski Sąd Najwyższy orzekł w piątek, że plany zagospodarowania i wydobycia ropy i gazu na części norweskiego szelfu zostały zatwierdzone niezgodnie z prawem. Państwo norweskie miało nie dochować wymaganych warunków w ocenach skutków wydobycia. Na objętych wyrokiem polach koncesje posiada polski Orlen.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-Norwegii-orzekl-iz-podstawy-prawne-eksploatacji-na-czesci-norweskiego-szelfu-sa-niewazne-9228518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFBEWlVGVFBvRS1BVWU5Ynp4VHFLUkRNVGo0SUhHMEE0TGUtQ09LUlczRXZrUmNtUnhDdlZfOVdMMkdrS3h2WjRseHJzWDdCZWFpRnJGdlZYSGU0Ym5ZNmVfbzVpMy1RaVVGdm5aRnJpck9RSkx1YVY1djJCdWtHTTZtRGlMM29nOFM3aDNrRGlIWTJqY3FqNy03dkxsTy1rUjI5NElGeHVsU3JJdmlwUGx1SFQ2eUFDb1FBcE5tZUE5MWtjOHBPendfYXY4MzdwWTN6RGFKMzF2VkJELUVGUEx3?oc=5",
           "type": "press"
         }
       ],
       "cos": [
-        "ORLEN"
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-edb81470e2bedb5b6e",
@@ -1337,6 +1337,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-82bda5c80aa8f18fde",
+      "date": "2026-11-13",
+      "title": "Usługa ochrony i monitoringu elektronicznego z dojazdem załóg interwencyjnych dla nieruchomości zajmowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w województwie opolskim",
+      "title_pl": "Usługa ochrony i monitoringu elektronicznego z dojazdem załóg interwencyjnych dla nieruchomości zajmowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w województwie opolskim",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA OPOLSKI ODDZIAŁ REGIONALNY",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41ce-fdb2-85e4-c1c5-d500019423e1",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-818a752a3d3b827586",
       "date": "2026-11-13",
       "title": "Panele PV. Polski dystrybutor oferuje: JA Solar, Gokin Solar, Aiko, Astronergy - ponad 20 MW na magazynie",
@@ -1866,11 +1895,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Orlen Litwa ma w obecnej sytuacji nadzwyczajne straty, a nie nadzwyczajne zyski - ocenił minister energii Miłosz Motyka, odnosząc się do zamiarów rządu litewskiego dotyczących nałożenia podatku windfall tax na firmy paliwowe, w tym na Orlen.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0dpY3AxS1RYR1lOX3ctLVFwOHM3bnpmODFXVGZOV09QR1RvX1B0dTMwUG8wdEpEQnJwOUdpZDZ1dW9hcTlNNERNUGVjRDkwSjV6RHByZUVsMkRwMS1EY0p6MEQzYzBUYVF4UndnQzFBclRoNlNXc3VfWS1XY2l5NDlRMG5RZVVWVHhoSHB1UTNBc0tZc2hDZmtyN1dmTUY4R0xCd1hLQWhKc1NudEhCUGRHOHQwdVhOdzByWlZ5TGNZWXlxVVU3cFZLal9rVjZB?oc=5",
           "type": "press"
         }
       ],
@@ -1884,8 +1913,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3dc3979d77943c84b5",
@@ -2666,6 +2695,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-043694009b2c34bbc1",
+      "date": "2026-11-13",
+      "title": "Orlen Lietuva ma nadzwyczajne straty, a nie zyski - minister Motyka o windfall tax na Litwie",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3JycXQ3ZFg5YnRlVHR6NVhoZ2tSVDFWcmRsRVgzekFtLXM5bE81V1ZrdGVIUmN1X1VJNDd4Rm13UkFSYmdLcmxQUGVmMmNSbDlsNldUUmNFOE1PeG55czRZdmZlWlk4THZHX1V0ZUlVUkRvZjk4X1FmNWNYamZfT2gtSmRaN2RUQjBnV3NBcGlBSlZGQ0J6Y3BoQUt0eXRNOHM3QnBMTFBZNW42YTc3YkZRN0RwR1N3eFYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
