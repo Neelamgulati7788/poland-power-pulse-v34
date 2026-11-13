@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:55:50+00:00",
+  "updated": "2026-11-13T20:55:07+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -1076,6 +1076,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-985cf019930666c7c4",
+      "date": "2026-11-13",
+      "title": "Kompleksowa termomodernizacja budynku PSP w Strzelcach Małych w ramach programu „Wymiana źródeł ciepła i poprawa efektywności energetycznej szkół",
+      "title_pl": "Kompleksowa termomodernizacja budynku PSP w Strzelcach Małych w ramach programu „Wymiana źródeł ciepła i poprawa efektywności energetycznej szkół",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA MASŁOWICE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41c3-a44e-29cd-c1c5-d500019423ca",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-98228857e846f0f00d",
       "date": "2026-11-13",
       "title": "Montaż paneli konstrukcji na farmach fotowoltaicznych",
@@ -1915,6 +1944,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3bf0076fac7a040941",
+      "date": "2026-11-13",
+      "title": "Dostawa i montaż instalacji fotowoltaicznej na dachu budynku Warsztatów oraz magazynu energii w budynku Internatu CEZiB w ramach zadania: Rozwój OZE wraz z budową magazynów energii [...]",
+      "title_pl": "Dostawa i montaż instalacji fotowoltaicznej na dachu budynku Warsztatów oraz magazynu energii w budynku Internatu CEZiB w ramach zadania: Rozwój OZE wraz z budową magazynów energii [...]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Gorzów Wlkp.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df41c5-5ef3-b90e-c1c5-d500019423d5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-3bbfb868b99dc6352e",
