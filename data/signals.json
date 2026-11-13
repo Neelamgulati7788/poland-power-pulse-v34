@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:51:43+00:00",
+  "updated": "2026-11-13T16:56:26+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -379,6 +379,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d080c99c3ed6eaeaf0",
+      "date": "2026-11-13",
+      "title": "Kto kupmu robi łaskę ?... Posiadacz węgla odbiorcy,(...) - Forum",
+      "title_pl": "Kto kupmu robi łaskę ?... Posiadacz węgla odbiorcy,(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT01WSm8xTWIxN3hHSklEWWNRaE5yYkU3ODdKQUd1N19DMG5rd29ITnhJakI0UU1GRjNaYlFNVmJMUTZoLVAwcld0UU83OWF2U3J0RUh4NGdydkRmSzcwanlLaWI5YThqdktvWWUzTV9lbVMtZ0NKelRMMHlWeUswMDlPTERROG5VTTB0RjcySXczRWx5SGQyVkc3UG13Qkw0ODl4amFha1NIS0di?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ce04a7526020a895cc",
       "date": "2026-11-13",
       "title": "USA promują SMR'y na Kaukazie i w Azji Centralnej",
@@ -406,6 +435,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c810ca0795f5ebaed3",
+      "date": "2026-11-13",
+      "title": "Rekord hossy ale bez fajerwerków. KGHM i Orlen znów najmocniej ciążą WIG20",
+      "title_pl": "Rekord hossy ale bez fajerwerków. KGHM i Orlen znów najmocniej ciążą WIG20",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Piątkowa sesja na Giełdzie Papierów Wartościowych w przyniosła nowe rekordy hossy. Choć za oceanem nastroje psuła wyprzedaż spółek technologicznych wywołana trzęsieniem ziemi w Nvidii oraz wysokim odczytem inflacji producenckiej, indeksy WIG i WIG20 ustanowiły w trakcie dnia nowe historyczne szczyty. Wzrostom przy Książęcej przewodził sektor…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rekord-hossy-ale-bez-fajerwerkow-KGHM-i-Orlen-znow-najmocniej-ciaza-WIG20-9228614.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-bf7af1dee4dda89a6a",
@@ -493,6 +551,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b442c5fddadf93a44a",
+      "date": "2026-11-13",
+      "title": "Microsoft: dalsze postępy w przywracaniu dostępności usług, w tym poczty elektronicznej",
+      "title_pl": "Microsoft: dalsze postępy w przywracaniu dostępności usług, w tym poczty elektronicznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0N5bExlMFFsOGUxYzVMUEJPWWlfbU12M1hwdVMzbDJ1RzQtblFWQ0N6cVZuNHRXa0NCcjVGd2hkc3VOTUhZOXFEb0JodWhNcDdlQWlSZnVUaGktRUl4el83QWEwRVM1a0RzMGxtOUVCcndheTdkWUNRbjVpcC1hWWI4endTRElrT3NqR1Y3V1NGZ1VTOElnMnpuYlhXRmtnNVhHM3A3bmJKVnpadFJEdUhkUUV4RVFVRzg3dVBYaGM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b28fa50d15bb64eff0",
@@ -728,6 +815,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-9bc7bd83aa18a84b9b",
+      "date": "2026-11-13",
+      "title": "Farma fotowoltaiczna na sprzedaż – 1,21 MW, Mrągowo",
+      "title_pl": "Farma fotowoltaiczna na sprzedaż – 1,21 MW, Mrągowo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUC1feE5JbGxFV1UwNjVLM2NOM0ZBdzU1QkN2aFBsamt6SmotcG1leHJMaVo3WGhlTk12UU4xYWRwUThLbVlXeHpKVkNKQVNRenpWUFRpSDVqZ0FSNTFDSGtVQWY4d3NyTzFtRzFOVkY4VjR6MklpbEppaXpfMkVnMFY0eU1fUkVpQjVkSjRIb2ctWEd0a21YajFhNHkyV0twZUVmV1lOQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9a122b3ef7812a3487",
       "date": "2026-11-13",
       "title": "Wydzierżawimy działki pod BESS",
@@ -955,6 +1071,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-818a752a3d3b827586",
+      "date": "2026-11-13",
+      "title": "Panele PV. Polski dystrybutor oferuje: JA Solar, Gokin Solar, Aiko, Astronergy - ponad 20 MW na magazynie",
+      "title_pl": "Panele PV. Polski dystrybutor oferuje: JA Solar, Gokin Solar, Aiko, Astronergy - ponad 20 MW na magazynie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdzRUUVpudm4wd1AyZWtENW41R0hlZ1Y0ZExtQWYtRTc5THVmRF84VThvcnJNcnVyaEhDdE1tdWFBRFpQSmt3cFRiVE01QzVaUnkzS0xocUtlM0JhTUZUdEM0SVlBQk8zM243YUlkcXA3eFZnM2Nfc1NmdWMzbmpvbURUS21EM3dMTEw5eXRCUUk4Ul9kcFBpeXlEUnhNcE1ETWVNMndyVzlUNEFxSWtqSmZPNVY3QkxtQnpMcnc4Y2FUd0NVYW9lT21UdEFyUzVCdkg1SmEwbXhNbzVrYUFxVVpnc0g1UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1656,6 +1801,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-300d63565fee3e66b5",
+      "date": "2026-11-13",
+      "title": "UE luzuje śrubę przemysłowi. 121 mln darmowych uprawnień ETS ma uchronić firmy przed ucieczką z Europy",
+      "title_pl": "UE luzuje śrubę przemysłowi. 121 mln darmowych uprawnień ETS ma uchronić firmy przed ucieczką z Europy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Unijni prawodawcy osiągnęli porozumienie w sprawie zwiększenia liczby darmowych uprawnień ETS dla przemysłu. Ta poduszka bezpieczeństwa liczy w sumie 121 mln dodatkowych uprawnień do emitowania dwutlenku węgla, co może oznaczać ponad 10 mld euro oszczędności dla europejskiego przemysłu.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/UE-luzuje-srube-przemyslowi-121-mln-darmowych-uprawnien-ETS-ma-uchronic-firmy-przed-ucieczka-z-Europy-9228593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-2b7e687110da3f3c5b",
       "date": "2026-11-13",
       "title": "DZIEŃ NA GPW: Zniżkuje większość głównych indeksów; w WIG20 przewaga spadków, ale zyskuje Orlen",
@@ -1685,6 +1859,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2b4a0ead7a5f44e203",
+      "date": "2026-11-13",
+      "title": "To jedna z kluczowych strat w fotowoltaice. Naukowcy mają na nią sposób",
+      "title_pl": "To jedna z kluczowych strat w fotowoltaice. Naukowcy mają na nią sposób",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWm1LYTJ1eXZ4U3M4cXZ3eEE2WnBRdnhLOFY1eURHREpTQXV2eWZkSThmLWFTQVVBOGRlMGpTWHFKNElkSXFlZ1duUWMxYWh4LTcwaHoxa05kcE5CeTljRndqNmRqb1d1b2k4X1ctejZsNjhkaE9VbGppc3BOdXZwaVZmYkFNblVtQ3BN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-28fa24a23443fed088",
       "date": "2026-11-13",
       "title": "Re: 2027 - surowce +23% w górę, energetyczne +32%",
@@ -1696,7 +1899,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2tOZzAtTTQwekFySEpVREJJd29JZDlxaW1rZTRVVjZ2emNvak9WcENtR2NrUEJhUzFyU3c2dmtKdnBLd254alY0TUtpbnAxeDVjT0cwM1UySE5zdnoxb1gzclNzSnRFWFFJa2xWSUMtN1JWeV8tUlpJTEM5eHZNYkg0X2hDODFuTHhKSW1iTFVaTFlC?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFI3eFRxSEZZYU5ESUN2MVJaWl8xLWFZOTVSYlZtSE9DR0E3UGxjbVJkMGhuWG45bFRtQlJQV1l4Tm1rMUFUMkhWeXR0Wk1zdUNkOHlmZ3hkcGd2QzEzaW5La3dRczV3MkN3Q19OT2JzelctZklORWNfbGRKRmU3cTR1UHNQTHFzcUN2Z0tveS1taUNU?oc=5",
           "type": "press"
         }
       ],
@@ -1859,6 +2062,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-1c45a1f0a6ed5d8e13",
+      "date": "2026-11-13",
+      "title": "Notowania Orlenu puszczono o 16.58 i 50 sekund",
+      "title_pl": "Notowania Orlenu puszczono o 16.58 i 50 sekund",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzQxT21PWDVDNVAzN0JSbGMwcHJQRFFlTXNCOTJhVzZKQjE0aDVmaVEyb2pVOEZOMUVKVjhjZUVmVjlkajJsUFBqald0ZkZPM1c5WEJtdVpqdncwX0lPM2hWbDgzUlBIM3dhSnpwdElQSjh3T21oMm1hT0wyeHYyTTI0U05kNnpwUE05YXVfY05QS0VwZVRqWWpwOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1aa83c7ae225811082",
       "date": "2026-11-13",
       "title": "Rządowy projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.",
@@ -1986,7 +2218,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnN1Qi1sU0JUSTQtRE5kTTlQajNxNHB2dzRka2NXN1g1WUwwT3A0UDl5OWpUWTJ2T1p5WnBzNlh2NzRpMldmWWlTZS01UUdza2ZQdkVkM09mdjQyRENJUzdSb2tKTVdTVjVPMTA1VzFGNnI1MVRyZ3doVEVsS28yMU9vaXNSb0VDS3piYTN6ejhiNHN4TmozbnNzNDNFVVdERDlzdmJxZmtucGRkRUthdkhhS1V1LUtO?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnB0UTFrcTFYaHVxNDk4Y0NVY2pkcUNOSzFjZTBzX3NVUlBiVUtFc1MwR1hrRk0zTHhVVnBfRlcwYjZhNWxSeGgtRFYyOWdFdGFVelk5MEpVcDBlZmkxQ0E0aE9ZU2lxc042V2VHR3lyVXBmcV84cmdYbG43OF9kd2JsT1RiSk9JaXhxOHhiZmVUbDlQejlScHdURnZtUm15YVBCMU42VjhyTUtqMHdKNmFnbExrWGw2?oc=5",
           "type": "press"
         }
       ],
@@ -2072,7 +2304,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTFjRllqNGV4RUlTaW41SFdDeFhCU29XUXBhSld5WVlVMzFFaEV4M0lDRm83VWc1bmNlemVqNE9hVFRTMWRCQV9UcHVkeW5Tb2htdTlDMFpvSm1ETVlIcmtCVDR3aDBsZVc3LV9hLV9YTFluVmNWcHQzZWFvcVRiQk0yZmxZd1M2QzFnLVZsZlh3ZTJTZzhWVFBxZVNHV0Q4T29mNnNwRTl1ZWNxNTh1c1ZXdTdtU1c0WWFxQmtSekpHY3c?oc=5",
           "type": "press"
         }
@@ -2080,7 +2312,7 @@
       "cos": [
         "ORLEN"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
