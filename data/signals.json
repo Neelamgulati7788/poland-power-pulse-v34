@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:41:33+00:00",
+  "updated": "2026-11-14T12:51:32+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -38,11 +38,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Prezydent USA Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom. Wśród tematów rozmowy ma być m. in. redukcja zbrojeń nuklearnych. Trump nie zamierza poruszać tematu…",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTZkNTd3MUwzeVluNmpvaTZSdlp5b2NtRzliYkZiY0p5UzVvb3FqMWY1bXlROTdGSTlncGJaTlF2Mnd6dnpCWlMtbXRlOFk0Sm02SmVGOENZU0EtVENMZWE0RGJOS09SakRtVTNXajFnVExuY0VvY25VbkNJMDJic21jUGpmS1NPRDNuUEtGazZiY2hJMmJpQ1JqRmZxUXo1ZTcyVkotZlJGdkROUnV4WmFoMVJERmM1Y2pSWlRVYjBxMHdM?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Historyczne-spotkanie-Trumpa-Putina-i-Xi-Glownym-tematem-redukcja-broni-jadrowej-9228850.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e3658edc6dc47a2a30",
+      "date": "2026-11-14",
+      "title": "Założył pompę ciepła, właśnie dostał rachunek. Tyle kosztuje go ogrzewanie",
+      "title_pl": "Założył pompę ciepła, właśnie dostał rachunek. Tyle kosztuje go ogrzewanie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVQ5Y0QzY1I1ZUl1bTlXRG9JUWNUVTcyS2k3VEZFUjJjUmJaOUUxbTcxaHlBMzd0bXI1MVR3NS1MemE1TUxydjNFMmppalFmRXM3WUZrNGpzRVhmeTktcG9XUlZ2YVk5cDRlMDJ3SmhvczBXOHN1NTVHb2lVSTUyVUxEMnIyT0IyVThWRjFUSmRJLW9rdk1kSmpqb2Z5UGJtWmloSG5yc2lfenRZNEc5aGRn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -390,7 +419,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORkIxa090c2pQa2paVXVkYmktOEdsNVdINHI3eThWOWRmeXR5dC00WUh3QVdYR0RVTlBNOFNiYkdlaDJfUDVnS0JVcE9xRTd6NEdrajJabGhCem44UDRDb3Y2YTR6WFZucC1aQzZtUndRejB4ajdvZk01bkQ4UExZV2U0QUo2VG9pSjlJc0FqejlDS0RleDRUSmEzNE9fR3RQT1RlUGxobHZkdDZKTDQ4czVEc0p5Ym5jdFN4aTVnQ1AwQTQ0dnpMb1BJYWNoMEFwZG94NWZoUHFWUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHlpYjNOTEswUmZQNVBRWlo2Y3VEcXl3NFRWNTQ1NzJ4TWkzbW1fTWtjUmUwSWJsX3QzZ21CNVlpYXNPNTExdGFLMXh6UFdNRFBWOGRiZ1NRSFpxYUJUcDI1SmQ4am5RMXhieGNwcUZRN1RqOUdxdmJqWDR4dTJYZkwxM3FBR1RMY1A1bklJUHVKMFJCMlJwMG1qLXQwd3djMG1tUnZ2dGdmWkFZVTV6RmVCUUd6Q0RIZ3RBZ0YzU1FNTlI1T2NVby1JVTd1aEFieXg2WGE5Y0w2dw?oc=5",
           "type": "press"
         }
       ],
@@ -398,7 +427,7 @@
         "TAURON"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://oze.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
