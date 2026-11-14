@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:38:57+00:00",
+  "updated": "2026-11-14T18:44:56+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "52"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f676117f0d754ea4cd",
+      "date": "2026-11-14",
+      "title": "ONDE z kontraktami na budowę dwóch farm wiatrowych na Litwie o wartości 17,8 mln EUR",
+      "title_pl": "ONDE z kontraktami na budowę dwóch farm wiatrowych na Litwie o wartości 17,8 mln EUR",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDE3VlNvRXNkLW5NTTBrd0Y1cmVpMjZFWjhSTnFQbWdLcDNMNXZqejVIZUZQU1FaR3lsSkxrbmpHbXBOTS1BWVA3RkNjbmJablV0c3ZGa3dFX1BfYUZVVlpRRlVnaXUxTnFSMU9DSXE2UjNvQXdMN3JtWFZyVGdsVXV2bWFGT2JFV1NoRUFHeTBzOG5CeWsyc3VXWmYtVE5pbmlkMExYeDRUTjBxRm9uTk5IdnNMdFhUVVRWVmpqZERITGczdU1fZUdfelhZcl9rbUtXVHVlQ3N5d1lOOTNrd2dGbXdibjQ2U2Y5LQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-wiatrowa.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -58,6 +87,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f059c431653d2d8adb",
+      "date": "2026-11-14",
+      "title": "Prawie 600 odmów dla turbin wiatrowych do połowy 2026 r. Energetyka szuka kompromisu z armią",
+      "title_pl": "Prawie 600 odmów dla turbin wiatrowych do połowy 2026 r. Energetyka szuka kompromisu z armią",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0ZTcVRJNnlTU0NNU21zTE1faDBNU2xUZVlFQUE5OUJkRVRGeGFYeVY5RExONzlzUXY0R3kxOWpmbE9RZnFCMGhfQWt1UlhDOWIxbHdoT09nTHMycm9QWkF2T1NVUHhmZnZZdGRmX3p3LXo1OWlUV19xNHNiNHRGQXZ0T1ZKQTBLWGFVeklvX2J4ejdUWGxXZEhkeWlvT2JBVmJqZlZLd3g4cEM0X1VzN0pMMzdwMDRWU2NmVkg1LUtKQktVRTJUWWRWUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e3658edc6dc47a2a30",
@@ -901,6 +959,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e4e03f3f7865f86cf0",
+      "date": "2026-11-13",
+      "title": "Projekt RTB 0,5 MW Dolnośląskie, powiat bolesławiecki",
+      "title_pl": "Projekt RTB 0,5 MW Dolnośląskie, powiat bolesławiecki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHJBQ09SMF85ejBnTUZBRURNLWV5d0E1WXNsUzNwYU80SlBLY0VpbXp5ODlFQVVjNzBfUFpVWHNLaDhRS29GTEo1dTV5eW5MMDNnNDdkYVd0TnExeE1DMHltOXo3WkxwVFBnaFpINzNLYWxmQmZPeWhCaUIzSk1LUFpQb1ZhQW1lZkd5Sm5zOXpXVUxTcU1WYURiR3d2SGh3VlhyV3drQXFwUVRB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-db44940236eb269a1f",
       "date": "2026-11-13",
       "title": "Gazowiec wpłynął na minę w cieśninie Ormuz. Iran rozgrywa wojnę informacyjną",
@@ -1042,6 +1129,35 @@
       "sourceIds": [
         "18",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d546199050f8ce4fbc",
+      "date": "2026-11-13",
+      "title": "Polacy największymi w Europie zwolennikami rozwoju arsenału jądrowego",
+      "title_pl": "Polacy największymi w Europie zwolennikami rozwoju arsenału jądrowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWtnZ1lKcFV0eWVyMGRlaFB4ZTRpVDJ2NGhUQUZJU3pSakRLSmxZemlQNVk4YkVXeHFaTHZaRVB6ajNkZ3pKUFc4RUxialhGYWFHYVlRUjhSTEEtVlpXbWdlTDlqVzRzdFVfdG1GSTlhbVZNMHFXNEJ6bmx4RU9CYkIySGNWZnpaZXQ0bW44cUU5SF8xbzlTX3Q2YUJTYlhrdkZ6WS1jMGppdGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4698,6 +4814,35 @@
       "sourceIds": [
         "23",
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a5cacd319729e574f5",
+      "date": "2026-11-12",
+      "title": "SOLAR INNOVATION SA (11/2026) Raport kwartalny za III kwartał",
+      "title_pl": "SOLAR INNOVATION SA (11/2026) Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTBIV2hRZVFZQ285Tks2cS05OHVESnZ1QjlqVHkxN2ZsMnFVbkJNbjk1RlRCN1l2SkRxNjRQOGhKTFBlLU5HZEVrdnhDZGs5ZTBFSjlHZE9ibnhqaXRhTHRBWDNXUWlpODhzR0hZR3BuOFBKdmtKRGY4c190dmtBaW5mSGxGU0VKcWdaaXFyQnQydjk0M0FrQnh2WGZPQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
