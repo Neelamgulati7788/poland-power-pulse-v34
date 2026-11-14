@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-14T08:02:07+00:00",
+  "updated": "2026-11-14T08:52:22+00:00",
   "signals": [
+    {
+      "id": "src-f8933e294394a50164",
+      "date": "2026-11-14",
+      "title": "Kobiecy futbol nabiera energii. Energa partnerem projektu Energa Lejdis Ceramik Łubiana",
+      "title_pl": "Kobiecy futbol nabiera energii. Energa partnerem projektu Energa Lejdis Ceramik Łubiana",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmk3TVByRlpodFlPMm1zaERLMXNFX3l5VDFVVEhYOGs2ZjhscTBaWlRqWFlCNmJmRTkxNW1SbU1WU2VZdWEyVFIySTMzZnhGY0U4dUVlWUtHUEtITFpVckZTczJFQ1U2eTB1OXVseUc3ODg2YUxEUEc3VlRGaWhWRlNCNTB5QXFoSHVMX3BTX0otaHhGOWZEclBLQlE4WGRfYnFtWlR6UktVd19JQVhKVWM1Q2ZaVExIMzhyVg?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "Energa",
+      "publisherUrl": "https://media.energa.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "52"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f3dbc33ce659868c74",
+      "date": "2026-11-14",
+      "title": "Historyczne spotkanie Trumpa, Putina i Xi. Głównym tematem redukcja broni jądrowej",
+      "title_pl": "Historyczne spotkanie Trumpa, Putina i Xi. Głównym tematem redukcja broni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTZkNTd3MUwzeVluNmpvaTZSdlp5b2NtRzliYkZiY0p5UzVvb3FqMWY1bXlROTdGSTlncGJaTlF2Mnd6dnpCWlMtbXRlOFk0Sm02SmVGOENZU0EtVENMZWE0RGJOS09SakRtVTNXajFnVExuY0VvY25VbkNJMDJic21jUGpmS1NPRDNuUEtGazZiY2hJMmJpQ1JqRmZxUXo1ZTcyVkotZlJGdkROUnV4WmFoMVJERmM1Y2pSWlRVYjBxMHdM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-c81a73f79074d18edf",
       "date": "2026-11-14",
@@ -415,26 +473,26 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Norweski Sąd Najwyższy orzekł w piątek, że plany zagospodarowania i wydobycia ropy i gazu na części norweskiego szelfu zostały zatwierdzone niezgodnie z prawem. Państwo norweskie miało nie dochować wymaganych warunków w ocenach skutków wydobycia. Na objętych wyrokiem polach koncesje posiada polski Orlen.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFBEWlVGVFBvRS1BVWU5Ynp4VHFLUkRNVGo0SUhHMEE0TGUtQ09LUlczRXZrUmNtUnhDdlZfOVdMMkdrS3h2WjRseHJzWDdCZWFpRnJGdlZYSGU0Ym5ZNmVfbzVpMy1RaVVGdm5aRnJpck9RSkx1YVY1djJCdWtHTTZtRGlMM29nOFM3aDNrRGlIWTJqY3FqNy03dkxsTy1rUjI5NElGeHVsU3JJdmlwUGx1SFQ2eUFDb1FBcE5tZUE5MWtjOHBPendfYXY4MzdwWTN6RGFKMzF2VkJELUVGUEx3?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-Norwegii-orzekl-iz-podstawy-prawne-eksploatacji-na-czesci-norweskiego-szelfu-sa-niewazne-9228518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
       "cos": [
-        "ALL"
+        "ORLEN"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-edb81470e2bedb5b6e",
@@ -5308,6 +5366,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2bc3077bd9a7a19dd1",
+      "date": "2026-11-12",
+      "title": "Takiego magazynu energii w Europie jeszcze nie było. Niemcy przecierają szlaki",
+      "title_pl": "Takiego magazynu energii w Europie jeszcze nie było. Niemcy przecierają szlaki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3RuRUxDS0ttaHZMbnFmcGdoTG5hUEF2QnVGR01zRXZUQTZCeXc5MHhTRksxSjJFYkpzYURFcVg5bmttNkxKeW01XzRQSmYwLS04U0d2Mm9lX0JUOHJxODZ3eG4xc1NiZ0hEWDNvUDNPOWF5d2lJWHljZHBjSHBETk9qNTczMXRDeGJHbWtHNVNKNDFZRjNfSFJn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
