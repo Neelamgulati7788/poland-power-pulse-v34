@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:51:32+00:00",
+  "updated": "2026-11-14T13:53:18+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -379,6 +379,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7b6737ef3824112204",
+      "date": "2026-11-14",
+      "title": "Energetyka, przemysł i handel z potencjałem. Ekspert ocenia perspektywy GPW",
+      "title_pl": "Energetyka, przemysł i handel z potencjałem. Ekspert ocenia perspektywy GPW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXZtNzUtVkI2RTZ3OS1NT200RVQ2WTJ4ZXc4dkp4VUViZU9XVHE4SlZMVVdRZG1PZFV6QWJ5MUJFcmtBUHRnTER6VUs4WVFYQ2paVUFuWTRPYzhQUHpSblBMaDNXNmhLUVFsYXBGNFJyZFlGTXh2d3RtMnFFVnZnTy1TaWJuNTNFNTQxRlpYVnQ1NkM4cWpHMGZDOGxkTXFXU0FxR2xHUDg3LUdqS2tRaTZiTnJySXFaeDlZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-67a51a4b2b889a5899",
       "date": "2026-11-14",
       "title": "Rozbili gang złodziei miedzi z farm PV. Ukradli 500 km kabli",
@@ -406,6 +435,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-53c639b6e6257b7655",
+      "date": "2026-11-14",
+      "title": "Mercedes CLA EQ 350 z większym zasięgiem od benzynowego brata",
+      "title_pl": "Mercedes CLA EQ 350 z większym zasięgiem od benzynowego brata",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jeszcze niedawno przejechanie elektrycznym Mercedesem z Jeleniej Góry do Warszawy wymagało dwóch postojów na ładowanie. Tak było w styczniu 2022 roku, gdy testowaliśmy EQA. Przy temperaturze w okolicach zera samochód zużywał na całej trasie średnio 26,3 kWh/100 km, a na samej drodze ekspresowej ponad 30…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122769-mercedes-cla-eq-350-z-wiekszym-zasiegiem-od-benzynowego-brata/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-34cc8e7264366b706c",
@@ -448,7 +506,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZVVOWUhscnoxVURtXy1PRE9uYmlYc1pXRHhIYnhQLWx1WTgyOG1oVFRETUYwbGpobzdZVEd0b0s2b1dnenhxZEZ3dDRiQUg4cy1oYWhyWGNkeEItVjAwVjdjMF9OZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XazBQSXR4cnN0bDAyYXlVQW5lazltTnBESTJLTzFNU1RyTWhoelhuNHJlSExkdzFFOEpscExlVjBKMVJBbmd6QVR1aUlDT2d0UV9ycm9uSmVoS3kwZlJOWGk2T3hmdw?oc=5",
           "type": "press"
         }
       ],
