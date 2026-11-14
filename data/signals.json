@@ -1,6 +1,122 @@
 {
-  "updated": "2026-11-14T04:54:39+00:00",
+  "updated": "2026-11-14T05:52:30+00:00",
   "signals": [
+    {
+      "id": "src-c2ad3d54274a8df81c",
+      "date": "2026-11-14",
+      "title": "Gospodarka hamuje, upadek szefa Nvidii, a cena Drwala zamrożona",
+      "title_pl": "Gospodarka hamuje, upadek szefa Nvidii, a cena Drwala zamrożona",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Cześć, tu Inwestor Wojtek. Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu. W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Gospodarka-hamuje-upadek-szefa-Nvidii-a-cena-Drwala-zamrozona-Tydzien-na-wykresach-9228305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b40a337759ca5650b7",
+      "date": "2026-11-14",
+      "title": "Orlen wypowiada umowę QatarEnergy na LNG i staje przed widmem podatku na Litwie. Kanadyjski SMR pod znakiem zapytania",
+      "title_pl": "Orlen wypowiada umowę QatarEnergy na LNG i staje przed widmem podatku na Litwie. Kanadyjski SMR pod znakiem zapytania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNN1JMakFqZXRoZUdpc1FHSUEyMUkyQTJ3TVk3TUNHTmFaVlY2OXdnOEEyZVAwM0ZuLXRQV0ZDQVVUWkpCM09KUk1pSjB6QUo3ZWhicTI0VmMyUTFvRDJURnU2TVZrZG9vMmk4ODE5YzBUNGs2ODktZk1TeUpKYXhzZ0wzcjFTNUF0NGdsN1h4RXNWdEphUUY2cG5KM3RwdXhZWkpqOHJ5VnRmVHEtQkFiUjVRYmIyYmFzbkJocUVTbUR5b1dQY2R2WDA3ejZ6bnNTdUdGeHRtU0Z2a01LSG5PMC1XMExTdGlVRHljdE43Q2wxWUEzelRFdGFkR2xnbTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7f403c2019a7d8a700",
+      "date": "2026-11-14",
+      "title": "Gdynia school and Siemens Gamesa train offshore wind technicians from first year",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "A Gdynia technical school runs Poland's first Siemens Gamesa sponsored class, giving electrical technician students six months on offshore projects before their final exams. The post Gdynia school and Siemens Gamesa train offshore wind technicians from first year appeared first on Baltic Wind .",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/gdynia-school-and-siemens-gamesa-train-offshore-wind-technicians-from-first-year/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-342ddd06c19a0ef36a",
+      "date": "2026-11-14",
+      "title": "Re: pge - Forum",
+      "title_pl": "Re: pge - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XazBQSXR4cnN0bDAyYXlVQW5lazltTnBESTJLTzFNU1RyTWhoelhuNHJlSExkdzFFOEpscExlVjBKMVJBbmd6QVR1aUlDT2d0UV9ycm9uSmVoS3kwZlJOWGk2T3hmdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fe884f24476da1ed5b",
       "date": "2026-11-13",
@@ -212,26 +328,26 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Norweski Sąd Najwyższy orzekł w piątek, że plany zagospodarowania i wydobycia ropy i gazu na części norweskiego szelfu zostały zatwierdzone niezgodnie z prawem. Państwo norweskie miało nie dochować wymaganych warunków w ocenach skutków wydobycia. Na objętych wyrokiem polach koncesje posiada polski Orlen.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-Norwegii-orzekl-iz-podstawy-prawne-eksploatacji-na-czesci-norweskiego-szelfu-sa-niewazne-9228518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFBEWlVGVFBvRS1BVWU5Ynp4VHFLUkRNVGo0SUhHMEE0TGUtQ09LUlczRXZrUmNtUnhDdlZfOVdMMkdrS3h2WjRseHJzWDdCZWFpRnJGdlZYSGU0Ym5ZNmVfbzVpMy1RaVVGdm5aRnJpck9RSkx1YVY1djJCdWtHTTZtRGlMM29nOFM3aDNrRGlIWTJqY3FqNy03dkxsTy1rUjI5NElGeHVsU3JJdmlwUGx1SFQ2eUFDb1FBcE5tZUE5MWtjOHBPendfYXY4MzdwWTN6RGFKMzF2VkJELUVGUEx3?oc=5",
           "type": "press"
         }
       ],
       "cos": [
-        "ORLEN"
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-edb81470e2bedb5b6e",
@@ -2063,6 +2179,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-46af8b964054d67d36",
+      "date": "2026-11-13",
+      "title": "Re: ENERGYLANDIĄ - umowa.",
+      "title_pl": "Re: ENERGYLANDIĄ - umowa.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GbWlJQjlpTzJnbThJMTJCSk5OZmNlZ3pNeUZyM3R4NjBXLVA1Zko0OGwtWVJodE40NEotemNiTXhkd2QzdXpQN0g2UWE5VkdkQlZGRzRQdHNvVm9FejNmNE5RVXlvLWhYMmNUbXE4THJ5cVZWVklHV2VR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-458ac9a04d4c4b6553",
       "date": "2026-11-13",
       "title": "Strona 2602 z 2602 - Wiadomości z rynku energii odnawialnej",
@@ -2409,6 +2554,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2efcd0b06ca2d522ee",
+      "date": "2026-11-13",
+      "title": "Nowy rekord morskich wiatraków Orlenu. Takiej mocy nie wytworzyły jeszcze nigdy",
+      "title_pl": "Nowy rekord morskich wiatraków Orlenu. Takiej mocy nie wytworzyły jeszcze nigdy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVXItakJ0SXB2a0xKemhtbVFkQ2t6VGZ0bEZ2d1hkZElrd013aUZVSnhJbUtzWHpTYWNOU1NCbDRiQXluQnFUTFotRTA0WjducDhhR1ZQaW03NVg1ZmFDM1Aya0ViaGVpcXlXSzg0ZzVBWV9pVzdPb19yNjhYZl9GSFQwY2pzWkptaGtCalVIU3BqVThqWkdiTTk1VU1ZTEdvdy1XVF9kcTVTM3dvaC01WnN0dTZRVHhITWdZYW5FamhUWE0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2b7e687110da3f3c5b",
