@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:44:25+00:00",
+  "updated": "2026-11-14T15:41:18+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -522,6 +522,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1ab67c4466360d1ac0",
+      "date": "2026-11-14",
+      "title": "Mercedes CLA EQ 350 zaimponował w teście",
+      "title_pl": "Mercedes CLA EQ 350 zaimponował w teście",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Jeszcze niedawno przejechanie elektrycznym Mercedesem z Jeleniej Góry do Warszawy wymagało dwóch postojów na ładowanie. Tak było w styczniu 2022 roku, gdy testowaliśmy EQA. Przy temperaturze w okolicach zera samochód zużywał na całej trasie średnio 26,3 kWh/100 km, a na samej drodze ekspresowej ponad 30…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122769-mercedes-cla-eq-350-z-wiekszym-zasiegiem-od-benzynowego-brata/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-fe884f24476da1ed5b",
@@ -2145,6 +2174,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-709c2c7d8cfa77669d",
+      "date": "2026-11-13",
+      "title": "Elektromonter/Elektromonterka sieci/Pomocnik/Pomocniczka Elektromontera/Elektromonterki, ORLEN S.A., Słupca",
+      "title_pl": "Elektromonter/Elektromonterka sieci/Pomocnik/Pomocniczka Elektromontera/Elektromonterki, ORLEN S.A., Słupca",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2ZMZ3hTalZPeEplSGoxZERoMWVIbUFQeFVSd284WlVFMXFRT1dQczZkNUIzMXh1dTNLSzRlLVRxdFlGa3FLNGRuc2dJcWlLdXdubHZMYmllNnEtT2pYVTVmTVFleEpDVGQ2WDgycnh4Y2Jvd2YwcjgyOWRGY0o4aWxaajFBaFZSODROMVNjSHJWX3dEZUhBSVQyUkk5RDMtOEhDaHFWd2lLbGVoYXdMOHFMLTA0ZUNxRHUwMFVJQnJUQnBua25CNGl1VV96UkxnbFg1cjMyUjZqQy1TSFh2RUl1NTE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
