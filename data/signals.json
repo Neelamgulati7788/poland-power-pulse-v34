@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:52:22+00:00",
+  "updated": "2026-11-14T09:47:23+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -118,6 +118,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-b64b80f15f8f1a932d",
+      "date": "2026-11-14",
+      "title": "Skonsolidowany raport kwartalny za III kwartał 2026 r. - PGE",
+      "title_pl": "Skonsolidowany raport kwartalny za III kwartał 2026 r. - PGE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDFiWXFJczN4SEJ1SUNiQkMzNENOY3ZOdTJ6OU52T2VmLW9TV1BFT0x5dGpXRGZvX2hod2kxckozNzkyZktZUFd3X05QaTZVOWs3WXdnNjJybUxtQXl0eEhYSWpfaVNaTWZiR19hYTU3czZQelZuQXYxMy1vOUtaNy11c3Q3Sl94RmZSRk80ZUg3WlgwRzVSdTdRTmlDMEJpaGFXZzc5dVBJVUJaX1ln?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b40a337759ca5650b7",
       "date": "2026-11-14",
       "title": "Orlen wypowiada umowę QatarEnergy na LNG i staje przed widmem podatku na Litwie. Kanadyjski SMR pod znakiem zapytania",
@@ -205,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8b935098038bf1fd95",
+      "date": "2026-11-14",
+      "title": "Agregat prądotwórczy zabezpiecza dostawy ciepła w Mońkach",
+      "title_pl": "Agregat prądotwórczy zabezpiecza dostawy ciepła w Mońkach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXVJSVI1Yi0xOURfTDhPeXk0cWdOV0lBT3lKYWRzUkZKQ2pYUndnaXFIOFE2REdtcXZkUDJVYWVEUDM0NW02VnRndmROel9sS3VIWnhxYkVZNFFkR05MWEVhZnFUZktlVzFURi1URkZUUjJQRE0zTTlFSTNsTDRVRXh4UDJTY3BvcDRabXBpVlVfc2U1eEhpR3BpMlZRTEVtb3o1QVVDY1dBSUxoOEtzQnVTMnE2emMwR0JERk5WYkpUSFd2cjY0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7f403c2019a7d8a700",
       "date": "2026-11-14",
       "title": "Gdynia school and Siemens Gamesa train offshore wind technicians from first year",
@@ -232,6 +290,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-34cc8e7264366b706c",
+      "date": "2026-11-14",
+      "title": "Tauron Zielona Energia i Onde stworzą wspólne przedsięwzięcia w formule joint venture",
+      "title_pl": "Tauron Zielona Energia i Onde stworzą wspólne przedsięwzięcia w formule joint venture",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORkIxa090c2pQa2paVXVkYmktOEdsNVdINHI3eThWOWRmeXR5dC00WUh3QVdYR0RVTlBNOFNiYkdlaDJfUDVnS0JVcE9xRTd6NEdrajJabGhCem44UDRDb3Y2YTR6WFZucC1aQzZtUndRejB4ajdvZk01bkQ4UExZV2U0QUo2VG9pSjlJc0FqejlDS0RleDRUSmEzNE9fR3RQT1RlUGxobHZkdDZKTDQ4czVEc0p5Ym5jdFN4aTVnQ1AwQTQ0dnpMb1BJYWNoMEFwZG94NWZoUHFWUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://oze.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-342ddd06c19a0ef36a",
@@ -1918,6 +2005,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6ccb1dd0723b677930",
+      "date": "2026-11-13",
+      "title": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju AI, konkurencyjnego eksportu - prezes NBP",
+      "title_pl": "Aby utrzymać szybki wzrost PKB Polska potrzebuje tańszej energii, rozwoju AI, konkurencyjnego eksportu - prezes NBP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjRLdUYyMkVJVU9ERFJpVm92REQ0MWZjZGlDdzAtOU51MmFTLUhwU2ZCVVhBTEZlN3ZwWUlTYTBwQmQxbUtXU0NxYUFIQzNyLVZnelpaNWtqZmpDQ0dONjBkSWdYNGxHWi1oZU50WFNaMXM5TEVNUHVZYVJKVGJJYzM2bWVvQ0pYSGx6M1o2TUdWNzBDTVhTVV9rWjBNb19uLXNHYTVHU09ycWdfaHh5dnRNNHZFOWFzUVhz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6ca044174033955ef4",
       "date": "2026-11-13",
       "title": "Orlen zmienia ceny paliw. Pierwsza taka sytuacja od miesięcy",
@@ -2157,11 +2273,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Ceny ropy w USA zniżkują. Inwestorzy oceniają możliwość wznowienia działań wojennych między Izraelem i USA a Iranem.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Mina-rozrywa-gazowiec-Iran-uderza-w-radar-USA-a-ropa-tanieje-9228267.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDdhaUVqWGlJaldHeWEtZGNjeWkxZXpWczNGcFQwaXd0Nm90eEJDYXRZN2JtODNHd3lnS0ZyMHNwcml3bVlqbHhrYmFRNHJxTXFhZEtSeHFfSUl4cjZQdGt3dkxDZXFJZVJiZ2VaMWFZYlJGNU82OXlERlVyXzF3QUpFS3FQa3BPOHY0Z3VJbTNVaEtZS0JIUFhWVXA4bnVzd093TUZyclJrUQ?oc=5",
           "type": "press"
         }
       ],
@@ -2175,8 +2291,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-53a76033c690304560",
