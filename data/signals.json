@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T20:40:10+00:00",
+  "updated": "2026-11-14T21:39:07+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -67,11 +67,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Prezydent USA Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom. Wśród tematów rozmowy ma być m. in. redukcja zbrojeń nuklearnych. Trump nie zamierza poruszać tematu…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Historyczne-spotkanie-Trumpa-Putina-i-Xi-Glownym-tematem-redukcja-broni-jadrowej-9228850.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTZkNTd3MUwzeVluNmpvaTZSdlp5b2NtRzliYkZiY0p5UzVvb3FqMWY1bXlROTdGSTlncGJaTlF2Mnd6dnpCWlMtbXRlOFk0Sm02SmVGOENZU0EtVENMZWE0RGJOS09SakRtVTNXajFnVExuY0VvY25VbkNJMDJic21jUGpmS1NPRDNuUEtGazZiY2hJMmJpQ1JqRmZxUXo1ZTcyVkotZlJGdkROUnV4WmFoMVJERmM1Y2pSWlRVYjBxMHdM?oc=5",
           "type": "press"
         }
       ],
@@ -85,8 +85,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f059c431653d2d8adb",
@@ -345,6 +345,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-97a9e067ada50a7ec8",
+      "date": "2026-11-14",
+      "title": "PKN Orlen styl Nawrockiej zwala znog najlepiej prezentuje Polskie",
+      "title_pl": "PKN Orlen styl Nawrockiej zwala znog najlepiej prezentuje Polskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmRmYlNsSmo3RENJTUlPbUhWVjQ4U0hDTVBRMWljdTQ3TnQ3ekZLRkswUHgxb2dmMVJOQjZhMTNDUXFZREs4OG9LbVZ6bVpUaE5aN1dtUXRWanBtR1licmtCbGl3MzI4YW5Mc1BmSWpMeHl0VW1fcHowUmpPc21rZ19uWlhRcHlCU3hIeXJqZXFYSTB4RHVDakdsNnVJSmV1Uk5XZDBDeDlFNlRzSWt5MHJBTG4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1332,6 +1361,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d01d2139fe5e04df3a",
+      "date": "2026-11-13",
+      "title": "Węglowy potentat będzie potrzebował dla siebie więcej czarnego złota",
+      "title_pl": "Węglowy potentat będzie potrzebował dla siebie więcej czarnego złota",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeElNNFg0RHY5MWFlekxBRnRGRTU0Rl9TZk1ac24yRmRwS2pHSzdhNUx1Zkx1c3FBa3Y4bk9UQkViYTFXbVJsR0NyUG9uVkcwY2NBanZQT2tIeS00cWxLYXdSQlBYb2l3eFFIRzVKT0tVbXIxMnlDNWxvaVNqb29vMnZOQjFzZ3lidnBjX1dLZ3RMeGhEMVUzRmx5bzN0amZlSFJRMlhiRlZWdHBS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
