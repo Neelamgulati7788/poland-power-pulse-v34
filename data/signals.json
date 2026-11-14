@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:44:16+00:00",
+  "updated": "2026-11-14T11:41:33+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -234,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-90859dd895f07006b4",
+      "date": "2026-11-14",
+      "title": "MKiŚ: podpisano porozumienie o współpracy z gubernatorem Kalifornii m.in. ws. czystej energii",
+      "title_pl": "MKiŚ: podpisano porozumienie o współpracy z gubernatorem Kalifornii m.in. ws. czystej energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1g1V21CYXRMbXlqa3dPbkdpaERhejRvU2R2UF9MMmh4ZXBtb1F5VGNTSDZkOXNQSmliYlA2NXhOY0l4dDUtZDI3VFpTNzRJaWhVZGV3eDFrSUpabERNMjRQdm02cmhCZXFQNjgzcW9BYktpNGlmSjlxU25UUHpCOEktcHFtaEpSTzVaU2MtT2FkNnctVHotejA5c2F0SmRTY2xROW1WWTFkR3ByQjNfRi1yc1I4anVTVXVKamwzNkI3Ml9HblJzU3Uxc0Jwb1BrSnVxX2t3T0Q?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8b935098038bf1fd95",
       "date": "2026-11-14",
       "title": "Agregat prądotwórczy zabezpiecza dostawy ciepła w Mońkach",
@@ -258,6 +287,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-882cc6c46feac57a31",
+      "date": "2026-11-14",
+      "title": "Minister energii spotka się z władzami Litwy w sprawie Orlenu",
+      "title_pl": "Minister energii spotka się z władzami Litwy w sprawie Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDVCSnk0dFc2WEhtVnBFQ2VyeklPSXByZHE0S0lBbl9JeE1jUUFRUk9XQmlvaEpvR1pwczVRU05YWWZqUEhkTS1QYmpiNHVUa2hna1Q2dkJIM2Q4SWg0SjBuSHFmMTZfTkRhYVRuTXplUjRrSEFEUFpkSUs0dENvckFPM1NVY0hYSkthM0NUSl8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -290,6 +348,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-67a51a4b2b889a5899",
+      "date": "2026-11-14",
+      "title": "Rozbili gang złodziei miedzi z farm PV. Ukradli 500 km kabli",
+      "title_pl": "Rozbili gang złodziei miedzi z farm PV. Ukradli 500 km kabli",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmNNSGF5VUt3XzUxVWpyV3ZBcm0wOHdscllUdGYya2Fkek1sclNFUFFaUWU0WW5ybU1MaUdfdjQySTFNQ0NudllNUWV1eGZ1eS0xcTdOLWdyYzVWd2dFdHl5bTRBWnRUQmwzamNGd1BucWV1cjM4c0g5SHA2bnEwVGRHbExPUks2bXVLWE5FWXdmZmRVYlFZNUFoUy1SMG1Gbll2a3R1SUUzTHpmRUhGSHZLS1dEeGh4NU9NYnNhSkM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-34cc8e7264366b706c",
@@ -332,7 +419,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XazBQSXR4cnN0bDAyYXlVQW5lazltTnBESTJLTzFNU1RyTWhoelhuNHJlSExkdzFFOEpscExlVjBKMVJBbmd6QVR1aUlDT2d0UV9ycm9uSmVoS3kwZlJOWGk2T3hmdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZVVOWUhscnoxVURtXy1PRE9uYmlYc1pXRHhIYnhQLWx1WTgyOG1oVFRETUYwbGpobzdZVEd0b0s2b1dnenhxZEZ3dDRiQUg4cy1oYWhyWGNkeEItVjAwVjdjMF9OZw?oc=5",
           "type": "press"
         }
       ],
