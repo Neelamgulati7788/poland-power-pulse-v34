@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:47:23+00:00",
+  "updated": "2026-11-14T10:44:16+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -3426,6 +3426,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-013840d38d00e44dfe",
+      "date": "2026-11-13",
+      "title": "pge - Forum",
+      "title_pl": "pge - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Yzd1U2pSNGdJRHR2aUFqMnFrZmVjLVI1XzAzZHhyQXRkb01IT21GcUFZbzVuRmRPNDI5Uk02VllLcVMteGxvUFV3WXpVR3hNaHNB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://m.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-fd361cfc34d69dde38",
       "date": "2026-11-12",
       "title": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E do obiektów Miejskiego Ośrodka Sportu i Rekreacji w Brzegu Dolnym w 2027 roku",
@@ -4440,6 +4469,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9f7800405dc397f535",
+      "date": "2026-11-12",
+      "title": "Propanowa pompa ciepła dla systemów grzewczych piątej generacji",
+      "title_pl": "Propanowa pompa ciepła dla systemów grzewczych piątej generacji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMElKRG4xdVBRVFJuQzhuSmZhbDRIZ3ZWNl9nblo0cmtjOGNnNkJXN0RyQTRMQXVnYnF5QkI0MVhuSG43Zk9Qd2s0VHhraFVtSS1nOTVNZWdSOFRaclhmZG9ZWFFkV2w5Nms0TFpfbkRHbDVlMHhuTzQtSWZsOG1mSXZ1dVpXNURnUXFHTHhyOXhhNXU4eC1pejN5eWJ6aWRFTTA2WDdfd2ptNl9XaGFIV3p1TQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9d12c4f959a4209ab3",
