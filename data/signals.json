@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:44:56+00:00",
+  "updated": "2026-11-14T19:44:03+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -473,11 +473,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXZtNzUtVkI2RTZ3OS1NT200RVQ2WTJ4ZXc4dkp4VUViZU9XVHE4SlZMVVdRZG1PZFV6QWJ5MUJFcmtBUHRnTER6VUs4WVFYQ2paVUFuWTRPYzhQUHpSblBMaDNXNmhLUVFsYXBGNFJyZFlGTXh2d3RtMnFFVnZnTy1TaWJuNTNFNTQxRlpYVnQ1NkM4cWpHMGZDOGxkTXFXU0FxR2xHUDg3LUdqS2tRaTZiTnJySXFaeDlZ?oc=5",
           "type": "press"
         }
       ],
@@ -486,13 +486,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "National",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-67a51a4b2b889a5899",
@@ -609,6 +609,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-281d6e0799ab9b1d54",
+      "date": "2026-11-14",
+      "title": "Miliony dinarów w darowiznach. Serbskie służby zatrzymały byłego ministra",
+      "title_pl": "Miliony dinarów w darowiznach. Serbskie służby zatrzymały byłego ministra",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Były minister gospodarki Serbii i były dyrektor przedsiębiorstwa publicznego Belgradzkie Elektrociepłownie Rade Basta został zatrzymany w związku z podejrzeniem wyrządzenia szkód tej firmie przez nieuzasadnione darowizny na kwotę 14 mln dinarów (119 tys. euro) - podał nadawca publiczny RTS.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Miliony-dinarow-w-darowiznach-Serbskie-sluzby-zatrzymaly-bylego-ministra-9227452.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1ab67c4466360d1ac0",
