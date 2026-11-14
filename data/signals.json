@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T16:42:29+00:00",
+  "updated": "2026-11-14T17:38:57+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -415,11 +415,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać…",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXZtNzUtVkI2RTZ3OS1NT200RVQ2WTJ4ZXc4dkp4VUViZU9XVHE4SlZMVVdRZG1PZFV6QWJ5MUJFcmtBUHRnTER6VUs4WVFYQ2paVUFuWTRPYzhQUHpSblBMaDNXNmhLUVFsYXBGNFJyZFlGTXh2d3RtMnFFVnZnTy1TaWJuNTNFNTQxRlpYVnQ1NkM4cWpHMGZDOGxkTXFXU0FxR2xHUDg3LUdqS2tRaTZiTnJySXFaeDlZ?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -428,13 +428,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-67a51a4b2b889a5899",
@@ -5090,7 +5090,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2JaS0xzbFNwaE9Kb2c5U0QxN2stRDhraFJlNVVoVXp5ckJtSE15RUFYeEtZSGV5ZUpzN0piX1RkRzJnRktqMC1iNDhfTEhia2hSdmJfN0FIZndkaFVLbkRIUHJGal9JeWh3Z0tSVGlVZUpkQUJ3UVBlMEFmaExkM1pqQkU5VERISFpiVzdFMjJickwteXNxRXpjSFkwTTUxY0s4U1hxX3FNS0U?oc=5",
           "type": "press"
         }
@@ -5098,7 +5098,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
