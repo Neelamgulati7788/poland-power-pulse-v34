@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T23:42:11+00:00",
+  "updated": "2026-11-14T00:59:20+00:00",
   "signals": [
     {
       "id": "src-fe884f24476da1ed5b",
@@ -408,6 +408,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-d64673483224140714",
+      "date": "2026-11-13",
+      "title": "W 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie 197,29 zł/MWh, tyle ile w tym roku",
+      "title_pl": "W 2027 r. maksymalna cena gazu dla gospodarstw domowych wyniesie 197,29 zł/MWh, tyle ile w tym roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnRHcUpFM25VZkcxTzlCS2UzM1dSUlVRcnFUeklJclRaeGtUNHNWMUk5WWdPVmpqZGxhaWpMLWx0akZCdl9XbVZvYmFTRjROQW5CQzR0NENVc0NhUnNRNm1tb182OUxyNGRaczNEVWtFS2c4NTNDV20yZXpWNnN6TC1uWlNvd2czc2pFQVpFZVhVNWhYdVQwRHhpQk5fSTZITGFFb3ZVNERCZmJpZjFHSG5VbFZ4dlZSTFVuLUZR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d614b45ed34b954ee8",
       "date": "2026-11-13",
       "title": "Niemcy wracają do węgla. Stare elektrownie zastąpią gaz",
@@ -664,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c05ff166c0ea19089a",
+      "date": "2026-11-13",
+      "title": "Zlecenia dla instalatorów pomp ciepła",
+      "title_pl": "Zlecenia dla instalatorów pomp ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVZlR3VlanpldU9IYmxWbVluT2xxRjVUcnlJMmdYUnM2dVVjR2UzdFFQZFB0R0hydThLOS1qWGdnZUNqRG50a1RsRVhYMlhaWTBkQUx0TVN3MS1DUFh0OFcyWkNnaEpVZXplWnJYQzZzTGRjTk9mYzVyOUlMTG5xVkdrNGFRczAzdkpYc2V3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1366,6 +1424,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-84a35a0875c81f9161",
+      "date": "2026-11-13",
+      "title": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "title_pl": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVB2d2ZfRURyYVBjSTBvQVBXR0xpekV2cmlRS2xIWnExclFJYWlDOFZiZW82ZlZMSDdqS0pmb2hvTnBZNTAwT0NiYmFvVDdVSXZqdVFrbDJoOGVuT294cHJRdmE5Um5mQVYzMTVNWXVjUVI5T3R1RTJBWVVxbGV6YUpWZ3pqdzdMU3cwYTluUHF1a3duVzJOOFAzNktHcDlpdFh1b2RMWHRtQVVfaTc1ZWNDSGk1aUh3UGdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-847a1ee9bb845a89a0",
       "date": "2026-11-13",
       "title": "PHOTON ENERGY NV (32/2026) Monthly Report for October 2026",
@@ -1915,6 +2002,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-494d08245080ae562e",
+      "date": "2026-11-13",
+      "title": "Napiszę KIP dla farm fotowoltaicznych",
+      "title_pl": "Napiszę KIP dla farm fotowoltaicznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLThKUkNJaGpFVXJUSThJeHhyVjduOXQ3T3BfZC1GRjVqZmFlQnZDS2JxYndWamlQak1ybFgxVndYcTdtRDJhOGV5dGVWNW1WZEM5TFlteFh2U2psdUF2d2ZkTXNjSV9TVXlpYjVWOFVJbGtmX1Y2Tl95Qm9HSHhPWm1UR0xSMWVZM1NSa1BwVVdaaTExVHFUWXRR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-46bc66682df86d91c7",
