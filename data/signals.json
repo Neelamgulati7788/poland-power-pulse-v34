@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:45:20+00:00",
+  "updated": "2026-11-15T11:42:00+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -100,7 +100,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0dDTmpTQkpNMWxOa3VSdGphU2dmLUlhRlJHTjU1d21jSm95TEt3c2FwWmhQRDdxRDNKdmstUHIzQjJ0Y08yZFV1UGlpU1NFV0JfVUdDVjVMMTktOTVESmI0YVAwOUE2aUtFLXAxNzVKaUY4djN3OS1CdjVxb3hSTFlfd0QwdjZVdi0xMERvdHAxRXFzN2VRMU40eWlGQThjZVNUMlFHUVJxTGF4NVlqaU1ZYzVnWUFwTFhR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmF4OUlVS0VEWHBkRGRzeFItUGZKSXpvRDFjQzdLUld1RkRlX0MyM0pWQ25PMjlqOWhjTG5MSUxJaW9PSzY3S05aUm51VGZaM3BYNk1XdlVKYkFjbFpvWjdPMzZDdXVFU1BTT2NGdm5DemJOaWRyLUtBenFURGNVeTc4SjU5cFZVcGhNTnpCNkIybmgyQnlJYmlaMHVBcUcxeF9Cb1FRYkNBNzlzRnNjbzdjX2tQNzAzdjBJ?oc=5",
           "type": "press"
         }
       ],
@@ -200,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2229b945cb2b0bbbc5",
+      "date": "2026-11-15",
+      "title": "Spadek inflacji bazowej poniżej 3% pomimo droższych surowców energetycznych",
+      "title_pl": "Spadek inflacji bazowej poniżej 3% pomimo droższych surowców energetycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHJaZ0ppdGN6aTdUbUZLV0w1dUpQUEx5azlWckdhc2NuTDY1V1ZLZTRWM1NraDdGLVJ3YndMck4zYzRhSHIwcldDNFFaVzBKQzZGWjdzd2hHTXBoUnVRcDFVZGFheTRDV2JBOFI2bFdVU0lPVGpGck9mamJvZlBvd2s1Zkt2ckFBVUdUa1FUV1NpdVpvUTNrajhKaU5ha2NTaTU5YURhem5SWExCaklNdTBn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
