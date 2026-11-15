@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:43:52+00:00",
+  "updated": "2026-11-15T17:39:34+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -113,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c64f4195b3c917746c",
+      "date": "2026-11-15",
+      "title": "Wiatrak na własnej działce. Nie może go sobie tak po prostu postawić",
+      "title_pl": "Wiatrak na własnej działce. Nie może go sobie tak po prostu postawić",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0pTVmZMVzhETDBmajE4R3dBQVZmR2ZOVjRLTE05VzQyOWs5ZUpFRng5cWRad0gtY2xncWlYTDZrYzlMRnF0emhJSDFxUGs0Q0NlRzg5alRmWDkwa2ZXUEk2NV9VN0FKM0czYXF3TnZLdTZJSEE2RFpEZThwNHRIS0xjb0hOSHNTT0ZHcEVXUTBOb19JNmF1MFlpSTAtQzJmanN4b2NiV1BqVTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -263,6 +292,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2778180a6c913f82fe",
+      "date": "2026-11-15",
+      "title": "Poprawa efektywności energetycznej budynku Szkoły Podstawowej w Kątach",
+      "title_pl": "Poprawa efektywności energetycznej budynku Szkoły Podstawowej w Kątach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kołbiel",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df433c-bac3-d3ba-c1c5-d5000194258f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-2229b945cb2b0bbbc5",
       "date": "2026-11-15",
       "title": "Spadek inflacji bazowej poniżej 3% pomimo droższych surowców energetycznych",
@@ -321,6 +379,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-13f938fc10bb692d3b",
+      "date": "2026-11-15",
+      "title": "Czy data center rzeczywiście wypiją wodę i przeciążą sieć energetyczną?",
+      "title_pl": "Czy data center rzeczywiście wypiją wodę i przeciążą sieć energetyczną?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREFRX2VrU3U0MHRsYjdFSzh0Z3NJaUg5ampBaWNIV1NrLVVfSEloRHJlZ2hUdnNuYjFUZkVwcDd5aXNJWnVKbHdKTnZMOHAyQlN4bU5RU0k1cmQ5UFE0NndMN1lWdjV2YjNWRWFhbVF4cWRWZUwyMENzcE9RcXdmVUhISTZzeG8zc19rXzNMNkxEZGFLNWlsMklCZnNrMld5ZUxOMlVVR1RxcjBIQ3ZhUFRqOU91VFFTZkNRWlVzQWpEUlJOd2V0emtlV2pWQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://innowacje.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0efc25b40dfce293b7",
       "date": "2026-11-15",
       "title": "Ceny gazu ciągle rosną, minister Domański zapowiada nowe rozwiązania dla gospodarstw domowych",
@@ -374,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-056e30a649bf3b438c",
+      "date": "2026-11-15",
+      "title": "Orlen, SGE i OSGE zawarły Porozumienie Parasolowe dotyczące SMR",
+      "title_pl": "Orlen, SGE i OSGE zawarły Porozumienie Parasolowe dotyczące SMR",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2dHbHY4ZlBVZWNRQnNscDR2Zmxvc0JZMXR1cGM4UjhCRU5pd1g3MEoza3FlOW5NeEEtclVwdUVsTWs0blp1d0dTMnZPN205cy1heEtDZWhHSFBDbjI5SDg3ZjRMOE04TzlGVkdjXzBMbkt5bUV5ZlNvQW5GMTJ6VUhsTllVdjV1eGR4a3BVRU5BQUc3d1N4bS16eG9ycXJDZnJMd3hmd1M1cXJmOWlLTklfTGZweWZqaWVVUDRZVjdRUDl2UW5RUjc5SzR0aXplWm1QRDh2b1ZibHFKcG1kUWp1WlRRTXlGQnl0Nk5TaEJpb1NzaHY2Z1hSMTBvZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zmiany-klimatyczne.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
