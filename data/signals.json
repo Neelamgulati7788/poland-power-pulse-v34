@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:53:28+00:00",
+  "updated": "2026-11-15T09:48:16+00:00",
   "signals": [
     {
       "id": "src-da8369d9a69a8e0e52",
@@ -89,6 +89,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-918014bbdfd26689ef",
+      "date": "2026-11-15",
+      "title": "Ukraiński system oszukuje rosyjskie rakiety. Smartfony w Kijowie przenosi do Peru",
+      "title_pl": "Ukraiński system oszukuje rosyjskie rakiety. Smartfony w Kijowie przenosi do Peru",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ukraiński system walki elektronicznej Lima, który fałszuje sygnały GPS i „przenosi” smartfony w Kijowie do Peru, miał – według konstruktorów i wojskowych – powstrzymać m.in. rosyjskie rakiety Oresznik – informuje dziennik „New York Times”.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ukrainski-system-oszukuje-rosyjskie-rakiety-Smartfony-w-Kijowie-przenosi-do-Peru-9228115.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-6d93c2ad2954d50305",
       "date": "2026-11-15",
       "title": "Włosi postawią grawitacyjne magazyny energii na morzu",
@@ -174,6 +203,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ff42f5c8153f00e404",
+      "date": "2026-11-14",
+      "title": "Tauron i Onde mają list intencyjny ws . rozwoju projektów OZE w formule joint venture – Inwestycje . pl",
+      "title_pl": "Tauron i Onde mają list intencyjny ws . rozwoju projektów OZE w formule joint venture – Inwestycje . pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "inwestycje.pl — source",
+          "url": "https://inwestycje.pl/biznes/tauron-i-onde-maja-list-intencyjny-ws-rozwoju-projektow-oze-w-formule-joint-venture/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "inwestycje.pl",
+      "publisherUrl": "https://api.gdeltproject.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "40"
+      ],
+      "discoveryMethod": "gdelt",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f8933e294394a50164",
@@ -696,6 +754,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7b120ea40e9856358b",
+      "date": "2026-11-14",
+      "title": "Allegro i PGE mocno w górę na GPW ! Alior Bank i Tauron również z solidnymi wzrostami – Inwestycje . pl",
+      "title_pl": "Allegro i PGE mocno w górę na GPW ! Alior Bank i Tauron również z solidnymi wzrostami – Inwestycje . pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "inwestycje.pl — source",
+          "url": "https://inwestycje.pl/gielda/allegro-i-pge-mocno-w-gore-na-gpw-alior-bank-i-tauron-rowniez-z-solidnymi-wzrostami/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "TAURON"
+      ],
+      "publisher": "inwestycje.pl",
+      "publisherUrl": "https://api.gdeltproject.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "40"
+      ],
+      "discoveryMethod": "gdelt",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-67a51a4b2b889a5899",
