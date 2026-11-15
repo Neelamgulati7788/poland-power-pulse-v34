@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:40:28+00:00",
+  "updated": "2026-11-15T22:41:37+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f399fa68e146a2a6d1",
+      "date": "2026-11-15",
+      "title": "ROZWÓJ INFRASTRUKTURY TECHNICZNEJ TEATRU POPRZEZ ZAKUP SPRZĘTU I OPROGRAMOWANIA DLA DZIAŁU KABINY ELEKTROAKUSTYCZNEJ – ZAKUP I DOSTAWA SIECI TELETECHNICZNEJ",
+      "title_pl": "ROZWÓJ INFRASTRUKTURY TECHNICZNEJ TEATRU POPRZEZ ZAKUP SPRZĘTU I OPROGRAMOWANIA DLA DZIAŁU KABINY ELEKTROAKUSTYCZNEJ – ZAKUP I DOSTAWA SIECI TELETECHNICZNEJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "TEATR POLSKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4361-5b7a-bc24-c1c5-d500019425f6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ef3564607361ab9009",
