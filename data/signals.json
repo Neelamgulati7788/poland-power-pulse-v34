@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:08:12+00:00",
+  "updated": "2026-11-15T03:25:26+00:00",
   "signals": [
     {
       "id": "src-f8933e294394a50164",
@@ -580,6 +580,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-364a8868e9e26e83bc",
+      "date": "2026-11-14",
+      "title": "CENY ENERGII - Najnowsze wiadomości – strona 27",
+      "title_pl": "CENY ENERGII - Najnowsze wiadomości – strona 27",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObWZhY29YV2JzNTRYV3ppOWZjbF9NS0V4SVBxVVJMUDJLTXlFNWN4OGVRSUk0d1RkLVlkWWJnaC0xR2RtMDZYcGR4MWt1X1VVM014VDQ0UDgzSFVYMmZWdC1DVDM4X0UzTUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-34cc8e7264366b706c",
