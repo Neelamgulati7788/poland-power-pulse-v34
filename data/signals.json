@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:44:58+00:00",
+  "updated": "2026-11-15T20:42:03+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ef3564607361ab9009",
+      "date": "2026-11-15",
+      "title": "Wiatrak na własnej działce. Nie można go sobie tak po prostu postawić",
+      "title_pl": "Wiatrak na własnej działce. Nie można go sobie tak po prostu postawić",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkxFcTNTREtuSG5aRDI1ZWxBcXhQalJjMjZpaUl4eXc0X2lEWVI3eWJqNjhKM1FHYnZENUhjQ3hSNkt2dUVtbjkwcXJzTjdoMllHN3kyQ2h3TXdJdzV2dW5JUzZkVkhDeGhrNmRMOXR0X1Nna3lFajA5cEhuaUNMdDY0WlBBcnNMdmVyUVBPd3JmeFZQNWVFc0gxUTRkbS1uN25YZU81UEkwQVkw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -345,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3d7cc26e43ce2b360c",
+      "date": "2026-11-15",
+      "title": "Raport \"Wymiary bezpieczeństwa zaopatrzenia w gaz ziemny. Polska wobec wyzwań geopolitycznych, logistycznych i systemowych\"",
+      "title_pl": "Raport \"Wymiary bezpieczeństwa zaopatrzenia w gaz ziemny. Polska wobec wyzwań geopolitycznych, logistycznych i systemowych\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU55Y1RZajFoY3hVRENkNGlnUERsd2ZzMVpYcncyVnVSSDNrbUJWRlc4V2d6elc2cXVwWVp3TmlNYlFPRWRqNFFyVUF4aEczQjVzd0dLcDcwR0NieTZ3V0t3TFlWWjI2WDh4WFNSdGFGalNmNmdHR2gzQklHR25lSXZuYldLSDNoZ0JoeDY4ek9CNllRSGRVY1N2Q0pqOGUyOVp4eWJGcjVhSDJ0NDh4YVk2bXRZajNyVjg1TlZPbmNNQXhhTDBjTnJCVHdXUEk2aDhBQ1ZKZ1hzd3NUaUY3UUZwRFRqS2RISHBjazRFakxNRndERG1iVA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
