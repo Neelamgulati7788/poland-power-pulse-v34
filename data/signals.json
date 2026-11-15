@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:42:03+00:00",
+  "updated": "2026-11-15T21:40:28+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -348,6 +348,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-8bf2adae17aec15d74",
+      "date": "2026-11-15",
+      "title": "PGE estimates EBITDA at PLN 4.61 bln, attributable net profit at PLN 3 bln in Q3 2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWVpFSDRoRUJuQXZ3SUdlWWlfQlpoY0ZxcXM1aUUyOGV5RHkwVldSVEhXWDZjeGczQmVXSjZrbzRDVDE5cGdyY0ZxVVluX01SUUNMLUZzQm8waGo0Rm1qWFNHM0wzWFBSSHFqM0RPVWxOZzFNOTF5cmh4VDNEOHJ4dGFBa2l1LXlNaGNfMXY2TVV2ajlMdWtiQzJjWWlKa0ZtcG55UDZma3dLdER5Q2VHMTU0dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6d93c2ad2954d50305",
