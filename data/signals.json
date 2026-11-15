@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T11:42:00+00:00",
+  "updated": "2026-11-15T12:52:50+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -287,6 +287,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07b85e8982cb7aabe3",
+      "date": "2026-11-15",
+      "title": "KONGRES ODPORNOŚCI ENERGETYCZNEJ",
+      "title_pl": "KONGRES ODPORNOŚCI ENERGETYCZNEJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVlFtamZfU3k5WmRTVFdOMkhsMHhTZVo4TjRfRWpZcEVjZkhSMEdIMTZ2VWYxenV6WHFBbzdJeVcxckJGV0pBNWdTaDFrbVhWbmdXdzFxM3EtMFVkZXFvZXN3MkUwWjV2S0NOQkRkM2Y3OWNjQUxqYkZ3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
