@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T18:46:47+00:00",
+  "updated": "2026-11-15T19:44:58+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -142,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-af650a42fa1722fcbc",
+      "date": "2026-11-15",
+      "title": "PTEC komentuje nowe inicjatywy regulacyjne dla ciepłownictwa systemowego",
+      "title_pl": "PTEC komentuje nowe inicjatywy regulacyjne dla ciepłownictwa systemowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPekRrOUp6VHdpdklLTldEWXU3S2xRWWMyZjlTUW1hWlJxd2NjWHEtV1FjRVVrZ0Z1RTFIOUFzWWhoSmdURndYYnRvVUVsc0VKQnZhMVlzQmJjUU5IY3JYcV9oN1pKMU5CQUxUeU53MWR4ZE1pUVNMUUYwSU16aXoyMDhFNTVneDV5ODlXZWtKTXJuMGFlVHFFb2VMbmNtMUxUWmJxZ0dnWVk1TWJXT3h2LUFHdVFPTVdiRGc5cmZyZVdOMy1tVzFEclV3S2UtV3E4ZWNDRnFJZks2b1l5LXROUks0amk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -316,6 +345,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3c0b4e4cf114905f21",
+      "date": "2026-11-15",
+      "title": "Re: Notowania Orlenu puszczono o 16.58 i 50 sekund",
+      "title_pl": "Re: Notowania Orlenu puszczono o 16.58 i 50 sekund",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0xhN3FhTHAwRjdESElUaWlUOTFXYnBNTm1tb1hnUzk0M2d1UVV0UXNvczQ2Nm5rOElxZVI0RUR3cFZYcUlHUzFoOVIyR1BSRkVVYU1INDNqVmhYY0tuUlItRGxwSXBNSTlWVTNLSWFIYmlWSUJYM1FXS0Uwa2Qtek82UjdKUDdibmNKelBteTVCMTBiWnk4TVJzcjRoSVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
