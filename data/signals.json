@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:41:22+00:00",
+  "updated": "2026-11-15T16:43:52+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -145,6 +145,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-98eb1858f7192deae0",
+      "date": "2026-11-15",
+      "title": "Re: Niedlugo Tauron i JSW będą",
+      "title_pl": "Re: Niedlugo Tauron i JSW będą",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm8xbkg4eHVXc0hJSGJNSThMdFlLZVJ5TjVEN3BkTUdwYnhwWlFFX1VlNXdzTlhPc1o0U0pYamJtT3VHZVQ4RDNOLVRXVjhyckZCeGNsV2psdWpaX3hrQ2NMV3Z5RmVsclhEUVdock1tempUdUI0Tl9jTS1GSDBmei1CMVo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-918014bbdfd26689ef",
