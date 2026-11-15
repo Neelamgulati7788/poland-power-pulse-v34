@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:54:44+00:00",
+  "updated": "2026-11-15T14:45:44+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -171,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-8e89299e686c99c277",
+      "date": "2026-11-15",
+      "title": "Jest projekt ustawy o mrożeniu cen gazu. I do tego całkowicie nowy podatek",
+      "title_pl": "Jest projekt ustawy o mrożeniu cen gazu. I do tego całkowicie nowy podatek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rząd opublikował projekt ustawy, która ma zamrozić w przyszłym roku ceny gazu dla odbiorców indywidualnych i wrażliwych na poziomie tegorocznej taryfy myOrlen, czyli 197,26 zł za MWh netto. W Ocenie Skutków Regulacji powołuje się na powszechność stosowania podobnych mechanizmów we Francji, Niemczech, Hiszpanii i Portugalii,…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122791-jest-projekt-ustawy-o-mrozeniu-cen-gazu-i-do-tego-calkowicie-nowy-podatek/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
@@ -1103,6 +1132,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-15785d3b6ca65e82c3",
+      "date": "2026-11-14",
+      "title": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "title_pl": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1doRTJLWG5XTFhodEJ1Mnl6bGNPeXpoNWxMZm5GOFBFWVlHX3Q2d2x5LXl6dzNPeG9KdXB4Z19hNk02ajM3UERaNlVuQ1p6Ui1RejdRa3lCbklhaGpfN1JyeEh4alJ3QVlSZmdxazNjR2Vkb2hMUDRFSHBVUHdQUjY0dWJVR2Y1emtHS01QUF9IbXZDaDBUekdWdXAzWU1peXdkbXdDeTFGRFR2ZGZpYUkwTjQzbWlqYnNZUGozTXVHNlJFUGdYZDZ2RUU5QTYxRzJMc1VCLXpQaXQwemY0bA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fe884f24476da1ed5b",
