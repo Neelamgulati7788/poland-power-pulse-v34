@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T07:42:45+00:00",
+  "updated": "2026-11-15T08:53:28+00:00",
   "signals": [
     {
       "id": "src-da8369d9a69a8e0e52",
@@ -42,7 +42,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmF4OUlVS0VEWHBkRGRzeFItUGZKSXpvRDFjQzdLUld1RkRlX0MyM0pWQ25PMjlqOWhjTG5MSUxJaW9PSzY3S05aUm51VGZaM3BYNk1XdlVKYkFjbFpvWjdPMzZDdXVFU1BTT2NGdm5DemJOaWRyLUtBenFURGNVeTc4SjU5cFZVcGhNTnpCNkIybmgyQnlJYmlaMHVBcUcxeF9Cb1FRYkNBNzlzRnNjbzdjX2tQNzAzdjBJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0dDTmpTQkpNMWxOa3VSdGphU2dmLUlhRlJHTjU1d21jSm95TEt3c2FwWmhQRDdxRDNKdmstUHIzQjJ0Y08yZFV1UGlpU1NFV0JfVUdDVjVMMTktOTVESmI0YVAwOUE2aUtFLXAxNzVKaUY4djN3OS1CdjVxb3hSTFlfd0QwdjZVdi0xMERvdHAxRXFzN2VRMU40eWlGQThjZVNUMlFHUVJxTGF4NVlqaU1ZYzVnWUFwTFhR?oc=5",
           "type": "press"
         }
       ],
@@ -1857,6 +1857,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-bb039c319af34db331",
+      "date": "2026-11-13",
+      "title": "Włosi postawią grawitacyjne magazyny energii na morzu",
+      "title_pl": "Włosi postawią grawitacyjne magazyny energii na morzu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalBNRnhZRmFHUDFYMV9GUVJ1YTY1cEtQT19WdUtLZmxaSFo5WERiOXQ2cmRWanpxcEVtZkFOOEdWcGt5SkJnWGZzRHZVYWlZcHpqTW90dmcxN3ViU0dLMVpGY290UWFaWmp2RzFBSGVBVjBFQXFUbWE5STlheVBsUGtwTjNPSFRBN01kMzRHZnJpSXVpRWg0WEdDMkNKaDhUSkVPYWxhVmdYb0Q0cmRNZ1NR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b442c5fddadf93a44a",
@@ -3888,6 +3917,35 @@
       ],
       "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1a9bda1ae3b79ef51f",
+      "date": "2026-11-13",
+      "title": "Panele, bateria i pompa ciepła bez kosztów początkowych. Leonardo DiCaprio inwestuje w Elvy",
+      "title_pl": "Panele, bateria i pompa ciepła bez kosztów początkowych. Leonardo DiCaprio inwestuje w Elvy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRm9YU1Q0QldXSHZZNjFqMTBlNXRwSFZTRC14MlhtTG9YbmxPVG43THFIN21henJIRjFGSkk1OEF0TXVqeUZrNUNuZG9qWFBscEV2bkprWWJNaEE5dGU3NGJEYjlDa0ZGTmZ3M3VVRVhLaVMwNUpUYjBvQV8tY3JScWlqVERvT0RwS0YyblpDRzdwcWtDTG9wM3VQY1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-172197a88196b0271a",
