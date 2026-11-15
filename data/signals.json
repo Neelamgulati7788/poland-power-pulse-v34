@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:39:34+00:00",
+  "updated": "2026-11-15T18:46:47+00:00",
   "signals": [
     {
       "id": "src-ff8f2502f105b87d13",
@@ -139,6 +139,35 @@
       "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a60f2f45082216bebb",
+      "date": "2026-11-15",
+      "title": "Szykuje się gigantyczny skok inwestycyjny w polskiej energetyce. Na stole 108 mld zł",
+      "title_pl": "Szykuje się gigantyczny skok inwestycyjny w polskiej energetyce. Na stole 108 mld zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS1ZyeFR5R2Q0QTNjWFBpTkh2cWZ5SjZpTFluMnFHSWY0SXJnUm1MajhuZ2lna251S3dESDl3V3pIWXhuT1RPRV96MkdqcUhmbXNYUFlmVGZwdURnQlBKY0prM2pSckh3bWFjVEU3dk96cG1WNG5MSWh1ZHpRbk5saDN4emJLUDNTanRXRHFTY1FScFQ2a2NPRWNUbXNmbVlIMnhYWVY3UkltZVVMTVhsX3VfVGlsVmgxYVdOQVlvOFA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "18"
