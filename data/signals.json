@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:12:28+00:00",
+  "updated": "2026-11-16T15:38:27+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -89,6 +89,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-f75bc7d2ec47f3dbd1",
+      "date": "2026-11-16",
+      "title": "Usługa konserwacji elektrycznej i zabezpieczenia awarii (pogotowia awaryjnego) instalacji elektrycznych w budynkach placówek oświatowych Dzielnicy Ursynów m.st. Warszawy.",
+      "title_pl": "Usługa konserwacji elektrycznej i zabezpieczenia awarii (pogotowia awaryjnego) instalacji elektrycznych w budynkach placówek oświatowych Dzielnicy Ursynów m.st. Warszawy.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "MIASTO STOŁECZNE WARSZAWA DZIELNICA URSYNÓW",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df43f6-87bf-657d-c1c5-d500019435b6",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-f6b1cfdc1d55322489",
       "date": "2026-11-16",
       "title": "50 systemów BESS wesprze sieć stacji ładowania Ionity",
@@ -147,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f0fc8541f795844bd8",
+      "date": "2026-11-16",
+      "title": "Dzięki 1 mld zł z Funduszu Modernizacyjnego może powstać 30 nowych magazynów ciepła - MKiŚ, NFOŚiGW",
+      "title_pl": "Dzięki 1 mld zł z Funduszu Modernizacyjnego może powstać 30 nowych magazynów ciepła - MKiŚ, NFOŚiGW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmJxdVY1Nm4wdzVxNzFkMWhEeW1oOWt1RnVtalZhcFZJTktia1ktcC1TUGhMUzdsWjBYRHNHbGlNSk1tLTRVWm1XM1ZRRmQyVUtRTFp3YW5SSmRTOHZhVG91dW1GZWt2LUxpbWRSc3Y1Yno4TFBvak9GazlpVFRqTC1XdTA3Z010WlduTEdyc1BkTEtfck9ERXp4MWtXeVVBck9mRWdrS0I1eW85Z0JrUGQ3VDZEUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ef0dfe426497d1447e",
       "date": "2026-11-16",
       "title": "Prezentacja Mapy drogowej rynku energii elektrycznej",
@@ -171,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-edfb82a62c75208607",
+      "date": "2026-11-16",
+      "title": "Enea Operator installs 80,000 smart meters per month",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcTBCTWQ5MWZjTC1KT1JQRGxuSVdINTJXRGhWdmpOOXE2R1Z4V2ZIeUFtaFVuS1FGNVlvakdBTUYwZnNVMFFuVUVoNjJZbGFtdFQtM25UZUg2T1JOVEFUT3l1SEZpNjBucDgxM3ByZlhEWkxCa0xNN2IyMmhsWjUtR09ZT2QzdzJzMkFaVE45QThiVHF3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -321,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cd3d5b8239537992c2",
+      "date": "2026-11-16",
+      "title": "Hipower Energy SA: Raport kwartalny za III kwartał",
+      "title_pl": "Hipower Energy SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWNlanMzM0ltSGd4alM5RTI3Z2NpeVlkcDZwajk4ZTBpaGNuV1RxUDNhZW5TYWhqSjVSRnNVc1RON0ZRMFdjRGFLMXdPZjl3STFKOXc2d1FqZ2RxVkxacGoydjFfM01NcHBvdkFIaUdSZHlHYkYzY29pVjRYMWRjcm9acGFqSzRldkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c8ba472dd0202b5897",
       "date": "2026-11-16",
       "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
@@ -345,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c678708f5ae4bcebae",
+      "date": "2026-11-16",
+      "title": "Enea zwiększa wsparcie dla lokalnego sportu. Rusza druga edycja konkursu #MałyWielkiKlub",
+      "title_pl": "Enea zwiększa wsparcie dla lokalnego sportu. Rusza druga edycja konkursu #MałyWielkiKlub",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRiQ19JTWVyQWNLNWpiaWk1X1JEV2VEOEhkMUtBZlFha3VXejNSbTNBc2lpNnVvbUFHc2dGOWV4Yy1OelZhNzRveTFYbzRTMGJQVXRRRE1UaVZlRTFKYmMxVWFVNFpSRXNMOFc1NDdEZ3dZZl9oMVJoZU9TMGo0SV96LWpvcFYyNnpNZ3dBY1pKclpVem85ZnlKZUxTSUFFejBPZU9oR0pXOUd3YW9sZlRHdEpVTG1jVWc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -493,6 +638,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-abb4bc06ae15e51043",
+      "date": "2026-11-16",
+      "title": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
+      "title_pl": "We wtorek 17 listopada rząd zajmie się projektem dot. maksymalnej ceny gazu w '27",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWhsOXZIelhIajA0ZUYwbTZsekxpUXpPRmhyS2w0N1I2TWJNSHJBZUJzRVdmY05feWVrOVU5QXh4a084UTdXaGVKMm5ET3NEY05pRXpwMDBENUFZTmJqRVd4RTFzN2JNUHVqR29vQkNCbUQ5ZlVkRGxxLVlYQmtYVnBKUUJtQ1NaTlVNald3Tmx1UTVHXy1Ed3YyOEF4YWFqZkhreHRCOGFsNkdHTElZOFo3S2p6SmR6OVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a9fe7b70f0d2cdafd2",
+      "date": "2026-11-16",
+      "title": "Art. 243. komunik.elektr. - Szczegóły propozycji zobowiązań",
+      "title_pl": "Art. 243. komunik.elektr. - Szczegóły propozycji zobowiązań",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90S3ZBRlhlSGktbDBZSDk5Qzd6TDNWZWlOa2hVNlRFeXlDY2Q4YkUxZkR5Rnhlc1pCd296Z29LRDRaWkIzcm9QOUxCY3dCYXdkN1VGQ3NESUczbmU0ZWVXZkwtRk1ES1liaEdYaUZoOFk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://lexlege.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a649881eeb5eab8b65",
@@ -698,6 +901,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-82618121acb2137b8f",
+      "date": "2026-11-16",
+      "title": "ENEA Sprzedaż zdobywa duży kontrakt na dostawę energii elektrycznej",
+      "title_pl": "ENEA Sprzedaż zdobywa duży kontrakt na dostawę energii elektrycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmVPN0lna0Z6Uk5xcnZzTEZlUDBvRlFRalJBcXd4aW1DZmNOUlhtREpsYkpUZmVJY3BqUWtMME1WTlU4eHJHcUZTM0dFR3hMVjlMd2NJVzlVZml4MDBiWkxMV2dISTFlaXVQTlc4d3pnQ3I3RkRBeVZoS1NaLVNWdFluZnJVOFZQZy1CbkJicHhrX1NCd3N6bS1ieGkxQmNwNjlDLU1VcjJab2N5SVEta2phd2w0NmpOTVp2WkY0LW1aR2s?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-80c172b6f482fcb864",
+      "date": "2026-11-16",
+      "title": "PGE Energia Odnawialna S.A.",
+      "title_pl": "PGE Energia Odnawialna S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "UOKiK — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHMlhtaXRWeVdiY2pNTm44UXFfcWxJQkNLRGtpTWg5RFB3NWZSWFF5bEFLbHFCUjZtd1JoYWUwRXFaWFAxTGZxRzNJTjNpUkR0bm8yTXJncVlvdVY3TS1r?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "UOKiK",
+      "publisherUrl": "https://uokik.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "10"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7ce3940a7785352308",
       "date": "2026-11-16",
       "title": "Re: Macie ten drogi gaz z US…",
@@ -780,6 +1041,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-67eba13ea9422306c9",
+      "date": "2026-11-16",
+      "title": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+      "title_pl": "Czynnikami niepewności dla CPI w '27 ceny gazu, elektryczności i przyszłość pakietu \"CPN\" - Citi (opinia)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1pua291YnpLMkdrSVRfRUtJMEtwcldtNnRBUE5icE5Nbjd2dTVYbjUyT2xfQi1WUW9VNHc3UTBORTJoZjVHcTg0Y0s3czVzWkxpNzRTTHRCZ3VDbjB6U3E3VmowOFRheENJR0M0VlNNOFIzX2hncDlaNWlPck9ZLV9ycnhIUmZCY0E3Ty1SZy1YMC03d0FqWnF2TXZoUGRyRUZBYURqREJPTHZqdUx0YnlWWklGQ0Q5?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -930,6 +1220,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-54b86fb94008743aaa",
+      "date": "2026-11-16",
+      "title": "Ceny gazu dla gospodarstw domowych w 2027. Rząd odkrył karty",
+      "title_pl": "Ceny gazu dla gospodarstw domowych w 2027. Rząd odkrył karty",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkppNEptaUgybk5jdVZWQ0FnVmdSUjl2TGpVVmJ2cWUzX3dpX1dwckNIeVdkNld6RzVSX2tJNzYtLVNRX2ZZWEZ1eHVjQ0g1UGNYMlRuUl9KV2JQek9nR241aHNsMHJEVHZMOTJ2LUJubG9NZmk4ZDlUMllqWmlteVpXcHRZZldVcDU4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5446c19cb0da732ef2",
+      "date": "2026-11-16",
+      "title": "Energetyka jak obronność. Wiceminister chce zmian. \"Ostatnie weta nie pomogły\"",
+      "title_pl": "Energetyka jak obronność. Wiceminister chce zmian. \"Ostatnie weta nie pomogły\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWtSRXRTSmpkNXZsQTBUdUF0a2pMRTBacU5QT1pudXV0ekh3N2pnVnNxUDdBR1dPNzBaTGFQZ3JlM1dGTmFrUFpYNzVaOWtGVDdpVmk2alRqTFlyV2VIUk1xZ2F3eG9ZeUV6bEhzOXotMWx0SWIwc1RTZ21NeGlPYms0WWNyMUNlUlJPV2psQ3FZcGd2UjhWcWJhdlYzazR0bE5rYm1BQ2FhU0o2bmt1c3VjWFZnTWRrR0F1VjNELU1jNTQ2czdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-516fa20d045877fb4d",
       "date": "2026-11-16",
       "title": "Polska – Części i akcesoria do pojazdów i silników do nich – DOSTAWY FABRYCZNIE NOWYCH CZĘŚCI DO AUTOBUSÓW MARKI SOLARIS",
@@ -983,6 +1331,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4a639258456305481f",
+      "date": "2026-11-16",
+      "title": "Eurowind to connect to grid 28-MW Polish wind farm by year-end",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVdrc0ZzbVFEckFraTVvdnNSajNwMl90MUVPS2IwTk9fLXIzX2k1Y2pRLTJWNmVZNGQ4RW1fMmc2dXR5TjRmZldzMmcyU3VXTHI4a1lDMEFnSXhHWnluSFJYZDRySmk2SFNZZFROU3M3ZTVLN01nMi1Bc3EzdzliTHQzV1hOeVFFWFlZQWxNemZlMW56ZkFKOWFfcGJpY2p3c1RZcQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1046,6 +1423,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-43a9610276690a8107",
+      "date": "2026-11-16",
+      "title": "Inflacja bazowa spadła poniżej 3%. Cel NBP pozostaje przekroczony",
+      "title_pl": "Inflacja bazowa spadła poniżej 3%. Cel NBP pozostaje przekroczony",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Inflacja bazowa – czyli wskaźnik cen dóbr konsumpcyjnych po wyłączeniu żywności, paliw i energii - w październiku po raz pierwszy od przeszło pół roku znalazła się poniżej 3%",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-pazdzierniku-2026-spadla-ponizej-3-Cel-NBP-pozostaje-przekroczony-9229448.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-3ac79f24415a4cf871",
       "date": "2026-11-16",
       "title": "Rosja musi sprzedawać ropę taniej. Sikorski mówi o 30-procentowej różnicy",
@@ -1073,6 +1479,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-372bfc4974ff99ecf5",
+      "date": "2026-11-16",
+      "title": "Biomass Energy Project SA: Raport kwartalny za III kwartał",
+      "title_pl": "Biomass Energy Project SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanBUSGxqaENlSWs4SkZWenkzc3E0WVo1SDRURDltMndOR2ltRmhqd1RrSkdwS3JUckdVa0EtQXVjZmJ0eklrWkhZcm1QSy1uV21aMUpGOU1RV3phQTEyY0h1UFA4SHZTS1NWZUxTYzJtWm1SQzdzM0dyUXI3YXBoRThTblJBaG9zZ0VOV1BWQzlLR2dNTXV3dWk0aGRVdjR5eTVfdExB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2a1ae535d391a932dd",
@@ -1191,6 +1626,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-145e35b1955fc0b3ee",
+      "date": "2026-11-16",
+      "title": "We wtorek ceny 98 i diesla wyższe niż w poniedziałek",
+      "title_pl": "We wtorek ceny 98 i diesla wyższe niż w poniedziałek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "We wtorek litr benzyny 95 będzie kosztował nie więcej niż 6,02 zł, benzyny 98 – 6,68 zł, a oleju napędowego - 7,64 zł – wynika z poniedziałkowego obwieszczenia Ministra Energii. Cena maksymalna benzyny 95 nie zmieni się, a ceny pozostałych dwóch paliw będą wyższe niż…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/We-wtorek-ceny-98-i-diesla-wyzsze-niz-w-poniedzialek-9229515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-089ce4840e43a2b505",
       "date": "2026-11-16",
       "title": "„Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 5”.",
@@ -1220,6 +1684,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-078605f13084a4bcc6",
+      "date": "2026-11-16",
+      "title": "Dofinansowanie na magazyny ciepła. Ministerstwo wykłada miliard złotych",
+      "title_pl": "Dofinansowanie na magazyny ciepła. Ministerstwo wykłada miliard złotych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0YxQlBHWFZLajNZZTY5LVc0VFA2Y195MVYwZTJzaUhKbmZ0WG55TG1vRHpwRHlXeHEwVTE3cjlZYTltSWhfWnRKaHNJa01fZHNsS2ZiWDhVSjk2aUhNOEVpVXVVd0UyMlRvaFNUWFljTkhsVlRYa1pyNllMZUJoTlpCLWs2QzNLLWxpaGV3VEJfa3pjT0hodTNCNmJmNE5BZDRQV1V0Y0s5NGhIamxGZFhWTU0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0383d15cac25ee3a29",
       "date": "2026-11-16",
       "title": "Orlen warns planned windfall tax threatens \"stability of Czechia\"",
@@ -1244,6 +1737,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-035d67b95d5bbc7af0",
+      "date": "2026-11-16",
+      "title": "Mapa GPW: PGE, Synthaverse, Azoty, Asbis i GPW w centrum uwagi",
+      "title_pl": "Mapa GPW: PGE, Synthaverse, Azoty, Asbis i GPW w centrum uwagi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVlUMExrNk5nYTZOTmtCRjBqcWl2V1ROTktIZlA3MVI4WUxkY0l2SHhvTzNkRFEzTXYtMnE4SDg2MW12Tnd6UUtJQkJTZHRrMjBDLUY4Zy1nLU1KM2c4ZjVSX2NqdlNrMHlnMUU3cVQ0WFBLVkdSc2xiRXVqVEh6dThBZ3pnUGI1S1NYRg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
