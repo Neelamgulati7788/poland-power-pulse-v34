@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:26:42+00:00",
+  "updated": "2026-11-16T21:25:56+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -785,6 +785,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b6ca8f0904a926f178",
+      "date": "2026-11-16",
+      "title": "Dostawa ambulansu sanitarnego typ A2 wraz z wyposażeniem oraz dostawa noszy elektrycznych dla SPZOZ Powiatowego Pogotowia Ratunkowego w Świdnicy",
+      "title_pl": "Dostawa ambulansu sanitarnego typ A2 wraz z wyposażeniem oraz dostawa noszy elektrycznych dla SPZOZ Powiatowego Pogotowia Ratunkowego w Świdnicy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Powiatowe Pogotowie Ratunkowe w Świdnicy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4424-95f0-0ef8-c1c5-d500019436bc",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-b4755322da1842d3a0",
       "date": "2026-11-16",
       "title": "Pierwszy mały reaktor jądrowy BWRX-300 nie powstanie na czas, za to będzie droższy",
@@ -841,6 +870,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b1e89596837b1f5409",
+      "date": "2026-11-16",
+      "title": "Global Hydrogen SA: Raport kwartalny za III kwartał",
+      "title_pl": "Global Hydrogen SA: Raport kwartalny za III kwartał",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmNocWhsaEIyYXpVQWdDSlhvQm9mVmc5VXI4cmpQYU56NjRBS0Noc3ZUNVU4UWNGbXNnWllBeWdnUUVUeEV6cVhMcHA3dlh5dXhoMEJZZ29xUGNyMmU1cEprOHVrNm1WWjZ5ZUs1dWF4Wl8yUnpQR2h6S0luYXp4aTNfeEpvbzdqWnc4Yk4zeGN3MWJYNG1pX3dTQ2E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-b1bc22f8cf1f494d4d",
@@ -988,6 +1046,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-a2d128b29c820fc445",
+      "date": "2026-11-16",
+      "title": "ENEA: Zmiany w składzie Rady Nadzorczej Enea S.A.",
+      "title_pl": "ENEA: Zmiany w składzie Rady Nadzorczej Enea S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnU0alZWdm9GT2lpQ0NXeGd4NEIwNUtHWFZaeTFVN0NsOWFnTVpxRmZQLThFYXpsZ1J0YXBYT0FNeEdiNGRlS3E3VEMtSkdwOF9UQ3FiMGNpb2lNLXRnZGVUTHYxRWx6RUp4T2c4X0JlVzBjSmVNZVRTT25LNm9PV2N2dU1MVGRWR09ENEM2QjBlc055UHcxSHdSZ3E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a2bbc5c63021248210",
       "date": "2026-11-16",
       "title": "Energooszczędny dom lub mieszkanie? Bank Millennium ma teraz ciekawą propozycję",
@@ -1015,6 +1102,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-a1ebd04764e2e2a219",
+      "date": "2026-11-16",
+      "title": "Budimex Mobility wprowadza nową taryfę nocną i rozwija sieć stacji ładowania o kolejne lokalizacje",
+      "title_pl": "Budimex Mobility wprowadza nową taryfę nocną i rozwija sieć stacji ładowania o kolejne lokalizacje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWE9vUFZrcGlUNDlnNEVVTzg5ZDJtaHlaWjFJZGpwdVNOdWlSVGhEZ0dZdG53VWpGeUlxNGU4aGVfNEpRNWxfSzlkNlJWNjc3QkVUdGdDaWJSSmwtYnBJLTlyLXo3ZXY5R1lac3BJLWhQMU9TUERWUGVPRi1pVExRWDVaazZibmhPdlkxbEdVQUxINTR2WmhuUExVNGNIRnJYaERJSFphSUZyUVBFUFl3Zl9iTkhPNjR5QXR1S1hjNEZraS1aRG5OdTM5Z1N0R01YUlI0Ni1ZXzVNSFROVUJ6d1FlbG9hS0x5eDd6RExTRHVoVGlCY21VcTRoeTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://elektromobilnosc.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9a769284b88888b4e8",
