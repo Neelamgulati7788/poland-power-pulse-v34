@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:41:27+00:00",
+  "updated": "2026-11-16T12:12:28+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -31,6 +31,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-fc875c9313b34def5c",
+      "date": "2026-11-16",
+      "title": "Krajowa Grupa Spożywcza zmienia strategię. Wchodzi w energetykę i planuje przejęcia",
+      "title_pl": "Krajowa Grupa Spożywcza zmienia strategię. Wchodzi w energetykę i planuje przejęcia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Krajowa Grupa Spożywcza inwestuje w działalność niezwiązaną bezpośrednio z produkcją cukru, aby uniezależnić się od niestabilnej koniunktury na tym rynku; to element realizacji strategii rozwoju na lata 2025-2035 - przekazał w poniedziałek wiceminister aktywów państwowych Grzegorz Wrona.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Krajowa-Grupa-Spozywcza-zmienia-strategie-Wchodzi-w-energetyke-i-planuje-przejecia-9229315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-fc1da0a0e5c840da77",
       "date": "2026-11-16",
       "title": "Gaz tanieje w Europie. Rekordowy eksport z USA i łagodna zima studzą ceny",
@@ -60,6 +89,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-f6b1cfdc1d55322489",
+      "date": "2026-11-16",
+      "title": "50 systemów BESS wesprze sieć stacji ładowania Ionity",
+      "title_pl": "50 systemów BESS wesprze sieć stacji ładowania Ionity",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZV9HaUljMDk4LTV3MThwWmREZl91QUdvdUN3QXRGdFVGRTdFNENNOHhkUFlhemFyYjNkbk9sREFjMjluSXdZc0Q1SkdyRTliSGNEVFlzaHdNUEZ0M2NMdVF5OEEyN2V4VEFiVDhWeWU5Z195LUhOanNoSFZDSzVnQWlYY2NsM2dMV1U4b2VJRHh1RTVTTUw4eGZQa0t0Umt3dkZvZ3JVY1BiTVk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f432b6b6274c6eee30",
       "date": "2026-11-16",
       "title": "PGE podaje szacunkowe wybrane dane finansowe i operacyjne za III kwartał 2026 r.",
@@ -84,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ef0dfe426497d1447e",
+      "date": "2026-11-16",
+      "title": "Prezentacja Mapy drogowej rynku energii elektrycznej",
+      "title_pl": "Prezentacja Mapy drogowej rynku energii elektrycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzc0aXhwZER4RnVUNmdVNXNqNk1OZV9TUDRNUzV2SzFZelpaVURNb1g0Ym04STJIVjhhQ1VFUnM0ci04LV9yanBWeFU1QXZEWWtwbWlDekRCbmQ5MnlhdGtDTFl2RzQ5T0d0SVpoTzdPZ1hVM2JDMXJoSkdScllLczcxRFpwTzlHbmdlb2dub3hBZ3JKQ3F2alVCQVZBMXhxaFhRem4yZnlLN2pUb0tIZ2RPNU5RTk5QQUpJdEFkODNVaVM1VE81Rk5EQ01sRFJsMzRSZV9PcXlIUVR1UWM2NVhycFFhaU5FV05sRjJn?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -147,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-dff1f6b33507c5b0c9",
+      "date": "2026-11-16",
+      "title": "Ceny gazu w Europie spadają, ale to najpewniej chwilowa ulga. Europa wchodzi w zimę na „delikatnej równowadze”",
+      "title_pl": "Ceny gazu w Europie spadają, ale to najpewniej chwilowa ulga. Europa wchodzi w zimę na „delikatnej równowadze”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTnVJUHM0SlJXNVhqOU9oT3d5NEpWVUN0cjg4MDNYVDRqNWFzekpTampMcjVOVk1GX0d2aXVxRFVXbXpTUzVhSVZLeExLTEFiSTNZalZ1RjhNZ0t6aEc1bHU0UEtEQkdtRXBUYXZOQzE2bllHTjlEX1VtbHVLZzFRQTBJMmlrQVVDZHJqdFhpdTFhN2hNcmxoekdWNXlrVXN2aUhRQk9KcEpXb3FqMTRxNnpVQzV5cW5wSEFsU0RXd0t4bUw0d2RydVFINE5UM2pwMEc4bFR3YzRKMEk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d3ea80c73eb8a29cdb",
       "date": "2026-11-16",
       "title": "UE: Sikorski: sankcje ograniczają dochody Rosji; Europa zmniejsza import rosyjskiej ropy i gazu",
@@ -200,6 +316,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c8ba472dd0202b5897",
+      "date": "2026-11-16",
+      "title": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
+      "title_pl": "DZIEŃ NA GPW: Tydzień rozpoczął się od korekty głównych wskaźników; Orlen najsilniejszy w WIG20",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0lmVE1xOUNRYlNGQXpiSGhRaGFMTzZxVkg1OEJTWWdYTmdTVUM5RFlBaUprUDA5aFQ4T3FwZDZSUHU2dEpPeFVjQ0ROOXZBV1VGOVZEeXNQNTJGeFJCUDBQdXAwOC1xZGVsZnlZZG1qcWtzS1pjMEU3YVpycklUZ0p1cTZVemtkb2ZxZGN4S082MU96b0FIUDJ6NWlPZXFkWHdMcVBEWUJfdTBlR21V?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -408,6 +553,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-9a769284b88888b4e8",
+      "date": "2026-11-16",
+      "title": "Projekt ME ws. cen gazu wydłuża taryfowanie URE w tym sektorze do końca 2030 r.",
+      "title_pl": "Projekt ME ws. cen gazu wydłuża taryfowanie URE w tym sektorze do końca 2030 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkVrRS1yY0xwNzBLTC1rcVlEcTdsa2RlSnVrWkJCNUgtd0F0cENncnFvWXA1NUFBSUM2VjhuYm5IQnJoY0NoMWhTRlQ0a3BKZGthcV9hRU1iU0JjaUkxWGFGRHFYbjJqYnlub2pIVGJ0ZFdyMjZlT1h5azJIcDVmb2Z6MEMyNzgyem9jbmpWY2oyTk83VGI1eFhkN0lEdFl1a1NJdEdPWHdvMlVoQjBwdnh5UUtTbkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8e9d394c8e90b74cc3",
       "date": "2026-11-16",
       "title": "Prąd znacznie droższy od gazu. To problem dla rynku pomp ciepła",
@@ -432,6 +606,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-89d6e97655c8e2a64c",
+      "date": "2026-11-16",
+      "title": "NFOŚiGW uruchomi 15 grudnia program dofinansowania budowy magazynów ciepła",
+      "title_pl": "NFOŚiGW uruchomi 15 grudnia program dofinansowania budowy magazynów ciepła",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3JBNHBVdExSSHlqQThqV2FUMy1qV2JzXzhpTGt2czB2MFA5VjdsV1VRMjJZSXhQOTdhVnNHQ3g4ZUpPQ3kxTFJ5WTkwWkhVTk1xYU1IZHF6VmtKNEQ3a08zeU5wYU4zcVNvYVBvZHNaM3BNZUM4YmMwY2tETnBnS1JoWEY5a2FvQ3Y0UnFrMHJqYVpjamJQeEZXa29Oa2EweHY0MklQV0hrdklVYnNaVVV3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -618,11 +821,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "ORLEN Neptun has deployed floating lidar buoys at its Baltic West offshore wind site to gather certified wind data before Poland's 2027 auction. The post ORLEN Neptun starts certified wind measurements at Baltic West ahead of 2027 auction appeared first on Baltic Wind .",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/orlen-neptun-starts-certified-wind-measurements-at-baltic-west-ahead-of-2027-auction/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnVYZlN0bWtyQUlwTENiZnRYc1p0NjRjaFlUeVhNTzJpMllEbWg0dlB1UmJXNVVPY3lLYTVVekZMMkFBU3d2VG95VW9Cd0JTcy13WGkybnFBZjJ1bW10blZFRlFiYmhid1J4VjRMZXhvMk0xN1ZHMjVXR0NFYzh1UnZpaWItMjNuY2NFbDA2QjhkU1RZaFlpNzJ6d0NrVk1jNGhfMjNCQ1ExQ1U?oc=5",
           "type": "official"
         }
       ],
@@ -630,14 +833,72 @@
         "ORLEN"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-61c3e400021b4a5f1b",
+      "date": "2026-11-16",
+      "title": "Rząd chce utrzymać regulowane ceny gazu. Nowe przepisy do 2030 roku",
+      "title_pl": "Rząd chce utrzymać regulowane ceny gazu. Nowe przepisy do 2030 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnJ3SmF1UU9PdmRSNWRhX01qdDB1T2ktUnF5YVNQdkx5RlZEYnhYTi1iWnBfNEM3LW85S1pOVFlHd1BsNzEtUFlUdWxWTUN1Rm1Ic3llS3NOWGlrQndmM29ia1ZrQWtfVVR0TUp0VVg4MFRkd2t4WjU5VElKeFJzWDZoSjBHRkswX09aaVEyN19Fb2NmM043c2VwbWQzZE5LQ2picVBrclBTWS1ReGk0RF9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5ab5779412eef81d12",
+      "date": "2026-11-16",
+      "title": "JM Elektro Sp. z o.o.",
+      "title_pl": "JM Elektro Sp. z o.o.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3hjRUtuNzgwVjg1UVhxZ09NLVp4UjM4dHRaRHNwdzhzbEFqek9XdW1URXFaNVhCS19Pb0tIcWJUV2JXbng5Ri1ITjBybTNoWmJpZVdfbmRCYXdTSXRwM0dzSWdnb2JvZHN0X2xla2FfSUliQlIwWlNNYWlvSENTdlB5LUxRdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-57fab669d9b4bf8b2e",
@@ -763,11 +1024,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Ukraińskie uderzenia dalekiego zasięgu doprowadziły do unieruchomienia ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderza-w-rosyjska-energetyke-UE-szykuje-pomoc-przed-zima-9229103.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzZsSnhKWHBLUDNLbEl6cEtYMFlxY2pZTkNzaUZpcFQ3VzBYa3VFdFhCdThONE1naFljd2tnZklfbUw1dDd4LWx0RDRBSktyVVc3ODdQTUNnLXNNZ3NMZ2ZuNm84ZVU5QkVnVy1PQlJWRFhIdUNwZkhSelpoczRfQnVXLVR5TlFLS3pMQ21UOE9KdEtYbkhTbEFsOWFQRUFYR0J6bEZEMnZSVG9MLVM4?oc=5",
           "type": "press"
         }
       ],
@@ -781,8 +1042,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-3ac79f24415a4cf871",
@@ -843,6 +1104,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-27ce18f7650d24607a",
+      "date": "2026-11-16",
+      "title": "Dostawa pojazdu elektrycznego",
+      "title_pl": "Dostawa pojazdu elektrycznego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "UNIWERSYTECKI SZPITAL KLINICZNY W BIAŁYMSTOKU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df43da-d507-81d9-c1c5-d5000194310b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-2017e5e4c749dd5043",
       "date": "2026-11-16",
       "title": "Dostawa prasy dla Urzędu Miasta Łodzi w formie papierowej i elektronicznej w 2027 r.",
@@ -899,6 +1189,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-089ce4840e43a2b505",
+      "date": "2026-11-16",
+      "title": "„Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 5”.",
+      "title_pl": "„Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 5”.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PRZEDSIĘBIORSTWO USŁUG KOMUNALNYCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df43da-ba95-3dfd-c1c5-d50001943104",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-0383d15cac25ee3a29",
@@ -1550,7 +1869,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nRnZ3QlpiMWR5cXlzU3U2Z3FmaVBiTFZQQjhrcHVfT010aXl6Vk5vQTQ3aThmWC1uV2pSTXRLUTRjMFZwd3NTRVA2MWl0Q1VPRTNXcXZGOWVocmdPSk13TA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uVGNzY0JJT3ZERndleU9GaUo4cjF1NnQ0MkxSOUtMY1pWQlJuU3JMelUtVnNPbzBzMGUyUHVXR0tnQUllN0tNOHI5anEweHU5?oc=5",
           "type": "press"
         }
       ],
