@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:13:40+00:00",
+  "updated": "2026-11-16T18:26:58+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -176,6 +176,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f203fb8efa338cfe5a",
+      "date": "2026-11-16",
+      "title": "Infrastruktura krytyczna w energetyce. Czy Polska wyciągnęła wnioski z wojny w Ukrainie?",
+      "title_pl": "Infrastruktura krytyczna w energetyce. Czy Polska wyciągnęła wnioski z wojny w Ukrainie?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTZwd3VHVjJQWHI0QVYtR1BRQ0NQTVlVaFRVNUdyLTgzRDJXUWpMWFRRX0lOeGJmRjdYWDM5cUpMNDJLN0xFaE0tUEluUkxhRzRFdHRNQ3pvemdUam03OHgtdVQyQTZWRDZFTExWdGEwdGVpNHVhOHFfZFQ4dDdpcDZiYlFydXBTN25RSUxHNjhyUkdqOVhOV2VKVFQ0X1VWMlVpQkZtMzlwVmJlRk9HVzBTaUZFRDZRYnYxVUVSWEZtbUx6cDNDRjZheFZfaTZiNUozaVI1RQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f0fc8541f795844bd8",
       "date": "2026-11-16",
       "title": "Dzięki 1 mld zł z Funduszu Modernizacyjnego może powstać 30 nowych magazynów ciepła - MKiŚ, NFOŚiGW",
@@ -265,7 +294,7 @@
     {
       "id": "src-edfb82a62c75208607",
       "date": "2026-11-16",
-      "title": "Enea Operator installs 80,000 smart meters per month",
+      "title": "Enea Operator installs 80 000 smart meters per month",
       "title_pl": "",
       "lang": "en",
       "translated": false,
@@ -640,6 +669,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ba38db18039fee4e7c",
+      "date": "2026-11-16",
+      "title": "Dostawa węgla kamiennego sortymentu groszek, typu 31.2 lub 32.1 /płukanego/ do SPZOL w Rajczy przez okres od 01.01.2027. do 31.12.2027 r.”",
+      "title_pl": "Dostawa węgla kamiennego sortymentu groszek, typu 31.2 lub 32.1 /płukanego/ do SPZOL w Rajczy przez okres od 01.01.2027. do 31.12.2027 r.”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKUŃCZO LECZNICZY",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df440f-2b3e-8bd5-c1c5-d5000194364d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b8a18c2bed6e6a0a05",
+      "date": "2026-11-16",
+      "title": "ROZWÓJ INFRASTRUKTURY TECHNICZNEJ TEATRU POPRZEZ ZAKUP SPRZĘTU I OPROGRAMOWANIA DLA DZIAŁU KABINY ELEKTROAKUSTYCZNEJ - ZAKUP I DOSTAWA OŚWIETLENIA ORAZ SIECI ŚWIATŁOWODOWEJ",
+      "title_pl": "ROZWÓJ INFRASTRUKTURY TECHNICZNEJ TEATRU POPRZEZ ZAKUP SPRZĘTU I OPROGRAMOWANIA DLA DZIAŁU KABINY ELEKTROAKUSTYCZNEJ - ZAKUP I DOSTAWA OŚWIETLENIA ORAZ SIECI ŚWIATŁOWODOWEJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "TEATR POLSKI",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df440e-8620-9d76-c1c5-d50001943645",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-b4755322da1842d3a0",
       "date": "2026-11-16",
       "title": "Pierwszy mały reaktor jądrowy BWRX-300 nie powstanie na czas, za to będzie droższy",
@@ -988,6 +1075,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-84e1ccd6fc8c2d7d81",
+      "date": "2026-11-16",
+      "title": "Re: Czy Att spada bo gaz tanieje?",
+      "title_pl": "Re: Czy Att spada bo gaz tanieje?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGp3d09WQnNmZEI2TGdlOUNacFVtdVJCRE1pWFNBd2tQQU5HOFRJWjNSYWMxY3U3eEw0LVNMNVRmQV9scnF3akR0cnBmNXE5OFVqVnUwMmVwaDYtSkNfUHNXZWk0TVJfeUxsUXExUW1GdVFnZ1JUS0hWM1dMNGs3cnRBbDMtRk0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-82618121acb2137b8f",
       "date": "2026-11-16",
       "title": "ENEA Sprzedaż zdobywa duży kontrakt na dostawę energii elektrycznej",
@@ -1041,6 +1157,35 @@
       "reviewed": false,
       "sourceIds": [
         "10"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8021379ec8a0ef94c5",
+      "date": "2026-11-16",
+      "title": "\"Ciepło z Polski dla Kijowa”. Przedsiębiorcy wsparli drugą edycję akcji, celem 10 mln zł",
+      "title_pl": "\"Ciepło z Polski dla Kijowa”. Przedsiębiorcy wsparli drugą edycję akcji, celem 10 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMm94NlItS29SQ0JNWi03dEVsbXN1NlozZUJmUG9oOWxNc1VUMTlabTNrMncxdTZJdnluNTUtNFhlaFBwWWI5by1zYkNEVVZocWxvTEtEUHdKVWFZQ0tPZk14Sm9BamIySmRWaWxBenVXckpmMXJzSUdiODlvVmlNZUdPRjFfa1pwdmluY2ZjNUVLR0JUUjc3UURpRThWMWFlQ0ZZbTRjOGI3aUhJMHRSbkFSUkJQZk9nbmJUSnRWZ3BRVndDNnNzWFFxdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
