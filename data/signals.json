@@ -1,6 +1,122 @@
 {
-  "updated": "2026-11-16T08:44:22+00:00",
+  "updated": "2026-11-16T10:41:27+00:00",
   "signals": [
+    {
+      "id": "src-fcbc915060c36ebaab",
+      "date": "2026-11-16",
+      "title": "Przyłączenie budynku mieszkalnego wielorodzinnego przy ul. Św. Mikołaja 5 w Toruniu do miejskiej sieci ciepłowniczej.",
+      "title_pl": "Przyłączenie budynku mieszkalnego wielorodzinnego przy ul. Św. Mikołaja 5 w Toruniu do miejskiej sieci ciepłowniczej.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zakład Gospodarki Mieszkaniowej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df43ce-1f2c-fb68-c1c5-d50001942e3b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-fc1da0a0e5c840da77",
+      "date": "2026-11-16",
+      "title": "Gaz tanieje w Europie. Rekordowy eksport z USA i łagodna zima studzą ceny",
+      "title_pl": "Gaz tanieje w Europie. Rekordowy eksport z USA i łagodna zima studzą ceny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny gazu w Europie spadają. Łagodniejsza pogoda i rekordowy eksport gazu z USA spychają na dalszy plan obawy inwestorów o niskie zapasy gazu na Starym Kontynencie - informują maklerzy.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Gaz-tanieje-w-Europie-Rekordowy-eksport-z-USA-i-lagodna-zima-studza-ceny-9229249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f432b6b6274c6eee30",
+      "date": "2026-11-16",
+      "title": "PGE podaje szacunkowe wybrane dane finansowe i operacyjne za III kwartał 2026 r.",
+      "title_pl": "PGE podaje szacunkowe wybrane dane finansowe i operacyjne za III kwartał 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUE1JWjlocTBfeC1NcnRXOEZ5VUVKXzJ1LW9vYktkcHZETFFzM1ZNTk9nVjItYVlvQ0R4aHRMWW10UjdkQW4xandhWWwxaGprd2paQ1dxZGgtWE9RdmNZLUhUeTV5eE93N0NLYl9mR3NTR1czdktzZzFJRHRBSnZydU5LcE0wSTNyNWQ1bXhvRnVoTFVUbjBGYm5jcmQ3anlyYi11ZUlweGFWU3psSzM5dUl4UEJQM1Q3OEFJb1dVbkd0WVFGM25hSDhKQkY1eFhmbmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e6b31bd3ee38a28dde",
+      "date": "2026-11-16",
+      "title": "UNIPOWER – jak zwiększyć rentowność instalacji OZE i magazynów energii? - SERWIS INFORMACYJNY CIRE 24",
+      "title_pl": "UNIPOWER – jak zwiększyć rentowność instalacji OZE i magazynów energii? - SERWIS INFORMACYJNY CIRE 24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzNVMlJGdlU1d0JfT1BWbUlySjhvT05jQzRiblVMQXh4eWl0ME5rd21TanpNdzhZSFpuMERCUFZMWWVUeVlnbjBTN3RkUjVULTFuYTFGYUU2WURVSjVWb3pmY0gyOTVKckg4bkZZM215ZDVKT1E4dXVvLTdpMnoxRi1JdUo3Z0t2cHZNcG1CLWsxYVBBbVpaQnJRSlRwUHE2eTNnSU5pSEVHZ01sbjlibEVJdExJMzl4SzhzeV93SlNFWm9z?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-e2aaa832884d084d52",
       "date": "2026-11-16",
@@ -31,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d3ea80c73eb8a29cdb",
+      "date": "2026-11-16",
+      "title": "UE: Sikorski: sankcje ograniczają dochody Rosji; Europa zmniejsza import rosyjskiej ropy i gazu",
+      "title_pl": "UE: Sikorski: sankcje ograniczają dochody Rosji; Europa zmniejsza import rosyjskiej ropy i gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc094Mm1UcGRNVThIYi1ScVVGai1OZE1pOEVIaVdVU3IwNUl0LWZRbE5PQ3NXM00wUkstVTZSc0JGZzAxMjF2aWJBeTY1N0JBVFl6SGZUV0VwMm03MjRjT3UtZkc3Z3RjdzRvSlczYUt6UjhMdGZPNVZVOWFjazE5Mkh3UjZaQlNFWV9TMWVCYVdremU4a0NNb2VERmV5YjItb3prclpOYTZqNlpxd2xmWkk2YmUzMm12Szh0MDQ4NlFpQUg5dTJWd2RR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ce0ee159924415d7fa",
       "date": "2026-11-16",
       "title": "PGE miało wstępnie ok. 3 mld zł zysku netto jedn. dom. w III kw. 2026 r.",
@@ -55,6 +200,64 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c510ac2f0643a3e3b4",
+      "date": "2026-11-16",
+      "title": "FoxESS Power Beast – elastyczna moc i skalowalna energia dopasowana do potrzeb",
+      "title_pl": "FoxESS Power Beast – elastyczna moc i skalowalna energia dopasowana do potrzeb",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcS14TGZXYnRRNnJ4OE5zTlZBWHVuQ3REU0VPRE9vMl9nLXBZMS1rVnFBVVZuZk9Gd01NQzB3TkFGM3hJREdfbzItSk8tS0RhTEw1cU5MZ1A1TlEyUzZWU25WTVNaWC1RUkNKbnAxelRGcTZxODJxZkVMc1NFOURpR05CRk5ueFZJdC1BOFF0cHFqOS14TmN4cEpKZGdIc19qbGxvZDZ6dmh3LU8wNFoyLWtXMU1xdDVaLWlKRjh3UTZid1RNUTFGLWFIS1lXN3lU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bfcfefb83ef2f1d2f1",
+      "date": "2026-11-16",
+      "title": "Po ile jest gaz w Europie, notowania z 16 listopada",
+      "title_pl": "Po ile jest gaz w Europie, notowania z 16 listopada",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUszaG82VkRLUGRUS0J1S1lxeWxXUmdwc1dRcU55M1pGUW1CcEsyLWthaWttT1ptOC1XZXU0dXJ3MnBucUlOOUkzRUl3LVBaV3kzQVFiV1lqTjRnZGp1LXNZME5vdVZSWjJEWkM5WHNOQXZNSkllSy1EMTVzN0s0QWF5WWdrbmhmNmo3NjRlRl9jaWgxQXJPQk1fbjZZbVZManEyelQ5X0JSRzA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -176,6 +379,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-a2bbc5c63021248210",
+      "date": "2026-11-16",
+      "title": "Energooszczędny dom lub mieszkanie? Bank Millennium ma teraz ciekawą propozycję",
+      "title_pl": "Energooszczędny dom lub mieszkanie? Bank Millennium ma teraz ciekawą propozycję",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Dom lub mieszkanie z niskim zapotrzebowaniem na energię pierwotną to nie tylko ulga w rachunkach. Teraz taką nieruchomość można sfinansować w Banku Millennium na specjalnych, promocyjnych warunkach.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Zlap-promocyjny-kredyt-na-nieruchomosc-energooszczedna-w-Banku-Millennium-RRSO-6-75-9228333.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8e9d394c8e90b74cc3",
       "date": "2026-11-16",
       "title": "Prąd znacznie droższy od gazu. To problem dla rynku pomp ciepła",
@@ -188,6 +420,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3M4UWx4NXk4MlFFTDdnaWZrUkg3N0xOcjJsSHhmNWFYVG9FeEJ1SG1uaVFqdzBLTlhRQ3lPVTBPU1NTZFl2aVBKMkJPSk9taXBlRzVoU09OY016aVA3aW9tUl8zQ3QtVHFuMUxyUE04OFF5ZE5OWS1WX2Zrak5mZEZ3c29jV0NkakNkSXhn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-89193b2cb154f898d6",
+      "date": "2026-11-16",
+      "title": "Kontrakty na ponad 200 mln zł. Onde postawi magazyny energii i farmy wiatrowe",
+      "title_pl": "Kontrakty na ponad 200 mln zł. Onde postawi magazyny energii i farmy wiatrowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaC1Ha0NzR012OFdvSW5KZ3lUT3c5UnExdmhkOHZ5cGducF9iM292UEF1MG40SXhrSkQ5WEMybDNRcDJDZjhaN1prcGFSRTZOQy1MS0stelFQWDhZVHV4NGYwc3MxdDRkS0UyTmlSUG55ZzhCNThkV1QxMWd5NzdHNGZsU0NlVjgyek5VSWJIT2tqbHRpaE9DYVlrZXNldG0tcnJLd2Y3TEVvQ1FMbHlTQmdGMGdyTnJENTFfZ0x2TjlkcFo4RG5HV3Jn?oc=5",
           "type": "press"
         }
       ],
@@ -229,6 +490,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7ce3940a7785352308",
+      "date": "2026-11-16",
+      "title": "Re: Macie ten drogi gaz z US…",
+      "title_pl": "Re: Macie ten drogi gaz z US…",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2dlTjFzT1JwWjJNWDZzNkRzYklDZ3ZsWWlGS1c4MDlORE15eDJxZ3JJVHJOeF9TdXZDY29SREZCWi00MHY5aUxRaVBVVE1vQUNkVzgtYk9BcGVMYW1lcHBXcXJSS05nc2x3OFh4RXQxcW5NNEl1Mm83cTd0WkhmSmlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -316,6 +606,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6374da7efba3a86729",
+      "date": "2026-11-16",
+      "title": "ORLEN Neptun starts certified wind measurements at Baltic West ahead of 2027 auction",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "ORLEN Neptun has deployed floating lidar buoys at its Baltic West offshore wind site to gather certified wind data before Poland's 2027 auction. The post ORLEN Neptun starts certified wind measurements at Baltic West ahead of 2027 auction appeared first on Baltic Wind .",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/orlen-neptun-starts-certified-wind-measurements-at-baltic-west-ahead-of-2027-auction/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-57fab669d9b4bf8b2e",
+      "date": "2026-11-16",
+      "title": "Ceny gazu w Europie spadają",
+      "title_pl": "Ceny gazu w Europie spadają",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SM3lYWjRZbk1JaWxqV3Q5M085bC1UOGprVnpsQzFBMUxMbmZBT2lsS2RhWVppSENLa2VkMk5wSWlYTmdwOF9zTk1OVll3VFRDYjg0SVVOanRkZkNKYldLbGxPcm9UeG41Y2R0cXFoQkwya0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -415,11 +763,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Ukraińskie uderzenia dalekiego zasięgu doprowadziły do unieruchomienia ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzZsSnhKWHBLUDNLbEl6cEtYMFlxY2pZTkNzaUZpcFQ3VzBYa3VFdFhCdThONE1naFljd2tnZklfbUw1dDd4LWx0RDRBSktyVVc3ODdQTUNnLXNNZ3NMZ2ZuNm84ZVU5QkVnVy1PQlJWRFhIdUNwZkhSelpoczRfQnVXLVR5TlFLS3pMQ21UOE9KdEtYbkhTbEFsOWFQRUFYR0J6bEZEMnZSVG9MLVM4?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderza-w-rosyjska-energetyke-UE-szykuje-pomoc-przed-zima-9229103.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -433,8 +781,95 @@
       "sourceIds": [
         "27"
       ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-3ac79f24415a4cf871",
+      "date": "2026-11-16",
+      "title": "Rosja musi sprzedawać ropę taniej. Sikorski mówi o 30-procentowej różnicy",
+      "title_pl": "Rosja musi sprzedawać ropę taniej. Sikorski mówi o 30-procentowej różnicy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Szef polskiej dyplomacji Radosław Sikorski ocenił w poniedziałek w Brukseli, że sankcje nałożone dotychczas na Rosję ograniczają jej możliwości finansowania wojny przeciwko Ukrainie. Rosja straciła swój najbardziej lukratywny rynek na węglowodory - zaznaczył.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rosja-musi-sprzedawac-rope-taniej-Sikorski-mowi-o-30-procentowej-roznicy-9229245.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2a1ae535d391a932dd",
+      "date": "2026-11-16",
+      "title": "Gaz w Europie tanieje. Niższe ceny wspiera pogoda",
+      "title_pl": "Gaz w Europie tanieje. Niższe ceny wspiera pogoda",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDdodHpEYzd5ck1uVkNGb2hZTnUzVzBuTkllenJCY3FrSjMzOHdDbElPSGs0WHgySnJiSGEtOVExXzdUSl93UHk2Rlg3WjZmcFU1YXJOZ1BTME5KOFdVM1lEQS1xdU5RdE1BSm1ETzd6bXNfSjBWemdkaTVRZmdvejRfSVdjWEZKUkI0a3JTMjhQQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2017e5e4c749dd5043",
+      "date": "2026-11-16",
+      "title": "Dostawa prasy dla Urzędu Miasta Łodzi w formie papierowej i elektronicznej w 2027 r.",
+      "title_pl": "Dostawa prasy dla Urzędu Miasta Łodzi w formie papierowej i elektronicznej w 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd Miasta Łodzi",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df43ce-1402-7f46-c1c5-d50001942e39",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-1cbfbd78935ac4106f",
