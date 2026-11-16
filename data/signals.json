@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:35:16+00:00",
+  "updated": "2026-11-16T20:26:42+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -379,6 +379,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e4e0cc24623b92b3f8",
+      "date": "2026-11-16",
+      "title": "Sukcesywna dostawa elektrycznych przepływowych podgrzewaczy wody, elektrycznych bojlerów, zasobników c.w.u. dla Śląskiego Urzędu Wojewódzkiego",
+      "title_pl": "Sukcesywna dostawa elektrycznych przepływowych podgrzewaczy wody, elektrycznych bojlerów, zasobników c.w.u. dla Śląskiego Urzędu Wojewódzkiego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Śląski Urząd Wojewódzki",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df441e-d489-fe82-c1c5-d50001943699",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-e2aaa832884d084d52",
       "date": "2026-11-16",
       "title": "Onde ma umowy na wykonanie dwóch magazynów energii za łącznie 129,8 mln zł netto",
@@ -464,6 +493,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cffc1f48228755435d",
+      "date": "2026-11-16",
+      "title": "Prognozy nadwyżki ropy osłabiają perspektywy cen na 2027 rok",
+      "title_pl": "Prognozy nadwyżki ropy osłabiają perspektywy cen na 2027 rok",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Goldman Sachs, FGE i Międzynarodowa Agencja Energetyczna oczekują odbudowy zapasów. Ryzyko zakłóceń dostaw z Bliskiego Wschodu pozostaje jednak przeciwwagą dla spadków.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/prognozy-nadwyzki-ropy-oslabiaja-perspektywy-cen-na-2027-rok/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ce0ee159924415d7fa",
