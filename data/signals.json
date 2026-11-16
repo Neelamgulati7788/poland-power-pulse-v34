@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-15T23:48:03+00:00",
+  "updated": "2026-11-16T01:24:39+00:00",
   "signals": [
+    {
+      "id": "src-516fa20d045877fb4d",
+      "date": "2026-11-16",
+      "title": "Polska – Części i akcesoria do pojazdów i silników do nich – DOSTAWY FABRYCZNIE NOWYCH CZĘŚCI DO AUTOBUSÓW MARKI SOLARIS",
+      "title_pl": "Polska – Części i akcesoria do pojazdów i silników do nich – DOSTAWY FABRYCZNIE NOWYCH CZĘŚCI DO AUTOBUSÓW MARKI SOLARIS",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miejskie Zakłady Komunikacyjne Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df437f-5c5d-0692-c1c5-d50001942683",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ff8f2502f105b87d13",
       "date": "2026-11-15",
@@ -216,7 +245,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamllOHN4SmoxR2ladXd3aHhCUTVRaVQtQWJpUXdPT18xbGtsN0pwS2VTa3hvNTlRVkFpbFQ3cVE4TU9nejFEQm1uVm5fY1FrdXRBRXREblFicnoxRmVxQTlVTVlxTnFkNjJrT2FMZGdtQXNTU2ZWQmktUUxmcFFVNXl2TkRoc3g4Q3hIbDFuZkFiTmVEUW5nSG1IMjQxOERJbk94ZUhieWxrTjZFU0ZCbUUxZjV5R0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPekRrOUp6VHdpdklLTldEWXU3S2xRWWMyZjlTUW1hWlJxd2NjWHEtV1FjRVVrZ0Z1RTFIOUFzWWhoSmdURndYYnRvVUVsc0VKQnZhMVlzQmJjUU5IY3JYcV9oN1pKMU5CQUxUeU53MWR4ZE1pUVNMUUYwSU16aXoyMDhFNTVneDV5ODlXZWtKTXJuMGFlVHFFb2VMbmNtMUxUWmJxZ0dnWVk1TWJXT3h2LUFHdVFPTVdiRGc5cmZyZVdOMy1tVzFEclV3S2UtV3E4ZWNDRnFJZks2b1l5LXROUks0amk?oc=5",
           "type": "press"
         }
       ],
@@ -224,7 +253,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -432,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4faaed1e87d40b4744",
+      "date": "2026-11-15",
+      "title": "❤️ CENA WĘGLA KOKSUJĄCEGO W AZJI ❤️",
+      "title_pl": "❤️ CENA WĘGLA KOKSUJĄCEGO W AZJI ❤️",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUZheng2N1E5bHdveTZsUFkxWGNOQUo3aGRFWFhJNnhxNUh2R1M1MU9yVnlEY052MzVWUEV5SmZYRnp5R0FnXy0xdUFUZnB1Rlk0aE1EUDFkdEI5ZFRoWGVEX3NmTWdSZEVDTFplNFF0RlgyWXA5OXB3RnBWRzl2eGNsdG8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
