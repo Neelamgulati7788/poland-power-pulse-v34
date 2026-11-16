@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-16T02:39:07+00:00",
+  "updated": "2026-11-16T04:14:43+00:00",
   "signals": [
+    {
+      "id": "src-a649881eeb5eab8b65",
+      "date": "2026-11-16",
+      "title": "Polska – Elektryczność – Dostawa energii elektrycznej do siedziby Ambasady przy Starowileńskim Trakcie",
+      "title_pl": "Polska – Elektryczność – Dostawa energii elektrycznej do siedziby Ambasady przy Starowileńskim Trakcie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ambasada RP w Republice Białorusi",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df437f-6967-16db-c1c5-d5000194270e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-516fa20d045877fb4d",
       "date": "2026-11-16",
