@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:39:33+00:00",
+  "updated": "2026-11-17T10:06:37+00:00",
   "signals": [
     {
       "id": "src-f5aa1719861fb292fa",
@@ -60,6 +60,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-f286701b4c9df80475",
+      "date": "2026-11-17",
+      "title": "Wyniki aukcji OZE 2026. Prawie 1,9 GW nowych mocy w fotowoltaice i wietrze",
+      "title_pl": "Wyniki aukcji OZE 2026. Prawie 1,9 GW nowych mocy w fotowoltaice i wietrze",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWJrOXlXa05LUHJac2N5MTctblozMU9idlpTNWtrOU9oaVdpYkM2QjlTeFJZZTh0N2V1bkhQZHFaQ0dleXd6bmxqTTJJV1VOMnpPdzd5NkNGTDh0X1h5a0V0VVZxVkRtc3kyWFVqRGxBYzFPSVBJZ2JOQkc1cVZPcU5UdUhDSkthM0F0YTQ1b2pYXzVCbjRvWGpYLUpCWTMwb1BzNk1KcDdHcnhnbnRIYlE4UDEzcEtlT09KdTRlcXRGMnQ3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-f0d6623def91fa6489",
       "date": "2026-11-17",
       "title": "Poczta Polska ma finansowanie na kupno Orlen Paczki - Balczun",
@@ -84,6 +113,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ec9d06433c3df8ff91",
+      "date": "2026-11-17",
+      "title": "Balczun: Aramco nie planuje sprzedaży udziałów w Rafinerii Gdańskiej. Poczta Polska ma środki na przejęcie Orlen Paczki",
+      "title_pl": "Balczun: Aramco nie planuje sprzedaży udziałów w Rafinerii Gdańskiej. Poczta Polska ma środki na przejęcie Orlen Paczki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2E3UE50b3JBay03UllPTHVaTHQ2S1lsWmEzdXB4ZjBiYTQ0V0ZNZlpGM19hZ25sR3EtMmxNaGdCXzFKdVdIa0pLX1dFUXVoREZ5OHk4anZ2S1NaZmlwRTNXT3JUdkl4LU01d3IxVDNETUd4d19ibVZpbUtZQXVYYlpRUDhGQmlMN2xPaG9jN1BQTTNsSzRlbkE3Mm94WE00MTBtNTBNbnpDdHJIblVhLTYxNGloQ2tYQUJGS2tRd2JmMGdmdEZseDk1RzcwV01yd1pOVGJnV0h6NzA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -444,11 +502,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Piloci polskich F-35 będą się szkolić z obsługi amerykańskich bomb jądrowych. Ładunki mają być jednak przechowywane poza Polską - pisze we wtorek „Gazeta Wyborcza\". Powołując się na źródła NATO, dziennik podkreślił, że trwają rozmowy na ten temat z władzami USA.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdE1XZVlRMHVJeGlzTkVTUmMzVmU4T3hWMmxWNUViUzJBTlJIMVBhalQ1Q092MWlDTHFwQ0ZZMHJBMHNGdk1JN1ZpX0Jka21IU1lHVjBCZmRHMERKMnRRV0JibWpLYmdPdVFzR1ltNjRzODZrUk5MbjZhaHBPTkFIalNfbTh5aVdTUnNFUUNVV1lfV0t0WHlrdGMwSE9ZaWcxWGlWUmFzaDk0YWdmWmVtUmRUSUtKYUU?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polskie-F-35-i-amerykanskie-bomby-jadrowe-Coraz-blizej-Nuclear-Sharing-9229917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -461,6 +519,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9b66f131a1640d7296",
+      "date": "2026-11-17",
+      "title": "Nadzwyczajne Walne Zgromadzenie spółki w dniu 14 grudnia 2026 r. - PGE",
+      "title_pl": "Nadzwyczajne Walne Zgromadzenie spółki w dniu 14 grudnia 2026 r. - PGE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IMkVxOVcxSHJiY0FQOGF2N1dhT0xnSmh1dE1vd2tlOEdTS1Zlb3RIVEdFUDJxVC11b3YtQXdiSG5WWEk5dF9QRTFodjlkM21aaXVfYm16U0dndGlIU2g1OV91LWcydGhFU0h3TUR6ZHFMWW1NTEE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -732,6 +819,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-54291731798dde526a",
+      "date": "2026-11-17",
+      "title": "Grupa Zakupowa. Kompleksowa dostawa gazu ziemnego w okresie od 01.01.2025r. do 31.12.2025r",
+      "title_pl": "Grupa Zakupowa. Kompleksowa dostawa gazu ziemnego w okresie od 01.01.2025r. do 31.12.2025r",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Miejska Pruszcz Gdański",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4492-5f13-7d22-c1c5-d50001943ebc",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-502d2ffcb8c4871733",
       "date": "2026-11-17",
       "title": "Balczun: Poczta Polska ma finansowanie na kupno Orlen Paczki",
@@ -786,6 +902,35 @@
       "sourceIds": [
         "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3e64e7e3c56dd47845",
+      "date": "2026-11-17",
+      "title": "PSE: moc zainstalowana farm wiatrowych na 1 listopada wynosiła 12 tys. 76 MW",
+      "title_pl": "PSE: moc zainstalowana farm wiatrowych na 1 listopada wynosiła 12 tys. 76 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFNQTjdIMm54VndYSUpLbXR0VUYtRklMQkhoQm1EYThBM1NNb25UNndBRE5QTzRqMTQzU2wtSVQ2VGhCeFlEMVVoT0Etd2pxdU1Bbk1hVVRuM1dBOGJQVTBkWkJyLUh1Z2hrVTZXRzJpZ1RscU5WZFNBY01iRHg0Q1hoQUtMdWVjekRnRm93eFRsZWwtSjN1QWdhaTN4enBNaFJTSzhUanBJbk5XUUlJcW1R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -907,6 +1052,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3672f5b96c7aab3e6f",
+      "date": "2026-11-17",
+      "title": "Ogrzewanie budynków: sprzedaż pomp ciepła w Polsce wzrosła o ponad 20 proc. (MediaRoom)",
+      "title_pl": "Ogrzewanie budynków: sprzedaż pomp ciepła w Polsce wzrosła o ponad 20 proc. (MediaRoom)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1hsZUs3S0V4ejFfZ1pQemVQaHhtbkZpLUVnRkxyOXdZRE5kRUNheV9xUXl5eThuY3dXWWlzdE4tcXVvTzAyV0pWMHpNU1lvUVd0MnA2OENfRFk5WUt1SFd6MGxOUjlydkE3RWVnZmxZYmx6aTlkbDJOeGRhVU5BZkRGVUhoT1hBQVNSTzBpNUFLUjU4TVRNNmtGM05lLVNTS1FqZG5PeE1OVE9PSkpsX0EwbFNZV0NXdHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2c8e7773807eaf70bf",
       "date": "2026-11-17",
       "title": "Re: Prąd i ciepło stanowią 10%-15% kosztów wytworzenia rękawic.",
@@ -936,6 +1110,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2466a5ba6b8207b53e",
+      "date": "2026-11-17",
+      "title": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "title_pl": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVB2d2ZfRURyYVBjSTBvQVBXR0xpekV2cmlRS2xIWnExclFJYWlDOFZiZW82ZlZMSDdqS0pmb2hvTnBZNTAwT0NiYmFvVDdVSXZqdVFrbDJoOGVuT294cHJRdmE5Um5mQVYzMTVNWXVjUVI5T3R1RTJBWVVxbGV6YUpWZ3pqdzdMU3cwYTluUHF1a3duVzJOOFAzNktHcDlpdFh1b2RMWHRtQVVfaTc1ZWNDSGk1aUh3UGdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-23f24cb25bc290ab2f",
       "date": "2026-11-17",
       "title": "Wnioski o dotacje wyślą na pendrivie. Magazyn musi przyjąć min. 75 proc. energii z PV",
@@ -960,6 +1163,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-23dac615e839a0c94f",
+      "date": "2026-11-17",
+      "title": "Re: Wygląda to tak jakby Orlen nie przejmował polimerow",
+      "title_pl": "Re: Wygląda to tak jakby Orlen nie przejmował polimerow",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlh5a05HV1ViOTBWSm53RkttMUxUd2tOcEQ5aEgtQ3o4YXVDXzVjRmZDMVRhbzctSkZRYzgtQkhFNkFGNkhIcWpjSXhMY2M5UlVzU3VFZVFLYjhtZWdnM24yc1hzTUdyUkQ1b3hZY1FQN3hKMkFuOUhwa1lFV0ZUZTdtajh4NXFUWGlHRXlfTWFqLUdDU2V0S3pXeE9vbkNPeVRQemtn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1018,6 +1250,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-038d26a0baf72b0ce7",
+      "date": "2026-11-17",
+      "title": "Ceny gazu w Europie rosną; Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
+      "title_pl": "Ceny gazu w Europie rosną; Iran kontynuuje ataki na bazy USA na Bliskim Wschodzie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDVBSUJoam5NdTZ2OTFlNEQ1LUE3TTUxT1IwSndfa0JSb0liamVEYXVRejE2SDIzLWxQSFgzdkRzeTJBRVBfWWVJSWRxTmtmQ0w4bzFBX1lZQUNVZVdhSXA3dHlHSFFsLUMzOTZudWF3NXEwRmdraTJhdlM0M1YwQ1ljNXY5V2g4TDZxbDJMUkNjNFZpUHJHZW1tdDRMNmRqeE1DTWM1RTVqTGdtaktILVJxUEFTUmFmc2c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3164,6 +3425,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4a243fd3d0f825c53f",
+      "date": "2026-11-16",
+      "title": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "title_pl": "Projekty uchwał na Nadzwyczajne Walne Zgromadzenie spółki PGE Polska Grupa Energetyczna S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVWZVTkg5bXBHVnk3eFdoc1N6Tm9IMjRYYUlYYlRiWWNlSDZEYkZ0c1kwbTVwMjZzRmRvTHpUdHJRUEFFbWRlTjZYWFFVdGtuaExEbGpJWDBrS0NRRVFfeHpnODk3VlUxYXpZQVdlT1BFVFpzNGlUZHdVV3NEUi1SLVp6Z2Z1QmhwSW1naWFjS1NpcklGWHhGX19ma2RHLU43blV5Z2dXYk1OS2thdjJFbUdTaXcxUnF6SjA1akVxUHRudHlpSTc5T1hvcV9yLV9iR29NbER5VFpyUVc4eVE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
