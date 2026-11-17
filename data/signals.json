@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:50:08+00:00",
+  "updated": "2026-11-17T14:56:14+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -205,6 +205,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e93beb410e4cedcb05",
+      "date": "2026-11-17",
+      "title": "Strona 2604 z 2604 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2604 z 2604 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DNU0yMWctaFVtcmxBNVEzUVo4dGRBTWVHeTBwdVlPZ1VmcEZ4MTdQZUJFUDNwVW5McFN3SVlONGlDODFJT01oLTRzLTQ2MDd3ZnduaG82SVdqY1l0UWVaVg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e6b001869dcb0f1381",
       "date": "2026-11-17",
       "title": "Maksymalne ceny paliw w środę w dół. Minister Energii ogłosił nowe stawki",
@@ -261,6 +290,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e51e3969c3106dbfe8",
+      "date": "2026-11-17",
+      "title": "Dostawa prenumeraty krajowej i zagranicznej w wersji papierowej i elektronicznej oraz dostawa danych on-line na potrzeby Ośrodka Studiów Wschodnich im. Marka Karpia.",
+      "title_pl": "Dostawa prenumeraty krajowej i zagranicznej w wersji papierowej i elektronicznej oraz dostawa danych on-line na potrzeby Ośrodka Studiów Wschodnich im. Marka Karpia.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ośrodek Studiów Wschodnich im. Marka Karpia",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44ba-0037-ba61-c1c5-d500019445bf",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-e2fc9da6e6c63ee18f",
@@ -676,11 +734,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz powiedział we wtorek, że Polska idzie w dobrym kierunku, jeśli chodzi o zaangażowanie w program Nuclear Sharing. Jak wskazał, w tej sprawie zostały podjęte już „pewne ustalenia\" na szczycie NATO w lipcu w Ankarze.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Nie-tylko-baza-wojsk-USA-Polska-coraz-blizej-programu-Nuclear-Sharing-9230258.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0hBdFBwVDNnam9YVkVBOUtvT3FBNERoMm8xcFhkR0RkNE5GQXBCVi0xRlRUakVLakdBbTg0Q3NCblpNYlNpUENqNTJPSFBvLWc1SUVjTEZMUlFKejR1NnJQU19sZnc5VnYxUUN4b0pxN3d2WEM2M3NyeFg1cl8zUkZYMHFyRnpCOVBZOXhGOWswdzgyUkhuQnAxX0QyRHhTMVdpYzVFM1RjcVppSkFRNGhrXzFOZw?oc=5",
           "type": "press"
         }
       ],
@@ -694,8 +752,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bbd05a81cdd27d52c8",
@@ -751,6 +809,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b7097458c34b9465f1",
+      "date": "2026-11-17",
+      "title": "Zima w cieniu rosyjskich ataków na energetykę. Do Polski może przyjechać 2,5 mln Ukraińców. Gdzie strategia rządu?",
+      "title_pl": "Zima w cieniu rosyjskich ataków na energetykę. Do Polski może przyjechać 2,5 mln Ukraińców. Gdzie strategia rządu?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcm5fbFc2bjZOSHNLTkdOZXVSd2ZFdEZYanFOTWtuV3Q1VkpRZG9fS3daX1B5Y2s5eUFFZ3llQXJLYlRBdmVTM2NZOEFhYXZEek5tNHpGcFpna3Jkem50TkZ6RVNnWWJrZ1FsUlJtRDhpU2hZQjNQQXZUckMzeUZJd2gtWmI0eFhlODg2d2c2bHhIZlRYOTBWekNuaV9sYnJobGJjZVBPQ2J5RmZHWkxscmFzQUNLNDdEVVBCQ0MzNjViN29lb0JhU3VaWG9xeWJXQzZCVE8ydndNWUxlU1lTekoxZVZqUGtESUpJNTZ1eXBvYWJlNHhz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b219b2420618780293",
+      "date": "2026-11-17",
+      "title": "Rząd przyjął projekt ustawy o mrożeniu cen gaz od 1 stycznia 2027",
+      "title_pl": "Rząd przyjął projekt ustawy o mrożeniu cen gaz od 1 stycznia 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDlBaXdVU0EwMUkxRC1sbmlxTE5UdUhDWWFlTzdxZVhsRW1PZ0w2a05Ob09zZE53ajVNNUdFUTdmcjlHS2FUaUVUVG5rQklyU1FIeENnV2QxRThUcjRJaUNPZXNjUldKRlhUdjE4RGYxTlJYaVJMZHNSV3NLV2hRWElmOFd2dk9GTldXeXVjbjFWSncyZWJsdkprNVBCODRZYUdldDZkSVhqaGktMzVyazZyT1oyYWxwOVIwdHdLcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -901,6 +1017,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9e9f1a353a5e298fc0",
+      "date": "2026-11-17",
+      "title": "Rząd uszczelnia system zapasów ropy i paliw. Większa rola RARS i twardszy nadzór nad rynkiem",
+      "title_pl": "Rząd uszczelnia system zapasów ropy i paliw. Większa rola RARS i twardszy nadzór nad rynkiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rada Ministrów przyjęła projekt nowelizacji przepisów dotyczących zapasów ropy naftowej i paliw, co ma zapewnić ciągłość utrzymywania zapasów, ograniczyć możliwość unikania obowiązków przez przedsiębiorców i usprawnić zarządzanie zapasami interwencyjnymi - podał w komunikacie resort energii (ME).",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-uszczelnia-system-zapasow-ropy-i-paliw-Wieksza-rola-RARS-i-twardszy-nadzor-nad-rynkiem-9230286.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9cda0e45d2804a97bb",
+      "date": "2026-11-17",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjB5Y25OVzd1a2dNTEIxV0lxekcwRWg1MlJYckxYQ1VsWlZPSmlKSl82UnI3QTdSTm55Xzh2a3VUMk11cG93Yk94Vm5makFsZmtMQ3RWMElvNzlVaE1YdVc4ZGE2dWpDcnQwV3N0R0FCRFlJanlIeW5VTllSLVhUZnA3VVRnX0xz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9b66f131a1640d7296",
       "date": "2026-11-17",
       "title": "Nadzwyczajne Walne Zgromadzenie spółki w dniu 14 grudnia 2026 r. - PGE",
@@ -925,6 +1099,35 @@
       "reviewed": false,
       "sourceIds": [
         "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9b573d78bcd5f759dc",
+      "date": "2026-11-17",
+      "title": "Rząd przyjął projekt nowelizacji, który ma uszczelnić system zapasów ropy i gazu",
+      "title_pl": "Rząd przyjął projekt nowelizacji, który ma uszczelnić system zapasów ropy i gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGV3VHl6OUJ1cHNMUHQ2T2tTT3gxc1B4VW9FcmFFZ2xweTl1ckJ1Zk1vOEFpN29yYXZZRUFneW5fMVRVbVBRLUNhTnV4T1VRazltY1M3VDUtREV4NVhfdUZLWEZvekl5MnJCV2Ztd3hyQVJuVkhnVXA2TENNVDdrR1BSMEJ3ampsNTZ1NGZMMnItNDBfQUhxc20wdzJ4bWVSalhJdjFveDJ4bDViWFo3TVk3d1BXQmVx?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1546,6 +1749,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-457c6867e168e4f4af",
+      "date": "2026-11-17",
+      "title": "System zapasów ropy i gazu będzie uszczelniony? Rząd przyjął nowe przepisy",
+      "title_pl": "System zapasów ropy i gazu będzie uszczelniony? Rząd przyjął nowe przepisy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTVjUy10UWVRV3lodVpJVlgxdnBlcTdqNlU0ZzZIUHo2UGdNUkN2SDFHU2tMY0NwNDhlaTZhU2RyOHhha1dKZ3pKMDhCMzZGM2pOdDRrd1FmUjBjVm5vNEJpVXRfTTlMQzVMcHVPU1ppMlp4OXFxb1d4a2Q1SDhSRWxtRVZobVdvLXNrMG5qVzhwQ3FuRnBzYjlPX1hnRnFpWElLQlByWG14Nm4tVWNLYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-42f24bb59b5589924d",
       "date": "2026-11-17",
       "title": "Świadczenie usługi oświetleniowej na terenie miasta Jelenia Góra – przy wykorzystaniu urządzeń oświetleniowych stanowiących własność Tauron Nowe Technologie S.A.”",
@@ -2039,6 +2271,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1d9deb01a54beac3fd",
+      "date": "2026-11-17",
+      "title": "Deweloper farm fotowoltaicznych ma długi. Inwestorzy odrzucili jego propozycje",
+      "title_pl": "Deweloper farm fotowoltaicznych ma długi. Inwestorzy odrzucili jego propozycje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc25lYjNLU2hyUktiTGFzOHFic0Q2cVI5X015T1RvOXd6YzNubFdWM2JzZW9XY05ZZ3R0Nll0Q1czb01VR1lER3ZManBZcmZXaUZEb1FaQ0lZcmR5Vzlud1lKamYxQ2d3M2tNQ3pNWFV6RnBYRFVkU1NvWTNLazVFdVFHVmFRMTVrbmpFMW9lRXRLVEgyOWpSVUtBaUxBNVVTZEtXeWpvT1hjMjVwZHlpM1JUY2NmNktN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-180a7f1a1e5761fc16",
       "date": "2026-11-17",
       "title": "Od węgla do lokalnych źródeł. Transformacja ciepłownictwa w Bytomiu",
@@ -2150,6 +2411,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0cc09daff5e575dd55",
+      "date": "2026-11-17",
+      "title": "KPRM: Premier: Zdecydowaliśmy o zamrożeniu cen gazu (komunikat)",
+      "title_pl": "KPRM: Premier: Zdecydowaliśmy o zamrożeniu cen gazu (komunikat)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHExLVZEQnhGRkgycVoteGhSTFFwdGNZWXE5YjN0eTB6Qk1DZjhUZVE1MWdxVVhhdkVlaU1IbzhreGdJVVM2OU5XalhodzhNbXdyZ1F2Q0x5T2E2MG1qT2NsQWMxZUhlekJQTkgtbTZIcVo2ZkdOYWRyQnlsd3NfTmNHSGhsRmREY252dlRlaUFRb1NQeU90dzV1RGFrZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
