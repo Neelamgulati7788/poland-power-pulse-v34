@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:03:38+00:00",
+  "updated": "2026-11-17T20:08:15+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f407b628b5c05e5489",
+      "date": "2026-11-17",
+      "title": "Posiadamy do sprzedania 4 projekty dotyczące magazynów energii MEE o mocach 1 MW/3 MW i pojemności 4 MWh / 13 MWh na terenie województwa lubelskiego.",
+      "title_pl": "Posiadamy do sprzedania 4 projekty dotyczące magazynów energii MEE o mocach 1 MW/3 MW i pojemności 4 MWh / 13 MWh na terenie województwa lubelskiego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYktWTXUxTGhZbmJaRHZLVld4QkU3RjBvX1JQZnVpZVRrQWRPNlVUQmx6SWdRby1iMHJlbXM4emltMWoxQ215ZTc4X2E2RWFyakNOVzhseEk4enlTT1c5VW16VXp1b0NITGJmZ0h6akdLSWQ4MFU0VmFYSG4tMXhfZ00tRUtQdlNMZ0JkYXZZZklycGI5MGNGRDVKNFJ2ekRKTHlQaUFYbDlBVno1bU1yZ1JjOS1ENFVBckVMMHRteDcxQ3o4ZXJnNllKYUJPcVpfWUVRYXB6M3E3b0xQN01YLUhzV0NOMDVxVDVCQ0ptNXA5RXBEYmk4d1lzX2dpT0lGc2FXeklYUEpSUTA1MzVfWnFtX1VDTXFsdzBZSDNxVWRsWXpqaFg5WTNtWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-f286701b4c9df80475",
@@ -1549,7 +1578,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGV3VHl6OUJ1cHNMUHQ2T2tTT3gxc1B4VW9FcmFFZ2xweTl1ckJ1Zk1vOEFpN29yYXZZRUFneW5fMVRVbVBRLUNhTnV4T1VRazltY1M3VDUtREV4NVhfdUZLWEZvekl5MnJCV2Ztd3hyQVJuVkhnVXA2TENNVDdrR1BSMEJ3ampsNTZ1NGZMMnItNDBfQUhxc20wdzJ4bWVSalhJdjFveDJ4bDViWFo3TVk3d1BXQmVx?oc=5",
           "type": "press"
         }
@@ -1557,7 +1586,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -2093,6 +2122,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-5fffaa940c6648f6bf",
+      "date": "2026-11-17",
+      "title": "KOMPLEKSOWA DOSTAWA PALIWA GAZU ZIEMNEGO WYSOKOMETANOWEGO TYPU E NA POTRZEBY GMINY STAWIGUDA I JEJ JEDNOSTEK ORGANIZACYJNYCH 2027",
+      "title_pl": "KOMPLEKSOWA DOSTAWA PALIWA GAZU ZIEMNEGO WYSOKOMETANOWEGO TYPU E NA POTRZEBY GMINY STAWIGUDA I JEJ JEDNOSTEK ORGANIZACYJNYCH 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Stawiguda",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44e6-8480-4cbc-c1c5-d50001944738",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-5ef078fb0c8ca4334c",
@@ -3868,6 +3926,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e8c548a99fd097a64b",
+      "date": "2026-11-16",
+      "title": "Sprzedam projekt PV na etapie WZ o łącznej mocy 132MW w gminie Maszewo, Nowogard i Osina powiat Goleniów województwo Zachodniopomorskie.",
+      "title_pl": "Sprzedam projekt PV na etapie WZ o łącznej mocy 132MW w gminie Maszewo, Nowogard i Osina powiat Goleniów województwo Zachodniopomorskie.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUVZiLUk1emc2ZGxrczNEVlY5bEM4ZHRYMlpnVHM0T0w0OE9Relk1ZmJUdU5oNk5ZSWhJOTZYak5kbmtjRmpLNkpkbms4T3ZSRk9uY0lseG5jQy1oenJQQ1JfZTlIQms?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e6b31bd3ee38a28dde",
       "date": "2026-11-16",
       "title": "UNIPOWER – jak zwiększyć rentowność instalacji OZE i magazynów energii? - SERWIS INFORMACYJNY CIRE 24",
@@ -4110,7 +4197,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2QxcFVkejV3WndjSWlZOGZ1OW5DY3RnLXdkNHVDSWdKb2c0N2NZSy1heWNJWUdjUU5iSnpjZ1RnUHdGVW1TS3RhblV2V053VEdhV1BVY1VhaXVweHNLR21TSlhNM1BMUmRFTm11bS1abGl6WEJpMzA4M1NpWXNFNmMyRWJzdWhFVDlmd0N3NzhLcktrMWJGY1h1NlhUdFdmZUtJ?oc=5",
           "type": "press"
         }
@@ -4118,7 +4205,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -6070,6 +6157,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-26eb6249d93dc79f30",
+      "date": "2026-11-16",
+      "title": "Sprzedam projekt PV na etapie WZ o łącznej mocy 150MW w gminie Pasłęk powiat elbląski województwo Warmińsko-Mazurskie.",
+      "title_pl": "Sprzedam projekt PV na etapie WZ o łącznej mocy 150MW w gminie Pasłęk powiat elbląski województwo Warmińsko-Mazurskie.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81YXkwUFVvLTRiS0dfcjJuMUg4dHUtOUdsYU5JNzBOdmc2SGloUl95SXlGLV9qN18wRHFqcjdJMXdDdHU1ZFEtOGV3MWtmX3dMbXFBTll1LXJsSzhHWUVMLXdsMVFZOWM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2017e5e4c749dd5043",
