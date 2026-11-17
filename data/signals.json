@@ -1,6 +1,122 @@
 {
-  "updated": "2026-11-17T00:19:14+00:00",
+  "updated": "2026-11-17T01:52:24+00:00",
   "signals": [
+    {
+      "id": "src-e65f274ab3a449bd92",
+      "date": "2026-11-17",
+      "title": "ENERGETYCZNA GMINY NOWY TARG, NIP 7352945890. monitorfirm.pb.pl",
+      "title_pl": "ENERGETYCZNA GMINY NOWY TARG, NIP 7352945890. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTeHlLbFNIRUJvV05VcG5qdU1zU1h5VDR3b0ZSbkFmd2xzRHFZcldzek1GWHk5YVVwLUhxLUhmczRTaFA0elZndWJsZk0tbmxxbVp4cVdxN3NDMzFOMEUtMFZoM3MwMUtOdEVna2ZB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ba53c25a7e01626d71",
+      "date": "2026-11-17",
+      "title": "ENERGY HUB. monitorfirm.pb.pl",
+      "title_pl": "ENERGY HUB. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JLTZpdWtOTlR6Rl9BZkpENzhCNi1JbTNNbjhIbjAwTUg3bVhZOWtLaFJvM3pqVnNId2hCNkh4MGFncnVGWTd1UHo1OXVOdm9TbThiNDZxamtKdklpWkJQRw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a293223d4c62e67abf",
+      "date": "2026-11-17",
+      "title": "Polska – Usługi w zakresie napraw i konserwacji generatorów – Remont kapitalny kapitalizowany generatora 220MK (G2) w PGE Energia Ciepła S.A. Oddział Wybrzeże w Gdańsku",
+      "title_pl": "Polska – Usługi w zakresie napraw i konserwacji generatorów – Remont kapitalny kapitalizowany generatora 220MK (G2) w PGE Energia Ciepła S.A. Oddział Wybrzeże w Gdańsku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE Energia Ciepła S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4448-a540-3772-c1c5-d5000194390e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-876a16af65b2f6225f",
+      "date": "2026-11-17",
+      "title": "ENERGETYCZNA ELPOM, NIP 1990137217. monitorfirm.pb.pl",
+      "title_pl": "ENERGETYCZNA ELPOM, NIP 1990137217. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wRnQ4NUtsTzVPVGMzeDJiTFZibWYzdUtsaXFWMWNWRjNnZndvMWJfSDRFcktMTW9sbW1QSXVWbFNaWlFHQktBeGFvSUIyZzZ4WWZwRlF2aDlUZVYyejctLQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fcbc915060c36ebaab",
       "date": "2026-11-16",
@@ -2768,7 +2884,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPekRrOUp6VHdpdklLTldEWXU3S2xRWWMyZjlTUW1hWlJxd2NjWHEtV1FjRVVrZ0Z1RTFIOUFzWWhoSmdURndYYnRvVUVsc0VKQnZhMVlzQmJjUU5IY3JYcV9oN1pKMU5CQUxUeU53MWR4ZE1pUVNMUUYwSU16aXoyMDhFNTVneDV5ODlXZWtKTXJuMGFlVHFFb2VMbmNtMUxUWmJxZ0dnWVk1TWJXT3h2LUFHdVFPTVdiRGc5cmZyZVdOMy1tVzFEclV3S2UtV3E4ZWNDRnFJZks2b1l5LXROUks0amk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamllOHN4SmoxR2ladXd3aHhCUTVRaVQtQWJpUXdPT18xbGtsN0pwS2VTa3hvNTlRVkFpbFQ3cVE4TU9nejFEQm1uVm5fY1FrdXRBRXREblFicnoxRmVxQTlVTVlxTnFkNjJrT2FMZGdtQXNTU2ZWQmktUUxmcFFVNXl2TkRoc3g4Q3hIbDFuZkFiTmVEUW5nSG1IMjQxOERJbk94ZUhieWxrTjZFU0ZCbUUxZjV5R0E?oc=5",
           "type": "press"
         }
       ],
@@ -2776,7 +2892,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
