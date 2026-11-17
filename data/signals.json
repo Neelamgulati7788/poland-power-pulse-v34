@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:55:32+00:00",
+  "updated": "2026-11-17T04:59:36+00:00",
   "signals": [
     {
       "id": "src-e65f274ab3a449bd92",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c0b288056333253241",
+      "date": "2026-11-17",
+      "title": "„Wykonanie robót budowlanych w formule zaprojektuj i wybuduj dla zadania pn.: Remont instalacji niskoprądowej i elektrycznej (gwarantowanej) w Szpitalu Św.Rodziny przy ul.Jarochowskiego 18 w Poznaniu”",
+      "title_pl": "„Wykonanie robót budowlanych w formule zaprojektuj i wybuduj dla zadania pn.: Remont instalacji niskoprądowej i elektrycznej (gwarantowanej) w Szpitalu Św.Rodziny przy ul.Jarochowskiego 18 w Poznaniu”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SPECJALISTYCZNY ZESPÓŁ OPIEKI ZDROWOTNEJ NAD MATKĄ I DZIECKIEM W POZNANIU",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4465-d98d-a8c9-c1c5-d50001943932",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-ba53c25a7e01626d71",
@@ -331,7 +360,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2hla1MwVTdPYnoxQzAwNzFmRnRSZ1JsYlU3ZVNrWlBiVFNKeXZ0WksxSXdqMG0wOWhYdjVHV0FBemIzTUVLa2ROZFdMS09qWmZ1Zm5uRDhyNjFDWkJqRHA0OFNSdGw3dC1US2RQMVBUbkVfSnZ1UGNaMWJJY2U2VVJGYzNHTU5rMy1fNzI0RnhmZlVLOGRDTmxJc3VnblNVcXVTb2VLS2RmelVDMVBhS0V1aGJFZkRQ?oc=5",
           "type": "press"
         }
@@ -339,7 +368,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
