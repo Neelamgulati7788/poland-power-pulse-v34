@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T11:08:33+00:00",
+  "updated": "2026-11-17T12:27:27+00:00",
   "signals": [
     {
       "id": "src-f5aa1719861fb292fa",
@@ -147,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e6b001869dcb0f1381",
+      "date": "2026-11-17",
+      "title": "Maksymalne ceny paliw w środę w dół. Minister Energii ogłosił nowe stawki",
+      "title_pl": "Maksymalne ceny paliw w środę w dół. Minister Energii ogłosił nowe stawki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W środę litr benzyny 95 będzie kosztował nie więcej niż 5,99 zł, benzyny 98 – 6,64 zł, a oleju napędowego - 7,57 zł – wynika z wtorkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż we wtorek.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Maksymalne-ceny-paliw-w-srode-w-dol-Minister-Energii-oglosil-nowe-stawki-9230191.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-e65f274ab3a449bd92",
       "date": "2026-11-17",
       "title": "ENERGETYCZNA GMINY NOWY TARG, NIP 7352945890. monitorfirm.pb.pl",
@@ -292,6 +321,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-d6b4d7ce8702792d19",
+      "date": "2026-11-17",
+      "title": "Polish government to work on electricity price solutions alongside fuel and gas - PM",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEpRM2dxall6LVEzOGV5MGlMN0x2OGdtM0JxUjcwY3RIeER2WUYtRU9yTTI0eVJnVTRHa05keXlXaVVHUUJxSFJlMGZQX3NWakFlQ0o4QUZyenNBUVBqR0p1UjFibnZaeG5Ha1RaeG5pVEdkanhxTGU0c0VyMHh4UUJKZnUyZ1VZeTVRaURMeEdkdC1rWnJCaV9MWmNoRmpVVW5wT2dqeXVZSDhqQTQ0ZEEyajg4TlYyeVRERQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d55d3592f7ad6d51ea",
       "date": "2026-11-17",
       "title": "Mapa GPW: Action, JRH, Vercom, Orlen i KGHM w centrum uwagi",
@@ -379,6 +437,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cba9d41a9234cbe414",
+      "date": "2026-11-17",
+      "title": "Poland updates its nuclear power programme",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Dentons — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTBZUGo5NVVULWxLRFJrRmF0NjMyMkM1cDVEZGNrOGI5dWRZWUQ0U2gzZHRFVl9nMktEZjB1Y3U4cW1NbHplaUtIZmVUd194VUl1d0ctTmdXZF9xNDVXVFpHS21Bd0JSbUEtams5VTVram0tYlNRaXYtMU9nUi1wZzJwTExfMEtaS3NFNGRZM05EMFRlSmpJaUNwTkJvQU5sWm5paV9KeXdyUXlQUTZEYWNLTVFsRUJ3c09LN2prU2FsN3N4aXpJbDRwWVd5X05VU3pMSmJ0dm41QkhmY085bnpFTzBqcHpoYy1Md3pwN18?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Dentons",
+      "publisherUrl": "https://www.dentons.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "48"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c5ab40f574602920c6",
+      "date": "2026-11-17",
+      "title": "Tusk: Zdecydowaliśmy o zamrożeniu cen gazu. Co na to sejm?",
+      "title_pl": "Tusk: Zdecydowaliśmy o zamrożeniu cen gazu. Co na to sejm?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2hVU0FVUHl1ZlcwRm1rS25JYWtvQXJ3UHlPaEw4X01TMUpWRDVVenJlUUwxR29JUjIyUnBhVy15ZXNRNGh6ZU1XdlZHS2N4bUdaeGJfOTFFVm5CMHZSS2h1Tkp4bUFkNHFYVmhvbWh5aGItTkdUZEYtVU1peWRwN3l4Zjgya3cteTRSU3Q5VWVQWXd0WW9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c251fa71207b1a556f",
       "date": "2026-11-17",
       "title": "Poland and California sign clean energy and climate cooperation declaration",
@@ -420,6 +536,35 @@
         {
           "label": "e-Zamówienia / BZP — source",
           "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4465-d98d-a8c9-c1c5-d50001943932",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-bbd05a81cdd27d52c8",
+      "date": "2026-11-17",
+      "title": "„42/24 – Dostawa urządzeń do stymulacji pracy serca tj. defibrylatorów – kardiowerterów z elektrodami i akcesoriami dodatkowymi”",
+      "title_pl": "„42/24 – Dostawa urządzeń do stymulacji pracy serca tj. defibrylatorów – kardiowerterów z elektrodami i akcesoriami dodatkowymi”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Szpital Wojewódzki w Bielsku-Białej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44a6-1035-aefc-c1c5-d500019442d1",
           "type": "official"
         }
       ],
@@ -640,6 +785,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-982354f488dcb1e31b",
+      "date": "2026-11-17",
+      "title": "Rząd będzie pracował nad rozwiązaniami dot. cen energii elektrycznej - premier (opis)",
+      "title_pl": "Rząd będzie pracował nad rozwiązaniami dot. cen energii elektrycznej - premier (opis)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZE1HMVhWVVF6M09Wdy1uUkI0R2doUmJSMXN0S21vR0p0eElzbnFUZ3lKcXFOcGdRQkNEcUs3cV91WHBtd1FYRHByd3dMQnY5ZHUzcFg5M19tQjlTNmJSNFQzZHVnVmp4RThRMThjWTM2QV9oaVlDUkRmSnFyc0VnVE5WOXVlQUN2bjhyWTMxRzVLZzg5dVZvY0ZKTm9VZVJvaE9Zb3FtOTZBbWttZTlvVklLYUxnZ0pxVjlR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-905fd350c89a89415f",
       "date": "2026-11-17",
       "title": "Enea zainwestuje blisko 108 mld zł. Polskie firmy mają odegrać kluczową rolę w realizacji projektów",
@@ -807,6 +981,64 @@
       ],
       "cos": [
         "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-79d754a6e4b693637c",
+      "date": "2026-11-17",
+      "title": "Większa efektywność, niższe koszty. Rola pomp ciepła w polskim systemie",
+      "title_pl": "Większa efektywność, niższe koszty. Rola pomp ciepła w polskim systemie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcm1hQllCUldpOVB5cjczb3hZV0VvYUs4SWdlaHBaVEJqTE5lYTRIdV9RVVBpcDNSc2EwR1pRQUtQX3hzVW16YloyVG1iZXlzeF8xNmd0ZWFwVmpsVjJQTWMzaUJnenNIcWx1alhkVk5La09xTTNJcFpVcDhzUndnR2Q1ZVFVdVdjdGtOb0V1bmFWcDNGNFUwc04ybEJVbUZrai1hNG91a0t4ZmhYR0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-773adcb2590ee7fca0",
+      "date": "2026-11-17",
+      "title": "Oleksy o roli węgla w polskim miksie(...) - Forum",
+      "title_pl": "Oleksy o roli węgla w polskim miksie(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVZzcGNiTTczNkVsR2Jyd1pkRl90UXRFSV9YOFRGSmVka0ZkazdZRTJvd2Y2LU82bHJOX2JjRHpuZTFlSDlaRFM0UGhrSzNrYnQwTml2UW5Td3ZNbjN4YS12bWNQTU1LcTJRbUszTE9Pb2ctb2ZPWWNydzlpQmxPSEpRWFJMV1l3UXR3dmpRYkEtUnhwV1o5R2hLTHRKZWRI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
@@ -993,6 +1225,36 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-52be9b5e181e60c75a",
+      "date": "2026-11-17",
+      "title": "Usługa promocji gospodarczej Województwa Lubelskiego podczas sezonu rozgrywkowego drużyny Orlen Oil Motor Lublin w PGE Ekstralidze w 2026 r",
+      "title_pl": "Usługa promocji gospodarczej Województwa Lubelskiego podczas sezonu rozgrywkowego drużyny Orlen Oil Motor Lublin w PGE Ekstralidze w 2026 r",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Województwo Lubelskie z siedzibą w Lublinie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44a6-1b84-e414-c1c5-d500019442d5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ORLEN"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-5143e0672384d47d60",
       "date": "2026-11-17",
       "title": "Bułgaria: Tankowiec z gazem LPG zatonął u wybrzeży Bułgarii, trwa akcja ratunkowa",
@@ -1079,6 +1341,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-42f24bb59b5589924d",
+      "date": "2026-11-17",
+      "title": "Świadczenie usługi oświetleniowej na terenie miasta Jelenia Góra – przy wykorzystaniu urządzeń oświetleniowych stanowiących własność Tauron Nowe Technologie S.A.”",
+      "title_pl": "Świadczenie usługi oświetleniowej na terenie miasta Jelenia Góra – przy wykorzystaniu urządzeń oświetleniowych stanowiących własność Tauron Nowe Technologie S.A.”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miejski Zarząd Dróg i Mostów w Jeleniej Górze",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44a6-0299-1efb-c1c5-d500019442d0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-3e64e7e3c56dd47845",
@@ -1255,6 +1546,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-31d8bd423820baa34a",
+      "date": "2026-11-17",
+      "title": "Obok paliw i gazu, rząd będzie pracował też nad rozwiązaniami dot. cen energii elektrycznej - premier",
+      "title_pl": "Obok paliw i gazu, rząd będzie pracował też nad rozwiązaniami dot. cen energii elektrycznej - premier",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVRaFRFX3E4eHRyN0dKdzh1ZTE2RmlIbU4yVmZzRzhNTDFnbFVCUFFZR1BReEt0amFHWVplWC15MktXZjY4dTFyWGtDeUV0Z202dFI3ZkdEeHVVaUV4Tk0zcGZFbEtEeTdGd3FYNjNUSUpleEtQeUJsdzZQVlBEb0hiTFhEMURILXdSTWRfUV8wZEx5TktVUXgzY3VHSkVaWkJoNmlqX0VzVW9JTENneXJKU1BHUnVpTmhRNw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2c8e7773807eaf70bf",
       "date": "2026-11-17",
       "title": "Re: Prąd i ciepło stanowią 10%-15% kosztów wytworzenia rękawic.",
@@ -1353,7 +1673,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlh5a05HV1ViOTBWSm53RkttMUxUd2tOcEQ5aEgtQ3o4YXVDXzVjRmZDMVRhbzctSkZRYzgtQkhFNkFGNkhIcWpjSXhMY2M5UlVzU3VFZVFLYjhtZWdnM24yc1hzTUdyUkQ1b3hZY1FQN3hKMkFuOUhwa1lFV0ZUZTdtajh4NXFUWGlHRXlfTWFqLUdDU2V0S3pXeE9vbkNPeVRQemtn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXNWcEZxUG1vTjc2dzJhZUlGeDBWZ2ZkdUw2WWxQU2ctSXBnR2ptZlZTMjNRTjJvOEpkd0Q2ZHJsOXZES2syS3VVb2tpQVZQQU1xUUtpV3p2RDd2d2VELUxnX2pUd1NjanJMSzhIVXNNcy1lQ2hOaWVtR2s1ZXZoc0NDZ2dmUDhqNWo2aVc0dThJbVl4dFRuLTNINkc1ZmlZZU9RNU5n?oc=5",
           "type": "press"
         }
       ],
@@ -1395,6 +1715,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1e2f9d3900db7c2935",
+      "date": "2026-11-17",
+      "title": "Ceny gazu zamrożone na 2027 rok. Tusk podał stawkę dla gospodarstw domowych",
+      "title_pl": "Ceny gazu zamrożone na 2027 rok. Tusk podał stawkę dla gospodarstw domowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzZKandOZ2J6aVRtMVVtX2lhdHBJT2tLWU8xQnZKcG1fc1hNRW44ZkxXYmwtMGlOWHFRbTBsNGttdHZ6S1R2bVAzUlg3M2toaGNtTG5yY2lCbkpxT1hQMFdKR2llRExsVDRkR3loZXhnNklOd2xwdkVIOUFtbGNMcXF6RGtCTUY1eENXYXpURjJHMTJSVThwaE5ibGdpdHEzNllWeFk5TGlDUE5BOWFLaTZsRFhrcEdUUUVHNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-153e6e6d05194d3a4d",
+      "date": "2026-11-17",
+      "title": "Rzecznik rządu: ustalamy maksymalną cenę gazu w 2027 r.; cena dla gospodarstw domowych nie przekroczy 197,29 zł: MWh (PAP)",
+      "title_pl": "Rzecznik rządu: ustalamy maksymalną cenę gazu w 2027 r.; cena dla gospodarstw domowych nie przekroczy 197,29 zł: MWh (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXUtclc5SlB1OTRkQVR2SFBOYW1RazdLZjN5c0RXNnJyb2NWaGkyYTEtbmI3a1IxakMwSDR3WHZWVW1Lb0ZPbW5hRUNYVE83dld0VGpCdmQwWktQNk9LTWNRTS1ScGl2WURtenEzNlBCeF9uMEhWRkNaSE1mSG1fWEdieHFFUzFYV0ZPWkFqUm02YS1wdmVITUdmWkVMaTdlV2JpUVJpTjdvNDBHcTZ4VzY0UVh3UUQxOGlpZHRVRThDdkc0Y0dobmJqZVY3a25kZjFjcTNnUVpxNE4zdFVHbDBINWRxSm5hV0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3633,6 +4011,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-4a11bbb3c5d7230b60",
+      "date": "2026-11-16",
+      "title": "Od rekordowej drożyzny do taniego prądu. Zwrot akcji w polskiej energetyce",
+      "title_pl": "Od rekordowej drożyzny do taniego prądu. Zwrot akcji w polskiej energetyce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVdaaldSelptc0ZyWTU1REd2Sy1UeVF0Mlg5ejB0RnBrel9vNEE5ZEZXWElsWUowRV9OUFVWQThhdExMMDFOTkNDUmRQRnY2dGdVRWVLcDYzSTJsRF94UGNwSjlvdFIybVZHQVN4eFhNcFVEYXRhemRkVWdOV2JycVBmU2xoZ0pwZGs5SnJpZVdIQ21YMVJ6ekZtdXpYT1ZwVDZoUWpETkt2N1dXNl8yTThDZmdjc3N1VWNMcjNRdEs4VGVFOVRN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-49edab9aa92ce8a751",
       "date": "2026-11-16",
       "title": "UNIPOWER – jak zwiększyć rentowność instalacji OZE i magazynów energii?",
@@ -4095,6 +4502,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-122d891990290dedf2",
+      "date": "2026-11-16",
+      "title": "Archiwa ceny energii - Strona 32 z 32",
+      "title_pl": "Archiwa ceny energii - Strona 32 z 32",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LNUk5bUVYRVNHSWp6aHBFQUVZMmQ3SkU3S0o0RS1TYXVDTlVSOTF0QnNQbmdIT3l5WVJTVTdHTDAyVTY5a2l6NVdhUFQxaWkzNTlLcEdNaG9jYlFoWDIyaXNYZFc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-089ce4840e43a2b505",
