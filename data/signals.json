@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T02:52:35+00:00",
+  "updated": "2026-11-17T03:55:32+00:00",
   "signals": [
     {
       "id": "src-e65f274ab3a449bd92",
@@ -116,6 +116,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3a48ee08c73203fe2c",
+      "date": "2026-11-17",
+      "title": "Polska – Przyrządy do badania właściwości fizycznych – Część nr 1: Zakup i dostawa zestawu pomiarowego do pomiarów stacjonarnych pola elektromagnetycznego w środowisku wraz z dedykowanym oprogramowaniem",
+      "title_pl": "Polska – Przyrządy do badania właściwości fizycznych – Część nr 1: Zakup i dostawa zestawu pomiarowego do pomiarów stacjonarnych pola elektromagnetycznego w środowisku wraz z dedykowanym oprogramowaniem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Główny Inspektorat Ochrony Środowiska",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4448-a66a-8e67-c1c5-d5000194391d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-fcbc915060c36ebaab",
@@ -1607,7 +1636,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMm94NlItS29SQ0JNWi03dEVsbXN1NlozZUJmUG9oOWxNc1VUMTlabTNrMncxdTZJdnluNTUtNFhlaFBwWWI5by1zYkNEVVZocWxvTEtEUHdKVWFZQ0tPZk14Sm9BamIySmRWaWxBenVXckpmMXJzSUdiODlvVmlNZUdPRjFfa1pwdmluY2ZjNUVLR0JUUjc3UURpRThWMWFlQ0ZZbTRjOGI3aUhJMHRSbkFSUkJQZk9nbmJUSnRWZ3BRVndDNnNzWFFxdw?oc=5",
           "type": "press"
         }
@@ -1615,7 +1644,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
