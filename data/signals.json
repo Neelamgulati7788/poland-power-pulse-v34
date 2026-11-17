@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:29:27+00:00",
+  "updated": "2026-11-17T23:26:39+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -2135,7 +2135,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1lTRW1CLURrbEQ4ZWZuRkZ2VXhSOUFMODVVS2NHd3RzS0pzM05LbFFqZVF5RFFmRFpOQ0hfQU5yVzJ5ZlRkamQ0TllrZHlzX0FYX2hKZWJzRllmMHFmaXZMVjJlcTA3cGlWRVdMT1NfU2FuazEwdWNvYWlDSWw5LUNtWG1EbDFIRVExTzJYa3dpUlc0MEZPeW10OGpWak14SWN5MEh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWVCRzd4bjcwbzFTVFZSQndCeXo1bUlKUEhlVlF0LV9CVE9MbXVjTlRwdUQ0WVRobWE4azRwZnJhaEtNQ3h1TE9qTmNFbUtKTVN4YXp6cVlteFNIX0szbmRfVnFsSXg1LWJkU3dic2F4empUS0lpWmFwQUtkTFJFdmtDZ2d6SEtlUXpUY2dKanEwN201YjlNVkUwZktOdw?oc=5",
           "type": "press"
         }
       ],
@@ -2143,7 +2143,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://gornictwo.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -3631,6 +3631,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0485b2000c0a96b758",
+      "date": "2026-11-17",
+      "title": "Prokuratura umorzyła śledztwo ws. decyzji węglowej wszczęte po zawiadomieniach PKP Cargo",
+      "title_pl": "Prokuratura umorzyła śledztwo ws. decyzji węglowej wszczęte po zawiadomieniach PKP Cargo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2N5d1NLV2twZ2lmQlAzRlJnbTBSZ2R3RWVaT2ltdlVpcTdGVlJNRWsyMGVrZ0Z1dWVnOWpTNjhtOE9aLUs5Y3RTQWJxZDJpeU9XRFA2d2dyUFV5T25hWU9nTVg2QVNydjNOQU9YUEhkb2dBVjN3d3ZQVHJXdExhdFZXOTZ5Qi1fZy05T0lHUDRSaHp6am5GUzdYaVhoM2xxSWlsSzdUZlJ4TmliZ1BYaHJSNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -7070,6 +7099,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalBNRnhZRmFHUDFYMV9GUVJ1YTY1cEtQT19WdUtLZmxaSFo5WERiOXQ2cmRWanpxcEVtZkFOOEdWcGt5SkJnWGZzRHZVYWlZcHpqTW90dmcxN3ViU0dLMVpGY290UWFaWmp2RzFBSGVBVjBFQXFUbWE5STlheVBsUGtwTjNPSFRBN01kMzRHZnJpSXVpRWg0WEdDMkNKaDhUSkVPYWxhVmdYb0Q0cmRNZ1NR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-61aa5fec3efc95497f",
+      "date": "2026-11-15",
+      "title": "Leady OZE Tanio, fotowoltaika, pompy ciepła, docieplenia",
+      "title_pl": "Leady OZE Tanio, fotowoltaika, pompy ciepła, docieplenia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnB2S25temZHYUF3UEQ2ZFVDTE9BSW5ZcjAtVDlPanIwNllGWkxPRG1IYi14N3JvWFpWMlRSZlZINlEySGdhM2dMOHlIN2RaZXlNRFE2VnoxSGRvNkIydTFiMi1xcVA0Q1BnNGhmbG16R3FrVEpPNmRBV0tYMEhNLUUzZV9XYndXejdsNzhsczRvMjlXRzAzTzEtX3ppQ09LcnFjMEs2VWRCYTg?oc=5",
           "type": "press"
         }
       ],
