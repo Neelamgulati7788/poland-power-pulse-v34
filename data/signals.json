@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:01:58+00:00",
+  "updated": "2026-11-17T07:18:45+00:00",
   "signals": [
     {
       "id": "src-f42442560189bdbaab",
@@ -58,6 +58,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d90db8ea33d757fb14",
+      "date": "2026-11-17",
+      "title": "Nawet 2,5 mln Ukraińców może ruszyć do Polski. Rząd przygotowuje plan",
+      "title_pl": "Nawet 2,5 mln Ukraińców może ruszyć do Polski. Rząd przygotowuje plan",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rosja niszczy energetyczne linie przesyłowe na Ukrainie, by doprowadzić do katastrofy humanitarnej. To może być najtrudniejsza zima od początku wojny. Polski rząd przygotowuje się na trzy scenariusze - pisze we wtorek „Rzeczpospolita”.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nawet-2-5-mln-Ukraincow-moze-ruszyc-do-Polski-Rzad-przygotowuje-plan-9229904.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-c251fa71207b1a556f",
+      "date": "2026-11-17",
+      "title": "Poland and California sign clean energy and climate cooperation declaration",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Deputy Minister Krzysztof Bolesta and Governor Gavin Newsom signed a declaration of intent on clean energy and climate cooperation in Warsaw on 13 November. The post Poland and California sign clean energy and climate cooperation declaration appeared first on Baltic Wind .",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/poland-and-california-sign-clean-energy-and-climate-cooperation-declaration/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-c0b288056333253241",
@@ -147,6 +205,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-a0b300014cdc15c608",
+      "date": "2026-11-17",
+      "title": "Polskie F-35 i amerykańskie bomby jądrowe. Coraz bliżej Nuclear Sharing",
+      "title_pl": "Polskie F-35 i amerykańskie bomby jądrowe. Coraz bliżej Nuclear Sharing",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdE1XZVlRMHVJeGlzTkVTUmMzVmU4T3hWMmxWNUViUzJBTlJIMVBhalQ1Q092MWlDTHFwQ0ZZMHJBMHNGdk1JN1ZpX0Jka21IU1lHVjBCZmRHMERKMnRRV0JibWpLYmdPdVFzR1ltNjRzODZrUk5MbjZhaHBPTkFIalNfbTh5aVdTUnNFUUNVV1lfV0t0WHlrdGMwSE9ZaWcxWGlWUmFzaDk0YWdmWmVtUmRUSUtKYUU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-905fd350c89a89415f",
+      "date": "2026-11-17",
+      "title": "Enea zainwestuje blisko 108 mld zł. Polskie firmy mają odegrać kluczową rolę w realizacji projektów",
+      "title_pl": "Enea zainwestuje blisko 108 mld zł. Polskie firmy mają odegrać kluczową rolę w realizacji projektów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "O planach inwestycyjnych, potrzebach zakupowych i zasadach współpracy Enea opowie 30 listopada podczas Dnia Dostawców Enei w Poznaniu. Spotkanie odbędzie się w ramach Kongresu Polish Local Content 2026, którego Enea jest partnerem strategicznym. Podczas spotkania będzie można poznać wybrane plany inwestycyjne i potrzeby zakupowe Grupy…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122816-enea-zainwestuje-blisko-108-mld-zl-polskie-firmy-maja-odegrac-kluczowa-role-w-realizacji-projektow/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-876a16af65b2f6225f",
       "date": "2026-11-17",
       "title": "ENERGETYCZNA ELPOM, NIP 1990137217. monitorfirm.pb.pl",
@@ -174,6 +290,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6801c16f3df971c31c",
+      "date": "2026-11-17",
+      "title": "Re: Koniec z zieloną iluzją Niemcy szykują powrót do węgla",
+      "title_pl": "Re: Koniec z zieloną iluzją Niemcy szykują powrót do węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSC1nQjNkZ3JLbVFpUGNhWTh1WlowZHhrTTAwUmFuRjhuSFpBa0o1TjVYZmpDOUtPUlRESWZwbmlQT0pjM1hyTnJOYkpzdVYybkF4ZkhBOTVFNUVLSUdzSzU3bEsyeWtQVGROZUVvS1kwTzJUbUtlaGwwY2tnbVpNWVpsRFBJTWlfVTZwM2NNN0tHVEFsejkwTWwyWF9LYmROOGhJWGJmWGZhQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-631cd43ee054404650",
+      "date": "2026-11-17",
+      "title": "USA pomogą Węgrom rozwijać atom. Parlament zatwierdził umowę",
+      "title_pl": "USA pomogą Węgrom rozwijać atom. Parlament zatwierdził umowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Węgierski parlament przyjął w poniedziałek umowę o współpracy ze Stanami Zjednoczonymi w dziedzinie energii jądrowej. Zawarł ją w lutym br. poprzedni rząd Węgier, premiera Viktora Orbana.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/USA-pomoga-Wegrom-rozwijac-atom-Parlament-zatwierdzil-umowe-9229881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-3a48ee08c73203fe2c",
@@ -226,6 +400,122 @@
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-2c8e7773807eaf70bf",
+      "date": "2026-11-17",
+      "title": "Re: Prąd i ciepło stanowią 10%-15% kosztów wytworzenia rękawic.",
+      "title_pl": "Re: Prąd i ciepło stanowią 10%-15% kosztów wytworzenia rękawic.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZwd3NzeHRxTE10OWtqelZGZHVuV2lyaHhUQ1NXVFZBVTRKd3dqd2FraHNxYzB2MzlEeEhLNDJxUXlfcER0QzNDWTZLLUR3ZDRlak5qRDdLSE1oMGZxQm85VHpUYjVyZ0oxVl9PSFBUME1GcDJSMDBNNjVTWWlrNHpaenNmNl90UGVCU0tFbDdoQ3dIeExrWXdkdmw3UGZZU1VjTG1LTkk4bUVN?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-23f24cb25bc290ab2f",
+      "date": "2026-11-17",
+      "title": "Wnioski o dotacje wyślą na pendrivie. Magazyn musi przyjąć min. 75 proc. energii z PV",
+      "title_pl": "Wnioski o dotacje wyślą na pendrivie. Magazyn musi przyjąć min. 75 proc. energii z PV",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVEFVX045YkRYVnBGeFNsOTlVUTk2b05qYW5xSjNtcWpTa2xxV1kzVVJLbFY2Tmpjc3JpRUtDejlSSXhEVlhLTTNTWC1aTWNMbWJTSHhOSHk3VVVFdjhGTHMxcktvNU5mdUxvdE1IMWNsOFl5Z0ZJeG9vUjVyZFk4TDVFU2JJR3F0bi1HWGNkSHhlYzktRHp2YzIybzdUdUtkVDNoREZuY3Z3eEI1NVY1Z2tjZ0JvazJEOF9QdGRWRFpBZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-220a7ced24092d91e4",
+      "date": "2026-11-17",
+      "title": "Czy data center rzeczywiście wypiją wodę i przeciążą sieć energetyczną?",
+      "title_pl": "Czy data center rzeczywiście wypiją wodę i przeciążą sieć energetyczną?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN21hWE9NYjRuVUhZQnZnbDZPN1NrbnpBcVBxNDl2UEZpNjdsblFNLTdqRmJzdEgzdmpha012NzBiektpekZwV0tJbmJFaGVvZUo5RXUtLUNabXJKd21YYTBsNnI0ckhTMDdQQno3T0o3bTVKTU1YWUpPdTN0eGR1c3FqcHpOZFY1WGpoY3N2d1kwZC0yLXdUUDQ0V0NWbWVNTDlncTkyOHlDOUgwTE5MWlJGVEM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-00e70b0f7d83447d73",
+      "date": "2026-11-17",
+      "title": "Kompleksowa dostawa oraz świadczenie usług dystrybucji paliwa gazowego do Zespołu Szkolno-Przedszkolnego i Urzędu Gminy Wróblew oraz budynku pasywnego – sala widowiskowo-sportowa",
+      "title_pl": "Kompleksowa dostawa oraz świadczenie usług dystrybucji paliwa gazowego do Zespołu Szkolno-Przedszkolnego i Urzędu Gminy Wróblew oraz budynku pasywnego – sala widowiskowo-sportowa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA WRÓBLEW",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df447a-9934-4eaa-c1c5-d50001943a1d",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "45"
