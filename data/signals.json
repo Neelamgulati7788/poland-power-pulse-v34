@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:56:14+00:00",
+  "updated": "2026-11-17T15:58:20+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -321,6 +321,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-e46b4c8648cc7d9883",
+      "date": "2026-11-17",
+      "title": "Re: Gaz tanieje - Forum",
+      "title_pl": "Re: Gaz tanieje - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zbUF1UmZ5WG9oZWpScEU4NGZ2T2FIVmtCdm9rTkVsWXBlNU1rNEhaNWg4UkhUNFFhQ0FQRzlQd181RjVzb3hIQ3hpLXdnZzlWelBIcTVSUTIxTWVpVmxJdFpqUjRYUDZkSmRVNTQ3ZGs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e2fc9da6e6c63ee18f",
       "date": "2026-11-17",
       "title": "PSE: Moc farm wiatrowych wzrosła do 12,08 GW na 1 XI, moc PV do 28,46 GW na 1 X",
@@ -464,6 +493,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d6dcc2760292892934",
+      "date": "2026-11-17",
+      "title": "Sprzedam projekty PV RTB 3 MW z WP dla BESS oraz PV RTB 2 MW – woj. śląskie",
+      "title_pl": "Sprzedam projekty PV RTB 3 MW z WP dla BESS oraz PV RTB 2 MW – woj. śląskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMmtjamNXZFRpQWppWFE4MFJRRFcxRndrYkR2VGFVZ1ROdjVzUnBfUDBvZUhMQnhVcTdLbG9BcmZndTl1bVNtT0tiWHZ4UGxTcTBGdElfaUo3dUI3UHEwd21tQXR0eWM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d6b4d7ce8702792d19",
@@ -727,6 +785,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-bdaa11e3d5111987fe",
+      "date": "2026-11-17",
+      "title": "Konsolidacja w branży górniczej. PGG ma przejąć spółkę z grupy Węglokoksu",
+      "title_pl": "Konsolidacja w branży górniczej. PGG ma przejąć spółkę z grupy Węglokoksu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUQzbGtjZ1RHS2pQbTNXNXR2OUZVb1hSZTVueUowRFZsR3FETzdCdmpxNWItZ0xVdGw5RTQwQmcyWWFRVWFoU0lQM0p2NWlfam95ZVNkUVFNSlhyYktraFN0MjZRelF1ZG1MdWhGRHhTWDFSWVJNMmgyd2lkR1lpb2xnTHpFNGNHTTBaSi1OeW1yODRGUGVzSlA0T0pyQWc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bc8306859a670eeff8",
       "date": "2026-11-17",
       "title": "Nie tylko baza wojsk USA. Polska coraz bliżej programu Nuclear Sharing",
@@ -734,11 +821,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz powiedział we wtorek, że Polska idzie w dobrym kierunku, jeśli chodzi o zaangażowanie w program Nuclear Sharing. Jak wskazał, w tej sprawie zostały podjęte już „pewne ustalenia\" na szczycie NATO w lipcu w Ankarze.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0hBdFBwVDNnam9YVkVBOUtvT3FBNERoMm8xcFhkR0RkNE5GQXBCVi0xRlRUakVLakdBbTg0Q3NCblpNYlNpUENqNTJPSFBvLWc1SUVjTEZMUlFKejR1NnJQU19sZnc5VnYxUUN4b0pxN3d2WEM2M3NyeFg1cl8zUkZYMHFyRnpCOVBZOXhGOWswdzgyUkhuQnAxX0QyRHhTMVdpYzVFM1RjcVppSkFRNGhrXzFOZw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nie-tylko-baza-wojsk-USA-Polska-coraz-blizej-programu-Nuclear-Sharing-9230258.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -751,6 +838,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-bc129fa7f30d810b1d",
+      "date": "2026-11-17",
+      "title": "Looking for FOR RTB BESS & PV projects in Poland",
+      "title_pl": "Looking for FOR RTB BESS & PV projects in Poland",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWxaN2pTUkw2WHJ2M0x3Sk4wbjRZOWpFQ2dIdTNTS2NHYkJlTXNDTHd4aDFpLTRUX2tLUVRmY24xNjlIMk9rS0tpNlhhQzdHdF9rVmNnbENBeGxrQkc3VE93REE3cC1LSDRkaXZaQkMzSGFLeE9ERXh3X19sQmJYcHQ1WXdzb1NYLXNsazgyYjl1cUdLT3l2bk5vWGY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -783,6 +899,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-babefaa6cdca4cdfc4",
+      "date": "2026-11-17",
+      "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Winning solar bids ranged from PLN 180 ($49)/MWh to PLN 377.77/MWh, depending on project size. The post Poland awards 1.81 GW of solar in latest renewables auctions appeared first on pv magazine Global .",
+      "links": [
+        {
+          "label": "pv magazine — source",
+          "url": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pv magazine",
+      "publisherUrl": "https://www.pv-magazine.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "39"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ba53c25a7e01626d71",
@@ -1162,6 +1307,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-91da49f88b797b436b",
+      "date": "2026-11-17",
+      "title": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
+      "title_pl": "Wpłynął wniosek o przejęcie spółki Węglokoks Kraj przez Polską Grupę Górniczą - UOKiK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjJjdTBwaDFKajlWbjJKdmlkMlRzc250SWhtbGk1Wm14SkhrbFltZXJ3ZjdicHpJODNNYklnRkNVTmZYbDVJMTBNaHBKUTA5cUdkYkluM2VaSzBSOWhobndPQVFKbGQwQnJZX0J1VTNvcUR4RnZ0aTM5c19iaFlfOUZsRzZPY25PZHRMWklXVnlvamFEWVI0bzgwWjd4UDY0Y3R3QUFSRzE1ZDhtcGQ5Ml9JR1k2X1E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-905fd350c89a89415f",
       "date": "2026-11-17",
       "title": "Enea zainwestuje blisko 108 mld zł. Polskie firmy mają odegrać kluczową rolę w realizacji projektów",
@@ -1215,6 +1389,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8c7c498a91d8439070",
+      "date": "2026-11-17",
+      "title": "Analityk podniósł wycenę akcji Orlenu. „Atrakcyjna okazja inwestycyjna”",
+      "title_pl": "Analityk podniósł wycenę akcji Orlenu. „Atrakcyjna okazja inwestycyjna”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjhsMmxQb19qdVV6WXJLaWdhZG9RZlVHY1NnU2w4Z2xKcTRSM2JyZkc1OTJBTHVBWFpjRW5ScjJaUkZIUVpNLXR3QllYNW9jNFpqTC1FLVJjdmJyZlliQ0xVYk5Vcnh1aW0zV0xRMDllRV9fVmFZSjl2eG03RkZkeWdaeFE4b2pTWFhFMThFV1dIMnFNMWpmRHZB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1307,6 +1510,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-86eed35627abd703bf",
+      "date": "2026-11-17",
+      "title": "Jeszcze są nowe informacje z Azji o braku węgla koksowego",
+      "title_pl": "Jeszcze są nowe informacje z Azji o braku węgla koksowego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTkwcl9wZ192ZVRoZFVqTTNTQUwtMnRaTVp6MWZkdHhFZmRIQlI0Y0EzVkpHS05kWFpaYXJIMF9KTGEtTlBWalg4SkkzUVFBU09vOHRTdUQ4VlVXNmNzYTI0V1VZOG9SNFBDVUNfNFQ0Ty15UWNuN0lkTE5WRDJfY2JwZWpnOWVkZG55aTQtZHdNNzRkSjIwcnl6RVFaaWthTW5VNWc0bXFqQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1486,6 +1718,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6507af8e4a063e3141",
+      "date": "2026-11-17",
+      "title": "Polska Grupa Górnicza przejmuje Węglokoks Kraj. Wniosek o koncentrację trafił do UOKiK",
+      "title_pl": "Polska Grupa Górnicza przejmuje Węglokoks Kraj. Wniosek o koncentrację trafił do UOKiK",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Do Urzędu Ochrony Konkurencji i Konsumentów wpłynął wniosek ws. połączenia Polskiej Grupy Górniczej z siedzibą w Katowicach oraz spółki Węglokoks Kraj z siedzibą w Bytomiu, poprzez przejęcie WGK przez PGG - poinformował urząd.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-Grupa-Gornicza-przejmuje-Weglokoks-Kraj-Wniosek-o-koncentracje-trafil-do-UOKiK-9230358.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-631cd43ee054404650",
       "date": "2026-11-17",
       "title": "USA pomogą Węgrom rozwijać atom. Parlament zatwierdził umowę",
@@ -1513,6 +1774,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-57d86639a1fc372752",
+      "date": "2026-11-17",
+      "title": "Wodór uniknie gazowego gorsetu? Resort energii szykuje nowe ramy prawne",
+      "title_pl": "Wodór uniknie gazowego gorsetu? Resort energii szykuje nowe ramy prawne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3Q0V0dLcjlkbWdCU21abnVQS1kwdnlBejZ2TEZ5bm5QVFF4eEVfZy1Vd1ZyRGpnU1BBRWtabkxBbE5HZ292UWdXVnF4ZS12amhIMGZobFZ4TUM1RWp3SmxRS2dlbG9LeEVfVHJpUE0yelRGZGw3dzU5WUVCMXRHZEROeVdIakNteGpVaHZLZUwwbDVTVkJ5bnhfS0hHNklrNkFDVkVQN0d3UlQxaUcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-579a6888bbbab2dda8",
@@ -1711,6 +2001,35 @@
       "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5009e9d51bc045eece",
+      "date": "2026-11-17",
+      "title": "ME proponuje przedłużenie obowiązku dywersyfikacji dostaw gazu do 2036 r.",
+      "title_pl": "ME proponuje przedłużenie obowiązku dywersyfikacji dostaw gazu do 2036 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXNoTkV0TUdGc1NpM25valptV3R1Vl93Y0RnWXVfbU52dVZzUFJzOGJSVU91S2ZpWmdGLTM0Tkcyai14T050dEVuRWJmVWpoZm1LdHVleWdWMnZpbGxJQ0xIQTBTM1MwMTVrZXpINlVGVWZSUlNqbV9nVXM3aGFfU1pFaFUyM2o3NkdVZlRQU0NyYTMyWmZYcE8tQWpVaExqcmdzWFhhQUp0bWlZQUYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "18"
@@ -2066,6 +2385,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2be9143d4790d96a84",
+      "date": "2026-11-17",
+      "title": "Budowa instalacji fotowoltaicznych z magazynami energii na potrzeby budynków szkoły podstawowej w Woźnikach",
+      "title_pl": "Budowa instalacji fotowoltaicznych z magazynami energii na potrzeby budynków szkoły podstawowej w Woźnikach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Woźniki",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44c1-e469-26b9-c1c5-d5000194463a",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-2a4c5a61b25f58c35c",
@@ -2440,6 +2788,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0b97080b9de88e8642",
+      "date": "2026-11-17",
+      "title": "OEES: Bezpieczeństwo energetyczne to odporność systemu na zewnętrzne szoki",
+      "title_pl": "OEES: Bezpieczeństwo energetyczne to odporność systemu na zewnętrzne szoki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2pzVmJoNk55aC1pdEJ6dTA5REpudVRmQ21ueWIzQVBKUm13YTFhUHpMTUVGZnd5dzFaLW9VdkpxU0dnTlZnckhicUU4TzlIckxHRnlvd1ZGZHZIQ0QwT3RVcmltZjJXTlU3STNwb3pCdVlYMmV6SGxjazY4dmIzbC1IUU56SmxpNDlCUDNGcDJnNEdrMUFKcjExaTQtNk5hOEd6X2hFS3RJcGpENVBCUENwS3piUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07e68e83a052d95c11",
+      "date": "2026-11-17",
+      "title": "ME: Rząd przyjął projekt ws. zamrożenia cen gazu w 2027 r.",
+      "title_pl": "ME: Rząd przyjął projekt ws. zamrożenia cen gazu w 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnhEZ0xLc1dkR0MyZWpOV3pWZUdIV09VVUNRa0ZEcEpjY0FOcjg1RHdRbnA1R29haEJTX19UZDVPYjVVNXh2VkNSVkFzSXJVOTZoZHA1MW5LTmFCTGt0aURpelVNOXR6Z1V6V00xMS1JeGN1ZEQ0ekU2d1NKelJmaUN3N2lBeTlhakoxQngyUFVESmlPT1dRZS14eFlxZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4255,6 +4661,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFhpekV2TC1YdGVxSy1ZQk9kX3VTaGUxamVraWlYMWljU1J3LW5PNU5aTWtzV1JpNlNuNkNQSlVDSlF4b3J1SW14dlNQdF94d2F1N3N3X3NMenRrZFpVekVQWWZ2WURIZXhDZWFIaVF5cWUzWGk3azYwM0JfMzNqVWJyNEJyNTQ0eEF6UE9SQnVHNGM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b2aff99c0cf5d764a",
+      "date": "2026-11-16",
+      "title": "Sprzedaż WZ na BESS – własność sprzedającego",
+      "title_pl": "Sprzedaż WZ na BESS – własność sprzedającego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjU5dXk0TjM5c2ZwUkgwSVhwUkQ3cE54azZnWnB2ZUpVbXBTalI5dkZ4NUtPT1lUUzNjQi1oT2FOUXBrUVlFdDZfbTIxNnFFOHhmTkdlQjNaX3RfMTNHcVctX2lnYWQySEpndjV6cGgxN191bVZWbjM0WW02SHZGUWw4NFl0ZzhJakNVTFdqb2d4akNGTkhXdU1Xdm44T3M?oc=5",
           "type": "press"
         }
       ],
