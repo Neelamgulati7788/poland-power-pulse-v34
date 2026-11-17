@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:27:02+00:00",
+  "updated": "2026-11-17T22:29:27+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f691b62160ed12d2d0",
+      "date": "2026-11-17",
+      "title": "Ważne porozumienie Grupy Azoty z Orlenem. Chemiczny gigant dostał więcej czasu",
+      "title_pl": "Ważne porozumienie Grupy Azoty z Orlenem. Chemiczny gigant dostał więcej czasu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlNNYmZnNGlZbXIyRmN4cC1PVE5yWHotYVRVeHk4YzdQeGdxN2NOX2x0STRyR1plckRZR256TmhGWFRQQVM4UmxfVGFiS1Q0U0I1ZzY4WFo0M0oyOVNRTjV2Tkd6clFhSlJXbDZMRVk0UFRpdy1RX1pCZVVYajV6c2J4RHgtZkdCN3A0b0VUT3h3LVRXNUM4TnNtYnhzbU81d1RIWXZRSGkxSk82dVZYTHpfcjMxLXhKbkR5eld6bEpNSEFnX1VjeFBSSXo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2385,6 +2414,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-53be32aeeb1d007de6",
+      "date": "2026-11-17",
+      "title": "Polska Grupa Górnicza S.A. oraz Węglokoks Kraj S.A.",
+      "title_pl": "Polska Grupa Górnicza S.A. oraz Węglokoks Kraj S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "UOKiK — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hc3hnQnFzb3RTenM3Um5MSjlCTzNWaGV4SzFmdjlqd2V0aklUTjBqdUp3LU5HZ09YQWlhd2MtbkRpUERmdlVuMFBzYjI1cGNxd2VuaDdsbWlua19wd0xiRUZ1bDYyakxid0NUNXpYc2Q0T3gyM2N3dVFUcjk?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "UOKiK",
+      "publisherUrl": "https://uokik.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "10"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-52be9b5e181e60c75a",
       "date": "2026-11-17",
       "title": "Usługa promocji gospodarczej Województwa Lubelskiego podczas sezonu rozgrywkowego drużyny Orlen Oil Motor Lublin w PGE Ekstralidze w 2026 r",
@@ -2847,6 +2905,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-348fa6f07f05131a7e",
+      "date": "2026-11-17",
+      "title": "Polish government seeks to introduce maximum gas prices for consumers",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXhueWpDLXNoWlAtaXdrNGdyQzJoajFNQV9CWmpLbFdFb19QaW9uTDlaNEEyU1Z4VWpCSDVEUUg4OFMwU2doUzYwNV8tQTVuSmx3NFExcXVtcWhqbl8tdXBmYkNvQkhlQ2w4Yk5tWkpLdUp1TVZGZmI4U3h5S0tudXBXYkRNRGlyUVRNRXhXTndWNWpaZ19QYWx6UkY1ZjR2WF9ueDNJWTI0TnloZkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
