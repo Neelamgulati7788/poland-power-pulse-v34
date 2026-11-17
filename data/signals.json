@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:21:55+00:00",
+  "updated": "2026-11-17T00:19:14+00:00",
   "signals": [
     {
       "id": "src-fcbc915060c36ebaab",
@@ -1749,11 +1749,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "ORLEN Neptun has deployed floating lidar buoys at its Baltic West offshore wind site to gather certified wind data before Poland's 2027 auction. The post ORLEN Neptun starts certified wind measurements at Baltic West ahead of 2027 auction appeared first on Baltic Wind .",
       "links": [
         {
-          "label": "Baltic Wind — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnVYZlN0bWtyQUlwTENiZnRYc1p0NjRjaFlUeVhNTzJpMllEbWg0dlB1UmJXNVVPY3lLYTVVekZMMkFBU3d2VG95VW9Cd0JTcy13WGkybnFBZjJ1bW10blZFRlFiYmhid1J4VjRMZXhvMk0xN1ZHMjVXR0NFYzh1UnZpaWItMjNuY2NFbDA2QjhkU1RZaFlpNzJ6d0NrVk1jNGhfMjNCQ1ExQ1U?oc=5",
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/orlen-neptun-starts-certified-wind-measurements-at-baltic-west-ahead-of-2027-auction/",
           "type": "official"
         }
       ],
@@ -1761,14 +1761,14 @@
         "ORLEN"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu",
+      "publisherUrl": "https://balticwind.eu/",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-61c3e400021b4a5f1b",
