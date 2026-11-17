@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:08:15+00:00",
+  "updated": "2026-11-17T21:27:02+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -328,11 +328,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "W środę litr benzyny 95 będzie kosztował nie więcej niż 5,99 zł, benzyny 98 – 6,64 zł, a oleju napędowego - 7,57 zł – wynika z wtorkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw będą więc niższe niż we wtorek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Maksymalne-ceny-paliw-w-srode-w-dol-Minister-Energii-oglosil-nowe-stawki-9230191.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2VnWVN6S0JXVkk1LW9taHJPMldpZ2JSVW8tYjlMQl9OcDVWT1ZoTHdwYm4td204Vy1VLWRob0ptcEVQVFd5QXd6WTRWdTVLWV9RT255ck9DZF9laG5tZS14RlNKcGVRZDVsQk9maUg0MEVDZ0o2WWVLZmNob08wSERGVG92NnhNWTRZS19PU3AtNk1IbThBSHlzXzBFd1dRaDM0X3hUQmQzaERvWnNVZ0wyTVNpME5WV3c?oc=5",
           "type": "press"
         }
       ],
@@ -346,8 +346,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e65f274ab3a449bd92",
@@ -954,6 +954,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c50ba0c6d2766c6cc0",
+      "date": "2026-11-17",
+      "title": "Zamienił jednego górniczego giganta na drugiego. Teraz mówi wprost o pieniądzach i przyszłości węgla",
+      "title_pl": "Zamienił jednego górniczego giganta na drugiego. Teraz mówi wprost o pieniądzach i przyszłości węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTR6NnlkUUhuUllMd2dfUWxmUERfNENJamJEOXNZOGZzUnNieENiZ25fWUpyYVFSYjA3SDEyd01HM2tQa011SmxZTkVWM1JlUHVTeVFmXzkwOEROeVk4N0k4anEzcXJ1UFhBVi1hUEhVXzQxajNJaFpjWTc3TzBFWEV3eVEwcm9HSGJRcG1XWms4N01YWUt2ckFfS1lkX2JuYnFiQTc3Sk5fcGZodVYwdThXYnY2ZW5YSUF3dWxDcTR6QmkzRmstcA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2066,6 +2095,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-666ab6e752fa49a050",
+      "date": "2026-11-17",
+      "title": "Szykuje się fuzja dwóch spółek węglowych",
+      "title_pl": "Szykuje się fuzja dwóch spółek węglowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1lTRW1CLURrbEQ4ZWZuRkZ2VXhSOUFMODVVS2NHd3RzS0pzM05LbFFqZVF5RFFmRFpOQ0hfQU5yVzJ5ZlRkamQ0TllrZHlzX0FYX2hKZWJzRllmMHFmaXZMVjJlcTA3cGlWRVdMT1NfU2FuazEwdWNvYWlDSWw5LUNtWG1EbDFIRVExTzJYa3dpUlc0MEZPeW10OGpWak14SWN5MEh3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://gornictwo.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6507af8e4a063e3141",
       "date": "2026-11-17",
       "title": "Polska Grupa Górnicza przejmuje Węglokoks Kraj. Wniosek o koncentrację trafił do UOKiK",
@@ -2601,7 +2659,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFNQTjdIMm54VndYSUpLbXR0VUYtRklMQkhoQm1EYThBM1NNb25UNndBRE5QTzRqMTQzU2wtSVQ2VGhCeFlEMVVoT0Etd2pxdU1Bbk1hVVRuM1dBOGJQVTBkWkJyLUh1Z2hrVTZXRzJpZ1RscU5WZFNBY01iRHg0Q1hoQUtMdWVjekRnRm93eFRsZWwtSjN1QWdhaTN4enBNaFJTSzhUanBJbk5XUUlJcW1R?oc=5",
           "type": "press"
         }
@@ -2609,7 +2667,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -3166,6 +3224,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1c233cc0aaa45fc202",
+      "date": "2026-11-17",
+      "title": "Tańszy gaz -6 mld dla Orlenu",
+      "title_pl": "Tańszy gaz -6 mld dla Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdnpPZnRzN0tsWU1YWjhyMzYtSEN4Qmx1NHNqNzNtdUNfV3BSR2k1WGd1ZTNpMmNQeThHbmVLNnRoMm1RLVdHU1pHbzBMQkxnbHZxT3JhV1dJTmd5Sjk5ME5sNEpTSFNEVlZNYVN3U1hBbUs1aWdvanEtZFNPMmMxSEl3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
