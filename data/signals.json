@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:52:24+00:00",
+  "updated": "2026-11-17T02:52:35+00:00",
   "signals": [
     {
       "id": "src-e65f274ab3a449bd92",
@@ -1278,6 +1278,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a0a95dfa78ccdb98c9",
+      "date": "2026-11-16",
+      "title": "Kupimy (pre-)RTB BESS 5-20 MW (przyłączenie 2027) oraz 50 MW+ (2028-2029)",
+      "title_pl": "Kupimy (pre-)RTB BESS 5-20 MW (przyłączenie 2027) oraz 50 MW+ (2028-2029)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3JfQlpqVmpOaFhpWXJOOU9aYUppU3NlMEc0Tkt2SU1LODY3eEV3eFhkWUd2VW9MZ1k0WDFVaEpaWndjaHNzcjE0LW5hZGxncnJPb1U5YURleDZFQm9jS1U2bnVGOGt5N2pjY1p1emd5T2JSSTFWODdZaHVWZzFWOVI3anFVbExJMHUyRXg0Zk9Fa2VWTGRCOGUtd0EtQ3dxVTJRRjFpTDVQQ2tOMTZqajR2RjFfYVM3NHFYTA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9a769284b88888b4e8",
       "date": "2026-11-16",
       "title": "Projekt ME ws. cen gazu wydłuża taryfowanie URE w tym sektorze do końca 2030 r.",
@@ -1655,6 +1684,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-712b40b41bc67ac01a",
+      "date": "2026-11-16",
+      "title": "Koniec z zieloną iluzją Niemcy szykują powrót do węgla",
+      "title_pl": "Koniec z zieloną iluzją Niemcy szykują powrót do węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVxeXdPQ2lsT0tCVDNaeE5fMU1aVFdfbkZ4YktjTUNsMUlsU0EwSnpZRVdCOVJOX25EaVRvM0lvMlhxc2pHcFZUdTNrbDBFWkZEd2Q3WDlsbTU1RHVhQ3VDZzVWQ0Y1bzRkUnZad2V5dmgxWEZPaFlrN3pUcENDRU5YUlVNeTJITTFTY19kQXhnQXliU3RoTDNXc2ZFd013NWR3WU5R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6fc4bb812c981208a2",
       "date": "2026-11-16",
       "title": "Prezes URE opublikowała wyniki aukcji OZE na sprzedaż energii elektrycznej",
@@ -1865,11 +1923,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "ORLEN Neptun has deployed floating lidar buoys at its Baltic West offshore wind site to gather certified wind data before Poland's 2027 auction. The post ORLEN Neptun starts certified wind measurements at Baltic West ahead of 2027 auction appeared first on Baltic Wind .",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/orlen-neptun-starts-certified-wind-measurements-at-baltic-west-ahead-of-2027-auction/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnVYZlN0bWtyQUlwTENiZnRYc1p0NjRjaFlUeVhNTzJpMllEbWg0dlB1UmJXNVVPY3lLYTVVekZMMkFBU3d2VG95VW9Cd0JTcy13WGkybnFBZjJ1bW10blZFRlFiYmhid1J4VjRMZXhvMk0xN1ZHMjVXR0NFYzh1UnZpaWItMjNuY2NFbDA2QjhkU1RZaFlpNzJ6d0NrVk1jNGhfMjNCQ1ExQ1U?oc=5",
           "type": "official"
         }
       ],
@@ -1877,14 +1935,14 @@
         "ORLEN"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-61c3e400021b4a5f1b",
@@ -2148,6 +2206,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-48d0e7fb2f0e4d062f",
+      "date": "2026-11-16",
+      "title": "Kupię działającą farmę PV z wydanymi warunkami na ME",
+      "title_pl": "Kupię działającą farmę PV z wydanymi warunkami na ME",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmlmX0pvU0VOQWdleXVoZm1oalp2UTZxYlhmbnBVcEZubDFVSVZ1OHBudzRBLUdFRER5MklYSDhQRUl4d0V3QkZmNEYtcE5SOVJiWjNQN0NsZ0tnWHN0MlNXaDZVcHBjdTZ3MGVuSkNLOFZEanNfUWlueHJiM28zTnNvYVdyREJ0VDlGMlY2RUVpWWVncm52TnlrQ3BUTHZFRTBReF82ZFN1QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-481cc8bf35c3d6c1a9",
       "date": "2026-11-16",
       "title": "Ukraina uderza w rosyjską energetykę, UE szykuje pomoc przed zimą",
@@ -2317,6 +2404,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-36886d492fd3e16885",
+      "date": "2026-11-16",
+      "title": "Bezpłatny kalkulator kosztów ogrzewania – faktury za ciepło z korektą pogodową (dane IMGW)",
+      "title_pl": "Bezpłatny kalkulator kosztów ogrzewania – faktury za ciepło z korektą pogodową (dane IMGW)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMUxTUTVydGxCNFFObU4xV2xnTmtvNWNDZG5TX3VaTldyamc5aW90ZGxQbkZwbUNDT3lnY19YRElhUHlWQTRYM0RGb05RVU9UWlZVMGVSV1JZRTBnV3RodWFiLXhuNlI4VVhpQ3VfZDhXbGdXT0JJemI5ckI0bF9fQTVhVWgwZDhPZGs0Y1pfQV92UFBTY21UTnFrS1l3dWg2cXgzaXUwOG9lNmYwZGJqWVJfcnRhOXZuVEJNWEJ0VXIzQ0hXYXBfVjBkNXliZi1CRnI4TUhodzBVM0U?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
