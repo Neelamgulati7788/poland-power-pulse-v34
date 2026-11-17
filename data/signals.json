@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:04:10+00:00",
+  "updated": "2026-11-17T19:03:38+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -263,6 +263,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e85210602d7a8c9020",
+      "date": "2026-11-17",
+      "title": "Rząd chce przedłużyć obowiązek dywersyfikacji dostaw gazu z zagranicy na lata 2027–36",
+      "title_pl": "Rząd chce przedłużyć obowiązek dywersyfikacji dostaw gazu z zagranicy na lata 2027–36",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejBQNkgwUjJfUWFiUnNmZk8zX1dDMGlDa2laN2FsMUdaRExJS09OZVF5THg1SGxVeGJvTFhtY19lMEJLVmNCMC1FWWJCYXhOaWZIaUREcjdCbU1ZRm9WMEp3aUF5WkZ1UGZ2UkNsVGg0UUZIMElnR29oNGN6WVpWd2VlMnlPckpsdHhrbThoMDcxeFRHUFU5RTA3dVEzSFZZSWFrNkFKYkRkZ3R3bnlrRzY3eTdUbFlMZWJmNk9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e6b001869dcb0f1381",
       "date": "2026-11-17",
       "title": "Maksymalne ceny paliw w środę w dół. Minister Energii ogłosił nowe stawki",
@@ -490,6 +519,64 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-df2d78a740449c0e16",
+      "date": "2026-11-17",
+      "title": "SSW Energy Practice at Offshore Wind Poland 2026",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "SSW Law & Beyond — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ya3FhbWJJckl3NG1DMUtlVXhfV2pBMG9VRkJENncyeVVfSzVSZkhHX0lMaFRtY0VjQUhuU2FTRTBKUTBlVFlKT1Q3d1dGQWxPWGdhYk9rOEphS2ZEQVN1WGpzdUdUQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "SSW Law & Beyond",
+      "publisherUrl": "https://ssw.solutions",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "48"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dde8b889275361d2dd",
+      "date": "2026-11-17",
+      "title": "Grupa ORLEN wspiera Szlachetną Paczkę. Dołącz do nas",
+      "title_pl": "Grupa ORLEN wspiera Szlachetną Paczkę. Dołącz do nas",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Fundacja ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2hXUllrRFdjRGFWaDZVV05RRUtYMDFZdUxwamJNNFJSaDQybXhiM2JMRXVoeTl3SmlfTnh0M0hTU1NPTkFndjlpTDJXSlBvWmpVTkplWWdhcDFwRDNaSnNvZTNYd3NoQUxkUW5QVk5hNXB4SE9lcGMzZXVFeVBOV3IxZnBOeWJNWjZVQi1TaGkwQThVcE83d2pCU2pqUGtpeENwUmJ0ZUFSOWVQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Fundacja ORLEN",
+      "publisherUrl": "https://fundacja.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2352,7 +2439,8 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
-        "25"
+        "25",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2735,6 +2823,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-2b1e2d0d4f207120c5",
+      "date": "2026-11-17",
+      "title": "Co składa się na rachunek za energię elektryczną? Dowiedz się, za co płacisz",
+      "title_pl": "Co składa się na rachunek za energię elektryczną? Dowiedz się, za co płacisz",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzM2VTJ6ZkpleThQTFNtWld0Sjl5bk8wTF9BY05rZUVraEhqWkdmR2phblpUMWdsNWV4a244V3p2bUgzWXdEVVVSZTdWWHZnVUtnSFRnZkx6R1dzdzNtUjZqY3hxN1Q2UmZCdTgzbmVITUpkc3o2ZmZoNVBpalhHbC1MSWwwZ2hvbzhoWF90UWgzNFpSbkZ2MmlNZDBiSDVyZS1scmZEODdENDJJcG14bjBGSzIweGdwTm81X09scDB5d0pISk1R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2a4c5a61b25f58c35c",
       "date": "2026-11-17",
       "title": "Poprawa efektywności energetycznej budynku mieszkalnego wielorodzinnego - Dom Nauczyciela położonego w miejscowości Dębnowola, poprzez termomodernizację i montaż odnawialnych źródeł energii",
@@ -3035,7 +3152,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXUtclc5SlB1OTRkQVR2SFBOYW1RazdLZjN5c0RXNnJyb2NWaGkyYTEtbmI3a1IxakMwSDR3WHZWVW1Lb0ZPbW5hRUNYVE83dld0VGpCdmQwWktQNk9LTWNRTS1ScGl2WURtenEzNlBCeF9uMEhWRkNaSE1mSG1fWEdieHFFUzFYV0ZPWkFqUm02YS1wdmVITUdmWkVMaTdlV2JpUVJpTjdvNDBHcTZ4VzY0UVh3UUQxOGlpZHRVRThDdkc0Y0dobmJqZVY3a25kZjFjcTNnUVpxNE4zdFVHbDBINWRxSm5hV0E?oc=5",
           "type": "press"
         }
@@ -3043,7 +3160,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
