@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:58:20+00:00",
+  "updated": "2026-11-17T17:05:21+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -1133,6 +1133,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a0f0be91f7b965d249",
+      "date": "2026-11-17",
+      "title": "Gaz tanieje - Forum",
+      "title_pl": "Gaz tanieje - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10M1ZfX21DNnAwa0ZIcXlwa01TZTBUUlB0YUdBSlVNa0lzV0FoODRUTWktOXdPdXBWdG5FR2ZlT0ZUZlZfajNSUmRwei1JTHhDWW1HRHQ1Qm9BcjRZV29JOVdyRHJuamlINFhqRw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a0b300014cdc15c608",
       "date": "2026-11-17",
       "title": "Polskie F-35 i amerykańskie bomby jądrowe. Coraz bliżej Nuclear Sharing",
@@ -1160,6 +1189,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9f29533e2412f1e24b",
+      "date": "2026-11-17",
+      "title": "Dostawa gazu do budynków administrowanych przez Sąd Okręgowy w Krośnie.",
+      "title_pl": "Dostawa gazu do budynków administrowanych przez Sąd Okręgowy w Krośnie.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Sąd Okręgowy w Krośnie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44cc-4993-8311-c1c5-d50001944694",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-9e9f1a353a5e298fc0",
@@ -1774,6 +1832,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-5ef078fb0c8ca4334c",
+      "date": "2026-11-17",
+      "title": "Elektrownie węglowe znów potrzebne. Spółki energetyczne będą liczyć zyski",
+      "title_pl": "Elektrownie węglowe znów potrzebne. Spółki energetyczne będą liczyć zyski",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG5sTUpXa2tpbXJNRW5IVjBKYkdNem04c2NKVzFVMTdPV2tCTUhsaGpKOEltUWludU5ReWJSX0JNUHAzNkZneEpPYnhicGpRdzItZmNrX0xxOTRfZ2dxQkYzMzVrOGNmXzZ5dzFPaUlzWmtPdExXb1k5Z0JjM2pCZjQ1VU0yNGpTZjZ5UTZYakNUREtFekJBU3dWRlZxeDg5cE1OMDljTjRJZ0JGc3NvcFE5ZTM2cTRFbEVj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-57d86639a1fc372752",
@@ -2820,6 +2907,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-086cf0b0f6a2228b4b",
+      "date": "2026-11-17",
+      "title": "Dostawa sprzętu – wyposażenia pracowni warsztatów szkolnych do kształcenia zawodowego – realizacja projektu pn. „Energia możliwości Zespołu Szkół Politechnicznych”.",
+      "title_pl": "Dostawa sprzętu – wyposażenia pracowni warsztatów szkolnych do kształcenia zawodowego – realizacja projektu pn. „Energia możliwości Zespołu Szkół Politechnicznych”.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Szkół Politechnicznych im. Komisji Edukacji Narodowej",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df44cb-9974-2812-c1c5-d50001944690",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-07e68e83a052d95c11",
