@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:26:39+00:00",
+  "updated": "2026-11-18T00:26:08+00:00",
   "signals": [
     {
       "id": "src-ff5e0fcfa17e0c69bd",
@@ -2032,6 +2032,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-741ef0b69c8665897c",
+      "date": "2026-11-17",
+      "title": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "title_pl": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1doRTJLWG5XTFhodEJ1Mnl6bGNPeXpoNWxMZm5GOFBFWVlHX3Q2d2x5LXl6dzNPeG9KdXB4Z19hNk02ajM3UERaNlVuQ1p6Ui1RejdRa3lCbklhaGpfN1JyeEh4alJ3QVlSZmdxazNjR2Vkb2hMUDRFSHBVUHdQUjY0dWJVR2Y1emtHS01QUF9IbXZDaDBUekdWdXAzWU1peXdkbXdDeTFGRFR2ZGZpYUkwTjQzbWlqYnNZUGozTXVHNlJFUGdYZDZ2RUU5QTYxRzJMc1VCLXpQaXQwemY0bA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4330,6 +4359,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-cfb0999b4dfa777424",
+      "date": "2026-11-16",
+      "title": "Grunt pod PV ok. 2ha woj. świętokrzyskie",
+      "title_pl": "Grunt pod PV ok. 2ha woj. świętokrzyskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xODRBdDVFb2Z4aUctUmRRNGxjaVI2eHpPT2ZaTWdwX3l2c0pZdGV0aWRUTzF6WXVHbnlaanlyd1l1N1VnaVFSZFU0ZS04S0loUWhDUTdqMVhuWUwwejlvR1pfTVR2azg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ce0ee159924415d7fa",
