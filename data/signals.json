@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T10:04:23+00:00",
+  "updated": "2026-11-18T11:07:55+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -84,6 +84,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-efa91dfe17e47062bb",
+      "date": "2026-11-18",
+      "title": "Duże przejęcie na polskim rynku budownictwa energetycznego",
+      "title_pl": "Duże przejęcie na polskim rynku budownictwa energetycznego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWV4d2pXSWhpRzNlYkhxMTVnd3JDNTExUFUzR0JQZFpLMWpjNjhwa0NEQVZKQUl4NmNzVmM0eUp1ZEVyZ3ZyMkZvcjR1eTd5eDVfbmNrV09zWHZvaTg4dy1VYVRzVnNwVUNrWU94N1NmR1MtWWR2X1BpTVU0ZmJ0TnBWWExCV01CVGtoQ2VZMWw5b0YySEd6X0JRbnRhM1NON2o2dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -205,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-df0d9680eadaad05fc",
+      "date": "2026-11-18",
+      "title": "Stare bloki węglowe zostaną na dłużej?",
+      "title_pl": "Stare bloki węglowe zostaną na dłużej?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMi1BTlFYei1fak5TdlVtdzFaSUFhc3MwOU9BUXJXem9WS05WY3NZRXc0a2x1b0U2M25MdHNfMUpnMWZ4Zk5PSzNjVWp2d2J1X0luN0RNa0V6T1hZWXBaTDZLREpqYjNfSE1GWlhjQllHaGk5cWlvVW80bjFmQkFiNHNzYk9NZjg5U2FzYXFhTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d63b019acb44aebd22",
       "date": "2026-11-18",
       "title": "W środę i czwartek odbędzie się szczyt Partnerstwa na rzecz Transatlantyckiej Współpracy Energetycznej",
@@ -234,6 +292,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d33babcf33f396c659",
+      "date": "2026-11-18",
+      "title": "Dodatkowe sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego.",
+      "title_pl": "Dodatkowe sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3324-A",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-d2c63967a806a0c741",
       "date": "2026-11-18",
       "title": "Orlen podpisał porozumienie o współpracy dot. gazu ziemnego ze słowackim SPP",
@@ -255,6 +342,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c8e882b5b1ea6d5d60",
+      "date": "2026-11-18",
+      "title": "Re: Podbitka pod zsyp węgla",
+      "title_pl": "Re: Podbitka pod zsyp węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXpxNUU1OHE2S09md3VjOVBpX0ZCTXRWRzBtT1I0NUxpcWU1aTVjR3FFMm56U01rLUFKNE5ibUs4V1FUaWExZ2xROFZ5V0RNckd0dG9BdkF5anp4eDdoZWxSdVNhMXFpTjl3UVlZaW9oVGx0SFgyS01zNHVQZ0doRQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -287,6 +403,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c86230a6abb378ebe1",
+      "date": "2026-11-18",
+      "title": "Minister Energii: w czwartek litr benzyny 95 ma kosztować nie więcej niż 5,97 zł, benzyny 98 - 6,62 zł, a diesla - 7,30 zł. (PAP)",
+      "title_pl": "Minister Energii: w czwartek litr benzyny 95 ma kosztować nie więcej niż 5,97 zł, benzyny 98 - 6,62 zł, a diesla - 7,30 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHF1R1JrMmRUVTNOdUxlU1pzY05PSDdzU2hMem05ck1iQUdUZnNYMnVYeldwMzVRS09fSEhNemdfT212Q3ZVSnhVdXljdUVZTkJXbEtqUzZfb1F2TnhObVQxZHVmZmc3RE1DcUlvV25WVUJ0UlhycUlTc1VmVTV2d05zbnZubFpxUFBuRzJNTG5mVzVCdVF3TzA3Y0NMNVFfNm9hWWtHWDgwNk1mbF91eF9FcWVJVUVzeUpKSEg3TkNxdDBJWW5VVURKOFVaNUd1WFktZ3FXTllrNkZYa3RGX0NaZHNfaDFUckw1M1hB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -524,6 +669,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9e1404950bdb55608e",
+      "date": "2026-11-18",
+      "title": "Jeden obszar bilansowania gazu w Polsce od 2027 r. – zakończono proces regulacyjny",
+      "title_pl": "Jeden obszar bilansowania gazu w Polsce od 2027 r. – zakończono proces regulacyjny",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOGNYa21vUVo3a2tWcHpESFh2dER4eVo0cDZCTEJhcThoalVRS3R1MXZ0dW9pWDlRVU0taWJwM3MyYTVXbmxUX2lMQi1uQUlPa1VPQWZDRXBTT24zWlphNnFYVGhnMWdhUllVRi01cWs2MExlNFRzM2JaMUtHUmdrbWRhSE9BUEwxVjB6VldRakh3LWV3V0ZEYklhaGx6Y0pQZFdVbjVuRVRycmMwcTRUWUJsNEdHRWJFRzVqZmxKLWt1cU56S2hyRGVlUDhQZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9c81c14b9e0b423f1a",
       "date": "2026-11-18",
       "title": "Polacy znów ruszyli z pomocą Kijowowi. Zbiórka na generatory dla Ukrainy",
@@ -751,6 +925,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-87e6c660dee537b96d",
+      "date": "2026-11-18",
+      "title": "Mrożenie cen gazu. Ratunek czy półśrodek?",
+      "title_pl": "Mrożenie cen gazu. Ratunek czy półśrodek?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEl0alA2TThMWjJjU09hdGRzY1Fna3ktTm9FdnJLbnJad1NCN3QyRDcyXzRiTXFnOFEwTW0zMjVic0hGRXlPRVdqTVhpWlRicEVadVhDb1BSQzhudTVlc3Y1ZGYtZ2lGejZZVjZrMFBHbXB1amY1dF9kUWpFZFphNndB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1105,6 +1308,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-44ead6f420298313e3",
+      "date": "2026-11-18",
+      "title": "ORLEN to supply more gas to Ukraine. New contract with Naftogaz",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXFfd3FlcVBRb2daU1RhQ3IwUkdNQmFnbU96NlEwak5ZQ2ZrNHp0OFYwTUFpMGlqbHdrZXhDcVhILUYtV0diMXFWVlBjbF9iVU9CaW81bWRlX0ktdWt1VnE0QzhvNldLbVhDMTJONkh0MHdkVk1rNHRhYUpzbldwUDY4ZTRCaXhQYWc5UnA3SG96Q3N2YzdQeUxFMnY5QUcwVk8zTW9rUS1LZGV3TFpaMFFGT3FSamEyc1ZLZ09IT25JMGd1cWJPUk9sb3liVW5hTXp2ZWRvdDA1NTB6b1VJOFJ4TzdKem8?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-40adf83791ee7f0bc7",
       "date": "2026-11-18",
       "title": "W akcji „Ciepło z Polski dla Kijowa” zebrano do tej pory 1,7 mln zł",
@@ -1202,7 +1434,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNC1NWDNaNkNhQWtiUWhRbUtyY3RtU2pobW1kYXNtNzFxck9GVWU1M2RNSUVIMEZkcG1TeGxIUUJ0V2FpcE9GTWxoU2QwdVlzU3ZkR25yQjZGOVJMaEZJMlpHc2NfTnZ1dEY1TVFPR3lMTnQ0MnpiYkRpUWFIc1pkbUlwNVdFSXY5V2lGbEhxSHFISDRBLXhNdnUtNjlGc2w2Y1JVdEtDOEtrdTd5d0NMNTBrb0dWLWZKWDltcXJUbW85TWYxVElYdVdOTENyUGdzbVI4NGlaY1E4QQ?oc=5",
           "type": "press"
         }
@@ -1210,7 +1442,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -1277,6 +1509,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2cf128ddef3d09ed08",
+      "date": "2026-11-18",
+      "title": "ORLEN stawia na rozwój sprzedaży gazu na Słowacji. Porozumienie z SPP",
+      "title_pl": "ORLEN stawia na rozwój sprzedaży gazu na Słowacji. Porozumienie z SPP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnRqYWI5eWdlZTZSOUVZX0oyNkRaOHJ3ZllkZXIySFFmSXlqSERuWHhBdzVoYUZ3Sjh0cjF4RG1sMzZGOFZRZnlQNjVvOE1hU0NzNk1JeVNNMjdUcXdTd3lWNVpZOENMQzJaSFROQmU3ZE5sTUpLd2xBMm1kdno4eWRXXy1GM1ZUUmRwWHRONkZWWXZGXzVycXEwNVgyRXViNjJwdldsV2FHRXkwU2VEZWpVMzYxSmZLTklCOGRmRC1SS1JDaVpqOFlhLVd1VFBfWDlTWm9oZEtnSldaUzFvN1k0UUdic21K?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2745dae923473456b0",
@@ -1457,6 +1718,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-13dd17c8bd33dd9bd8",
+      "date": "2026-11-18",
+      "title": "Operatorzy gazociągów przesyłowych z Polski, Czech, Słowacji i Węgier z porozumieniem o współpracy",
+      "title_pl": "Operatorzy gazociągów przesyłowych z Polski, Czech, Słowacji i Węgier z porozumieniem o współpracy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkU4MjVFMzJHVFR6ZkFWU1pzTXFuUVVDdTVJXzhad3BmNjdQZ0hweTIzNFpIRDh1ZnVQUlcxa0dhbmgtRXM4OTZWYmZwZkZLZjZPMVllZ29wd3ZmOTRKN1J5elY0MUlJY0lLLWdZR1ZFWHlrWFFrVlhwYmxyd0VFVl91TGxHUFVxenoyeEwyWEhKZkhtOUZ5cnFyZEZ5SVFZQ0duT0k2bzdXa0pfY0pHMDJyTks1YUoweVNnQ2JHcGhFUEJjTW1BcE4tX28wQjg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-07cb6c78020947ab80",
       "date": "2026-11-18",
       "title": "Polska – Systemy rejestrujące i urządzenia badawcze – Zakup stanowiska do rejestracji wewnątrzczaszkowej aktywności elektrycznej i sygnałów pojedynczych neuronów u ludzi znak sprawy: AZP-261-23/2026",
@@ -1515,6 +1805,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-007083e319b0f76b84",
+      "date": "2026-11-18",
+      "title": "Ogłoszono konkursy na dwa miejsca w Zarządzie Tauronu",
+      "title_pl": "Ogłoszono konkursy na dwa miejsca w Zarządzie Tauronu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU080QnBoeDc2ZlpRMnNhM1lPQnp0SlIyRmctY2RxY0NtYVIxYm54bkhObjZrc3BycUtENFVVcC0wNDM3OU5raE5WNHQwOTFuNUNUZlExRG9BWjdtM21jMHcyVGVnTEdqZDF3bk5EcTBxOGljdkpDeHdjVDEwbWQ3QmV6MjllZk5YUV93OVFTNDV1NWRwOFJBU0NFSnd2d29COTc0cEd5Q0V4RFo1U1Fn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ff5e0fcfa17e0c69bd",
       "date": "2026-11-17",
       "title": "Rząd w pierwszym kwartale 2027 r. chce przyjąć projekt regulujący rynek wodoru",
@@ -1555,7 +1874,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHNTZGlXXzNHOU5Ca0hMSUlSbnozNHpFWUxISlB3RUdZWWFXR0ZpZUkzVzJINFBGTl9tU2RTRXNrUElISkxQaTZVbzdJVDY2OUVwSjRZdGczZTlLMkdsMDRhZG1qTlhiWU5NOXg0cjZwUlJqM3FZRUwtOG5oRkVrdWZqMTBjYWNETHZzUkpKVUV1dS1GOUMxYnc4N05jSzhjTGFuYnhqbTNldWY4cWlaNm43N21vREFHekJ6U1RvSXdWUTdSOTMyc01XeDI0S2Q1dmdPam1aeUtxQ2Iy?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN09NTUVvRU5WT0ViWE1qV1pPLUpNVmpOVlh6VzdjanoxUlV5S0hBWWpoU29HN0x5bTh6ZWxfWGVYSDU4bDdPMTlWX0M1YlpwaXNSUHlNUnBHZ0MwYlpmZjZEdWdMUDdrRnZDTDN1bkt3U1kwUnZNMDh5cFIyd3pUZVgzbC1wbG1GUFdGY3kxSTA1ZmZUSWJNUnJFdWZ5eTZjVWZBMHR0b3Mwd0xyQXJrWWpDczVmNmdTNEhvSVM0Rm9lVllrSDQxeURGUEtveGM4YW5rVGhOcXdzVEVQRlNJWG40SHpval9oZVdIMHZZMm9pd3VUMDZWVGNBNDQzbk1EcjZfeHBTTzhZOHJVTTN3cm4xcFpKNjZYcElSa2x1TjZBOHJnbjQzYWpVQVRVWXpVVy14X1BnN2JMZGZYZzlQWUFpU1JkRHUxdTBYdw?oc=5",
           "type": "official"
         }
       ],
@@ -5695,6 +6014,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f09e9442e37c0c6643",
+      "date": "2026-11-16",
+      "title": "Dostosuj się do cen energii z ofertą Dynamiczna energia od PGE | PGE dla domu",
+      "title_pl": "Dostosuj się do cen energii z ofertą Dynamiczna energia od PGE | PGE dla domu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FLU9HemhwaWwtTENvckF2TFh2UXZydXRMQno5TjdacWpTdWVraFBfV1JrbUhmWlFYSGFmZzQ5RFRCS1hodm5PVUJQaU5DRjBESmV6OG5aM2NpLWxidnVqUkhQRUo3T25PZkJDSzBn?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
