@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T07:21:40+00:00",
+  "updated": "2026-11-18T08:40:42+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e108c9289c74f30abd",
+      "date": "2026-11-18",
+      "title": "Inwestycja w nowe źródło ciepła w Wolbromiu z pozwoleniem na budowę",
+      "title_pl": "Inwestycja w nowe źródło ciepła w Wolbromiu z pozwoleniem na budowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "TAURON — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTE8yaFUyallSdkluZHU3TWpWbm1yMDJEX05peEFvWDZqN3JiRTNwNTAyVXEzNWY4cm50dDUxb2tRc2REbTRTalNXRDdfQy1XLUlhS0E2aUlHT29GSDA1WUtQZWRwaVVWX3h0YkNqZWMtSlhjRU1lX3JYNFhtMjZwaTZKVm9wenBzWW14MnZFVkJHNmQ0aldxbVhTZE5mVDFQX1dHVUU0b0lpX1ZN?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "TAURON",
+      "publisherUrl": "https://media.tauron.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "54"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-d63b019acb44aebd22",
@@ -205,6 +234,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b5891f06a64dc1b3d0",
+      "date": "2026-11-18",
+      "title": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "title_pl": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHBrbTZmaVVKYmtqbkNra2RFcURJLW1wTlp6QWFsMGxMVUh0cWZMVWhmZndEVHdnampLbnlMZnJBdU9DX0ZPYnpPamRnb2ZCTUFPamJpaDg1U3FWV0V3MV8wcjJyNDJPckIzRDFCWjRKWDhqZ3hPRnBOaUg3ajJPakZMc2FlUXlZelgtQnNIYjJSLWhBcDRRcDV2M0FaRnJ0QUZNZTQxazVpRzRac2t2a1otZ3YzeFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-afffb7cf7a8f9dedad",
       "date": "2026-11-18",
       "title": "Trzy mocarstwa przy jednym stole. Polska gra o gaz i atom. PB BRIEF",
@@ -229,6 +287,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9c81c14b9e0b423f1a",
+      "date": "2026-11-18",
+      "title": "Polacy znów ruszyli z pomocą Kijowowi. Zbiórka na generatory dla Ukrainy",
+      "title_pl": "Polacy znów ruszyli z pomocą Kijowowi. Zbiórka na generatory dla Ukrainy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Przy wsparciu największych polskich organizacji biznesowych organizatorzy akcji „Ciepło z Polski dla Kijowa” zebrali już ponad 3 mln zł na zakup generatorów prądu dla Ukrainy. Do zbiórki przyłączyło się ponad 15 tys. darczyńców.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polacy-znow-ruszyli-z-pomoca-Kijowowi-Zbiorka-na-generatory-dla-Ukrainy-9230647.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9a1b69e2e3b94e50b2",
+      "date": "2026-11-18",
+      "title": "Orlen zwiększy dostawy gazu na Ukrainę. Nowy kontrakt z Naftogazem",
+      "title_pl": "Orlen zwiększy dostawy gazu na Ukrainę. Nowy kontrakt z Naftogazem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamZlMUhRRjQ3U203ZE5LdzBSMXBHTkFMS2lkblowc3dfdFBMMFItTnRXTDE0NjZsTzl5VVB4UVVFcWE0OHpudkRDWDJoMGhXZmkwNk91M1YyclIwOWRLdkJrLUpIckZ2TUpsSHdjalhYdWZmMlNQY2VJWDk2NDNZQXE1dVVxY18zNzdvaDdQRXZ3NnhfSFpLVEFqQzVPRDFvamlXdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -437,6 +553,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7cd67e0fe065e6ca4f",
+      "date": "2026-11-18",
+      "title": "Podejrzani „serwisanci fotowoltaiki” w gminie Suszec. Sołectwo ostrzega mieszkańców",
+      "title_pl": "Podejrzani „serwisanci fotowoltaiki” w gminie Suszec. Sołectwo ostrzega mieszkańców",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFpTX1pyQU8yMjZKNW52M2pXR0VHbDZ0Wi1FaVlhRTZGVFhkQno2X0c5SzNmY3FzMWlPa3NQbFlteHE1ZjVfZTNIMElSNU9JWExUMXkyVF9jR2luZV9oeGtJcGs0MUd3QWVzdDZMU25xME5NUkxTZlJ6aDd5NU1zRHdJVkd4QmJIN2hQMWZVa21pdUZJR2ljMHFVT0paMl9QZHFHQkRJWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-71ebebf9c3f97fb3cc",
       "date": "2026-11-18",
       "title": "Polskie Sieci Elektroenergetyczne S.A.",
@@ -593,7 +738,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDNWa25OWXJXQlp4VWRsQVB0N04zZDI2eVhvSWZoenFXTHBESENveGdGaXl4c2xoUkU3OWVOLWM4TS1SVW5YdEZpVGFUNU5aN1FwTEFvV1hQXzBHcVFwNVAwYjZvV0EzZlpncW1leDhUNURfU2NxUFEwOHZqUHd1Wk5PVjlLcmZKRE0wTFc1X3dJZ0h5Vm5lWTA4MDkxbk56YjFyZV9rZnQ3amVxUXNwUnYzLXFoVnM?oc=5",
           "type": "press"
         }
@@ -601,7 +746,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -610,6 +755,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-38288e7678a2a36879",
+      "date": "2026-11-18",
+      "title": "Rządowy projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r. w związku z sytuacją na rynku gazu oraz o zmianie niektórych ustaw.",
+      "title_pl": "Rządowy projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r. w związku z sytuacją na rynku gazu oraz o zmianie niektórych ustaw.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3385",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-373cfe3b54770541eb",
@@ -639,6 +813,68 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-37192b69807ffbe705",
+      "date": "2026-11-18",
+      "title": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o rządowym projekcie ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.",
+      "title_pl": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o rządowym projekcie ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3357",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-228e21182d7bcf1f70",
+      "date": "2026-11-18",
+      "title": "Rząd mrozi ceny gazu. Zapłaci Podmiot, Którego Nazwy Nie Wolno Wymówić",
+      "title_pl": "Rząd mrozi ceny gazu. Zapłaci Podmiot, Którego Nazwy Nie Wolno Wymówić",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Projekt ustawy opublikowano w piątek 13 listopada, a rząd przyjął go już w we wtorek 17 listopada. Konsultacje uznano za zbędne, choć taki sposób tworzenia prawa słusznie piętnowała obecna koalicja, kiedy była opozycją. Można by to jeszcze zrozumieć gdyby ustawa tylko mroziła ceny gazu. Ale…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122853-rzad-mrozi-ceny-gazu-zaplaci-podmiot-ktorego-nazwy-nie-wolno-wymowic/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE",
+        "ENEA",
+        "ENERGA",
+        "ORLEN",
+        "TAURON"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-1abeff7305753a07ae",
@@ -728,6 +964,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-048ffe658d541279a1",
+      "date": "2026-11-18",
+      "title": "Dostawa energii elektrycznej dla Gminy Kożuchów na rok 2027",
+      "title_pl": "Dostawa energii elektrycznej dla Gminy Kożuchów na rok 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Kożuchów",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df454f-a05b-9ab6-c1c5-d50001944cce",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-ff5e0fcfa17e0c69bd",
       "date": "2026-11-17",
       "title": "Rząd w pierwszym kwartale 2027 r. chce przyjąć projekt regulujący rynek wodoru",
@@ -784,6 +1049,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f742cfd31e1d97f51b",
+      "date": "2026-11-17",
+      "title": "Rządowy projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r. w związku z sytuacją na rynku gazu oraz o zmianie niektórych ustaw",
+      "title_pl": "Rządowy projekt ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2027 r. w związku z sytuacją na rynku gazu oraz o zmianie niektórych ustaw",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API — prints & processes — source",
+          "url": "https://www.sejm.gov.pl/Sejm10.nsf/druk.xsp?nr=3385",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API — prints & processes",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "6"
+      ],
+      "discoveryMethod": "processes",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f691b62160ed12d2d0",
@@ -1753,7 +2047,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTR6NnlkUUhuUllMd2dfUWxmUERfNENJamJEOXNZOGZzUnNieENiZ25fWUpyYVFSYjA3SDEyd01HM2tQa011SmxZTkVWM1JlUHVTeVFmXzkwOEROeVk4N0k4anEzcXJ1UFhBVi1hUEhVXzQxajNJaFpjWTc3TzBFWEV3eVEwcm9HSGJRcG1XWms4N01YWUt2ckFfS1lkX2JuYnFiQTc3Sk5fcGZodVYwdThXYnY2ZW5YSUF3dWxDcTR6QmkzRmstcA?oc=5",
           "type": "press"
         }
@@ -1761,7 +2055,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -3897,6 +4191,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-273ea151565cc7c1e5",
+      "date": "2026-11-17",
+      "title": "Karta aktualizacji nr RRM/Z/17/2026 - PSE",
+      "title_pl": "Karta aktualizacji nr RRM/Z/17/2026 - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxQVjBLOTRxQkFrQk03S2hlRnNPSUtVNlhXLXNvMkFySllyVzJjel9XeUlwWDJUdGRfZGhMQUhUcTRfLU9WSVd1bG9xLWc2SV9PUDdWWGpwWjBNMzJZUXRCRnZqZXNodC1MLXFYVENoSlgyQWY4N3U2T0RrUnJ5MkNHc0ZfbE1IZUV4eVd5Qkk1a3VYTkYxaDZTRHpIRmZpQVhFaUtKT2x3OVR2X2drVDg0aFhwbkdBcWVhWlRsbUttZUZlMUdQLTB1SEx6dDJIR25XVHBmNzJ3T0FxOXBUMFZwWFZyRkc3ZEJ3dzhJYXJLaHlWdmxZckxoZllFNWgtN3JUMktyMDY5Vi0tTGVEbjlxXzRZNzNzei03ZlJSUGIzUEhXaXF2Q1ZUSFRMSDdXUDV5Nl9uQ01mdldsWVdHSjhzSG53ZFBxcF9uTUs4bzM2SWZadDJDUktaLTFFNlN3SERDYWhwZFUyOUdZeV9iWFdHNnIwT042U3hidzBlLU00bURDREFYSjh4Z2FDcWpQRmgxVmxlMjhkYW1hUjg4T3J6WHd1Zjc3WGF2NG85bndfOVJzZHR3cXZEeU40Mk9GdjJiUTFNQURteEpzR1pWM0VSNHBEVy1YTlRjX3FENTU3bTE1eGtkazljVVUyTWhWenVTbFFvdUt2Z3JqX05QWTAzVjNFbnNSb3UzSzdYYVoxRElFXzN3UkJpWl82bUZxODhVT3BUX1BkYmI1dXpzamNnQkd2RlJTWVlUZE5yTEtlM25oVzU3LWlZbFU5dlVMTUN2MTVFQjZGTmdWVE1hbmw3US00UHpHU3RFVkFrWDJGQUFGc1U?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2466a5ba6b8207b53e",
       "date": "2026-11-17",
       "title": "CBA zatrzymało 25 osób w sprawie budowy elektrowni w Ostrołęce",
@@ -4444,6 +4767,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-077b1b75c66eed7373",
+      "date": "2026-11-17",
+      "title": "Węgry nadal będą kupować rosyjską ropę i gaz. Jest decyzja",
+      "title_pl": "Węgry nadal będą kupować rosyjską ropę i gaz. Jest decyzja",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHBFTXl2YjRjM2NXcV9jR1BaTTNSdHBpT1RwMjhRTlA5ZlB4T2ZQRWQyM3RvdWswcHU4RjRhY19wZ3NlUUJRVFpkOU82SFdQVXpyYi1uVnRVV0VRdV9Kb255WGxjMUpUR3VKTUZwTEdLUXJZQVRaMGwzaFh4QkQ3RnZ0czBCVWRaM2FGWndnaXpWUlg4UXBqSktqR3hHdU1qZnZUNnQwOA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
