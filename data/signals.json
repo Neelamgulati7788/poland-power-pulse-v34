@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:24:29+00:00",
+  "updated": "2026-11-18T19:36:15+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fcdc77581f4228f77e",
+      "date": "2026-11-18",
+      "title": "Grupa Enea podsumowała pierwsze dziewięć miesięcy 2026 r.",
+      "title_pl": "Grupa Enea podsumowała pierwsze dziewięć miesięcy 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG1KcmJZV2FhNnNYdno4ckpoMjVHdUVhTFFHTUsweklDUVRjQ0NpOEFDaXJOSnRDejRITXVWdFotakl4dmVsZ1M2aC15djdNSWFJY3B1RWJLVXVLZXNBZkpfWUlhLTBQd2xLRVNEQ0UxYTNicGowSER2YjV6cGF2WkZaSUIzOWsyWmhubzBqU1N0bzdBR2hGUnJBdGFadk5JRnRJS0tsbUJhRVNZeFhqVGlCaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -611,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-d57d9f0c8880df7e37",
+      "date": "2026-11-18",
+      "title": "KN Energies - artykuły",
+      "title_pl": "KN Energies - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRjZwcnlqeHo0MHpId2d0R0xrdk9SMnppMDNxQmFUd3ZQWGJWZkRTTzZReHhTVFZKU2VQWkZ0NUZWZ0NLbkFPQXp3MEFlMzBxR3NHaFdUXy1BdEc3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-d33babcf33f396c659",
       "date": "2026-11-18",
       "title": "Dodatkowe sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego.",
@@ -693,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d182a144ecbbe67f12",
+      "date": "2026-11-18",
+      "title": "LNG and gas supplies to Hungary: ORLEN signs memorandum with MVM ONEnergy",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUTR4c1lPWDczY1Y3UFh4ZkpybElicU5NSVU4VUVzeWJ1R3VwSFZOR2F3Y3ZZZ1NfQkVWcE1saW96Zjh2U2JLd0s1TWZQZUJXcGNsWVhnV05SdW1zU2FsZGQ3NUd1ZWpubnNyNGdocEdWY3VfRDRaZWdVNFlaN3NPS2l2b096Wm1zUzd2Ynd4ZFNmeEVVS1E3QXE3YlBzaTFneFl0RVFjd19hdVVKOFA2ckYwaEZMS2FiVUo4c0JYbmpTWUdXNmJPd2tMYXRPUlFrQ1VqU1pkcEtNMWJ0NXlFcm5peTI4T2ZtVHRFNHMzMG1SWXIz?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1743,6 +1830,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9873e074a685e330a2",
+      "date": "2026-11-18",
+      "title": "Komunikaty ESPI dla ENEA[ENA]",
+      "title_pl": "Komunikaty ESPI dla ENEA[ENA]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3B2cXl3bGdUdDFHbzNvWmptcjhBbHJ2dnRoa3QwWkdZWFY3MnVhQjI2emk1ckh0Q05adThBWEhobzNoQmI2cjcwUjdCb2FYNllWWHZYYnpIaFZNRUFRb2UzQ3RJQXpacHRDdm5OOVg0S3o3WV9xM3pOOHhmaW82RV9Uaml4ZHdI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9846e9819907bcb927",
       "date": "2026-11-18",
       "title": "„ Remont Centrum Zdrowia Psychicznego i wymiana instalacji elektrycznej i teletechnicznej w Centrum Zdrowia Psychicznego”",
@@ -1917,6 +2033,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-8f9c440e637d0a7d5e",
+      "date": "2026-11-18",
+      "title": "Co jest w projekcie ustawy o zamrożeniu od 1 stycznia 2027 cen gazu",
+      "title_pl": "Co jest w projekcie ustawy o zamrożeniu od 1 stycznia 2027 cen gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVhmWnNiVi1HcUhqQW9QN3FmdGNQXzQwelVJam85ZHplYjJXckp1R280b2huS2xZcUV1TXM3bnctay04U2xYZ2I5YXdnTFlrSVBOR250QkxyRUtmOFNiZExSQ1VfSG1mTVYxcUNiS29pTzlmenFmaFRfQ3FpdEpDNDg4VDVuY0czNUVxckhqOUFfejZRaUZSLWh6V3o4OEMyWDZEdGxwd2wwY2ZHYllpNnhPcVVvMTdxaDBxa0t6S21iVzZqNmZaQWJqaWlwenp5U0pKbjNXRVBPd2FaVXVz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8ea2621feefb405d9e",
       "date": "2026-11-18",
       "title": "Gdańsk kupi energię na nowych zasadach. To pierwszy taki przetarg w Polsce",
@@ -2031,6 +2176,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8a43289b1f86c19e1d",
+      "date": "2026-11-18",
+      "title": "Ceny gazu zamrożone. Ale za chwilę dojdzie dodatkowa opłata do rachunków",
+      "title_pl": "Ceny gazu zamrożone. Ale za chwilę dojdzie dodatkowa opłata do rachunków",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnh6RGhwOFBQQ1ROemNvZDZPcDMxMUdLR1F5a2E0S01mSmw5RzFBaEJrVzZZNW9QNjhvcHRJbFJSMm9NMFlUbmVMaUcwY0h1YzZEUG9UNGtFMW5RZkdsaG5kRGNTZXRQMHNXazBKZXFDcVNDZGpEbDNZU3ZVZHc1RnZOeThfSEN1Qkc5ZVU0U3RzM0c5TGlaV0JMcW1pTFZJQzBYRkdTLWc3SUxiOWZOR0VITDRTZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-88db6b5d1a3691f025",
+      "date": "2026-11-18",
+      "title": "Wyposażenie w monitor pracowni CAD/CAM w Zespole Szkół Mechaniczno-Elektrycznych im. Tadeusza Kościuszki w Rybniku",
+      "title_pl": "Wyposażenie w monitor pracowni CAD/CAM w Zespole Szkół Mechaniczno-Elektrycznych im. Tadeusza Kościuszki w Rybniku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Szkół Mechaniczno-Elektrycznych im. Tadeusza Kościuszki w Rybniku",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45aa-4b36-5f00-34bd-c9000143c38f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-87e6c660dee537b96d",
@@ -2247,7 +2450,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkNCWnlvMDIxdVdOc1FoUmJfSGwtRU10T0tvU2phMkQ4MG5Va2VIdXZJM3ZDUGk0VlVSdkhtSnBlMnVlNzdOWXVSOEI3WUR0NGFVa1ZuX0ctakpPRUlBTUZOdVB2cG9KTjZvM2JaZFVuUV9uOVU3djdyN0UwQllQN01wSTJLX3ZFYXZ1bDZyMGIwd3pfc1phejZ4UzVnMUFoenFyZHdyc2dnazFHaE5zWmlOQlBuYkJhV0kxai1FeEI4SHZWcUJF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlczb3BvVTUwdU5FZWZ5UHNBUEZUa2M4TDFPZFRoRlNNd0syQ0I4NkRCdHhON2FxcEhMU3ZnZS02UFN5eXJUcXZhRkhRRXlzX0Njb096eUJJcG9IRTVuQWw4Q2FrUE16dGNqVGV2aFVzbV8xcXdmV3pWcEx0UXlTYlhjdE1Ib04yRF9JS2FQdk5ISnRpemI3Y0FDN2tIRHZPUkNDR3ktanhDTEhsRGdRaTY4SE00QQ?oc=5",
           "type": "press"
         }
       ],
@@ -3090,7 +3293,7 @@
       "links": [
         {
           "label": "e-Zamówienia / BZP — source",
-          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df458b-768c-c210-c1c5-d500019456bc",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45a7-08ea-4498-34bd-c9000143c37d",
           "type": "official"
         }
       ],
@@ -3484,6 +3687,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1e15eaaa381ad68609",
+      "date": "2026-11-18",
+      "title": "ORLEN focuses on growing gas sales in Slovakia. Agreement with SPP",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd2Q2cVhockYzdF9pRHMxcE9NUnllcXJ2aWpMcmpjbDdVYVRHaGpSQklPREVtcUU1T2xaVkg4cTBRcXUxNndESmlUNWhmc19TaG9yWlRzdEFIOWdXM2p2eWw4emhvNmJTeEpwaHpIU1BySS0wLW5nT1dJbHZXYlRIUXN4UXp4UTBYeHVaSHpZMjJyZEo0WVNKblhnM3ZySXVoZHlsYkdRdVE5VXdPX1JDRjRZWWFEcFB1UXNYM3hiM19LQlVqclM4c3Q4emFlVkJ1ZWJDMVY2ZFNudzJqcEV6MmZWUFdvOFZYTk84?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
