@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:29:29+00:00",
+  "updated": "2026-11-18T22:27:38+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8c9840d1b6ab29693",
+      "date": "2026-11-18",
+      "title": "Zakup ciągnika rolniczego zasilanego gazem CNG.",
+      "title_pl": "Zakup ciągnika rolniczego zasilanego gazem CNG.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Przedsiębiorstwo Gospodarki Komunalnej w Śremie Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45bb-b608-2fa1-34bd-c9000143c3e4",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-f61e786b2246d15e95",
@@ -4006,6 +4035,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1464255b61625bd6ea",
+      "date": "2026-11-18",
+      "title": "Dodaj do mojego kalendarza (.ics) - PSE",
+      "title_pl": "Dodaj do mojego kalendarza (.ics) - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6ghBVV95cUxNckR4eVhYZTRYWnVWaDFSaVVvb0RpdDVjYkNNZXJueDVkWVo5eG5tY0dwNkNGSFNBa2NVVHgzSzNaOXI4cUYyRVhSR0tJMy1qTVVkZDFwSkZ0c3NVcm1OVFlLYTRlb19HYkh1MFZ0T1VodWY3cFdWTTNPS0pDZEtPNzdyb25VNVhMeDBNWm5EWUg2cS0zYVUtVWVBaW9meENnamVydkpCTV9wbER4Zk5EX3hqVktEVmFITUtwYThhdVJCeEcyUDBDYVIzdzRaYlRUYW56Y2liSUl0R2VPQXh3U1Vtc2RMaTJDQWxCdHcycVVOS2lWMURfNmRqLUVaVF8tODNURHI1SUU4d1lBOTg1dmZXZDd6elg2dmFUcVhTUnNXVnRBRzlfLXUxZTBTMV9ZY2lMaUFKMENjc09QaS1fU0luWWJXcE82THZ5NENEcjFQNHVuY24tejBNM1JraWVsZDBJODg3b204al9PbWlSR2NaVUVPUU1YYUhRc1FFV3JETkd4WEJHSHExeXpwZDlkeC14SzVwMlhSTlpUa3lLdGU0dmh6a25nMElNNHFNQ0NERjV0WDQzb3dzY1VubWpVS2hrY2NCZy1VMV9YVE92ZUVNVVpHazdnOG1oZ2lia09kd0VHOFROOHllQzZtZVMtQ2NPYThLbTJwNW1FU2s5SWEzYzFnLXdlaG9iV0tEZXd5QWgzRGg0dThVdzc0MTc2bjZWLUowOWtSRUY1ekJ0MW5oeWVoTG5BcS1obGFOZmRkaExnOWtRYkhvN1NIcTNnVU9ZSGpPQXpGYkFpdkN1NEdhS3E5cS1oUTE4MnMyUTRYMmhLY21EZWNwMHpJNWRNQkpWeWdTaUNBOUJJMVgwVDRucGVzaEZFU2lYRXZOVnBlU2pIWlFnSm8xTndiTDJYMW4yLTFxeHU3c1paZHdpWjE3aDR1Qk9yTFRQUndNVms0LXFZNU5ObURBYUtGN2JjOU0taVY0elB1eWpoZzlOYy1rUV9NRTg1Q0tGczhjb0ljSUxhbVN6QllrNERTU1BLOFAzUjg1Y2xjTEdBbFliMkYzZWY4OTBsdy1EZG95UzM1c19qc2FBeWZVbGxsNnVPSFA3a1hnNDNPTWlkTjhxMnZyQ0Z1dk4tRHZCWUNaZFpYVFJaREt2Z3hOREdNRVl0YmIxUm5kcmRKendIbmt1ODFQbzFxTWplYjJtaFRnN3U1SkJjUHJUZWQyWW15RmdtdWhrZW9rVEw5Mnc1M3Y3NmFWX0VydEJBaERJR3VKTjYzQWpfbWZnM2ZGclZhSmV3R3NPdGo2OTNVclpndzUzWWRaaVdpNGx5SnNnM1FLR2c3Q1F2dl9PUDMwczRReHo1Vll3bzBSU0JvNTNfNkwzSlE3VjNhbzBoRzRfZnpVbWtseTJKcFV1cUFxUGlMZ085RFI3Q1RGaUthalFybHhLeGJGZWFZNWtwME1YZ21SOHRZYVFENVd4aDE5UU8xQkpocm9IeTRzUEc3Zw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
