@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:27:38+00:00",
+  "updated": "2026-11-18T23:26:27+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -1027,7 +1027,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHF1R1JrMmRUVTNOdUxlU1pzY05PSDdzU2hMem05ck1iQUdUZnNYMnVYeldwMzVRS09fSEhNemdfT212Q3ZVSnhVdXljdUVZTkJXbEtqUzZfb1F2TnhObVQxZHVmZmc3RE1DcUlvV25WVUJ0UlhycUlTc1VmVTV2d05zbnZubFpxUFBuRzJNTG5mVzVCdVF3TzA3Y0NMNVFfNm9hWWtHWDgwNk1mbF91eF9FcWVJVUVzeUpKSEg3TkNxdDBJWW5VVURKOFVaNUd1WFktZ3FXTllrNkZYa3RGX0NaZHNfaDFUckw1M1hB?oc=5",
           "type": "press"
         }
@@ -1035,7 +1035,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -3282,6 +3282,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-438cde6641e57995b0",
+      "date": "2026-11-18",
+      "title": "Re: Enea nie ma pieniędzy więc pozbywa się akcji",
+      "title_pl": "Re: Enea nie ma pieniędzy więc pozbywa się akcji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDJkUUJaOXhRbjBISUdlOUVSd1ZPbjdaVXRYWHJpWS1iYlcxUHJ2YnhVQzZES3V3eXhwTFVZRUUyS29wMV9vMmVhV0dyQUVZWXpQOEE4U0FiV2h6Uy0yM08ycHdrQTJfTU5YZmRNMWlPby1Wd2I4emI0YW1naWM4Qkp0alRvODJycDhpZkVlWWdWMVBydE10N09VWEg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4120c073b9b81c97ef",
       "date": "2026-11-18",
       "title": "Orlen podpisał porozumienie dot. dostaw gazu ze słowacką spółką SPP",
@@ -3483,6 +3512,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-38c3718ac70129401f",
+      "date": "2026-11-18",
+      "title": "Grupa Enea podsumowała dziewięć miesięcy 2026 roku",
+      "title_pl": "Grupa Enea podsumowała dziewięć miesięcy 2026 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG1KcmJZV2FhNnNYdno4ckpoMjVHdUVhTFFHTUsweklDUVRjQ0NpOEFDaXJOSnRDejRITXVWdFotakl4dmVsZ1M2aC15djdNSWFJY3B1RWJLVXVLZXNBZkpfWUlhLTBQd2xLRVNEQ0UxYTNicGowSER2YjV6cGF2WkZaSUIzOWsyWmhubzBqU1N0bzdBR2hGUnJBdGFadk5JRnRJS0tsbUJhRVNZeFhqVGlCaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-38288e7678a2a36879",
