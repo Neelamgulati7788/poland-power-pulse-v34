@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:01:33+00:00",
+  "updated": "2026-11-18T17:08:07+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8da2c029293258887",
+      "date": "2026-11-18",
+      "title": "Anthropic inwestuje w gaz, by rozwijać AI. Stawką są moce dla centrów danych",
+      "title_pl": "Anthropic inwestuje w gaz, by rozwijać AI. Stawką są moce dla centrów danych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEIwTVozd0RGaVdrYWVQRXBDdnVjck9NNWxCd1ZLdGxFMGd6TFVSc2U0QkNBN2ZDM29sRzhvSTNQZ2xmekFfeFdMbTc4OUJiSDhUTE5COXBTZVJQU2lnZzVkRVpOWGRRVm9Qd2NJSUxodUpiZzhyRFpqT0c4WHdKc051dV96eW5rUklxek53?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -872,6 +901,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-baddf5f9adfa6f0d11",
+      "date": "2026-11-18",
+      "title": "Prezydent zawetował ustawę, która miała podnieść VAT na napoje energetyczne i piwa bezalkoholowe z sokiem",
+      "title_pl": "Prezydent zawetował ustawę, która miała podnieść VAT na napoje energetyczne i piwa bezalkoholowe z sokiem",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUVQdjY3Z1NHaDJqZHdKaGVkNWgyRVlVcDhQNGY3em1zSmdaRTdSR2NZU2lIUVM2VzFsNDBrTFhSXzdqR18zQUZQTnpwa3BLUEJaUUg4NFJDdDNSdHNpMUdtaEFlM1J5VUNzRDdLelRFdll6T25hR3JOVS1aekpVSFlBVTQzX2FsY3JOUGtxVjlGY21ndTdmNEVNQnctV0dxdjFSdWd3bnpmbEUwWjQ2bEpjZVVCeFhxbTE5YklyTzZ6QmhOLVhJQk5qV1pkbFE2RFROeFJnYW9MUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b8aceafcdaf2e7ec36",
       "date": "2026-11-18",
       "title": "Mamy już ponad 28 GW w fotowoltaice, wiatraki przekroczyły 12 GW",
@@ -1307,6 +1365,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9edd5d72c27b171ba2",
+      "date": "2026-11-18",
+      "title": "Wieże dla turbin morskiej farmy wiatrowej BC-Wind będą wyprodukowane w Polsce. Podpisano umowę",
+      "title_pl": "Wieże dla turbin morskiej farmy wiatrowej BC-Wind będą wyprodukowane w Polsce. Podpisano umowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlFMa3BaSlFQa1JQTk0zV21TZkRqRHJhazlpc2JjYjkwOEVLWEZYYU13YlcyQlBuaGJNekR0TWFmSk5HVHJER3hiNnhMOEpVemU2Qk5mbW4ydzAwNWZsb0VPd0phMFJpWjczamJvNjdobW5hVkFJaUlQVllLQS13WG5PeTByZFFvWmYzMU5xcHgtbjdxY2p0TlJGRDl4c3ZMMHd2QzE1ei1YSDhZR0FROHYzQnozUUhreGJPcFZhVzhwbVVqemFKNXZUNGNxZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9e1404950bdb55608e",
       "date": "2026-11-18",
       "title": "Jeden obszar bilansowania gazu w Polsce od 2027 r. – zakończono proces regulacyjny",
@@ -1522,6 +1609,35 @@
         {
           "label": "Bankier.pl — source",
           "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-dol-Ministerstwo-oglosilo-nowe-stawki-na-czwartek-9230780.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-958c14fad608af734a",
+      "date": "2026-11-18",
+      "title": "Nie będzie wyższego VAT-u na piwo bezalkoholowe. Prezydent stawia weto",
+      "title_pl": "Nie będzie wyższego VAT-u na piwo bezalkoholowe. Prezydent stawia weto",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W środę prezydent Karol Nawrocki poinformował, że zawetował nowelizację ustawy o podatku od towarów i usług, której celem było podniesienie stawki VAT do 23 proc. na zawierające sok napoje energetyczne i bezalkoholowe odpowiedniki napojów alkoholowych.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nie-bedzie-wyzszego-VAT-u-na-piwo-bezalkoholowe-Prezydent-stawia-weto-9231069.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -1858,6 +1974,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-81154a0e3c8b878b5c",
+      "date": "2026-11-18",
+      "title": "EU approves Poland’s updated 2030 climate and energy plan",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXFMck1pTWtlYTl3QU9Fdl9fQkFkRE9BR3VnWFN0ZWlBYWd2M2t3alFOV0YwdnM2dzJVXzYyX2JjVVNUbGVzRlFpWHJwbWhhWUxrbDVPb0d0WXdYUHdMbGNSWG1GM1hSOHZUdjhwX1FLZ1plZV9ETk9VbEZNMlNlQkVn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8049d9599931a22afd",
       "date": "2026-11-18",
       "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
@@ -2114,6 +2259,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6c6bd74c522817e04f",
+      "date": "2026-11-18",
+      "title": "Archiwa Energia wiatrowa - Strona 304 z 304",
+      "title_pl": "Archiwa Energia wiatrowa - Strona 304 z 304",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U0pSU1daTG1NQXZZY1RBcWkwN29Va0FxQUVtSjNPY1ZMNjNld05RUnFWV1FBNzhqVVc4cFA1bEJVVEp0UTdvaGFCemhTSHJwZk9lNGhfQ2lRQzlLSGJDTzhfU0N4dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3164,6 +3338,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-12b45c7f178f18fc61",
+      "date": "2026-11-18",
+      "title": "PFR nawiązał współpracę z amerykańską agencją inwestycyjną ws. finansowania energetyki jądrowej",
+      "title_pl": "PFR nawiązał współpracę z amerykańską agencją inwestycyjną ws. finansowania energetyki jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1czaUwxLXpvZHZSTkRKc0hiOXhDcDlsWHBtVzNWbnA5Tm9zbDM4ZTYtRVlyU3B2ZkZsOUFFempzeHRlTGpxaTVUNGN0cTZaVEFQbWVQalR5Nk1yUkc5LUdRalpRVXpJOUZHVE91NzlfSGU5VmVXb3BNMzU4OGE0Z29lQTN6YkFQRjJMYXJLX2xCeC04M01kT3h4VGdwUk5JOWh6MlpMOElleVAyZ1BFQjdxVFhwdzVqM3lUWUk2amo3UEhWM2pQYklBUWo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -6403,11 +6606,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "The measure would be funded by a new special levy on certain energy companies.",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Notes From Poland — source",
-          "url": "https://notesfrompoland.com/2026/11/17/polish-government-seeks-to-introduce-maximum-gas-prices-for-consumers/",
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXhueWpDLXNoWlAtaXdrNGdyQzJoajFNQV9CWmpLbFdFb19QaW9uTDlaNEEyU1Z4VWpCSDVEUUg4OFMwU2doUzYwNV8tQTVuSmx3NFExcXVtcWhqbl8tdXBmYkNvQkhlQ2w4Yk5tWkpLdUp1TVZGZmI4U3h5S0tudXBXYkRNRGlyUVRNRXhXTndWNWpaZ19QYWx6UkY1ZjR2WF9ueDNJWTI0TnloZkE?oc=5",
           "type": "press"
         }
       ],
@@ -6421,8 +6624,8 @@
       "sourceIds": [
         "30"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-31d8bd423820baa34a",
