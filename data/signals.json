@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:51:18+00:00",
+  "updated": "2026-11-18T14:57:18+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -171,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-efa44e34c8bdeed6d2",
+      "date": "2026-11-18",
+      "title": "Co dalej z cenami prądu i ciepła w Polsce? Minister zapowiada działania",
+      "title_pl": "Co dalej z cenami prądu i ciepła w Polsce? Minister zapowiada działania",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTdFTGx0M1FkQU8tTmtoOEZJMFN3T3IzZ3JjMzFUWG1SNnVqNFRGRndacldmVExWT1BCTGhWUWZPb0ZjZ2dXbUJud25DUFl3bVNhR0RMeGdIYk5PRDBMRzQwM3RPQ0hybWpicHVQSHpEQTBCRm1jcFl0VDNkdTJBU3hVUENNSWl3NUZiUndJRGFQRXc5RDMwMUtEcXBVTVBoTDRLS1NRSTd2WmtWV29oWV9QeTc2Y0xEQ3I4UFNPeWd4QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -403,6 +432,64 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d89b3a0bbc06a5fffe",
+      "date": "2026-11-18",
+      "title": "Operatorzy Gazociągów Przesyłowych z Polski, Czech, Słowacji oraz Węgier podpisali „Porozumienie o Współpracy Regionalnej”",
+      "title_pl": "Operatorzy Gazociągów Przesyłowych z Polski, Czech, Słowacji oraz Węgier podpisali „Porozumienie o Współpracy Regionalnej”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVVBrd3J6QjFlQm81US1ENDlZSWMxcUU4WmJ6OHRheWtRWnpucUQ2S0ZGV0FZOGNpX0R3QjEtX2VWelRjT0NyVE85eE0yaHNITzVhcGFFME13V2JhMlo5em1IMm11ZWtlNU5zY01GWUJ3Z09LTVlCRlh6d2Y0ejgwbFhQektMLWFNSlROaGQxQ205dGFyTWI2MUs1TEYwMVlBMlRGYjlJV0JQZU5DWEtJc1ZtWkRqWjJZa1QwcHlyMnRwQmExSTYzc1NHTFlFaWlxaERpdGJQQS1IajRnTWRfVmFaRkY4NVZjZk41elpmVUlBQ0FX?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d7a0935fa5c36f975e",
+      "date": "2026-11-18",
+      "title": "Trzy turbiny zamiast pięciu. RWE pokazuje, ile daje repowering wiatraków",
+      "title_pl": "Trzy turbiny zamiast pięciu. RWE pokazuje, ile daje repowering wiatraków",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUM1LXZlWjIybTNWaUNRblN2RUtPUGZmcm5WS2FoYzY3WnRZa1lKOEhCMkphLXFPLVlmal9HVDNnWWNPUHpzdUtjTldoZk51eFk0WFgyTFRpV3lKQ0h2QjA2Y212d1BVRmxWVlQtRXdST19qZnBBUmg1eENFYUxxZmZ2a0VNQkNaTEdlLUFzRlBCcXJCYlFxUnotVVMzNFBsbG9TcVpfU1lDak5ITVdlRk1kWlNTVXVMbFRR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "RWE"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1742,6 +1829,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-81a61f3078dca7e84a",
+      "date": "2026-11-18",
+      "title": "Gaz w transformacji energetycznej na lata. Prezes PSE: To „wieczna tranzycja” niezbędna dla bezpieczeństwa",
+      "title_pl": "Gaz w transformacji energetycznej na lata. Prezes PSE: To „wieczna tranzycja” niezbędna dla bezpieczeństwa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTVYzOWxrWG9wTGtoTTIydml3MkVUVUxQXzZUUXNyMEJlN2s3SGowbFJVY2dxdWFGNEpMUGtMWTRJTGFwcVV5b0ZJcThBckJ0SzI0bVZNSzFfMXpranJja240ekJ4Vk8xZ2xRQ28zU3g0UVpTaGVBXzZkU0ZTUU85dXpzSTJxSXVxNWthNjRqYTJoRWMwTmRxWnRBa293M01IUFhaZ25lcW43aFh6R0ctdWJLVU9oYXVoZDBJVkM4MnJDRUxGLUpScC1qd2FqUmNKMVk5d1hvY2pfSDFqTDRtRw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8049d9599931a22afd",
       "date": "2026-11-18",
       "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
@@ -1829,6 +1945,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-78d491a32aec9aae40",
+      "date": "2026-11-18",
+      "title": "Windar Polska pozyskuje kontrakt na budowę 26 wież dla turbin morskiej farmy wiatrowej BC-Wind",
+      "title_pl": "Windar Polska pozyskuje kontrakt na budowę 26 wież dla turbin morskiej farmy wiatrowej BC-Wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkFGWFpaNUpRMmU0WExzM25yTXoxbnJpaXMxWlRKZTJBOXBxSXRHcVJrTm43MUZVdzJhVWx0cDRTd1Z0ZUctRlRObzBOMTR1R2MySTNnSndIOElDX196U0xBQlNPR0VBTFBJYy1NaGdnTFpSYU94MzYwcmQtUnNQZTJYU19oNlVQeWtuY1ZWNmU3a2pmNHprWTRYQzlZOWdBR1ZLMFZQaWZERlRtNnBteEtfUEMtbWVhaEMxUmZ1QXhXdWVfUXNpUFFPMGdZTWxNdFFKNkpaejY2R1o1XzZYRkg3T2RnZ2hwdkx3Vg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://offshore.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-76a0d2b62f9ffcf36b",
       "date": "2026-11-18",
       "title": "Operatorzy gazowi z Polski, Czech, Słowacji i Węgier zacieśniają współpracę regionalną",
@@ -1885,6 +2030,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6d7b467274bb3a1aab",
+      "date": "2026-11-18",
+      "title": "Kompleksowa dostawa paliwa gazowego dla Centrum Kształcenia i Wychowania OHP w Pleszewie na 2027 rok – obiekty bez ochrony taryfowej",
+      "title_pl": "Kompleksowa dostawa paliwa gazowego dla Centrum Kształcenia i Wychowania OHP w Pleszewie na 2027 rok – obiekty bez ochrony taryfowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Centrum Kształcenia i Wychowania Ochotniczych Hufców Pracy w Pleszewie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4583-f13e-e35f-c1c5-d5000194567f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-6ca277b4c14118bf00",
@@ -2177,6 +2351,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-4dfe397ec3d710fe8c",
+      "date": "2026-11-18",
+      "title": "Rząd chce zamrozić ceny gazu, są też pomysły o przedłużaniu CPN i cenach prądu [HIRSCH O GOSPODARCE]",
+      "title_pl": "Rząd chce zamrozić ceny gazu, są też pomysły o przedłużaniu CPN i cenach prądu [HIRSCH O GOSPODARCE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHpwaHczLThjOGc5RkhNNlpzM3hUOHdBR29EY0RLem5DWDF4UjAzSEswLUFkQXJOMm1wWjNhaGxlY044OFNvYmp0bHhSS1UzRjB3RVpoNU1BVVJya1NEWW1pc095NjE3ekRFZFVsXzRwZVhVVVktVUdrZUEzTWF5WmZPR3FrYk9xLUdnRXUyeWVvSWg5NFAzbnVwSkpjRGJ2MXNpZ1hjalQxekVka0FwNHBWU0FIZjVaMnN6SUxaNDZWdTl1STNrbXlONzFkaUtf?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4be570f260f2d8e8df",
@@ -2700,6 +2903,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-18221598dc8c0022a7",
+      "date": "2026-11-18",
+      "title": "Inwestycje w energetykę przyspieszą jak projekty wojskowe? Minister Motyka: Blackout to miliardy złotych strat",
+      "title_pl": "Inwestycje w energetykę przyspieszą jak projekty wojskowe? Minister Motyka: Blackout to miliardy złotych strat",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmxBTEFzUnp4dzdwdzFlMTlMMEVITnBZeHM5MEM3RmpQdEpMbHM1eW5oV1UxOHdFQUJTRC1TMEZ1U0lrYmxTSERyNkFMMm9yRjF6d1AzQTdwaXppcGF3M2NpeTllUlRqSXo4NXNDVXZMYjFySWJJeVVNUER3VjRsMl9ISU81NGc0a2dKV3NtUktVQ2JyR2djTXpyLVpIUjVWd0lLcjFZRWFYNEVUQlhfT2V6dGJSTWtxT1ZoRmFqTFptVTdJY0phNm9RREYxNVhkU2FRQ051N081RXlWdWZEWVZyaVkzZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -8323,6 +8555,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3M4UWx4NXk4MlFFTDdnaWZrUkg3N0xOcjJsSHhmNWFYVG9FeEJ1SG1uaVFqdzBLTlhRQ3lPVTBPU1NTZFl2aVBKMkJPSk9taXBlRzVoU09OY016aVA3aW9tUl8zQ3QtVHFuMUxyUE04OFF5ZE5OWS1WX2Zrak5mZEZ3c29jV0NkakNkSXhn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8e565b0edb44de5f94",
+      "date": "2026-11-16",
+      "title": "Sprzedaż magazynów energii BESS – własność sprzedającego",
+      "title_pl": "Sprzedaż magazynów energii BESS – własność sprzedającego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHZFBGQlhidV9QOXFINGVEeWNQTDBJRVlmZks2dkZFTTRnUkNSdC1vTHY4all5VWQ3OVU4dFhpV0tpQU90d1pJMklRbXlvcFl0QUx6bk9ZQUdsaVhXNVJTb001eFd6VE0?oc=5",
           "type": "press"
         }
       ],
