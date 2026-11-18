@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-18T00:26:08+00:00",
+  "updated": "2026-11-18T01:54:38+00:00",
   "signals": [
+    {
+      "id": "src-ef899d61713337fb4b",
+      "date": "2026-11-18",
+      "title": "Polska – Serwery – Dostawa dwóch serwerów pamięci masowej typu Unified Storage (NAS/SAN) KC-DE-zp.25.560.2026",
+      "title_pl": "Polska – Serwery – Dostawa dwóch serwerów pamięci masowej typu Unified Storage (NAS/SAN) KC-DE-zp.25.560.2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4511-c63b-9529-c1c5-d50001944940",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-b7d01dadd58c4795e6",
+      "date": "2026-11-18",
+      "title": "Polska – Gaz ziemny – Kompleksową sprzedaż paliwa gazowego do obiektów Zamawiającego w 2027 roku",
+      "title_pl": "Polska – Gaz ziemny – Kompleksową sprzedaż paliwa gazowego do obiektów Zamawiającego w 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Pszczyna Urząd Miejski w Pszczynie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4511-c659-d3ed-c1c5-d50001944942",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-ff5e0fcfa17e0c69bd",
       "date": "2026-11-17",
@@ -3413,7 +3471,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXUtclc5SlB1OTRkQVR2SFBOYW1RazdLZjN5c0RXNnJyb2NWaGkyYTEtbmI3a1IxakMwSDR3WHZWVW1Lb0ZPbW5hRUNYVE83dld0VGpCdmQwWktQNk9LTWNRTS1ScGl2WURtenEzNlBCeF9uMEhWRkNaSE1mSG1fWEdieHFFUzFYV0ZPWkFqUm02YS1wdmVITUdmWkVMaTdlV2JpUVJpTjdvNDBHcTZ4VzY0UVh3UUQxOGlpZHRVRThDdkc0Y0dobmJqZVY3a25kZjFjcTNnUVpxNE4zdFVHbDBINWRxSm5hV0E?oc=5",
           "type": "press"
         }
@@ -3421,7 +3479,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -3559,7 +3617,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHExLVZEQnhGRkgycVoteGhSTFFwdGNZWXE5YjN0eTB6Qk1DZjhUZVE1MWdxVVhhdkVlaU1IbzhreGdJVVM2OU5XalhodzhNbXdyZ1F2Q0x5T2E2MG1qT2NsQWMxZUhlekJQTkgtbTZIcVo2ZkdOYWRyQnlsd3NfTmNHSGhsRmREY252dlRlaUFRb1NQeU90dzV1RGFrZw?oc=5",
           "type": "press"
         }
@@ -3567,7 +3625,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -4530,6 +4588,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c53b4919a86e1a2c53",
+      "date": "2026-11-16",
+      "title": "Projekt farmy PV 2,0 MW woj. mazowieckie – Wołomin",
+      "title_pl": "Projekt farmy PV 2,0 MW woj. mazowieckie – Wołomin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nNGFZTUdJRVZ3S0J6MkpJSFNvckxHWXNBMi1rc0I0YTFqMVpNcC1iQW9OZkoyX1lfdUZGcVk5Z3JPRFJqaC1uaGp2RTJaeV9Ba1FuQm81a3psd3JCaXNzd09BX1V0OGc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5806,6 +5893,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-609023a1c5c2f4629b",
+      "date": "2026-11-16",
+      "title": "POSZUKUJEMY PROJEKTÓW BESS I PV W FAZIE RTB W POLSCE",
+      "title_pl": "POSZUKUJEMY PROJEKTÓW BESS I PV W FAZIE RTB W POLSCE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVg1RmxKdWJxX1ZWVHBLRkRMOFlMNTRmWm5NWWY0TWJ3cTVhd3pqc1NnYmtSYlMwNE1nVmVNZE4yWDJYaXd2UzFpaVdCYVpWRmtGRUhGTUxMYTk2emdvdHdONkZicDlsRnEwb29pTkFnS3EwYm9Ia2dYNk5Ha0lvUHpENTEzUzBGVzROWXBqWXZPWmN2MjB6a2VIVzM1ZjBSYjUtZ2h5OGlYdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
