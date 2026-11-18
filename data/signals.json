@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:57:23+00:00",
+  "updated": "2026-11-18T05:02:20+00:00",
   "signals": [
     {
       "id": "src-ef899d61713337fb4b",
@@ -60,6 +60,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-168e6aaa95e34e45c2",
+      "date": "2026-11-18",
+      "title": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "title_pl": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhnODkyc3hQVS1nYkxKTC1IWVg2QmJ2c3lvcER1VndGTWRzSmJZZURXMk5TdGRhcFVDZFlLa1lDV0NOUzhnYWQ4bENSdFJ4dE1XN0E3dHVBdDR0WVFnSjlFd1V4U2ZKUFVnMFlMeGpyN25VMUsyeEVoT1JkMlI3cWp6bmN4NHlZc2lETlc5Ym45NGQyWmQ3WHJ0TFJfS1RZeGVIanVIM2dud003a0tZQ2pzcDFVWUF2dU1YSnZ4aS1Vc2Rwb1RzZ0lFN2dCMFNzLU9acXY1aE1DVEhlbmc0cmhXejZYbzV2aEdEV3VyR2dQRkxIdmhlcjYxaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zmiany-kadrowe-na-rynku.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-07cb6c78020947ab80",
+      "date": "2026-11-18",
+      "title": "Polska – Systemy rejestrujące i urządzenia badawcze – Zakup stanowiska do rejestracji wewnątrzczaszkowej aktywności elektrycznej i sygnałów pojedynczych neuronów u ludzi znak sprawy: AZP-261-23/2026",
+      "title_pl": "Polska – Systemy rejestrujące i urządzenia badawcze – Zakup stanowiska do rejestracji wewnątrzczaszkowej aktywności elektrycznej i sygnałów pojedynczych neuronów u ludzi znak sprawy: AZP-261-23/2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Instytut Biologii Doświadczalnej im. M.Nenckiego PAN",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4511-ce5a-0432-c1c5-d500019449b0",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-ff5e0fcfa17e0c69bd",
       "date": "2026-11-17",
       "title": "Rząd w pierwszym kwartale 2027 r. chce przyjąć projekt regulujący rynek wodoru",
@@ -84,6 +142,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f8241c889324e71a8a",
+      "date": "2026-11-17",
+      "title": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji fotowoltaicznych w dniu 15 listopada 2026 - Komunikaty OSP",
+      "title_pl": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji fotowoltaicznych w dniu 15 listopada 2026 - Komunikaty OSP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN09NTUVvRU5WT0ViWE1qV1pPLUpNVmpOVlh6VzdjanoxUlV5S0hBWWpoU29HN0x5bTh6ZWxfWGVYSDU4bDdPMTlWX0M1YlpwaXNSUHlNUnBHZ0MwYlpmZjZEdWdMUDdrRnZDTDN1bkt3U1kwUnZNMDh5cFIyd3pUZVgzbC1wbG1GUFdGY3kxSTA1ZmZUSWJNUnJFdWZ5eTZjVWZBMHR0b3Mwd0xyQXJrWWpDczVmNmdTNEhvSVM0Rm9lVllrSDQxeURGUEtveGM4YW5rVGhOcXdzVEVQRlNJWG40SHpval9oZVdIMHZZMm9pd3VUMDZWVGNBNDQzbk1EcjZfeHBTTzhZOHJVTTN3cm4xcFpKNjZYcElSa2x1TjZBOHJnbjQzYWpVQVRVWXpVVy14X1BnN2JMZGZYZzlQWUFpU1JkRHUxdTBYdw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A.",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
