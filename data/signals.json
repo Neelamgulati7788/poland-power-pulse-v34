@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:36:15+00:00",
+  "updated": "2026-11-18T20:33:37+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -403,6 +403,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ec7c8f87f573b67f67",
+      "date": "2026-11-18",
+      "title": "Energetyka",
+      "title_pl": "Energetyka",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNQ2NYMjRMT0l1T0NlaHh1czdRWnotQVE0WE1VLTFDRmE3SzNtNG83QnczMFZ1aEphcFhKcURlQTUyZ1pEcHRlWGxiRGQ1bHBIdlpBcUxXbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2555,6 +2584,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7a5ca6ac25ed55242a",
+      "date": "2026-11-18",
+      "title": "Tauron power posts PLN 1.02 bln net profit in Q3 2026, in line with prelims",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHdJa2FZZkQyVmRvMXh4Z044NnpGMkRGYzlPTTdwZVZxTGNFR082UjhPNTlQTnBpYnJuSkZDMGU4WDYwM2dUWFZOd2Z0UFREeWxRd0NPRmVBZmVXTlVjdHR0SkhnUEd0MS0zXzlkd2pmRDVRM1Q0MGg5VW5QcU5DRENnMldmbGpodEl1NS1iLXhfSG1UUU1ScFM3d0FpOWNILU1r?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-78d491a32aec9aae40",
       "date": "2026-11-18",
       "title": "Windar Polska pozyskuje kontrakt na budowę 26 wież dla turbin morskiej farmy wiatrowej BC-Wind",
@@ -3721,6 +3779,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-1bdbf56afcb1ff48e0",
+      "date": "2026-11-18",
+      "title": "Minister mówi, kiedy ceny energii będą niższe. Musimy jeszcze poczekać",
+      "title_pl": "Minister mówi, kiedy ceny energii będą niższe. Musimy jeszcze poczekać",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjZNTXI4bVhPSjVtd0gtWjMzNjd2VlVneGxHSVpxZ0lSUzFxZGpRODRSZ1hpUG9oNndSekxCV0dtSTRDTS1UbzNibWdiODVMT0cxNnd0N184ZWkyN2VkYzFxRWJGdTlCdzZBal9Rci0tUHVtX19CbUJNLXEzY1JwSGRCZU55UUtIUFJQYzZmWFVwTVFtRHdESUc4OUZwaVRwam1vSE9Yd3k2Mm9i?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1abeff7305753a07ae",
       "date": "2026-11-18",
       "title": "Rząd zamraża cenę gazu. Gospodarstwa domowe zapłacą nawet o 1,8 tys. zł mniej",
@@ -4008,6 +4095,35 @@
         "6"
       ],
       "discoveryMethod": "prints",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-05916bcfc3dd8bb6c6",
+      "date": "2026-11-18",
+      "title": "Dostawa worków typu HDPE lub LDPE do selektywnej zbiórki odpadów komunalnych.",
+      "title_pl": "Dostawa worków typu HDPE lub LDPE do selektywnej zbiórki odpadów komunalnych.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Master Odpady i Energia Sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45b2-8e01-6a9d-34bd-c9000143c3b8",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
     },
     {
@@ -6856,6 +6972,35 @@
       "sourceIds": [
         "25",
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4614540fec9c0fde7c",
+      "date": "2026-11-17",
+      "title": "Polski Kongres Naftowy i Gazowniczy o przyszłości sektora. Rozwój gospodarczy wymaga ropy i gazu",
+      "title_pl": "Polski Kongres Naftowy i Gazowniczy o przyszłości sektora. Rozwój gospodarczy wymaga ropy i gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLURDbUNUUkREX2tsSjZ4cFd4dzVjVGsxT0tpM0syMzZ4RmVNTkVVRFhnVHFJVnc4UnZQR1V1d3k2VnVVQzNaTUs0RllwRFQwanQ5U1pUVDU4aU10TDZSZXlxcXNUREpXZTFWNkRHOGNwX0dFYUl5bHQtZnFiMkg2MktzdGFvWDNEelY0Qi1USURxc2Q3c0FLRkRUZm94amFwZVZWUzZfUkVnam5HYzdta004MnM2aXhTd21Bd3BB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
