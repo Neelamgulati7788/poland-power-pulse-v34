@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:40:42+00:00",
+  "updated": "2026-11-18T10:04:23+00:00",
   "signals": [
     {
       "id": "src-feaae16c6d7174981f",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-f4ea45bc030b14b6a6",
+      "date": "2026-11-18",
+      "title": "Tauron: Inwestycja w nowe źródło ciepła w Wolbromiu z pozwoleniem na budowę",
+      "title_pl": "Tauron: Inwestycja w nowe źródło ciepła w Wolbromiu z pozwoleniem na budowę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0V3d0dYMnhOTWR0MHhOVHdtWHhzZkYzZDNXU3E3bVM0VlpLLUZPSDNnbXFjWC1jU2JSaExQazZDVFNQR21DN25XOHNNR3F1bFFPU3VYaDdVU3I2dHdCeGVlMVNCRGtIajBuT3cyMll3bHY1ZXN6aTRmajkwTEpWajdKMW9meE1yZHBSUmE4NWRteElHeUZaa01iVlVQbmRwNEQ4YlRHR0tRMWJzZ0VEV2J4WXBPa01CZ3B1Y29aZzg2UVZOT080?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ef899d61713337fb4b",
       "date": "2026-11-18",
       "title": "Polska – Serwery – Dostawa dwóch serwerów pamięci masowej typu Unified Storage (NAS/SAN) KC-DE-zp.25.560.2026",
@@ -87,6 +116,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e7f53b06383479dbd3",
+      "date": "2026-11-18",
+      "title": "Małopolskie: Tauron z pozwoleniem na budowę w Wolbromiu lokalnej ciepłowni gazowej",
+      "title_pl": "Małopolskie: Tauron z pozwoleniem na budowę w Wolbromiu lokalnej ciepłowni gazowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0xIY1NRczVzWkhOUFh5WWpRYTVzWGF6cjZOVzJkS0lfVUVNY2I1UExRcEc3Y3BsRnNPNExnRjVRZWVJOXN1RmNpUURaYlFtcVBhdnFyNUI5RzlnVG9mcE9feWZCbG5RQ1luU2Rhd1BLblRWOGpGeG05bDgyT3BxbEREQU5mb1plWHFxdE9ld2p3aTliSkQ5YlNvVWZycDFMa09HRDZ6MDctX2wtQUJ2M1FXXzAxcXNLaEZB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e23c850a090df27a56",
+      "date": "2026-11-18",
+      "title": "Tauron Ciepło ma pozwolenie na budowę gazowego bloku o mocy 4 MWt w Wolbromiu",
+      "title_pl": "Tauron Ciepło ma pozwolenie na budowę gazowego bloku o mocy 4 MWt w Wolbromiu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2xGVTktVGlKdTVjRXZwbGZyc1pQSTJtZldta1FZa3N5aDFEcnlzMnVKVDhPRDEySVJCSGF1UVlOeUI0M2VWT2ZlaUg4SG1USm9hTWl6Qjd0ZkVKYm5NbTIyUks0YjVUVF9wLWxyQzA0Vkl4WnVsLTNTeHVVRzVCeHN5c1NkVko4X1FzR3dQVzBHX0lRU2ZKRGNPaVJGeWpIRG1HMnhkSnV5UzZ2NG5nbHFna1ZKV3VTS2FwMg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-e108c9289c74f30abd",
@@ -142,6 +229,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d2c63967a806a0c741",
+      "date": "2026-11-18",
+      "title": "Orlen podpisał porozumienie o współpracy dot. gazu ziemnego ze słowackim SPP",
+      "title_pl": "Orlen podpisał porozumienie o współpracy dot. gazu ziemnego ze słowackim SPP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVFka2dQOXItbF9GVHdxNnNCdzJhUFJ2cE1YdWlqanNYa0ttWGFhV1dLQlNXbE5qMkpRaTctOU9KSEYwdFA2eGZTWVVOY2lXY0xTTjAzdk5nX1p2SjBUVkk0UWRRWkRYc0l1SEtNLVAwVXFnX0VzWEY5N1FjRVZUbzZxLWNDdDZyamhDR0VUbzJOckNSdl9LbGIxcFFVUTNvVlJUa0lGNjdZY0hWQU1XVE1IdktvTHQyQU53NXV3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -234,6 +350,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-b671a27f71d0c313ff",
+      "date": "2026-11-18",
+      "title": "Duże przejęcie w branży elektronergetycznej. Francuski SPIE kupuje polski Enprom",
+      "title_pl": "Duże przejęcie w branży elektronergetycznej. Francuski SPIE kupuje polski Enprom",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTY3a2Q3aEFxTVhlVHVSU3NLU0lHYUZ6cVJYN00tMnZFVzZjOUlpTm1XY0tZTFAxVWUyWU1KdkF2ZzVBcFpJNjUybThGdC15WFYyZmN1bkI3NVA5WXctQXYtVmtQRHdaMjRGVEtEMG0tRW9BNlc1Wkt5NzRXbDg1YXFVZEpiVlBfOVk4b1UxeXRqWDRiNW1NeTAxS0NVSmRVY2VFcmJqVVI?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-b5891f06a64dc1b3d0",
       "date": "2026-11-18",
       "title": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
@@ -263,6 +408,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-b3928694033f28e9c1",
+      "date": "2026-11-18",
+      "title": "Orlen energy to deliver LNG to Ukraine under new contract with Naftogaz",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmhycFZtcEI5SW9CTWhfNkF1Q2ctekRUVE5MVXFaSkI0Q3ctN1ZEYi1ocU5reGtlbzlHRGY0djZxOW9tU0pvWXhrWWxwRTk4T2hvM2NMZ0JfV2ExZ0NrLVczakRVbXhIMEpLWUlXZHVxaXpxR0U1NXZHSWItMlU5cXlnLUF6T2c5am1SRi1ZTXl2SEJwNUxaXzl5d2d0Tlpu?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-afffb7cf7a8f9dedad",
       "date": "2026-11-18",
       "title": "Trzy mocarstwa przy jednym stole. Polska gra o gaz i atom. PB BRIEF",
@@ -287,6 +461,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a80581371ac952375e",
+      "date": "2026-11-18",
+      "title": "Janusz Pietruszyński CIRE: Orlen ma nowy kontrakt z Naftogazem - SERWIS INFORMACYJNY CIRE 24",
+      "title_pl": "Janusz Pietruszyński CIRE: Orlen ma nowy kontrakt z Naftogazem - SERWIS INFORMACYJNY CIRE 24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEdJVFdJaElDUEQ4TmdUOHdveEtLQ0s3a2oyMnhYVnFrM3g5Z0dvUkpJLXBQYXQtX2YyS08wQWVlN0NFVy0zUGgtdHYxRTc3cEhkejBvQXNKRWw5elVuUHhjd0drQ3U1Q3dXQkJLU3RhOFE2MHVndE5tSkhyNWVxaVFkakFQT3pDTVNZSkhJY0xDY0Z5MHFYcWlwWG41aWxHUHYzYTh1VGU2Vzgyd2lPQzdsV0d2M05pUzREVC1wN2JpSEFTdGlQblBaYUVhY1hpdWlr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://geopolityka.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a725078a7ae6410951",
+      "date": "2026-11-18",
+      "title": "Od 1 stycznia 2027 roku jeden obszar bilansowania gazu ziemnego w Polsce – zakończony proces zmian regulacyjnych",
+      "title_pl": "Od 1 stycznia 2027 roku jeden obszar bilansowania gazu ziemnego w Polsce – zakończony proces zmian regulacyjnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORGZrc3F5UVRUelp5LUItMG5OOWs5MXR3eHdldzNqRWwzQlQxNXh4dTZMMnNUSTVoaElfUnRGOGgyOVF5aUdaT1RKelg0Xy1xU1JJQTg1Z2JqOE9TWjVoQTViQ3F6Z0VQLXR6WE1lempFdUhnODlfMmd2RmYyNjY2RWV4aktRa0dhWEZiSV9aZVY5djluOHo2NWlEWmdmQjJzOTg5YWc4bENBUTFGSWw5d09wamk0b3NCX3VCY0tUWmxrdG9wbTBzdko5OUNPSVdWNVBwUDIyaFhGT0ptc1IwQnZWaTRucnBzNnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -345,6 +577,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-989a42cd4cef77c0f3",
+      "date": "2026-11-18",
+      "title": "ENERGETYCZNA PSE-LSE POWIATU PRZEMYSKIEGO 1, NIP 5130316454. monitorfirm.pb.pl",
+      "title_pl": "ENERGETYCZNA PSE-LSE POWIATU PRZEMYSKIEGO 1, NIP 5130316454. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVUyMFRfdjE3ZXYza201cGRaMzNxZWY3SGMzTXpQakJRb3JQTmN0M1Z1S09VSUV2VXVLY2VIeUFTbnpmSWNudnpHZ0U2Y2ZReHE1Y21JS1dBV18tOUZQTzgxR3c1aWV2elg3eDFmRkJiQ3ZfZXhkSWRiYnhyMnlGbjRR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -495,6 +756,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-86ed4453537411eac0",
+      "date": "2026-11-18",
+      "title": "Tusk stawia na USA. „To przyszłość Europy, nie ma mądrej alternatywy”",
+      "title_pl": "Tusk stawia na USA. „To przyszłość Europy, nie ma mądrej alternatywy”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Lata, kiedy budowano zależność energetyczną od Rosji, są za nami - podkreślił w środę premier Donald Tusk. Zaznaczył, że energetyka jest integralną częścią systemu bezpieczeństwa, dlatego Europa powinna preferować relacje, w tym energetyczne, z lojalnymi partnerami.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Tusk-stawia-na-USA-To-przyszlosc-Europy-nie-ma-madrej-alternatywy-9230707.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-86e6d4bdaa6e45bb57",
       "date": "2026-11-18",
       "title": "MSZ Węgier: USA przedłużyły zwolnienie węgierskich spółek z sankcji na rosyjską energię",
@@ -611,6 +901,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6ca277b4c14118bf00",
+      "date": "2026-11-18",
+      "title": "Inflacja w Wlk. Brytanii osiągnęła roczne maksimum. Drastycznie wzrosną rachunki za energię",
+      "title_pl": "Inflacja w Wlk. Brytanii osiągnęła roczne maksimum. Drastycznie wzrosną rachunki za energię",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3ZUOWxfUDI2UDRVeXhaNTFhZ3dST1hTb201T3VFTHNuZUFmZzFFdVNTLUo1X2xwUzVFZzVaa1lvWW9EMnVjRWFycmN0RHNJU24tT242SDBjdkl5b3ZvRlR2WEppMU43NTl3ZGRGX05TakFscjdKVlotMnZkQVJwVlNvbEsxWXl0MUg3UkhoRW1zZ01Lajd3U0d5T3otcVVxVmMxaTJ5XzlnWXNnRVo2NUZQMThzQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6b3a62a130abdd0cf4",
       "date": "2026-11-18",
       "title": "Notowania metali bazowych, węgla i paliw",
@@ -669,6 +988,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-653b29ac2860e70509",
+      "date": "2026-11-18",
+      "title": "EU backs German and Polish cross-border renewable heating system",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk1rb2F0Nk9xSVFOV3FyMk5WVUpOY1hJSWtMX0JnbmhZR2lRVWlkRk1NZ0d4NGtHbWJFNUt0X01kUC1Na0pKMl84NzcxRWdXeEF1b2kzaUtNZjIwUV9JRG9IVmNZcC1SdkZUc2lHQ28zb19fdHRuSzZkbXVsQi1EZXA3MEVEZmFG?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-62e912fb69ae940a63",
       "date": "2026-11-18",
       "title": "Orlen dostarczy Ukrainie gaz ziemny na podstawie nowego kontraktu z Naftogazem",
@@ -697,6 +1045,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-57fe7112c2802c64c1",
+      "date": "2026-11-18",
+      "title": "Niemcy szykują tańszy prąd i paliwo. Miliony gospodarstw domowych odczują zmiany",
+      "title_pl": "Niemcy szykują tańszy prąd i paliwo. Miliony gospodarstw domowych odczują zmiany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Niemiecka koalicja rządowa CDU/CSU i SPD uzgodniła obniżkę podatku od energii elektrycznej od 2027 r. i wprowadzenie limitu cen paliw - poinformowała w środę agencja dpa.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Niemcy-szykuja-tanszy-prad-i-paliwo-Miliony-gospodarstw-domowych-odczuja-zmiany-9230732.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-4be570f260f2d8e8df",
@@ -752,6 +1129,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-40787c988bc7a647ea",
+      "date": "2026-11-18",
+      "title": "Poland's Orlen signs MoU on cooperation on gas deliveries with Slovak SPP, Hungary's MVM",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVNaUnJLUFJOTXRlVVl5UGFDcTFiVFhYWTdOMEs3R3pweFBEZDJ0UTlYd2FiVk1aTmZnaEhtclRVeWhYLTkydDdSUkRWMkdkSWxWUEZzV1MxeVBza2R0MVllckw0YWluTEluM1hFWHVMLTNvTHE0cV9HZENsUm1wdzU1ZnF3Yy1TZlF5T2Y3a3hIampXbjQzMHpPMXJjWjFha01Ea08yOEZNV1lWQ21iUmJsUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -844,6 +1250,93 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-33449c30e70b01aa95",
+      "date": "2026-11-18",
+      "title": "48-minutowa wojna. Nowy \"nabytek\" Trumpa czyni go najsilniejszym na świecie?",
+      "title_pl": "48-minutowa wojna. Nowy \"nabytek\" Trumpa czyni go najsilniejszym na świecie?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W trakcie wizyty w Manili i spotkania z filipińskim przywódcą Ferdinandem Marcosem Jr. prezydent USA określił Wenezuelę mianem \"nowego nabytku\". Donald Trump akcentował przy tym coraz większą skalę dostaw surowców energetycznych ze Stanów Zjednoczonych i zachwalał dwustronną współpracę przy inwestycjach naftowych oraz atomowych - podaje…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/48-minutowa-wojna-Nowy-nabytek-Trumpa-czyni-go-najsilniejszym-na-swiecie-9230672.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2745dae923473456b0",
+      "date": "2026-11-18",
+      "title": "Największy europejski dostawca gazu ofiarą cyberataku",
+      "title_pl": "Największy europejski dostawca gazu ofiarą cyberataku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3VwQW9kUUZscGhIZnZtWW4yWkY3VXhEWHNWWFpCOVRLbzZyRzZuNngtVTBtOURyWHVRN0ZqbE5XaHYtWVZWQlpBSTAwczlkMWRjOFBnTXRLakxaSm1XU1k0dC1IOW1SOTFPX3Ayd0o3b2ZCZGFKQWZxWTQtYlN1TEFvMWdtMTd2RzRBYXNVRWRCQmhJZWxjamdnb29mZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-26ab4bf6d920b58dbe",
+      "date": "2026-11-18",
+      "title": "Orlen podpisał porozumienie o współpracy w obszarze gazu z węgierską spółką MVM",
+      "title_pl": "Orlen podpisał porozumienie o współpracy w obszarze gazu z węgierską spółką MVM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEwtYUEzaWIwYWhhUzlSMkZYTGVQMC11TjEzY0ZJV1l5S29JTXJkLXNEc19Qc01ieUpTZUZ0RVJsUHZCS3Y5ZDJFQkpOVUlUcjBFSkpZbS1uZXd1a0dYMzZvd3JuNWRRbFBXRmhtQ2FoaU1ONXBIdjl2RWk2VnFmNjRuTnN0T0dxZmo5cWltbk1zSG95YUxKd25BUnE2WWliNXQ4TmxpMTBxeHhUSm5wd2hmNHlYLUtDV3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-228e21182d7bcf1f70",
       "date": "2026-11-18",
       "title": "Rząd mrozi ceny gazu. Zapłaci Podmiot, Którego Nazwy Nie Wolno Wymówić",
@@ -875,6 +1368,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-2020915c598bf84582",
+      "date": "2026-11-18",
+      "title": "Premier: lata, kiedy budowano zależność energetyczną od Rosji, są za nami",
+      "title_pl": "Premier: lata, kiedy budowano zależność energetyczną od Rosji, są za nami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3pnWEZIY1RUR3JhcXM2OTI1aFBUN0o2UHp4a3p4WVA0VElUVGh2RHljcEtaQmgxaTdvS01OMWlnM2FZeDNBS0U4TVRhemFDbWxFcGdvZWdhZUtLU1R4cjRQMXZnUkVKQmNyTU9JR3VyVkZQaml4Ny1KLV9YVkFZZFVLZW13ZTdGNWV6YW44MURzRkpKQTRxVjRhbmlZNDM2MkVxWjJaNXJPUldu?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1abeff7305753a07ae",
@@ -1033,7 +1555,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN09NTUVvRU5WT0ViWE1qV1pPLUpNVmpOVlh6VzdjanoxUlV5S0hBWWpoU29HN0x5bTh6ZWxfWGVYSDU4bDdPMTlWX0M1YlpwaXNSUHlNUnBHZ0MwYlpmZjZEdWdMUDdrRnZDTDN1bkt3U1kwUnZNMDh5cFIyd3pUZVgzbC1wbG1GUFdGY3kxSTA1ZmZUSWJNUnJFdWZ5eTZjVWZBMHR0b3Mwd0xyQXJrWWpDczVmNmdTNEhvSVM0Rm9lVllrSDQxeURGUEtveGM4YW5rVGhOcXdzVEVQRlNJWG40SHpval9oZVdIMHZZMm9pd3VUMDZWVGNBNDQzbk1EcjZfeHBTTzhZOHJVTTN3cm4xcFpKNjZYcElSa2x1TjZBOHJnbjQzYWpVQVRVWXpVVy14X1BnN2JMZGZYZzlQWUFpU1JkRHUxdTBYdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHNTZGlXXzNHOU5Ca0hMSUlSbnozNHpFWUxISlB3RUdZWWFXR0ZpZUkzVzJINFBGTl9tU2RTRXNrUElISkxQaTZVbzdJVDY2OUVwSjRZdGczZTlLMkdsMDRhZG1qTlhiWU5NOXg0cjZwUlJqM3FZRUwtOG5oRkVrdWZqMTBjYWNETHZzUkpKVUV1dS1GOUMxYnc4N05jSzhjTGFuYnhqbTNldWY4cWlaNm43N21vREFHekJ6U1RvSXdWUTdSOTMyc01XeDI0S2Q1dmdPam1aeUtxQ2Iy?oc=5",
           "type": "official"
         }
       ],
@@ -5594,7 +6116,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2QxcFVkejV3WndjSWlZOGZ1OW5DY3RnLXdkNHVDSWdKb2c0N2NZSy1heWNJWUdjUU5iSnpjZ1RnUHdGVW1TS3RhblV2V053VEdhV1BVY1VhaXVweHNLR21TSlhNM1BMUmRFTm11bS1abGl6WEJpMzA4M1NpWXNFNmMyRWJzdWhFVDlmd0N3NzhLcktrMWJGY1h1NlhUdFdmZUtJ?oc=5",
           "type": "press"
         }
@@ -5602,7 +6124,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
