@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-19T02:55:06+00:00",
+  "updated": "2026-11-19T03:58:46+00:00",
   "signals": [
+    {
+      "id": "src-e5e326d2bce4a37a0b",
+      "date": "2026-11-19",
+      "title": "Polska – Lampy i oprawy oświetleniowe – Modernizacja oświetlenia na inteligentne i energooszczędne na terenie Gminy Gołdap - etap I - teren wiejski Gminy Gołdap",
+      "title_pl": "Polska – Lampy i oprawy oświetleniowe – Modernizacja oświetlenia na inteligentne i energooszczędne na terenie Gminy Gołdap - etap I - teren wiejski Gminy Gołdap",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Gołdap",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45da-ec09-4f4e-34bd-c9000143c48f",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a43ea0d44df759d2e9",
+      "date": "2026-11-19",
+      "title": "Polska – Różne produkty spożywcze – Sukcesywne dostarczanie artykułów spożywczych dla zrównoważenia wysiłku energetycznego dla Honorowych Dawców Krwi.",
+      "title_pl": "Polska – Różne produkty spożywcze – Sukcesywne dostarczanie artykułów spożywczych dla zrównoważenia wysiłku energetycznego dla Honorowych Dawców Krwi.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Łodzi",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45da-ef4e-9c92-34bd-c9000143c4b7",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-89e7593e5dabad9f85",
       "date": "2026-11-19",
@@ -19,6 +77,35 @@
       ],
       "cos": [
         "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-04bbb233f23de596e0",
+      "date": "2026-11-19",
+      "title": "Polska – Baterie – Dostawa komponentów systemu magazynowania energii elektrycznej na potrzeby realizacji projektu budowy magazynu energii elektrycznej MEE EEP na terenie Enea Elektrownia Połaniec Sp. z o.o.",
+      "title_pl": "Polska – Baterie – Dostawa komponentów systemu magazynowania energii elektrycznej na potrzeby realizacji projektu budowy magazynu energii elektrycznej MEE EEP na terenie Enea Elektrownia Połaniec Sp. z o.o.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Enea Elektrownia Połaniec sp. z o.o.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45da-ebd3-886e-34bd-c9000143c48b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
       ],
       "publisher": "e-Zamówienia / BZP",
       "publisherUrl": "https://ezamowienia.gov.pl",
@@ -4108,7 +4195,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjZNTXI4bVhPSjVtd0gtWjMzNjd2VlVneGxHSVpxZ0lSUzFxZGpRODRSZ1hpUG9oNndSekxCV0dtSTRDTS1UbzNibWdiODVMT0cxNnd0N184ZWkyN2VkYzFxRWJGdTlCdzZBal9Rci0tUHVtX19CbUJNLXEzY1JwSGRCZU55UUtIUFJQYzZmWFVwTVFtRHdESUc4OUZwaVRwam1vSE9Yd3k2Mm9i?oc=5",
           "type": "press"
         }
@@ -4116,7 +4203,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
