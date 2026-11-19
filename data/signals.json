@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:00:52+00:00",
+  "updated": "2026-11-19T17:08:19+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -461,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d4e5e433df00c0ab0a",
+      "date": "2026-11-19",
+      "title": "ME: O niezależności energetycznej i bezpieczeństwie energetycznym regionu podczas drugiego dnia 7. Szczytu P-TEC (komunikat)",
+      "title_pl": "ME: O niezależności energetycznej i bezpieczeństwie energetycznym regionu podczas drugiego dnia 7. Szczytu P-TEC (komunikat)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdXFTdmZtbUM3UmpweDBBRzJtaXJKaWVacFMwYzhTLW9mNFAySGtEaC02WlhacmdTek9Kb3VoY0lTV1IwNFh0QjlHZy1XdVAzRy1yMHN4Y0Y3emdwaG5VV212S0pRNUxFeC1rdnF3Qy1pYU01US03TG5QRXNtTW5uN2VBcmJzT2RtcHdxX1BCcnFCc2Z1RC1CdEQzRlNnajNQX1psMWZ0Ry1INjZoU2hYTTR4TkE3UTNiazBiTFFuN3hUNnkyWXRNOWdXLUc5T1B2M21Dd09lanhhSTNpQVd6dTY4TmJZemhpaTNkcTRubw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1366,6 +1395,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-96f126d7b522141371",
+      "date": "2026-11-19",
+      "title": "PEJ podpisały z konsorcjum Westinghouse-Bechtel list intencyjny w sprawie zamówień kluczowych elementów dla elektrowni jądrowej Lubiatowo-Kopalino",
+      "title_pl": "PEJ podpisały z konsorcjum Westinghouse-Bechtel list intencyjny w sprawie zamówień kluczowych elementów dla elektrowni jądrowej Lubiatowo-Kopalino",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQVWgtbl92YmhZeDEzUkNWN1BkX1pVTF9HLVJKNURaa0pRbHdSa0tramNkeWRxRHBfaGh2MHItbWRGWUFMMHJ5SzF6NFhETXRuSHZmOXZBRnlsSk5rM1BleUpLeWYxU05vNXRpZzJTUVBwSnU5NDQyTDkwNWVhbEFGR01GTmJPdmJsUVZMeEtXd0NSWVBNMWxmX0Rnc2NacEhmem5pT1FjU3Zwa3RFV0VwMEZxZlp1TnN4dnJVUjJkdUhrbDN2ZTR4YVVEVjk2T1QtY1pzWlI1NTZjMjZYcHpzMzFNTV95TFhFWHdleXROLVdjOGRsajNhbEY3NjMwRlpQUjBwXzdPMG1fRkVNYlJVdVJZczFCSmREekVCRVFQMWJMNTR0WE1RTWlPdmlwLTd0LTJmTmY5Z3F5NGdCNEFV?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-94a717f0d372f3508d",
       "date": "2026-11-19",
       "title": "Chiny: Xi, Trump i Putin przyjęli deklarację na rzecz pokoju: nie należy toczyć wojny jądrowej",
@@ -1685,6 +1743,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8467b0d96bfaecf194",
+      "date": "2026-11-19",
+      "title": "Bulgaria's NEK signs MoU for potential BWRX-300 projects",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "State-owned electricity company Natsionalna Elektricheska Kompania has signed a memorandum of understanding with Poland's SGE and Blue Bird Energy to cooperate on the deployment of BWRX-300 small modular reactors in Bulgaria.",
+      "links": [
+        {
+          "label": "World Nuclear News — source",
+          "url": "https://www.world-nuclear-news.org/articles/bulgarias-nek-signs-mou-for-potential-bwrx-300-projects",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "World Nuclear News",
+      "publisherUrl": "https://www.world-nuclear-news.org",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "32"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-82c750a4e919184263",
       "date": "2026-11-19",
       "title": "Transformacja, obrona i lekcje z Ukrainy. Już za tydzień Kongres Odporności Energetycznej",
@@ -1783,7 +1870,7 @@
       "links": [
         {
           "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQQmUyZWthTjloVldCb0gyZndkM2xHLXNSaHBXVVRoZWF5Z0l2aWVyazhaU2NxTXFYOEtFRjFob2R6cVV3VzNTMWNxNE5jMTJuQnZRcHp2RjIxMFNhc3RrWEJEYjFVVmtCdlljRlRQT0VFT0RhNy1xcGR5RmFiUkE4Vjl6NVFqOV9tbXE4M3ZFU3VUbTdlbUl5Y0dIT2RpRUZDN2VUcDM5cjJsOHppTF9aQWlYRHFoUG0tVGN3UlpjVkljUzNGN3dTTnZiSDhOd2RTQlBIMldKSmRhcGtieU1uemppeF9LaFY1YVpCdlA5MHZqMkN2WXNqR3RvOFYyS2tFRW9LODNhR2pucnR2UEMwMEJjMDJmVUdCLVhHYldQaDd4MnNwQTR1MjJaYzFqRDRsVTU0cnRMWll6NGFGNURVSEJZekNGbDZ3LWRHNmZObWNoT3N0SnNJdmVQUHRVR2JKQXpNenRnbFY2TF9WeV8tYVdmZnBUcGtRRVRrV0Nnd3Q4bmozYjlIakNLNjlNOGNfQUltbWlDWWVKenVOOTJMX1dfZmpQMlV4RkJQVndCM1NYLW4zdG9CbDVjN0E3Nzk2czBYZEJEc3ZMQUotY1otQWVQZGtTLTF0VEU1Z3ByT1JWTWNFb0xSWXg4dWhQMDFSbWQtZ3I3VTBWbnJnMFlCakRmNVBVSEZlTlduVms0T3MtMXZwcWJFQzFUY2I3LUQwN2J5MVRyNWRtanJwRXdZcUhDOWlieVpOUlQ4Z0ZTZUk4cXpXc0s0SnlUQ240VEdLZWdCODI0SV84aGRZUF8tV3FmSHBLcnRpREJR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNRU9BUHlPOERScmxWSEx1Z1o3VDVvR1Y0NXdtbFlZOG93SEtyTXFGaFp1Zi04eG9pVFlnbWJCd09zZDJvRVZvMWJ2NUUyWG02RG1YOWN6MW53UnBCb0ZQanZycWp4N2NtN1BXbzYyMlZEc1UwckRYaG56YWg1d3kwUDNUSUhBcEFvYkVPdUFBSG80Vk4ybm9Rb3Bwc1RvTzB0UndEVWFIcXB5Q1lSSV9nTkFoZS1IQWMzbnNvWVBpYmI2a285S1djOHdhV1NSUW1WbUVxNm1EcXpmQVZJVTBFS2tzY1l0X0EtQTNQSDlQZF91VFlFOVloUE5ITU42UEFlZUFKVzhsYTBOOVVPSmlacG9oQ2g3Z0RvampiVXQ5WEtDaFMyT1N1WVRzVXVQVHdMMUZhY1l6MGdST25TUzlDNzQzYTlFN3IzLUJ0OHpkRURFZ2ZieWx3N2dUbV9WX2kwN3E0TXlwNTNRMEZESy1DTmxHZW5yZ2JfQW0zamVhdmxCV042aU9pOVRkNTdzX2V5TS13Y0hsVmdnYjJ4bWwzeUpOcDBtdmk3Smo5OEk3WHJTMTRjQWMybHpnakI3TFhHZmhQTXZ6eDZ0TkhQTGlsdTM2OXlMUGY2dmw1dXlPS3hTQmZlN1NoMlE1YWNQSTBmZEtOVG01a2ZKZHhhX2gxNWRsVG13Zk9qUEZOYVBLYTE1T3k0WldxbFAyUFlDVGpUbHVnQzkxT2tETUxKSWNxdFBhNUMzQkJGUXdVQUI1SUkwdThlWmJLdEFLU0VUaWIyNVVnUUNrSm93dzV5MUVFS3RldnVGb21haGVv?oc=5",
           "type": "official"
         }
       ],
@@ -11137,11 +11224,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "The measure would be funded by a new special levy on certain energy companies.",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Notes From Poland — source",
-          "url": "https://notesfrompoland.com/2026/11/17/polish-government-seeks-to-introduce-maximum-gas-prices-for-consumers/",
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXhueWpDLXNoWlAtaXdrNGdyQzJoajFNQV9CWmpLbFdFb19QaW9uTDlaNEEyU1Z4VWpCSDVEUUg4OFMwU2doUzYwNV8tQTVuSmx3NFExcXVtcWhqbl8tdXBmYkNvQkhlQ2w4Yk5tWkpLdUp1TVZGZmI4U3h5S0tudXBXYkRNRGlyUVRNRXhXTndWNWpaZ19QYWx6UkY1ZjR2WF9ueDNJWTI0TnloZkE?oc=5",
           "type": "press"
         }
       ],
@@ -11155,8 +11242,8 @@
       "sourceIds": [
         "30"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-31d8bd423820baa34a",
@@ -11473,6 +11560,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-226dbcbddc095709b9",
+      "date": "2026-11-17",
+      "title": "Poland to cap gas prices for households at current level in 2027",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "polskieradio.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXV4ZUxKNjVUR01zOWIwLTFaRWl0dHhaNXoxcExlSjJxaUo0VUFFMUh2bmF6eUltWGZmLUlueDQ3cDdrS2twb3B5dVJXTGppeWhwdGV4UHEtcGJjQlVjZU1vck9SQ1RVdW5rOGs5ME5FaFNJcnZmdkZBa2hXaVctc093R0ZGdTQycXZmT3lkSnpOWGV4clJsaXdKa1JsWEVJOEJVRVJmYmotd3F2eHppbnFEMFIzdkln?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "polskieradio.pl",
+      "publisherUrl": "https://www.polskieradio.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "29"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
