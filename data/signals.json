@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:52:44+00:00",
+  "updated": "2026-11-19T02:55:06+00:00",
   "signals": [
     {
       "id": "src-89e7593e5dabad9f85",
@@ -635,6 +635,35 @@
       "reviewed": false,
       "sourceIds": [
         "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-dab254bac0d8e444f0",
+      "date": "2026-11-18",
+      "title": "Szykuje się duży Dell z Tauronem!",
+      "title_pl": "Szykuje się duży Dell z Tauronem!",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGxIU1NyM1Z3SGpSR01QZ1hkRC1kUjY3U1BaR01nZTM1UHRiU25RUEc3MmM2VGs3ZzY3R2o0ZHd4UXJaVE9FeWN4Tm56akstVzB6ZG50d3dVSVhoOXNrWWxXWjBZa0dmUW5MYzROa1pwem5YZWU3M0tuNHNZbnU2cUYwa0o4cjFS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
