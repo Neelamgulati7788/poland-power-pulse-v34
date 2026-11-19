@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-19T00:28:09+00:00",
+  "updated": "2026-11-19T01:52:44+00:00",
   "signals": [
+    {
+      "id": "src-89e7593e5dabad9f85",
+      "date": "2026-11-19",
+      "title": "Polska – Aparaty do oceny wytrzymałości – Dostawa maszyny wytrzymałościowej o napędzie elektrycznym, dwukierunkowej o maksymalnej sile nie mniejszej niż 300 kN - KC-DE-zp.25.398.2026",
+      "title_pl": "Polska – Aparaty do oceny wytrzymałości – Dostawa maszyny wytrzymałościowej o napędzie elektrycznym, dwukierunkowej o maksymalnej sile nie mniejszej niż 300 kN - KC-DE-zp.25.398.2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df45da-e4b6-fbf7-34bd-c9000143c43b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-feaae16c6d7174981f",
       "date": "2026-11-18",
@@ -664,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d80be34526ed013211",
+      "date": "2026-11-18",
+      "title": "Zorientowali się, co właśnie zrobiła Polska. Piszą o 10-procentowej opłacie gazowej",
+      "title_pl": "Zorientowali się, co właśnie zrobiła Polska. Piszą o 10-procentowej opłacie gazowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTAwSHNWZ2wtWWlseDZ6UXJMNTRocm1sTmZxb2ZQdUxsWnIzUk93QUgxWjFFN3dtaVlYVlBxbjlhUkRzN2VoV3JCQmFGSnNCam1pNFhSbXZ4djlqN1ZLMmRKTGttdWxSWmVzVEtmQWo5eG9FYlQ4TC1BY19ic2NydW80eUEzZFgwbml4dXQ4elJXaHNFYW9rcHdRNUM1MWtjRHNjRVhHb3Rxd19aQzE0Wk1wUU9ES3JINDByZmwwMXM5eWs?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1511,6 +1569,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a8e8314a1508970bd4",
+      "date": "2026-11-18",
+      "title": "TAURON PE SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRjemJGcDUyS1RQM3JKQU1ZZzlxUmlRZzY0RWJ2SVhXMHJ3TlpIRVRfT21pZ0pnUlduQmZ3NU1XRExxa083QUtPV2tQWVJ0a2dDR0ZwOG1UUGo2bk1oemxvNEJvSEgyV1hHWHp5cW9Gb3lyMUFYbXlMNmNqSVBkNEVPcTVmMXpwN2ltbTNzazlkLTJzbDR3VlNYUlA5ZTJjeXNpaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a8809b3a17a6ad13a7",
       "date": "2026-11-18",
       "title": "Dostawca Orlenu wyśle dwa razy więcej LNG do Chin",
@@ -2275,7 +2362,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnh6RGhwOFBQQ1ROemNvZDZPcDMxMUdLR1F5a2E0S01mSmw5RzFBaEJrVzZZNW9QNjhvcHRJbFJSMm9NMFlUbmVMaUcwY0h1YzZEUG9UNGtFMW5RZkdsaG5kRGNTZXRQMHNXazBKZXFDcVNDZGpEbDNZU3ZVZHc1RnZOeThfSEN1Qkc5ZVU0U3RzM0c5TGlaV0JMcW1pTFZJQzBYRkdTLWc3SUxiOWZOR0VITDRTZw?oc=5",
           "type": "press"
         }
@@ -2283,7 +2370,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -2434,6 +2521,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8619f4397cf56ee3fc",
+      "date": "2026-11-18",
+      "title": "ENEA SA Raport okresowy kwartalny skonsolidowany 3/2026 QSr",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXV5a0Q5cEJSZk9yWWstSWFYZXAtQ25ITUZYVEE3TWxjUDduTzVTVU5WWk5FdUJRYVJXeFozYXlyWUptaDJoejJHYnJlcGhodHhjNXZmZ3UxVWxJZlJzSDFfMzVQdmg4ODFxSWFKNVY5RHpwR0lXQVNwU0hLWUxxU1VsWHM2VWtFU1Nxc3BjX2NZQWY3bEFCU2E2dzhuUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4950,7 +5066,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjR0QktyNGZlVzBLbmtJekVkQ2hMbmNYMm16cmw3a3gzVVNueTItWVQyOVFoZEFDMnBvWmhKXzI1OUF6MzZhVmNiUjZZS3NBUmhONURha2FZSldVMm5tTDRBM25nODAwNkpocHZGTmlvNk1CY1hqaWdsLXBfN2lhQkhEb1JkYVd1cmUycERGQVZQdVpWV2F2OExKNnZaZmxvLVNxTjUxY3ZsWEZFNjlldEpLRGlTUkVHY0M2Zy1OQ3VPblJCNlU3WU1zOWVQLU0tSGZjcVY1ZkJoVWJCWlNFTzVYdjgweU1YOW9UMlJoMW0yNU1HS0laOFJseTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemsxak84THdacnJ5cVlWUW0wS3dnX1VnbXVYUXpVajViUWd2Z0xwYWlvWnJ0SGhxb0JadXNsV1JDa1Z4VkkyVEZ4VUtPX19yZFNITE1KY1ZMdmt2Ri1GcnNqNXRVckZhbFVCZENxME9tOWZXQkVQaVkzaFQ4eGdhZVFHUzBROWJnSG85ZmN1YThxcE5IMVdkSlQxTVBIbW9wMnpGRExiYW05LVViNGpTelVRRVpEaFRaMVJPeldZbGFxZjRRSy1CNC1fRDMwZThzaHF3V0pZUW00QmoxUm9iN0o2dDV2X2FUVUw4?oc=5",
           "type": "press"
         }
       ],
