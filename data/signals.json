@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:58:46+00:00",
+  "updated": "2026-11-19T05:07:42+00:00",
   "signals": [
     {
       "id": "src-e5e326d2bce4a37a0b",
@@ -87,6 +87,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-446f26e15ab8b9f8fc",
+      "date": "2026-11-19",
+      "title": "Platforma zakupowa Grupy ORLEN",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abkZnZ3k5Zmh4VVBWWXZfakw0Qk4zc2ZMb3Q1ZUFTTl9MNWk2ZXY4ejhhUFlaT0VsckFIR3pDakZHX2Y4a0RQc3lBVDJ4R1lsVGI5N3FyYzRtdmQydVNHRTdKZHI4THo1LUE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://connect.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-04bbb233f23de596e0",
@@ -418,7 +447,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWV4d2pXSWhpRzNlYkhxMTVnd3JDNTExUFUzR0JQZFpLMWpjNjhwa0NEQVZKQUl4NmNzVmM0eUp1ZEVyZ3ZyMkZvcjR1eTd5eDVfbmNrV09zWHZvaTg4dy1VYVRzVnNwVUNrWU94N1NmR1MtWWR2X1BpTVU0ZmJ0TnBWWExCV01CVGtoQ2VZMWw5b0YySEd6X0JRbnRhM1NON2o2dw?oc=5",
           "type": "press"
         }
@@ -426,7 +455,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -1375,7 +1404,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUVQdjY3Z1NHaDJqZHdKaGVkNWgyRVlVcDhQNGY3em1zSmdaRTdSR2NZU2lIUVM2VzFsNDBrTFhSXzdqR18zQUZQTnpwa3BLUEJaUUg4NFJDdDNSdHNpMUdtaEFlM1J5VUNzRDdLelRFdll6T25hR3JOVS1aekpVSFlBVTQzX2FsY3JOUGtxVjlGY21ndTdmNEVNQnctV0dxdjFSdWd3bnpmbEUwWjQ2bEpjZVVCeFhxbTE5YklyTzZ6QmhOLVhJQk5qV1pkbFE2RFROeFJnYW9MUQ?oc=5",
           "type": "press"
         }
@@ -1383,7 +1412,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -2260,6 +2289,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-92f0079dfa382da081",
+      "date": "2026-11-18",
+      "title": "Poznaliśmy laureatki Nagrody Energia Kobiet 2026",
+      "title_pl": "Poznaliśmy laureatki Nagrody Energia Kobiet 2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFhtYjdueGExYnAyYXdBZXAwaTRob210WjBBWnB6MVNtQldHSTZ3V2J3UDBPQVpYNnFTbm1UZTJ5azk4Mno2SGRUNm1MajNjaExmTGJUZmVacTl0VUVIWHRzckszU1RldkVCU0NOM19PdzlXS21FWXVTNHQwYkN3cmZXQXhCeFhRQnFDRGYyaTctQ3I4bmdZWTRGQTF5OFhFdzNSd1pBNDhlTWluNlJiSkhBRW50b3cyZFNISTIwVEhKQWdheVJIcUlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://fakty-i-mity-o-transformacji.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3437,7 +3495,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHpwaHczLThjOGc5RkhNNlpzM3hUOHdBR29EY0RLem5DWDF4UjAzSEswLUFkQXJOMm1wWjNhaGxlY044OFNvYmp0bHhSS1UzRjB3RVpoNU1BVVJya1NEWW1pc095NjE3ekRFZFVsXzRwZVhVVVktVUdrZUEzTWF5WmZPR3FrYk9xLUdnRXUyeWVvSWg5NFAzbnVwSkpjRGJ2MXNpZ1hjalQxekVka0FwNHBWU0FIZjVaMnN6SUxaNDZWdTl1STNrbXlONzFkaUtf?oc=5",
           "type": "press"
         }
@@ -3445,7 +3503,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
