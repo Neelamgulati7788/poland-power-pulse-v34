@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:55:03+00:00",
+  "updated": "2026-11-19T14:57:32+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -26,6 +26,35 @@
       "reviewed": false,
       "sourceIds": [
         "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fd76df6a9054fac4ad",
+      "date": "2026-11-19",
+      "title": "Projekt ustawy o mrożeniu cen gazu trafił do Komisji. Co mówi opozycja?",
+      "title_pl": "Projekt ustawy o mrożeniu cen gazu trafił do Komisji. Co mówi opozycja?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakdOMzRranI5SGpSZnVlYmlHbVBRVVpDUlFwNFRIOGtMRjdfUEhuVE9fNUMwQm1sWWN4WS1Bd2h5cVRXSUFkcU12M1RxM2dSdGVKU2FnemtwOHZYdU1nRG1ld2VzY0hYQkNvMFRFZFNMY0hNMUNMLVBtaGJod1RpZ2xyYnRDV0wxakwybVFvNU1SaGlqc3NZZlhQY2pWdV9DWm1KZ1l2Q3M4QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -495,6 +524,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c773adc7addcc9893e",
+      "date": "2026-11-19",
+      "title": "Dostawa energii elektrycznej dla Gminy Myślibórz w 2027 roku",
+      "title_pl": "Dostawa energii elektrycznej dla Gminy Myślibórz w 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Myślibórz",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df464c-ae23-fba1-34bd-c9000143d405",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-c766cc55a159dd61cf",
       "date": "2026-11-19",
       "title": "Minister Energii: w piątek litr benzyny 95 ma kosztować nie więcej niż 5,93 zł, benzyny 98 – 6,58 zł, a diesla - 7,45 zł. (PAP)",
@@ -553,6 +611,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c584fd2ce0f8b1f9ec",
+      "date": "2026-11-19",
+      "title": "PEJ signed a letter of intent with the Westinghouse-Bechtel Consortium regarding contracts for the key components of the Lubiatowo-Kopalino nuclear power plant – Polskie Elektrownie Jądrowe",
+      "title_pl": "PEJ signed a letter of intent with the Westinghouse-Bechtel Consortium regarding contracts for the key components of the Lubiatowo-Kopalino nuclear power plant – Polskie Elektrownie Jądrowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOWU3Y010eWdtVDdHRVlnVzdGYm92WHRTdURmU3hoV3RpV2xnQ1FISm96OWEzNXZzbGZsdmlpcWthcE1VT3ctbjlZeDFXSkpMbEZfTVNaZDYyWWxMSzFoUmNxOHFBZ3Zac0FUYjU2VXgzbGlTZ1lvVDJzdG5JUGppdmVuUUZPSHZKdXNvanVEOVQtc2xKYmUzdnltSGFLYWVfU0ZlaC1zaVpBXzBKYTQxZzdZcmtzVFM3bENidjZRd2FENlo5dmgwdXlYdnJ6SVpTTkFtdUk2MXFZYWlSODBCY3VEak9BRWozMXI5dWVtRDlDY1dTcktFb1Z6dDZpc0M2dktlWmZYU3RXNkFuOW85QXU1N0U4cHNhMFlmZDlOZjFKdw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-bf1bb0baf3408a2cb9",
       "date": "2026-11-19",
       "title": "PSE zakończyły budowę stacji elektroenergetycznej 400/220/110 kV za blisko 265 mln zł",
@@ -606,6 +693,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bd9e6887ce2d04270e",
+      "date": "2026-11-19",
+      "title": "LNG i dostawy gazu na Węgry. ORLEN podpisał porozumienie z MVM ONEnergy",
+      "title_pl": "LNG i dostawy gazu na Węgry. ORLEN podpisał porozumienie z MVM ONEnergy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYnJROEdnb1NPUU1CYTNubWhsMnZSTWNCX3E3MU5MVEoxRmFEeXM4OFd2SEtSbUI3YnJwZmhhTDJsMUdWMDAtSHQ2OHNRR3ljWXd4bnh5a3Q1OS1PdDM1N0pkXzhhdE5FRERQclhQeTMtbFJGVGtNanphdE0yOXJsVi1jVVRSdUdXYjJWYnNQNUxnZ0hoT1pRbWJIQXc4ajdtLVl6MXk0LUR2NFpHdHpOaGdpU2NrdWFOaHlXWmYySTRXMlNnNDVnbS04TEgySjNPSHJZeFJUV3A3WUhMX2phdnEwYUNhbER5dnNR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -814,6 +930,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-aadc65065feb9878e8",
+      "date": "2026-11-19",
+      "title": "USA wycina rosyjskie surowce z Europy. Polska z kluczową rolą w nowej układance",
+      "title_pl": "USA wycina rosyjskie surowce z Europy. Polska z kluczową rolą w nowej układance",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Kraje europejskie, począwszy od Polski, dość dobitnie wyraziły swój sprzeciw wobec ponownego nawiązania współpracy z Rosją w dziedzinie energii, nie widać żadnego zainteresowania powrotem do tej współpracy - podkreślił w czwartek sekretarz energii USA Chris Wright.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/USA-wycina-rosyjskie-surowce-z-Europy-Polska-z-kluczowa-rolka-w-nowej-ukladance-9231760.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-aadab313ed32a5865e",
       "date": "2026-11-19",
       "title": "Tauron przewiduje przyspieszenie nakładów inwestycyjnych w IV kw.",
@@ -873,6 +1018,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-a4d8512277b3d270e8",
+      "date": "2026-11-19",
+      "title": "Poland deepens regional gas cooperation Hungary, Czech Republic, Slovakia and Lithuania",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNei1feHFWbVJkVERTaXNwRF9OaHlqZnlGalJEYkpzdFVTaFRmNkNrMk96X2JGRkFNd0Q0VzhmUHF6MUkzRG45c3NYZXotdGh2R0xOSUlTZE9vd1BUOVJrR3llT2tjRE1NZGp0WG9MWVMzQ3FfNC1MN2V3UFh2SU5oMlZYendMMHV0ellBTi1NanZuRkU2U3kxSGVhX3BLRFphOVlwX1ZKYmd3SUFHbHE5TTVneF9nUThTQ2J6MVRpMHVaUlE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a49943fff86a0d7119",
       "date": "2026-11-19",
       "title": "Budowa elektrowni jądrowej ma przyspieszyć. Sejm uchwalił zmiany w przepisach",
@@ -880,11 +1054,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Sejm w czwartek uchwalił nowelizację specustawy jądrowej. Jej celem jest usprawnienie przygotowania i realizacji inwestycji związanych z energetyką jądrową - uproszczenie procedur administracyjnych, zmiany dotyczące decyzji lokalizacyjnych oraz ułatwień dla inwestora.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzdsNmFsaW15Z29PU0VpYzJQN2FLMFNiMjZnTFk3dktnT05PNVplckxaOHdsVEhuUW01bE1tbXJXUXI0dkRzMlBoWUg0R3VTNjNhMGdnVkRtak9rTEZmV0t1d3hvU3lYd3hpZGhUaldGMGFocDFfZzd0NUdfRGpHMndsT1hFR0t6VzlDQXJVem9NaTlDX1lPQWk0YkUwS05yS1NQaFFNOWQ5UWZkRlJMdENzYkkxNVd6bFNSeFNxaw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Budowa-elektrowni-jadrowej-ma-przyspieszyc-Sejm-uchwalil-zmiany-w-przepisach-9231626.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -898,8 +1072,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-a43ea0d44df759d2e9",
@@ -1105,6 +1279,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-99aa8eb3a0c66c1153",
+      "date": "2026-11-19",
+      "title": "APS Energia liczy na znaczące przyspieszenie wzrostu przychodów od 2027 r.",
+      "title_pl": "APS Energia liczy na znaczące przyspieszenie wzrostu przychodów od 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGtqX0NCQ0otWFVTZUVuRy1qYzZCRDhQUVd3czc1V25aaTMtTjQ4RGt2TkJmN280Z3kzTVpkeV8zX2JFYkRoRTN0RWNIQUhORHE0ZTFBWnRnNlQ5Wkc0SzlKOGNfblA4VXNxY0RxcDVOdkNtRWY4SDlKbFh1dENyNERaVi04ZkNzalYzSUxuaU5xSE9zNVRVUkNGenFIcDJoNGpaOHRSdkhPZEtYUTJoME9HMjRKRk5L?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-94a717f0d372f3508d",
       "date": "2026-11-19",
       "title": "Chiny: Xi, Trump i Putin przyjęli deklarację na rzecz pokoju: nie należy toczyć wojny jądrowej",
@@ -1192,6 +1395,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-90881fe2c37ae0eab1",
+      "date": "2026-11-19",
+      "title": "Miliony z podatków przez 60 lat. Te trzy miasta mogą zyskać na budowie reaktorów jądrowych",
+      "title_pl": "Miliony z podatków przez 60 lat. Te trzy miasta mogą zyskać na budowie reaktorów jądrowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1FzclNxdDJicTJtTlhwRHZRRGxpOVhucEZEaEJ4TGJlWlowdXNUcDIzd21LSERsaExHTy1ob3B5X285ellvbDdNMUVpVnpnZUZOMDkyZU93SHhxN01qX3JocHdFN3JtdzlaNDhZX05GaERZS0l1Y2w5V1A1c1dXYzVManNHZHdWQXFsenNyUnBSRFVhTzNPU0tmSkstOWFCd2w3cFFWaXl3dWtHekVVVGRfdmlWdkQ1Y0VtM1VnV3BzZkZLdUhFM0ZGZmREX1k?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-8a13edcac627734a27",
       "date": "2026-11-19",
       "title": "Orlen łączy siły z amerykańskim gigantem inwestycyjnym. Porozumienie z funduszem Carlyle",
@@ -1248,6 +1480,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-894d9b862d79937fa3",
+      "date": "2026-11-19",
+      "title": "Wraz z Enea Operator uruchomiliśmy stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią",
+      "title_pl": "Wraz z Enea Operator uruchomiliśmy stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUk9pYXhYREJvT3YteTVXY1lmYlAtbU5tSV8tS1Z1bWtCbllUbXRSNlBHalVHUV9QeWVkdzQyYXh3cWZJcmNpOHhDLXZBeGVxYWhEQ05qa0NaZjJpLTNfcm9nVGxBR3dlcHhyQ0FxMU1fOFJlQlZUV2RneVlJdGdnNl9OTUhvRUtJMlZmaWNkb1Bqakd0dWZvWEo5T1hNS183Mkd1Vy1nZjAzUkVNb0plbjFMYmJ0WThaVUo4dk9iOTR6aHdpaC1UMW1lWnFBSGdQRFVGU2J6SGZCd2xZUjRJYkxXTlU1SEpHeXBRMGdRRQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
+      "publisherUrl": "https://inwestycje.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-886253375666523648",
@@ -1453,6 +1714,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7cd21b0cbc893acdb6",
+      "date": "2026-11-19",
+      "title": "Nowa wersja Zakresu danych migracji CSIRE dla Operatorów na PPW - PSE",
+      "title_pl": "Nowa wersja Zakresu danych migracji CSIRE dla Operatorów na PPW - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxQQmUyZWthTjloVldCb0gyZndkM2xHLXNSaHBXVVRoZWF5Z0l2aWVyazhaU2NxTXFYOEtFRjFob2R6cVV3VzNTMWNxNE5jMTJuQnZRcHp2RjIxMFNhc3RrWEJEYjFVVmtCdlljRlRQT0VFT0RhNy1xcGR5RmFiUkE4Vjl6NVFqOV9tbXE4M3ZFU3VUbTdlbUl5Y0dIT2RpRUZDN2VUcDM5cjJsOHppTF9aQWlYRHFoUG0tVGN3UlpjVkljUzNGN3dTTnZiSDhOd2RTQlBIMldKSmRhcGtieU1uemppeF9LaFY1YVpCdlA5MHZqMkN2WXNqR3RvOFYyS2tFRW9LODNhR2pucnR2UEMwMEJjMDJmVUdCLVhHYldQaDd4MnNwQTR1MjJaYzFqRDRsVTU0cnRMWll6NGFGNURVSEJZekNGbDZ3LWRHNmZObWNoT3N0SnNJdmVQUHRVR2JKQXpNenRnbFY2TF9WeV8tYVdmZnBUcGtRRVRrV0Nnd3Q4bmozYjlIakNLNjlNOGNfQUltbWlDWWVKenVOOTJMX1dfZmpQMlV4RkJQVndCM1NYLW4zdG9CbDVjN0E3Nzk2czBYZEJEc3ZMQUotY1otQWVQZGtTLTF0VEU1Z3ByT1JWTWNFb0xSWXg4dWhQMDFSbWQtZ3I3VTBWbnJnMFlCakRmNVBVSEZlTlduVms0T3MtMXZwcWJFQzFUY2I3LUQwN2J5MVRyNWRtanJwRXdZcUhDOWlieVpOUlQ4Z0ZTZUk4cXpXc0s0SnlUQ240VEdLZWdCODI0SV84aGRZUF8tV3FmSHBLcnRpREJR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7cb823b7977026ab6c",
+      "date": "2026-11-19",
+      "title": "ORLEN stawia na rozwój sprzedaży gazu na Słowacji. Porozumienie z SPP",
+      "title_pl": "ORLEN stawia na rozwój sprzedaży gazu na Słowacji. Porozumienie z SPP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnRqYWI5eWdlZTZSOUVZX0oyNkRaOHJ3ZllkZXIySFFmSXlqSERuWHhBdzVoYUZ3Sjh0cjF4RG1sMzZGOFZRZnlQNjVvOE1hU0NzNk1JeVNNMjdUcXdTd3lWNVpZOENMQzJaSFROQmU3ZE5sTUpLd2xBMm1kdno4eWRXXy1GM1ZUUmRwWHRONkZWWXZGXzVycXEwNVgyRXViNjJwdldsV2FHRXkwU2VEZWpVMzYxSmZLTklCOGRmRC1SS1JDaVpqOFlhLVd1VFBfWDlTWm9oZEtnSldaUzFvN1k0UUdic21K?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7a92190ee48ba6ec84",
       "date": "2026-11-19",
       "title": "Więcej gazu na giełdzie i niższe opłaty za przesył. Polska buduje regionalny hub gazowy",
@@ -1564,6 +1883,35 @@
       "reviewed": false,
       "sourceIds": [
         "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-752d1504e22d6c96f7",
+      "date": "2026-11-19",
+      "title": "Liczba nowych rejestracji osobowych aut elektrycznych w X spadła o 28,4 proc. rdr - PZPM",
+      "title_pl": "Liczba nowych rejestracji osobowych aut elektrycznych w X spadła o 28,4 proc. rdr - PZPM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUlJY1ZqYVJUZm5TakU4dTV5S2o5SVkwOWRJNGF5OE03OUs1X29tYXBFYm1FbFBuU082RTh1WmtpNENtUC1mUnVXMlVVT3o3ZGhlYW9jYnk4cXBncFRIeHUtc0h6SWVRWjN3ek1LaXo0RTExcWs4T3Fod2V4UGN1SWtGbmFvNGE3MXotRzZMeFdKeWlCLVowNUJzb1pnVFA1SFA1TkxNWXFjbWppeUFoX2x0QU5WZVZMWHdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2327,6 +2675,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2734564d3111c12413",
+      "date": "2026-11-19",
+      "title": "Searenergy to hook-up, commission Baltyk 2,3 off Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMm5RN1dhVGN2QVNEYzViOEFEQUhjZnJsS29pNlY4dXQ3bmNLM3FlRWJydnFnSjEyckdOWTZLc3FtTldKUHIyeEVRWHN5TUU0S2ZkUGVHOWNPTDlRczNhYmdhanZoNUgyeVBOVHprLUhiQTQxVUE5a3VBVFdiamxfVUwxMzIwSHFzSmNVS1NEeUh6elFvU2NVYW9n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-254e2a809e3a806217",
       "date": "2026-11-19",
       "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
@@ -2530,6 +2907,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-183092806c1ed7303e",
+      "date": "2026-11-19",
+      "title": "Gulermak Renewables awarded Polish CfDs for 79 MW of solar",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVMwNEo0SWZPZDF5NjE4NjQ0WFZ4U2JvcmFVXzBoSFVIZncxREVHdFA1R2gxenM4YnNJajlEbU5DSmNNYlI0Mkg4UUlEbUVmakNZZTF3d3Q1MHdQSU84MDN0NVgxa0V5b1BraVJoSERKcXhjU25ybnctZ3UwSldLaURmNnVFVzBPQUI0UkJZMDhiWDVEMk9zS2VKRUlRczg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-11537da738bc469ea1",
       "date": "2026-11-19",
       "title": "Polskie firmy w centrum inwestycji energetycznych. Enea partnerem strategicznym Polish Local Content 2026",
@@ -2657,7 +3063,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3ZERmVXSFNxN25LVHZtOHVucTdYQlRaZFlDQzBvQTgzREJneTZlSWhuZVZVMkM5RTFzV2V5RnZwN056cTdZZXkxeTZuU2g0aHhZeGlTVmV3bXVqRTJUTmc3V1hZWndaLXdzZUlnRWlPSWprUmpycEdqeXVwZVVTbzVRYXpTM2RONWJuekJGZFhUcTdtX1BZTkZuSDNsdjR1Mi1lYXV0N21kQ2pveFF2MkVjbmZTZVlIZ19pUUhlSGpKams4aHcwQlN5Ujd6WkJsM0loc2cxMmlFR0g5UjBITEdZWEdrVVlQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RJR002ZEQ5UFpIRVZoenBGTk5WYVA4MHNuOVIzc3JjYUJOWVh4eVh0c1psUFBpZ1lJTE9aek5oZlE2a1otQnN6Q0RwWG9kWENETzF5WFUtUXBLRUEyOERSXzdtYmhUZEZMc2E0Vi0yYjlYUjZ4TnZaNDdBT3hKNEdvXzVkdk9QbTB4bmxsMmZfSWxUUUhCbWNFbVZCaWJiTHlUYThoaUdwRUt1TUZIUS1QNEpObE8zZEthb1MxZEJEdDgwelRsZXNuVjFMb0ZXeF9ib2ctaw?oc=5",
           "type": "press"
         }
       ],
@@ -4456,7 +4862,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORm9IVTNkUkpnemFHdVIwNTZhRGFJb0R2bkJHMmRUVEVWMzB2cklXV0lSMmNMQnZ4eHE5ZjNtaWNwUjNtY3dxdDBFdDlrRjNiMzVrc0NUQUJxS0pobHVvT0RwM3BqZl94d3IwWGFGZnBoSkx0NHYyZE1XcVBXWFg0LUY0cV9lREJNdE1TMUkwWDAxRDc1VWRHTEhCZ3dWYklreVVkQnlzelJVMnNzeGJuY3VkemwwZ2QyM1J4ZGJ5YXBQUk55d01SMg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEdJVFdJaElDUEQ4TmdUOHdveEtLQ0s3a2oyMnhYVnFrM3g5Z0dvUkpJLXBQYXQtX2YyS08wQWVlN0NFVy0zUGgtdHYxRTc3cEhkejBvQXNKRWw5elVuUHhjd0drQ3U1Q3dXQkJLU3RhOFE2MHVndE5tSkhyNWVxaVFkakFQT3pDTVNZSkhJY0xDY0Z5MHFYcWlwWG41aWxHUHYzYTh1VGU2Vzgyd2lPQzdsV0d2M05pUzREVC1wN2JpSEFTdGlQblBaYUVhY1hpdWlr?oc=5",
           "type": "press"
         }
       ],
@@ -4464,7 +4870,7 @@
         "ORLEN"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://geopolityka.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -7479,7 +7885,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU080QnBoeDc2ZlpRMnNhM1lPQnp0SlIyRmctY2RxY0NtYVIxYm54bkhObjZrc3BycUtENFVVcC0wNDM3OU5raE5WNHQwOTFuNUNUZlExRG9BWjdtM21jMHcyVGVnTEdqZDF3bk5EcTBxOGljdkpDeHdjVDEwbWQ3QmV6MjllZk5YUV93OVFTNDV1NWRwOFJBU0NFSnd2d29COTc0cEd5Q0V4RFo1U1Fn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1NReXhiVXpfTktCTFY0a2RoT2c3VkhNX0dIMzZTLW1RMmplbUNQblowcDRBc3JDblZEcXJzLUJEWHh1bUhDZ21MdUlXdEhkdllfellHT3g5WjBndk5jSzFvLTFER2piQThTZ1NjNGhQYUNmUjZPblVadUlYT1dZNnlWb2IwXzhKQ2VsNWZtV19PQm9EWnlTQlhIX2c4dw?oc=5",
           "type": "press"
         }
       ],
