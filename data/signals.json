@@ -1,6 +1,64 @@
 {
-  "updated": "2026-11-19T06:32:34+00:00",
+  "updated": "2026-11-19T07:55:25+00:00",
   "signals": [
+    {
+      "id": "src-eaed2b69f82fbd0245",
+      "date": "2026-11-19",
+      "title": "Dystrybucja energii elektrycznej dla budynku Sądu Rejonowego w Opocznie",
+      "title_pl": "Dystrybucja energii elektrycznej dla budynku Sądu Rejonowego w Opocznie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Sąd Okręgowy w Piotrkowie Trybunalskim",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4612-4914-04f7-34bd-c9000143c818",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-ea37f2b9c56d29627c",
+      "date": "2026-11-19",
+      "title": "Zapasy gazu w magazynach UE wynoszą 70 proc.; w Polsce to 95,5 proc.",
+      "title_pl": "Zapasy gazu w magazynach UE wynoszą 70 proc.; w Polsce to 95,5 proc.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU20zSWItUF9Vc1NhOVBWU1dyemRIcjhmbk8tR2FZamtYSXdhR2pRaTBBUlR2cURyZ2wzUmdlc3JrLS04R0F5UjBOOENJZkIxU0VfeW1OVjNPQm9YZW8zU1NDeDhoc3cxY01hODV6QThPamo1MTJNVmpkN29uTW9HOE9MaHczREM2N2FBRHBNT1FFbmFfZW15UnRBTHoxc3A2U2pNdFpR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-e5e326d2bce4a37a0b",
       "date": "2026-11-19",
@@ -29,6 +87,65 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-def2660625506ae09d",
+      "date": "2026-11-19",
+      "title": "Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms",
+      "title_pl": "Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gdynia-based Searenergy Poland will carry out hook-up and commissioning of the offshore substations at Equinor and Polenergia's 1,440 MW Bałtyk 2 and Bałtyk 3 projects. The post Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms appeared first…",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/searenergy-poland-to-handle-hook-up-and-commissioning-at-baltyk-2-and-baltyk-3-offshore-wind-farms/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "POLENERGIA",
+        "EQUINOR"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-dc8e3ca8791a76a34c",
+      "date": "2026-11-19",
+      "title": "APS ENERGIA S.A.: Wyniki finansowe QSr 3/2026",
+      "title_pl": "APS ENERGIA S.A.: Wyniki finansowe QSr 3/2026",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHBrZFljS1JtaVEzTUZ5YWMwSXNBaGFzbG01c2F4RzF4ZUdVWTdLT0VHQWlzMWlzUlVYOEdONlJWMTBtR1BvTldFeWxrRzN6ZllPQUNuc0h5OG1XWDJwY0htSVJHZGp3ZTZSbHpaTXd6M2VDc3E4Vi1RblpFcW9CWnQ5MXVLQXlmbmNIcFByZ3dhM2s?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ba0f4a11e9b3aa4d5d",
@@ -205,6 +322,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9ccd9245417be52714",
+      "date": "2026-11-19",
+      "title": "Przebudowa kotłowni gazowej w budynku Zespołu Szkół im. W. Goetla w miejscowości Maków Podhalański",
+      "title_pl": "Przebudowa kotłowni gazowej w budynku Zespołu Szkół im. W. Goetla w miejscowości Maków Podhalański",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powiat Suski",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4612-59f5-2e09-34bd-c9000143c81e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-89e7593e5dabad9f85",
       "date": "2026-11-19",
       "title": "Polska – Aparaty do oceny wytrzymałości – Dostawa maszyny wytrzymałościowej o napędzie elektrycznym, dwukierunkowej o maksymalnej sile nie mniejszej niż 300 kN - KC-DE-zp.25.398.2026",
@@ -232,6 +378,122 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-8764646f04ebc8177a",
+      "date": "2026-11-19",
+      "title": "Top 10 największych dostawców baterii do magazynów energii",
+      "title_pl": "Top 10 największych dostawców baterii do magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTZfcUJiT01QMk9NVmRRTWZvektram45RWFlOUloM3pSN0k0dU1XS3JkQkpsb3lUWk9yblM5MHJISkN1OE9zNUtsT1BKcUZLbTZiWE4tR0pqeHpSVk91RW9SX1BlOWpBS0ZuSm40R2tLZGFYV2dDT2NiQzZIR2FPNGhtRElrZnlhY3J3M1Rsd2p0TFUzYmJfQ2k4ZUdEYlpWMFJ6V1htVnVvTVk4MU5iV0s2YUNrUzYzc3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8611b90601c53b2253",
+      "date": "2026-11-19",
+      "title": "Panele fotowoltaiczne tanieją. Rynek szykuje się na podwyżki cen magazynów energii",
+      "title_pl": "Panele fotowoltaiczne tanieją. Rynek szykuje się na podwyżki cen magazynów energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOTd4LW96dEs0emtkOF9mTkxDT3NmMWZFODNRbzY4a2d4a3EtdEFmSU1FdUxDSmd0czJ3QmZ6SEF1Ymxaelh5aHd0M2kyRE5DU1I5WjNmbzMtMkJGY2gtWEROQmgzbFZkNi0zNGxKcFpONUFwU3h0MlhvbzhFTmdiMmJsYkhyRVFZZGdkbS1IT05qVjk1Q0J1Vkt4UEhFc0FXUjlHLUlGWUlLNVJpZ0UyS05NQjhxRG1vdEtJbW5RTmhYWFBzVjRtT1BjVkowRUtRWkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-60ffe624b0c3d5be89",
+      "date": "2026-11-19",
+      "title": "Bloomberg: Orlen będzie się starać o nowy kontrakt na katarski LNG po anulowaniu poprzedniego",
+      "title_pl": "Bloomberg: Orlen będzie się starać o nowy kontrakt na katarski LNG po anulowaniu poprzedniego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTZiVWJJa005VW85S3pWY1BGTkNQb2tSa1gwOFBWM0dLVmlsSEV2MlhZNmk4ZndlblhEQmpOU3BrRTRha0J2Z2hPLWFGc3lQTF93SzJMMDBlYjlMVUNJS1NVLXR0MUxIZVUzQkFuc2xYNEltWG10MHc4S2hTNzVFa0EtLUlqSFBmbURnYjk4ZVpqTVdMeFBGRktSTGJCRGJIWm5xLV9uMlM0OVQ2?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-45ec1ecf95f589621d",
+      "date": "2026-11-19",
+      "title": "Decyzja węglowa nadal w grze?",
+      "title_pl": "Decyzja węglowa nadal w grze?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQTQtSFVock5PckI1aDNNSE5JaG5OTDB0d3ZQR21vWFR0VTBUWmg4bmVIMjJ0OHZjTkVoLVNHYkM5UTF3V3dxaGI3SFQ0am5qV25WVE5GN05HSWNleDFzcnpNQVNwRzhHNmpQRDNQX2ZROUZfcjlfbmdMRXM3RXhlek9HYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-446f26e15ab8b9f8fc",
@@ -354,6 +616,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-1ec218a1f939514566",
+      "date": "2026-11-19",
+      "title": "Gruntowa pompa ciepła wcale nie musi wymagać wykonania odwiertu",
+      "title_pl": "Gruntowa pompa ciepła wcale nie musi wymagać wykonania odwiertu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3M0UFI0cko1U2tTMUJ1Mi0zVWtUYnN3ZjQ3OTktUmQxcEJJWldncm5qWVA5V0kwN0psVHVhMHpGY3ZKOXJLZDFOQTIxNFQ3WkV1bm50akVqdVFhWlJaVkxXc1NXWkdSMTdDZWR1aURYRUI2VzkwdWJobUkySFRQUHNBT3hxTzVqTkxKcUlB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-04bbb233f23de596e0",
       "date": "2026-11-19",
       "title": "Polska – Baterie – Dostawa komponentów systemu magazynowania energii elektrycznej na potrzeby realizacji projektu budowy magazynu energii elektrycznej MEE EEP na terenie Enea Elektrownia Połaniec Sp. z o.o.",
@@ -381,6 +672,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-004dd21c6937878494",
+      "date": "2026-11-19",
+      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Windar Polska will manufacture 26 complete steel towers in Poland for the SG 15-236 turbines at Ocean Winds' BC-Wind project, under an order from Siemens Gamesa. The post Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm appeared…",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/windar-polska-to-build-26-turbine-towers-in-poland-for-ocean-winds-bc-wind-offshore-wind-farm/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-feaae16c6d7174981f",
@@ -3105,6 +3425,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7b7abf222e2c3245c1",
+      "date": "2026-11-18",
+      "title": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "title_pl": "Komunikaty ESPI dla TAURONPE[TPE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmw4blVQZUNVVF9CdHI0MzNIenBGYi1jZWhOa1JDb2xCRUZMM2FsNXdkTVkyR1pHYnVpR25pRXg0YUMyMFAwRzRqRWNoWUZGYzQwVkkyNml5YXRNd1p6SW9ZZTAwNDlVT3BwdGR1RW5PTmNJRHljYWtYTU9vMHZEMWxfUkpVUjdY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
