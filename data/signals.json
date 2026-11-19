@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:55:33+00:00",
+  "updated": "2026-11-19T21:53:50+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -522,6 +522,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d53389c2f00a5a7864",
+      "date": "2026-11-19",
+      "title": "Orlen i Carlyle podpisały memorandum o wspólnych inwestycjach",
+      "title_pl": "Orlen i Carlyle podpisały memorandum o wspólnych inwestycjach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Należący do państwa polski koncern energetyczny Orlen i amerykańska firma inwestycyjna Carlyle Group podpisały w czwartek 19 listopada memorandum o porozumieniu w sprawie wspólnego poszukiwania inwestycji energetycznych, głównie w sektorze ropy i gazu, paliw odnawialnych oraz wytwarzania energii.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/orlen-i-carlyle-podpisaly-memorandum-o-wspolnych-inwestycjach/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d4e5e433df00c0ab0a",
@@ -3458,6 +3487,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-27a7dd7201fdb782cd",
+      "date": "2026-11-19",
+      "title": "Integracja systemu detekcji gazów z systemem wentylacyjnym.",
+      "title_pl": "Integracja systemu detekcji gazów z systemem wentylacyjnym.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Instytut Energetyki - Państwowy Instytut Badawczy",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4681-9ef1-0ec2-7343-eb000163a7fb",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-2734564d3111c12413",
       "date": "2026-11-19",
       "title": "Searenergy to hook-up, commission Baltyk 2,3 off Poland",
@@ -4009,6 +4067,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-00195b0f63d5cc5313",
+      "date": "2026-11-19",
+      "title": "Godziwa cena węgla wzrost wydobycia",
+      "title_pl": "Godziwa cena węgla wzrost wydobycia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTZzMm53TGlSOG5KQUo3UTFrTUJPenpTRF9fMUpDT1VRcW9pVk4zQmdBTGVvamRJYjZWN2dHNUExNjN1MHNEY0RuUzVONEUweFFFV0QyZHh2MTBUWFlnUnJIWG5KYlV1QzNQaloxTmNqa1AzTnNYUEEzTjZZWEJTOHgwd0VSdV9CclRObA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-feaae16c6d7174981f",
       "date": "2026-11-18",
       "title": "Kolejna dekada pod znakiem dywersyfikacji gazu. Resort energii wprowadza też nowe wymogi dla LNG",
@@ -4310,7 +4397,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3VfSFJGUFdYdk1JWU5BRnFJOHMyTkJoekRKY2YtUDdTS1VOaTh6cTNydWI5OW0wdDlfZUNJR1lhVzRIWXlFYnJqQnpFTlFmWkJSOTFyci1IYXdMVEJSZEVjcGI0cUhyYUZOOS1PWm1DWDZGWEhaaEFuV0Y0cWRQb0M5MXZiOE1JRjJsbkM4a3hldmdSM2VjVlJnd1dJQVVmZVNyS2d2ekpvczhYSzA3NldxRVNlNkZnSVdmQmluMUh3OW1qclBWX2YxSVlzXzlJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUgxQ3hqZWZya1lta1NFX1ljdFdoNkR6Z1AwZzhIZ3RmOVRQWExET3Z4TWlqaTRZWnp5WkFldm1ET2ZrVXFtMHIyRU1lUTNrcjdLNTRkbjM2WXVCTDJObHhlbDBGeElCUEpDakpySWhpSm0walQ4ZnhPWFBkcFZIQ2NJSm9HTDZPV0JzN1U1Sk9PZU1uT0E2dlg4b3UzdTQ3OVExWmtDNUgzVXZudTg2YkFuemU5UGk0LTlxM2h4cw?oc=5",
           "type": "press"
         }
       ],
@@ -7269,7 +7356,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnh2SXBWdmY2NjQ1d3V4UTVQaHk1WW8xcjloMVdrU2hrd3JrNHlTSVBwbDRsV013bzJzVzVCZklTd2RSRzRaWVR5YklqS21VQWlwNHdoc3NkVmc0RnF5Ni1EclpYekFJckFyR29pcExodkZQdFRhTkl1MjgxZmJWLV8xRWI0SzJWY01tLUdyXy0tcldicXhoXzEzYzk2VTZjbGNuWnlxaXNpeE5ScTN0bVBJcWV4RUpmTjlzOHRXYk9TM2gwbjFMeTMzb0JMQQ?oc=5",
           "type": "press"
         }
@@ -7277,7 +7364,7 @@
       "cos": [
         "ORLEN"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
