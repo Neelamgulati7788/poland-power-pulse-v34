@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-19T10:12:22+00:00",
+  "updated": "2026-11-19T11:29:21+00:00",
   "signals": [
+    {
+      "id": "src-fdb270100bb2b495c9",
+      "date": "2026-11-19",
+      "title": "Orlen, Carlyle sign MoU on joint energy investments",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Reuters — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbi01Uk04SUpZVExrNEJSR2JiRW1ENGVyYUZVRG9aM25GbUlhTGJ6TmxKUjZVM3IzaUpNUEJITmhoVnE1UVdSXzcwQlZrRDBXNlZaX2FoMkxRN1hGczBjTXQ0WU9tQVhleF9mWHFJU2JQeG10bDN4V0xtcjNYakdUbFBzeGxhSUtjbTFpcFN5RDJJaExwVklTZUV0bmVLMGxD?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Reuters",
+      "publisherUrl": "https://www.reuters.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "31"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fbdbe27b7b3a75a400",
       "date": "2026-11-19",
@@ -116,6 +145,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-e2e4dc7912992356d8",
+      "date": "2026-11-19",
+      "title": "Wielkie porozumienie Orlenu z amerykańskim gigantem. W grze potężne inwestycje w Polsce",
+      "title_pl": "Wielkie porozumienie Orlenu z amerykańskim gigantem. W grze potężne inwestycje w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen i globalna firma inwestycyjna Carlyle zawarły porozumienie o poszukiwaniu możliwości inwestycyjnych w sektorze energetycznym w Polsce, regionie i na rynkach międzynarodowych. Współpraca obejmować ma obszary ropy naftowej i gazu, paliw odnawialnych i wytwarzania energii elektrycznej.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Orlen-i-amerykanski-fundusz-Carlyle-podpisaly-podczas-P-TEC-2026-memorandum-o-wspolpracy-w-dziedzinie-energii-i-inwestycji-9231466.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-def2660625506ae09d",
@@ -263,6 +321,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c86ef9b7eab565bbe5",
+      "date": "2026-11-19",
+      "title": "Największy producent energii w Polsce oferuje tanie godziny. Czy skorzystają prosumenci?",
+      "title_pl": "Największy producent energii w Polsce oferuje tanie godziny. Czy skorzystają prosumenci?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDhmclFIeGZUZEFmYWdIejNDcDlWQV83RDNrNVFwQVhsUGRDcVFxdXNTaDc5QmZYczM4dzlheTVMZWl2UW02N2dyb3RMRXUxQTd3T1RRTDdmUmh2M0ZVUVlEaDFnbzBOUWJmTXNNc0g2Vy01QWVkNWQzcEdZOUpueWJiamdUSDdnSmQ0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c6f324d14c3d1d6abc",
       "date": "2026-11-19",
       "title": "Polski atom kosztuje coraz więcej. Byli pracownicy PEJ ujawniają kulisy",
@@ -287,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bdc07015f1d6b9f165",
+      "date": "2026-11-19",
+      "title": "Świnoujście zamawia nowe autobusy elektryczne",
+      "title_pl": "Świnoujście zamawia nowe autobusy elektryczne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGxZeWt5R0FTVEhXb0pDSlp6ZE1zMFhZSTJ2LVVXRXZkNkFOTVBfWUNPcXhEZTcxN2VSS3h3bjAwc2YtSWVMUlY1aTNFTzc1R1B1VVZVS2U4TEVIMGZEQ21OalB3T0hvMjYwY2t3QjMyYThsbGpVTWl4ZHoybFdzYS1EUlU1akc1Q1dKamhFLXJUcnV2T0tiR0pNYXFJNG54Vl9YSkdXR0VQOVNVVVpGbEY3N1VDaVk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -466,6 +582,65 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-aadab313ed32a5865e",
+      "date": "2026-11-19",
+      "title": "Tauron przewiduje przyspieszenie nakładów inwestycyjnych w IV kw.",
+      "title_pl": "Tauron przewiduje przyspieszenie nakładów inwestycyjnych w IV kw.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVI2Z1VicFFiWXpoNjh5RmM2d1JoWU9mOTJnLXlKQlVWSFFiZndTZk9KOEdHTEpwMFJ3V1pBcHJZZ1NLSHVfZTRITjJwQjl3U3ozeXZHdzVUMzVKTUNwaFFGMGlGWUhsVTljdHBkenY5ZkZOeEhxa0RGQlFNQzZDZ1Y3ZDZ6MnJBTkdyUlhVWU9Sb2pob2h5Mzk1NTJldzJlODN6NGdxRTBFbm8yVTFZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25",
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a78696f5256dc6ab4d",
+      "date": "2026-11-19",
+      "title": "o Aktualizacja 11.2026 - PSE",
+      "title_pl": "o Aktualizacja 11.2026 - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPeEhxbmsxUkg3aDV3Z2I1amc4QUZCUW5lUXZqS2RWUlUxWmVTR1RtSUd5TWdWbzlXcENLa1dtTXVJcDZCX2NkbG1rWlktdFJ5ZENHVVJVSUg2aUFaTDJBY3ozVDBCMkhwMERxd0lVQVNSajFySm45RTEwWlMtbmctWVNTdUpiMHFvZGlLT0R4MVk0YncweHBhYTMtSmhVamxqdGNqM0o3UWM5bDZtMk4zNm9QQWVBRmx3Zlg1YncxS2YtQXF2WVo3a29jWjBFY3J4Y3JmRk4xWWRtV3kxOTFOSlRLMmJFekp6YlJEWDVGS0ZkTlZJekJ0Ny1LenlMUUxlSGpyeU55YlNUbTgzNVBJYUQ0c2lMdmViU3Nnc2d0UExCdWNtc09wNC1qQXlQcy03WnU0bGhNUDEwODNTV1A2OUpfYkhvXzdIQTVpeFd1YmlKZXU4XzJwMGVfSnF0U1VNNFUySkt0VVc3VlFJOUExMGZUcGtDZ0pTcUxERV8yRUF4WFI1QndwaHV5X1k2b0N0OXhhc2pzNGNFUlBXMzNYeHJmVzkxSTZlb04tSnRfdS16Ujh4RDM0NFpBNW1TM1ZCZk5icVVlYi0tMTZQTEFXRU1NaEw5bTBjRUZfWDFRTWVuX05nVWRFY21nX1otN01XMmhvTlhqRTA4X3dUc0hFTGVvcEIwemFxb09Uc2N4WnJfcExwaEx0NF9VTDQ0UkwxM3BxMG1iYng2X0g1WTZZTUl1Z3c5MXZiMC1FSnlaQTBvZlU2RE5KNXVTM2NzT3ZmRFRwek5MNHV0cFlsaWFBM21vb0NYRFdaUWlV?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a43ea0d44df759d2e9",
       "date": "2026-11-19",
       "title": "Polska – Różne produkty spożywcze – Sukcesywne dostarczanie artykułów spożywczych dla zrównoważenia wysiłku energetycznego dla Honorowych Dawców Krwi.",
@@ -493,6 +668,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-a2ad4af17749ab75fb",
+      "date": "2026-11-19",
+      "title": "Fabryka w Polsce wyprodukuje 26 wież dla kolejnej farmy wiatrowej na Bałtyku",
+      "title_pl": "Fabryka w Polsce wyprodukuje 26 wież dla kolejnej farmy wiatrowej na Bałtyku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUhVRVhKRC1sR0l2TVNqZlU2eHJJd0NxZE02RFpXb3oxRm4ycTd2cXRVYnRmck5wam5RTEhUdWNYSUVWeDUyd3g3QWN4dUI0dDFCTmlMMVFaS1MzNXRuaGV1T2V5d3NQRGIyVjdIY3h4eUJqU1NjaDFjZnUxcE5aZXNfQl9LNlR3eC1Dd1d4ZXJJQUlxUU0yQ0ZYTFVJN0xydm1GTnh4N3FOM0Y5Q3M0dDYtOHZqRHdrQ1J2aDk3UFJiMUIybEYwMndn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-a231050029a28fd178",
@@ -756,6 +960,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7a60c6138160b2fe47",
+      "date": "2026-11-19",
+      "title": "Polski atom przyspiesza. Kolejne elementy reaktora trafiają do produkcji",
+      "title_pl": "Polski atom przyspiesza. Kolejne elementy reaktora trafiają do produkcji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Elektrownie Jądrowe i konsorcjum Westinghouse-Bechtel podpisały list intencyjny ws. rozszerzenia zakresu umowy Engineering Development Agreement (EDA) - poinformował PEJ. Chodzi o uruchomienie procesu zakupowego kolejnej partii LLI, czyli kluczowych komponentów elektrowni jądrowej o długim cyklu produkcji.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polski-atom-przyspiesza-Kolejne-elementy-reaktora-trafiaja-do-produkcji-9231533.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-72b6cbf46ad2fbc749",
+      "date": "2026-11-19",
+      "title": "Tauron power expects capital expenditure to accelerate in Q4",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3JRajEwclB5Ti1GdXh4dVFFazlGaGVubHViZjgwbE9ybEY3aVdpS0ZBMW5SWGs4R20wX3ZDdWExSTRlWUJLRGlWVjlnYjNOOVFXeTZfb1NfMUZLZFQ0X3J1YWZ0UFlCbnlISmJQUmRBejg4TzYtZno4ZjZGcjhOVHRUZGtscEhnR3MyZWpROTFzLVduQVh6Vw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-644c896f47718fc14d",
       "date": "2026-11-19",
       "title": "Dostawa energii elektrycznej dla obiektów gminnych i oświetlenia ulicznego na terenie Gminy Sułoszowa w 2027 roku",
@@ -783,6 +1045,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-6312ff7b77ff8fe448",
+      "date": "2026-11-19",
+      "title": "Strona 2606 z 2606 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2606 z 2606 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qdFY4RnVlcV9FU2ZiQ0t5WGhrVUx3WU4tek1oSzhIV213OUtvYlFxV0NiWWI0ZS1Fd0xKTVMzaGF4dWgwUEVIYnl4T2JiVUpMTmkzOU9rRWE5T3NmaXlVcw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-61e81c6065706ca141",
@@ -843,6 +1134,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-58524dc3326fc0c379",
+      "date": "2026-11-19",
+      "title": "Sprzedawcy energii zaczną naliczać opłatę abonamentową. Prosumenci zapłacą o więcej",
+      "title_pl": "Sprzedawcy energii zaczną naliczać opłatę abonamentową. Prosumenci zapłacą o więcej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xUeXJUTHdReTVCUjB6bGdjQkUtVlJyOGpFNnVwbE5RVC1kVHpNWTFBRWZxM2swVUNyaWFRWnZxUnM3TEpIbWlaRHJMSXBvenk3YXEzX2pPYmZFWnFXT3U4SDdFektZemtuQWJzSjVkbUtjOUxyMkVUc3p1UEdQX3RTOGVFMUgyRHpQMG5BVk9IVm5VclExdERiOUZlZVE3N0JMcGRLNk54c1hrdE9FR0ViSUpLMkNtVEhUT2l1Nm5Nd2FMOVpnU1paYmlDdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-549e12aa3fd0ec473d",
       "date": "2026-11-19",
       "title": "Pokaż, jak zmieniasz biznes. Trwa nabór do II edycji konkursu Siła Transformacji",
@@ -896,6 +1216,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-470eb5d270c2a7df1b",
+      "date": "2026-11-19",
+      "title": "Orlen łączy się porozumieniem z globalną firmą inwestycyjną Carlyle",
+      "title_pl": "Orlen łączy się porozumieniem z globalną firmą inwestycyjną Carlyle",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRndWNDZiTWpjWW1zbHFQYW0xaGM1V0hVX2ktbWNSZTRJRFRGel9GZkRaTXU0TmJzeVY4cUhaUmFlWTdUWHRqQ0JlZmJOaC1kSlIxcGtyTFlFQzRZSkNLYXN0X09xU1ZXZG9UWU1scXNYSzBic3BuemtTcG9ud21uR01GNUVVVXdoNEJjdi1wT29qRV9QbWZvQkFSekgtT1RhYmFwM1JnV0tvXzJuRXFkT3JDWHJHa0l4QnpxeF82WEQzZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -983,6 +1332,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-42deecbd90edccf430",
+      "date": "2026-11-19",
+      "title": "PEJ i Westinghouse-Bechtel podpisały list intencyjny ws. zamówień kluczowych elementów dla EJ",
+      "title_pl": "PEJ i Westinghouse-Bechtel podpisały list intencyjny ws. zamówień kluczowych elementów dla EJ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQS1WVHQzMVpTMEFKSjRkOUllRXhLV2QxVWFfODV6dXFha0xENDR4dUgyNThRYTJXbGl2aVNWeU42ckV4R1ZieXhwYURXUzdhTlMySkFPN2xBd0hUXy1xZXlWVmpnakZKSE5NUmR4X2ZuMnllWVFXcWM1LVRsNml5TVVENUd6MnJoUVpsV05fSG0wMDJrSHMtV0p0WTBVMWRjdmhLOVJmQW9IVVNrM25qUnFicnc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1079,6 +1457,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-301704cc751e459267",
+      "date": "2026-11-19",
+      "title": "Wrocław: Koleje Dolnośląskie wybrały dostawcę pociągów elektrycznych z ogniwami wodorowymi",
+      "title_pl": "Wrocław: Koleje Dolnośląskie wybrały dostawcę pociągów elektrycznych z ogniwami wodorowymi",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckFGZGZGcVZzeXRodWFieUxwZ25vZTZUSGMtU0o5bjhsNHVqNDQzWC0zb2ZrT0lpQzRRQUhpLVJfVnRfV3JyRkN0TzlzNlYxMXRlUlVsTWhSMTliem1fZGxid2FmYkhJellhRU1HS0lRcW5XYnBsMmlJUExKa1BaWFV1SmJCVE5CbVZDTlk2OVlybURVRjJFeHI0eHNSTUs3bGZlM3BBUmF5UVFMb2hWMjJxYkkyX3pBb0JaYmV3RExkTE5VYlE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-254e2a809e3a806217",
+      "date": "2026-11-19",
+      "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "title_pl": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmR6VzhvQ0t1QUplZV9vN0ZoZ1l0RzZfSnJqU20ycG5BbTRKZUJ4ZDB5NFZqaGlud1QxV0lpSmFBUnFjZk04eFEyQm5BdXJBaDJaaURwODhJaElqRTdJRlB6Uk1YMmJsenJrQXdZTW1LVHhsZFJXUlhxUGI3SHlpTlFNWVVEeVdwV25EaWRwQjh3dFlQQk8xTmhVOGdtT0FGWDZHbzVDVjVKUUQxc19UQUpkUG9vTVY4VVNOenUzcDVfdlJUSHAwRUFJbkFpdlZ5RU1DZUJKRktOVFpzbFZJaTNBNDg5SDNnOEoxN2ZMU2g4NUZPOTBKWEViTTM?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1ec218a1f939514566",
       "date": "2026-11-19",
       "title": "Gruntowa pompa ciepła wcale nie musi wymagać wykonania odwiertu",
@@ -1103,6 +1539,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1e56bc560db139d13b",
+      "date": "2026-11-19",
+      "title": "Tauron podsumował trzy pierwsze kwartały roku",
+      "title_pl": "Tauron podsumował trzy pierwsze kwartały roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmJZNkxtYmJGUEJyaTdnSVNNX2ZzNXFLa0kxRXdnSEllQWlHUFZhYzB2UkNlTEQzVDI1Y2tUeHlZTVdPTVhtbFdNYWMyNm5XMzRVdjg4T3duRUdOVlZaODVwZVN6UU02NTlkTmExbWpQRWxzXzFxSEs2Y1VRMG9tRGRaeWYwemVPdW1jMGtQMjdqUQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1ab5e231e02ce82939",
+      "date": "2026-11-19",
+      "title": "Orlen i Carlyle mają porozumienie o poszukiwaniu możliwości inwestycyjnych w energetyce",
+      "title_pl": "Orlen i Carlyle mają porozumienie o poszukiwaniu możliwości inwestycyjnych w energetyce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzQwUVZVczByUnRXWGllQjRlMzQzZVFsSzVvU09sWTlJMzhiS3RlX0NwWXJzQmZEVjNYaEkyTm4tTlFha0V2SHpYdmxzVFkyeXp3bXpJNjRMdVlDTGI4RWJ0ZGFnU2h1OUl5YmRnaHF2aEZtNGVTYkp1TGU0SXV5OGdQa2lnYXVZUGRvckJxbFBOTGQ3MjVhMzNsWHdkWDR3V2dBVmFsb1RDNkpJcG5OeFBNYUlaeE1ocGR5YWlGTkZqdEZyTmN4ejJR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1135,6 +1629,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-18e375f9640da986bd",
+      "date": "2026-11-19",
+      "title": "PEJ i Westinghouse-Bechtel mają list intencyjny ws zakupu kolejnych komponentów elektrowni",
+      "title_pl": "PEJ i Westinghouse-Bechtel mają list intencyjny ws zakupu kolejnych komponentów elektrowni",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHFHa0JMTkdUNGtXV0M4VUJnWEVjS0JNRE9Cd3BXcVMyUDUxVUNpR1pVRzkzUGJhS0NvYjZvbzhmVHpLcTBpOVpnMXhVMjBHODFyaWVKU3NYSldZQ1NOSU53Y0I3MWtPa05wQ1BobU5VcmY1NHYzeU1sRXhfdDM1TlNMOFQzZjQyLXZEUi05RWwxNjNtVFp0akRLc09YRlZQTlBTQkhLNWRNaF93a1NxQzZIUEVXa0c5VXU3SWdFcVEybFl3eXNPVm9sZUpKQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-11537da738bc469ea1",
@@ -1195,6 +1718,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-086469c0bb8caf5763",
+      "date": "2026-11-19",
+      "title": "EU Energy Commissioner Dan Jørgensen to visit Gdańsk’s T5 terminal and Baltic Power offshore wind farm",
+      "title_pl": "EU Energy Commissioner Dan Jørgensen to visit Gdańsk’s T5 terminal and Baltic Power offshore wind farm",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "According to BalticWind.EU sources, Commissioner Dan Jørgensen will meet PGE at Gdańsk's T5 installation terminal on Friday and then fly out to view the Baltic Power offshore wind farm. The post EU Energy Commissioner Dan Jørgensen to visit Gdańsk’s T5 terminal and Baltic Power offshore…",
+      "links": [
+        {
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/eu-energy-commissioner-dan-jorgensen-to-visit-gdansks-t5-terminal-and-baltic-power-offshore-wind-farm/",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "Baltic Wind",
+      "publisherUrl": "https://balticwind.eu/",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "72"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-07e4d051c13a6b788e",
       "date": "2026-11-19",
       "title": "Local content w praktyce. Jak inwestycje ORLEN wzmacniają polskie firmy i krajowe łańcuchy dostaw?",
@@ -1222,6 +1774,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-077a4b21087689ff89",
+      "date": "2026-11-19",
+      "title": "\"Miecz Damoklesa nad ludzkością\". Xi wzywa Trumpa i Putina do całkowitej likwidacji broni jądrowej",
+      "title_pl": "\"Miecz Damoklesa nad ludzkością\". Xi wzywa Trumpa i Putina do całkowitej likwidacji broni jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Chiński przywódca Xi Jinping zaapelował w czwartek do liderów USA i Rosji, Donalda Trumpa i Władimira Putina, o dążenie do budowy świata wolnego od broni atomowej. Historyczne, trwające blisko 90 minut rozmowy przywódców mocarstw odbyły się na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC)…",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Miecz-Damoklesa-nad-ludzkoscia-Xi-wzywa-Trumpa-i-Putina-do-calkowitej-likwidacji-broni-jadrowej-9231547.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-04bbb233f23de596e0",
@@ -3556,7 +4137,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVhmWnNiVi1HcUhqQW9QN3FmdGNQXzQwelVJam85ZHplYjJXckp1R280b2huS2xZcUV1TXM3bnctay04U2xYZ2I5YXdnTFlrSVBOR250QkxyRUtmOFNiZExSQ1VfSG1mTVYxcUNiS29pTzlmenFmaFRfQ3FpdEpDNDg4VDVuY0czNUVxckhqOUFfejZRaUZSLWh6V3o4OEMyWDZEdGxwd2wwY2ZHYllpNnhPcVVvMTdxaDBxa0t6S21iVzZqNmZaQWJqaWlwenp5U0pKbjNXRVBPd2FaVXVz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlU0clhmZjMyT18xMGpLNFNDZmM3T1VyZ1NtMlpYTkp5cm1xNVBhMEdlbUhGX3BnZGpFZDZfVmtpeFhDWlpEM1ZEZEs1Z3lkZUY3UndGdG1VU1ZEd1ZBRjVOM3RRWm1sZXJDMTJQdHdwN1lRMXBGWU41WGJIWVhQeTNFM0RLdDZQRk9YTHNtMmllNml1aUhOWDk1djFieC0weDk5R0tLTDc1V29vckFsMTV3?oc=5",
           "type": "press"
         }
       ],
@@ -3564,7 +4145,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -5340,6 +5921,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-25062d27d55427d4ea",
+      "date": "2026-11-18",
+      "title": "Gaz z Polski popłynie do innych europejskich państw. Orlen podpisał ważne porozumienia",
+      "title_pl": "Gaz z Polski popłynie do innych europejskich państw. Orlen podpisał ważne porozumienia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGlFa0k0UXdIWklvTjZUUDRubDRybWJxc1VWMS1mMFE2YkI1dHBQcG9iSkdmY0RYSmg1MDgtMGRpTDlGVmVWNmpZbmVjU082SkhjSnNkeU55VFB0SU5CRl9nbVE2UEhxaWp2RXFfa0NpbnJnWWpRSHlUM0NGX21xMHRwekxQbnJBWlRELXFDNVFJWFpVb2J5UnBuRnVaTC1zVTZxYmhPUDR4TXVwM3VyRHJTSzhqUHB4VGN6VzlIbmhXUTBnYmt4Y1NURFo5Zzg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
