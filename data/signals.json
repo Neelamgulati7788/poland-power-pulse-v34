@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:57:32+00:00",
+  "updated": "2026-11-19T16:00:52+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -287,6 +287,35 @@
       "reviewed": false,
       "sourceIds": [
         "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e003d37e57e09fac66",
+      "date": "2026-11-19",
+      "title": "Zakończono budowę stacji elektroenergetycznej 400/220/110 kV Baczyna Systemowa",
+      "title_pl": "Zakończono budowę stacji elektroenergetycznej 400/220/110 kV Baczyna Systemowa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQklQbk1mSU9ObWFVb0o4dTNsa3V4TjZUQjQ3ams5ZS1ZRkdRbDlsZFFsM2F2Y2xtNnN2cFQzNlFqS1FoMUJPWnNZWVo2aE96VHdLSmMzeXR1OEVlOXRTWk9LNU4xWEhiaVlaeHZodW9Nd2xtVGpEd2U0MGZubmYwMUF5bnhFNVN0cHZWbVA0UHd3aXJLX2JSeEwtQXhLMmQ4dFJHUlFCUUxfV2J6ZGViQ0NYZjBOTmJQZHZCdWxuMk1RMV9xOTVGQjItSnQ2UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -722,6 +751,35 @@
       "reviewed": false,
       "sourceIds": [
         "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bbd0236332847762a8",
+      "date": "2026-11-19",
+      "title": "ENEA pięknie rośnie, Bogdanka widać. Czyli wyniki(...) - Forum",
+      "title_pl": "ENEA pięknie rośnie, Bogdanka widać. Czyli wyniki(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTgtQkZZV1hlbkRqU3ktbmMzRUt6WVVRdGFWc0F2cjB3VnhST1VnWk4yU3R3VHE2ZUptNE1Ed0xXZ0tvbFhzY1lpSlNjSnM4ZzkwTmNaSDQ1RkhibjZhWEM4dzZ1aVgzLVREMkFCRE5XYUM4S1RBRFpybUpaMWFwS1FsNXdQUWJlSDA5U3QxV2NIaWFxQjVuaU43LUNaU0VWeHo3QmpDRTdxbzV1Q0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1830,6 +1888,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-785e6051dcbfe09811",
+      "date": "2026-11-19",
+      "title": "ZPUE kontra były pracownik. Lekcja dla branży energetycznej",
+      "title_pl": "ZPUE kontra były pracownik. Lekcja dla branży energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHJmSzROazM3X3FBM2hTUnVkZXpVUjR0UEpKajIzdXY3eWZKNkdtdjF3b2VIbFJpWFBzWFkxa00zVkYzNnNlXzR2RFVaYzIwZW9WUW1meUFOSzJnRXN1dHd3WDF2OXVSbVR3Snp0SkRocDlZNGxhVWJnSVJrSk9wUkx4Sm5PcVhta290RHZwbWZNUzVzWk9GbVZjbTlkbHctTTBweU9CSkw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-77eb8027c037a7cacc",
       "date": "2026-11-19",
       "title": "Orlen i amerykański fundusz Carlyle podpisały podczas P-TEC 2026 memorandum o współpracy w dziedzinie energii i inwestycji",
@@ -2334,7 +2421,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRndWNDZiTWpjWW1zbHFQYW0xaGM1V0hVX2ktbWNSZTRJRFRGel9GZkRaTXU0TmJzeVY4cUhaUmFlWTdUWHRqQ0JlZmJOaC1kSlIxcGtyTFlFQzRZSkNLYXN0X09xU1ZXZG9UWU1scXNYSzBic3BuemtTcG9ud21uR01GNUVVVXdoNEJjdi1wT29qRV9QbWZvQkFSekgtT1RhYmFwM1JnV0tvXzJuRXFkT3JDWHJHa0l4QnpxeF82WEQzZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY25aOFFYeXRwOVRNbTJRMWtlN0Ywc2lZNlloNGxBYzhBaG50b1lXdkNEamFYZVNJYmRMYnd6NjB1X3padk8zeE80cnVnYmRwQTd2VHBJem9LQ2h3UTlzQjl2WVRubmlnTHRtVkpwNWlJbGJKcWVGNVI0U3lXYzFycFlmMG05YUNXdXE5aTZoYTZfMk94c3h6ZTRidi1HLTU2cDhnV0VVWEMwZ2paQVpCMA?oc=5",
           "type": "press"
         }
       ],
@@ -2524,6 +2611,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-37a3b392cd96a52106",
+      "date": "2026-11-19",
+      "title": "Poland deepens regional gas cooperation with Hungary, Czech Republic, Slovakia and Lithuania",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Poland has sought to position itself as a regional gas hub.",
+      "links": [
+        {
+          "label": "Notes From Poland — source",
+          "url": "https://notesfrompoland.com/2026/11/19/poland-deepens-regional-gas-cooperation-hungary-czech-republic-slovakia-and-lithuania/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Notes From Poland",
+      "publisherUrl": "https://notesfrompoland.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "30"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-32788a5899a6deb507",
@@ -2947,7 +3063,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT1NsWGdpSXNEMmRaT3hFdVI1T01KNzc0NldQRWxVcy1qNUdvVlFZSUZzanlwZE1kR2ZIUEF6eG4xVWxJNHRkR0w2OV95LWtRRnNBeDFsM3pZa25XMHhZNEJLaWp5NlpORzE3aFpvZmtIV0FySmx2eFhrQ0FjaUpRcmV0QXN1bGhxZ203Nmc3ajRtcmg4U0xYWF80Q0lCcDJJUEhPd3FEWExwM21VQWpQbjN3dDhLMVVaU2t6ZlFLc2tkcDdnT3g2YlhfTHB5X0M4dHdsZDFucUpmNjUyQ2d5WXhBa2xNWEZNcDJaLUJxOWxRYkU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZU9NTGZNVFh4ZmJPbENiSlY5YzJnaE45UlBlVm96aUw5S0VoZnRHaUppSDZaaDM1d0FUeVFuLWxxWmpHdmx3OU9zc3NQbnFCN2RNemNQc2xYbFVEdXMtT0h1dTg3U0I0dkVPUnIwTllTc2t1c3kwNnBzMmc0MjU0VWFGX0QzYXJ6YnZjVnJocGVteExiM0lSSGdRcDFmMldDN29uUTl3NG9vTGFLdURucU9QcC0wcHFmQXF1YmZFLWtpOWc2aEZzTVFnTDY5TC1mRWNRTEJDczlMZHd0aHJ1dDFn?oc=5",
           "type": "press"
         }
       ],
@@ -3680,6 +3796,35 @@
         "TAURON"
       ],
       "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e3b2d563d988fdd917",
+      "date": "2026-11-18",
+      "title": "Orlen może rozruszać zapomniany gazociąg za 100 mln euro. Pozyskał dwóch partnerów",
+      "title_pl": "Orlen może rozruszać zapomniany gazociąg za 100 mln euro. Pozyskał dwóch partnerów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFFSODJfSWpJLU9fRkpOUUYza0NiMUNTanZaWjFuNHJ0VlZzdFpOUFhYREtiaHRQb0dCWFliYWZRU3hqdHZmSHM0OHdtSjdDTi1xWmVrT3BiRDVKaWlWRXl1WmFDZW9DRHplcnhGT0RHVUwyYTkwRl9CVUlXRjR4SkkzWEVuazBnYjBfVE1kYzVlUWxjRjBSaW41dlZ6V1VwMGNFdWJPcDBUMkNVNHc4OGNpdmFXYlJid1NUY2t3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -10992,11 +11137,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "The measure would be funded by a new special levy on certain energy companies.",
       "links": [
         {
-          "label": "Notes From Poland — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXhueWpDLXNoWlAtaXdrNGdyQzJoajFNQV9CWmpLbFdFb19QaW9uTDlaNEEyU1Z4VWpCSDVEUUg4OFMwU2doUzYwNV8tQTVuSmx3NFExcXVtcWhqbl8tdXBmYkNvQkhlQ2w4Yk5tWkpLdUp1TVZGZmI4U3h5S0tudXBXYkRNRGlyUVRNRXhXTndWNWpaZ19QYWx6UkY1ZjR2WF9ueDNJWTI0TnloZkE?oc=5",
+          "label": "Notes From Poland — source",
+          "url": "https://notesfrompoland.com/2026/11/17/polish-government-seeks-to-introduce-maximum-gas-prices-for-consumers/",
           "type": "press"
         }
       ],
@@ -11010,8 +11155,8 @@
       "sourceIds": [
         "30"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-31d8bd423820baa34a",
