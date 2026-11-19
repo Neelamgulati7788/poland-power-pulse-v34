@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:52:05+00:00",
+  "updated": "2026-11-19T23:45:58+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -1115,7 +1115,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcTBadUdhTUVESDhPenRQYlZISlhUc2xBOXJmTFdnVnVOU1B0dUI5VzNSMzNyWVJDRFFUbFJ3eFJSY1paRWJuYTA5WHJRbHEyVkxFMGlFTFd2R2lxa0E4RVhtRFA0Qy1HMnN1SHlnSlNzT0ZHZlZJQ1lpbml3U1BjWXFIRkpPRVozNFhHUkRZV2NLTVJmQWJJeXlPMmtjYTNwU2lTeG5kQWxwMWM2eU9pUmJrYlVQVVE2Q0tHLVVveVdqTmtHQS1BQWJCcWVNX0MybmZrVF95cDVfTVh2ZU8wQWpTWm9JelhZWjdjblEzdlVDSVllaEVkNEstVjRoSkRk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVpqTmpKaThUbHRqbnZQcjduS0I0MDRJcVJjWGlMN0FWWm9DRmZNWUlrVnZNd0hIV2E4aXF2SzBZa2MxdlFwTWItaEFsTGlSdFZJSTJscTNSaGZfenVVMXRSMFhOLVJWU185R3RvNTNENU0zUTh0YjA3VVk3ZFJFZWtXbEMtcTlrX2Q5VFlmdUVuNDdteHhLN25BRV9paVFUVy1BTnVmdHVldEtTajA4X1NrRVBnODJ0dlBDM1ozYk5TTDJJcmdiM1VqdkFTNGlNZHVkWnZNaTJRWXc?oc=5",
           "type": "press"
         }
       ],
@@ -1123,7 +1123,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
@@ -2698,6 +2698,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5f65c2a3d8b88b2d24",
+      "date": "2026-11-19",
+      "title": "Modernizacja sieci elektrycznej w budynku Szkoły",
+      "title_pl": "Modernizacja sieci elektrycznej w budynku Szkoły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZESPÓŁ SZKÓŁ CENTRUM KSZTAŁCENIA ROLNICZEGO W OLESZYCACH",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4692-18e3-ba5e-7343-eb000163a816",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-5df2749ae4368cbb91",
@@ -4351,7 +4380,8 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
-        "20"
+        "20",
+        "54"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4426,7 +4456,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3VfSFJGUFdYdk1JWU5BRnFJOHMyTkJoekRKY2YtUDdTS1VOaTh6cTNydWI5OW0wdDlfZUNJR1lhVzRIWXlFYnJqQnpFTlFmWkJSOTFyci1IYXdMVEJSZEVjcGI0cUhyYUZOOS1PWm1DWDZGWEhaaEFuV0Y0cWRQb0M5MXZiOE1JRjJsbkM4a3hldmdSM2VjVlJnd1dJQVVmZVNyS2d2ekpvczhYSzA3NldxRVNlNkZnSVdmQmluMUh3OW1qclBWX2YxSVlzXzlJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUgxQ3hqZWZya1lta1NFX1ljdFdoNkR6Z1AwZzhIZ3RmOVRQWExET3Z4TWlqaTRZWnp5WkFldm1ET2ZrVXFtMHIyRU1lUTNrcjdLNTRkbjM2WXVCTDJObHhlbDBGeElCUEpDakpySWhpSm0walQ4ZnhPWFBkcFZIQ2NJSm9HTDZPV0JzN1U1Sk9PZU1uT0E2dlg4b3UzdTQ3OVExWmtDNUgzVXZudTg2YkFuemU5UGk0LTlxM2h4cw?oc=5",
           "type": "press"
         }
       ],
@@ -6689,7 +6719,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaE1xMXpIdnlzT1EwRmRaQjJYbVp3TmxTdmJ3enNHM1Z2M3p3QUZpNHo2V3FRaVBPdkpWeXdXSkxBelA4RzZnOEkza0p6SUg5SEhXNFZyMmNJb004R2hRV3FodVpWRnlpZHVkOWRTc1pneXVvckNpX2dEMHVrOThrUEZLdUxmd3YxN0k0NklWN2E2QWNKSkM3a01OX01vNkIxZXUydGp3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUdZQ2FaZlNFdFk4ai1IRmk5WkcxZE9GNVRiN09scDNleERRSEczVWU1VHYybFhzbXpmclU1NWZkOGgtRWZmdkgzc01sZWt1YVFrRGJxWjlGSEQzZ3lmdTVXUlVHN2otd2tyeTJwYk5zYUVMYlBmcmtuQ2VrdHctbC1wTmxHd1NVeUFSYTMtNFZ5X1hT?oc=5",
           "type": "press"
         }
       ],
@@ -9451,7 +9481,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjR0QktyNGZlVzBLbmtJekVkQ2hMbmNYMm16cmw3a3gzVVNueTItWVQyOVFoZEFDMnBvWmhKXzI1OUF6MzZhVmNiUjZZS3NBUmhONURha2FZSldVMm5tTDRBM25nODAwNkpocHZGTmlvNk1CY1hqaWdsLXBfN2lhQkhEb1JkYVd1cmUycERGQVZQdVpWV2F2OExKNnZaZmxvLVNxTjUxY3ZsWEZFNjlldEpLRGlTUkVHY0M2Zy1OQ3VPblJCNlU3WU1zOWVQLU0tSGZjcVY1ZkJoVWJCWlNFTzVYdjgweU1YOW9UMlJoMW0yNU1HS0laOFJseTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemsxak84THdacnJ5cVlWUW0wS3dnX1VnbXVYUXpVajViUWd2Z0xwYWlvWnJ0SGhxb0JadXNsV1JDa1Z4VkkyVEZ4VUtPX19yZFNITE1KY1ZMdmt2Ri1GcnNqNXRVckZhbFVCZENxME9tOWZXQkVQaVkzaFQ4eGdhZVFHUzBROWJnSG85ZmN1YThxcE5IMVdkSlQxTVBIbW9wMnpGRExiYW05LVViNGpTelVRRVpEaFRaMVJPeldZbGFxZjRRSy1CNC1fRDMwZThzaHF3V0pZUW00QmoxUm9iN0o2dDV2X2FUVUw4?oc=5",
           "type": "press"
         }
       ],
