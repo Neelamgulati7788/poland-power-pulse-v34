@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:55:25+00:00",
+  "updated": "2026-11-19T09:05:58+00:00",
   "signals": [
     {
       "id": "src-eaed2b69f82fbd0245",
@@ -96,27 +96,26 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Gdynia-based Searenergy Poland will carry out hook-up and commissioning of the offshore substations at Equinor and Polenergia's 1,440 MW Bałtyk 2 and Bałtyk 3 projects. The post Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms appeared first…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/searenergy-poland-to-handle-hook-up-and-commissioning-at-baltyk-2-and-baltyk-3-offshore-wind-farms/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUJpeTV1cUt3OTZTWVVfRFpvcVNZeTIzWWV6QzA4NFJmOWU2ZUpTWTRKdno5bFQwdktlRWR2S0QyZF9iRUt4Q0txbDByUVNSSkdlM3BMM3pTcDJQYW9ibDlJd1RmYU5uWlVGd1laV3hveWE0SWUwNEtuYkR4ZnM5dTdDejZycEdERWZETy1KVlZVb0w0RFBfNzI3NmpYMzlnY0lWS2hyaVVfMWdGcHB0UDREZlJhZHRrV3FKR0h3?oc=5",
           "type": "official"
         }
       ],
       "cos": [
-        "POLENERGIA",
-        "EQUINOR"
+        "ALL"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dc8e3ca8791a76a34c",
@@ -143,6 +142,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-da28474fdc8a0fa963",
+      "date": "2026-11-19",
+      "title": "Kompleksowa dostawa i montaż magazynów energii w Białymstoku (II)",
+      "title_pl": "Kompleksowa dostawa i montaż magazynów energii w Białymstoku (II)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Miasto Białystok",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df461c-3d6f-8150-34bd-c9000143ca06",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-d69fec1f41f5700622",
+      "date": "2026-11-19",
+      "title": "Fotowoltaika i uprawa roli na tej samej działce. Niemcy budują kompleks farm o mocy 100 MW",
+      "title_pl": "Fotowoltaika i uprawa roli na tej samej działce. Niemcy budują kompleks farm o mocy 100 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkRxelBIY19jdnpnZEVFelJudTFpbXZpMXVWU2FES0hOUnpka3VRWUY5NUZEaWxYQ1V3N29DaHhBZGt0b05xUVlwdDkzMkxWVUMxSVlNWGhYbzNaQU91UVpmWWZqX01GVWx2LXgyVFc3M1RPajdRQ01vQU50ZGkzMEF2V01yMUxPZ0UyaUpkY1FtX3YtU1UtS0lrQWpjNmF2UzVhT1FtdFdLdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -438,6 +495,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7e99495db0b5a6defc",
+      "date": "2026-11-19",
+      "title": "Strategiczny sojusznik Polski dogadał się z Rosją. Kurek z gazem odkręcony",
+      "title_pl": "Strategiczny sojusznik Polski dogadał się z Rosją. Kurek z gazem odkręcony",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGxyZWNmSWw3ei12X01EQmhwblBHc0k1QzZTYUxPb2dhXzdUdnhIWVRLamNnTENVSTkwVHdSWHUyZlFVMG9DR0JPSXV4WGJnOW5PUURpa0tHUlRhX01xT2FFSFZKVjh1R1dUVl9PT0M5MTRNcExWdUpXZ1NTZXlmV0QwZ0RSLTRHYjRvNWJhOVNHX0s1QUNyeFhZZ29ZM1hUbUVVSHlFcG5vS3hoNGl5QXoyQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-644c896f47718fc14d",
+      "date": "2026-11-19",
+      "title": "Dostawa energii elektrycznej dla obiektów gminnych i oświetlenia ulicznego na terenie Gminy Sułoszowa w 2027 roku",
+      "title_pl": "Dostawa energii elektrycznej dla obiektów gminnych i oświetlenia ulicznego na terenie Gminy Sułoszowa w 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA SUŁOSZOWA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df461c-2538-cc28-34bd-c9000143ca00",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-61e81c6065706ca141",
+      "date": "2026-11-19",
+      "title": "Tauron miał 1020 mln zł zysku netto, 1821 mln zł zysku EBITDA w III kw. 2026 r.",
+      "title_pl": "Tauron miał 1020 mln zł zysku netto, 1821 mln zł zysku EBITDA w III kw. 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVlzaVFkckFxWXZqMzRXQ3o2RmtaeWhxc1MyX3dHZ1ZvdVdGMG1KVlJocTJXcF8zMDlmWjh1TncyRUJieENoU1F5U0lrNFg0YzZ3eFhBQ2N2eG1tOTlNOW9ORUlDOUpNOFNkWmUwWnU3YVdJYzdGcDBJZ09kcVpmQXZqY2VrZEs3Q3ZnTG1sem5kZHJsVkJZQUhTVmNmUXg2ODlrekplOTBXMEN6OGRBVklfYXZfYlda?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-60ffe624b0c3d5be89",
       "date": "2026-11-19",
       "title": "Bloomberg: Orlen będzie się starać o nowy kontrakt na katarski LNG po anulowaniu poprzedniego",
@@ -645,6 +789,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-19bca3e3d0a29cdc45",
+      "date": "2026-11-19",
+      "title": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E dla Centrum Sportu i Rekreacji WODNIK Sp. z o.o. w Krotoszynie",
+      "title_pl": "Kompleksowa dostawa gazu ziemnego wysokometanowego typu E dla Centrum Sportu i Rekreacji WODNIK Sp. z o.o. w Krotoszynie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "CENTRUM SPORTU I REKREACJI WODNIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W KROTOSZYNIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df461c-2c35-b823-34bd-c9000143ca01",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-04bbb233f23de596e0",
       "date": "2026-11-19",
       "title": "Polska – Baterie – Dostawa komponentów systemu magazynowania energii elektrycznej na potrzeby realizacji projektu budowy magazynu energii elektrycznej MEE EEP na terenie Enea Elektrownia Połaniec Sp. z o.o.",
@@ -676,16 +849,16 @@
     {
       "id": "src-004dd21c6937878494",
       "date": "2026-11-19",
-      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm",
+      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds' BC-Wind offshore wind farm",
       "title_pl": "",
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Windar Polska will manufacture 26 complete steel towers in Poland for the SG 15-236 turbines at Ocean Winds' BC-Wind project, under an order from Siemens Gamesa. The post Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm appeared…",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/windar-polska-to-build-26-turbine-towers-in-poland-for-ocean-winds-bc-wind-offshore-wind-farm/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2I2TTk4Zm14a3JiOUtZazc3a3VxUGt1WFNJNmVmaDc3UWVZcXFDYnNDNWQ4WUV2SmRRYlJib0hmdUFGX296REgwQkU0dllPOE5qVENOTzMxR3RMTGNnd0FQQjUzR2lTQWtxMHNRaUptTFN6bjEyQmJqdkFyOGl6bjN0TVhPblAyNnZvZGRkSXZjdm1SVkhyeTVKaFZxQmhocE5jUW5HMFZuaGtfeDhzeDEwR3VTRFE?oc=5",
           "type": "official"
         }
       ],
@@ -693,14 +866,14 @@
         "OCEANWINDS"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-feaae16c6d7174981f",
@@ -843,6 +1016,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f57bb90954f29a075c",
+      "date": "2026-11-18",
+      "title": "LNG i dostawy gazu na Węgry. ORLEN podpisał porozumienie z MVM ONEnergy",
+      "title_pl": "LNG i dostawy gazu na Węgry. ORLEN podpisał porozumienie z MVM ONEnergy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYnJROEdnb1NPUU1CYTNubWhsMnZSTWNCX3E3MU5MVEoxRmFEeXM4OFd2SEtSbUI3YnJwZmhhTDJsMUdWMDAtSHQ2OHNRR3ljWXd4bnh5a3Q1OS1PdDM1N0pkXzhhdE5FRERQclhQeTMtbFJGVGtNanphdE0yOXJsVi1jVVRSdUdXYjJWYnNQNUxnZ0hoT1pRbWJIQXc4ajdtLVl6MXk0LUR2NFpHdHpOaGdpU2NrdWFOaHlXWmYySTRXMlNnNDVnbS04TEgySjNPSHJZeFJUV3A3WUhMX2phdnEwYUNhbER5dnNR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4592,6 +4794,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-2cdf2c249e4d310bd8",
+      "date": "2026-11-18",
+      "title": "SEBOR’27 – bezpieczeństwo systemu, rozwój sieci i przyszłość polskiej energetyki",
+      "title_pl": "SEBOR’27 – bezpieczeństwo systemu, rozwój sieci i przyszłość polskiej energetyki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHBqV05QRnlNeXRudHhVSC1kSHM5alNrRzBSVnVZdzZGckNaSTZINTdyQVBUQXFXUFloTHJyUG81WkUtbUE5ZDlQV2dWZkkzSFdXZEFkcHoxXzRyWDlONWZrRWtpdl8zUVgwMFpjcjdGOWNDb21kRzIzMU92TXA1V3BhUWtfeE9qNXFCQVQ5LThmcHgxa2FRaWNRWFYzbzJ1UW90Y1Q4VUJwNmtzbUFnSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-28b998b82d3605aec9",
       "date": "2026-11-18",
       "title": "Gaz-System: OGP z Polski, Czech, Słowacji i Węgier podpisali porozumienie o współpracy",
@@ -4913,6 +5144,36 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-16a63a2cf0f72eab51",
+      "date": "2026-11-18",
+      "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 listopada 2026 r. w sprawie elektronicznych wypisów i wyciągów z aktów notarialnych oraz innych elektronicznych dokumentów oraz trybu informowania o ewentualnych przerwach w dostępie do Centralnego Repozytorium Elektronicznych Wypisów Aktów Notarialnych",
+      "title_pl": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 listopada 2026 r. w sprawie elektronicznych wypisów i wyciągów z aktów notarialnych oraz innych elektronicznych dokumentów oraz trybu informowania o ewentualnych przerwach w dostępie do Centralnego Repozytorium Elektronicznych Wypisów Aktów Notarialnych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Sejm API & ELI (Dziennik Ustaw) — source",
+          "url": "https://eli.gov.pl/eli/DU/2026/1523/ogl",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Sejm API & ELI (Dziennik Ustaw)",
+      "publisherUrl": "https://api.sejm.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "5",
+        "7"
+      ],
+      "discoveryMethod": "eli",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-168e6aaa95e34e45c2",
@@ -5825,7 +6086,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemsxak84THdacnJ5cVlWUW0wS3dnX1VnbXVYUXpVajViUWd2Z0xwYWlvWnJ0SGhxb0JadXNsV1JDa1Z4VkkyVEZ4VUtPX19yZFNITE1KY1ZMdmt2Ri1GcnNqNXRVckZhbFVCZENxME9tOWZXQkVQaVkzaFQ4eGdhZVFHUzBROWJnSG85ZmN1YThxcE5IMVdkSlQxTVBIbW9wMnpGRExiYW05LVViNGpTelVRRVpEaFRaMVJPeldZbGFxZjRRSy1CNC1fRDMwZThzaHF3V0pZUW00QmoxUm9iN0o2dDV2X2FUVUw4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjR0QktyNGZlVzBLbmtJekVkQ2hMbmNYMm16cmw3a3gzVVNueTItWVQyOVFoZEFDMnBvWmhKXzI1OUF6MzZhVmNiUjZZS3NBUmhONURha2FZSldVMm5tTDRBM25nODAwNkpocHZGTmlvNk1CY1hqaWdsLXBfN2lhQkhEb1JkYVd1cmUycERGQVZQdVpWV2F2OExKNnZaZmxvLVNxTjUxY3ZsWEZFNjlldEpLRGlTUkVHY0M2Zy1OQ3VPblJCNlU3WU1zOWVQLU0tSGZjcVY1ZkJoVWJCWlNFTzVYdjgweU1YOW9UMlJoMW0yNU1HS0laOFJseTA?oc=5",
           "type": "press"
         }
       ],
