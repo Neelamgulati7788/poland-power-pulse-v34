@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:35:03+00:00",
+  "updated": "2026-11-19T13:55:03+00:00",
   "signals": [
     {
       "id": "src-fdb270100bb2b495c9",
@@ -58,6 +58,64 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f1791f0e479baf89c3",
+      "date": "2026-11-19",
+      "title": "Orlen podpisał porozumienie z funduszem Carlyle. Będą współpracować w inwestycjach energetycznych",
+      "title_pl": "Orlen podpisał porozumienie z funduszem Carlyle. Będą współpracować w inwestycjach energetycznych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1h2TEE1QVBCVkIxTXA2VUQwaDlvWnBfZklkeEp4SlRmNTBrNVRZRzNMSERBdV9UaGdYUkw4WU1kbVI4UWtrUDFCd2kzQkQwczFmaXI3bWpPM0NWTmNtSkVic2djQ2V0QVlQTHZVWWdnT1VXLTRxMjFzRVBwYVQ5UXUtYUU1WU9TMzdsVzFBRGNLR21KNjZNUWFFbWF6MlVyTFF5NWN3SDlCSXFuOGU3V2hpaUFJZk0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-efdef7d08e834f9c4a",
+      "date": "2026-11-19",
+      "title": "PEJ podpisały z konsorcjum Westinghouse-Bechtel list intencyjny w sprawie zamówień kluczowych elementów dla elektrowni jądrowej Lubiatowo-Kopalino – Polskie Elektrownie Jądrowe",
+      "title_pl": "PEJ podpisały z konsorcjum Westinghouse-Bechtel list intencyjny w sprawie zamówień kluczowych elementów dla elektrowni jądrowej Lubiatowo-Kopalino – Polskie Elektrownie Jądrowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTHFqei03Zm5rYXI5M2JDcG9yT0gwNUxOUjI4RFVsZnJ4cXpHN0tnTWZqdjRPSmZpSVp4aFJjS0ZuM0NBX3ZVRjVmTkRZeXh4RjJFZ18wRnhWOFRwbGdFbkctbHlvMGw3b1FEeGwyd09vTFpmNDlMV19vNXRqVlYtV0YwQm1BMElYNVlKQXExLVltT2dLRVIxcl9naGh3eFk5TGJnTmNhX3dpa0hoQzRvcEZnaWV4Tmc4d09IOGVkUHZZRTMtUG1SUFFDZ096SXBYYU1HenE4YmNHT0JKalJBTWQwejMxdkt4T2VjXzJaNU9RLVBpMFdvRUZreG51Vk5jMFJ6TWtqdGk3ZEFzb3NfVFFn?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-eaed2b69f82fbd0245",
@@ -174,6 +232,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-e0f93a150d4304ff59",
+      "date": "2026-11-19",
+      "title": "PSE i Enea Operator uruchomiły stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią",
+      "title_pl": "PSE i Enea Operator uruchomiły stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTRPTV80OUxBTFVvNXBTZTRGbE91NEhidjF2Uk5ualc0bk9hMzl3YWlqOG1xaUdhaUQ5bWZER3RkN2N4bVVKNUQ4Q1U2UDZXRTBRZmtRRTJhWFYtWTY3Q25OaG5WTGE0Ymc1SVVBOHJoWlYxQVIxa2w0N3lrNUtrQ2o5UXRNTF9TUkRzNS0wOXY0VlBCU2Njanl2RGJqbkxMUEJSaUJzWVRfQ2hfdFdIdkpUMl8xVGlUS1Z4bFZoTEhpc2hGaDNvbWh3QXhISW9vVGpud3I1bUluS0gzT2JzVzVRRGpwc2VjdjByR05MRzc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-def2660625506ae09d",
@@ -350,6 +437,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-cadf287ad2d67c5260",
+      "date": "2026-11-19",
+      "title": "(Młodsza_y) Ekspertka / Ekspert w Departamencie Audytu (Wydział Audytu Energetyka Kolejowa)",
+      "title_pl": "(Młodsza_y) Ekspertka / Ekspert w Departamencie Audytu (Wydział Audytu Energetyka Kolejowa)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3ZiT1RHdU9YRE5wbzhGVVdvT2txR3RsbzB4ZmgweExUM1ZWVzlDOFlWTzZEaWdtNnc1Uzkxa3ZmeGwzNzVRLUY1dTllbnpkcWZYdXJCd0JFWGwxbTlHa1djU1RqYXdZVWhEc3ktczk3bktFZHZvYUpPQ2FQR3paTEdhajVCNWJySXc3MVFteXNWbWE4a1FWckNVR2wwaVlKbmFXcFNyQ0xtRXFHZ2tWNkxuZ19zeS0tRE1GbHlUbkVoQXl5RnEtNFlvSQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c86ef9b7eab565bbe5",
       "date": "2026-11-19",
       "title": "Największy producent energii w Polsce oferuje tanie godziny. Czy skorzystają prosumenci?",
@@ -379,6 +495,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c766cc55a159dd61cf",
+      "date": "2026-11-19",
+      "title": "Minister Energii: w piątek litr benzyny 95 ma kosztować nie więcej niż 5,93 zł, benzyny 98 – 6,58 zł, a diesla - 7,45 zł. (PAP)",
+      "title_pl": "Minister Energii: w piątek litr benzyny 95 ma kosztować nie więcej niż 5,93 zł, benzyny 98 – 6,58 zł, a diesla - 7,45 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbEVRcXB6UE05a1h2OGFOYXZFb3NGbnR1RTdzc0FIZnFkekhCTDNIZE4wYVZ1eVQxdE9vUUxFcHFxcGlsMEU1N1hWWXRFM055MlJZaHYwdE8wRDNmZGtZRnVEcFhxbjJKMU9uN0pHaExicGNhV0hZMGk2UUtzWDd0MnVkdm9jZlhwbXRtRk9HZUlUUDdyTnRIM2c2SzJnTUQ4M3hPdGQ0WkRsaDdrd2FxSFdrV1pNU2xhZ0VTcTBWR0QweVpGeWhvSXVnbTJxN0ZhTE1zZk9YeGdaRi0zMTExNEZqdHdEQlY5WTFj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c6f324d14c3d1d6abc",
       "date": "2026-11-19",
       "title": "Polski atom kosztuje coraz więcej. Byli pracownicy PEJ ujawniają kulisy",
@@ -403,6 +548,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bf1bb0baf3408a2cb9",
+      "date": "2026-11-19",
+      "title": "PSE zakończyły budowę stacji elektroenergetycznej 400/220/110 kV za blisko 265 mln zł",
+      "title_pl": "PSE zakończyły budowę stacji elektroenergetycznej 400/220/110 kV za blisko 265 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFdfWjdCMWk5ZWQtYlJhelJTMGJWSFFLVlZ1eXh4QzhPM0RQS3NteW41RUtTbzBIRkp3RXNIaGpNcmJQYXBLLTQxbjBWNWxEVXFPZHNXTGFvYnRoNnNyUUFUMmh2bE5rcHB0WGNWUkd0eWsyTlFqTVdLYVdHLWplZVRHN0lWRHMwUmRXQVdvX3dDcXY4UDloOU1fcnZ5U2NSRk1tanlncVNKdTV3SXJ0X1B5MTVBalJhaVgwTk13OGtKUlpCalE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -844,6 +1018,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9f338cfc75c615e2f2",
+      "date": "2026-11-19",
+      "title": "Kolejny dzień obniżek przy dystrybutorach. Benzyna spada poniżej 6 zł",
+      "title_pl": "Kolejny dzień obniżek przy dystrybutorach. Benzyna spada poniżej 6 zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "W piątek 20 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,93 zł/l, dla benzyny Pb98 6,58 zł/l, a dla oleju napędowego 7,45 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Kolejny-dzien-obnizek-przy-dystrybutorach-Benzyna-spada-ponizej-6-zl-9231715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-9ccd9245417be52714",
       "date": "2026-11-19",
       "title": "Przebudowa kotłowni gazowej w budynku Zespołu Szkół im. W. Goetla w miejscowości Maków Podhalański",
@@ -989,6 +1192,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8a13edcac627734a27",
+      "date": "2026-11-19",
+      "title": "Orlen łączy siły z amerykańskim gigantem inwestycyjnym. Porozumienie z funduszem Carlyle",
+      "title_pl": "Orlen łączy siły z amerykańskim gigantem inwestycyjnym. Porozumienie z funduszem Carlyle",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnkySEY4ZW9jUF91X2gwaEFMT3E1THVSSUxEQUpBVHhsWHl4WjlVMEY3NGhDaEQxYXIyQm45Mm9xT3QzOW8xcjI3OXhXZ3paUlNDX0Fubk5kcGQ2Y3JPTFhndkp6b1EwZVk4SDJXV2RCcjMwajNZTXRtTU5LZ1NFN2pZTkUtTkxOMmdYWnRCaW56NXdzQ2xqT3FHQlhZb2xPRy1RWnRXcTRIeHJ2RlVtWXBsRG0yQzlVNmNVNW5EUTFoWEpESUcydUNB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-89e7593e5dabad9f85",
       "date": "2026-11-19",
       "title": "Polska – Aparaty do oceny wytrzymałości – Dostawa maszyny wytrzymałościowej o napędzie elektrycznym, dwukierunkowej o maksymalnej sile nie mniejszej niż 300 kN - KC-DE-zp.25.398.2026",
@@ -1059,6 +1291,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTZfcUJiT01QMk9NVmRRTWZvektram45RWFlOUloM3pSN0k0dU1XS3JkQkpsb3lUWk9yblM5MHJISkN1OE9zNUtsT1BKcUZLbTZiWE4tR0pqeHpSVk91RW9SX1BlOWpBS0ZuSm40R2tLZGFYV2dDT2NiQzZIR2FPNGhtRElrZnlhY3J3M1Rsd2p0TFUzYmJfQ2k4ZUdEYlpWMFJ6V1htVnVvTVk4MU5iV0s2YUNrUzYzc3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8742e597fd3ab88846",
+      "date": "2026-11-19",
+      "title": "ZPUE kontra były pracownik. To lekcja dla branży energetycznej",
+      "title_pl": "ZPUE kontra były pracownik. To lekcja dla branży energetycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHJmSzROazM3X3FBM2hTUnVkZXpVUjR0UEpKajIzdXY3eWZKNkdtdjF3b2VIbFJpWFBzWFkxa00zVkYzNnNlXzR2RFVaYzIwZW9WUW1meUFOSzJnRXN1dHd3WDF2OXVSbVR3Snp0SkRocDlZNGxhVWJnSVJrSk9wUkx4Sm5PcVhta290RHZwbWZNUzVzWk9GbVZjbTlkbHctTTBweU9CSkw?oc=5",
           "type": "press"
         }
       ],
@@ -1250,6 +1511,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-77eb8027c037a7cacc",
+      "date": "2026-11-19",
+      "title": "Orlen i amerykański fundusz Carlyle podpisały podczas P-TEC 2026 memorandum o współpracy w dziedzinie energii i inwestycji",
+      "title_pl": "Orlen i amerykański fundusz Carlyle podpisały podczas P-TEC 2026 memorandum o współpracy w dziedzinie energii i inwestycji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2pod3FpTkk1aXFxY2MzNlBZWFBac1FKSXhxNWJrQlViRTE5Z2ZOME9pb3A1aHZEV2ZUZkJlQjlROVg4R1NtVXV1UURmeU1TeGp6Wmt1MzBJaHdQX25kYklIaEVZVk1GcU9kTllqMzZ5Q2xBTGdMdFprVk1QNGpzQnJ2VW9YamtZRVhvSTk2aWNVSGlaa3pZNTBWamZaakh6M0RjbjFpamY2ckJTaHlINlpWUDRjOTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-76f8ca1a70f6038d49",
+      "date": "2026-11-19",
+      "title": "ORLEN partners with Carlyle and tech giants at P-TEC summit",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUo5b1ZENDRvd0FRRWM3WDhtc3VTQXNMU2J2LUtWa0JoRnZad3VraHd5SzQyUmd2RXdRYjFkS0ZrV2ZMdU1ZdGIzWG4wcXRjQkNLTWRjejB4VFVLVmplV3dZTTNsbWdCQkZfMEhGTzUzN21vVnFBQlVOQ2ZaeEJtekQxQnRWZkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-72b6cbf46ad2fbc749",
       "date": "2026-11-19",
       "title": "Tauron power expects capital expenditure to accelerate in Q4",
@@ -1274,6 +1593,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-64d21bb72604a2bfd5",
+      "date": "2026-11-19",
+      "title": "Sprytny plan Orlenu. Porzucił drogi kontrakt na gaz z Katarem i rozmawia o tańszym",
+      "title_pl": "Sprytny plan Orlenu. Porzucił drogi kontrakt na gaz z Katarem i rozmawia o tańszym",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcThKQVR4eXV1RkRYWm4zbXpNVlROMjRjcTI3TUVxTGVNdWJxZV9oNkItZEJQUlBXTVp0S21pNUVyMzhhVFZrenRobEFQZzRSR2UxdmFOMHE0MTlxRzVDQzBVaTk3Z2RhSllLQUJLTk1SU1UwYUlyWHEwMXd5Z0s2aktTSXhUNDlsX1BrdnN4cVNOemtYSzVITXB0azlwU3REWXNSNjR6TzUyT2t2SDJrNlBiYTh3OUZ1aFR0cg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1395,6 +1743,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-5df2749ae4368cbb91",
+      "date": "2026-11-19",
+      "title": "Sprzedawcy energii naliczą opłatę abonamentową. Prosumenci zapłacą więcej",
+      "title_pl": "Sprzedawcy energii naliczą opłatę abonamentową. Prosumenci zapłacą więcej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2xUeXJUTHdReTVCUjB6bGdjQkUtVlJyOGpFNnVwbE5RVC1kVHpNWTFBRWZxM2swVUNyaWFRWnZxUnM3TEpIbWlaRHJMSXBvenk3YXEzX2pPYmZFWnFXT3U4SDdFektZemtuQWJzSjVkbUtjOUxyMkVUc3p1UEdQX3RTOGVFMUgyRHpQMG5BVk9IVm5VclExdERiOUZlZVE3N0JMcGRLNk54c1hrdE9FR0ViSUpLMkNtVEhUT2l1Nm5Nd2FMOVpnU1paYmlDdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-5a86801baf511dd145",
       "date": "2026-11-19",
       "title": "Komunikaty ESPI dla APSENERGY[APE]",
@@ -1482,6 +1859,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-4f7ccb610554b4a895",
+      "date": "2026-11-19",
+      "title": "Młodsza Specjalistka/ Młodszy Specjalista w Dziale Przyłączeń (branża elektroenergetyczna) Umowa na Zastępstwo",
+      "title_pl": "Młodsza Specjalistka/ Młodszy Specjalista w Dziale Przyłączeń (branża elektroenergetyczna) Umowa na Zastępstwo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTQyZGczcXhUY1Ywa2p1MnN5WkI4U1Q2VnN4aEFyVEJCTlcwQktFZ1VMZFRzb2YwcWoyalIwa0ZkVWVBc3NhUE9Mb3prQUNqZGN0QlpSa3g0SnNqRDJiNmNLSGZ6amUtMFBiRUJ0cEJSRXBVN0UzdjRJTlJHY2tJVWYtWS1Dd0NWb19aSWVEdzFXcktnclZTREF0UGxYa3kwQXZmZ3djZ3ZtY2ZFbUF6dmdCa1V6dG1BM2U4NVFmTWliSG1pX1RtSldtWHp4cjlVbTE2QjN3dDc1NTZwTVhlbDFFVmJfOXhZ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-4b93167659f8b64b3c",
       "date": "2026-11-19",
       "title": "Za rok wejdzie nowa opłata dla użytkowników gazu. Duże podwyżki na rachunkach",
@@ -1535,6 +1941,35 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4952af0bb1e2c79dca",
+      "date": "2026-11-19",
+      "title": "Re: 08 12 2026 ORLEN jest właścicielem(...) - Forum",
+      "title_pl": "Re: 08 12 2026 ORLEN jest właścicielem(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzRkTGFTYzhzYVlBTlFYOEJCSmwtUUluWk1xekxXRVBfUUQtMFpqZlhfT0RYTFNUaS05bi1FUFNHTFZGT3RKZFc2dXZRbk5iOTRmQ195dEM4VzJqangzdkpYR3hJMDNydkJQZ0RVQy1ZY3hMSjBGWC1pcVFPaEhSQk9jZDRDTGJYSmw1NGUzaTA3ei1PRk5WN2FZUkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1834,6 +2269,64 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-2dca7b94835c748c78",
+      "date": "2026-11-19",
+      "title": "Sejm uchwalił nowelizację specustawy jądrowej",
+      "title_pl": "Sejm uchwalił nowelizację specustawy jądrowej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDV4Q1Etd1U5ZnoxXzhTUFpaUHVHcm54WnNDQXYxcEdmWGt0cmdCaDVNcy1STXlxVTIwN1l6eGMxaXB4bkl1N1ZFV2wyWkVxMkJiX3JNVGlUWFBuUGRHWnplU05vRmhLMlJpVlFrREJ2Ykd0NURxQnN4ZWxIOGg2MFNmTFNFZEJwWXhWQnhsbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2c8746170cfc298974",
+      "date": "2026-11-19",
+      "title": "i Enea Operator uruchomiły stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią - Aktualności - PSE",
+      "title_pl": "i Enea Operator uruchomiły stację elektroenergetyczną 400/220/110 kV Baczyna Systemowa wraz z powiązaniami z lokalną siecią - Aktualności - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUTk3azAzR29VOWdYekhpVWVTVEJhaG9SeF80MWlTb3pMMFRVWUxEbkFYTFVrWE1ZajNDeVFMQXFuX3lUSUxsbjZDMl9SaVFySVVVTmh0TkxWVUNiRklVMnlRUnNpSm5ibnh6OU4wVl85LWRuaVBYT080SHVDSFNhYXVudVVNRnNkcmFpUGNjcTBDQ2hRRTZHXzZ5TXBHMm9GcUEzOTVIMWc2ZlBwNWhLcHMwUXBNRUllQktVTEsxLUpmMHctQnZ2YlVhaGtmU0FyWTFZemxndW1UQktUMVdhQ3lDcENtcjJZQTl0ZHF3eVV5U1k5d3BtVGt2dWRJbExYVk9EY0c1WUpONkVGVzNFeGZKeERzOTVEMlVSdS16NG9LS0E4Vm5UcWpmOExxVGluYVRCa0JtOWZGWWY3cnRuUTl5bE5NU0d0S1lWN3NaQUtwQQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-254e2a809e3a806217",
       "date": "2026-11-19",
       "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
@@ -1916,6 +2409,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1bf515cd65ce933c68",
+      "date": "2026-11-19",
+      "title": "Tauron spodziewa się przyspieszenia nakładów inwestycyjnych w IV kwartale",
+      "title_pl": "Tauron spodziewa się przyspieszenia nakładów inwestycyjnych w IV kwartale",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1hwWHBCdHFWemRMVnd2b0xoLTRDQXRMY19kWDllT1pZMHh5aG5OM1EwRHF4dk1EeUF4U2lrNkhNNTFTQTBKSjdUdmY5Q2o3WFlKcGdwVkJXdEtTSkp6ZE1Db25iTXJIVXBOeWNzSWJNblpDcTRCX0FOdHU1ODhCMkt1TWNfcW5pTWI5VlRIMXd3MndkMzlSNVM2UmZrajFwUjc3VHNieVVtNWtRWk9RWFNlZGs1NjQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
