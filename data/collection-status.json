@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-11-20T11:05:37+00:00",
-  "lastSuccessfulCollectionAt": "2026-11-20T11:05:37+00:00",
+  "checkedAt": "2026-11-20T12:01:39+00:00",
+  "lastSuccessfulCollectionAt": "2026-11-20T12:01:39+00:00",
   "status": "partial",
-  "successfulSources": 71,
+  "successfulSources": 56,
   "totalSources": 72,
   "requestedWorkbookSources": 71,
-  "newItems": 5,
-  "retainedItems": 3371,
+  "newItems": 9,
+  "retainedItems": 3379,
   "retentionDropped": 0,
   "relevanceRemoved": 0,
   "latestPublicationDate": "2026-11-20",
-  "polishOriginals": 3081,
+  "polishOriginals": 3088,
   "sources": [
     {
       "id": "1",
@@ -35,8 +35,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -45,24 +45,21 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://www.gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpremier%2Fwykaz-prac-legislacyjnych-i-programowych-rady-ministrow%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/premier/wykaz-prac-legislacyjnych-i-programowych-rady-ministrow)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -82,7 +79,7 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 9,
+          "entriesRead": 10,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
@@ -100,8 +97,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -110,24 +107,21 @@
       "group": "Government & legislation",
       "language": "PL",
       "url": "https://www.gov.pl/web/aktywa-panstwowe",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Faktywa-panstwowe%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gov.pl/web/aktywa-panstwowe)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -154,8 +148,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -192,8 +186,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -219,8 +213,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -247,18 +241,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ure.gov.pl OR site:bip.ure.gov.pl) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -285,18 +275,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:gov.pl/web/paa) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -322,8 +308,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -349,8 +335,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -369,15 +355,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 100,
+          "entriesRead": 45,
           "matched": 0,
           "coverage": "indexed_discovery",
-          "limited": true,
+          "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -402,8 +388,8 @@
           "note": "Market-data endpoint checked. This row is not a headline source; PSE news is monitored separately."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -429,8 +415,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -467,8 +453,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -479,23 +465,23 @@
       "url": "https://pgedystrybucja.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 0,
-      "latestPublicationDate": null,
+      "matched": 1,
+      "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "google",
           "url": "https://news.google.com/rss/search?q=%28site%3Apgedystrybucja.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
+          "entriesRead": 4,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -521,8 +507,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -533,7 +519,7 @@
       "url": "https://www.wnp.pl/energia/",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 8,
+      "matched": 7,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -542,14 +528,14 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 8,
+          "matched": 7,
           "coverage": "indexed_discovery",
           "limited": true,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -559,8 +545,8 @@
       "language": "PL",
       "url": "https://wysokienapiecie.pl",
       "status": "success",
-      "coverage": "direct_and_indexed",
-      "matched": 22,
+      "coverage": "direct",
+      "matched": 3,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -575,18 +561,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Awysokienapiecie.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:wysokienapiecie.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 35,
-          "matched": 19,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -597,7 +579,7 @@
       "url": "https://energetyka24.com",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 24,
+      "matched": 25,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -605,15 +587,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aenergetyka24.com%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 65,
-          "matched": 24,
+          "entriesRead": 66,
+          "matched": 25,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -649,8 +631,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -661,7 +643,7 @@
       "url": "https://www.gramwzielone.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 30,
+      "matched": 31,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -669,15 +651,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 46,
-          "matched": 30,
+          "entriesRead": 47,
+          "matched": 31,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -686,24 +668,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://www.cire.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 27,
-      "latestPublicationDate": "2026-11-20",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Acire.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:cire.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 65,
-          "matched": 29,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -713,24 +692,21 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://energia.rp.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 4,
-      "latestPublicationDate": "2026-11-20",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergia.rp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:energia.rp.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 15,
-          "matched": 4,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -742,7 +718,7 @@
       "url": "https://biznes.pap.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 5,
+      "matched": 6,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -751,25 +727,21 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 5,
+          "matched": 6,
           "coverage": "indexed_discovery",
           "limited": true,
           "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:biznes.pap.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 2,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -795,8 +767,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -807,7 +779,7 @@
       "url": "https://www.bankier.pl",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 4,
+      "matched": 5,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -815,8 +787,8 @@
           "url": "https://www.bankier.pl/rss/wiadomosci.xml",
           "language": "PL",
           "status": "success",
-          "entriesRead": 50,
-          "matched": 1,
+          "entriesRead": 54,
+          "matched": 2,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
@@ -826,14 +798,14 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 3,
+          "matched": 4,
           "coverage": "indexed_discovery",
           "limited": true,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -842,24 +814,21 @@
       "group": "Polish business press",
       "language": "PL",
       "url": "https://www.isbnews.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aisbnews.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:isbnews.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -869,24 +838,21 @@
       "group": "Polish business press",
       "language": "EN",
       "url": "https://www.polskieradio.pl/395",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:polskieradio.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -923,8 +889,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -933,24 +899,21 @@
       "group": "International media",
       "language": "EN",
       "url": "https://www.reuters.com/business/energy/",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 3,
-      "latestPublicationDate": "2026-11-19",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Areuters.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:reuters.com (Poland OR Polish)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 100,
-          "matched": 3,
-          "coverage": "indexed_discovery",
-          "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -970,7 +933,7 @@
           "url": "https://www.world-nuclear-news.org/rss",
           "language": "EN",
           "status": "success",
-          "entriesRead": 52,
+          "entriesRead": 49,
           "matched": 1,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
@@ -987,8 +950,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1007,15 +970,15 @@
           "url": "https://news.google.com/rss/search?q=site%3Arenewablesnow.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 89,
+          "entriesRead": 93,
           "matched": 2,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1041,8 +1004,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1053,8 +1016,8 @@
       "url": "https://ceenergynews.com",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 5,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 6,
+      "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "rss",
@@ -1068,15 +1031,15 @@
           "url": "https://news.google.com/rss/search?q=site%3Aceenergynews.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 18,
-          "matched": 5,
+          "entriesRead": 19,
+          "matched": 6,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1112,8 +1075,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1149,8 +1112,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1160,7 +1123,7 @@
       "language": "EN",
       "url": "https://www.energy-storage.news",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1176,18 +1139,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:energy-storage.news) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 8,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1197,7 +1156,7 @@
       "language": "EN",
       "url": "https://www.pv-magazine.com",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
@@ -1213,18 +1172,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apv-magazine.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:pv-magazine.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1247,7 +1202,7 @@
         }
       ],
       "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T03:24:50+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1257,24 +1212,21 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://www.eib.org/en/press/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aeib.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:eib.org) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 6,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1284,24 +1236,21 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://www.exim.gov/news",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aexim.gov%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:exim.gov) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1328,8 +1277,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1355,8 +1304,8 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1367,8 +1316,8 @@
       "url": "https://ezamowienia.gov.pl",
       "status": "success",
       "coverage": "direct",
-      "matched": 1,
-      "latestPublicationDate": "2026-11-20",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "bzp",
@@ -1376,14 +1325,14 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 10,
-          "matched": 1,
+          "matched": 0,
           "coverage": "api_metadata",
           "limited": false,
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1409,8 +1358,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1437,18 +1386,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:forum-energii.eu) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1467,15 +1412,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 48,
+          "entriesRead": 47,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1484,35 +1429,28 @@
       "group": "Company disclosures (ESPI)",
       "language": "PL/EN",
       "url": "https://www.gpw.pl/komunikaty",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 6,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:biznes.pap.pl/espi OR site:gpw.pl/komunikaty)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests; HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1522,35 +1460,28 @@
       "group": "Company disclosures",
       "language": "PL/EN",
       "url": "https://www.gkpge.pl/en/for-investors/current-reports",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-11-19",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:gkpge.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 8,
-          "matched": 2,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:gkpge.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests; HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1578,18 +1509,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ir.enea.pl OR site:media.enea.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1598,24 +1525,21 @@
       "group": "Company disclosures",
       "language": "PL",
       "url": "https://media.energa.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 1,
-      "latestPublicationDate": "2026-11-20",
+      "status": "error",
+      "coverage": "unavailable",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.energa.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:media.energa.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 1,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -1627,7 +1551,7 @@
       "url": "https://www.orlen.pl/en/about-the-company/media/press-releases",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 7,
+      "matched": 6,
       "latestPublicationDate": "2026-11-19",
       "routes": [
         {
@@ -1635,26 +1559,22 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 34,
-          "matched": 16,
+          "entriesRead": 33,
+          "matched": 15,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:orlen.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 3,
-          "matched": 1,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1680,8 +1600,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1708,18 +1628,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:ri.zepak.com.pl)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1756,8 +1672,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1794,8 +1710,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1814,15 +1730,15 @@
           "url": "https://news.google.com/rss/search?q=%28site%3Afortum.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 1,
+          "entriesRead": 0,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1848,8 +1764,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1876,18 +1792,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:pl.rwe.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1913,8 +1825,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1940,8 +1852,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1967,8 +1879,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -1995,18 +1907,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:shell.pl) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -2032,8 +1940,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -2042,24 +1950,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.oceanwinds.com",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aoceanwinds.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:oceanwinds.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -2097,8 +2002,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -2114,14 +2019,10 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:dalkiapolska.com) (Poland OR Polish OR Polska)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "method": "google",
@@ -2135,8 +2036,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -2162,8 +2063,8 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     },
     {
@@ -2172,24 +2073,21 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://www.vitol.com/media/",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Avitol.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "(site:vitol.com) (Poland OR Polish OR Polska)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -2199,24 +2097,21 @@
       "group": "International peers in Poland",
       "language": "PL",
       "url": "https://centrumprasowe.veolia.pl",
-      "status": "success",
-      "coverage": "indexed_discovery",
+      "status": "error",
+      "coverage": "unavailable",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Acentrumprasowe.veolia.pl+OR+site%3Aveolia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "(site:centrumprasowe.veolia.pl OR site:veolia.pl)",
           "language": "PL",
-          "status": "success",
-          "entriesRead": 0,
-          "matched": 0,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
+      "error": "HTTP Error 429: Too Many Requests",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
       "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
       "windowStart": "2026-11-18"
     },
@@ -2227,7 +2122,7 @@
       "language": "EN",
       "url": "https://balticwind.eu/",
       "status": "success",
-      "coverage": "direct_and_indexed",
+      "coverage": "direct",
       "matched": 3,
       "latestPublicationDate": "2026-11-19",
       "routes": [
@@ -2243,18 +2138,14 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Abalticwind.eu+%28Poland+OR+Polish+OR+PGE+OR+Baltica+OR+Ba%C5%82tyk%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "site:balticwind.eu (Poland OR Polish OR PGE OR Baltica OR Bałtyk)",
           "language": "EN",
-          "status": "success",
-          "entriesRead": 10,
-          "matched": 2,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
+          "status": "error",
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ],
-      "checkedAt": "2026-11-20T11:05:37+00:00",
-      "lastSuccessfulCheckAt": "2026-11-20T11:05:37+00:00",
+      "checkedAt": "2026-11-20T12:01:39+00:00",
+      "lastSuccessfulCheckAt": "2026-11-20T12:01:39+00:00",
       "windowStart": "2026-11-18"
     }
   ],

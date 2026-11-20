@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:05:37+00:00",
+  "updated": "2026-11-20T12:01:39+00:00",
   "signals": [
     {
       "id": "src-ead68adedc890f3d9a",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-e52b407ede1744a51a",
+      "date": "2026-11-20",
+      "title": "XVII Targi ENERGETICS w Lublinie za nami",
+      "title_pl": "XVII Targi ENERGETICS w Lublinie za nami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PGE Dystrybucja — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORG1rc1JmdmQ0ekg2VjBPeGNsc0ZOaVF5c1dBcUctdDBlbi0xSTVUTG52T0tiUXBBbzBKT0h6S1VNSWVPRVFKNzdoRFVWcFF6ZE1BUTRlTy1oYlc5eG0tUXVDREdfQ0xqNV9fOGZiTmc3a1ZmTU1DZm52YUpaWVlpNDZFZ1ZOVG5mQllSdjBpOEY?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PGE Dystrybucja",
+      "publisherUrl": "https://pgedystrybucja.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "16"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-e1b028c37b9a3269b0",
       "date": "2026-11-20",
       "title": "Grudzień ma być deszczowy i w miarę ciepły,to efekt ElNinio",
@@ -84,6 +113,64 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c63220e0fba829c645",
+      "date": "2026-11-20",
+      "title": "Fortum bliżej dekarbonizacji w Polsce. W miesiąc biomasa zastąpiła ponad 7 tys. ton węgla",
+      "title_pl": "Fortum bliżej dekarbonizacji w Polsce. W miesiąc biomasa zastąpiła ponad 7 tys. ton węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHNvVF9HOTYxRm1UeWVfaks1aV9UaHpteWxkSm5TbW5UOERNMFJyZGd5dU1jQTU1bDYyeXNkN2pob0l6Y3JvNVlmSlhfWUJyR0g5ZmR5bVVURkw2SXhkODItTk1VSGxKeUFrelhtbjhnaVRfb1duS0JHa2xmdWdCT0R6NFkwc1BYNWpOZjU5SEZjejJHWWkxbFpHUjNjaFB0LUhEcnV0QkpJbUFKb0paVW5DZlV6LXlXRE5paFRVeEc4VUhjNWF5YzROb2lMMS15cDNV?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "FORTUM"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c4a864a412cd451932",
+      "date": "2026-11-20",
+      "title": "Poland launches 224 million euro program for thermal energy storage",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40ZEdCT0xFVDlPdnl0MDEtM0Yxd3JfRFE2UWhRTEdtT2QxVTJqaEFJaU5TS0pQOC1aNUhxTkpvTi14RTdnaTEtUTFzRjFsZ01Db3k0X1BDZlk5eU9iTlk4a3lhX09RdEdkN1FyR0FJN3ZnNHJGdlg2Yk1UNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -170,7 +257,8 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
-        "25"
+        "25",
+        "27"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -229,6 +317,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a58a101c548949c179",
+      "date": "2026-11-20",
+      "title": "Dania przedłuża dopłaty do pomp ciepła i chce szybciej pożegnać kotły gazowe",
+      "title_pl": "Dania przedłuża dopłaty do pomp ciepła i chce szybciej pożegnać kotły gazowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNE45bGdLZldOZGg3WWZ4UkJtZHBIc3RuTFdFS2tta212ejdhUTRRWXNpaEVUaDJfZzBDckphLWQ5clUteGlsZjBJMi00WkVINWNPbU1aT3p3cFd6T2VSZS1tc05KVkE4c1hRaUUwQmxWb3AzRXhhVVlFSUp3aTNZRmR4RGJrZWhCeHBLNkJndThPTjZkTGViVXZCcjFrQVdQVWxJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -522,6 +639,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-779078a90e30cfba70",
+      "date": "2026-11-20",
+      "title": "Ciepło luksusem dla prawie 5 mln Niemców. Zaskakujące dane z Europy",
+      "title_pl": "Ciepło luksusem dla prawie 5 mln Niemców. Zaskakujące dane z Europy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEhYc2VIaTBKTTR0Y0tva3Q3RF83QWptNldkTmozYzJGRXliUkhnVW5FLTBjVzljcEpKR1dsSVk4T1lQbzFzR0Q4cDVNWXRtRTFxaXNRSzVGSVV6RkI4TUtBN2lNbXdoZk1sazV6SC1la2xoZE1CejBZZnVWX2tMMS03RFNoYUVsVDF1NFk0N1Z0bDUtMk16dG8zUjZHZE1NNWVzZUk1ZW9SQVphUkVGRm9B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-73fb68d651f12b08e4",
@@ -959,6 +1105,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-111ec5af9872253665",
+      "date": "2026-11-20",
+      "title": "Re: Transakcja z orlenem nawet w tym miesiącu...",
+      "title_pl": "Re: Transakcja z orlenem nawet w tym miesiącu...",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDBOdlhCM2JUclVidENtcnYyYTJiZ2RzRkk0bWxpWnY5Tjl4bHlJcDdxQkRDQVcwcnUtS1dvM25qMVlmb0NreDJPanR1R1doSjBYaHEwQmtVcndGbm9RbGFQNU5DMkRacGpIbWp5NzMwbzR5VFlEUUxyYmtXTkYtMkE4bFNwZ1BSczZnQUlIVW0wNkNteGFFZQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0e13e8c4db6fd29bc6",
       "date": "2026-11-20",
       "title": "Elektrownia PV o mocy 90 MW z wyjątkowo krótkim przyłączem",
@@ -983,6 +1158,64 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0ba1f5d7ffc496fdbb",
+      "date": "2026-11-20",
+      "title": "Dyrektor inwestycyjny ORLEN VC na kongresie Polska Moc Biznesu: już za kilka lat nasze startupy będą gotowe konkurować na globalnym rynku przejęć (MediaRoom) | Biznes PAP",
+      "title_pl": "Dyrektor inwestycyjny ORLEN VC na kongresie Polska Moc Biznesu: już za kilka lat nasze startupy będą gotowe konkurować na globalnym rynku przejęć (MediaRoom) | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTQ2dEUzYlhmYWE3M002OXhzVElrVUhpejhGVTNtcURsbFlQV1lBR0VkZzRrR2hjWXotejIzR243Q3ZIUk9yUkNXekE4MDJHeFlabTQ3TDcxQ0hna0hnLTQwUVJJakdFTFlyT004TXN3bU9sMEJjZFE1aW50UHczRTJwSzJaa182ZWlCY2FvWDVXYXJ0bWlWd2FQNXpKN25pMlQxeG41UTZHdzc2Q28yQnhXWWdwNS1MNThaaw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-005561c96e7f2cfedd",
+      "date": "2026-11-20",
+      "title": "Duże ceny, małe zapasy. Niepewności na rynku gazu",
+      "title_pl": "Duże ceny, małe zapasy. Niepewności na rynku gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa01IT3JIMzlLLThNbWppY24zRTVUVnpKalRvVXl6aUk5bDB1R1I5OTd4RUppaHVPa1dNZkdaSVFDSmxDc1hXT05ZYXhFd2x5cFYxdlg3WlM0LWFKczdnb3ZCX1BZRUxvYTlmQmJ0ajMzYk8wSnJtQ0lDc2Zzc2RPek5fRS00Q1JJbUIzVg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1372,26 +1605,27 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Gdynia-based Searenergy Poland will carry out hook-up and commissioning of the offshore substations at Equinor and Polenergia's 1,440 MW Bałtyk 2 and Bałtyk 3 projects. The post Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms appeared first…",
       "links": [
         {
-          "label": "Baltic Wind — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUJpeTV1cUt3OTZTWVVfRFpvcVNZeTIzWWV6QzA4NFJmOWU2ZUpTWTRKdno5bFQwdktlRWR2S0QyZF9iRUt4Q0txbDByUVNSSkdlM3BMM3pTcDJQYW9ibDlJd1RmYU5uWlVGd1laV3hveWE0SWUwNEtuYkR4ZnM5dTdDejZycEdERWZETy1KVlZVb0w0RFBfNzI3NmpYMzlnY0lWS2hyaVVfMWdGcHB0UDREZlJhZHRrV3FKR0h3?oc=5",
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/searenergy-poland-to-handle-hook-up-and-commissioning-at-baltyk-2-and-baltyk-3-offshore-wind-farms/",
           "type": "official"
         }
       ],
       "cos": [
-        "ALL"
+        "POLENERGIA",
+        "EQUINOR"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu",
+      "publisherUrl": "https://balticwind.eu/",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-dc8e3ca8791a76a34c",
@@ -5201,16 +5435,16 @@
     {
       "id": "src-004dd21c6937878494",
       "date": "2026-11-19",
-      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds' BC-Wind offshore wind farm",
+      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm",
       "title_pl": "",
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "Windar Polska will manufacture 26 complete steel towers in Poland for the SG 15-236 turbines at Ocean Winds' BC-Wind project, under an order from Siemens Gamesa. The post Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm appeared…",
       "links": [
         {
-          "label": "Baltic Wind — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2I2TTk4Zm14a3JiOUtZazc3a3VxUGt1WFNJNmVmaDc3UWVZcXFDYnNDNWQ4WUV2SmRRYlJib0hmdUFGX296REgwQkU0dllPOE5qVENOTzMxR3RMTGNnd0FQQjUzR2lTQWtxMHNRaUptTFN6bjEyQmJqdkFyOGl6bjN0TVhPblAyNnZvZGRkSXZjdm1SVkhyeTVKaFZxQmhocE5jUW5HMFZuaGtfeDhzeDEwR3VTRFE?oc=5",
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/windar-polska-to-build-26-turbine-towers-in-poland-for-ocean-winds-bc-wind-offshore-wind-farm/",
           "type": "official"
         }
       ],
@@ -5218,14 +5452,14 @@
         "OCEANWINDS"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu",
+      "publisherUrl": "https://balticwind.eu/",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-00195b0f63d5cc5313",
