@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:49:55+00:00",
+  "updated": "2026-11-20T23:49:44+00:00",
   "signals": [
     {
       "id": "src-fce443d030222b200e",
@@ -2554,6 +2554,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0def10228b0439c91b",
+      "date": "2026-11-20",
+      "title": "‘’ Odnawialne źródła energii w Klastrze Energii Powiatu Myszkowskiego „ na terenie Gminy Niegowa – BUP",
+      "title_pl": "‘’ Odnawialne źródła energii w Klastrze Energii Powiatu Myszkowskiego „ na terenie Gminy Niegowa – BUP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "GMINA NIEGOWA",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df475d-a84d-4270-7343-eb000163b869",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-0ba1f5d7ffc496fdbb",
@@ -11920,7 +11949,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU080QnBoeDc2ZlpRMnNhM1lPQnp0SlIyRmctY2RxY0NtYVIxYm54bkhObjZrc3BycUtENFVVcC0wNDM3OU5raE5WNHQwOTFuNUNUZlExRG9BWjdtM21jMHcyVGVnTEdqZDF3bk5EcTBxOGljdkpDeHdjVDEwbWQ3QmV6MjllZk5YUV93OVFTNDV1NWRwOFJBU0NFSnd2d29COTc0cEd5Q0V4RFo1U1Fn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmQ3dHdZMVVmYjhSUTY2ems3X1BVRFVWcGZiUVNfcXFHMWFhMmxaRVpQNEtxSF83VTZ1Qk5VcDN3UzhBZ0tpZGZQaHVRWmpLQ214YWd4SU1TaDhoa0dBUEEtbXZ5UE5TbmJIenZ1aXNIWGtqeldiMEVtQWVKcDBUZjI5NzZiMUJZM3NDMW5PX3AtRnFhLVNwSGxTelRhT0JFdnIzS3diMENwdnVaMVlMeDNWenVkclZCSDkzRjJnTXphUEpHT2NuSmdR?oc=5",
           "type": "press"
         }
       ],
@@ -11928,7 +11957,7 @@
         "TAURON"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zmiany-kadrowe-na-rynku.cire.pl",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
