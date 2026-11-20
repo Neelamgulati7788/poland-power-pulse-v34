@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:32:11+00:00",
+  "updated": "2026-11-20T17:32:50+00:00",
   "signals": [
     {
       "id": "src-fce443d030222b200e",
@@ -200,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e084bd9fd6e071b201",
+      "date": "2026-11-20",
+      "title": "Noble Securities podwyższył wycenę akcji PGE do 13,88 zł; rekomendację obniżył do \"redukuj\"",
+      "title_pl": "Noble Securities podwyższył wycenę akcji PGE do 13,88 zł; rekomendację obniżył do \"redukuj\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaUF3MER3TkJ1NjVUa2hGSmZhdW9lSHV5Wlg5cFJmNVVWZ3BOQi1BbTZfN0FLWHJnTmhwb3M4RUJaU2xHamZld3YtdTUtNGdRWE4xTmxzMGNKMWZXUW1ySHVKMEREMHV2YUF0NUhfcXgxQ0NsNDRrUlJpTXM0anJJWG10alE2a2xOWUZFRWY5MllnRC1GTDRkelNmdVdNVHVDZEsxUEVLaTNaYnVzemt5TWtZXzlPSG4xZHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1395,6 +1424,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-6ef251340f04de28d6",
+      "date": "2026-11-20",
+      "title": "Miliardowe IPO Ponaru, giełdowe plany Frisco, oferta Gaz-Systemu dla Orlenu (Najważniejsze informacje dnia)",
+      "title_pl": "Miliardowe IPO Ponaru, giełdowe plany Frisco, oferta Gaz-Systemu dla Orlenu (Najważniejsze informacje dnia)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU9TYXhKOWJwUjBTUlRfNVNqZVV2RlRLRXZaZk8zb2hLazdtTFZObnhTV0hXMXh2ZmpzVERsMkFUMWh0NWtZTDk2a1JRMURRSGhrSkM1SURaSDFucDhZV1JRSEZYS2J5RUlCTWFaQjJ6dmg5MnJPWHNzUFMzeWIwOHByUkZKeW5fQnpFTTZDR1JydGcyZU5hWm5CYmFVZGV4Z0w4bGJhejY3WUdraHlfbGJuVHYyVTI4NWZCUUk5SHZlemROS0ZKZFVKUHlsVTV2TzFV?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6cecb83a2f64a22bc5",
       "date": "2026-11-20",
       "title": "dostawa wraz z dystrybucją gazu ziemnego wysokometanowego E PN-C-04750 dostarczanego do obiektów Milickiego Centrum Medycznego - powtórzenie Sp. z o.o. w Miliczu na rok 2027",
@@ -1743,6 +1801,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-320458d9b2671917ad",
+      "date": "2026-11-20",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZTk2VDJsOU42TTl2cENUSVNGaXlyRk9WV2g1bFZUcjA2cFprc284UDE4YlBxaWtzY0xQcmNoVDZmUnU5dmcySUdLRUU4ZUhOcmFkVExPcU5Tanl0QzVWb0pKYWhRQ3VVRTlYZUIxSktDOUt3S08tNFMxWjZLSkduMFR1LUJVaDE0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-314cab560e513af0b5",
       "date": "2026-11-20",
       "title": "Sejm uchwalił nowelizację ustawy o osłonach socjalnych dla pracowników elektrowni i kopalni węgla brunatnego",
@@ -1883,6 +1970,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-212e6cc1c91194a7d0",
+      "date": "2026-11-20",
+      "title": "Fortum realizuje w swoich polskich jednostkach program odejścia od węgla",
+      "title_pl": "Fortum realizuje w swoich polskich jednostkach program odejścia od węgla",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPckVONWRBOWpCUjBiVi1RTXlCRWhXTFF2NWdQOUp6X0JiSkREaHFZdDFWTUZTeFFXdnZyYl85YkpFbUlhYjE5OERDa3JUbm4yQzdoNEE2RUloTlZwVk1HdHlqNVV5SVFGakVDMTRsRXE3OTR5Zm82NnlIR0VCS2ZNekpjQlUzeFJxUnJUWWZzMVJsLW9yNW5ELVJ4b2I0VXh0SHRoX3JuanR6X0d6VzIyYjhVaEZBakhRLWdDSnpoeHhNbkN2cy1jczFKRDBwaFVPbG85RA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "FORTUM"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://rynek-ciepla.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -5609,11 +5725,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Poland has sought to position itself as a regional gas hub.",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Notes From Poland — source",
-          "url": "https://notesfrompoland.com/2026/11/19/poland-deepens-regional-gas-cooperation-hungary-czech-republic-slovakia-and-lithuania/",
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNei1feHFWbVJkVERTaXNwRF9OaHlqZnlGalJEYkpzdFVTaFRmNkNrMk96X2JGRkFNd0Q0VzhmUHF6MUkzRG45c3NYZXotdGh2R0xOSUlTZE9vd1BUOVJrR3llT2tjRE1NZGp0WG9MWVMzQ3FfNC1MN2V3UFh2SU5oMlZYendMMHV0ellBTi1NanZuRkU2U3kxSGVhX3BLRFphOVlwX1ZKYmd3SUFHbHE5TTVneF9nUThTQ2J6MVRpMHVaUlE?oc=5",
           "type": "press"
         }
       ],
@@ -5627,8 +5743,8 @@
       "sourceIds": [
         "30"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-34782680d69ef83800",
