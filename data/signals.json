@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:31:52+00:00",
+  "updated": "2026-11-20T15:31:42+00:00",
   "signals": [
     {
       "id": "src-fce443d030222b200e",
@@ -495,6 +495,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c297d9f7fd9a0c3bf1",
+      "date": "2026-11-20",
+      "title": "Modernizacja budynków w zakresie instalacji elektrycznych z podziałem na części",
+      "title_pl": "Modernizacja budynków w zakresie instalacji elektrycznych z podziałem na części",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "ZARZĄD KOMUNALNYCH ZASOBÓW LOKALOWYCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df471a-4f02-b21c-7343-eb000163b78e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-c068222e94b9eeb402",
       "date": "2026-11-20",
       "title": "Dokąd zmierza polska energetyka? Marcin Popkiewicz odpowie na Wasze pytania",
@@ -694,6 +723,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a9847c4bfa45a19b6c",
+      "date": "2026-11-20",
+      "title": "ORLEN Partnerem Głównym 92. Plebiscytu Przeglądu Sportowego na Najlepszego Sportowca Polski 2026 Roku",
+      "title_pl": "ORLEN Partnerem Głównym 92. Plebiscytu Przeglądu Sportowego na Najlepszego Sportowca Polski 2026 Roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbF9TSEdlaGFNdmVCbEZBaFBlOVA0ODNvZEdKa01lYlhRaDhVQmpjRk5GS0VFZ2RXZmpEU29EOWJTWXVFWkZrUFo2YXBrLVhRQkNDRE5uR2E2T3JRRVFIR25VUGtSX09yWnJFd3VoSklYMV9BZzVPX2RsZF9Zc2tON3dLUDRVOW1VUDVjY0RWbTB2YXlZQVVTTmc5SDZQbkcwZGNMYm9kWFhuVFM1STdOYmxaNndzaERGZEhGUzliaEtidGQ1Z09RUktMSHk5eFJ3dVg1dEhoRFdwTzRYcDROWGJVT0NoUXVFSGxRYWFhaUZtLUNyVmVnSHU5SFRFWmlD?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -938,11 +996,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Batteries providing automatic frequency restoration reserve in Poland must take at least 2.5 minutes to reach full output from Dec. 1, after grid operator PSE rejected storage industry objections, though looser control-system rules will ease entry for smaller providers. The post Poland caps how fast…",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "ESS News — source",
-          "url": "https://www.ess-news.com/2026/11/20/poland-caps-how-fast-batteries-can-ramp-in-its-secondary-reserve-market/",
+          "label": "ESS News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmdUazJSZXRHQVhRUmRVcEdITW1YVDV3WDR0UC1Mcnc2MUFaczczSkFQaE9jalpHVndfbzRWUmpjczNwS0lDN3lZYi1rdUd1NzNVRGpCM0tjMUhWYXhjcmRKUDh3bk8yZ1pFWjN0NEZZQlFmMjVNVGgtSVA4TlR1MjdWMTlReW9lR1RVcXZnRG9INHItS21Hc3o5czN2VUQwUTlyMGZlQXhxa2JJ?oc=5",
           "type": "press"
         }
       ],
@@ -956,8 +1014,8 @@
       "sourceIds": [
         "37"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8ec56fa1f9e8ebccee",
@@ -1598,6 +1656,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-314cab560e513af0b5",
+      "date": "2026-11-20",
+      "title": "Sejm uchwalił nowelizację ustawy o osłonach socjalnych dla pracowników elektrowni i kopalni węgla brunatnego",
+      "title_pl": "Sejm uchwalił nowelizację ustawy o osłonach socjalnych dla pracowników elektrowni i kopalni węgla brunatnego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS3RCRkNyaXRLS3JETHUwbW9uTGFCYnVnTklnTElxbzBIZ2VkbXZVTjllQlBUWWxISWdsMnJEUktCODRSemxDTkZYc3R5MlIyb2IwN09xM2Z5RGtoYUtVbFc2QW1HQnZfOVpYTWVaWHlZUjhUWmN6dVpUX1VFbEFDY2VlWmhhM3Raeld4RGtWbmxPT2NIcmNSdjJOVHFaSjNJY05pNXlFc010OEpubXdlVTRzelVRVE9zaGU0UW10dWgwZVFjSGlocmJ2R0Nhbk41WjFrWWtWMG9IRUlvNjBxczVjVW5xdmtmSTc5azVUcjBwajNXbmphSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-29e6e83b07b086a9e2",
       "date": "2026-11-20",
       "title": "Nowa propozycja dla Rosji. Europa chce zatrzymania ataków na energetykę",
@@ -1622,6 +1709,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-29339d0d7f56a44179",
+      "date": "2026-11-20",
+      "title": "Młodsza Specjalistka/ Młodszy Specjalista w Dziale Przyłączeń (branża elektroenergetyczna) Umowa na Zastępstwo",
+      "title_pl": "Młodsza Specjalistka/ Młodszy Specjalista w Dziale Przyłączeń (branża elektroenergetyczna) Umowa na Zastępstwo",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLV9WQm00aENRZmxCbVhyV0hJV3A5c2ZEdDF0b0ktRGRQNVFuMzFtNlpvMHdVTVhUSnNmU1V4ajFOY3VHenVFVHdyMUU1dm8wWFBVcVF6WkxPWGpzZFFJbFVuR2lpTFJUajhEcUVLX0h3eVRIdUdxbUlYdFpHYzFrTFdYak53Um5qVzBZUFZNa184TEZPbG5XV1R4aENSRXN5VzVUN2o5YkhzNE44Y1JRWnFGaXNyLU1Bcm9uU0FkVWZxaVhpNmNFclFMeXJVWGhMUkl5Q1llVXlKSldEcHRNRzh3QTlGWVNKS1E?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1714,6 +1830,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-12f9f1926b6dca0e88",
+      "date": "2026-11-20",
+      "title": "Archiwa Energia słoneczna - Strona 675 z 675",
+      "title_pl": "Archiwa Energia słoneczna - Strona 675 z 675",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82SHJLWG8yNVV1RjVTcUxMcnBqTVcxSmhQM1VfczBUWkJkZk52bmsxUDFkdlZZc0FQQjBTWGJ4QzB5d3VjYXBzTWpqMzNBbGNTUVF6TFg4YkFRUmpfZ2ItMnFwYm5sRkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-111ec5af9872253665",
       "date": "2026-11-20",
       "title": "Re: Transakcja z orlenem nawet w tym miesiącu...",
@@ -1725,7 +1870,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWxGUWNnVHl2bEI3STRiakJua3J6a3lmNnVYQkRUQ1ZONzBKUEJBU1UtY2RSZkp3R3pIRDFwTE5zNHRjSGFPYVpyODVGZXNOTjh2WHVVaEZRbDZ3NHdLLThiYUlza2l3b09xSVhCWmFFVkh2eGdOX0NEblFXY2pCV2pFWHYxUXp6eEhrYUN5UjFJR3lsOHBUcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTdiZFVSUnFIVTZad0puLWUzLXdzclVFVDg0Z3pzM3ZYQ04yTlBzZ3NDd1g2d3VFc3Ruc1g0amVGTVhacjYtQksxSlpoUHlzXzJEckt0X05hN194RkJvYURXanl5TmFjNXUyRDc3SUdPdDQ0ZHJoekJXc1B4VkRWbU9YazEwWGpzalJueFNYMnY3UDM0QXRacg?oc=5",
           "type": "press"
         }
       ],
@@ -1796,6 +1941,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-089a1947ea8625ff47",
+      "date": "2026-11-20",
+      "title": "Windar Polska to supply towers for BC-Wind offshore wind project",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVlfVlRxb01QRjg3TWF4b0ZfVVBVNzZ3UEd0a1Bycmg0VEdmN3dEQmI2MWRZOHBRNHdXdEUzVjBPdHZXUUNIaUMxZEM1N3d2eDkzdTEwWlI2cDZWN2Z4ZTZvQnRsX0tqVDdOLTQtVGtJNnVqMnBubXlPeXdOdVBGdkh0Wk1FQjFtVkdpVGlmakZnRTNnOVNHS1FWdlozSWJpb3NnT2RBWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "OCEANWINDS"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -10846,7 +11020,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnRQT3dReEhDNHlsQno5V1pqRE1Ib3R3YVFINnUya1Zzd2pwaE5WOWZxNzFoQmJ1cXh2OEppTjFPM0ZseXlHOGY1U2NPaWJhVEc1cjUxWDRZOVBMSGMteGw2TUh2SU80dU5VaU9SZ0YyczNTTk5hZVBpVEVNeFRSaGFvd3BRX2pfZmZxU0V1N2xhREI0bnpfejlxOENSajl2cnU1NFlrTW13YWNYMWgybF96WW5faGhqNlFJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGZheWJBWXdPV3BRbnItN2xqX0hHRmN1dVQtQVJtUm1VazJFQWp6SWdfazFpcUlZUjVNblpZZnUxdll0LW9yUENFaHR0Y2xSTndDX21EMWRtWVJxWnBYWGtXZV9RY1RiQVByd3RDTHVySUNmVG84TGw3RzZoLTZ1RkpHQTJvNTJjYnIzX0ZCcHItMFFiQmpRNUk2VF95YnNnNzhSOUpseXo2MFFYN011dlNOUEM3NnZTTVNUbUpxMWhYaHhkZ1d6OVpSNkc?oc=5",
           "type": "press"
         }
       ],
