@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:53:06+00:00",
+  "updated": "2026-11-20T21:50:48+00:00",
   "signals": [
     {
       "id": "src-fce443d030222b200e",
@@ -1389,7 +1389,8 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
-        "18"
+        "18",
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2997,26 +2998,27 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Gdynia-based Searenergy Poland will carry out hook-up and commissioning of the offshore substations at Equinor and Polenergia's 1,440 MW Bałtyk 2 and Bałtyk 3 projects. The post Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms appeared first…",
       "links": [
         {
-          "label": "Baltic Wind — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUJpeTV1cUt3OTZTWVVfRFpvcVNZeTIzWWV6QzA4NFJmOWU2ZUpTWTRKdno5bFQwdktlRWR2S0QyZF9iRUt4Q0txbDByUVNSSkdlM3BMM3pTcDJQYW9ibDlJd1RmYU5uWlVGd1laV3hveWE0SWUwNEtuYkR4ZnM5dTdDejZycEdERWZETy1KVlZVb0w0RFBfNzI3NmpYMzlnY0lWS2hyaVVfMWdGcHB0UDREZlJhZHRrV3FKR0h3?oc=5",
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/searenergy-poland-to-handle-hook-up-and-commissioning-at-baltyk-2-and-baltyk-3-offshore-wind-farms/",
           "type": "official"
         }
       ],
       "cos": [
-        "ALL"
+        "POLENERGIA",
+        "EQUINOR"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu",
+      "publisherUrl": "https://balticwind.eu/",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-dc8e3ca8791a76a34c",
@@ -6884,16 +6886,16 @@
     {
       "id": "src-004dd21c6937878494",
       "date": "2026-11-19",
-      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds' BC-Wind offshore wind farm",
+      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm",
       "title_pl": "",
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Indexed headline; open the publisher article for full details.",
+      "summary": "Windar Polska will manufacture 26 complete steel towers in Poland for the SG 15-236 turbines at Ocean Winds' BC-Wind project, under an order from Siemens Gamesa. The post Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm appeared…",
       "links": [
         {
-          "label": "Baltic Wind — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2I2TTk4Zm14a3JiOUtZazc3a3VxUGt1WFNJNmVmaDc3UWVZcXFDYnNDNWQ4WUV2SmRRYlJib0hmdUFGX296REgwQkU0dllPOE5qVENOTzMxR3RMTGNnd0FQQjUzR2lTQWtxMHNRaUptTFN6bjEyQmJqdkFyOGl6bjN0TVhPblAyNnZvZGRkSXZjdm1SVkhyeTVKaFZxQmhocE5jUW5HMFZuaGtfeDhzeDEwR3VTRFE?oc=5",
+          "label": "Baltic Wind — source",
+          "url": "https://balticwind.eu/windar-polska-to-build-26-turbine-towers-in-poland-for-ocean-winds-bc-wind-offshore-wind-farm/",
           "type": "official"
         }
       ],
@@ -6901,14 +6903,14 @@
         "OCEANWINDS"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu",
+      "publisherUrl": "https://balticwind.eu/",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-00195b0f63d5cc5313",
