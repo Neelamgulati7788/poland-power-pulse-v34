@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:49:44+00:00",
+  "updated": "2026-11-21T01:08:58+00:00",
   "signals": [
     {
       "id": "src-fce443d030222b200e",
@@ -270,11 +270,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Do konsultacji publicznych trafił projekt rozporządzenia przedłużającego do 2036 r. obowiązek dywersyfikacji dostaw gazu ziemnego z zagranicy. Projekt utrzymuje limit 33 proc. udziału dostaw z jednego źródła i wprowadza nowe zasady dla importu LNG - wynika z projektu zamieszczonego na stronie RCL.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmJzTEFUX2VabnliSHhUWFRHLS1GT2Q3clN5b2VQMDBfOFdhYXVCN1BBalJWU1lGMlRxeEpjRXdQQXZvN1BmWnBFYTluRHdHV3lURVV1WDJxcWUxRFZPQ29ITkhUdXhyYVVTdWZMbWp0eU84ZWhaQWNOa2J1ejRXLThSVFBFZ1o3LWIxd24zSENjS1dVMHZSc19fYlFibjlEMHVzWlR2Ry1YcFA0YXlVRmFlZnNoZw?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-przedluza-obowiazek-dywersyfikacji-gazu-Nowe-zasady-obejma-LNG-9232889.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -288,8 +288,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-e084bd9fd6e071b201",
@@ -2319,6 +2319,35 @@
       "reviewed": false,
       "sourceIds": [
         "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-26dc8d39fc5de54983",
+      "date": "2026-11-20",
+      "title": "Gas Storage Poland chce kupić magazyny gazu należące do Orlenu",
+      "title_pl": "Gas Storage Poland chce kupić magazyny gazu należące do Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmFZY3UxTGNEYkRBME40QzJabk9NaTdvZTIwMERoOVJLR3FabUdhZl9hVUlkVWVaYUkzZ0FBQlNob01XT1ExUTZSNUNXRjlFQlBUTjAzeWlKd0VQbTNIaWlqOHVPRF96ZmF2VTF4ZzRWOHJjX0EwRkVUMnI4T2dpUzBmLWR4eG1BNTI2c1AxMXJWNmRfRnJSaTFUcVNqbWxKVkVpV1A5X256dEJ0VEl2NFdULXZNMmtpT0RZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -9738,7 +9767,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUdZQ2FaZlNFdFk4ai1IRmk5WkcxZE9GNVRiN09scDNleERRSEczVWU1VHYybFhzbXpmclU1NWZkOGgtRWZmdkgzc01sZWt1YVFrRGJxWjlGSEQzZ3lmdTVXUlVHN2otd2tyeTJwYk5zYUVMYlBmcmtuQ2VrdHctbC1wTmxHd1NVeUFSYTMtNFZ5X1hT?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaE1xMXpIdnlzT1EwRmRaQjJYbVp3TmxTdmJ3enNHM1Z2M3p3QUZpNHo2V3FRaVBPdkpWeXdXSkxBelA4RzZnOEkza0p6SUg5SEhXNFZyMmNJb004R2hRV3FodVpWRnlpZHVkOWRTc1pneXVvckNpX2dEMHVrOThrUEZLdUxmd3YxN0k0NklWN2E2QWNKSkM3a01OX01vNkIxZXUydGp3?oc=5",
           "type": "press"
         }
       ],
