@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T10:50:02+00:00",
+  "updated": "2026-11-21T11:47:24+00:00",
   "signals": [
     {
       "id": "src-db931d24fdf537bf49",
@@ -389,7 +389,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBaNGlVdllXU3N6ZWxPamtsUnlndWpYeDdZQUFlQVVJZXVmQUJfRFU4TENMTXdDQTdBUDczbjBNQkxnMmNUdXJlOE15QXNobmtGWGVVN2U4VThhY0pEY1FaaFBlMUZKVXFyT2o5UllreFIxNWljNnR1b2hnc0c5ZEdqRlZsOXlURHlzOUZPWDJ0QnVqSGtuVGhyYlRDQ3Q2eG1ZOUtKUktyZldo?oc=5",
           "type": "press"
         }
@@ -397,7 +397,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -1948,6 +1948,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-7d4b43584e52e4b518",
+      "date": "2026-11-20",
+      "title": "Hiszpania: Rząd: centra danych będą musiały pokryć większość zapotrzebowanie na energię z OZE",
+      "title_pl": "Hiszpania: Rząd: centra danych będą musiały pokryć większość zapotrzebowanie na energię z OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjJpT3pUNGVmb3BVUUlPUGRMaDhRdEJEeU1LOWVNd2V4MF9QRU1ITm9QcVh3d0RLNGtwZWlleC1xT2N2aUVtcm1odEpablZOVmw4d2VsU0xDck4wSmxJUnhTa0w5VDNRc3o0QVZIUHRYRUlsdkNPNkY4X0ZXTWxiSm5fWVg1UDZETkZ1WnJ2RG9CY0ZWMWU2N2NFT09NbElNZ1luZXNORWQxV1I1Y2hyd2ZLNmE3RU81VHY5YlNpRmxObDBnOFNUQg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7cc5c9bbc5fb41c625",
       "date": "2026-11-20",
       "title": "MDI ENERGIA SA (13/2026) Pismo od mBank S.A",
@@ -1984,11 +2013,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W 2025 roku 5,7 proc. mieszkańców Niemiec (4,7 mln osób) deklarowało brak środków finansowych na utrzymanie odpowiedniej temperatury w mieszkaniu – wynika z danych Federalnego Urzędu Statystycznego (Destatis). Choć wynik ten jest niższy od średniej dla Unii Europejskiej, Polska wypada w tym zestawieniu wyraźnie lepiej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEhYc2VIaTBKTTR0Y0tva3Q3RF83QWptNldkTmozYzJGRXliUkhnVW5FLTBjVzljcEpKR1dsSVk4T1lQbzFzR0Q4cDVNWXRtRTFxaXNRSzVGSVV6RkI4TUtBN2lNbXdoZk1sazV6SC1la2xoZE1CejBZZnVWX2tMMS03RFNoYUVsVDF1NFk0N1Z0bDUtMk16dG8zUjZHZE1NNWVzZUk1ZW9SQVphUkVGRm9B?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Cieplo-luksusem-dla-prawie-5-mln-Niemcow-Zaskakujace-dane-z-Europy-9232445.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -1997,13 +2026,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-73fb68d651f12b08e4",
