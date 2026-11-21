@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-21T18:49:20+00:00",
+  "updated": "2026-11-21T19:48:51+00:00",
   "signals": [
+    {
+      "id": "src-f98752d51ab7373145",
+      "date": "2026-11-21",
+      "title": "Strona 2603 z 2607 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2603 z 2607 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iR0JaUnRrSGNlRHR4LVhHWG9BR1NwSGphTmYxaThSNTUyc0h2RGxHTlRKMFYtRWtvdldsY1ZJRklzdnZKd05LbERXQjNtb3Ix?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-e882802fbed4b1da28",
       "date": "2026-11-21",
@@ -29,6 +58,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e741258fc3c9853eda",
+      "date": "2026-11-21",
+      "title": "„Sukcesywna dostawa gazu grzewczego na potrzeby Szkoły Podstawowej Nr 2 w Głownie”",
+      "title_pl": "„Sukcesywna dostawa gazu grzewczego na potrzeby Szkoły Podstawowej Nr 2 w Głownie”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "SZKOŁA PODSTAWOWA NR 2 IM. ADAMA MICKIEWICZA W GŁOWNIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4800-bf9a-2b46-7343-eb000163b8ec",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-db931d24fdf537bf49",
@@ -71,7 +129,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0lsdTZXOU11NUhCYUJKem5ONFd2LTV1N21YTXNwM1ZReEtwNlUzOFR6UmFGdjYxdEhXQVNVYkZhelFFbVFLQmNUTFNDa2hydHg2Zld0NVBicDVpNUU1eS12UmFZNGR1M0tfcHlIZkpqQnVFT25BX3EtdGF5bFd6QjlodVVUbGg1NXlialZheXNocEU0bEhiXw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSndfMklJZ2ttTU1mRVJXbHczWDhPWGxIV2N3N3FWUE42V1d4T0gxWk1remdRMU80dFVQSnRTNW96RXhPTkt5STNaY21xM2EydmlZQTVuRktCS2Q1UUxGbEExOHJneWhoUXBGNmFoZHBUWTZRSzY1WURJUmVoLWpZVkVibFFua2xlLWZ1YmxmR2RfcWFsMzVFbQ?oc=5",
           "type": "press"
         }
       ],
@@ -2799,7 +2857,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGp2ZjRVWl9hQUxYRklGWUxMSUczVlB1NzBKYkVTWlpQTThpWmlUYUM3blZQNm80OWxQYmMzVm9XaFBVRlk0djZrTTBNNC1HN2dFT1k0RFU1eHNISU9CMWFFQTEtNHlDSkRXbE55TndxYmlzdzRvc2ZOUk0xX1dBSzA1THR2RThnSUhKVWE0TV9Jc3F3ZG1LR1BYMHp3N1RNcjFSWkE2OUVrMEI2ZUJNTEZxUXU1ZERWMlE?oc=5",
           "type": "press"
         }
@@ -2807,7 +2865,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -3205,7 +3263,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR25WWFVPLUtqcVdHSWNKTkIyWjl2YnBHaDFKcmM0X0JkX1ZMYnhNV3pVUmttalNZZGtIYjFDQkxDQzRZbi11eW9rVWpXa3Q0eEJMcHNqbG5WVU9qNmZFVkNhUktGSVpibkwwdk1lU1hYTUdHX3NUV2dGUWtUWGw5X1drTndHSWdCZ2xqY08xVDl2ZjE2eVRVcUhjajk2VDhCcURNcTYzWThtRE1sNkoyRg?oc=5",
           "type": "press"
         }
@@ -3213,7 +3271,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
