@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-21T02:30:04+00:00",
+  "updated": "2026-11-21T03:24:58+00:00",
   "signals": [
+    {
+      "id": "src-521d9316c3842b34e4",
+      "date": "2026-11-21",
+      "title": "Archiwa Energia słoneczna - Strona 675 z 675",
+      "title_pl": "Archiwa Energia słoneczna - Strona 675 z 675",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82SHJLWG8yNVV1RjVTcUxMcnBqTVcxSmhQM1VfczBUWkJkZk52bmsxUDFkdlZZc0FQQjBTWGJ4QzB5d3VjYXBzTWpqMzNBbGNTUVF6TFg4YkFRUmpfZ2ItMnFwYm5sRkE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fce443d030222b200e",
       "date": "2026-11-20",
@@ -983,6 +1012,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "23",
         "51"
       ],
       "discoveryMethod": "google",
@@ -4411,6 +4441,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-9c8c2b2a6ae384c639",
+      "date": "2026-11-19",
+      "title": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "title_pl": "Marek Król jest nowym prezesem Miejskiego Przedsiębiorstwa Energetyki Cieplnej w Przemyślu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd1doRTJLWG5XTFhodEJ1Mnl6bGNPeXpoNWxMZm5GOFBFWVlHX3Q2d2x5LXl6dzNPeG9KdXB4Z19hNk02ajM3UERaNlVuQ1p6Ui1RejdRa3lCbklhaGpfN1JyeEh4alJ3QVlSZmdxazNjR2Vkb2hMUDRFSHBVUHdQUjY0dWJVR2Y1emtHS01QUF9IbXZDaDBUekdWdXAzWU1peXdkbXdDeTFGRFR2ZGZpYUkwTjQzbWlqYnNZUGozTXVHNlJFUGdYZDZ2RUU5QTYxRzJMc1VCLXpQaXQwemY0bA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9be9cdf1626cd388ae",
