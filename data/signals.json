@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:43:56+00:00",
+  "updated": "2026-11-21T23:40:59+00:00",
   "signals": [
     {
       "id": "src-f98752d51ab7373145",
@@ -332,7 +332,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUN2Mm41N0VHYWpJQVF4MzFXMlhiOFlZcElBN3UwMDhJZ2pqVDM5NTI5Y1BSMTlYcEpBMXNFYWt3UXM3WHpaNzQ3cnkyVXBJQ0RVTGxKZHRKdDZYdG1XZmZVY25maER0bHV0bUFFbkh5Q3J2c1dSc2JGSFF2R1o3dFlFTTJpU2lka3lmRTRqQkNERlh2?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
           "type": "press"
         }
       ],
@@ -340,7 +340,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -722,6 +722,35 @@
       "reviewed": false,
       "sourceIds": [
         "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-16647b54e7f9b8017a",
+      "date": "2026-11-21",
+      "title": "Zaciął się główny silnik Grupy Azoty. Wszystko przez ceny gazu",
+      "title_pl": "Zaciął się główny silnik Grupy Azoty. Wszystko przez ceny gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3Fldkk5WFlDeFdsV19jeFh5Mk1uTk5OQkRDTXNmRWlTMTdXRmRYMTlGT0dreVROUXduWFlqR0F2aXZJdkNLQ1QyVEJLcXFVSGFtYzJxVlNnaVNvbWlET05pZHNwdlpaOXhoOF9PNTVVMHhEMFhqTUZtWWZNdDRCYUFjbTh3VFhPRE5jNnlqckZKcWlLQlVUbkRHMVZubDQ1aHltNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2099,11 +2128,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Batteries providing automatic frequency restoration reserve in Poland must take at least 2.5 minutes to reach full output from Dec. 1, after grid operator PSE rejected storage industry objections, though looser control-system rules will ease entry for smaller providers. The post Poland caps how fast…",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "ESS News — source",
-          "url": "https://www.ess-news.com/2026/11/20/poland-caps-how-fast-batteries-can-ramp-in-its-secondary-reserve-market/",
+          "label": "ESS News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmdUazJSZXRHQVhRUmRVcEdITW1YVDV3WDR0UC1Mcnc2MUFaczczSkFQaE9jalpHVndfbzRWUmpjczNwS0lDN3lZYi1rdUd1NzNVRGpCM0tjMUhWYXhjcmRKUDh3bk8yZ1pFWjN0NEZZQlFmMjVNVGgtSVA4TlR1MjdWMTlReW9lR1RVcXZnRG9INHItS21Hc3o5czN2VUQwUTlyMGZlQXhxa2JJ?oc=5",
           "type": "press"
         }
       ],
@@ -2117,8 +2146,8 @@
       "sourceIds": [
         "37"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8ec56fa1f9e8ebccee",
@@ -4217,27 +4246,26 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Gdynia-based Searenergy Poland will carry out hook-up and commissioning of the offshore substations at Equinor and Polenergia's 1,440 MW Bałtyk 2 and Bałtyk 3 projects. The post Searenergy Poland to handle hook-up and commissioning at Bałtyk 2 and Bałtyk 3 offshore wind farms appeared first…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/searenergy-poland-to-handle-hook-up-and-commissioning-at-baltyk-2-and-baltyk-3-offshore-wind-farms/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUJpeTV1cUt3OTZTWVVfRFpvcVNZeTIzWWV6QzA4NFJmOWU2ZUpTWTRKdno5bFQwdktlRWR2S0QyZF9iRUt4Q0txbDByUVNSSkdlM3BMM3pTcDJQYW9ibDlJd1RmYU5uWlVGd1laV3hveWE0SWUwNEtuYkR4ZnM5dTdDejZycEdERWZETy1KVlZVb0w0RFBfNzI3NmpYMzlnY0lWS2hyaVVfMWdGcHB0UDREZlJhZHRrV3FKR0h3?oc=5",
           "type": "official"
         }
       ],
       "cos": [
-        "POLENERGIA",
-        "EQUINOR"
+        "ALL"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-dc8e3ca8791a76a34c",
@@ -7381,11 +7409,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Poland has sought to position itself as a regional gas hub.",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Notes From Poland — source",
-          "url": "https://notesfrompoland.com/2026/11/19/poland-deepens-regional-gas-cooperation-hungary-czech-republic-slovakia-and-lithuania/",
+          "label": "Notes From Poland — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNei1feHFWbVJkVERTaXNwRF9OaHlqZnlGalJEYkpzdFVTaFRmNkNrMk96X2JGRkFNd0Q0VzhmUHF6MUkzRG45c3NYZXotdGh2R0xOSUlTZE9vd1BUOVJrR3llT2tjRE1NZGp0WG9MWVMzQ3FfNC1MN2V3UFh2SU5oMlZYendMMHV0ellBTi1NanZuRkU2U3kxSGVhX3BLRFphOVlwX1ZKYmd3SUFHbHE5TTVneF9nUThTQ2J6MVRpMHVaUlE?oc=5",
           "type": "press"
         }
       ],
@@ -7399,8 +7427,8 @@
       "sourceIds": [
         "30"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-34782680d69ef83800",
@@ -8221,16 +8249,16 @@
     {
       "id": "src-004dd21c6937878494",
       "date": "2026-11-19",
-      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm",
+      "title": "Windar Polska to build 26 turbine towers in Poland for Ocean Winds' BC-Wind offshore wind farm",
       "title_pl": "",
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "Windar Polska will manufacture 26 complete steel towers in Poland for the SG 15-236 turbines at Ocean Winds' BC-Wind project, under an order from Siemens Gamesa. The post Windar Polska to build 26 turbine towers in Poland for Ocean Winds’ BC-Wind offshore wind farm appeared…",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/windar-polska-to-build-26-turbine-towers-in-poland-for-ocean-winds-bc-wind-offshore-wind-farm/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2I2TTk4Zm14a3JiOUtZazc3a3VxUGt1WFNJNmVmaDc3UWVZcXFDYnNDNWQ4WUV2SmRRYlJib0hmdUFGX296REgwQkU0dllPOE5qVENOTzMxR3RMTGNnd0FQQjUzR2lTQWtxMHNRaUptTFN6bjEyQmJqdkFyOGl6bjN0TVhPblAyNnZvZGRkSXZjdm1SVkhyeTVKaFZxQmhocE5jUW5HMFZuaGtfeDhzeDEwR3VTRFE?oc=5",
           "type": "official"
         }
       ],
@@ -8238,14 +8266,14 @@
         "OCEANWINDS"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-00195b0f63d5cc5313",
