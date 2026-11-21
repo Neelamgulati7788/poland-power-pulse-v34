@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:48:51+00:00",
+  "updated": "2026-11-21T20:44:07+00:00",
   "signals": [
     {
       "id": "src-f98752d51ab7373145",
@@ -145,6 +145,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-befbb588da3dfe9a2e",
+      "date": "2026-11-21",
+      "title": "Gaz-System sięga po magazyny Orlenu",
+      "title_pl": "Gaz-System sięga po magazyny Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Państwowy operator przesyłowy chce przejąć siedem podziemnych magazynów o wartości około 3 mld PLN, żeby przygotować się na falę LNG po 2030 r.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/gaz-system-siega-po-magazyny-orlenu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-ba7805dc6dc98d0fa6",
@@ -432,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3ddd88b73182ead56f",
+      "date": "2026-11-21",
+      "title": "Gaz-System sięga po magazyny Orlenu za 3 mld PLN",
+      "title_pl": "Gaz-System sięga po magazyny Orlenu za 3 mld PLN",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Biznes Alert — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXOGRHbnMwb2RTQ3Z1NExlYlV2ZXNFVFVZRmYwYnk3QTc3ejBiU3hKX1dIdVB2cDVBbkRTUXhvS1hyUjRaSWloZjRsVHBLTzI2RXM3Q0daWTdWS0gwUzNPZjdKNEdVd29YZDdr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Biznes Alert",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
