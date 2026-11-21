@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:00:19+00:00",
+  "updated": "2026-11-21T14:53:32+00:00",
   "signals": [
     {
       "id": "src-db931d24fdf537bf49",
@@ -60,6 +60,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-8505f0ff4ecf9b36d4",
+      "date": "2026-11-21",
+      "title": "Dostawa, instalacja, konfiguracja i migracja systemu poczty elektronicznej z MS Exchange 2019 do najnowszej wersji on-premise (SE) dla Urzędu do Spraw Cudzoziemców",
+      "title_pl": "Dostawa, instalacja, konfiguracja i migracja systemu poczty elektronicznej z MS Exchange 2019 do najnowszej wersji on-premise (SE) dla Urzędu do Spraw Cudzoziemców",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Urząd do Spraw Cudzoziemców",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df47dc-5563-e4d3-7343-eb000163b8ca",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
       "id": "src-721c3be2af31924b93",
       "date": "2026-11-21",
       "title": "Opole inwestuje w zieloną energię",
@@ -71,7 +100,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUN2Mm41N0VHYWpJQVF4MzFXMlhiOFlZcElBN3UwMDhJZ2pqVDM5NTI5Y1BSMTlYcEpBMXNFYWt3UXM3WHpaNzQ3cnkyVXBJQ0RVTGxKZHRKdDZYdG1XZmZVY25maER0bHV0bUFFbkh5Q3J2c1dSc2JGSFF2R1o3dFlFTTJpU2lka3lmRTRqQkNERlh2?oc=5",
           "type": "press"
         }
       ],
@@ -79,7 +108,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -292,6 +321,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-2091bd64af0326ec3f",
+      "date": "2026-11-21",
+      "title": "Pomocnik elektromontera sieciowego",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "GK PGE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmkxY1ZGQjI4dzI4c1ByUnZ3aXRPa3h6QUJId3dLYmtqbUM5d2h4TElfYjQwNHFBSllJZzlQUVFPWGpEbmVQZFd4OUpmNV9vZTk4cmRTNTA4Z25mbWFuUThLTU51cmFGc3VraWtFN3FnV1JTMmQ2cWtXb1llMnNCdTd0Sk1oLVU?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "GK PGE",
+      "publisherUrl": "https://www.gkpge.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1c3cff41ba62e2d25a",
       "date": "2026-11-21",
       "title": "Oświadczenie Spółki Polskie Elektrownie Jądrowe",
@@ -316,6 +374,35 @@
       "reviewed": false,
       "sourceIds": [
         "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-06b9437b36767950a0",
+      "date": "2026-11-21",
+      "title": "Wysokie ceny energii zatrzymują włoskie huty i walcownie",
+      "title_pl": "Wysokie ceny energii zatrzymują włoskie huty i walcownie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WNP.PL — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ItekdSbHNIaUFOckNrWlRMMXpPUWx3X3l6R3JVbE1WZlU5OTN6SnZQczVsOXZYZnQ5WVg1M1hFVXpXVVYzN0R6azNkWjBlR0xxTVR5SmljODBveFp4UU9WdWxLY1AxVncxTGgxM09aRTVHa1JlNldHV3RHQzFET3BhRFBYUTdERmpmdWctZDZVQlRQckRHU3FYdjRDZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WNP.PL",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -6834,6 +6921,35 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTm5WRDdlbmtIcXhoOUtyTHRtSVIyVWEtWEZZZnBSTU9fMlFUTk1QSW0yYTBzaVFkUFpEOXhqcmV3eHJmb3hQYkw1ZnluUDZ1R1NiUnlFem9ieXRJTHlMS2xGRnBOTV9pd3Zma2g5VVVabHZIMkFLMnhlc0E5VHdfVnZ0M0ZQeVZvMVU3dzlpcF83QzBPemtfdjk5RUdFQk9WM0Mwc08wbE90UEpNdERDMUJXYVZSYkFXdXg4SDFfQnNIbUpfSElmbWtVLVpxQmV4ZE5nR0s2V1Y?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-408c4426f5565cda9c",
+      "date": "2026-11-19",
+      "title": "Archiwa fotowoltaika - Strona 145 z 145",
+      "title_pl": "Archiwa fotowoltaika - Strona 145 z 145",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MzdNLU5vdWdiRmN2c0lDMEYxa1czQm9CQzVDWUY5elpROHp1NWNhbm9jWVhxNmdBalhIZURwYUg3aVlMSzgzRTFhQ1RldHdWa0JxZzRaMEY5YnY0NXdlOUN0MDBxZw?oc=5",
           "type": "press"
         }
       ],
