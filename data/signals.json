@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:56:14+00:00",
+  "updated": "2026-11-21T14:00:19+00:00",
   "signals": [
     {
       "id": "src-db931d24fdf537bf49",
@@ -290,6 +290,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-1c3cff41ba62e2d25a",
+      "date": "2026-11-21",
+      "title": "Oświadczenie Spółki Polskie Elektrownie Jądrowe",
+      "title_pl": "Oświadczenie Spółki Polskie Elektrownie Jądrowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRWlCMTZOTkY3LV9JX3YxVVQ4ZXpUSzFjbHpWMTZDdk14Y3k1eldZbkwwTWRLNlBnWXZSUThNZjdyQmhFOXZTUmZ2OEZWZTMtaklkVXFXVTBnbmxLUElOQnVZcW5ROU43WDlLOVlzSWw?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-fce443d030222b200e",
@@ -2013,11 +2042,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "W 2025 roku 5,7 proc. mieszkańców Niemiec (4,7 mln osób) deklarowało brak środków finansowych na utrzymanie odpowiedniej temperatury w mieszkaniu – wynika z danych Federalnego Urzędu Statystycznego (Destatis). Choć wynik ten jest niższy od średniej dla Unii Europejskiej, Polska wypada w tym zestawieniu wyraźnie lepiej.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEhYc2VIaTBKTTR0Y0tva3Q3RF83QWptNldkTmozYzJGRXliUkhnVW5FLTBjVzljcEpKR1dsSVk4T1lQbzFzR0Q4cDVNWXRtRTFxaXNRSzVGSVV6RkI4TUtBN2lNbXdoZk1sazV6SC1la2xoZE1CejBZZnVWX2tMMS03RFNoYUVsVDF1NFk0N1Z0bDUtMk16dG8zUjZHZE1NNWVzZUk1ZW9SQVphUkVGRm9B?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Cieplo-luksusem-dla-prawie-5-mln-Niemcow-Zaskakujace-dane-z-Europy-9232445.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -2026,13 +2055,13 @@
       ],
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
-      "region": "Unspecified / Poland-focused source",
+      "region": "National",
       "reviewed": false,
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-73fb68d651f12b08e4",
@@ -2506,11 +2535,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu i złożył niewiążącą ofertę zakupu instalacji magazynowych - podał Gas Storage w komunikacie. Rozwój magazynów gazu jest ustawowym obowiązkiem Gas Storage Poland wynikającym z Prawa energetycznego.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Gas-Storage-Poland-z-Grupy-Gaz-System-chce-nabyc-magazyny-gazu-nalezace-do-Orlenu-9232552.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZk1HV0NhY0ZmU0tCZHQxMjROb1A5VXRaYmhZZ1NRTEZfYkM3MVo1VHNnOTZVX3djXzdtdGZKbXQza2ViVUhncWdmcXJSZ3g2VHhTNjZmcmMwWFJabHNDcVlLNGRDd21PSmR0cG5OR08wOEx5X1JGZ0NSUlJnUEE3N25JOWxhY0EzS1lDLTkteE5iZ3RGellRVG5oX2d1LWk4c29KVXhVQmZacDduQ1JGcEtTWElDb3U3aTFwMGM0YzQ2eVpaNUE?oc=5",
           "type": "press"
         }
       ],
@@ -2524,8 +2553,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4260bea53418331e81",
@@ -2857,7 +2886,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "wnp.pl — Google News discovery",
+          "label": "WNP.PL — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR25WWFVPLUtqcVdHSWNKTkIyWjl2YnBHaDFKcmM0X0JkX1ZMYnhNV3pVUmttalNZZGtIYjFDQkxDQzRZbi11eW9rVWpXa3Q0eEJMcHNqbG5WVU9qNmZFVkNhUktGSVpibkwwdk1lU1hYTUdHX3NUV2dGUWtUWGw5X1drTndHSWdCZ2xqY08xVDl2ZjE2eVRVcUhjajk2VDhCcURNcTYzWThtRE1sNkoyRg?oc=5",
           "type": "press"
         }
@@ -2865,7 +2894,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "wnp.pl",
+      "publisher": "WNP.PL",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
