@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:44:33+00:00",
+  "updated": "2026-11-21T18:49:20+00:00",
   "signals": [
     {
       "id": "src-e882802fbed4b1da28",
@@ -71,7 +71,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSndfMklJZ2ttTU1mRVJXbHczWDhPWGxIV2N3N3FWUE42V1d4T0gxWk1remdRMU80dFVQSnRTNW96RXhPTkt5STNaY21xM2EydmlZQTVuRktCS2Q1UUxGbEExOHJneWhoUXBGNmFoZHBUWTZRSzY1WURJUmVoLWpZVkVibFFua2xlLWZ1YmxmR2RfcWFsMzVFbQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0lsdTZXOU11NUhCYUJKem5ONFd2LTV1N21YTXNwM1ZReEtwNlUzOFR6UmFGdjYxdEhXQVNVYkZhelFFbVFLQmNUTFNDa2hydHg2Zld0NVBicDVpNUU1eS12UmFZNGR1M0tfcHlIZkpqQnVFT25BX3EtdGF5bFd6QjlodVVUbGg1NXlialZheXNocEU0bEhiXw?oc=5",
           "type": "press"
         }
       ],
@@ -174,6 +174,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-8bf08d24658c0f12fc",
+      "date": "2026-11-21",
+      "title": "Pierwsze morskie farmy wiatrowe w Polsce mogą być droższe o 10% niż w krajach, które już je mają",
+      "title_pl": "Pierwsze morskie farmy wiatrowe w Polsce mogą być droższe o 10% niż w krajach, które już je mają",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVENnaTNVLUZWLVNOdGg3ZHJ0Qm1EQmFsRURNVk53cFlIWFBjellpUWRzdmhXeEdjUHRpYjFLWUtjbXNRWmdwMFZST28wdjlPbS1tMDg0MERUZS1KX3JoRTBPVTBPTHdEVm84ZGpMWjRNRUxZUGpyYUJpbHh2SHJzem5MTjdHYVdyeGUwaDVqeEwxdGxjT0pfbGRLUWUtTWdNMTUzODFveTNPR0h6NnpuNTJRZVQ4dEtCcFd1MUlwVE0yV1p5S0ZMS2Z1TEctRG8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-8505f0ff4ecf9b36d4",
@@ -493,6 +522,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-2665f70ad00a9a6421",
+      "date": "2026-11-21",
+      "title": "Polski gigant górniczy pod finansową presją. Pomóc ma były prezes innej węglowej spółki",
+      "title_pl": "Polski gigant górniczy pod finansową presją. Pomóc ma były prezes innej węglowej spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelEtOUNrR3RYc3ZuekQ0TkpoeUV4SmhqbHZSVUtJRTZRYnZrYXdWMXFkT09PbVBPT2VhUEFWSFdwSVJwWTdlcHNyZmk5OFJjMjZiQTN5em9jQV9Cc3V5d2J4UmhrczJVZ3ZEanBKTUJINFhsNGZzbGRmcjR0VEtmMlV0WWlwc0p6dDROREZVcmhQWUQtTGhTclpwcHZtc21xSk8zZWp0UnFQTE9UV3Bz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2091bd64af0326ec3f",
@@ -2654,7 +2712,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHU0anpKdG0tM3JjNVJYMDlGakNvb3FUdGRHaWRHckhDUjdzV0xoQzYwOF9ZTmRhSElDN3FQaF9JMHg3YXFsekpibFUwOU9XUXFqUkJJbExMeWNEUndtQkFBa1RlNmR1cE9RZjN0WkFMRU0xakpxZkR4djNhNlNhenM4X1U3WlkxMk1vakhSV3RNVkxSVkNyRHVMVnlEZG9hQWlqQnNpdExJQkU2eFBvSU5LVHdJUFpvQmN5WkI3Y2ZldnBZZUl0RUg5RzYtZw?oc=5",
           "type": "press"
         }
@@ -2662,7 +2720,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "National",
       "reviewed": false,
@@ -3524,7 +3582,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlpOLUhBa3A2MERxSTlsMWVnOC0yMzB0WDNpVTVMbkQwbEtmSmw3ODI1d09UOHY3dEYtc1pOeGxKUkllUFRYcFpEUGkxS1hobm5VTXJvTHJJQ0VOMEdEejZwTlNKOGNtTHlBSEdnU1RmV3dHMHZlTThTYVU0UnFKNlJiS2VmQ2NHZU1ZT21VNnhyOV9DNkE1NlVEd1VtYThST0dqOU5JU2NaeEgxY2pZU3M0LThOUkR5?oc=5",
           "type": "press"
         }
@@ -3532,7 +3590,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
