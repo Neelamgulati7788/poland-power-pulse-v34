@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:31:38+00:00",
+  "updated": "2026-11-21T06:32:58+00:00",
   "signals": [
     {
       "id": "src-6290a92bb092011cb5",
@@ -58,6 +58,64 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-322d92c74380523072",
+      "date": "2026-11-21",
+      "title": "Sekretarz ds. energii USA w Warszawie. W tle pytania o przyszłość polskiego atomu",
+      "title_pl": "Sekretarz ds. energii USA w Warszawie. W tle pytania o przyszłość polskiego atomu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWVtdVNpazRGQzhRMWlHUlNUVjFNcF9OOHljVXgzdGNKQkVGOV9BbndiRnczM2Q4Umdhb2VLbUVlcWxfVU83djQzYmMtckFpQzBoLXBiendwMFZpV09VTlQ1Y25yM0lOVjRoQmxGNDRBRWQ5enFNRm0teGdPbTRILVdTQlBsRUd5TVlpVXZXSFlQVFN4akFIemR1YTZNRVBMWUtBc2JEaUljaGRFbDFpbUxjRTZQQ0VSQjFiNg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-27391e87ef4624b4cf",
+      "date": "2026-11-21",
+      "title": "Dostawa w 2027 roku energii cieplnej do Ośrodka Sportu i Rekreacji Dzielnicy Śródmieście przy ul. Polnej 7a, 00-625 Warszawa.",
+      "title_pl": "Dostawa w 2027 roku energii cieplnej do Ośrodka Sportu i Rekreacji Dzielnicy Śródmieście przy ul. Polnej 7a, 00-625 Warszawa.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "OŚRODEK SPORTU I REKREACJI DZIELNICY ŚRÓDMIEŚCIE",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4797-41ee-7ee2-7343-eb000163b877",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-fce443d030222b200e",
@@ -1484,6 +1542,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-80079849919f55cde5",
+      "date": "2026-11-20",
+      "title": "Ciepłe palto na zimę zafundował Sliwa swojej małżonce",
+      "title_pl": "Ciepłe palto na zimę zafundował Sliwa swojej małżonce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndVh3WnNFcVRqTVNiWnE5bk00WndMSUZfODFSNzZLeDVVcWptRkJSaE5vbXJWY1RKbGtVUjF4QXUtcWdmRWQ0aTF5Wml2V0dVOUJoQzZkWFJ2SnJiRHo1aHlyR2lKcm82WXpQMkRsZ2FOOXZCVUxF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-7dec4fdae9fdaa5c51",
       "date": "2026-11-20",
       "title": "Prąd będzie po 300 zł/MWh. Znalazł się przepis",
@@ -1946,6 +2033,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-6451a9a8d0ee304165",
+      "date": "2026-11-20",
+      "title": "25 mln złotych Onde otrzyma od Taurona..",
+      "title_pl": "25 mln złotych Onde otrzyma od Taurona..",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lUGVUVUlZSWdXZXl2RkUzcmJWN0lfMHFJaElqU1JRVUNFcU1hM0lMekJFSVB5TGNPcGVUN0VsS3U3UUFkS0V3Y0xqUlJPRC1nTDJybmZOWUdrdUJLbmVXclY0eDNMRENsM1BXaWFqUDRYUjhFVnJz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-624dd33b16214ffb59",
