@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:48:59+00:00",
+  "updated": "2026-11-21T08:52:47+00:00",
   "signals": [
     {
       "id": "src-9461c34634d53524ff",
@@ -29,6 +29,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-721c3be2af31924b93",
+      "date": "2026-11-21",
+      "title": "Opole inwestuje w zieloną energię",
+      "title_pl": "Opole inwestuje w zieloną energię",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6290a92bb092011cb5",
@@ -2267,6 +2296,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-5aee8b2b6ca2d0ab34",
+      "date": "2026-11-20",
+      "title": "Studenci z Krakowa skonstruowali rower MTB z systemem rekuperacji energii",
+      "title_pl": "Studenci z Krakowa skonstruowali rower MTB z systemem rekuperacji energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa1U5STkxdTRKRWU4ODlGZEVxSTItMTlDaFE5WDB2VTRSV2taZnQ0TzZ5YkM4SEIzOFNwUmdfdnhhbzQyb1V5SDZCdENuSWJ1ZW9FTFVOUmJTbzNUNVJnQ0hXLXpiNjZyTndIa2x1RlA5d2o5b0NTSWRHQl9qQzc4MnJlUzZ3REd2cHptYkQ1ODl5QnFOeVBzQkc0VjkzU0JZQ2sxTm9sbzBUT19zOWVHZ0hDMmlIal9EU2NISTFBQkt2TWxINWIxbFNR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-59bccedc60e300ad69",
       "date": "2026-11-20",
       "title": "Nowa opłata dla właścicieli pieców na gaz, węgiel i olej. Będzie dużo drożej",
@@ -2784,6 +2842,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1eb5a84ff62c6fce39",
+      "date": "2026-11-20",
+      "title": "Hiszpania: centra danych będą musiały pokryć większość zapotrzebowanie na energię z OZE",
+      "title_pl": "Hiszpania: centra danych będą musiały pokryć większość zapotrzebowanie na energię z OZE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2tuczZzYXRQWlU5aXBWRUhwOW16TTNTQ3FUVEN1dTZYYTQzcGlLcEx5SjZVZkJPc2NHM2YzUnhibkdKaVpSRFJfNEwtSDV3ZzNLc3MtLVA0cXoxZ2RPblVVbVJMRi1TcVpBU2tMZERKbHAxQ2liWjM4THBKeVY1elBLMmJzckZLMXdsdF9hWms1TEtEdGp0V3F4QVpXb3lrb0RHcnNjazJlenY5bW4zdWkyYVJpejBvcTZpa2JlZW0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
