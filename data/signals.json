@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:48:18+00:00",
+  "updated": "2026-11-21T17:44:33+00:00",
   "signals": [
     {
       "id": "src-e882802fbed4b1da28",
@@ -60,6 +60,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c40b3b01df392dc65d",
+      "date": "2026-11-21",
+      "title": "Re: Transakcja z orlenem nawet w tym miesiącu...",
+      "title_pl": "Re: Transakcja z orlenem nawet w tym miesiącu...",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSndfMklJZ2ttTU1mRVJXbHczWDhPWGxIV2N3N3FWUE42V1d4T0gxWk1remdRMU80dFVQSnRTNW96RXhPTkt5STNaY21xM2EydmlZQTVuRktCS2Q1UUxGbEExOHJneWhoUXBGNmFoZHBUWTZRSzY1WURJUmVoLWpZVkVibFFua2xlLWZ1YmxmR2RfcWFsMzVFbQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ba7805dc6dc98d0fa6",
       "date": "2026-11-21",
       "title": "Powrót do nazwiska po rozwodzie. Rząd przyjął projekt ustawy",
@@ -87,6 +116,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-96878b9210e0c390ac",
+      "date": "2026-11-21",
+      "title": "„Świat potrzebuje radykalnej elektryfikacji”. Inicjatywa „35 do 35” budzi skrajne emocje",
+      "title_pl": "„Świat potrzebuje radykalnej elektryfikacji”. Inicjatywa „35 do 35” budzi skrajne emocje",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0EzT1JzZnFSQ3E4NWFIQS1pZU91RWVQMWM3R2FINHZLdGRUZmhjQVlFUTdMS3o1aVQ4bVBUY3pLTmtPRmZnNEtCd2VDVktXYnBtRFhMaFkzRzdJdV9JellQWGNWWmIxVkwzeWJJTmdiX0RQNHNiZHhYem9zUXE0UTRERnNxXzlzNXZxbHQ1X296TFVVX1FuanlhYlhrQ0FyR2d6bHFFeDNBNms0WU1BdE9USU96aXhpTmc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9461c34634d53524ff",
@@ -176,6 +234,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-63afaae5058954e1b1",
+      "date": "2026-11-21",
+      "title": "Ile trzeba wiatraków, i jak długo używać żeby(...) - Forum",
+      "title_pl": "Ile trzeba wiatraków, i jak długo używać żeby(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJfVjlxbTlBRUw3SkZlZElvUUE0T2NfajNfYkd6QVhWMXlmRGREMlNUMVIxQnF4endzeWRTLW1lM1dsWkl1cl9iaUNkUkNZcTdJV1BYV2Y3T3BpVU03ZkdoV3p5YV9ZelNuaVpxejFQS0JISTUzOEJsV2I2aGZTckJpY2hhbWpwZHRCLTFxa2ViOVVrMzQyRkNkeENXbnltS2g2SXcySlY5aDR2MEp2ZDZfU1pwMzdE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6290a92bb092011cb5",
       "date": "2026-11-21",
       "title": "Wind Europe - artykuły",
@@ -258,6 +345,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3c20b42e4d4be59aa9",
+      "date": "2026-11-21",
+      "title": "Statement of Polskie Elektrownie Jądrowe",
+      "title_pl": "Statement of Polskie Elektrownie Jądrowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Elektrownie Jądrowe — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGdSQmRCc0EtLUF3OExBazlQWmVQeUZyOEU2WXlNZzJBeERpYy1WR1hnTFZrbWRQbHNlUmZuUTVNeW9QU05RLXc3Z0tQS0IwZE8wSnJvQ2dQSm9EV3ZzQ2RTWkVZZmJhdmo3OEd3ZGNnUng2Z0JhZDdOQ0FpaEQ0ZENfWQ?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PEJ"
+      ],
+      "publisher": "Polskie Elektrownie Jądrowe",
+      "publisherUrl": "https://pej.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "56"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
