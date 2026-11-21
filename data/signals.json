@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-21T03:24:58+00:00",
+  "updated": "2026-11-21T04:31:59+00:00",
   "signals": [
+    {
+      "id": "src-6290a92bb092011cb5",
+      "date": "2026-11-21",
+      "title": "Wind Europe - artykuły",
+      "title_pl": "Wind Europe - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBS2FUc0NrQW90ZlFodTN6TWJqLWE1dnI4bkpJTERWWWxMSUVxVk9PbzBnRjJseDlRTFU4eHNRaXZVX3FralBuZVJ6eDhiMTF2MUM2QXkyWmxDNUl1?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-521d9316c3842b34e4",
       "date": "2026-11-21",
