@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:34:53+00:00",
+  "updated": "2026-11-22T06:33:31+00:00",
   "signals": [
     {
       "id": "src-17192fc219039799f7",
@@ -390,7 +390,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUN2Mm41N0VHYWpJQVF4MzFXMlhiOFlZcElBN3UwMDhJZ2pqVDM5NTI5Y1BSMTlYcEpBMXNFYWt3UXM3WHpaNzQ3cnkyVXBJQ0RVTGxKZHRKdDZYdG1XZmZVY25maER0bHV0bUFFbkh5Q3J2c1dSc2JGSFF2R1o3dFlFTTJpU2lka3lmRTRqQkNERlh2?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
           "type": "press"
         }
       ],
@@ -398,7 +398,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -2813,6 +2813,35 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6f7dd36122a92efef0",
+      "date": "2026-11-20",
+      "title": "Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu",
+      "title_pl": "Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcE1xSlpWNTNDbkNzZ0FzbzdvZDFIUFVuNlBWYVM1SEpaRUIyTV9Nam01ZHhWOVI4bC1SUXdieHZoWVVSdmNDZ0NMSko4Z09qR3BFQ1lBTk1QdnlUY3dQMzV6cVlsLXN0X2h1OHQ3RGp4QWkxTUI4R3NQX2xJSjlTV184Y0JaS054QjdnNnhSaDBwcWtERFBIN3IzWlRjZGZoZ0VZMDRVZWFUZUs4S2xaNXV0SmFkS3k1NlNreQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
