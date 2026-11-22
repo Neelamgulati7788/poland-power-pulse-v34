@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22T07:49:53+00:00",
+  "updated": "2026-11-22T16:11:59+00:00",
   "signals": [
     {
-      "id": "src-17192fc219039799f7",
+      "id": "src-fa803ddcefb95cfce1",
       "date": "2026-11-22",
-      "title": "Re: SprawaColumbusEnergy.com",
-      "title_pl": "Re: SprawaColumbusEnergy.com",
+      "title": "Kryzys energetyczny w Iranie. Prąd będzie wyłączany na dwie godziny",
+      "title_pl": "Kryzys energetyczny w Iranie. Prąd będzie wyłączany na dwie godziny",
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
@@ -13,7 +13,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnZDS1JadWxzbGFTZEFRTE5uVTdIc2pldVh1ZVBMOVIyQk5sR3dGUTlwV3FGcUFkV0ttLTl1TVdrZDk5ZU92MG9kRXlvTXNwbzhjNXc0QUJodDEzYkVuSFhXdEJGT2E5Y3RybktMMlVTS0twRzV4eGVnYVFpR3Z6Z2F3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGdfUlp6NG5EZklxZHBuYmtRY1hBZlVLX3VDb21TbV9XNTc0cEZlREl2bTRyeWxsdUF3QktFOGh0QUc1ek83THVJbENrZjIxMEtsclRLc1hsS0VFQlhSelRFXzVzQ2U2bXFZM3dKdVFscnlDX3JKQ0lwSmJ4d1dyYUlQNFdFb2NOQkRFRk9xX2V5TEdEVjgwM1NmQTFUazhGaVlLQkNKLXR2QmdpZ3ZyV0tB?oc=5",
           "type": "press"
         }
       ],
@@ -26,6 +26,354 @@
       "reviewed": false,
       "sourceIds": [
         "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e1c2e118f85dfb3bff",
+      "date": "2026-11-22",
+      "title": "Iran: Od niedzieli władze rozpoczynają rotacyjne przerwy w dostawach energii elektrycznej",
+      "title_pl": "Iran: Od niedzieli władze rozpoczynają rotacyjne przerwy w dostawach energii elektrycznej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSF91c1NxcXdLOXgyYVpIZ01tLWRkMnAzMUVXVmNqTkFsSG9UMl9STFR0blduWThLaU0zbUtpOEJQM2NYcU1NTVhMVkt6TENTT2NrMG9BelJfcXM0SUVHV0xvd1Nicl9ucmtoTFk1a1BlNjNoSXdHRGVJbG1BR1NJRGxzZkZ6S21RdkNfNmM3VWZPR1JhSE85d19MNjI0anBIaVVRU1BObmxieGtrY2loTkNxVFAxdno2OU1TclMwSmtVcGUz?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d63a32ecaddbedb71f",
+      "date": "2026-11-22",
+      "title": "Duże zmiany na rynku gazu? Rząd szykuje nową ustawę, a magazyny mogą zmienić właściciela",
+      "title_pl": "Duże zmiany na rynku gazu? Rząd szykuje nową ustawę, a magazyny mogą zmienić właściciela",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Kolejna próba zmiany ustawy o magazynach Rok po zawetowaniu przez prezydenta ustawy o zapasach gazu rząd znów podejmuje próbę zmiany systemu zapasów. Rząd musi coś zrobić z obecnym systemem, bo Komisja Europejska uważa, że jest niezgodny z unijnymi regulacjami i pozwała Polskę do TSUE. Zgodnie…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/122988-duze-zmiany-na-rynku-gazu-rzad-szykuje-nowa-ustawe-a-magazyny-moga-zmienic-wlasciciela/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-d07756312c1ab30eb3",
+      "date": "2026-11-22",
+      "title": "Prawica szykuje się do przejęcia władzy w Hiszpanii. Vox może podwoić liczbę mandatów",
+      "title_pl": "Prawica szykuje się do przejęcia władzy w Hiszpanii. Vox może podwoić liczbę mandatów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Większość Hiszpanów jest po lewej stronie pod względem światopoglądu, ale według sondaży wybory za tydzień wygrają centroprawica i prawica – ocenił w rozmowie z PAP znawca Hiszpanii prof. Charles Powell Solares. Jego zdaniem nowy rząd nie zmieni wiele w polityce zagranicznej.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Prawica-szykuje-sie-do-przejecia-wladzy-w-Hiszpanii-Vox-moze-podwoic-liczbe-mandatow-9233125.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9a9cdee6e31c0f4c0f",
+      "date": "2026-11-22",
+      "title": "Nawet 35 proc. gospodarstw może dotyczyć ubóstwo energetyczne. Nowy raport PIE",
+      "title_pl": "Nawet 35 proc. gospodarstw może dotyczyć ubóstwo energetyczne. Nowy raport PIE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGE1Z3UwSXB6S2N4MjJCZWV2SlV5WE5yYzhuQXBkUUxLdkRlNHl6QjUxNUhtYW8yMW5ZbFRhaFZYbk1rdDM5SnI2ZGJkZkQyVnF3eE5uVGptT3ZyZTRIZWZmRGs3eVZPRXlKTU8xaFBmcjN5RjRGTDM1a2Z0V1VraHlVcWVCS0JzdmVNYkptaGpOSmNiUjExX0hjNHVLUXlnTHVzZ3Rxai1nZThKbmtYZzg2SDRjcklmdXFrdnJkMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-73daee21df1ccfd0f4",
+      "date": "2026-11-22",
+      "title": "odbiór gazu - artykuły",
+      "title_pl": "odbiór gazu - artykuły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Sb0Y3bUxDbGtLN2lndTlJbjNYSURkMXJPcnd6RmVGbWxQQkdHeFpSTElNVGFVcEozV2NlSmlGTGdFS081UE1zRDVFcnY2YTAzUlZRNmxwclpRWkdB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-254c8450a50cd357b9",
+      "date": "2026-11-22",
+      "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "title_pl": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkNCWnlvMDIxdVdOc1FoUmJfSGwtRU10T0tvU2phMkQ4MG5Va2VIdXZJM3ZDUGk0VlVSdkhtSnBlMnVlNzdOWXVSOEI3WUR0NGFVa1ZuX0ctakpPRUlBTUZOdVB2cG9KTjZvM2JaZFVuUV9uOVU3djdyN0UwQllQN01wSTJLX3ZFYXZ1bDZyMGIwd3pfc1phejZ4UzVnMUFoenFyZHdyc2dnazFHaE5zWmlOQlBuYkJhV0kxai1FeEI4SHZWcUJF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-23cf1de6ca5c16a431",
+      "date": "2026-11-22",
+      "title": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "title_pl": "NAJWIĘKSI KONSUMENCI WĘGLA NA ŚWIECIE. Chiny(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUxDNVhSd0dHWFpVc2dsdUNIU0tKUWVDbHF5dlNiVk84OEV4X2JHaktiaDY1SFp1bGRlTk1aYXNhTUIwSU5ya0phM1Q3N0NBcjZhYXhxTDhJOWdpdnlHOTFLVWVOdzVoOXZVVXgzMWVGdVlXbUZTRGlyZ3V6TUdpdFY1SDZDR2loQkhGQkJaRGNTdWs2NnZkcVVBQlBFbG5wODh1aVhBM0VnVk80TmpQMVZ6WmE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2288be8a60210f20ec",
+      "date": "2026-11-22",
+      "title": "Klimatyzacja zmienia światowy popyt na energię. MAE szacuje, ile prądu potrzeba",
+      "title_pl": "Klimatyzacja zmienia światowy popyt na energię. MAE szacuje, ile prądu potrzeba",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPanl4WHFZVkRFU3dsUVRKbUkwdXJxR0NPXzJZX1RNMUltOU94QUN2c1VRS2dmc0F4SG16djhrdm01cFZtNGJYREJhc1E4cmdaYzJLU1ZDN09vRzJnU0t1Y2ZsZTRPMGREbm42cnpjWFk3U29LXzQtODBscDBDR2RWUGxIcXBkQTZOeVgzeWZ4ajI2QVF4a05SalZKdk9CVjhqQnBHX0lsUmlCTFBuRWxtRGIyRldUZ0tyU0c5NnJOLVBMRmVOZWpjdTZyTQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-21d4fe581d847189ca",
+      "date": "2026-11-22",
+      "title": "Chłodzenie ważniejsze niż ogrzewanie. Światowy przełom w zużyciu energii",
+      "title_pl": "Chłodzenie ważniejsze niż ogrzewanie. Światowy przełom w zużyciu energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Globalne zapotrzebowanie na chłodzenie budynków po raz pierwszy przewyższa w 2026 r. zapotrzebowanie na ich ogrzewanie - wynika z raportu Międzynarodowej Agencji Energetycznej (MAE). Agencja prognozuje spadek w ciągu dekady popytu na ropę i gaz oraz wzrost zużycia energii.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Chlodzenie-wazniejsze-niz-ogrzewanie-Swiatowy-przelom-w-zuzyciu-energii-9232097.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-216b289d2672d19a6d",
+      "date": "2026-11-22",
+      "title": "Paliwa kopalne zniknęły z porozumienia COP31. Klimatyczny kompromis coraz bliżej?",
+      "title_pl": "Paliwa kopalne zniknęły z porozumienia COP31. Klimatyczny kompromis coraz bliżej?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Najnowsze porozumienie wypracowane w ramach szczytu klimatycznego COP31 w tureckiej Antalyi nie zawiera sformułowania „paliwa kopalne” ani nie wzywa wprost do odejścia od węgla, ropy i gazu - zauważyła w niedzielę agencja AP. Szczyt, z powodu trudności w osiągnięciu porozumienia, przedłużono już o dwa dni.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Paliwa-kopalne-zniknely-z-porozumienia-COP31-Klimatyczny-kompromis-coraz-blizej-9233126.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-17192fc219039799f7",
+      "date": "2026-11-22",
+      "title": "Re: SprawaColumbusEnergy.com",
+      "title_pl": "Re: SprawaColumbusEnergy.com",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGZVeGMtVktvSjBIRlZiZmo4aHQyNVd4NlIzYjRtbmxaSXdzZkNrMXpUTWJydFQ2SGQxWGRoQ21QVlIzSW9GS0VuNnJINlhaQjlabHNXdDFnRFR6OFdjUnVDOW5odE9hbWZBbFlwNHI2OG5nM3pCNGpfMmxReEJqS05B?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0abe52ffca621ea8d8",
+      "date": "2026-11-22",
+      "title": "ENERGETYCZNY PRZEGLĄD TYGODNIA",
+      "title_pl": "ENERGETYCZNY PRZEGLĄD TYGODNIA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24.com — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lV0kzMjhHMHpwdW05T3pvZ2dkQTFfX0hRNnNNMXAtdXFBWnlGd3JzdzI2RGZYX3JmNjJidW9JQUVTVmxwSl9ITXphZ0NVYUUzbElZQ0R1YjFqR0xXZFZlaXZCUVBQR29NVVVoNjN0dDVwQ28xNzhj?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24.com",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -263,6 +611,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-9b9deeae854145fd5e",
+      "date": "2026-11-21",
+      "title": "Solaris dostarczył 13 autobusów wodorowych do Francji",
+      "title_pl": "Solaris dostarczył 13 autobusów wodorowych do Francji",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE1ZWnJnaWVyM1E5U2EzVFZPdEE1dU5fWUZHX3pUbjhiX0Y5eFJ4S3ZFRGF0emNNNEhtcGJNeUJjbFM4U3g3bjlXV2ZSOE9fMVpQYjhxX2JPZGZpUnRFLXlsZDJ2aUpxVS1hem9fcWRsRUFvUWNwZVhNN0F5QWJqdVV4czR0QjhnR0dydnJlLU9Pa2RoZDdZWEFvSEJsUFk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-96878b9210e0c390ac",
       "date": "2026-11-21",
       "title": "„Świat potrzebuje radykalnej elektryfikacji”. Inicjatywa „35 do 35” budzi skrajne emocje",
@@ -390,7 +767,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUN2Mm41N0VHYWpJQVF4MzFXMlhiOFlZcElBN3UwMDhJZ2pqVDM5NTI5Y1BSMTlYcEpBMXNFYWt3UXM3WHpaNzQ3cnkyVXBJQ0RVTGxKZHRKdDZYdG1XZmZVY25maER0bHV0bUFFbkh5Q3J2c1dSc2JGSFF2R1o3dFlFTTJpU2lka3lmRTRqQkNERlh2?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
           "type": "press"
         }
       ],
@@ -398,7 +775,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://www.cire.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -2932,6 +3309,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-6bf4973448a467e400",
+      "date": "2026-11-20",
+      "title": "Winę za blackout zrzucono na fotowoltaikę. Winna okazała się elektrownia węglowa",
+      "title_pl": "Winę za blackout zrzucono na fotowoltaikę. Winna okazała się elektrownia węglowa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnJCb0tDZWtRRy1xUVFfZDhzYkxJX0RHeHlqcFNNNGVLRHhNU0tsMWYxMVh5dXZkQnZNNVliTEF3WWpmb0FKZDZfOU5lRDZIRHVDWTN4d0J3RUZlMDQxOWVCZjBZOHJWNUdtUjRTZTU2RXZ3ZDJqc2R0OW53Uk51U2tuR1RWQjdpV3ZlSnpIU2p5bkhlUG1jNHQ5OWlHTklfRlBR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-6aa2265b748b13396f",
