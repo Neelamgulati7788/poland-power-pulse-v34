@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:40:59+00:00",
+  "updated": "2026-11-22T01:05:50+00:00",
   "signals": [
     {
       "id": "src-f98752d51ab7373145",
@@ -129,7 +129,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSndfMklJZ2ttTU1mRVJXbHczWDhPWGxIV2N3N3FWUE42V1d4T0gxWk1remdRMU80dFVQSnRTNW96RXhPTkt5STNaY21xM2EydmlZQTVuRktCS2Q1UUxGbEExOHJneWhoUXBGNmFoZHBUWTZRSzY1WURJUmVoLWpZVkVibFFua2xlLWZ1YmxmR2RfcWFsMzVFbQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0lsdTZXOU11NUhCYUJKem5ONFd2LTV1N21YTXNwM1ZReEtwNlUzOFR6UmFGdjYxdEhXQVNVYkZhelFFbVFLQmNUTFNDa2hydHg2Zld0NVBicDVpNUU1eS12UmFZNGR1M0tfcHlIZkpqQnVFT25BX3EtdGF5bFd6QjlodVVUbGg1NXlialZheXNocEU0bEhiXw?oc=5",
           "type": "press"
         }
       ],
@@ -766,7 +766,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ItekdSbHNIaUFOckNrWlRMMXpPUWx3X3l6R3JVbE1WZlU5OTN6SnZQczVsOXZYZnQ5WVg1M1hFVXpXVVYzN0R6azNkWjBlR0xxTVR5SmljODBveFp4UU9WdWxLY1AxVncxTGgxM09aRTVHa1JlNldHV3RHQzFET3BhRFBYUTdERmpmdWctZDZVQlRQckRHU3FYdjRDZw?oc=5",
           "type": "press"
         }
@@ -774,7 +774,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
@@ -1626,6 +1626,35 @@
       "evidenceLevel": "official_metadata"
     },
     {
+      "id": "src-c1bbc9beb4ee950705",
+      "date": "2026-11-20",
+      "title": "ML SYSTEM SA (27/2026) Wybór oferty spółki zależnej ML System S.A. w postępowaniu dotyczącym dostawy komponentów systemu magazynowania energii dla BESS Bytom | Biznes PAP",
+      "title_pl": "ML SYSTEM SA (27/2026) Wybór oferty spółki zależnej ML System S.A. w postępowaniu dotyczącym dostawy komponentów systemu magazynowania energii dla BESS Bytom | Biznes PAP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT25uVnBFYnFlb1llSFhxdFpiNlIyWGxDSGFkRlUyRFA2VFhRN19iUE9jX1daUXgwUVF0VTZtaS1tYTJudkRVZjE1d0U0XzBlZER1R19JUlB4d2M0eDk2M2l1S0hLNXdHbkVKWi1OV0tyX2pMZFpWRzlQN2Z5SzhMRVM3YlhUUmpLVjdyS2lzZENyOGYza3dpUkYyanJYZFU0RTRoU2tJTU0zTHUwMnJ3WHNWUGJSUGF0enc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-c068222e94b9eeb402",
       "date": "2026-11-20",
       "title": "Dokąd zmierza polska energetyka? Marcin Popkiewicz odpowie na Wasze pytania",
@@ -2058,6 +2087,35 @@
       "reviewed": false,
       "sourceIds": [
         "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9db1a7a7292fece851",
+      "date": "2026-11-20",
+      "title": "Azoty o krok od pozbycia się drogiego problemu. Umowa z Orlenem może zostać sfinalizowana na dniach",
+      "title_pl": "Azoty o krok od pozbycia się drogiego problemu. Umowa z Orlenem może zostać sfinalizowana na dniach",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWZvdE5rUGlhQVpKblZuY2g5RmxLcVhqNnZUc2VpcFRMT2haZHpEU09kS0F4RXphREgwdzNzaEpNN0J0TDVFaUZSV2VJWE1SRC1hdmxSNFgtcHIzYkI4Q3lHMEs2RXRHRTc3ODRxLWtFb3RfN2VkazN4UkFWTW5wU0VTTGk3bk9aM1dobTJmbjhiTFJ0SGtWOEtacW5CWVJWbktWa0ZYby04bGdYQzZ3ZkxHYlBBNnRwWVhaaWE3VXh2NkkwdFB0NXNfOExSMXhQTnhyT1Vn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
