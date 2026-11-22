@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-11-22T01:05:50+00:00",
-  "lastSuccessfulCollectionAt": "2026-11-22T01:05:50+00:00",
+  "checkedAt": "2026-11-22T02:14:09+00:00",
+  "lastSuccessfulCollectionAt": "2026-11-22T02:14:09+00:00",
   "status": "partial",
-  "successfulSources": 67,
+  "successfulSources": 71,
   "totalSources": 72,
   "requestedWorkbookSources": 71,
-  "newItems": 2,
-  "retainedItems": 3479,
+  "newItems": 1,
+  "retainedItems": 3480,
   "retentionDropped": 0,
   "relevanceRemoved": 0,
   "latestPublicationDate": "2026-11-21",
-  "polishOriginals": 3183,
+  "polishOriginals": 3184,
   "sources": [
     {
       "id": "1",
@@ -25,7 +25,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fenergia%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fenergia%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -35,9 +35,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "2",
@@ -52,7 +52,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpremier%2Fwykaz-prac-legislacyjnych-i-programowych-rady-ministrow%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpremier%2Fwykaz-prac-legislacyjnych-i-programowych-rady-ministrow%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -62,9 +62,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "3",
@@ -79,10 +79,10 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 11,
+          "entriesRead": 9,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
@@ -90,7 +90,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fklimat+OR+site%3Agov.pl%2Fweb%2Fclimate%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -100,9 +100,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "4",
@@ -117,7 +117,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Faktywa-panstwowe%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Faktywa-panstwowe%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -127,9 +127,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "5",
@@ -154,9 +154,9 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "6",
@@ -192,9 +192,9 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "7",
@@ -219,9 +219,9 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "8",
@@ -236,7 +236,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -247,7 +247,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aure.gov.pl+OR+site%3Abip.ure.gov.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -257,9 +257,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "9",
@@ -274,7 +274,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -285,7 +285,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fpaa%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -295,9 +295,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "10",
@@ -312,19 +312,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Auokik.gov.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Auokik.gov.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 9,
+          "entriesRead": 6,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "11",
@@ -339,19 +339,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy.ec.europa.eu+OR+site%3Aec.europa.eu%2Fcommission%2Fpresscorner%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy.ec.europa.eu+OR+site%3Aec.europa.eu%2Fcommission%2Fpresscorner%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 2,
+          "entriesRead": 0,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "12",
@@ -366,19 +366,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aeur-lex.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 60,
+          "entriesRead": 53,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "13",
@@ -402,9 +402,9 @@
           "note": "Market-data endpoint checked. This row is not a headline source; PSE news is monitored separately."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "14",
@@ -414,24 +414,24 @@
       "url": "https://www.pse.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apse.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apse.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 14,
-          "matched": 2,
+          "entriesRead": 7,
+          "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "15",
@@ -446,10 +446,10 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 8,
+          "entriesRead": 5,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
@@ -457,7 +457,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 2,
@@ -467,9 +467,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "16",
@@ -484,7 +484,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apgedystrybucja.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apgedystrybucja.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 7,
@@ -494,9 +494,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "17",
@@ -511,19 +511,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenerga-operator.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenerga-operator.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 8,
+          "entriesRead": 5,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "18",
@@ -533,25 +533,24 @@
       "url": "https://www.wnp.pl/energia/",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 12,
+      "matched": 11,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Awnp.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Awnp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 24,
+          "matched": 11,
           "coverage": "indexed_discovery",
           "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply.",
-          "recentWindowEntries": 100
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "19",
@@ -561,7 +560,7 @@
       "url": "https://wysokienapiecie.pl",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 12,
+      "matched": 6,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
@@ -570,25 +569,25 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 8,
-          "matched": 3,
+          "matched": 2,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Awysokienapiecie.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Awysokienapiecie.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 23,
-          "matched": 9,
+          "entriesRead": 16,
+          "matched": 4,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "20",
@@ -598,24 +597,24 @@
       "url": "https://energetyka24.com",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 17,
+      "matched": 9,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergetyka24.com%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergetyka24.com%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 62,
-          "matched": 17,
+          "entriesRead": 47,
+          "matched": 9,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "21",
@@ -625,7 +624,7 @@
       "url": "https://biznesalert.pl",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 6,
+      "matched": 2,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
@@ -634,25 +633,25 @@
           "language": "PL",
           "status": "success",
           "entriesRead": 10,
-          "matched": 3,
+          "matched": 1,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznesalert.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznesalert.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 7,
-          "matched": 3,
+          "entriesRead": 6,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "22",
@@ -662,24 +661,24 @@
       "url": "https://www.gramwzielone.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 27,
+      "matched": 16,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agramwzielone.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 52,
-          "matched": 27,
+          "entriesRead": 41,
+          "matched": 16,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "23",
@@ -687,22 +686,25 @@
       "group": "Polish specialist media",
       "language": "PL",
       "url": "https://www.cire.pl",
-      "status": "error",
-      "coverage": "unavailable",
-      "matched": 0,
-      "latestPublicationDate": null,
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 20,
+      "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "(site:cire.pl)",
+          "url": "https://news.google.com/rss/search?q=%28site%3Acire.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 63,
+          "matched": 20,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-21T23:40:59+00:00",
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
       "windowStart": "2026-11-19"
     },
     {
@@ -713,24 +715,24 @@
       "url": "https://energia.rp.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 7,
+      "matched": 4,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergia.rp.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergia.rp.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 17,
-          "matched": 7,
+          "entriesRead": 12,
+          "matched": 4,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "25",
@@ -740,24 +742,23 @@
       "url": "https://biznes.pap.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 8,
+      "matched": 2,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 10,
+          "matched": 2,
           "coverage": "indexed_discovery",
           "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply.",
-          "recentWindowEntries": 100
+          "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 2,
@@ -767,9 +768,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "26",
@@ -779,25 +780,24 @@
       "url": "https://www.pb.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 3,
+      "matched": 1,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apb.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apb.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 4,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply.",
-          "recentWindowEntries": 100
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "27",
@@ -807,7 +807,7 @@
       "url": "https://www.bankier.pl",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 4,
+      "matched": 3,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
@@ -822,20 +822,19 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abankier.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abankier.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 100,
-          "matched": 6,
+          "matched": 2,
           "coverage": "indexed_discovery",
           "limited": true,
-          "note": "Google News results; indexing delay and per-query result caps apply.",
-          "recentWindowEntries": 100
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "28",
@@ -850,7 +849,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aisbnews.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aisbnews.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -860,9 +859,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "29",
@@ -877,19 +876,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolskieradio.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 7,
+          "entriesRead": 4,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "30",
@@ -899,8 +898,8 @@
       "url": "https://notesfrompoland.com",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 1,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "rss",
@@ -908,25 +907,25 @@
           "language": "EN",
           "status": "success",
           "entriesRead": 12,
-          "matched": 1,
+          "matched": 0,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Anotesfrompoland.com%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Anotesfrompoland.com%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 13,
-          "matched": 1,
+          "entriesRead": 10,
+          "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "31",
@@ -936,24 +935,24 @@
       "url": "https://www.reuters.com/business/energy/",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Areuters.com+%28Poland+OR+Polish%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=site%3Areuters.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 78,
-          "matched": 2,
+          "entriesRead": 47,
+          "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "32",
@@ -963,7 +962,7 @@
       "url": "https://www.world-nuclear-news.org",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 2,
+      "matched": 1,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -972,13 +971,13 @@
           "language": "EN",
           "status": "success",
           "entriesRead": 51,
-          "matched": 2,
+          "matched": 1,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aworld-nuclear-news.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aworld-nuclear-news.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -988,9 +987,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "33",
@@ -1000,24 +999,24 @@
       "url": "https://renewablesnow.com",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 3,
+      "matched": 1,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Arenewablesnow.com+%28Poland+OR+Polish%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=site%3Arenewablesnow.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 90,
-          "matched": 3,
+          "entriesRead": 63,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "34",
@@ -1032,7 +1031,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Aenerdata.net+%28Poland+OR+Polish%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=site%3Aenerdata.net+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 2,
@@ -1042,9 +1041,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "35",
@@ -1054,7 +1053,7 @@
       "url": "https://ceenergynews.com",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 2,
+      "matched": 1,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
@@ -1066,19 +1065,19 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Aceenergynews.com+%28Poland+OR+Polish%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=site%3Aceenergynews.com+%28Poland+OR+Polish%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 20,
-          "matched": 2,
+          "entriesRead": 15,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "36",
@@ -1103,7 +1102,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Autilitydive.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Autilitydive.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1113,9 +1112,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "37",
@@ -1140,7 +1139,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aess-news.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aess-news.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -1150,9 +1149,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "38",
@@ -1177,19 +1176,19 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aenergy-storage.news%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 15,
+          "entriesRead": 14,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "39",
@@ -1214,7 +1213,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apv-magazine.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apv-magazine.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -1224,9 +1223,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "40",
@@ -1248,7 +1247,7 @@
         }
       ],
       "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-22T01:05:50+00:00",
+      "checkedAt": "2026-11-22T02:14:09+00:00",
       "lastSuccessfulCheckAt": "2026-11-21T23:40:59+00:00",
       "windowStart": "2026-11-19"
     },
@@ -1258,22 +1257,25 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://www.eib.org/en/press/",
-      "status": "error",
-      "coverage": "unavailable",
+      "status": "success",
+      "coverage": "indexed_discovery",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "(site:eib.org) (Poland OR Polish OR Polska)",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aeib.org%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 7,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-21T23:40:59+00:00",
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
       "windowStart": "2026-11-19"
     },
     {
@@ -1289,7 +1291,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aexim.gov%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aexim.gov%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1299,9 +1301,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "43",
@@ -1309,22 +1311,25 @@
       "group": "Financing & procurement",
       "language": "EN",
       "url": "https://reforms-investments.ec.europa.eu",
-      "status": "error",
-      "coverage": "unavailable",
+      "status": "success",
+      "coverage": "indexed_discovery",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "(site:reforms-investments.ec.europa.eu) (Poland OR Polish OR Polska)",
+          "url": "https://news.google.com/rss/search?q=%28site%3Areforms-investments.ec.europa.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-21T23:40:59+00:00",
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
       "windowStart": "2026-11-19"
     },
     {
@@ -1350,9 +1355,9 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "45",
@@ -1377,9 +1382,9 @@
           "note": "Latest API result window; not a full legal or procurement archive."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "46",
@@ -1394,7 +1399,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fgdos%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agov.pl%2Fweb%2Fgdos%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -1404,9 +1409,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "47",
@@ -1421,7 +1426,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 1,
@@ -1432,7 +1437,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aforum-energii.eu%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1442,9 +1447,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "48",
@@ -1459,7 +1464,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adentons.com+OR+site%3Acms.law+OR+site%3Assw.solutions%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 37,
@@ -1469,9 +1474,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "49",
@@ -1486,7 +1491,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 4,
@@ -1497,7 +1502,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abiznes.pap.pl%2Fespi+OR+site%3Agpw.pl%2Fkomunikaty%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1507,9 +1512,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "50",
@@ -1519,49 +1524,15 @@
       "url": "https://www.gkpge.pl/en/for-investors/current-reports",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 4,
+      "matched": 2,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 9,
-          "matched": 4,
-          "coverage": "indexed_discovery",
-          "limited": false,
-          "note": "Google News results; indexing delay and per-query result caps apply."
-        },
-        {
-          "method": "google",
-          "url": "(site:gkpge.pl)",
-          "language": "EN",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
-        }
-      ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
-    },
-    {
-      "id": "51",
-      "source": "Enea — investor relations & press",
-      "group": "Company disclosures",
-      "language": "PL/EN",
-      "url": "https://ir.enea.pl/en",
-      "status": "success",
-      "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-11-20",
-      "routes": [
-        {
-          "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
-          "language": "PL",
-          "status": "success",
-          "entriesRead": 5,
+          "entriesRead": 7,
           "matched": 2,
           "coverage": "indexed_discovery",
           "limited": false,
@@ -1569,7 +1540,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Agkpge.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1579,9 +1550,47 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
+    },
+    {
+      "id": "51",
+      "source": "Enea — investor relations & press",
+      "group": "Company disclosures",
+      "language": "PL/EN",
+      "url": "https://ir.enea.pl/en",
+      "status": "success",
+      "coverage": "indexed_discovery",
+      "matched": 1,
+      "latestPublicationDate": "2026-11-20",
+      "routes": [
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "language": "PL",
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 1,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        },
+        {
+          "method": "google",
+          "url": "https://news.google.com/rss/search?q=%28site%3Air.enea.pl+OR+site%3Amedia.enea.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "language": "EN",
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
+        }
+      ],
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "52",
@@ -1596,7 +1605,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.energa.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.energa.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 1,
@@ -1606,9 +1615,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "53",
@@ -1618,35 +1627,35 @@
       "url": "https://www.orlen.pl/en/about-the-company/media/press-releases",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 6,
+      "matched": 3,
       "latestPublicationDate": "2026-11-20",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 37,
-          "matched": 12,
+          "entriesRead": 27,
+          "matched": 3,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorlen.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 3,
+          "entriesRead": 2,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "54",
@@ -1661,19 +1670,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.tauron.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Amedia.tauron.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
-          "entriesRead": 1,
+          "entriesRead": 0,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "55",
@@ -1688,7 +1697,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 2,
@@ -1699,7 +1708,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ari.zepak.com.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1709,9 +1718,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "56",
@@ -1721,23 +1730,23 @@
       "url": "https://pej.pl/en/homepage",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 3,
+      "matched": 2,
       "latestPublicationDate": "2026-11-21",
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 2,
-          "matched": 2,
+          "matched": 1,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apej.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -1747,9 +1756,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "57",
@@ -1759,23 +1768,23 @@
       "url": "https://www.polenergia.pl",
       "status": "success",
       "coverage": "indexed_discovery",
-      "matched": 2,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 5,
-          "matched": 2,
+          "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apolenergia.pl%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -1785,9 +1794,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "58",
@@ -1802,7 +1811,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Afortum.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Afortum.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1812,9 +1821,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "59",
@@ -1822,22 +1831,25 @@
       "group": "International peers in Poland",
       "language": "EN",
       "url": "https://orsted.com/en/media/news",
-      "status": "error",
-      "coverage": "unavailable",
+      "status": "success",
+      "coverage": "indexed_discovery",
       "matched": 0,
       "latestPublicationDate": null,
       "routes": [
         {
           "method": "google",
-          "url": "(site:orsted.com) (Poland OR Polish OR Polska)",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aorsted.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 4,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "error": "HTTP Error 429: Too Many Requests",
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-21T23:40:59+00:00",
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
       "windowStart": "2026-11-19"
     },
     {
@@ -1853,7 +1865,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -1864,7 +1876,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Apl.rwe.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1874,9 +1886,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "61",
@@ -1891,7 +1903,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aiberdrolainternacional.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aiberdrolainternacional.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -1901,9 +1913,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "62",
@@ -1918,7 +1930,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aengie-polska.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aengie-polska.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -1928,9 +1940,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "63",
@@ -1945,7 +1957,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aedpr.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aedpr.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 1,
@@ -1955,9 +1967,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "64",
@@ -1972,7 +1984,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -1983,15 +1995,19 @@
         },
         {
           "method": "google",
-          "url": "(site:shell.pl) (Poland OR Polish OR Polska)",
+          "url": "https://news.google.com/rss/search?q=%28site%3Ashell.pl%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
-          "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "status": "success",
+          "entriesRead": 0,
+          "matched": 0,
+          "coverage": "indexed_discovery",
+          "limited": false,
+          "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "65",
@@ -2006,19 +2022,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Atotalenergies.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Atotalenergies.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 5,
+          "entriesRead": 4,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "66",
@@ -2033,7 +2049,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aoceanwinds.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aoceanwinds.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -2043,9 +2059,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "67",
@@ -2060,7 +2076,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -2071,7 +2087,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Aaxpo.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -2081,9 +2097,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "68",
@@ -2098,7 +2114,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -2109,7 +2125,7 @@
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Adalkiapolska.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -2119,9 +2135,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "69",
@@ -2136,19 +2152,19 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Abp.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Abp.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
-          "entriesRead": 9,
+          "entriesRead": 3,
           "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "70",
@@ -2163,7 +2179,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Avitol.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=%28site%3Avitol.com%29+%28Poland+OR+Polish+OR+Polska%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 0,
@@ -2173,9 +2189,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "71",
@@ -2190,7 +2206,7 @@
       "routes": [
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=%28site%3Acentrumprasowe.veolia.pl+OR+site%3Aveolia.pl%29+when%3A4d&hl=pl&gl=PL&ceid=PL%3Apl",
+          "url": "https://news.google.com/rss/search?q=%28site%3Acentrumprasowe.veolia.pl+OR+site%3Aveolia.pl%29+when%3A3d&hl=pl&gl=PL&ceid=PL%3Apl",
           "language": "PL",
           "status": "success",
           "entriesRead": 0,
@@ -2200,9 +2216,9 @@
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     },
     {
       "id": "72",
@@ -2212,8 +2228,8 @@
       "url": "https://balticwind.eu/",
       "status": "success",
       "coverage": "direct_and_indexed",
-      "matched": 3,
-      "latestPublicationDate": "2026-11-19",
+      "matched": 0,
+      "latestPublicationDate": null,
       "routes": [
         {
           "method": "rss",
@@ -2221,25 +2237,25 @@
           "language": "EN",
           "status": "success",
           "entriesRead": 100,
-          "matched": 3,
+          "matched": 0,
           "coverage": "publisher_feed",
           "note": "Publisher feed recent window; no claim of a full publisher archive."
         },
         {
           "method": "google",
-          "url": "https://news.google.com/rss/search?q=site%3Abalticwind.eu+%28Poland+OR+Polish+OR+PGE+OR+Baltica+OR+Ba%C5%82tyk%29+when%3A4d&hl=en-GB&gl=PL&ceid=GB%3Aen",
+          "url": "https://news.google.com/rss/search?q=site%3Abalticwind.eu+%28Poland+OR+Polish+OR+PGE+OR+Baltica+OR+Ba%C5%82tyk%29+when%3A3d&hl=en-GB&gl=PL&ceid=GB%3Aen",
           "language": "EN",
           "status": "success",
           "entriesRead": 12,
-          "matched": 2,
+          "matched": 0,
           "coverage": "indexed_discovery",
           "limited": false,
           "note": "Google News results; indexing delay and per-query result caps apply."
         }
       ],
-      "checkedAt": "2026-11-22T01:05:50+00:00",
-      "lastSuccessfulCheckAt": "2026-11-22T01:05:50+00:00",
-      "windowStart": "2026-11-19"
+      "checkedAt": "2026-11-22T02:14:09+00:00",
+      "lastSuccessfulCheckAt": "2026-11-22T02:14:09+00:00",
+      "windowStart": "2026-11-20"
     }
   ],
   "scope": "All workbook rows are attempted. Indexed discovery, API windows and publisher feeds have different coverage; no guarantee of every article. Polish originals are retained and labelled when English translation is unavailable."
