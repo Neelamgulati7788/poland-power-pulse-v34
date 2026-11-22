@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T04:34:46+00:00",
+  "updated": "2026-11-22T05:34:53+00:00",
   "signals": [
     {
       "id": "src-17192fc219039799f7",
@@ -390,7 +390,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ19OQUFsejFKMkhVVlpEYzZEb1pEdVVybzJ0RVVYbS1ja0xleTYyb0QxcXd1d29mcWhaZ0VydFdmMEFmTmdRaXlfbWY4WVJfV01YdlhDYUp2UGx3dk03SllydlQ0ZC1RM3l1MUJ3QXkxWFVXUUNma3hMNi05aGdhT1RXVWxXRGx6NlNGa3RxX3VlRktJQnNhSnB2dkZ2dnhreFFMLUtpYw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUN2Mm41N0VHYWpJQVF4MzFXMlhiOFlZcElBN3UwMDhJZ2pqVDM5NTI5Y1BSMTlYcEpBMXNFYWt3UXM3WHpaNzQ3cnkyVXBJQ0RVTGxKZHRKdDZYdG1XZmZVY25maER0bHV0bUFFbkh5Q3J2c1dSc2JGSFF2R1o3dFlFTTJpU2lka3lmRTRqQkNERlh2?oc=5",
           "type": "press"
         }
       ],
@@ -398,7 +398,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -461,6 +461,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-523322047a762d1db9",
+      "date": "2026-11-21",
+      "title": "Studenci z Krakowa skonstruowali rower MTB z systemem rekuperacji energii",
+      "title_pl": "Studenci z Krakowa skonstruowali rower MTB z systemem rekuperacji energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkhSUm9VMmhjU3JRQWFVUmJqcmUtMktPNVE4OFZOYy02NTlpbmFtaDZkNWRMcjBWa3JqVEcyWnR0b3pqMU9ZTXFtZElHTUhTNUJybGJuSlJyNURpTms3cWk1VjgyZVdrOE9OaEF3X0FtOGUxUDd1VF9URERrZG1HZ2dxOGExOUZPU3ZwSDdldk1fTWtuNmlSVWdtRTZEcndLWDI4TW1pMXdJdV81bHN2RHA5SFFDMURF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -969,7 +998,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBaNGlVdllXU3N6ZWxPamtsUnlndWpYeDdZQUFlQVVJZXVmQUJfRFU4TENMTXdDQTdBUDczbjBNQkxnMmNUdXJlOE15QXNobmtGWGVVN2U4VThhY0pEY1FaaFBlMUZKVXFyT2o5UllreFIxNWljNnR1b2hnc0c5ZEdqRlZsOXlURHlzOUZPWDJ0QnVqSGtuVGhyYlRDQ3Q2eG1ZOUtKUktyZldo?oc=5",
           "type": "press"
         }
@@ -977,7 +1006,7 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
