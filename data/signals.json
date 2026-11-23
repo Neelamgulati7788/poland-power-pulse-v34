@@ -1,6 +1,151 @@
 {
-  "updated": "2026-11-22T21:59:01+00:00",
+  "updated": "2026-11-23T02:36:06+00:00",
   "signals": [
+    {
+      "id": "src-84db9aca666b04fdd2",
+      "date": "2026-11-23",
+      "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "title_pl": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkNCWnlvMDIxdVdOc1FoUmJfSGwtRU10T0tvU2phMkQ4MG5Va2VIdXZJM3ZDUGk0VlVSdkhtSnBlMnVlNzdOWXVSOEI3WUR0NGFVa1ZuX0ctakpPRUlBTUZOdVB2cG9KTjZvM2JaZFVuUV9uOVU3djdyN0UwQllQN01wSTJLX3ZFYXZ1bDZyMGIwd3pfc1phejZ4UzVnMUFoenFyZHdyc2dnazFHaE5zWmlOQlBuYkJhV0kxai1FeEI4SHZWcUJF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2ab3895dbe54e46f6a",
+      "date": "2026-11-23",
+      "title": "Polska – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie – Zakup i dostawa zakup i dostawa sprzętu elektrycznego, geodezyjnego, oraz sprzętu do nauki robotyki i energetyki odnawialnej na potrzeby projektów „Praktyczne kształcenie zawodowe szansą na lepszy start - poprawa jakości kształcenia w szkołach zawodowych w Częstochowie” i „Częstochowscy zawodowcy”",
+      "title_pl": "Polska – Maszyny, aparatura, urządzenia i wyroby elektryczne; oświetlenie – Zakup i dostawa zakup i dostawa sprzętu elektrycznego, geodezyjnego, oraz sprzętu do nauki robotyki i energetyki odnawialnej na potrzeby projektów „Praktyczne kształcenie zawodowe szansą na lepszy start - poprawa jakości kształcenia w szkołach zawodowych w Częstochowie” i „Częstochowscy zawodowcy”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Miasto Częstochowa",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df48ff-58fe-a602-7343-eb000163bb02",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-259ce37d3278367749",
+      "date": "2026-11-23",
+      "title": "Brazylia: Co najmniej 5 zabitych wskutek huraganowych wiatrów na południu kraju",
+      "title_pl": "Brazylia: Co najmniej 5 zabitych wskutek huraganowych wiatrów na południu kraju",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5ZZjkwNVdVbTZjbnlWbU5mLTN4V21oc1BsVmpwRFFJN2J4VjhQTkRfTmVMdnZrRUk4VzlJVDRydmw4V1hUaEpZSzdReUs0WHlUZm5ieE9OQklPaTNyeWJ6NGgtNERBZUZBbV91LXZTa3pyU200V3J4U0NzQldnQjNGZDV2aF9JQTBWTUtRZm5CLUl4MHRwTzhQei1YX1RJMklBMjdITjZ0OVdMR0NNaDBOc3JMY2M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-159a899d89c479946f",
+      "date": "2026-11-23",
+      "title": "Polska – Transformatory napięciowe – Modernizacja populacji transformatorów – etap IX (Niedofinansowane)",
+      "title_pl": "Polska – Transformatory napięciowe – Modernizacja populacji transformatorów – etap IX (Niedofinansowane)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polskie Sieci Elektroenergetyczne Spółka Akcyjna",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df48ff-5b2b-0827-7343-eb000163bb22",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-0ec845e565203c1af5",
+      "date": "2026-11-23",
+      "title": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
+      "title_pl": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df48ff-5b1d-511e-7343-eb000163bb21",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fa803ddcefb95cfce1",
       "date": "2026-11-22",
@@ -183,11 +328,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Zużycie energii elektrycznej przez centra danych może się niemal podwoić do 2030 r., zbliżając się do 1 tys. TWh rocznie, a ograniczenia tradycyjnych europejskich lokalizacji skłaniają inwestorów do analizowania nowych rynków, w tym Polski - wynika z raportu EY \"Sztuczna inteligencja a energetyka: wzajemna zależność\".",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEZ2Y0NCalM4azNRTlhqSmxCNTRWaE1YVDRZMG1RRTBfcFlWQWc0cUM4QWhORDROTkRCV0w4cUJ3dEc2SjRQTHJrcmpiLVJIT1ZsUjlXdlNZOUw5NVdjdWFHTWw1TlpVQlJOTkZFQ1Z4ZW9zdE5waXVUSWNyVDZRbmtMUm16bktsalpVS3hIY3NnZ2lGWEJGbm5zdUZqQncwR21JUHBqWG1lNnJqT0dSZXFDQjlGb3FVX3c?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Centra-danych-coraz-bardziej-energochlonne-Polska-musi-przygotowac-sieci-9230824.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -197,6 +342,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9ca9bab4d4bb66a080",
+      "date": "2026-11-22",
+      "title": "Koszt trans. tony węgla z Australii/Indonezji do Europy(...) - Forum",
+      "title_pl": "Koszt trans. tony węgla z Australii/Indonezji do Europy(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEJFSEpZNlVxY29CVVpzLXRnZXFuRXEteDhCMVBUR0VHdnZFSnQ3b0dqczZDSEk4MWgxMnhFSlJLa2RMTVBmSUxIMEpfclBsdk1BSGhJWFBVejlQaXBzTVpoQ1E4THFJQjVXYy10SFptQlI1OFFnRDlKVFRQNFFmRTlCX190blhlTFpjdWZpdVlEUUV2UHVwZEYxX0ZyclZlcm5tcUY4Z0J5UFhQcDZKWldicm85dU9ZV2kw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -217,6 +391,35 @@
         {
           "label": "Bankier.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGE1Z3UwSXB6S2N4MjJCZWV2SlV5WE5yYzhuQXBkUUxLdkRlNHl6QjUxNUhtYW8yMW5ZbFRhaFZYbk1rdDM5SnI2ZGJkZkQyVnF3eE5uVGptT3ZyZTRIZWZmRGs3eVZPRXlKTU8xaFBmcjN5RjRGTDM1a2Z0V1VraHlVcWVCS0JzdmVNYkptaGpOSmNiUjExX0hjNHVLUXlnTHVzZ3Rxai1nZThKbmtYZzg2SDRjcklmdXFrdnJkMA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-80e74c42529c75be81",
+      "date": "2026-11-22",
+      "title": "Australia zakazuje nowych kopalni węgla.",
+      "title_pl": "Australia zakazuje nowych kopalni węgla.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWllVakxSdzY4Y0hDOG1VYnlEVno5MmNZOHBFUFozcHlPZ092UXBQOXpFZVNUQVNybDBJRTF3VGhiRElwRW5CWDB1R0JqZUlFQzFkVHNfWVBFTmtmUWt4TkR5X3d3MnA5THFjWGhGaVdVU2dMd1ZON1JkTGN5cmJjd1Njckl0Zm1vMENoSVBqM0Fxdw?oc=5",
           "type": "press"
         }
       ],
@@ -292,6 +495,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-57600ac3d6439f0bbb",
+      "date": "2026-11-22",
+      "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "title_pl": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmR6VzhvQ0t1QUplZV9vN0ZoZ1l0RzZfSnJqU20ycG5BbTRKZUJ4ZDB5NFZqaGlud1QxV0lpSmFBUnFjZk04eFEyQm5BdXJBaDJaaURwODhJaElqRTdJRlB6Uk1YMmJsenJrQXdZTW1LVHhsZFJXUlhxUGI3SHlpTlFNWVVEeVdwV25EaWRwQjh3dFlQQk8xTmhVOGdtT0FGWDZHbzVDVjVKUUQxc19UQUpkUG9vTVY4VVNOenUzcDVfdlJUSHAwRUFJbkFpdlZ5RU1DZUJKRktOVFpzbFZJaTNBNDg5SDNnOEoxN2ZMU2g4NUZPOTBKWEViTTM?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-550afd7ef0860c8dbf",
       "date": "2026-11-22",
       "title": "Nawet 35 proc. gospodarstw może dotyczyć ubóstwo energetyczne",
@@ -321,6 +553,35 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-4189c7199266a6f9aa",
+      "date": "2026-11-22",
+      "title": "Bankructwa hut wodorowych (uzależnionych od dotacji).",
+      "title_pl": "Bankructwa hut wodorowych (uzależnionych od dotacji).",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3FDbHFaRXFjckpvdVBxNVJHcWQ0aWtJX3pOX0VnN2xqdWVTZnhtSzAwOHdiQmtac21feGVLLXVGcWswcGx6WjMtWml0ajlRWXNlNWNPNjZyR3BVTWxfUjZ3VVNXc3EzSkxMamwzbzNMTVRWSXZpd1k0T2xad0Y2R2Z1b0UwUzdqNEh0cUVFbERrY212SjdxTHJzREtWdG0z?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-342d51699302b80e37",
       "date": "2026-11-22",
       "title": "Pomorze energetycznym centrum Polski. BGK rozdysponował miliardy z KPO",
@@ -342,6 +603,35 @@
       "publisher": "Bankier.pl",
       "publisherUrl": "https://www.bankier.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2676cdad4af2b051c1",
+      "date": "2026-11-22",
+      "title": "Kryzys energetyczny potrwa długo, nawet po otwarciu(...) - Forum",
+      "title_pl": "Kryzys energetyczny potrwa długo, nawet po otwarciu(...) - Forum",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1d1dU0tVUtXaGZuTVJvRmtHMXpiWXVRdl9uOVM4Z1lfeFN1VUpIc2VwMGxZYjhyZW9aa3RMNUFaU2lFcWY5UVluMTZZRlVmMWtYYnprVnUxNDlfX3FhT1BGRndyOXd1VTVtdGZfQVNYM2pHY0RVRVljZ0dRLXRLb2QtVWVGeXQ2cWMtQkw0eUpIcW5BYXNLVG9GU2lyR2twMVpjQTZxbkJaZXk2a25vdTVmZ24?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "27"
@@ -390,7 +680,7 @@
       "links": [
         {
           "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHlCc2NaNDNVcFRoa1NRZ0JVdkE5Ynl3T3BUVlllbDRVOGUyMmhJS3lSX0prby1lVUt3VnkwTUJtOE9mSTZCVnFuTWNIMmZFa3N5N1FMamwxNEowalBYMzkzdEF0MG9LOG1PRkdYbXY2R1dRZEZKd2IwSmxwZGpwclEwWGoxV0Y5cDdGOGp1Mnk1elUzTE5GbWF1cFVNRkZKZUhWV0VNSFlibnZYR3g1N1hpWEp2UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFJoUnFSTHZrcy1KSjktM1g5ZDhoQW1HdzBzNl9EYTY4a29waHNNMXVNOU5FSG1NeTNMRTV6YWwwX3hxM3JNLXRmZ09DVUdXRC1yZHQ5SkRROG5fVGtES01IQnAxR1FSaHNTV3JfYTBzeHNXNzFwWkRXbVNOcS1iQXlJdjRFYTJlYWFyaWJyRThiS2xXYTNLYW42N2hvbDNQVFFCYlYzRHU4UWhubmRzbXFfNWxaMDRz?oc=5",
           "type": "press"
         }
       ],
@@ -524,6 +814,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-108204de28c3e2da7d",
+      "date": "2026-11-22",
+      "title": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "title_pl": "JSW to monopolista w UE w wydobyciu węgla koksowego.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMU5GOG1WalNXRG9aNTA4M2pSd0F4QnRERmpRdTlDd2EtNWlVWjNrcWFhTE10YXR5eVRZdndBYnIxWmRiY3hSS3V3c3o0bWlXRVVyNFJCZXUyNktiRTR3TmZzcFpVNlhDbVdVWTBCVVhCblJ1ZjNOLW9iTDBkZGd0R3JaX0EtalJXUVFQVXVtU3RvejdleURmZTRlUkUtWU5wSFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-0abe52ffca621ea8d8",
       "date": "2026-11-22",
       "title": "ENERGETYCZNY PRZEGLĄD TYGODNIA",
@@ -560,11 +879,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Centra danych odpowiadają obecnie za około 1,5 proc. światowego zużycia energii elektrycznej, a za cztery lata ten odsetek może wynieść ok. 3 proc. - wynika z raportu firmy EY. Pod koniec 2025 r. w Europie Środkowej znajdowało się ok. 25 proc. wszystkich europejskich centrów danych…",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Centra-danych-rosna-w-sile-Polska-musi-rozbudowac-sieci-i-zrodla-energii-9230998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2pJNFZfTHhwV195ZFR3V3pwUXNDQUstQ2pkV3NsR3lpcnltNXR1RzhqY1pIRkJiVTVJT2U2UXVtbXZXd0VZZFJXeTFudkNaVFpTYXRfT0VCVjVLeDBKd2lqVmZ3cFRSMFFfQ1dDWVZMN3BCNnE1T1BQR1hXOEJpNGtTcU5fVHJienNHdVR3OFFkS3VtZEJieWoxOEFZdE04cEtQQjFrZjBmbDdnVEJYeGUtTktUSFhja2c?oc=5",
           "type": "press"
         }
       ],
@@ -578,8 +897,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-ff6abc900e85eb14cc",
@@ -925,6 +1244,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8bc02fdec75c05c4a3",
+      "date": "2026-11-21",
+      "title": "Sejm uchwalił nowelizację ustawy o osłonach socjalnych dla pracowników elektrowni i kopalni węgla brunatnego",
+      "title_pl": "Sejm uchwalił nowelizację ustawy o osłonach socjalnych dla pracowników elektrowni i kopalni węgla brunatnego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQTZTVlI0R1l5bEJ0X2RQci1vTGlMRXRmbTloZUtyRlFqU2RUY2xMdnNVYjF6SlBlM3h5bVlzZUFRRjhabmNEdGMxcUZ4TkNsQjdnZVpQb2FBY2l1SnZyaWhueVBhRjcyYzJSNDBLbmtLalR1eWlGUE1vVG5lN01lRE12bldXamtpR00zdFF6SlhldFRZMFJucmdPM2NndUVaZ2Zidk5CLUFlMEotb0RnblRiU3c3YlJNejJuUm42UHJZcVBZLVczN1QzUXc3UjVIUUlPTnExYXFZS2VqZFlUdjZYOFBrVzA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3757,7 +4105,7 @@
       "links": [
         {
           "label": "CIRE.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnVqVG1iN2lHb0Rjd01oNjlmQm51X2s2UXZfekVVZDFlT2FvN2tEQVBfQlVNUE4yWUpNYzFRUDJmMnpEZzNIVzllY09wcEJDUXg4b21sbW9CaHpIM0hIS3d0YmNGUVk5SDIxNVI2bzZSWjdvdk1ldGxGMlczQkRXYkpXUEJXd3RhTVN2N3ItSW5hMTVIV3ZEZGJKWWk0ZFF3RThhbXZSZnplcWRmby1WQlFpamUxUGxzenNjTlgxSjlHQ0VvU1JrU1daM0ZqZk9UcVc0S09TN1VLdTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa1U5STkxdTRKRWU4ODlGZEVxSTItMTlDaFE5WDB2VTRSV2taZnQ0TzZ5YkM4SEIzOFNwUmdfdnhhbzQyb1V5SDZCdENuSWJ1ZW9FTFVOUmJTbzNUNVJnQ0hXLXpiNjZyTndIa2x1RlA5d2o5b0NTSWRHQl9qQzc4MnJlUzZ3REd2cHptYkQ1ODl5QnFOeVBzQkc0VjkzU0JZQ2sxTm9sbzBUT19zOWVHZ0hDMmlIal9EU2NISTFBQkt2TWxINWIxbFNR?oc=5",
           "type": "press"
         }
       ],
@@ -3765,7 +4113,7 @@
         "ALL"
       ],
       "publisher": "CIRE.pl",
-      "publisherUrl": "https://elektromobilnosc.cire.pl",
+      "publisherUrl": "https://www.cire.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
@@ -4350,6 +4698,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-19816c5ed2080ec80a",
+      "date": "2026-11-20",
+      "title": "Elektromis Ogłoszenia sądowe",
+      "title_pl": "Elektromis Ogłoszenia sądowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZ3hsSkUtUkNhUEpSVE9xTkJnb21LZVcxNGVIeUFxSXpxVHZVTGNGUGJVbzdpZXJXX0ZCazNRbHk0V01aa2x4SGl2RmR6YmNoTVQ3MWxxMF9PN2UtS3BuVi01azhxcHVmdDdEalVweXQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
