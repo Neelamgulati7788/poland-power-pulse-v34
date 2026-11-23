@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:15:20+00:00",
+  "updated": "2026-11-23T22:53:46+00:00",
   "signals": [
     {
       "id": "src-f851236fe53e004202",
@@ -55,6 +55,35 @@
       "reviewed": false,
       "sourceIds": [
         "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f7301b135b60d28598",
+      "date": "2026-11-23",
+      "title": "Koniec największego projektu zielonego wodoru na świecie. Powód? Nikt nie chciał go kupować",
+      "title_pl": "Koniec największego projektu zielonego wodoru na świecie. Powód? Nikt nie chciał go kupować",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNW9YYjIzZ0FiZGhMR2V6dUhneTYzbnB5RGFCTm1XRnc1VmtoV0kzVU1jc0FRN0dsY1Y2N2ZsMGVla0VqXzVGNnF6X3JJc3Y2YXFtSlRMUTBkYktzdHdVNWl1S3RMZ3VncXFDNFdxLVFoUkswVVF5M0I1Z2VnNHdFZ29XelJWREdxVGdlMFctbVlzdDl4a0VhNXU0UWhCUzNPbDdLZWJ6UDhOV0dCelBWVHdzejBhbzlzdTNTeV9XNA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -118,6 +147,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ec6dcbefb8517814af",
+      "date": "2026-11-23",
+      "title": "Enea wspiera Morskie Centrum Nauki w Szczecinie",
+      "title_pl": "Enea wspiera Morskie Centrum Nauki w Szczecinie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDdKck9BaExnd2hZeGphZ1FOZ0F1Y1p0bjNGQ2pwTUdPVGY0T1dGRnNDX09xeHFtZC1ZUElrNTQwbzVSRThDRGZLcDFxRVl4TWVCb2xaS1pOcUhPb1VteU05NTh0TnJ3ck5TdTE0MHBaYTJxLU1kNmRmZHUzSTBFRUZnZkxnYXk1a1dvNEUwYVlnME1fTUdwNE9VYU4xenlRZ2w1M3NlWQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-ea51d42e04fc2e8775",
       "date": "2026-11-23",
       "title": "Polish energy ministry recommends new cybersecurity requirements",
@@ -142,6 +200,35 @@
       "reviewed": false,
       "sourceIds": [
         "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d76d33aebe9ceadcfb",
+      "date": "2026-11-23",
+      "title": "Procentowy udział węgla kamiennego w produkcji energii w X wzrósł w Polsce rdr do 44,34 proc. - PSE",
+      "title_pl": "Procentowy udział węgla kamiennego w produkcji energii w X wzrósł w Polsce rdr do 44,34 proc. - PSE",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV08xU3YwM21oMTVQSTdTVkpUMWV5dVNVV3VHcUNWTXlBOUVGOHVJUG96cDBSUnozXy1UNS1uX3NNeHI1OTl3U3MwNDBTUjNOcEp3Z2NfM2ZNSmVkNF9xbThCVVo2OHZOOFkwV3ZMS280aUF1LTJOLS00OGVpZlM3X3dIeFFkcjR4UDRsckNic2dXa040U3l5Z0NPMjd0b29XUHJYbnFhNXFRRllGdWF0aFZybDdfSXdIUTdRdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -176,6 +263,93 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-c02c4df32bc8ffa0b5",
+      "date": "2026-11-23",
+      "title": "Produkcja energii w Polsce wzrosła. Węgiel wraca do gry",
+      "title_pl": "Produkcja energii w Polsce wzrosła. Węgiel wraca do gry",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0FlelRLVmFVMjVmTk9vSm9wOU5aekI5Q2Y2bFBjeVBOcE96emY4QmRZb25BajU2MDFYUlFZaWtBRWJ0SmdnaHg5QkZwdC1ad3hjWEhQcExuZkQ0Z2Z1UlJfSDMwZ2NtZ01qekdrR3JrU29rS3kwcnU4OUNLVUl2bXphTTh6aUFUV1BRaWM4Rjc2dGhZaDBiN2x3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bf72abdbac4b7b8a0a",
+      "date": "2026-11-23",
+      "title": "Finowie nie mogą magazynować wodoru w kawernach solnych. Mają alternatywę",
+      "title_pl": "Finowie nie mogą magazynować wodoru w kawernach solnych. Mają alternatywę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3o3c25hQzJZdEMyRUNROEQtVkFCUHBoQmhoRW0tSWZnUVdycDZuZHppaUVpdTFWTzlzeEIwN2hWM2xnWFBLaFRsbUxBLTI5TlVKS21QUDNXNWF5N3B5MWZ6bzZwYUJBV0cxMXoyamNFMDNUdS1yTFJnb2hVcDlocjFCYzJoR3VJWW5Kakl2R0dFUnZiUVNPR3FyZk0?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-bf29a8c8e4f5e293bb",
+      "date": "2026-11-23",
+      "title": "Polski węgiel pod lupą rządu. Do prac włączono największe spółki",
+      "title_pl": "Polski węgiel pod lupą rządu. Do prac włączono największe spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Minister Energii powołał Zespół do spraw wydobycia węgla kamiennego i brunatnego - podał resort energii w komunikacie.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polski-wegiel-pod-lupa-rzadu-Do-prac-wlaczono-najwieksze-spolki-9233739.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-bbb4fc1da0ef624f99",
       "date": "2026-11-23",
       "title": "Gas Storage Poland złożył ORLEN ofertę nabycia magazynów gazu",
@@ -200,6 +374,122 @@
       "reviewed": false,
       "sourceIds": [
         "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b86d6b270a03bd2079",
+      "date": "2026-11-23",
+      "title": "Energia dla wiedzy. Enea wspiera Morskie Centrum Nauki w Szczecinie",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Enea — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeU9pTzAxX1RNMWZjMF9ZWmlHUEZwU2RvTU5tdFZQbEtCcVl4cjBqR1d3TExiQXB5UUxmYmpyLUtJNnJRYUV6el9XM1lsMm9yaGtQQXZWX0NSWVl4cktSbl9sZHZZX0pndjdTS21yTk9wM1pReGpuQzNDa1RMcTBTYVlZNVpsSVpvSTkzTGZkTXlRSGpWMzM4c2ctNnVzWFE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Enea",
+      "publisherUrl": "https://media.enea.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "51"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b75901e79c053d95a5",
+      "date": "2026-11-23",
+      "title": "Polska ogranicza emisje metanu, ale kopalnie wciąż daleko od unijnych norm",
+      "title_pl": "Polska ogranicza emisje metanu, ale kopalnie wciąż daleko od unijnych norm",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Emisje metanu z polskich kopalń spadły o 21 proc. w 2025 r. – poinformowała Fundacja Instrat w opublikowanym w poniedziałek raporcie. Mimo to większość kopalń wydobywających węgiel energetyczny nie spełni norm dotyczących emisji metanu, które zaczną obowiązywać w 2027 r. - dodała.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Polska-ogranicza-emisje-metanu-ale-kopalnie-wciaz-daleko-od-unijnych-norm-9233630.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-b3ad7c46cd3407ab2e",
+      "date": "2026-11-23",
+      "title": "Ile gazu przypada na wynagrodzenie? Sprawdzamy, jak zmieniała się relacja cen i płac",
+      "title_pl": "Ile gazu przypada na wynagrodzenie? Sprawdzamy, jak zmieniała się relacja cen i płac",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVJZLUlUeHdRa3hyeUJYTS1oWW9vUHI5XzNFc19iYUtldjBfR2xoNGRrTmRxdGJkZkctdHVrbXhBeFJsTFJvNklUeXppN3RuYVpZOU03RU9McVFEVlhOOXRMRlJCdjg1RnFPa0dyMkVBRkZlMy1jbDR2aHBzdl8wMW5Nd0szaUhDeDliWUtDdEhoOW5TQW1tc2d5ZDNabTdlTWRVUm1jVnF1NTRMMU5MMkVIc2pfSEhvU2xERkh6cFdDXzdhNHE4d3RYMU1YV0dRd2lGRktn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-acfb0d9b9f82aebeb2",
+      "date": "2026-11-23",
+      "title": "Żory inwestują w kolejne autobusy elektryczne",
+      "title_pl": "Żory inwestują w kolejne autobusy elektryczne",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUllJMFR5QmhtRjU5Tmx5R1R2bzhTUzlEVGJxcExnYTJ3R09WS2swTnZUUGVqU1ltc2IxbHpxeGFTc0pHUDl6dklFaU1EXzV4VEgzTFRTaGlRdHpGZXJZRE5PRzFGVjFlXzBvWGNZT2pmZktBa0FqMjJPZTBINUhyRkI1Y09qeHVxSGk0SHlZTUU4NXNJVGllS0pxWDN6YU9DX1dPY3p5eWQ4NXJ5VWY3S0tZVHVJWXc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zielone-samorzady.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -244,7 +534,7 @@
       "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "WNP.PL — Google News discovery",
+          "label": "wnp.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUZSMDBxRU5jdlRKZnFyV3ZfdnRBaGZpcWRiREx4ODJNZmJidU5qNk1UalI4ZnlLZmZlLWRDa1VIbHd3RkZxb0k2WGF0UjYwWExVVnNLamxwX0E1VWdjN09jQVNpdzE0V2kwQXFFVG96UE95Wm83aHcxdl9LXzh4Z1lidEdrZlhyRzFyaUtyVFNvUzctNEhVanoyRGY4SElseDBLMmRHSy1BQ1FzdFh2cEhEMnJ3dUJLOFVBdA?oc=5",
           "type": "press"
         }
@@ -252,12 +542,41 @@
       "cos": [
         "ALL"
       ],
-      "publisher": "WNP.PL",
+      "publisher": "wnp.pl",
       "publisherUrl": "https://www.wnp.pl",
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a178fad34fbccb9155",
+      "date": "2026-11-23",
+      "title": "Strona 2605 z 2607 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2605 z 2607 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRWJrWVpTVEN1YlBJQTJHOExpTTVGVjhDT3RuSktsY1pwcE8xbjFmUVBTMlN2QWRJMThoU0FYbDdkWkJkV0QzSVo2Ql94M1BM?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -321,6 +640,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-9e11ae1bb88b3c4502",
+      "date": "2026-11-23",
+      "title": "Wielka transakcja naftowa w Norwegii. Orlen ma tam swoje udziały",
+      "title_pl": "Wielka transakcja naftowa w Norwegii. Orlen ma tam swoje udziały",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUVMVm1WbTY1Qkp1VUI0Y2JMblloeXU5UDJHMncyTDJ6cTZrZWxnRzg5U1hNUm1FX3hLaW51MEdSNnJOQjRkRkNqaHd4Ri1EOUVvQ1I5Ry1GSUREclBCVkNTQUZiQlVDOFJ5ZVlqdGY3MXQ1THdMTVBCVWRWa0dTVFNGSl9wajZVb3ZJbmpFOC16MFA5MlQ0MFdPRkFVVGd1bUItZDVGUjRpUzdHZEE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-9dfb6c40f1ae5e0633",
       "date": "2026-11-23",
       "title": "Europa chce uniezależnić się od chińskich modułów PV. Pomogą w tym… chińskie firmy",
@@ -374,6 +722,64 @@
       "reviewed": false,
       "sourceIds": [
         "34"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-92ab1a473fa3c9cd53",
+      "date": "2026-11-23",
+      "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "title_pl": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmR6VzhvQ0t1QUplZV9vN0ZoZ1l0RzZfSnJqU20ycG5BbTRKZUJ4ZDB5NFZqaGlud1QxV0lpSmFBUnFjZk04eFEyQm5BdXJBaDJaaURwODhJaElqRTdJRlB6Uk1YMmJsenJrQXdZTW1LVHhsZFJXUlhxUGI3SHlpTlFNWVVEeVdwV25EaWRwQjh3dFlQQk8xTmhVOGdtT0FGWDZHbzVDVjVKUUQxc19UQUpkUG9vTVY4VVNOenUzcDVfdlJUSHAwRUFJbkFpdlZ5RU1DZUJKRktOVFpzbFZJaTNBNDg5SDNnOEoxN2ZMU2g4NUZPOTBKWEViTTM?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8b734db10784f8a400",
+      "date": "2026-11-23",
+      "title": "Premier: nie zaakceptuję wersji unijnego budżetu, która miałaby oznaczać wyższe ceny energii, dotkliwe koszta społeczne lub osłabienie obron",
+      "title_pl": "Premier: nie zaakceptuję wersji unijnego budżetu, która miałaby oznaczać wyższe ceny energii, dotkliwe koszta społeczne lub osłabienie obron",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQzlqenNqMThTSjBEdU1QOXBWb2tlcFdsQjRjWWJpaUcycU9SY1pjMXB6dkhzbzVJOFk3YTN4bF91eHBsR0xjLV92RFNHUVpfR3J2WmhVOVBGNVNCd2VBUHBJbDNPdUpTcFVxcElxNWpiN3RkRDdta0FlX0kxU0d2Und0SlZsRlhEdkZDMGdwMm1jSXhFaG4wdkVSX01McXgzYi0taDd0dFV0d0hNUE5lMzAzdUV3Zi04RDRVQXYxU0t1M1FEVWUtYTlOX05ZaVY3bklyYjRwS1U3d0M3N3k2M0lramJaN3d1eG5nVkNQdGdnYTA3dG5oaW1R?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -582,6 +988,122 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7db9ac1933b92731cc",
+      "date": "2026-11-23",
+      "title": "Transformacja ciepłownictwa pochłonie nawet 230 mld zł. Rząd przyjmie strategię w II kwartale 2027 roku",
+      "title_pl": "Transformacja ciepłownictwa pochłonie nawet 230 mld zł. Rząd przyjmie strategię w II kwartale 2027 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMFlYZFRmMEF2V08yQjFXM1h5eFJtY1gtVzhKN1lsWXFKU2dQYmQ4X1NtczFhT1N0c190Sl95MDAxeEVCdWlKNmN6TEYtZzdfbmpqbTdXYzlxU2JxRlZkNk42dU55cWkwdUtaTFJoNkJQVVhzVlBDS1pyYXB1WUI2Rm9OTTh2NkN2a2x1VnlKUjBlYWRHYVNFZ2ttbDBKVUV4WWpkdnVUTmtrZk93cWNraXhSTTFoRDBtRHJmOEdlQi12aE4xa245Tmp0eHFicm14QWFtTnJ6LTN0cnhhRlJfalVpX1lxVXBOWWRLMw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7c32c059b8962852fb",
+      "date": "2026-11-23",
+      "title": "Szukamy projektów dla inwestora PV+BESS do 5 NW -RTB",
+      "title_pl": "Szukamy projektów dla inwestora PV+BESS do 5 NW -RTB",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSFpNTkQ0VmpwanF5U24yZUNuRFVOeTBudjczRmtnUml4QjY1U21tYzJjaWlYNDBFV0d5czRzQU5XM3RCVFFQbDExMG5fSGVCZlUyT2xOOUt1bmstelZKc3F1aE1HczdIYVpMUFpmaElSUnhtTnlXczlteXJ3dG9UdHFDaDlmeE9RdDZqOElrTHNrT3BqXzJNRHBFaS1aLVBJSTNYZlV5WQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-76d1b9b25ba5b97f65",
+      "date": "2026-11-23",
+      "title": "Japończycy wchodzą do polskiego sektora offshore wind",
+      "title_pl": "Japończycy wchodzą do polskiego sektora offshore wind",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR25LdWxHS2RlaF9ZYVExM0ZFSi1QQjdqbHVwNFJlQy01cnZBVl9CV0U5ZEVjeFJDbTFDaFpacVVpTnZiMGFlUWxqVjdrb1N0dlJrZ3B5amtOVWdPb3NvSVBJVkpzVXdtc0VkRmJpZVI5NnZiYzdtbDVLQVdLbFNNVFdMX1QwVW04dl9xTEFGdUdkVWdlczJ1YkhKa0JlbHB4TGp3bw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-71e84ec73f58872edf",
+      "date": "2026-11-23",
+      "title": "Rząd chce odblokować ładowarki w blokach. Nowelizacja ustawy lada moment",
+      "title_pl": "Rząd chce odblokować ładowarki w blokach. Nowelizacja ustawy lada moment",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Lada moment chcemy wyjść z nowelizacją ustawy o elektromobilności, spinając ten proces z budową fabryki samochodów elektrycznych w woj. śląskim i umieszczając tam też zmianę przepisów dot. budowania ładowarek w zabudowie wielorodzinnej - zapowiedział w poniedziałek wiceminister energii Piotr Masłowski.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rzad-chce-odblokowac-ladowarki-w-blokach-Nowelizacja-ustawy-lada-moment-9233501.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-6f0c925f2fe7018759",
       "date": "2026-11-23",
       "title": "Oferta Atremu za 72,3 mln zł brutto wybrana w przetargu PSE",
@@ -606,6 +1128,35 @@
       "reviewed": false,
       "sourceIds": [
         "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-619553702ca3c350fc",
+      "date": "2026-11-23",
+      "title": "Rząd szykuje przepisy, które otworzą drogę do rozwoju rynku wodoru w Polsce",
+      "title_pl": "Rząd szykuje przepisy, które otworzą drogę do rozwoju rynku wodoru w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzdQeFJIRmtqcUNueWlTc1RWTmt6NHRwR0FNUzFoQVFhUzNpbER1TE5VUE1nWHBaSE5VczBJSkxNWlh1LTVXS1JwT2x3LXpTNjROcm43S0ZzdVU3QmhJTlN4eDFWQ0xSeWxmWGZHaDlrWEJCTEFHM0hHTDM1QVZLYWc1UnIxX3diYUU1bDd2NDJZN2I5ckNiX3pnaVNhQU5UYVRDR0pRZXhNREpsZGgtMUVRY3U?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -734,11 +1285,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Ceny gazu w Europie mocno rosną po tym, jak prognozy pogody dla regionu uległy znacznemu pogorszeniu, co zwiększa presję na zapasy tego paliwa w europejskich magazynach - informują maklerzy.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Gwaltowny-wzrost-cen-gazu-Europa-szykuje-sie-na-fale-mrozow-9233362.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN3h0UFJnanVRZzJaUmdqbFRUdXFjeUlqeHZLRXktX2s5cVQzM2d3dHpOUGdDa0dkYkhlMENSRDZ2WFltVnZoUEdLODNIMHB0aEJVSVpCdTVBWTlPbWYyV20wSjdQaDc0emlySXNpaGozeFc0QUViT2hneWVYdllsbGFMQ0VHdWphb1JYWnhxdXpqVXNqR3ZxcGpwdkN6RHEwa19PUlhKclI?oc=5",
           "type": "press"
         }
       ],
@@ -752,8 +1303,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-4ad7f3d395e57a8a0c",
@@ -814,6 +1365,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-3fb5267a3454363dba",
+      "date": "2026-11-23",
+      "title": "ORLEN accelerates technological transformation with three agreements signed at P-TEC summit",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcE1VbGJWU1FMWmRvb0VCYk8yalc4TE1PZ3lCNUlMUUVCSW8tVjIxVFF1a2ZuWFdxa1Q2akR4UHpiNWtFcjZmU0hmYXdYb3ZxMmtydzRGcDB2WFlpMlFWV0VEcVVYS3ZfcU9rQmxWSk1UZXZwaUZtRklDcWZUcWRGMEt4bXRNZHdCZFRsYlFOQW1QNlRmaUxMRTQxNDdTa21PRllONnRwYk01TUVFcXpqc2xCUzVESUpCVS1aaVFDT2FlRXhHMklZVlRkLTV6MGNlTXlZYy1UY2M0MGFTX2k5T1drZ3NFRGs2cmF5QkhmbTNaUDBXYzJoZTJMSlFzT05ZbGdxNzBkVW8ybS1VcUFr?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3cf4c23cabbcd36fc5",
+      "date": "2026-11-23",
+      "title": "Kable, rurociągi i farmy wiatrowe. Dlaczego Bałtyk wymaga wspólnej ochrony?",
+      "title_pl": "Kable, rurociągi i farmy wiatrowe. Dlaczego Bałtyk wymaga wspólnej ochrony?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcExqYTdiRS1pU0N1WEdyNndWVjE4U1FkSk5nMjNZaklaMUI1anRrb3BqcmVLVllOeDZ4WER5ZUhYX05TWkh1ZFRqUWZSNS1HTHRDcngtWjVPMUNWSnp0bDhWcWo0N1dEdVVMUHVBZjdoRUl1SC1aMDRxbXBDRVNpY0dpVlFXWHJDWGt2U1h1X0o5NFp2Zzg3bDZPbVRKYWtZM1RWMWk5UG1yd1ZHNUxyaDRKR3pyeVJKR3liX1ZzTTg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3c22bb3782fcf324f2",
       "date": "2026-11-23",
       "title": "Strona 2608 z 2608 - Wiadomości z rynku energii odnawialnej",
@@ -838,6 +1447,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-385fe39ea877e01db4",
+      "date": "2026-11-23",
+      "title": "Polenergia aims for final investment decision on project in Romania by 2027",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkN6OTZPMWQ5X2hJU1hBN1U4Q3pMc3ktOGx5bkR1MnJfQXU3X2lhQkdLUUt5VlZzbV9UR0hGc2dCbTVDdXVSUUlOVS12VXpncUp4WTJjQXkzWkNWTndsRTN2a2RaOFBwVkswd1Y0dVZjSFhvejBxci1hNlZQdWtXRklwZ21iYWxnY3JpUHhmeW9uQUc1Qml3LWVuT3ZEQy1Wb1hR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "POLENERGIA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -899,6 +1537,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-3105bd267567e131b0",
+      "date": "2026-11-23",
+      "title": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 5,90 zł, benzyny 98 – 6,56 zł, a diesla - 7,32 zł. (PAP)",
+      "title_pl": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 5,90 zł, benzyny 98 – 6,56 zł, a diesla - 7,32 zł. (PAP)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWGpqWkV0aDI5bVVhWHoxU2tMNkhTU3MxbUtmRVZleDVqZmNsQWRwX3daQ1NpVkN5N0RkMlN2cXN4cFhoem96dDNlUGxmbHZGbV8xaXN5Ry1JWHpIdlo2QnBlMkRNbUt4TmRsWUhpVkZmLTl6LXpVLWtmYThIRkFvVzQ1WjFqb3JTZjNDbGZ1dzk0UDZ0N1NEblc5MS1oSG81NGxiTlQ5Q3UyZTJNRFMzSjlKUjR1Ylo3MFFYYW1kYWFzUExVQjBvX3UtTGs3WHl1YmdEVWc0dHgydTY5M0JBYVZja3NDMTN1UmN2aA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-2dd1d1695dc1620ed0",
@@ -988,6 +1655,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-276c28a464cd45f7eb",
+      "date": "2026-11-23",
+      "title": "Rosja szykuje atomową broń w kosmosie? Satelita może wystartować już w grudniu",
+      "title_pl": "Rosja szykuje atomową broń w kosmosie? Satelita może wystartować już w grudniu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Rosja planuje jeszcze w tym roku wystrzelenie w kosmos satelity wyposażonego w ładunek jądrowy - przekazał w poniedziałek portal niemieckiej stacji ARD, powołując się na zachodnie agencje wywiadowcze, w tym niemiecką Federalną Służbą Wywiadowczą (BND).",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rosja-szykuje-atomowa-bron-w-kosmosie-Satelita-moze-wystartowac-juz-w-grudniu-9233531.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-266f4573646bd1bf08",
       "date": "2026-11-23",
       "title": "Duńczycy dopłacą do leasingu aut elektrycznych. Skorzystają osoby o niższych dochodach",
@@ -1046,6 +1742,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-256700378550cea08a",
+      "date": "2026-11-23",
+      "title": "Gas Storage Poland offers to buy ORLEN’s gas storage assets",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "CEEnergynews — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDg3UXhuT0pWaHk2U1pHNmpWVURseVdYVzJnRnhzWkxOWThPOGNzMzNjZGkyaFNtVTIwZW5FODJzUG1RZWU3M3laNUd2SEtiV1h5X2NxU2UySC1ORkhCSWtELVFMVXhYV0JQMG9QMjBkX0t3V3BSNWtGdWFWRGVrcE9Dc29BNmpaQm9aWlpYMEhNNTBwU0pF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CEEnergynews",
+      "publisherUrl": "https://ceenergynews.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "35"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-22a9180026e2e5ea0e",
+      "date": "2026-11-23",
+      "title": "Amerykanie sprzedali Norwegom wielkie złoże gazu, w którym udziały ma Orlen",
+      "title_pl": "Amerykanie sprzedali Norwegom wielkie złoże gazu, w którym udziały ma Orlen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXJ3QWdmZmpGSnBJYXg5N1AySHhKVnZHY0NiakVHRllMQlE1M3pSQjBYbngwbGFjZXRYdzN2TzZSZ21GMmsxaXNUV01BVEdNSFZhQ1RWWEEzUXhRekQ5VUdMeHdJWUd5Z01Zc1YwOFhKbl96TDBtVzc4OXNQeHp6Nk84VXlSOWgzdGdNN3FkU3JwWF9vWGJDdWVya3FybG5QU3c?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-1db7d88956d86402c2",
       "date": "2026-11-23",
       "title": "Tauron podsumowuje wyniki za trzy kwartały 2026 r.",
@@ -1070,6 +1824,64 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1d06d6403fc0bc1b13",
+      "date": "2026-11-23",
+      "title": "Ceny paliw na wtorek. Diesel potanieje, benzyna 98 w górę",
+      "title_pl": "Ceny paliw na wtorek. Diesel potanieje, benzyna 98 w górę",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "We wtorek 24 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,90 zł/l, dla benzyny Pb98 6,56 zł/l, a dla oleju napędowego 7,32 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-wtorek-Diesel-potanieje-benzyna-98-w-gore-9233485.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-184e5cced20cf9f367",
+      "date": "2026-11-23",
+      "title": "Minister Energii powołał Zespół do spraw wydobycia węgla kamiennego i brunatnego",
+      "title_pl": "Minister Energii powołał Zespół do spraw wydobycia węgla kamiennego i brunatnego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzNLZXExcHVLWVVON0VyWnNCMHRudHctX1haekpQX1VtNU9Mc0c3Wm1qWG53QjZUMGtrZXZWTUVRLTN4eVBqZHJiYWVKOWdxZTQwYl9QLUIxb3kyTEFPbEpYRE1rZjJWc3VPZWZhVURPaW8tLXVMVmpzWHpORm0zTDN3dzMtTTd4cUs2Z01fanY5YU9fTXJablBRM1dhN2czVlFTdjM1ZEhpekpyTk5VVU5KR3RxSTVZZTJodmNn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1102,6 +1914,64 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-14c847188d9351f611",
+      "date": "2026-11-23",
+      "title": "Minister energii powołał zespół ds. wydobycia węgla kamiennego i brunatnego",
+      "title_pl": "Minister energii powołał zespół ds. wydobycia węgla kamiennego i brunatnego",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0VJVXhwcl9zNV9EMmlxcE1BUGI1Z3hGOXhIZWgwbDNEQmh0SUFiaHlVdk5ZdTAzTzFSTHd3bFk1WHBxVzN0TjhPazZ5Qm5sNUlYNmJLRXBrcjkxa2lwck40TnZtZ2RtcUNQUnIyRlNyLU5LaU4yRFVyMlNWRzlZcVJ1eXRSaDA2RHZubzRYSFJoSGNmMkcwZ0I2Qkw4TGV1TnBJdFM5SkxwRXFKODBpV1hn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-142f7f70a9d772ece7",
+      "date": "2026-11-23",
+      "title": "Transformacja energetyczna nie może ominąć Śląska. Wiceminister ostrzega",
+      "title_pl": "Transformacja energetyczna nie może ominąć Śląska. Wiceminister ostrzega",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGJxZEpqc2pJaUR1QmJDbEZzdlBOeHpnWkljaHZGRWh4UndWWFhDckJLWDZBVXZaakpWVzY2aDFQcGhVVlhybTFVNGU2aUUzM1QwaUdHSjh1V3BoUlZGcWlJbkpoT3NxM2Q0NVpKeXN2Qk1TSFU3X3VKQ0tsdm5VTkYwdm9sRFBpUkNybllZVnBVN09pU1V1R0l6Yk9XS3I1SWZjUWlJSFVMUHB2Vk9TS2dnbVFwTlVY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-0ec845e565203c1af5",
@@ -1162,6 +2032,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-095b904d22948412a3",
+      "date": "2026-11-23",
+      "title": "Polska Spółka Gazownictwa rozpoczyna budowę strategicznego gazociągu Kolnik-Elbląg",
+      "title_pl": "Polska Spółka Gazownictwa rozpoczyna budowę strategicznego gazociągu Kolnik-Elbląg",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUE2QlNiNnMxZjBYYndxNFlzUWRka09HcHJkSGwzeDlwN2lncEdkdTJDdFVyNDRSNWdhak9JWjdYU002SVlnelZxQ05rbE1tbnl2VjR6QkpiVFoxNVpjaWhiZEdIWE9iYml6aWJMTWlTMnV2aVRRX3NPNXZ5TFhDU3BkSDAwYUM5RlJkeFVlX1BTOEh0N2dqMVp5VGdBU3h0UWhvRUNDdFVaTFpSZ2RGSno2VW1NZkxxOG5ESm1jRUJXaklfRjQxZzdJalQyYmIySWpTcTd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-06f3eea621d4f81123",
       "date": "2026-11-23",
       "title": "Ceny gazu w Europie mocno rosną",
@@ -1189,6 +2088,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0287fca145eb79c74a",
+      "date": "2026-11-23",
+      "title": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY OBIEKTÓW POWIATU CZĘSTOCHOWSKIEGO NA ROK 2027",
+      "title_pl": "ZAKUP ENERGII ELEKTRYCZNEJ NA POTRZEBY OBIEKTÓW POWIATU CZĘSTOCHOWSKIEGO NA ROK 2027",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Powiat Częstochowski",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df49ac-98c5-c2b6-9ef4-5c0001e7cf1e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
     },
     {
       "id": "src-fa803ddcefb95cfce1",
