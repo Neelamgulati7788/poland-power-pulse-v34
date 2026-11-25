@@ -1,6 +1,122 @@
 {
-  "updated": "2026-11-24T18:49:39+00:00",
+  "updated": "2026-11-25T03:00:09+00:00",
   "signals": [
+    {
+      "id": "src-f44ac11d0d76ed5d47",
+      "date": "2026-11-25",
+      "title": "ELEKTROWNIA SŁONECZNA HELIOS 7, NIP 6653026456. monitorfirm.pb.pl",
+      "title_pl": "ELEKTROWNIA SŁONECZNA HELIOS 7, NIP 6653026456. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSU01wZkp4akRQVFRacHJwbHVlMWVkclhJdHlIdlRNRlppa0FwQ19DNURlNnBGVFFmN1BNQmtKT0xCZGVzS0xfaGJJbkRseWFteTVBaWVEeXJzTXd6OVJDMzZ3WkdsSzZsYzJEd3Q3N3FYdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-92b2ddfc94b442d5d0",
+      "date": "2026-11-25",
+      "title": "Tauron podsumowuje wyniki za trzy kwartały 2026 r.",
+      "title_pl": "Tauron podsumowuje wyniki za trzy kwartały 2026 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejY2aVYxTzdpZG51NXFZUDh0cktUT3JzVng4RlR3bzZ0ZFRLY1Rjd19xdTU0Z0xUNklZREthZDcwT1I3NVNMQTBGb2lJUVZXNDF0YlVLbUNqWHZMS0VtWjIyMzJQQzBXYkNkeUFSbG5DcWZrUXFoWlNuYWMtbS0wMXBRWDZ5UUQweGFaV0xhX2NaMUtobk1wN1JjY05ZNkZfVjh4cFFWNThPZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-8943f996d95eba712a",
+      "date": "2026-11-25",
+      "title": "Polska – Samochody osobowe – Dostawa samochodów typu furgon 6 osobowy dla PGE Dystrybucja S.A.",
+      "title_pl": "Polska – Samochody osobowe – Dostawa samochodów typu furgon 6 osobowy dla PGE Dystrybucja S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE Dystrybucja S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4a91-de13-0c4d-9ef4-5c0001e7e15e",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-2306839f3d89a70311",
+      "date": "2026-11-25",
+      "title": "Polska – Elektryczność – Dostawa energii elektrycznej dla Gminy Rzgów i jej jednostek na 2027 r.",
+      "title_pl": "Polska – Elektryczność – Dostawa energii elektrycznej dla Gminy Rzgów i jej jednostek na 2027 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Gmina Rzgów",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4a91-e059-2376-9ef4-5c0001e7e17b",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
     {
       "id": "src-fc2e646a13d2a6bf88",
       "date": "2026-11-24",
@@ -23,6 +139,35 @@
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
       "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-fb8fdab8fcd59bd53f",
+      "date": "2026-11-24",
+      "title": "Archiwa pompy ciepła - Strona 35 z 35",
+      "title_pl": "Archiwa pompy ciepła - Strona 35 z 35",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laHZlZ3ZVRmlNaTY0WXBLVUYtUzVxVXVRUW1QS2lmOTU5Vlhhd0V3RWdOYTVIS0k4cDJXY0NlWXRqQnRvSTFJYllnNlZIVEZvb2ZJX19fN2p5ZWl6emdOdFgwVmY?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
         "22"
@@ -67,11 +212,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Polish original headline; English translation is not available.",
+      "summary": "Premier Norwegii Jonas Gahr Stoere wykluczył we wtorek możliwość ograniczania wydobycia ropy i gazu. Zapewnił, że Norwegia pozostanie wiarygodnym dostawcą surowców dla Europy. Deklaracja padła dwa dni po zakończeniu szczytu klimatycznego COP 31.",
       "links": [
         {
-          "label": "Bankier.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMV9vaWpjWjZTUy0xQTBwTUhTckVZemdJSWlPR2JuWFhNTzM2U0tBM0JUMFAtZFdfTEdVamxYYktXUkdjcmhMSnNjSGp1YkhKT0hzbnJ1N3lMZEtVSnBZS3ppU2ZqR0gxZ0RDbWhVVHVXTnUyUXZPNWxOMGYzSXNjclV5aEZaMW1pN3RNYXBQWTJwem4xS0hVOXNNN0lzNXd4bURNVW1lTEliNGZtTi01dXh0aXRYNVdu?oc=5",
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Premier-Norwegii-Bedziemy-rozwijac-a-nie-wygaszac-wydobycie-ropy-i-gazu-9234474.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
           "type": "press"
         }
       ],
@@ -85,8 +230,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "google",
-      "evidenceLevel": "indexed_headline"
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-f528a119c8f5011be2",
@@ -205,6 +350,64 @@
       "evidenceLevel": "publisher_feed"
     },
     {
+      "id": "src-e9e8f9387eed574074",
+      "date": "2026-11-24",
+      "title": "PGE rusza z ogólnopolską kampanią „Dbamy o każde gniazdko”",
+      "title_pl": "PGE rusza z ogólnopolską kampanią „Dbamy o każde gniazdko”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjV3aVA1R1JSQlp4LTh3eml2bmNGVG55c2ZRTFp6MVhQb2R3bWlhajVMTUhQd0FjMWY3anpfQmFiOHk2U1BPSUNHSHY3TXJ5cEJIUGNxcXFnM3NQbmFXZFRGNWRwNTJ1ZUdoazVNejFqZnpuTlZmaDJldWp0YWxtZTktWEg4cTg2cW9kcDU5OGZFOUUzRm1LbW41V2x1UTdjeDZ3eWY5RmR6Q1FqdXZNenlUVQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e222d603cabb5c2cac",
+      "date": "2026-11-24",
+      "title": "Archiwa Pompy ciepła - Strona 27 z 27",
+      "title_pl": "Archiwa Pompy ciepła - Strona 27 z 27",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0R1FlekV2VWJGM0h5OGlJSVQxZ19uVTB0UTVvQjh0V0h4YXVXS0MtaWJ6V2hnaXRidVZZZlVONV9HWlQtcmY3STBDaEJBNHFyMFU4bGR0YjdHanNJdDN3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-de96a952caebd99631",
       "date": "2026-11-24",
       "title": "Mniej za prąd z dobraną grupą taryfową. TAURON ruszył z kolejną kampanią.",
@@ -232,6 +435,35 @@
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d80d6986cc364f0b3f",
+      "date": "2026-11-24",
+      "title": "Orlen stawia na gigantów, by chronić infrastrukturę krytyczną",
+      "title_pl": "Orlen stawia na gigantów, by chronić infrastrukturę krytyczną",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Orlen, kontrolowany przez państwo polski koncern paliwowo-energetyczny, zawarł porozumienia o współpracy technologicznej z Amazon Web Services, Microsoftem i IBM.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/orlen-stawia-na-gigantow-by-chronic-infrastrukture-krytyczna/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-d6fdb8aef8a3d444c6",
@@ -431,6 +663,7 @@
       "region": "Unspecified / Poland-focused source",
       "reviewed": false,
       "sourceIds": [
+        "14",
         "23"
       ],
       "discoveryMethod": "google",
@@ -461,6 +694,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c6a09ed6b1c135c922",
+      "date": "2026-11-24",
+      "title": "PGE publikuje wyniki finansowe i operacyjne za III kwartał 2026 roku",
+      "title_pl": "PGE publikuje wyniki finansowe i operacyjne za III kwartał 2026 roku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXy1zMDFIY2c3MGM0TWZTR2NVMEc0VXVPb0dGYjZxOGlTU1JyemVtcElscEJaOUpRbVlWdjV1amVpNzJrNWd1ZGNzT1JqWm41RDNreUc2enJnQVEyMmNlV0NBdFQyMWZNQkJzSDczc1JERE1OMTQtUzhEejBOaGF1aFU0ZnJWU3BwZWVkWHlNUTNCTlVlZlg1bmxSN292NTktdlh2TUFWYzVKY3ZKcjVSU0tWanZVaHJSLUZkemYzeEFVVW8?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -738,7 +1000,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGo5YXRaS2Q4OFpuQ0tKRG4zekttM2hKdXFPS2hZLVM0WlA5QmZ3SXFMdG5femdaVjVOUk1SSy1lUGtseUh3VGFfbnhlZlEtaEJzUkFDc3ZmRWVER1JEbHZvMFF4REdfWEJVVlc5TGFWZ2lrai1vWkU5R2l6WjA1dGlMdl9FZS1pamUweVgyREY0WS1lbFJVYnVUcWNQeFdQaVQxag?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOem13T0NfZktHdU9icFFjV2JkYXdUNERqWFdUTHlPLTk1endITzViOHI5RjNBbWlYUHYtdVdHY0d3cXJXMEF6eDR1YWdVTjV5T054aE9IaXhjejdnSDd3VzJ5SkFWRm1MSnpRZ01WamZLZUlCeEZHMnM0Yk5YQnRrOVVUeFkyV0ViTlFDWmRYdERjUHY5MlRNNUlwZ2EtSTZmWUFjTlluLTUybHJ0ZUhv?oc=5",
           "type": "press"
         }
       ],
@@ -751,6 +1013,64 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-9c70966c0761720566",
+      "date": "2026-11-24",
+      "title": "Postępowania kwalifikacyjne PSE Forward",
+      "title_pl": "Postępowania kwalifikacyjne PSE Forward",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne S.A. - PSE — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hbGlHSUpjYkx5OTlGRHNUbUVzbkRPRlNnTnlJTWFnUllxZzAyTkVacE1WNGVjbFhFX2paX1QzcDhQRFZ6SHFNaE92b3QzUmRET2plTUdCb013cVFJVTltMGJvcW9MOVJnNEE?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne S.A. - PSE",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-96df08d518f5f08db4",
+      "date": "2026-11-24",
+      "title": "Zmiany personalne w Westinghouse Electric Poland - SERWIS INFORMACYJNY CIRE 24",
+      "title_pl": "Zmiany personalne w Westinghouse Electric Poland - SERWIS INFORMACYJNY CIRE 24",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnBQTG00TE5Ib3pVaHZQcWFLeWRzZEctZ3hXUjhwbzMyS2Z1N2ZPQnpDdTZONWJuVEpvbkg4djI1UFRDRXZWM01hbDh5azVYT3BEWGtTUnVlbERvb08yWTR4U3JYTGxTbXB6UThxTUFuaWkyYlpndUpjeFhuMDRDVW9MYnhUaXpYQjdSRi10ZW5Kc082UC1hc2ZpaG42YnJyQXJRU3F2R2ZnT09kbFhTemJpU1M5QnlQRnQ5OA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -872,6 +1192,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8cfdaf553ffc30e908",
+      "date": "2026-11-24",
+      "title": "Najdłuższy norweski kontrakt gazowy od 40 lat. Umowa z Niemcami do 2044 r.",
+      "title_pl": "Najdłuższy norweski kontrakt gazowy od 40 lat. Umowa z Niemcami do 2044 r.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Norweski koncern gazowy Equinor ogłosił we wtorek zawarcie 18-letniej umowy na dostawy gazu do Niemiec. To najdłuższy norweski kontrakt gazowy od 40 lat. Norwegia odpowiada obecnie za 44 proc. niemieckiego importu tego surowca.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Najdluzszy-norweski-kontrakt-gazowy-od-40-lat-Umowa-z-Niemcami-do-2044-r-9234483.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "EQUINOR"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
       "id": "src-8abb4c7333b35f17ef",
       "date": "2026-11-24",
       "title": "Rządowy projekt ustawy o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw.",
@@ -899,6 +1248,35 @@
       ],
       "discoveryMethod": "prints",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-8670f58b50761286d4",
+      "date": "2026-11-24",
+      "title": "Komisja Europejska wyklucza powrót do rosyjskiego gazu",
+      "title_pl": "Komisja Europejska wyklucza powrót do rosyjskiego gazu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Unijny komisarz ds. energii wykluczył powrót Europy do rosyjskiego gazu nawet wtedy, gdy na Ukrainie zostanie zawarte porozumienie pokojowe.",
+      "links": [
+        {
+          "label": "BiznesAlert.pl — source",
+          "url": "https://biznesalert.pl/komisja-europejska-wyklucza-powrot-do-rosyjskiego-gazu/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "BiznesAlert.pl",
+      "publisherUrl": "https://biznesalert.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "21"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
     },
     {
       "id": "src-85b6f6825af593a75c",
@@ -1047,6 +1425,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-7c870625c6d6afd0f2",
+      "date": "2026-11-24",
+      "title": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "title_pl": "ORLEN przyspiesza technologiczną transformację. Trzy porozumienia na szczycie P-TEC",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmR6VzhvQ0t1QUplZV9vN0ZoZ1l0RzZfSnJqU20ycG5BbTRKZUJ4ZDB5NFZqaGlud1QxV0lpSmFBUnFjZk04eFEyQm5BdXJBaDJaaURwODhJaElqRTdJRlB6Uk1YMmJsenJrQXdZTW1LVHhsZFJXUlhxUGI3SHlpTlFNWVVEeVdwV25EaWRwQjh3dFlQQk8xTmhVOGdtT0FGWDZHbzVDVjVKUUQxc19UQUpkUG9vTVY4VVNOenUzcDVfdlJUSHAwRUFJbkFpdlZ5RU1DZUJKRktOVFpzbFZJaTNBNDg5SDNnOEoxN2ZMU2g4NUZPOTBKWEViTTM?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-782ee56619ab3feb05",
       "date": "2026-11-24",
       "title": "PGE rusza z kampanią „Dbamy o każde gniazdko”",
@@ -1158,6 +1565,35 @@
       "reviewed": false,
       "sourceIds": [
         "52"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-72d470a13d24c68e35",
+      "date": "2026-11-24",
+      "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "title_pl": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkNCWnlvMDIxdVdOc1FoUmJfSGwtRU10T0tvU2phMkQ4MG5Va2VIdXZJM3ZDUGk0VlVSdkhtSnBlMnVlNzdOWXVSOEI3WUR0NGFVa1ZuX0ctakpPRUlBTUZOdVB2cG9KTjZvM2JaZFVuUV9uOVU3djdyN0UwQllQN01wSTJLX3ZFYXZ1bDZyMGIwd3pfc1phejZ4UzVnMUFoenFyZHdyc2dnazFHaE5zWmlOQlBuYkJhV0kxai1FeEI4SHZWcUJF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1599,6 +2035,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-44a77f0f366d8e09d5",
+      "date": "2026-11-24",
+      "title": "Wyniki PGE w III kwartale są zgodne z szacunkami. 3,0 mld zł zysku netto jednostki dominującej",
+      "title_pl": "Wyniki PGE w III kwartale są zgodne z szacunkami. 3,0 mld zł zysku netto jednostki dominującej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN29SdVIwOWNaQTVwMHJZV20yODBWNlVWeUZSaFEweTVjRHVIWkVYcnM0Tm1HUzM5S1UwOWN6SFhzNGpNUEg3RjB4YWJmYVpQVUZJVDBLTDhHdi1IOXVmclpCY3QtNDlFUmI2cTJ2azZzT2NvajVrai0xUVREOGlHenZFSGZhRmVwZXNQdTFCUWQ2Y2FPVGtZS1VRNzMtZUNlcXJyNWdnNVJkM1FBazB0ZXZVQUtNVjJ4N0E?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://www.pb.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-3fcc10ebcca0a0ea85",
       "date": "2026-11-24",
       "title": "Gdzie w Polsce powstaje najwięcej biometanowni?",
@@ -1838,11 +2303,11 @@
       "lang": "pl",
       "translated": false,
       "translationStatus": "original_polish",
-      "summary": "Administracja Donalda Trumpa przygotowuje się do nałożenia nowych ceł na Unię Europejską, Chiny i dziesiątki innych państw - podały we wtorek „Wall Street Journal” i agencja Bloomberga. Podatki mogą zostać ogłoszone jeszcze we wtorek.",
+      "summary": "Polish original headline; English translation is not available.",
       "links": [
         {
-          "label": "Bankier.pl — source",
-          "url": "https://www.bankier.pl/wiadomosc/Trump-znow-odpala-celna-ofensywe-Nowe-taryfy-na-UE-Chiny-i-inne-kraje-9234335.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "label": "Bankier.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGFKUnkyaHBsZ2VkLW5jRGpEX1dmODFDb2ZtdEZnaElRaGM1LXY4QXREbk5hU3haV29KQ3RHbW1VNnd1SF9BcHdGZ0RzMnZiX2ZHUUFKci1BbXhldGFlZDJEZnc2cC0xR3pwdE1ETkRqQVRDUGxZNTAwZ1RZMTZncWk3WGxLZnhtN3c1RWRmZVpMal9pVzk1YU1WbS1LdEZOM29nT0lmTTJZMkhFc3pzem1vMHJjUQ?oc=5",
           "type": "press"
         }
       ],
@@ -1856,8 +2321,8 @@
       "sourceIds": [
         "27"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-165a58ff461b55359a",
@@ -1884,6 +2349,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1650f90b3d18851aac",
+      "date": "2026-11-24",
+      "title": "FOTO VOLT EKO ENERGIA SA (8/2026) Istotna umowa",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdF9MWkk4WlczXzNZU21YTm1hZ2lDNDdRUFd4Qkd4TXZ0WXlYSTBJZ2lncXREUnhkcHM1Y000ci1vZ2lrenNBdUdLOHRDUDA0b1czQWNoWEpQb3NUUVpKY0s1bVZTWmFEN3BNOWhtQVRxbFk2bVgyM3NHZmhHWHBpOWFjdWxDa2hySUdJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2034,6 +2528,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-0555f3fa6e5b7adb85",
+      "date": "2026-11-24",
+      "title": "Tauron zachęca do świadomej decyzji o zmianie taryfy",
+      "title_pl": "Tauron zachęca do świadomej decyzji o zmianie taryfy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXdfTDBybHVucTczR1dNQ184S1dmNkR0UHBnbFozTU5NOXN5d3JPZnF5OW5rVWpqd0xjUXVDLTRVNktNQnB4SENKcVRJd2oteWxmTVEyM1lqY3IzY2xOaGN6d1A2NVFiMi1VejZfZnhQcHVwMEZVMWZJcDQtVHJNWV9mVXJTUHYzczFvbWRRTTVXazB0eDhjZzNtUFBDRFdLRnhDVXctU0ctTW1ULVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-02cb47e30d4667ac6a",
       "date": "2026-11-24",
       "title": "Za tyle energię z fotowoltaiki i farm wiatrowych sprzedaje Polenergia",
@@ -2051,6 +2574,35 @@
       ],
       "cos": [
         "POLENERGIA"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-00d31757f5cf3ae901",
+      "date": "2026-11-24",
+      "title": "Sprzedam projekty PV + BESS, 2 x 1MW, woj. śląskie, 20km od Katowic",
+      "title_pl": "Sprzedam projekty PV + BESS, 2 x 1MW, woj. śląskie, 20km od Katowic",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSk9ISHVtWWJrN1FYenBZUm5tY2pfeEFGZGlPTEJaZlJMMGJtbW9DMzdTZDdVMlFwZmVjZnlHTDcxbThtR3JraHJMV2lseEo4MVVYdkVpQWg4cDBQaE9mVzVONnJ0c3pIMXY0eDVIR1RuNlc2eVdiOTJoY2s1bXhvUjNJdHJYaDRfMGJSaUh1VlhJeFI5NFJPeldWVkMtTVdIX3hSdkYyNUVlWG9XY0tiS2tTcTlCb1ZLQVE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
       ],
       "publisher": "Gramwzielone.pl",
       "publisherUrl": "https://www.gramwzielone.pl",
@@ -2145,6 +2697,35 @@
       "reviewed": false,
       "sourceIds": [
         "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f0945cdab6ea52c0b5",
+      "date": "2026-11-23",
+      "title": "6,5 MW PV + 6 MW BESS RTB woj. opolskie",
+      "title_pl": "6,5 MW PV + 6 MW BESS RTB woj. opolskie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSmpZaF9GNVVmVWRnZGhQdGc1NVc0dzlPamlxSjl5V0JMai1TekdyWFNUaWtqZnNRU1Iwd2lIaHlqQ2tGRXlQRzlmNlp3N0xOZ3dEM080QjNKWWk3WDhuVTJ2cGwwYUk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -3107,6 +3688,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-82d924fe1280620d54",
+      "date": "2026-11-23",
+      "title": "Kupię rojekty PV+BESS o mocy do 50 MW",
+      "title_pl": "Kupię rojekty PV+BESS o mocy do 50 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdk9wQXNHTG5hYlFlZnN3NzBmQjhPVmt3UG90ZWVIaXlDMFluSDI5cXpPVEx6eE0xa29GOVZCOVROTXJzOXJocnk1ZUN6QkFsNW0xQU9DbnYyVVR2NjBkb0sxZGFacV8zOWRrcXFucWZIRHFBcV9adGdSbXQ0bHVSbXpTUUpkeDBuU2dMNDAybW1KVjYx?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-811aee54303a27a272",
       "date": "2026-11-23",
       "title": "Fotowoltaika bez wkładu własnego. Brytyjczycy dostaną nisko- i nieoprocentowane pożyczki",
@@ -3131,6 +3741,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7f8015f876b4ab3be0",
+      "date": "2026-11-23",
+      "title": "Energetyka i transport muszą działać razem. \"Nie tylko armie świadczą dziś o suwerenności krajów\"",
+      "title_pl": "Energetyka i transport muszą działać razem. \"Nie tylko armie świadczą dziś o suwerenności krajów\"",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2hpcFR4R000Y0dfMWdoRDFELXZIajRlZlhQWDFqQVl6U1BzWElBbTBaQVBIanRLb2FTSUVSdGdiM0prdlYtLWdndlJ4N1ZHSXhUUEN5N2lXNHEtWUVrMTZVS0JCR3RKVUV0VGxJbVlGSG5OLTNrZzk1M3dMVkROUzBTejZwM3BnTmVVY1l6VlItVzBNLWtFMjlfOGZWMnVMRWVJaEpSeXhubl9DclpJ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
