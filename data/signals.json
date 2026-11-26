@@ -1,6 +1,151 @@
 {
-  "updated": "2026-11-25T22:26:41+00:00",
+  "updated": "2026-11-26T04:20:34+00:00",
   "signals": [
+    {
+      "id": "src-f5765ac344ac996a5b",
+      "date": "2026-11-26",
+      "title": "Polska – Eksploatacja instalacji elektrycznych – Dzierżawa i eksploatacja sieci elektroenergetycznych na terenie KWB Bełchatów w podziale na 2 części",
+      "title_pl": "Polska – Eksploatacja instalacji elektrycznych – Dzierżawa i eksploatacja sieci elektroenergetycznych na terenie KWB Bełchatów w podziale na 2 części",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "PGE Dystrybucja S.A.",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4b5b-0f33-5093-9ef4-5c0001e7f374",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-dbb5c857dad7593f48",
+      "date": "2026-11-26",
+      "title": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "title_pl": "Ciekawa akwizycja w energetyce, SPIE podpisuje umowę zakupu Grupy ENPROM",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkNCWnlvMDIxdVdOc1FoUmJfSGwtRU10T0tvU2phMkQ4MG5Va2VIdXZJM3ZDUGk0VlVSdkhtSnBlMnVlNzdOWXVSOEI3WUR0NGFVa1ZuX0ctakpPRUlBTUZOdVB2cG9KTjZvM2JaZFVuUV9uOVU3djdyN0UwQllQN01wSTJLX3ZFYXZ1bDZyMGIwd3pfc1phejZ4UzVnMUFoenFyZHdyc2dnazFHaE5zWmlOQlBuYkJhV0kxai1FeEI4SHZWcUJF?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5e2b1d53147f662056",
+      "date": "2026-11-26",
+      "title": "Kontrola magazynów energii w Australii. Wynik? 6 na 10 z błędami",
+      "title_pl": "Kontrola magazynów energii w Australii. Wynik? 6 na 10 z błędami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0xUbFI0MjAxUXc5b2lzSmFkNlp1REFaWXN4bGptMmJ0NE1vQTNjRDR6QjdfejV2OFIzanUwRnh6RVk2NTU0Y1F0UnhQMGgycEd1UVFKVHBTWVBDc2pNYXA3Y3ZPMEc4RVRWbzVmc3haNmFsQkNzdmRDNWZEUkdtV0VydWp5RmEwRUNvdlNRbXBHTXJ0YmRQTTNQMHVzclVtcGU2TUowa3c1ZnZyTUlYczNoY3RRWkdGcHdPS0hR?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-2d00c0811d6116832f",
+      "date": "2026-11-26",
+      "title": "USA: Prognozowany silny wiatr i burza zmusiły organizatorów do przełożenia słynnej Parady Macy’s w Nowym Jorku",
+      "title_pl": "USA: Prognozowany silny wiatr i burza zmusiły organizatorów do przełożenia słynnej Parady Macy’s w Nowym Jorku",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLU01S2RXRDBULWsxMmRITFJ0Vlk3STFaSXpmNFEzN3FVYnFrQThaRU1hY19KN0U3SV9jbTh6RmUwZ2VETWptLVpIVzBRenNmOXNSal8wZXAxWnVoUHFPaHpkNmQ3ajgwZHdLVkQ3UzNBQUg1WkZBRkxHRzU4VUNTc2pEVk1BNExtN0JTdnZKRTRlQjdxVk5uSEdQb0d4eXZrenBQRVN0MWxVUU5HZnNlU1RXb3IzaUdCWW9UN0lkcDBRMTl3VXo0NWNPR21mTFpNRU82VWFRUm11TGxqWnFUNw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-29cfded5617b9874a9",
+      "date": "2026-11-26",
+      "title": "Ile gazu przypada na wynagrodzenie? Sprawdzamy, jak zmieniała się relacja cen i płac",
+      "title_pl": "Ile gazu przypada na wynagrodzenie? Sprawdzamy, jak zmieniała się relacja cen i płac",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVJZLUlUeHdRa3hyeUJYTS1oWW9vUHI5XzNFc19iYUtldjBfR2xoNGRrTmRxdGJkZkctdHVrbXhBeFJsTFJvNklUeXppN3RuYVpZOU03RU9McVFEVlhOOXRMRlJCdjg1RnFPa0dyMkVBRkZlMy1jbDR2aHBzdl8wMW5Nd0szaUhDeDliWUtDdEhoOW5TQW1tc2d5ZDNabTdlTWRVUm1jVnF1NTRMMU5MMkVIc2pfSEhvU2xERkh6cFdDXzdhNHE4d3RYMU1YV0dRd2lGRktn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-fa6152e4ee9f6af394",
       "date": "2026-11-25",
@@ -26,6 +171,35 @@
       "reviewed": false,
       "sourceIds": [
         "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f749d725dc8061f8b6",
+      "date": "2026-11-25",
+      "title": "ORLEN na OEES 2026: siła Local Content",
+      "title_pl": "ORLEN na OEES 2026: siła Local Content",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkZIclp6VERnbEIyN29fbHZISDZrM0x1cDU1bW5WcnJZWDZiLWlXeHJtZnVDdnJQRjFKWk1FZGwwM0pCUkJ6d2haX1FkY3hrQWhMRUNEeW1vbE9VS0pGWTE2RUx4SUd6ckNXckttZWlac29qY3d4ZnUzeGtMOGlQWDF3MExIeTBMV05pLWNoMVJqT1hYSXc?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://www.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -728,6 +902,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-ac8d78f604d9879fd5",
+      "date": "2026-11-25",
+      "title": "ENERGY SA (58/2026) Zawarcie umowy na dobór, dostawę i montaż urządzeń do kompensacji mocy biernej",
+      "title_pl": "ENERGY SA (58/2026) Zawarcie umowy na dobór, dostawę i montaż urządzeń do kompensacji mocy biernej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG9xaXBZRDEzclVLWmFERVk5UnZ1M3Bkdnl6QW8yeV8tUmNBTExrbXFlaHBVV3BRM1k3TkdrVTlQWE1GUExMN0l0MGgyWWVQOTFsSm1PNmxsVWlEcUVCekQzWHd6RGZBMHk4N2FvcG9tZ3N5NkhISlhQVVdUWGR4RVpCOFJaWHRELXNTZmlJanhDMkpwbXJFdXN5UE1wcnVlbWZYaGNHLURmR2pFLW8yLWZwRFhub2pkMU5aSg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-a14957e06afa47d2b2",
       "date": "2026-11-25",
       "title": "Enea, Totalizator Sportowy i PKW pod lupą CBA. Jest komunikat służb",
@@ -871,6 +1074,35 @@
       ],
       "discoveryMethod": "rss",
       "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-9bbbae343368d64f88",
+      "date": "2026-11-25",
+      "title": "Zmiany personalne w Orlenie, odwołano dwóch członków zarządu spółki",
+      "title_pl": "Zmiany personalne w Orlenie, odwołano dwóch członków zarządu spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjZHbV80dmszcXNsSWYySEhlc05BV3RQNTVSZGtSaHNudG5wZUFFY2VHelFUbkowYUtkeUJHaVR6OGFXbWNhNVE2MWxqbEFITkhUUE1fOGtXbnEtbGl4dkROLUsyaTMyWDNCSTJpTDRGTWdBNThON001YjVnM2s1bU04ZkdGbkVPdFdNV1liVnFJS2hLbGRfVDJ0REk0elFaZ1Q3c252dkVHRm1nN0hiY0o4cnNjSEQ4SlQ3OWhoaGxCNi1SeFY5aTdQSGFFMG5GZWcwbGpmaXFCb1FS?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://zmiany-kadrowe-na-rynku.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-9b4a449b1c78f0fbd1",
@@ -1337,6 +1569,35 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-6dfd4b75249d2aa54f",
+      "date": "2026-11-25",
+      "title": "Sprzedam lub wynajmę działkę pod fotowoltaikę 30 ha",
+      "title_pl": "Sprzedam lub wynajmę działkę pod fotowoltaikę 30 ha",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm1md2VJY0Y5aDBKbVp4NFk0dkhfX0pRNnRtTzFfMy05Z1h3VXRDYmQ4OFZvcGtSaVltZEFUak12cmY3RXpiOEZ2UEd0dEk4LS1mWFpkRGhkM1VQVEVvOWxyeW8yUlBnT2lPaGZRRUFtSFZLRUVBUWVmUFMtWkx0YmN4WElMcGk2NVRSYmpFSFNqWGJBWWJqNG94T0NGTG5ydHJ1UlJhLTJWeTg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-6c4aa7aff0e3bbbc5b",
       "date": "2026-11-25",
       "title": "Wiza do Egiptu znów mocno drożeje. Płatny kod QR ma krótką \"datę ważności\"",
@@ -1390,6 +1651,35 @@
       "reviewed": false,
       "sourceIds": [
         "50"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-69c5fdb59bb2663b17",
+      "date": "2026-11-25",
+      "title": "Inżynier/Inżynierka ds. Dokumentacji Energetycznej, ORLEN S.A., Turek",
+      "title_pl": "Inżynier/Inżynierka ds. Dokumentacji Energetycznej, ORLEN S.A., Turek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energa Operator — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWI5U19UblFHQVFzeVVPeS1VZFY2bTM2YzZTT0lnRU92N3o1SHNuZGprSEMwTjZCQlJMLTNKd1JtdDlyNTlydk5aREZENXhDb2pfb0c0dno2a3pmZTJTZHByYmc2SnZKUGJrT1VpZWNLMWp1bUVzUjdwRkRhbm9Fb2VoSlVQY0toS0pvVUdUYkVqQ2ZfZWJVdDEtQ19NVmNjV0xyVEtJOVVlQ3JSYjJR?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "Energa Operator",
+      "publisherUrl": "https://energa-operator.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "17"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -1832,6 +2122,64 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-33f350f27c4d614871",
+      "date": "2026-11-25",
+      "title": "Lithuania's lack of support for Mazeikiai refinery and new tax could strain cooperation - energy min.",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHVVLVFteHJETW8wSnlYVHNXME1LS2o5S1dzTFhaZzN3bUxfaHdWSmpZdHE0YTdTN1ZROUFkd01na2VybjJrTUctVW1XdksyZXcybFJXX2tBbWt5cWZyMDlqOVhUd1JHTDZXQ1dXU2dEb09iSHpmOVRURzdiNlFRSDh6Yk5UdUR1T1NUeTFWRHlUM1otVUw1ZWNvRVlONnVvWG9mVW80S1BlWU9nQWZzSA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-33936ec5a3a39183df",
+      "date": "2026-11-25",
+      "title": "Tat Elektryk Ogłoszenia sądowe",
+      "title_pl": "Tat Elektryk Ogłoszenia sądowe",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FcDJuQUdoT0RwclFyUmdEaXFlbnpELTNMSEw5UmdiVXJ5SzI0bU50U0ZQM1RyUkVldjczOFlESXRTbWl1c0dmNXQzZFZIMnRyWFprNGhXQWlZNV9QY3dIc0phVHRKQmRQYlRPMHo1QVp3SUE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2ccf961509255f40c6",
       "date": "2026-11-25",
       "title": "Platforma zakupowa Grupy ORLEN",
@@ -1914,6 +2262,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-260d49d5a18117e6ef",
+      "date": "2026-11-25",
+      "title": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+      "title_pl": "RN Orlenu odwołała Sławomira Jędrzejczyka i Marka Balawejdera z zarządu spółki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnpBWlAyaDQ4OVZIUU16N1YzU2kxVDQ4UEtmZ2lCN18zZjREcDV1YzE3bWlKcXpFRm0tNEt2b0ZhdHZiSGFQekdUdnZtZFNlcXBVZjU3Y1JMa05BM3d0R3hrZkRQZlBOeVE2bGQ3N3dSWU1jNXpvVTMyX3V2Z2lOaEJpRU51LWYwYWd3VjlFT0d6QkU0Z2sxSFVTcDhLN2ExbW03b0tUdXRnc1Y3ZUJUZko4TWsyWUs1?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -2004,6 +2381,35 @@
       ],
       "discoveryMethod": "bzp",
       "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-20ebd975ddbf389ff0",
+      "date": "2026-11-25",
+      "title": "Dane prawne Jmt Elektro, historia zmian. monitorfirm.pb.pl",
+      "title_pl": "Dane prawne Jmt Elektro, historia zmian. monitorfirm.pb.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "pb.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQVJLZWZEWnNmQWlXb3RDWnExZHItaHhhZ29EOEJsV0pqYTZHdEVrbWdVVWN1WUFQVkxPcHhxbzU2Tk5GWlFxZ0lmRjNtanJlVDZXT3RIRXNuY0Rob25ZdU5iZktNRW1q?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "pb.pl",
+      "publisherUrl": "https://monitorfirm.pb.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "26"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-1fda3acad91eace00c",
@@ -2175,6 +2581,35 @@
       "reviewed": false,
       "sourceIds": [
         "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-144c9c4887301ac4f3",
+      "date": "2026-11-25",
+      "title": "ORLEN SA (40/2026) Pan Sławomir Jędrzejczyk i Pan Marek Balawejder zostali odwołani z Zarządu ORLEN S.A.",
+      "title_pl": "ORLEN SA (40/2026) Pan Sławomir Jędrzejczyk i Pan Marek Balawejder zostali odwołani z Zarządu ORLEN S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHZ6NTg4RGFzMzF1OVR3Yk1VcnJYN1pXRWIyZ1pqa1c0NUZ5X3kzYjNFMk5pUmtZd0dOWXBVLWRXRGpEYkdSYmVMMTI4QWlpdFFWb2t6c1F0QkFEY2NIRmJBSXljWGtKeUREY1lMa3Q3WkZfbFpiU1YwXzVOeHpYUXFOaDMxN3cydEZESHNvZmJZc1NxSkt0RkkyQW9ub3F2ZXlqTVZwQy1PUDN6dmh5RzNFdURndDdjYXVnS1p3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
@@ -4078,7 +4513,7 @@
       "links": [
         {
           "label": "Gramwzielone.pl — Google News discovery",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUXhfMmp4TGo0ZmZGYkFBbU9Sa3JTMlFHT1B5dlY5cXVBcjhrRGl2TmJGRGNPZ1J5bkplaTE2WElJWXJYQnFVOGsyaXpwenc5VnlURG5Cc2R5RzE3VExKN1JfSy1OQk03OTM0amhRUlNpdGcyMS1xMlFPdm1sVU9YSXZPTzVsTWxjS0ZZN2syX2JUN0xqVjV0b19IMWtoc0ExX18yTS1LejhEVzRHZk10SWdfeEYtZ1hQMWdkVkUwTWJlTVBpYW1YNWFweEFwRW8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5jYmhzSDVuQmc2UGh1b3l6SkFuekFHRHg2a3g0QWtlOXgxbktSX3llM2RxbVIxYU9zemsyOFV6dkJ4ZVhUcVFiUHFrVVFQZnJDbkhvRDFSV09QZFZlQzdBV09YWHFLTG42VlhMQUo0aHR4YnZ3aWNNZ1lWYmtrRmt5d3NHV1pBWFRpbmhvZVQ5SUJabFZTSnNCTGNMRGJWUVVYT2VKQ25JT3hneUpHN2NmcHZMQQ?oc=5",
           "type": "press"
         }
       ],
