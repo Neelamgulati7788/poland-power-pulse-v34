@@ -1,6 +1,557 @@
 {
-  "updated": "2026-11-27T05:18:54+00:00",
+  "updated": "2026-11-27T15:32:06+00:00",
   "signals": [
+    {
+      "id": "src-f6c31aecc5e7acedb9",
+      "date": "2026-11-27",
+      "title": "Ceny ropy mocno w górę. Baryłka Brent blisko 98 dolarów",
+      "title_pl": "Ceny ropy mocno w górę. Baryłka Brent blisko 98 dolarów",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Ceny ropy w USA zwyżkują i są na drodze do odnotowania pierwszego tygodniowego wzrostu w tym miesiącu, ponieważ ataki na infrastrukturę energetyczną i tankowce na Bliskim Wschodzie wzbudziły obawy na rynku, że eskalacja działań wojennych może zakłócić eksport.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-mocno-w-gore-Barylka-Brent-blisko-98-dolarow-9236140.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-f02d280ae2273bf987",
+      "date": "2026-11-27",
+      "title": "Platforma zakupowa Grupy ORLEN",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ORLEN — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVTU0M0stU0NFa3A2OUtxUFhpejdWWjQ1TEVnb1RDdnpwWldVOVZLaFdicm5RUU1ncXdna3hiMnVTOVFRZ1dhUXBJeVh4QWo5Ry1RMTFqUUxsTjZCdWlPVGljVzhzdHE3N3c?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "ORLEN",
+      "publisherUrl": "https://connect.orlen.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "53"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-f0030a46846ccae698",
+      "date": "2026-11-27",
+      "title": "Chińczycy zamienili zużyte łopaty wiatraków w grafen",
+      "title_pl": "Chińczycy zamienili zużyte łopaty wiatraków w grafen",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUxXWGhPLTZTRmRaR1N0WmMwcVlFZzdUXzV1aHgtVWRTUExkQzA3ZmNFY09qSkxCYnU1ZWtETm5kczJFa3hfbDBCR3lUMmJXQWo5V1hoTDBRSGhQam5sRnMxWnp4UUkwVjZtWTZOTkcydDJ1TFRySDdYU0c1ZUpLb3lDSG1yOWNCWWZFamlBQTY4TWEyT25yemhtNlFUWmJfRl93VWcteEFhWnF0RUhvZUd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e7c452d46932841d70",
+      "date": "2026-11-27",
+      "title": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "title_pl": "Komunikaty ESPI dla ENERGOINS[ENI]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTN4QkZoSnFjU2ZQV0JwSjBsakpCM2FROThWeDc1VzBDaUszelp2cllaSXRHZ2NBeS01UWtVTEhvenZfVzdnUmNzdTlFUER0emh0RmhldUttM0dQT3hqLW83U3NnVllGdURZMndnNWpsMk1ic1lwNXNJbTdSX0VuNGtiamk5RGpo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-e69116edbc9bce7b20",
+      "date": "2026-11-27",
+      "title": "Nowe maksymalne ceny paliw od soboty. Kierowcy muszą przygotować się na zmiany",
+      "title_pl": "Nowe maksymalne ceny paliw od soboty. Kierowcy muszą przygotować się na zmiany",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Od soboty, 28 listopada, do poniedziałku, 30 listopada, włącznie, maksymalna cena dla benzyny Pb95 wynosić będzie 5,77 zł/l, dla benzyny Pb98 6,43 zł/l, a dla oleju napędowego 7,15 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Nowe-maksymalne-ceny-paliw-od-soboty-Kierowcy-musza-przygotowac-sie-na-zmiany-9236369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-dcbbaaa5f18c95a9f3",
+      "date": "2026-11-27",
+      "title": "Kompleksowa dostawa gazu ziemnego wraz ze świadczeniem usług dystrybucji gazu ziemnego dla Zespołu Szkół Centrum Kształcenia Rolniczego w Karolewie.",
+      "title_pl": "Kompleksowa dostawa gazu ziemnego wraz ze świadczeniem usług dystrybucji gazu ziemnego dla Zespołu Szkół Centrum Kształcenia Rolniczego w Karolewie.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Zespół Szkół Centrum Kształcenia Rolniczego w Karolewie",
+      "links": [
+        {
+          "label": "e-Zamówienia / BZP — source",
+          "url": "https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df4c9b-920f-fe61-9ef4-5c0001e811a2",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "e-Zamówienia / BZP",
+      "publisherUrl": "https://ezamowienia.gov.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "45"
+      ],
+      "discoveryMethod": "bzp",
+      "evidenceLevel": "official_metadata"
+    },
+    {
+      "id": "src-da6a624267b16fcf0a",
+      "date": "2026-11-27",
+      "title": "Montaż pompy ciepła po nowemu. Rząd wprowadza limit odległości od działki i nowe obowiązki",
+      "title_pl": "Montaż pompy ciepła po nowemu. Rząd wprowadza limit odległości od działki i nowe obowiązki",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTJTVzl2Zk90d0lFWm9TNmNBRkhDeURnNWE1LS1jaTRBbC1vVnJTVkVyOFFaTjVoSjgtNk9vMEpQZUp1c2JnNFhlTzhMSlh2OThpU1N2dXo0bG9qT0RaUm45Rkc3aWM0Z2VFemJmSHBnd0Nsb2RPOWpXLU82T2k1RTVpQjFUZXJrdGpsTEtRRHZHM1dRUTk0am5ieVFVRUdiaDhQNG96ZWlwZHZ2dmE2WVB3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d0b8d4e23a3b202d32",
+      "date": "2026-11-27",
+      "title": "Energa Obrót zachęca do przejścia na eFaktury i miesięczny okres rozliczeniowy",
+      "title_pl": "Energa Obrót zachęca do przejścia na eFaktury i miesięczny okres rozliczeniowy",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDJIQVVYYXE2Nm9vYXo1VFdfa1hnQWJjLVZnOE1tQklnYzhNWmxnRG4wclFGNzUxSmRiclB3VlRSN1A0T0FDZVJJdVNmQWlabjNyaFFibDB4TDltX2hBU1I5VXpkb2V3OWpWRmliMkRLcnA2RC1BNlVtOHhicEpUb05JckM1ZmptNi0yOUFlUjVHcThBTUk0ZFhLY0J6aWtMajFzUHFBWHBYWllKZW1YUjZsclV1Vk9mSERrbHcyMmlsLXNtOHY2UFhVMm9OcXNt?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENERGA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-d06074ceaa1e0de763",
+      "date": "2026-11-27",
+      "title": "Magazyny energii BESS + miejsca pod szybkie ładowarki łącznie 16 MW",
+      "title_pl": "Magazyny energii BESS + miejsca pod szybkie ładowarki łącznie 16 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSG9vMVdZOHhzX2hzd0hNdGM4SlphdkhfYlZ0N3o1MTJ5bjdDSTM3emhkUzl2NjdsU0g5TzdmTnE5TzczczVFQTZFektCaFhpRXhBenI0RDlOajVOSmNQd2FadURJelVYY1JnNzZVV1RuUzVlNlRuWjJnc3JMRGFBSjVEdW5tZm5HQ2JUSWxvcTJHcU51N2J6MlVCVnZJVkdLSFlIaVBfZzhvOHNiM21vWVJkc2QxcExzZnhFQU1Vdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-cac55929553e1cb348",
+      "date": "2026-11-27",
+      "title": "Czy wyrobiska po zakończonym wydobyciu węgla brunatnego mogą stać się ogromnymi magazynami ciepła?",
+      "title_pl": "Czy wyrobiska po zakończonym wydobyciu węgla brunatnego mogą stać się ogromnymi magazynami ciepła?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMHZoV3FfN1VNdWpOOTEtUlJnU09PQzNrdmQ3NlFwUFIzVkNSOXF6QXBOUHV5TXJmbTlkc1dYSGpzR0pDZGx2VWl1MVBkTS0takNlSnlWV1plTWZuenlFQ052eW9QU0c2bG5yR21EcnRiNkRoVUZpUDJRMXJNVFlNM2FLbXo5Z1VmT2hKNWV2VGQ4dng4UjZnMWlKdjZhd1NHQ3RqTlBJc2cxelFwcXI5NXBXcnBkeUo1dXJJdlN5WkdjUEVKb2FQaFRKWHk1R0kwTFFMazk4VkY0SXk0VzBvSkYwWUlCMW1zaVZITGV1UmRlMUpYMmJJaWE2NlBod25YWnRwX3Fn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://polityka-i-transformacja.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c653ad08c0eb0e1d13",
+      "date": "2026-11-27",
+      "title": "Enea odwołuje członka zarządu ds. finansowych. Jest tymczasowy następca",
+      "title_pl": "Enea odwołuje członka zarządu ds. finansowych. Jest tymczasowy następca",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdldsbTlwZ1psZkRvZGpxcVVjNHZfZHdzNzd6T3J2WEs4ZU5xdUFhclB2OE1qRGhlQzJyNzNuN0pwVlRNUkJMVWt5NmhfakYwSUFFbks1bFcxT1lTbl9iemp6emk0Ump1WlQ4RUJQSjhGM2J0Y0xZMzBxcllJUEpIUHM3Vmp2b2N3MGtjYlFUbFFWSmVHSW5FNFhndlpUZDhUWlUwQ1hZeU9FUUYzY2lHdXd3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b7b2345299a3b448cd",
+      "date": "2026-11-27",
+      "title": "Anwim i mLeasing robią wspólną ofertę dla przewoźników planujących zakup elektrycznych ciężarówek",
+      "title_pl": "Anwim i mLeasing robią wspólną ofertę dla przewoźników planujących zakup elektrycznych ciężarówek",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORnZmdVVSUU15VGdSUnJNTGQ2NWRRTHZtZDRSVEhWMTRtRWFRYm9HbEtpUVhTQVJDRzZuanhkVkhtOTkzNktXQnRvZ3UtUHEyWWZBMktLbVVaTTR1QnVaekxCQnVlUElveDRkTkttUkFyOFZxWkJVTEJMM1U5ZGQtS2RRbnM0WVBqUno0Vy1jeXdaSnRQWVJUQTI2X2RpM205NmRxbldwYkJuOVlKdS0zbkhxaVI2TG1CUG9XU0FQaldpQXNXNnpwSHpjc21leHBFRDRVUFJzd3pCaWdhLUR6Y0lWRWg1T2FhOHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-b37eaaa1cd97fd2368",
+      "date": "2026-11-27",
+      "title": "Senior Developer – Biometan",
+      "title_pl": "Senior Developer – Biometan",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vb0F0OXctd3kzZDlBRDFObHc1eXU3ek45cmRyT0U5OWJIejZVM0xjSW8xMzVzY215SGpyaThkQW1OaWxLdEtaQUhQb2gxTkUxRDc4cHpTWklhTHVPSlpNMDE2Zk9rMHc?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ad8f991c50d3cce0ab",
+      "date": "2026-11-27",
+      "title": "Stalprofil przebuduje gazociąg Jarosław–Rozwadów. Kontrakt wart blisko 26 mln zł",
+      "title_pl": "Stalprofil przebuduje gazociąg Jarosław–Rozwadów. Kontrakt wart blisko 26 mln zł",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSEk3cC1qWDJFSktoNEZEc29YclI0Tmx5d3FtVVVrSDRLMmZmOHpwUmF4OFRYVjlPMFBYMmtGS0hCQnFKTUotbWJxcjF0YWdINUZsUHF3NEphMHR0NHhNLUR3R3pZdXo2LS05dHBBQ2tqY182dVVHMmlkNEtwWU9MV0ljdjgyeXlZdFljS3FkT3dodXdfSk1ybnlFalZKMVdIc0pUcDNhQmtZUFdzblFkdUFHMnVTd1B6ZE1veHhLTHNEdGFkb2daVll0QWNZZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-ab51a5e30feeef2ea4",
+      "date": "2026-11-27",
+      "title": "Jak wygląda praca przy obsłudze turbin wiatrowych i ile można zarobić?",
+      "title_pl": "Jak wygląda praca przy obsłudze turbin wiatrowych i ile można zarobić?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlhPV25ZM1U5dnpmOGdlNkJRY1A5NzhqeVNDa2wzV1cyT3oyWjZGUXhfZ3l5MGd5cDlrVGk4YkVtN2c4WGZOR3BsdVJyVEdRcWo0TXFRR09IMGNjQVF3Vk9xYmZSekZHYnZpT3d2SVduYUM5bVJBdllIQm5NczE0VlR6VVVDcF9wYVQwV180UjlkcVBieGRwX0tmZ2s4Z19jOUlTOHpuTmRlNG50elc0eDJSbDJFa2lBZFY5am1n?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a784a41411b9341b55",
+      "date": "2026-11-27",
+      "title": "Marynarka Wojenna i wiatraki na Bałtyku. Od czego zacząć współpracę?",
+      "title_pl": "Marynarka Wojenna i wiatraki na Bałtyku. Od czego zacząć współpracę?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjdsN19oWmNycUV1VlhjckY3UmRjT0tDUFRrMTY4bEhNQ1c5bjRtRDdUa2oyNVAzSmZ0WUxlN1pxWWlFQVFtcThuUllQbm0xQ1llMTRZbWhsdUZUbXh5cHEwMEx1Tld5TW1sUl9YeWhWR3l4cEU4N3NGQ28wRG5RMjBLWUhwTWVBNHVqVWRlT212a2d3TUZZRHhyUGh1R29ZMlRsaDhTbGI2QQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-a3d483dc9b5df8c415",
+      "date": "2026-11-27",
+      "title": "Enea seeks contractor for 120 MWh energy storage in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1FPemhqZldWWWk0RFJEQUhtTk1DYTJDV2N3RTRFLUV1Sm5XRmp4Z3hRVWRjSkRqRVVzYjU3dWE0NUNFWFlxZU1SbnlGNV9zVmppSHF4V1dqdGlsNTF5cUF1UVJXdV91LVFjSnNRZmVYdThWWTV1ZmJ6dlRpZ0lEODdYMU1CNl91dEt5VnZXeVkwUHZGeVh6QTdZQ0JBNFk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-99bdae510287d5d06e",
+      "date": "2026-11-27",
+      "title": "Drugie weto w sprawie opłaty cukrowej. Rząd nie przekonał prezydenta",
+      "title_pl": "Drugie weto w sprawie opłaty cukrowej. Rząd nie przekonał prezydenta",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Prezydent Karol Nawrocki po raz drugi zawetował ustawę, która miała podnieść stawki opłaty cukrowej naliczanej od napojów. Według niego zmiana podniosłaby opłatę nie tylko na słodkie napoje gazowane, ale też na polskie soki.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Drugie-weto-w-sprawie-oplaty-cukrowej-Rzad-nie-przekonal-prezydenta-9236345.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-92522bbd370f7d02b5",
+      "date": "2026-11-27",
+      "title": "Nowe budynki z obowiązkową fotowoltaiką. Przepisy nakazują też rozważyć magazyn energii",
+      "title_pl": "Nowe budynki z obowiązkową fotowoltaiką. Przepisy nakazują też rozważyć magazyn energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGh1dUoxNmxrTHVOV05meEFZa2JPbjBTZEtudWZndnVzeHBVOWZ2eGJ0eHBMU0JsOHFxLUJfRkFYdWJOTlN3Wm0taTF5UVFwalN0VVBpeVUxZjV0dnY4WmdCcmRyYkluOXFweGNaNEZJZVV1N1B6eU5SZFZhcExOdEQ0YkFnWkNPbkd6UHlGbm4zV0xWd1B5cHJ3Q1Q2U01kRlZVNGxjSEJfci1QUmMxN2EycVI2MFhT?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
     {
       "id": "src-91d8c378cf4f16ca2e",
       "date": "2026-11-27",
@@ -60,6 +611,760 @@
       "evidenceLevel": "indexed_headline"
     },
     {
+      "id": "src-8bb06b5f78fcb373de",
+      "date": "2026-11-27",
+      "title": "Partnerstwo dla cyfrowej odporności. GAZ-SYSTEM i Świnoujście łączą siły",
+      "title_pl": "Partnerstwo dla cyfrowej odporności. GAZ-SYSTEM i Świnoujście łączą siły",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzQyOXBybXkwZVZCZ2dPOUR2TFZJMDl3UGVuVnM0R2YxS19MaTBMSlJjdG9Dd1hQOTB0aXpac0FrVmh2TjRjdUZfTGU3NDRlem9hUUZTRXN0UWVMbmtLQlYwcUFBcktrWjlZSVBuNld1eVdaYVgyUmdDSndjYlhTbEZ2Tjc5cGJJQVBVdzVabnJueXBONU51aU4wdW1PVmpadHRfUEw1YTdOM0QycklvYUgzaUt1QVAxN3h5TGJ2TG5SZ3M?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-86287571882e7accb8",
+      "date": "2026-11-27",
+      "title": "OSGE podpisał list intencyjny z Łodzią dot. budowy 2-4 bloków SMR",
+      "title_pl": "OSGE podpisał list intencyjny z Łodzią dot. budowy 2-4 bloków SMR",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1uLVl1UlBHalZaMU9LbEJjVEFqZmZNSEV3MWwtNzVxeVRVSFFiRElMd2N5eWp1WTl0UDQ0WGVWOGQzU2k0Um95WDNsVm5CUXZvZ0g3OTVwVjBXTGtOdnFwRU9GLTk4SnQzQk1raElDSE1fQ202Unl5ZnQyU2NYSXVudjMySWxQdUh2dXFvQXhDSzJhbllVZkdZU1Zxd2lhRy12M21EQkk?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-81a47cfb6268260d69",
+      "date": "2026-11-27",
+      "title": "Karolina Mucha-Kuś i Krzysztof Michalski zostali powołani na wiceprezesów zarządu Taurona",
+      "title_pl": "Karolina Mucha-Kuś i Krzysztof Michalski zostali powołani na wiceprezesów zarządu Taurona",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFEVkpnZTNVc05XQmg4S25YS0czZHRMbk12RlY1QVhSWmlOeHREenRrQkxjUUZ0d2pmWG5GM2EzYXZDR3k0ejROVVJjcjZwWmNLU3BfX1p6WEw4cjBValBpQWZ6NEVrczZwTnZ2OUZkMlV5VDd0ekpEZVJ2SXJUejBLQXI5WUF4a2UzRHozMzBLTl9LOXFWZUNaX2E4c1BoMFhvZ1pOTUVBOTAxY0h3N2EwLVJUYnJxWUc1a3RweW5hWU9RcEJ1N2dlcUo?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-813f0bb642afed6a98",
+      "date": "2026-11-27",
+      "title": "Wodór niszczy stal, ale Chińczycy znaleźli sposób. Ruszył wodorociąg o długości 195 km",
+      "title_pl": "Wodór niszczy stal, ale Chińczycy znaleźli sposób. Ruszył wodorociąg o długości 195 km",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYVJ5WkdNUWNVZk80VmRfLWZzMHNhclZRMVlyRmkyNWpCNFo2amdtVWg3T0tiRGdKUmRSN0Z0S1BJY1Zxc05XOVRKZzBlT3ZabWNVZUhISjhDZTA3VEtzSFpqQkFrTFlFQWhCV0g5VEZkeHItc3NNTUUzeGZ6eTdhY1dTN1VoQlpCZkJn?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7935907521349af050",
+      "date": "2026-11-27",
+      "title": "Gotowa farma fotowoltaiczna na sprzedaż – 3 MW, Wołomin",
+      "title_pl": "Gotowa farma fotowoltaiczna na sprzedaż – 3 MW, Wołomin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWU5TjZTbm96bzE2SjlaSW5yazZCSVcyOXROckRCeWtrYV8zVlpienU0YmV3dkZRQThESnZpRzV2WWRBdEx2dEV6WFA0dlVxSlp3aG4xbFhPY2FzcUdTUXZUZTNfY2t5dWplc0tDS2hBZXlwdDJJOWllUXRXZGJ1bXZUX3pGRm9helBIMTFIeVd5VlVTZUxXQjNUZ1ZBYjk4c1Y2NnBXdDR1Q29yN2tjTg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-7714c82bf51894959a",
+      "date": "2026-11-27",
+      "title": "Enea invites bids for construction of 27 MW solar plant in Poland",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "Renewables Now — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVFNzk3VDFFaDhYM3ZXZ2YzS3dDOWl6UEtoME1EREk1VkFRSkN0eE1BMDFXajJ0MnFzeXJJOHVfaDU5bUJMNGp1a3QxbHJiYmFCR3RYOVh6Zzd2WlRHSlZiVWFxajdaQ0U2N2dZQVJYT0U5TWdORkt4d29XVXd0b1ppUGwxbTVKNlNxM25kUVB5QWhFSnZJNFJnQWRBNGVBVGZieElOZzA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "Renewables Now",
+      "publisherUrl": "https://renewablesnow.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "33"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-75d27d410148db2bf1",
+      "date": "2026-11-27",
+      "title": "ENEA SA (55/2026) Zmiany w składzie Zarządu Enea S.A.",
+      "title_pl": "ENEA SA (55/2026) Zmiany w składzie Zarządu Enea S.A.",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "PAP Biznes — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVNCX1k1b3k2c0ZDOUE2cVZkRUU2dEVzNkNoWEJCcWV4aG15VGdrZnpXM0FHVU9LX2ppMkE1VGdwaWtXVEt3OWM3QWNMemthVmJUcEdld25KaGtVNU9IeloxT3JKQ3A4Tl9jM2MzV05tN2cweHpmVURIYVI1UU5NYUI1NnIyWFFYVzVHdXFHOHA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "PAP Biznes",
+      "publisherUrl": "https://biznes.pap.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "25"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-74ef30b6382e80184b",
+      "date": "2026-11-27",
+      "title": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji wiatrowych w dniu 21 listopada 2026 - Komunikaty OSP",
+      "title_pl": "Komunikat dotyczący prawa do rekompensaty za redysponowanie nierynkowe instalacji wiatrowych w dniu 21 listopada 2026 - Komunikaty OSP",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Polskie Sieci Elektroenergetyczne (PSE) — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNV2h5YXdDQ0ZfMXFOTlhrRDhCMEhmdGVkeC1fY0JIS3JKYXR4N0FGS2VWX0lzdFNMNFBqS0hMVGlxRFM5bnpibGxGTEp1VVRRTFJsTzQxTGpZQkdSR1YxdnpIX0M4X2RGcTFsOHl5aEpOSi1hVm9DNWlqVlM1VnRDQVJYWkpOeTBxZVFsOWUxVkFGUzN3aE9wTmphVjl4YTNHaEVCaWRrOWwwVTlCZkoyMVFoZV9UTUZESXBRUWlyWmZIVXh0cS1DV2pmc0h4ZUNCeFZKbDZyMTN6cUl1RmE3SUsxaEZSOVJHZzVJd2xMVHFfZlZRZzBhb0ZLS3lWd3JhVzlmcEVUS1F0UUE4bmJkYV9GVVIzc1hEUm5lSDR1bU5iaWkxblZWcWlxYjdCRWVpaFFsd0w1ZWZDSEpBaWJncDl3dG0?oc=5",
+          "type": "official"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Polskie Sieci Elektroenergetyczne (PSE)",
+      "publisherUrl": "https://www.pse.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "14"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-720d503dae2e55d30f",
+      "date": "2026-11-27",
+      "title": "Farma PV 30 MW (RtB) + możliwa rozbudowa do 60 MW + BESS 20 MW",
+      "title_pl": "Farma PV 30 MW (RtB) + możliwa rozbudowa do 60 MW + BESS 20 MW",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUdQZmRMQVpyZmNELW5MLXFIM1pLY1pkUGdxR09obW02WERod3NUVWU3TmRpT3dLSXlVT0VlRmtMUVJZbHFteld2MDVhMjViQ0xxcGtuV0pDU055N3FlOWJ2c3QwbnNBUW9UeVVHTGZheFAzeURkZUVXX1pzMHI1SXVFZUZua3h3dDFCSjRDYzBNeWZjMjJjRDNnalZoZjlSVHFYOVpWMjNHcGVPU3dNVGhQbw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6c11316a6d4ff4a029",
+      "date": "2026-11-27",
+      "title": "Sprzedam BESS magazyn energii 2 x po 8 MW obok siebie 24 MWh PNB 1600 m do GPZ",
+      "title_pl": "Sprzedam BESS magazyn energii 2 x po 8 MW obok siebie 24 MWh PNB 1600 m do GPZ",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MZW9KQ21XX3Y5dm9xMlV4NGJBeW1COHZKbHFxdUZFSHlTRllTMUpYNVV1Si1NZDJIQ1E4Sm5wWU11bzFPM2lKdV9MRjgzV3Y5YnYzSHVkbWRySVhPVnd6YkZQeHR5cDQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-6b1cc7edced8783fc0",
+      "date": "2026-11-27",
+      "title": "NFOŚiGW konsultuje program finansowania budowy spalarni odpadów niebezpiecznych z odzyskiem energii",
+      "title_pl": "NFOŚiGW konsultuje program finansowania budowy spalarni odpadów niebezpiecznych z odzyskiem energii",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONlFmUnlRNFM5aENtaUVaTXRWalJfM1FiRVM1YVlhQTVBXy1kOVVIV0xLY1ZPY2hkRUtxel9teW1ybm5qM013LV90NmFJUDVHZ0x1TWVaT3JhWVFMWUkyRHBzVmFIdmpCS2l5Nzl3LVJ1ang4U00wM1JJaHFydmY0TDEwdUFmR2ZMbEh0UHlGMkM1OU5MQllrdFFCb2pKTUQwbVF0UFJ1SE9nNDE1b0V0Mm1CS2VGRmJQN0JqNEpQbXAyNDBLdUIwR1RMa2ZhbmpBS2lr?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-69b470864d58951de8",
+      "date": "2026-11-27",
+      "title": "Kolejny cios w naftowe serce. Huti uderzyli w rafinerię Aramco w Dżizanie",
+      "title_pl": "Kolejny cios w naftowe serce. Huti uderzyli w rafinerię Aramco w Dżizanie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Nepalski pracownik zginął, a kilka osób różnych narodowości zostało w czwartek rannych w wyniku ataku na rafinerię w Dziżarze na południowym zachodzie Arabii Saudyjskiej. Zakład częściowo wstrzymał pracę – poinformowało saudyjskie ministerstwo energii.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Kolejny-cios-w-naftowe-serce-Huti-uderzyli-w-rafinerie-Aramco-w-Dzizanie-9235980.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-6665469b22b4c9729f",
+      "date": "2026-11-27",
+      "title": "Energia elektryczna na powyżej 1400 zł/MWh. Jak zmienia się produkcja fotowoltaiki jesienią?",
+      "title_pl": "Energia elektryczna na powyżej 1400 zł/MWh. Jak zmienia się produkcja fotowoltaiki jesienią?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDg4YThjMkFHRkpqQWlhLWlZS3ZqcUludmR1NTF6WWhNX1kzdG4tZlV2YlI2ZDVQUzc4TVJsSTBwSi10WWpBMjVOMFJBRVpyejR2dWJjZldNMTdLdHloM0F5b3FobC1IcDVxTEVNUS1ESHRLWXpOSzVFTGhGODAxeTBCSURHQW55R0xORm5QR3dXSkd6TlhkUmp2b3hPVWFEMnJZSGdtbDBCNm84TENGZngyM3JwQ0xtM3Y2ckRXaE5BaDM0dHFsSU05R253TFNONXp0MUlvTU1zUmVEZ2pv?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-5fe8acdfefc46822d6",
+      "date": "2026-11-27",
+      "title": "Tauron powołał dwóch nowych wiceprezesów zarządu. Zmiany od grudnia i stycznia",
+      "title_pl": "Tauron powołał dwóch nowych wiceprezesów zarządu. Zmiany od grudnia i stycznia",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORU1YdUVPT09Hekh0TkRqYlVHN19ZYUoxUGxHYUhwbjdzT3hyeDBvZllNMW5NbVRSUE9CNDQtclRKTk5HeEJudmROcUNJOVV4TlVXTHA3Ym1hNmJHaFJtaFpNelVKeHdaSWhVNVFDdjVtZ2R0STJod245d2JZaWVyVXd2dDhhZkV1RnVHdTFQamxUeFJYbTFJaW9iaHU4MmctamNkdzhNY2lUOGFYSTJ3QllwWGluNUtWVDVwLWQ3VlQ5dEVsM3czaXFoZw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-56bf124fe8e13f86be",
+      "date": "2026-11-27",
+      "title": "Nadchodzi Orlen Narodowy. Krocie za zmianę nazwy stadionu",
+      "title_pl": "Nadchodzi Orlen Narodowy. Krocie za zmianę nazwy stadionu",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2lYakdKVnd1bDhmaFdkRlpNcG16T2JPaUdTS0pFSjBBTEhVVlNDYWdsbHRKdWp2WVowTExKWGpRMnlKem1PZUhkOHZVekpWd0F0Wm9RN04tbTJvS3lIMnpUdXdJNUY0YmQ1OUhMMjhCZktoMkIteFBpUUNqT0l0azJyaWlFSk96aDNzZy1mVW1YdTVwSk9kblBvQ3VRcXgxcnpocWxMODljTGY1SlBtQnRaY1Jwc1NucjBZ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-54b1c9c8e709642a5f",
+      "date": "2026-11-27",
+      "title": "Co się dzieje wokół budowy pierwszej elektrowni jądrowej w Polsce (listopad 2026)",
+      "title_pl": "Co się dzieje wokół budowy pierwszej elektrowni jądrowej w Polsce (listopad 2026)",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEQ5WWVoZ3dXR0tCM0NsQzY0c3BWcThEbUxCTjJ2cDRyU1VaeWlTNlNfVkYtLUxfN0xvWVBWa1p3eFpENm9Talh0UVZfZlJ0SGJfOHVCbDdIVW5SQ0M5LTZaWHZzdFFiTHFaWFltVTNhS0ZHc2xjOTM1SW1lelJQQ0RzT2E1MTdhZk5zLUtUNlNPREl5NWRnLWdTSjRlN1BnRnp3TGFsa0phVi1XTnNfY1RMOTBKM1lJVWJ1MmFFRmQwR2RMNzRRUmU3ZU5VeDRFTm05NkN4eURXSnJhS1QySGxhcjh6UQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://energetyka-jadrowa.cire.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-531aef920bf5b129a5",
+      "date": "2026-11-27",
+      "title": "Zapasy węgla w Polsce o połowę mniejsze niż w 2025 r. „Zator na trasie przez Rosję nie ustępuje”",
+      "title_pl": "Zapasy węgla w Polsce o połowę mniejsze niż w 2025 r. „Zator na trasie przez Rosję nie ustępuje”",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Rzeczpospolita — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGxCN2VHelRPNS1oR2ZsdFY4cFlFcVo1OWY5MmtLdlVGSFA2S1ByY0IyZDgzSUY1VUw3WE9fM2FqaTlCTmRkVVQwMExXYlExVmwzb3ZsbmhxWkl2YmtPckRJbDlFVWx4dHFBNlNIUUJoSDk4bW9aR0FoaWV2a2VlYjVGbXhoVlhLd0lXdVNxaDJpek1uSkxfT01hR3p0VktFRElRMVNqS3h6WWVEd2NxTWp2M0NaZ2VNQU5rMVZCYmg2eVJPRVk4dw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Rzeczpospolita",
+      "publisherUrl": "https://energia.rp.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "24"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-517ecb70a22525a7f4",
+      "date": "2026-11-27",
+      "title": "Ponad 1000 rosyjskich ataków na energetykę. Tak zaczął się sezon grzewczy w Ukrainie",
+      "title_pl": "Ponad 1000 rosyjskich ataków na energetykę. Tak zaczął się sezon grzewczy w Ukrainie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHFUay1KVEFPRTh3a25nSThadUxsN1VDWHE5Z1pvQ1p5S1FMUjc4VktTTFBfalNTSWRlZjMwQUNVbkliZmlheXVmVzhqd19IN0Q4cmUydGowSGpGUXdpNmNhTDRabzZMQlY2Y0Jpd05PUVlILVo4d3lSZTBkMVc1MDZjWng1Y1JtY0tnQWJiQ2pjZUQwR0NsWkszYmRSVXEyRWxjNHV5ZTk2Z0R2U2xtOVVubGQwRlM3dUJLd3I0aElVWDRyOFE?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4f18f092a777791188",
+      "date": "2026-11-27",
+      "title": "Kolejne ataki na energetykę. Rosjanie tracą paliwa",
+      "title_pl": "Kolejne ataki na energetykę. Rosjanie tracą paliwa",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnpwaHRlUmthaENoNVlFSVFVWXhlZzBJd3pFQzZPaVN5bzVFNkVmcXVJcUxUUTRTY1ZaLVNXVm9jcEZVZkpVQ0k3SVRIZkxZMGJhVHlBREFRVXpsZVhGT21vV0lyVUtTVlJqeC1lN2hXdmpoYkNkZ3EwY2ptNE43T253TnA0NWt5aVVWdTdjazYzajN2RU0zd2hlbEExNHdwWXlMd3F3?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-4af4c00cf8ab1095d2",
+      "date": "2026-11-27",
+      "title": "Komunikaty ESPI dla ENEA[ENA]",
+      "title_pl": "Komunikaty ESPI dla ENEA[ENA]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDZaRElldHNUY2JUVXMyYWYtQlRmeG9nUXVNR1Y2ZURBNjZGUkd3a09hXzN2OU93bWFNRWR6cVByQkctQnpXWU45cjYySzZjNmFlYlNZdk9ETmNUZ2xBbUVyNF9IT1BTLTZGcFJETEJMcUtZUmxBbTZhUlB4TXBodHdMMVU2c2J4?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-495ed2c8f0b5b6b657",
+      "date": "2026-11-27",
+      "title": "ENEA rozpisała przetarg na budowę magazynu energii o pojemności co najmniej 120 MWh",
+      "title_pl": "ENEA rozpisała przetarg na budowę magazynu energii o pojemności co najmniej 120 MWh",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "CIRE.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0FnOVVJZDJpN3BobGllRlBJUHJnRFhBVXlILWlCTFFqdXhPVXIwSTVUVWd2VVlac1BNVVd2RmdZZzlfcFhIaENmTjZER2Y2UV9HYTB5dzhpdmtQamNPdUtMdU5ndS1EdXNraEdLMFFnc2M5NlRKME1SQlFENmJZdnhJRlVGV0Y3NHRwLXQxYXRRQzhDRjgxRnlHeGlDVVgtZkNBZTVfZE5KQVNHb2RBS2FGdjkzN3g2UTZWOEFHZGdYNF92V20tOXRqX2VEQzRCUjFScHNBdw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "CIRE.pl",
+      "publisherUrl": "https://www.cire.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-44c7c0c1693e6bab9f",
+      "date": "2026-11-27",
+      "title": "Tereny pod biometanownie",
+      "title_pl": "Tereny pod biometanownie",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SkZibUN1TUpiLTdPRmxVc1Q5dnQwVmdTSWxOQzlGQXJGRFkwQnpwLTdzSUNDYlFRRFN0dVFlYXZUTmw1Q2sxRHI4ZXE1UUpaZ0JxWlBmRC04U0xHSHVWTTFfTGJhcVU?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-43bd53b920a563dc3f",
+      "date": "2026-11-27",
+      "title": "Rachunki za prąd w 2027 roku mają nie wzrosnąć. Dwa ministerstwa pracują nad rozwiązaniami",
+      "title_pl": "Rachunki za prąd w 2027 roku mają nie wzrosnąć. Dwa ministerstwa pracują nad rozwiązaniami",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Resorty energii i aktywów państwowych pracują nad rozwiązaniami zmierzającymi do tego, by ceny energii dla gospodarstw domowych nie wzrosły - poinformował w czwartek wicepremier, minister finansów i gospodarki Andrzej Domański.",
+      "links": [
+        {
+          "label": "Bankier.pl — source",
+          "url": "https://www.bankier.pl/wiadomosc/Rachunki-za-prad-w-2027-roku-maja-nie-wzrosnac-Dwa-ministerstwa-pracuja-nad-rozwiazaniami-9235964.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Bankier.pl",
+      "publisherUrl": "https://www.bankier.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "27"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-3da4445c271b03e40a",
+      "date": "2026-11-27",
+      "title": "Komunikaty ESPI dla PGE[PGE]",
+      "title_pl": "Komunikaty ESPI dla PGE[PGE]",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2t5MnVEdnFqZUptd21jQWNpcDEzUlhMRjNWdlpCa003SFIwM0dVUUlVZFRnRXRlRmY1UV9Idm40aUY3X3RnRXBEb3pEbmktaHM3TUJMOFU2d3R4VFJINjlVSUEyTVRVNXB0ZlFReTV4QVRIMVlSX1Y3ckNmSWRIUHFsWkVIeF9Z?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "PGE"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-3782f39e84ed7627aa",
+      "date": "2026-11-27",
+      "title": "Sny mogą się spełnić. Łódź i OSGE podpisały porozumienie ws. reaktorów SMR",
+      "title_pl": "Sny mogą się spełnić. Łódź i OSGE podpisały porozumienie ws. reaktorów SMR",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTy1IT2lydWhUTU1vMzJldjJHV3FWaTFvVmJpNVNyNkhpSl9SNEdJUmwwMG8xQzZHUzJUdVdrVUN1bXMwdzQxbGNvaGdyZVN0aFFUc0NWZVV6eUFEUnlQY3UxaFhuOHFrY2szOG5zSFVMTGR5STRzYWhjOXVSanc5LWdXNm5ZNWpOaUlkUXd0bzFCYUxtSlhuZmVaekhlYUdwRDA2cXRCMS1uRnl1cC16dWpvYw?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-31a28cd36443c03a19",
+      "date": "2026-11-27",
+      "title": "Od gazu po metale ziem rzadkich. Jak Polska buduje bezpieczeństwo surowcowe w 2026 roku?",
+      "title_pl": "Od gazu po metale ziem rzadkich. Jak Polska buduje bezpieczeństwo surowcowe w 2026 roku?",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Energetyka24 — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRWVObkk3NGFDSDUzbm9ZNlRhZS1pUS1GOUo5b2swc25tR2hIY0ZYQzVhdTlmb2VUVkNDcm5pdFdXRmZjWmFDSW9fOWNyNGNrTGwxVXFPcE5nODFHU2pKTUhkWlFZX3FoVWhHVTd5T1JKNGtGNXVtYmY0V3pFRTlpZHhtSjZJeXB0WkNHTmRlVHVDU1JVT1hhdTVXODgxRDV0SzNWZjJRQThIWWlJWmVHelJkY29MR0FkVmtpeXVNcHg?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Energetyka24",
+      "publisherUrl": "https://energetyka24.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "20"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
       "id": "src-2ab5f6f7ff9160e862",
       "date": "2026-11-27",
       "title": "Klimatyzator zamiast centralnego ogrzewania? Kiedy pompa ciepła powietrze-powietrze ma sens",
@@ -72,6 +1377,151 @@
         {
           "label": "Gramwzielone.pl — Google News discovery",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkFGY21wMFNqU1B0SVpaSl9IeUozOURtZmpfQWRFR3lfaHJoTFp1ZGhjRmpva0loOTJxZkE3dVVSZmhIUFJGdnNNNDJFNFM3SWxmWUQyOVg4ajQtcjAyVG1hTTIySEhJaTItdFVsTTVKREliTlJ3eGUzYV9ZaWlOZUh3N1htVlBTN1hqcEp0T2trREFaeERIamF1MXIxa2ZibEhYTl80X1luWWs4cnZqc01pVndWMEZCc3cxdlRkUzVoNlZuZ0wxUW1MS1NsU0NpZ0JvaGs3MA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-26e65a24173def1365",
+      "date": "2026-11-27",
+      "title": "Enea: Marek Lelątko odwołany z funkcji członka zarządu ds. finansowych",
+      "title_pl": "Enea: Marek Lelątko odwołany z funkcji członka zarządu ds. finansowych",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGlGVzdyY2w2Q1c0eVYyaUlGZVV1TThYTlVYS0ppSnVCUzBSdFY3YlQ1N2lVb3dRRWtyMjFvTV9kd1RIUTYwSUxCRUhpQ0dTcDdNWkdvNl9ZSWpVMzNFbmlOZmpNbldrNXE4LXFhcmMyZXprelcxSGpHSVkxQzk2YjZ5Q0IyS0RfWkFnSWU5djNUcGlEeFgtRWdSNkdPeDA5YWsxMkVRcFduQQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ENEA"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-19a80da40dc66bae7a",
+      "date": "2026-11-27",
+      "title": "Zaczęła się rozgrywka o podziemne magazyny gazu w Polsce",
+      "title_pl": "Zaczęła się rozgrywka o podziemne magazyny gazu w Polsce",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Najtrwalsze są prowizorki Pod koniec 2010 r. Zarząd PGNiG powołał spółkę - Operator Systemu Magazynowania. Musiał to zrobić ze względu na unijne przepisy, które zobowiązywały podmioty gazownicze zintegrowane pionowo (posiadające wydobycie, obrót, magazynowanie, przesył czy dystrybucję gazu ziemnego) do wyodrębniania takich działalności i powołania operatorów…",
+      "links": [
+        {
+          "label": "WysokieNapięcie.pl — source",
+          "url": "https://wysokienapiecie.pl/123099-zaczela-sie-rozgrywka-o-podziemne-magazyny-gazu-w-polsce/",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ORLEN"
+      ],
+      "publisher": "WysokieNapięcie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
+      ],
+      "discoveryMethod": "rss",
+      "evidenceLevel": "publisher_feed"
+    },
+    {
+      "id": "src-0de676747ae2438fb9",
+      "date": "2026-11-27",
+      "title": "Warsaw grid operator adds distributed batteries to curb rooftop solar voltage spikes",
+      "title_pl": "",
+      "lang": "en",
+      "translated": false,
+      "translationStatus": "not_required",
+      "summary": "Indexed headline; open the publisher article for full details.",
+      "links": [
+        {
+          "label": "ESS News — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMS1BZUREdTZIZVA5b0pGZ3RQaU9yWlJtejBMYWV2dXJIVWc5QWhlTUllaVZ6RUIxckhvdVBnUnVOM2JXRnJUcFB2VDJrWmYtTC1hVi1aMnNTRzZEZHZDYmxFbWtKekczZ3IzQ245RVl3bTQzc3VEZVlTV1dJbExMRHRfa2QxRkp5N0FYUGg1RXJMVFFMOEdxdWhHbG5MZ19tZHIwYTktbUFWWllFamxDS2VGcFF2MkNLYUxuQnRB?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "ESS News",
+      "publisherUrl": "https://www.ess-news.com",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "37"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0a5e50964ef4924a2b",
+      "date": "2026-11-27",
+      "title": "Strona 2596 z 2612 - Wiadomości z rynku energii odnawialnej",
+      "title_pl": "Strona 2596 z 2612 - Wiadomości z rynku energii odnawialnej",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zc18tSDJXNmVmMzNPNTFPSGZZWU1OQmVzbHVlWlUtZThkVFZvYVk1TnctUFRJWlpRY0tDVktVZ2o4UnROU0pBeW9sTFBoTzgzN2FPZzR4Z3NzSW5Dal9pMQ?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "Gramwzielone.pl",
+      "publisherUrl": "https://www.gramwzielone.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "22"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-0102a6e8ecec862b5b",
+      "date": "2026-11-27",
+      "title": "25 lat energetyki wiatrowej w Polsce. Od małych wiatraków do gigantycznych turbin",
+      "title_pl": "25 lat energetyki wiatrowej w Polsce. Od małych wiatraków do gigantycznych turbin",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "Gramwzielone.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnVRN0s1QTE2dlRfME1URlFFMWFWVDVOTV9zcy1zamhISzN5dVg5ajVfTnhmOUZEZjIxamdXbkdNM090am1jVzFNTy04a3ZhQkVkTGotMTdrWEVMOTVYdC1ETGtxVHRGcndHRi1RaF9abV9tcDF4OV9kUTVkdzRtLVdBUzZMbzZKMmJaeGpkdE5xUlF5MFg2M1hQMkJtaF9weXBDS2d0SzltWlo2clVlcjZ1bWp3RjlpaFE?oc=5",
           "type": "press"
         }
       ],
@@ -676,11 +2126,11 @@
       "lang": "en",
       "translated": false,
       "translationStatus": "not_required",
-      "summary": "ONDE Germany, the Düsseldorf subsidiary of the Polish renewables contractor, will bid for large PV projects and take on solar, storage and infrastructure work after securing 20 wind turbine foundation contracts in its first year. The post Poland’s ONDE expands German business from wind into…",
+      "summary": "Indexed headline; open the publisher article for full details.",
       "links": [
         {
-          "label": "Baltic Wind — source",
-          "url": "https://balticwind.eu/polands-onde-expands-german-business-from-wind-into-solar-and-battery-storage/",
+          "label": "Baltic Wind — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWUydnM5NXFWa2NweHlOTjY4c0dkSWpWdXFIcFpWUDg0dUdiUy1OQm91MU1ZVW1xendGenVMT2xvYlhLZ05DbEQ3cWtRcG9XS1hfbTFkOXh5THVZVmFVVEwtc1hKeFJjUUVtb2Nnd1k3c3hzQUs5V0h1VjR1N1piZXdBc1dHMHBfbDVrSG9nUW1OTlNDWnQ3eUpoRlJCZVMtZXc?oc=5",
           "type": "official"
         }
       ],
@@ -688,14 +2138,43 @@
         "ALL"
       ],
       "publisher": "Baltic Wind",
-      "publisherUrl": "https://balticwind.eu/",
+      "publisherUrl": "https://balticwind.eu",
       "region": "National",
       "reviewed": false,
       "sourceIds": [
         "72"
       ],
-      "discoveryMethod": "rss",
-      "evidenceLevel": "publisher_feed"
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-c12ab8b3c9a530ebdb",
+      "date": "2026-11-26",
+      "title": "Tauron odda trzy elektrociepłownie. Przejmie je światowy potentat",
+      "title_pl": "Tauron odda trzy elektrociepłownie. Przejmie je światowy potentat",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "wnp.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVJud1Z2SVJoelUweU9Gc2lobUwxTWE1RERRZkxmV2g1dDVxbDR0VjRPMTU5VmFDcGE2U180c2tpeGp5MjZpc3ZxM0dWSjhJNkVTem9TNHYyZWRldXNFVGs5UEkwdXN2UjdlZklaV0lNTGRNRERIVkVDSk9kdmRBVjhUZmpxSG1WYWlHYTdUOF9FN3FJREtvR1pJeEFjQ2s5dllwdV82MA?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "TAURON"
+      ],
+      "publisher": "wnp.pl",
+      "publisherUrl": "https://www.wnp.pl",
+      "region": "National",
+      "reviewed": false,
+      "sourceIds": [
+        "18"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
     },
     {
       "id": "src-bbfe1b4c5e720ef686",
@@ -1156,6 +2635,7 @@
       "region": "National",
       "reviewed": false,
       "sourceIds": [
+        "18",
         "53"
       ],
       "discoveryMethod": "google",
@@ -5510,6 +6990,35 @@
       "reviewed": false,
       "sourceIds": [
         "23"
+      ],
+      "discoveryMethod": "google",
+      "evidenceLevel": "indexed_headline"
+    },
+    {
+      "id": "src-1240e5f671afd1443e",
+      "date": "2026-11-25",
+      "title": "Columbus Energy S.A., Author at WysokieNapiecie.pl",
+      "title_pl": "Columbus Energy S.A., Author at WysokieNapiecie.pl",
+      "lang": "pl",
+      "translated": false,
+      "translationStatus": "original_polish",
+      "summary": "Polish original headline; English translation is not available.",
+      "links": [
+        {
+          "label": "WysokieNapiecie.pl — Google News discovery",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMDI5R2NIOFZGd1MzelBoX3VfaDRVRlRMVnQ0MFYycUhWREJCaVdCSnY3b05UUzBaRl9fWTJ5MmFxLUN1NzBqbTBPNDZfT3ltU1dOdTZ1Rm9Td2FiS1liWFlmTWNCY2M1?oc=5",
+          "type": "press"
+        }
+      ],
+      "cos": [
+        "ALL"
+      ],
+      "publisher": "WysokieNapiecie.pl",
+      "publisherUrl": "https://wysokienapiecie.pl",
+      "region": "Unspecified / Poland-focused source",
+      "reviewed": false,
+      "sourceIds": [
+        "19"
       ],
       "discoveryMethod": "google",
       "evidenceLevel": "indexed_headline"
